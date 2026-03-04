@@ -20,14 +20,17 @@ jobs:
           distribution: temurin
           java-version: 17
 
+      - name: Enter project folder
+        run: cd AuryxBrowser
+
       - name: Grant permission for gradlew
-        run: chmod +x ./gradlew
+        run: chmod +x AuryxBrowser/gradlew
 
       - name: Build Release APK
-        run: ./gradlew assembleRelease
+        run: cd AuryxBrowser && ./gradlew assembleRelease
 
       - name: Upload Release APK
         uses: actions/upload-artifact@v4
         with:
           name: AuryxBrowser-release
-          path: app/build/outputs/apk/release/app-release.apk
+          path: AuryxBrowser/app/build/outputs/apk/release/app-release.apk
