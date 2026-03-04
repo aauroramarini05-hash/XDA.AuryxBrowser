@@ -14,23 +14,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up JDK 17
+      - name: Setup JDK 17
         uses: actions/setup-java@v4
         with:
           distribution: temurin
           java-version: 17
 
-      - name: Enter project folder
-        run: cd AuryxBrowser
-
-      - name: Grant permission for gradlew
+      - name: Give gradlew permission
         run: chmod +x AuryxBrowser/gradlew
 
       - name: Build Release APK
-        run: cd AuryxBrowser && ./gradlew assembleRelease
+        run: |
+          cd AuryxBrowser
+          ./gradlew assembleRelease
 
       - name: Upload Release APK
         uses: actions/upload-artifact@v4
         with:
           name: AuryxBrowser-release
-          path: AuryxBrowser/app/build/outputs/apk/release/app-release.apk
+          path: AuryxBrowser/app/build/outputs/apk/release/*.apk
