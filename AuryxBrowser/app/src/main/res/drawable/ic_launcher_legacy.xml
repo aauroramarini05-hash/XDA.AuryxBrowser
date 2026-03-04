@@ -1,0 +1,13 @@
+<!-- Legacy launcher icon placeholder for older devices -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M24,0C37.25,0 48,10.75 48,24C48,37.25 37.25,48 24,48C10.75,48 0,37.25 0,24C0,10.75 10.75,0 24,0Z"/>
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M24,8L38,40L32,40L28,30L20,30L16,40L10,40L24,8ZM26,24L24,16L22,24L26,24Z"/>
+</vector>

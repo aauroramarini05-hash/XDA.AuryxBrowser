@@ -1,0 +1,30 @@
+#!/bin/sh
+
+#
+# Gradle wrapper script for Unix-like systems
+#
+
+# Determine the Java command to use
+if [ -n "$JAVA_HOME" ] ; then
+    JAVACMD="$JAVA_HOME/bin/java"
+else
+    JAVACMD="java"
+fi
+
+# Increase maximum heap size
+DEFAULT_JVM_OPTS='"-Xmx2048m" "-Xms256m"'
+
+APP_HOME=$(cd "$(dirname "$0")" && pwd)
+APP_NAME="Gradle"
+APP_BASE_NAME=$(basename "$0")
+GRADLE_WRAPPER_JAR="$APP_HOME/gradle/wrapper/gradle-wrapper.jar"
+GRADLE_WRAPPER_PROPERTIES="$APP_HOME/gradle/wrapper/gradle-wrapper.properties"
+
+# Download gradle wrapper if not present
+if [ ! -f "$GRADLE_WRAPPER_JAR" ]; then
+    echo "Downloading Gradle Wrapper..."
+    mkdir -p "$APP_HOME/gradle/wrapper"
+    curl -sL -o "$GRADLE_WRAPPER_JAR" "https://raw.githubusercontent.com/gradle/gradle/master/gradle/wrapper/gradle-wrapper.jar"
+fi
+
+exec "$JAVACMD" $DEFAULT_JVM_OPTS -jar "$GRADLE_WRAPPER_JAR" "$@"

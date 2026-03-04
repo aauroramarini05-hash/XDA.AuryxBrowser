@@ -1,0 +1,70 @@
+<!-- AuryxBrowser Logo - Stylized A with circuit lines -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M60,10 C87.6,10 110,32.4 110,60 C110,87.6 87.6,110 60,110 C32.4,110 10,87.6 10,60 C10,32.4 32.4,10 60,10 Z"/>
+    
+    <!-- Outer glow ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#39FF14"
+        android:strokeWidth="1.5"
+        android:pathData="M60,15 C84.8,15 105,35.2 105,60 C105,84.8 84.8,105 60,105 C35.2,105 15,84.8 15,60 C15,35.2 35.2,15 60,15 Z"/>
+    
+    <!-- Main A shape -->
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M60,25 L85,90 L77,90 L70,72 L50,72 L43,90 L35,90 L60,25 Z M65,62 L60,45 L55,62 L65,62 Z"/>
+    
+    <!-- Circuit line left -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#39FF14"
+        android:strokeWidth="2"
+        android:pathData="M25,60 L35,60 L40,55 L45,55"/>
+    
+    <!-- Circuit dot left -->
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M23,60 C23,58.34 24.34,57 26,57 C27.66,57 29,58.34 29,60 C29,61.66 27.66,63 26,63 C24.34,63 23,61.66 23,60 Z"/>
+    
+    <!-- Circuit line right -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#39FF14"
+        android:strokeWidth="2"
+        android:pathData="M95,60 L85,60 L80,55 L75,55"/>
+    
+    <!-- Circuit dot right -->
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M91,60 C91,58.34 92.34,57 94,57 C95.66,57 97,58.34 97,60 C97,61.66 95.66,63 94,63 C92.34,63 91,61.66 91,60 Z"/>
+    
+    <!-- Circuit line top -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#39FF14"
+        android:strokeWidth="2"
+        android:pathData="M60,20 L60,28"/>
+    
+    <!-- Circuit dot top -->
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M57,17 C57,15.34 58.34,14 60,14 C61.66,14 63,15.34 63,17 C63,18.66 61.66,20 60,20 C58.34,20 57,18.66 57,17 Z"/>
+    
+    <!-- Small decorative circuit nodes -->
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M38,82 C38,80.9 38.9,80 40,80 C41.1,80 42,80.9 42,82 C42,83.1 41.1,84 40,84 C38.9,84 38,83.1 38,82 Z"/>
+    
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M78,82 C78,80.9 78.9,80 80,80 C81.1,80 82,80.9 82,82 C82,83.1 81.1,84 80,84 C78.9,84 78,83.1 78,82 Z"/>
+    
+</vector>
