@@ -175,7 +175,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Search Engine"
+                    android:text="@string/settings_search_engine"
                     android:textColor="@color/text_primary"
                     android:textSize="16sp" />
 
@@ -184,6 +184,60 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="DuckDuckGo"
+                    android:textColor="@color/neon_green"
+                    android:textSize="13sp" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/ic_arrow_right"
+                app:tint="@color/text_hint" />
+
+        </LinearLayout>
+
+        <!-- General Settings Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_general"
+            android:textColor="@color/neon_green"
+            android:textSize="12sp"
+            android:letterSpacing="0.1"
+            android:paddingHorizontal="16dp"
+            android:paddingTop="24dp"
+            android:paddingBottom="8dp" />
+
+        <!-- Language Selection -->
+        <LinearLayout
+            android:id="@+id/layoutLanguage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="12dp"
+            android:background="?attr/selectableItemBackground">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/settings_language"
+                    android:textColor="@color/text_primary"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tvCurrentLanguage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="English"
                     android:textColor="@color/neon_green"
                     android:textSize="13sp" />
 
@@ -292,7 +346,7 @@
                 android:id="@+id/tvVersion"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="1.305.01"
+                android:text="1.305.02"
                 android:textColor="@color/text_secondary"
                 android:textSize="16sp" />
 
@@ -322,6 +376,21 @@
                 android:textSize="16sp" />
 
         </LinearLayout>
+
+        <!-- Check for Updates Button -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnCheckUpdates"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Check for Updates"
+            android:textColor="@color/background_dark"
+            app:backgroundTint="@color/neon_green"
+            app:cornerRadius="12dp"
+            app:icon="@drawable/ic_update"
+            app:iconGravity="textStart"
+            app:iconTint="@color/background_dark" />
 
     </LinearLayout>
 

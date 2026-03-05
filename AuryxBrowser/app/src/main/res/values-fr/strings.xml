@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuryxBrowser</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_bookmarks">Favoris</string>
+    <string name="nav_history">Historique</string>
+    <string name="nav_tools">Outils</string>
+    <string name="nav_settings">Paramètres</string>
+    
+    <!-- Home Screen -->
+    <string name="home_tagline">Rapide. Privé. Puissant.</string>
+    <string name="search_hint">Rechercher ou entrer une URL</string>
+    <string name="search_web_hint">Rechercher sur le web</string>
+    <string name="quick_access">Accès Rapide</string>
+    
+    <!-- Browser Menu -->
+    <string name="menu_new_tab">Nouvel onglet</string>
+    <string name="menu_add_bookmark">Ajouter aux favoris</string>
+    <string name="menu_downloads">Téléchargements</string>
+    <string name="menu_desktop_mode">Mode bureau</string>
+    <string name="menu_find_in_page">Rechercher dans la page</string>
+    <string name="menu_page_info">Info page</string>
+    <string name="menu_share">Partager</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_browser">NAVIGATEUR</string>
+    <string name="settings_javascript">JavaScript</string>
+    <string name="settings_javascript_desc">Activer l\'exécution JavaScript</string>
+    <string name="settings_popups">Pop-ups</string>
+    <string name="settings_popups_desc">Autoriser les fenêtres pop-up</string>
+    <string name="settings_desktop_mode">Mode Bureau</string>
+    <string name="settings_desktop_mode_desc">Demander la version bureau des sites</string>
+    <string name="settings_search_engine">Moteur de recherche</string>
+    <string name="settings_select_search_engine">Sélectionner le moteur de recherche</string>
+    
+    <string name="settings_general">GÉNÉRAL</string>
+    <string name="settings_language">Langue</string>
+    <string name="settings_language_desc">Changer la langue de l\'application</string>
+    <string name="settings_select_language">Sélectionner la langue</string>
+    
+    <string name="settings_privacy">CONFIDENTIALITÉ</string>
+    <string name="settings_clear_cache">Vider le cache</string>
+    <string name="settings_clear_cache_desc">Supprimer les données en cache</string>
+    <string name="settings_clear_cache_confirm">Vider toutes les données en cache ?</string>
+    <string name="settings_cache_cleared">Cache vidé</string>
+    <string name="settings_clear_history">Effacer l\'historique</string>
+    <string name="settings_clear_history_desc">Supprimer l\'historique de navigation</string>
+    <string name="settings_clear_history_confirm">Effacer tout l\'historique ?</string>
+    <string name="settings_history_cleared">Historique effacé</string>
+    
+    <string name="settings_about">À PROPOS</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_author">Auteur</string>
+    <string name="settings_check_updates">Vérifier les mises à jour</string>
+    <string name="settings_checking_updates">Vérification des mises à jour…</string>
+    <string name="settings_up_to_date">À jour</string>
+    <string name="settings_up_to_date_msg">Vous avez la dernière version (%s)</string>
+    <string name="settings_update_available">Mise à jour disponible</string>
+    <string name="settings_update_available_msg">Une nouvelle version d\'AuryxBrowser est disponible.\n\nActuelle : %1$s\nDernière : %2$s</string>
+    <string name="settings_download_update">Télécharger la mise à jour</string>
+    
+    <!-- Bookmarks -->
+    <string name="bookmarks_title">Favoris</string>
+    <string name="bookmarks_empty">Aucun favori</string>
+    <string name="bookmark_added">Favori ajouté</string>
+    <string name="bookmark_exists">Déjà dans les favoris</string>
+    <string name="bookmark_cannot">Impossible d\'ajouter cette page</string>
+    
+    <!-- History -->
+    <string name="history_title">Historique</string>
+    <string name="history_empty">Aucun historique</string>
+    <string name="history_clear">Effacer</string>
+    
+    <!-- Downloads -->
+    <string name="downloads_title">Téléchargements</string>
+    <string name="downloads_empty">Aucun téléchargement</string>
+    <string name="download_started">Téléchargement démarré : %s</string>
+    <string name="download_failed">Échec du téléchargement</string>
+    <string name="download_completed">Terminé</string>
+    <string name="download_downloading">Téléchargement…</string>
+    <string name="download_pending">En attente</string>
+    <string name="download_cancelled">Annulé</string>
+    
+    <!-- Tabs -->
+    <string name="tabs_title">Onglets</string>
+    <string name="tabs_count">%d onglets</string>
+    <string name="tab_new">Nouvel onglet</string>
+    <string name="tab_opened_new">Ouvert dans un nouvel onglet</string>
+    
+    <!-- Tools -->
+    <string name="tools_title">AuryxTools</string>
+    <string name="tools_subtitle">Utilitaires intégrés pour utilisateurs avancés</string>
+    <string name="tool_network_monitor">Moniteur réseau</string>
+    <string name="tool_network_monitor_desc">IP, type de connexion, latence</string>
+    <string name="tool_device_info">Info appareil</string>
+    <string name="tool_device_info_desc">Modèle, CPU, RAM, Android</string>
+    <string name="tool_performance">Moniteur de performance</string>
+    <string name="tool_performance_desc">Utilisation CPU et RAM en temps réel</string>
+    <string name="tool_page_info">Info page</string>
+    <string name="tool_page_info_desc">URL, HTTPS, temps de chargement</string>
+    <string name="tool_assistant">Assistant Auryx</string>
+    <string name="tool_assistant_desc">Assistant navigateur local</string>
+    
+    <!-- Network Monitor -->
+    <string name="network_title">Moniteur Réseau</string>
+    <string name="network_public_ip">IP Publique</string>
+    <string name="network_connection_type">Type de connexion</string>
+    <string name="network_latency">Latence</string>
+    <string name="network_state">État du réseau</string>
+    <string name="network_loading">Chargement…</string>
+    <string name="network_checking">Vérification…</string>
+    <string name="network_measuring">Mesure…</string>
+    <string name="network_offline">Hors ligne</string>
+    <string name="network_connected">Connecté</string>
+    <string name="network_disconnected">Déconnecté</string>
+    
+    <!-- Device Info -->
+    <string name="device_title">Info Appareil</string>
+    <string name="device_model">Modèle</string>
+    <string name="device_manufacturer">Fabricant</string>
+    <string name="device_cpu">Architecture CPU</string>
+    <string name="device_ram">RAM Totale</string>
+    <string name="device_android">Version Android</string>
+    <string name="device_battery">Niveau de batterie</string>
+    
+    <!-- Performance -->
+    <string name="performance_title">Moniteur de Performance</string>
+    <string name="performance_subtitle">Statistiques système en temps réel</string>
+    <string name="performance_ram_usage">Utilisation RAM</string>
+    <string name="performance_ram_used">%s Mo utilisés</string>
+    <string name="performance_ram_available">%s Mo disponibles</string>
+    <string name="performance_cpu_usage">Utilisation CPU</string>
+    
+    <!-- Page Info -->
+    <string name="page_info_title">Info Page</string>
+    <string name="page_info_url">URL</string>
+    <string name="page_info_page_title">Titre de la page</string>
+    <string name="page_info_security">Sécurité</string>
+    <string name="page_info_secure">Sécurisé (HTTPS)</string>
+    <string name="page_info_not_secure">Non sécurisé (HTTP)</string>
+    <string name="page_info_load_time">Temps de chargement</string>
+    <string name="page_info_user_agent">User Agent</string>
+    <string name="page_info_no_page">Aucune page chargée</string>
+    
+    <!-- Assistant -->
+    <string name="assistant_title">Assistant Auryx</string>
+    <string name="assistant_subtitle">Votre assistant navigateur local</string>
+    <string name="assistant_hint">Posez-moi une question…</string>
+    <string name="assistant_open_site">Ouvrir un site</string>
+    <string name="assistant_search">Rechercher</string>
+    <string name="assistant_help">Aide</string>
+    
+    <!-- Find in Page -->
+    <string name="find_title">Rechercher dans la page</string>
+    <string name="find_hint">Rechercher du texte…</string>
+    <string name="find_matches">%d correspondances</string>
+    <string name="find_no_matches">Aucune correspondance</string>
+    <string name="find_match_count">%1$d sur %2$d</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="clear">Effacer</string>
+    <string name="close">Fermer</string>
+    <string name="refresh">Actualiser</string>
+    <string name="share">Partager</string>
+    <string name="delete">Supprimer</string>
+    <string name="open">Ouvrir</string>
+    <string name="previous">Précédent</string>
+    <string name="next">Suivant</string>
+    <string name="link_copied">Lien copié</string>
+    <string name="cannot_open">Impossible d\'ouvrir le lien</string>
+    <string name="file_not_found">Fichier non trouvé</string>
+    <string name="cannot_open_file">Impossible d\'ouvrir le fichier</string>
+    <string name="share_via">Partager via</string>
+    
+    <!-- Languages -->
+    <string name="lang_english">English</string>
+    <string name="lang_italian">Italiano</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="language_changed">Langue changée. Redémarrez pour l\'effet complet.</string>
+</resources>

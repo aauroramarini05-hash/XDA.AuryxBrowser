@@ -1,213 +1,344 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="@color/background_dark">
 
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="AuryxTools"
-        android:textColor="@color/text_primary"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        android:padding="16dp" />
+        android:orientation="vertical"
+        android:paddingBottom="100dp">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Built-in utilities for power users"
-        android:textColor="@color/text_secondary"
-        android:textSize="14sp"
-        android:paddingHorizontal="16dp"
-        android:paddingBottom="16dp" />
-
-    <!-- Network Monitor Card -->
-    <com.google.android.material.card.MaterialCardView
-        android:id="@+id/cardNetworkMonitor"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginHorizontal="16dp"
-        android:layout_marginBottom="12dp"
-        app:cardBackgroundColor="@color/surface_dark"
-        app:cardCornerRadius="16dp"
-        app:cardElevation="0dp"
-        app:strokeColor="@color/surface_elevated"
-        app:strokeWidth="1dp">
-
-        <LinearLayout
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:padding="16dp"
-            android:gravity="center_vertical">
+            android:text="AuryxTools"
+            android:textColor="@color/text_primary"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:padding="16dp" />
 
-            <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
-                android:src="@drawable/ic_network"
-                android:padding="8dp"
-                android:background="@drawable/bg_icon_circle"
-                app:tint="@color/neon_green" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Built-in utilities for power users"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            android:paddingHorizontal="16dp"
+            android:paddingBottom="16dp" />
+
+        <!-- Network Monitor Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardNetworkMonitor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginBottom="12dp"
+            app:cardBackgroundColor="@color/surface_dark"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="0dp"
+            app:strokeColor="@color/surface_elevated"
+            app:strokeWidth="1dp">
 
             <LinearLayout
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:layout_marginStart="16dp"
-                android:orientation="vertical">
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:gravity="center_vertical">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Network Monitor"
-                    android:textColor="@color/text_primary"
-                    android:textSize="16sp"
-                    android:textStyle="bold" />
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_network"
+                    android:padding="8dp"
+                    android:background="@drawable/bg_icon_circle"
+                    app:tint="@color/neon_green" />
 
-                <TextView
-                    android:layout_width="wrap_content"
+                <LinearLayout
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="IP, connection type, latency"
-                    android:textColor="@color/text_secondary"
-                    android:textSize="13sp" />
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Network Monitor"
+                        android:textColor="@color/text_primary"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="IP, connection type, latency"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="13sp" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_arrow_right"
+                    app:tint="@color/text_hint" />
 
             </LinearLayout>
 
-            <ImageView
-                android:layout_width="24dp"
-                android:layout_height="24dp"
-                android:src="@drawable/ic_arrow_right"
-                app:tint="@color/text_hint" />
+        </com.google.android.material.card.MaterialCardView>
 
-        </LinearLayout>
-
-    </com.google.android.material.card.MaterialCardView>
-
-    <!-- Device Info Card -->
-    <com.google.android.material.card.MaterialCardView
-        android:id="@+id/cardDeviceInfo"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginHorizontal="16dp"
-        android:layout_marginBottom="12dp"
-        app:cardBackgroundColor="@color/surface_dark"
-        app:cardCornerRadius="16dp"
-        app:cardElevation="0dp"
-        app:strokeColor="@color/surface_elevated"
-        app:strokeWidth="1dp">
-
-        <LinearLayout
+        <!-- Device Info Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardDeviceInfo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:padding="16dp"
-            android:gravity="center_vertical">
-
-            <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
-                android:src="@drawable/ic_device"
-                android:padding="8dp"
-                android:background="@drawable/bg_icon_circle"
-                app:tint="@color/neon_green" />
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginBottom="12dp"
+            app:cardBackgroundColor="@color/surface_dark"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="0dp"
+            app:strokeColor="@color/surface_elevated"
+            app:strokeWidth="1dp">
 
             <LinearLayout
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:layout_marginStart="16dp"
-                android:orientation="vertical">
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:gravity="center_vertical">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Device Information"
-                    android:textColor="@color/text_primary"
-                    android:textSize="16sp"
-                    android:textStyle="bold" />
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_device"
+                    android:padding="8dp"
+                    android:background="@drawable/bg_icon_circle"
+                    app:tint="@color/neon_green" />
 
-                <TextView
-                    android:layout_width="wrap_content"
+                <LinearLayout
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="Model, CPU, RAM, Android"
-                    android:textColor="@color/text_secondary"
-                    android:textSize="13sp" />
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Device Information"
+                        android:textColor="@color/text_primary"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Model, CPU, RAM, Android"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="13sp" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_arrow_right"
+                    app:tint="@color/text_hint" />
 
             </LinearLayout>
 
-            <ImageView
-                android:layout_width="24dp"
-                android:layout_height="24dp"
-                android:src="@drawable/ic_arrow_right"
-                app:tint="@color/text_hint" />
+        </com.google.android.material.card.MaterialCardView>
 
-        </LinearLayout>
-
-    </com.google.android.material.card.MaterialCardView>
-
-    <!-- Performance Monitor Card -->
-    <com.google.android.material.card.MaterialCardView
-        android:id="@+id/cardPerformance"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginHorizontal="16dp"
-        android:layout_marginBottom="12dp"
-        app:cardBackgroundColor="@color/surface_dark"
-        app:cardCornerRadius="16dp"
-        app:cardElevation="0dp"
-        app:strokeColor="@color/surface_elevated"
-        app:strokeWidth="1dp">
-
-        <LinearLayout
+        <!-- Performance Monitor Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardPerformance"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:padding="16dp"
-            android:gravity="center_vertical">
-
-            <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
-                android:src="@drawable/ic_performance"
-                android:padding="8dp"
-                android:background="@drawable/bg_icon_circle"
-                app:tint="@color/neon_green" />
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginBottom="12dp"
+            app:cardBackgroundColor="@color/surface_dark"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="0dp"
+            app:strokeColor="@color/surface_elevated"
+            app:strokeWidth="1dp">
 
             <LinearLayout
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:layout_marginStart="16dp"
-                android:orientation="vertical">
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:gravity="center_vertical">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Performance Monitor"
-                    android:textColor="@color/text_primary"
-                    android:textSize="16sp"
-                    android:textStyle="bold" />
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_performance"
+                    android:padding="8dp"
+                    android:background="@drawable/bg_icon_circle"
+                    app:tint="@color/neon_green" />
 
-                <TextView
-                    android:layout_width="wrap_content"
+                <LinearLayout
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="Real-time CPU &amp; RAM usage"
-                    android:textColor="@color/text_secondary"
-                    android:textSize="13sp" />
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Performance Monitor"
+                        android:textColor="@color/text_primary"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Real-time CPU &amp; RAM usage"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="13sp" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_arrow_right"
+                    app:tint="@color/text_hint" />
 
             </LinearLayout>
 
-            <ImageView
-                android:layout_width="24dp"
-                android:layout_height="24dp"
-                android:src="@drawable/ic_arrow_right"
-                app:tint="@color/text_hint" />
+        </com.google.android.material.card.MaterialCardView>
 
-        </LinearLayout>
+        <!-- Page Info Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardPageInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginBottom="12dp"
+            app:cardBackgroundColor="@color/surface_dark"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="0dp"
+            app:strokeColor="@color/surface_elevated"
+            app:strokeWidth="1dp">
 
-    </com.google.android.material.card.MaterialCardView>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:gravity="center_vertical">
 
-</LinearLayout>
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_page_info"
+                    android:padding="8dp"
+                    android:background="@drawable/bg_icon_circle"
+                    app:tint="@color/neon_green" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Page Info"
+                        android:textColor="@color/text_primary"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="URL, HTTPS, load time, user agent"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="13sp" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_arrow_right"
+                    app:tint="@color/text_hint" />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- Auryx Assistant Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardAssistant"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginBottom="12dp"
+            app:cardBackgroundColor="@color/surface_dark"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="0dp"
+            app:strokeColor="@color/neon_green_dim"
+            app:strokeWidth="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_assistant"
+                    android:padding="8dp"
+                    android:background="@drawable/bg_icon_circle"
+                    app:tint="@color/neon_green" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Auryx Assistant"
+                        android:textColor="@color/neon_green"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Local browser helper &amp; commands"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="13sp" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_arrow_right"
+                    app:tint="@color/text_hint" />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </LinearLayout>
+
+</ScrollView>
