@@ -1,8 +1,6 @@
 package com.xdustatom.auryxbrowser.models
 
 import android.graphics.Bitmap
-import android.os.Parcelable
-import kotlinx.parcelize.Parcelize
 import java.util.UUID
 
 data class Tab(
