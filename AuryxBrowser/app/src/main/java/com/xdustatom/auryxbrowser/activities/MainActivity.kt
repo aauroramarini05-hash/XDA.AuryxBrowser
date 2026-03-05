@@ -23,10 +23,12 @@ import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.EditText
+import android.widget.ImageButton
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.PopupMenu
 import androidx.appcompat.widget.Toolbar
 import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
@@ -43,18 +45,12 @@ import kotlin.concurrent.thread
  * AuryxBrowser MainActivity (v1.305.02)
  *
  * EXPECTED IDs (activity_main.xml):
- * - Toolbar: toolbar
+ * - Toolbar: toolbar (can be invisible; used for menu/supportActionBar)
  * - WebView: webView
  * - URL bar (EditText): urlBar
  * - BottomNavigationView: bottomNav
  * - Optional: progressBar
- *
- * EXPECTED bottom nav ids:
- * nav_home, nav_bookmarks, nav_history, nav_tools, nav_settings
- *
- * EXPECTED menu ids (optional):
- * menu_refresh, menu_stop, menu_share, menu_copy_link,
- * menu_desktop_mode, menu_find_in_page, menu_find_next, menu_find_prev, menu_check_updates
+ * - Buttons: btnMenu, btnRefresh (optional but present in your layout)
  */
 class MainActivity : AppCompatActivity() {
 
@@ -84,16 +80,15 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        // Must exist in your project. If your layout name differs, change it here.
         setContentView(R.layout.activity_main)
 
         bindViews()
         setupToolbar()
+        setupTopButtons()      // ✅ btnMenu + btnRefresh
         setupBottomNav()
         setupWebView()
         setupUrlBar()
 
-        // Load default page only on fresh start
         if (savedInstanceState == null) {
             loadUrl(DEFAULT_HOME)
         }
@@ -105,7 +100,6 @@ class MainActivity : AppCompatActivity() {
         urlBar = findViewById(R.id.urlBar)
         bottomNav = findViewById(R.id.bottomNav)
 
-        // Optional: only if it exists
         progressBar = runCatching { findViewById<View>(R.id.progressBar) }.getOrNull()
         progressBar?.isVisible = false
     }
@@ -113,6 +107,24 @@ class MainActivity : AppCompatActivity() {
     private fun setupToolbar() {
         setSupportActionBar(toolbarView)
         supportActionBar?.title = ""
+    }
+
+    private fun setupTopButtons() {
+        // Refresh button
+        runCatching { findViewById<ImageButton>(R.id.btnRefresh) }.getOrNull()?.setOnClickListener {
+            webView.reload()
+        }
+
+        // Menu button -> Popup menu that maps to onOptionsItemSelected()
+        runCatching { findViewById<ImageButton>(R.id.btnMenu) }.getOrNull()?.setOnClickListener { anchor ->
+            val popup = PopupMenu(this, anchor)
+            popup.menuInflater.inflate(R.menu.browser_menu, popup.menu)
+            popup.setOnMenuItemClickListener { item ->
+                onOptionsItemSelected(item)
+                true
+            }
+            popup.show()
+        }
     }
 
     private fun setupBottomNav() {
@@ -131,7 +143,6 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
                 R.id.nav_tools -> {
-                    // Tools = AuryxToolsFragment (quello che hai nella repo)
                     switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment")
                     true
                 }
@@ -144,9 +155,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /**
-     * Safe fragment switching without hard compile-time dependency on exact class names.
-     */
     private fun switchToFragmentSafe(className: String) {
         try {
             val clazz = Class.forName(className)
@@ -158,7 +166,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun switchToFragment(fragment: Fragment) {
-        // Your app must have a container in activity_main.xml with id fragmentContainer
         val containerId = resources.getIdentifier("fragmentContainer", "id", packageName)
         if (containerId == 0) return
 
@@ -190,9 +197,7 @@ class MainActivity : AppCompatActivity() {
         s.cacheMode = WebSettings.LOAD_DEFAULT
         s.userAgentString = defaultUserAgent()
 
-        webView.webChromeClient = object : WebChromeClient() {
-            // Optional: implement onProgressChanged if you want
-        }
+        webView.webChromeClient = object : WebChromeClient() {}
 
         webView.webViewClient = object : WebViewClient() {
 
@@ -273,13 +278,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    // -------------------------
-    // Options menu (⋮)
-    // -------------------------
-
+    // Kept for compatibility; the real menu is shown via btnMenu popup.
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        // If you already have a menu resource, inflate it here.
-        // menuInflater.inflate(R.menu.browser_menu, menu)
         return super.onCreateOptionsMenu(menu)
     }
 
@@ -362,10 +362,6 @@ class MainActivity : AppCompatActivity() {
         ).show()
     }
 
-    // -------------------------
-    // Find in Page (REAL)
-    // -------------------------
-
     private fun showFindInPageDialog() {
         val input = EditText(this).apply {
             hint = "Search in page"
@@ -394,10 +390,6 @@ class MainActivity : AppCompatActivity() {
             }
             .show()
     }
-
-    // -------------------------
-    // Update checker (NO backend)
-    // -------------------------
 
     private fun checkForUpdates() {
         if (!isNetworkAvailable()) {
@@ -485,9 +477,6 @@ class MainActivity : AppCompatActivity() {
         return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
     }
 
-    // -------------------------
-    // Assistant actions (needed by AuryxToolsFragment)
-    // -------------------------
     fun performAssistantAction(action: String, data: String?) {
         when (action) {
             "open_url" -> {
@@ -505,10 +494,6 @@ class MainActivity : AppCompatActivity() {
             else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
         }
     }
-
-    // -------------------------
-    // Back navigation
-    // -------------------------
 
     override fun onBackPressed() {
         if (findActive) {
