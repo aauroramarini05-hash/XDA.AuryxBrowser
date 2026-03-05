@@ -46,6 +46,11 @@ class MainActivity : AppCompatActivity() {
 
     private var isHomeVisible = true
     private var contextMenuUrl: String? = null
+    
+    // Page info tracking
+    private var pageLoadStartTime: Long = 0
+    private var lastPageLoadTime: Long = 0
+    private var findInPageDialog: AlertDialog? = null
 
     companion object {
         private const val STORAGE_PERMISSION_CODE = 100
@@ -181,6 +186,7 @@ class MainActivity : AppCompatActivity() {
         webView.webViewClient = object : WebViewClient() {
             override fun onPageStarted(view: WebView?, url: String?, favicon: Bitmap?) {
                 super.onPageStarted(view, url, favicon)
+                pageLoadStartTime = System.currentTimeMillis()
                 url?.let {
                     binding.urlBar.setText(it)
                     updateCurrentTab { tab ->
@@ -194,6 +200,7 @@ class MainActivity : AppCompatActivity() {
 
             override fun onPageFinished(view: WebView?, url: String?) {
                 super.onPageFinished(view, url)
+                lastPageLoadTime = System.currentTimeMillis() - pageLoadStartTime
                 binding.progressBar.isVisible = false
                 binding.btnRefresh.setImageResource(R.drawable.ic_refresh)
 
@@ -394,6 +401,7 @@ class MainActivity : AppCompatActivity() {
             "Downloads",
             "Desktop Mode",
             "Find in Page",
+            "Page Info",
             "Share"
         )
 
@@ -407,8 +415,9 @@ class MainActivity : AppCompatActivity() {
                     1 -> addCurrentPageToBookmarks()
                     2 -> showDownloads()
                     3 -> toggleDesktopMode()
-                    4 -> Toast.makeText(this, "Find in page - Coming soon", Toast.LENGTH_SHORT).show()
-                    5 -> shareCurrentPage()
+                    4 -> showFindInPage()
+                    5 -> showPageInfo()
+                    6 -> shareCurrentPage()
                 }
             }
             .show()
@@ -457,6 +466,116 @@ class MainActivity : AppCompatActivity() {
             putExtra(Intent.EXTRA_TEXT, currentTab.url)
         }
         startActivity(Intent.createChooser(intent, "Share via"))
+    }
+
+    @SuppressLint("InflateParams")
+    private fun showFindInPage() {
+        val webView = getCurrentWebView() ?: run {
+            Toast.makeText(this, "No page loaded", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        val dialogView = layoutInflater.inflate(R.layout.dialog_find_in_page, null)
+        val etQuery = dialogView.findViewById<android.widget.EditText>(R.id.etFindQuery)
+        val tvMatchCount = dialogView.findViewById<android.widget.TextView>(R.id.tvMatchCount)
+        val btnPrevious = dialogView.findViewById<android.widget.ImageButton>(R.id.btnPrevious)
+        val btnNext = dialogView.findViewById<android.widget.ImageButton>(R.id.btnNext)
+        val btnClose = dialogView.findViewById<android.widget.ImageButton>(R.id.btnCloseFindBar)
+
+        findInPageDialog = AlertDialog.Builder(this, R.style.AlertDialogTheme)
+            .setView(dialogView)
+            .setCancelable(true)
+            .create()
+
+        webView.setFindListener { activeMatchOrdinal, numberOfMatches, isDoneCounting ->
+            if (isDoneCounting) {
+                tvMatchCount.text = if (numberOfMatches > 0) {
+                    "${activeMatchOrdinal + 1} of $numberOfMatches"
+                } else {
+                    "No matches"
+                }
+            }
+        }
+
+        etQuery.setOnEditorActionListener { _, actionId, _ ->
+            if (actionId == android.view.inputmethod.EditorInfo.IME_ACTION_SEARCH) {
+                val query = etQuery.text.toString()
+                if (query.isNotEmpty()) {
+                    webView.findAllAsync(query)
+                }
+                true
+            } else false
+        }
+
+        etQuery.addTextChangedListener(object : android.text.TextWatcher {
+            override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}
+            override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {}
+            override fun afterTextChanged(s: android.text.Editable?) {
+                val query = s.toString()
+                if (query.isNotEmpty()) {
+                    webView.findAllAsync(query)
+                } else {
+                    webView.clearMatches()
+                    tvMatchCount.text = "0 matches"
+                }
+            }
+        })
+
+        btnPrevious.setOnClickListener { webView.findNext(false) }
+        btnNext.setOnClickListener { webView.findNext(true) }
+        btnClose.setOnClickListener {
+            webView.clearMatches()
+            findInPageDialog?.dismiss()
+        }
+
+        findInPageDialog?.setOnDismissListener {
+            webView.clearMatches()
+        }
+
+        findInPageDialog?.show()
+        etQuery.requestFocus()
+    }
+
+    private fun showPageInfo() {
+        val currentTab = getCurrentTab()
+        val webView = getCurrentWebView()
+
+        if (currentTab == null || currentTab.url.isEmpty()) {
+            Toast.makeText(this, "No page loaded", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        showFragment()
+        supportFragmentManager.beginTransaction()
+            .replace(R.id.fragmentContainer, PageInfoFragment(
+                pageUrl = currentTab.url,
+                pageTitle = currentTab.title,
+                userAgent = webView?.settings?.userAgentString ?: "",
+                loadTime = lastPageLoadTime
+            ))
+            .addToBackStack(null)
+            .commit()
+    }
+
+    // Functions for Assistant actions
+    fun performAssistantAction(action: String, data: String?) {
+        when (action) {
+            "open_url" -> data?.let { loadUrl(it) }
+            "search" -> data?.let { loadUrl(prefs.getSearchUrl(it)) }
+            "open_settings" -> {
+                binding.bottomNav.selectedItemId = R.id.nav_settings
+            }
+            "open_bookmarks" -> {
+                binding.bottomNav.selectedItemId = R.id.nav_bookmarks
+            }
+            "open_history" -> {
+                binding.bottomNav.selectedItemId = R.id.nav_history
+            }
+            "new_tab" -> {
+                createNewTab()
+                showHome()
+            }
+        }
     }
 
     // Tab Management

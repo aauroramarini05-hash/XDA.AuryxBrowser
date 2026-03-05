@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.xdustatom.auryxbrowser.activities.MainActivity
 import com.xdustatom.auryxbrowser.databinding.FragmentAuryxToolsBinding
 
 class AuryxToolsFragment : Fragment() {
@@ -37,6 +38,23 @@ class AuryxToolsFragment : Fragment() {
         binding.cardPerformance.setOnClickListener {
             parentFragmentManager.beginTransaction()
                 .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, PerformanceFragment())
+                .addToBackStack(null)
+                .commit()
+        }
+
+        binding.cardPageInfo.setOnClickListener {
+            // Navigate to Page Info through MainActivity
+            (activity as? MainActivity)?.let { mainActivity ->
+                // Trigger page info from menu
+                parentFragmentManager.popBackStack()
+            }
+        }
+
+        binding.cardAssistant.setOnClickListener {
+            parentFragmentManager.beginTransaction()
+                .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, AssistantFragment { action, data ->
+                    (activity as? MainActivity)?.performAssistantAction(action, data)
+                })
                 .addToBackStack(null)
                 .commit()
         }

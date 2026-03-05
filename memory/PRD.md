@@ -2,7 +2,7 @@
 
 ## Project Info
 - **App Name:** AuryxBrowser
-- **Version:** 1.305.01
+- **Version:** 1.305.02 (Updated from 1.305.01)
 - **Author:** xDustAtom
 - **Platform:** Native Android (Kotlin)
 - **Build System:** GitHub Actions CI/CD
@@ -14,100 +14,72 @@ Create a complete Android application called "AuryxBrowser" - a fully functional
 - Material Design 3 inspired dark theme
 - Neon green accents
 
-## Core Requirements (Implemented)
+## Version 1.305.02 Updates
 
-### Browser Features ✅
-- [x] HTML5 WebView support
-- [x] HTTPS support
-- [x] Search/URL bar integration
-- [x] DuckDuckGo default search
-- [x] Page loading indicator
-- [x] Reload/Stop buttons
-- [x] Back/Forward navigation
-- [x] Desktop mode toggle
-- [x] Open links in new tab
+### New Features Implemented ✅
+1. **Find in Page** - Real WebView text search
+   - `webView.findAllAsync(query)` implementation
+   - Match count display
+   - Next/Previous navigation
+   - Dialog-based UI matching dark theme
 
-### Tab System ✅
-- [x] Unlimited tabs
-- [x] Tab overview screen
-- [x] Close tabs individually
-- [x] New tab button
-- [x] Long press to open in new tab
-- [x] Tab title and favicon display
+2. **Update Checker** - GitHub Pages version checking
+   - Fetches from: https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/
+   - Parses APK filenames for version numbers
+   - Shows update dialog with download option
 
-### Bookmarks ✅
-- [x] Add to bookmarks
-- [x] Bookmarks list
-- [x] Quick open
-- [x] Remove bookmarks
+3. **Page Info Tool** - Current page information display
+   - Page URL
+   - Page title
+   - HTTPS status (secure/not secure)
+   - Page load time
+   - WebView user agent
 
-### History ✅
-- [x] Browsing history
-- [x] Open visited pages
-- [x] Clear history option
+4. **Auryx Assistant** - Local browser helper
+   - Natural language command processing
+   - Quick actions (open site, search, settings, etc.)
+   - No API required - runs completely offline
 
-### Download Manager ✅
-- [x] Download detection
-- [x] Progress tracking
-- [x] View completed downloads
-- [x] Open downloaded files
+5. **UI Improvements**
+   - Consistent dark theme
+   - Smooth animations
+   - Green accent color maintained
 
-### AuryxTools ✅
-- [x] Network Monitor (IP, connection type, latency, state)
-- [x] Device Information (model, CPU, RAM, Android, battery)
-- [x] Performance Monitor (real-time RAM/CPU usage)
+## Files Modified
+- `app/build.gradle.kts` - Version updated to 1.305.02
+- `MainActivity.kt` - Added Find in Page, Page Info, Assistant action support
+- `SettingsFragment.kt` - Added Update Checker
+- `AuryxToolsFragment.kt` - Added Page Info and Assistant cards
+- `fragment_settings.xml` - Added Check for Updates button
+- `fragment_auryx_tools.xml` - Added new tool cards
 
-### Settings ✅
-- [x] JavaScript toggle
-- [x] Popup toggle
-- [x] Clear cache
-- [x] Clear history
-- [x] Desktop mode
-- [x] Search engine selection
+## Files Created
+- `PageInfoFragment.kt` - Page info display
+- `AssistantFragment.kt` - Auryx Assistant UI
+- `AuryxAssistant.kt` - Local command processing
+- `UpdateChecker.kt` - Version checking utility
+- `fragment_page_info.xml` - Page info layout
+- `fragment_assistant.xml` - Assistant layout
+- `dialog_find_in_page.xml` - Find in page dialog
+- `ic_send.xml`, `ic_arrow_up.xml`, `ic_arrow_down.xml` - New icons
+- `ic_page_info.xml`, `ic_assistant.xml`, `ic_update.xml` - Tool icons
+- `bg_send_button.xml` - Send button background
 
-### Design ✅
-- [x] Dark theme (#0D0D0D background)
-- [x] Neon green accents (#39FF14)
-- [x] Material Design 3 styling
-- [x] Custom logo with circuit design
-- [x] Smooth UI transitions
+## Technical Implementation
+- **Find in Page**: Uses native WebView.findAllAsync() and WebView.FindListener
+- **Update Checker**: OkHttp GET request + regex parsing for APK versions
+- **Assistant**: Pattern matching for commands, no external API
+- **Page Info**: Tracked via WebViewClient.onPageStarted/onPageFinished timestamps
 
-## Technical Stack
-- **Language:** Kotlin
-- **Min SDK:** 23 (Android 6.0)
-- **Target SDK:** 34 (Android 14)
-- **UI:** Material Design 3
-- **Build:** Gradle 8.4 + Kotlin 1.9.20
-- **CI/CD:** GitHub Actions
-
-## Project Structure
-```
-AuryxBrowser/
-├── app/src/main/java/com/xdustatom/auryxbrowser/
-│   ├── activities/MainActivity.kt
-│   ├── adapters/
-│   ├── fragments/
-│   ├── models/
-│   ├── utils/
-│   └── services/
-├── app/src/main/res/
-│   ├── layout/
-│   ├── drawable/
-│   ├── values/
-│   └── menu/
-├── .github/workflows/build.yml
-├── build.gradle.kts
-└── README.md
-```
-
-## Build Instructions
-1. Push to GitHub
-2. GitHub Actions automatically builds APK
-3. Download from Actions artifacts
+## Project Statistics
+- Total Kotlin files: 28
+- Total Layout files: 19
+- Total Drawable files: 30+
+- Fully offline capable
 
 ## Next Steps / Backlog
-- P1: Add find-in-page functionality
-- P2: Incognito/private browsing mode
-- P2: Custom homepage configuration
-- P3: Ad blocking
-- P3: Reading mode
+- P1: Incognito/private browsing mode
+- P2: Ad blocking
+- P2: Reading mode
+- P3: Custom homepage configuration
+- P3: Gesture navigation

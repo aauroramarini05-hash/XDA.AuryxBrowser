@@ -1,6 +1,6 @@
 # AuryxBrowser
 
-**Version:** 1.305.01  
+**Version:** 1.305.02  
 **Author:** xDustAtom
 
 A fast, lightweight, and feature-rich Android web browser with a modern dark theme and neon green accents.
@@ -16,6 +16,7 @@ A fast, lightweight, and feature-rich Android web browser with a modern dark the
 - 🦆 DuckDuckGo as default search engine
 - 📱 Desktop mode toggle
 - ⬅️➡️ Back/Forward navigation
+- 🔎 **Find in Page** - Search text within pages with match highlighting
 
 ### Tab Management
 - 📋 Unlimited tabs
@@ -54,12 +55,34 @@ A fast, lightweight, and feature-rich Android web browser with a modern dark the
 - ⚙️ CPU usage tracking
 - 📈 Live updating statistics
 
+#### Page Info (NEW in v1.305.02)
+- 🔗 Current page URL
+- 📄 Page title
+- 🔐 HTTPS security status
+- ⏱️ Page load time
+- 🌐 WebView user agent
+
+#### Auryx Assistant (NEW in v1.305.02)
+- 🤖 Local browser helper (no API required)
+- 💬 Natural language commands
+- 🚀 Quick actions: open sites, search, navigate
+
 ### Settings
 - ⚙️ JavaScript toggle
 - 🚫 Pop-up blocking
 - 🖱️ Desktop mode
 - 🔍 Search engine selection (DuckDuckGo, Google, Bing, Yahoo)
 - 🗑️ Cache & history clearing
+- 🔄 **Check for Updates** (NEW in v1.305.02)
+
+## What's New in v1.305.02
+
+### New Features
+1. **Find in Page** - Real WebView text search with highlighting, match count, and next/previous navigation
+2. **Update Checker** - Check for new versions from GitHub Pages
+3. **Page Info Tool** - View URL, title, HTTPS status, load time, and user agent
+4. **Auryx Assistant** - Local browser helper with natural language commands
+5. **UI Improvements** - Enhanced consistency and smooth animations
 
 ## Design
 
@@ -74,6 +97,7 @@ A fast, lightweight, and feature-rich Android web browser with a modern dark the
 - Android 6.0 (API 23) or higher
 - Minimal RAM usage
 - Optimized for low-end devices
+- **Works offline** - No backend server required
 
 ## Building
 
@@ -106,27 +130,28 @@ cd AuryxBrowser
 
 ```
 AuryxBrowser/
-├── app/
-│   ├── src/main/
-│   │   ├── java/com/xdustatom/auryxbrowser/
-│   │   │   ├── activities/      # Main activity
-│   │   │   ├── adapters/        # RecyclerView adapters
-│   │   │   ├── fragments/       # UI fragments
-│   │   │   ├── models/          # Data models
-│   │   │   ├── utils/           # Utility classes
-│   │   │   └── services/        # Background services
-│   │   └── res/
-│   │       ├── layout/          # XML layouts
-│   │       ├── drawable/        # Icons and graphics
-│   │       ├── values/          # Colors, strings, themes
-│   │       └── menu/            # Navigation menus
-│   └── build.gradle.kts
+├── app/src/main/java/com/xdustatom/auryxbrowser/
+│   ├── activities/      # Main activity
+│   ├── adapters/        # RecyclerView adapters
+│   ├── fragments/       # UI fragments (11 fragments)
+│   ├── models/          # Data models
+│   ├── utils/           # Utility classes
+│   └── services/        # Background services
+├── app/src/main/res/
+│   ├── layout/          # XML layouts (16 layouts)
+│   ├── drawable/        # Icons and graphics (30+ icons)
+│   ├── values/          # Colors, strings, themes
+│   └── menu/            # Navigation menus
 ├── .github/workflows/
-│   └── build.yml            # GitHub Actions workflow
+│   └── build.yml        # GitHub Actions workflow
 ├── build.gradle.kts
-├── settings.gradle.kts
-└── gradle.properties
+└── settings.gradle.kts
 ```
+
+## Version History
+
+- **v1.305.02** - Find in Page, Update Checker, Page Info, Auryx Assistant
+- **v1.305.01** - Initial release with core browser features
 
 ## License
 
