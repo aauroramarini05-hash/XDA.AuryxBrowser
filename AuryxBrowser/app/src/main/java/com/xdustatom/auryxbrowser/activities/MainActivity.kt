@@ -11,13 +11,19 @@ import android.net.Uri
 import android.os.Build
 import android.os.Bundle
 import android.os.Environment
+import android.text.Editable
+import android.text.TextWatcher
 import android.view.ContextMenu
 import android.view.MenuItem
 import android.view.View
 import android.view.inputmethod.EditorInfo
 import android.view.inputmethod.InputMethodManager
 import android.webkit.*
+import android.widget.EditText
+import android.widget.ImageButton
+import android.widget.TextView
 import android.widget.Toast
+import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
@@ -70,11 +76,31 @@ class MainActivity : AppCompatActivity() {
         setupUI()
         setupWebView()
         setupBottomNavigation()
+        setupBackPressHandler()
         createNewTab()
         showHome()
 
         // Handle intent URLs
         handleIntent(intent)
+    }
+
+    private fun setupBackPressHandler() {
+        onBackPressedDispatcher.addCallback(this, object : OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                val webView = getCurrentWebView()
+                when {
+                    binding.fragmentContainer.isVisible -> {
+                        if (isHomeVisible) showHome() else showWebView()
+                    }
+                    webView?.canGoBack() == true -> webView.goBack()
+                    !isHomeVisible -> showHome()
+                    else -> {
+                        isEnabled = false
+                        onBackPressedDispatcher.onBackPressed()
+                    }
+                }
+            }
+        })
     }
 
     override fun onNewIntent(intent: Intent?) {
@@ -233,7 +259,7 @@ class MainActivity : AppCompatActivity() {
                     try {
                         startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
                     } catch (e: Exception) {
-                        Toast.makeText(this@MainActivity, "Cannot open link", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(this@MainActivity, R.string.cannot_open, Toast.LENGTH_SHORT).show()
                     }
                     return true
                 }
@@ -401,13 +427,13 @@ class MainActivity : AppCompatActivity() {
 
     private fun showMainMenu() {
         val items = arrayOf(
-            "New Tab",
-            "Add to Bookmarks",
-            "Downloads",
-            "Desktop Mode",
-            "Find in Page",
-            "Page Info",
-            "Share"
+            getString(R.string.menu_new_tab),
+            getString(R.string.menu_add_bookmark),
+            getString(R.string.menu_downloads),
+            getString(R.string.menu_desktop_mode),
+            getString(R.string.menu_find_in_page),
+            getString(R.string.menu_page_info),
+            getString(R.string.menu_share)
         )
 
         AlertDialog.Builder(this, R.style.AlertDialogTheme)
@@ -438,18 +464,18 @@ class MainActivity : AppCompatActivity() {
     private fun addCurrentPageToBookmarks() {
         val currentTab = getCurrentTab() ?: return
         if (currentTab.url.isEmpty() || currentTab.url.startsWith("about:")) {
-            Toast.makeText(this, "Cannot bookmark this page", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, R.string.bookmark_cannot, Toast.LENGTH_SHORT).show()
             return
         }
 
         if (prefs.isBookmarked(currentTab.url)) {
-            Toast.makeText(this, "Already bookmarked", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, R.string.bookmark_exists, Toast.LENGTH_SHORT).show()
         } else {
             prefs.addBookmark(Bookmark(
                 url = currentTab.url,
                 title = currentTab.title
             ))
-            Toast.makeText(this, "Bookmark added", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, R.string.bookmark_added, Toast.LENGTH_SHORT).show()
         }
     }
 
@@ -470,22 +496,22 @@ class MainActivity : AppCompatActivity() {
             putExtra(Intent.EXTRA_SUBJECT, currentTab.title)
             putExtra(Intent.EXTRA_TEXT, currentTab.url)
         }
-        startActivity(Intent.createChooser(intent, "Share via"))
+        startActivity(Intent.createChooser(intent, getString(R.string.share_via)))
     }
 
     @SuppressLint("InflateParams")
     private fun showFindInPage() {
         val webView = getCurrentWebView() ?: run {
-            Toast.makeText(this, "No page loaded", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, R.string.page_info_no_page, Toast.LENGTH_SHORT).show()
             return
         }
 
         val dialogView = layoutInflater.inflate(R.layout.dialog_find_in_page, null)
-        val etQuery = dialogView.findViewById<android.widget.EditText>(R.id.etFindQuery)
-        val tvMatchCount = dialogView.findViewById<android.widget.TextView>(R.id.tvMatchCount)
-        val btnPrevious = dialogView.findViewById<android.widget.ImageButton>(R.id.btnPrevious)
-        val btnNext = dialogView.findViewById<android.widget.ImageButton>(R.id.btnNext)
-        val btnClose = dialogView.findViewById<android.widget.ImageButton>(R.id.btnCloseFindBar)
+        val etQuery = dialogView.findViewById<EditText>(R.id.etFindQuery)
+        val tvMatchCount = dialogView.findViewById<TextView>(R.id.tvMatchCount)
+        val btnPrevious = dialogView.findViewById<ImageButton>(R.id.btnPrevious)
+        val btnNext = dialogView.findViewById<ImageButton>(R.id.btnNext)
+        val btnClose = dialogView.findViewById<ImageButton>(R.id.btnCloseFindBar)
 
         findInPageDialog = AlertDialog.Builder(this, R.style.AlertDialogTheme)
             .setView(dialogView)
@@ -495,15 +521,15 @@ class MainActivity : AppCompatActivity() {
         webView.setFindListener { activeMatchOrdinal, numberOfMatches, isDoneCounting ->
             if (isDoneCounting) {
                 tvMatchCount.text = if (numberOfMatches > 0) {
-                    "${activeMatchOrdinal + 1} of $numberOfMatches"
+                    getString(R.string.find_match_count, activeMatchOrdinal + 1, numberOfMatches)
                 } else {
-                    "No matches"
+                    getString(R.string.find_no_matches)
                 }
             }
         }
 
         etQuery.setOnEditorActionListener { _, actionId, _ ->
-            if (actionId == android.view.inputmethod.EditorInfo.IME_ACTION_SEARCH) {
+            if (actionId == EditorInfo.IME_ACTION_SEARCH) {
                 val query = etQuery.text.toString()
                 if (query.isNotEmpty()) {
                     webView.findAllAsync(query)
@@ -512,16 +538,16 @@ class MainActivity : AppCompatActivity() {
             } else false
         }
 
-        etQuery.addTextChangedListener(object : android.text.TextWatcher {
+        etQuery.addTextChangedListener(object : TextWatcher {
             override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {}
-            override fun afterTextChanged(s: android.text.Editable?) {
+            override fun afterTextChanged(s: Editable?) {
                 val query = s.toString()
                 if (query.isNotEmpty()) {
                     webView.findAllAsync(query)
                 } else {
                     webView.clearMatches()
-                    tvMatchCount.text = "0 matches"
+                    tvMatchCount.text = getString(R.string.find_matches, 0)
                 }
             }
         })
@@ -546,7 +572,7 @@ class MainActivity : AppCompatActivity() {
         val webView = getCurrentWebView()
 
         if (currentTab == null || currentTab.url.isEmpty()) {
-            Toast.makeText(this, "No page loaded", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, R.string.page_info_no_page, Toast.LENGTH_SHORT).show()
             return
         }
 
@@ -707,9 +733,9 @@ class MainActivity : AppCompatActivity() {
                 status = DownloadStatus.DOWNLOADING
             ))
 
-            Toast.makeText(this, "Download started: $fileName", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, getString(R.string.download_started, fileName), Toast.LENGTH_SHORT).show()
         } catch (e: Exception) {
-            Toast.makeText(this, "Download failed: ${e.message}", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, getString(R.string.download_failed), Toast.LENGTH_SHORT).show()
         }
     }
 
@@ -744,19 +770,19 @@ class MainActivity : AppCompatActivity() {
             1 -> { // Open in New Tab
                 val newTab = createNewTab()
                 webViews[newTab.id]?.loadUrl(url)
-                Toast.makeText(this, "Opened in new tab", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, R.string.tab_opened_new, Toast.LENGTH_SHORT).show()
             }
             2 -> { // Copy Link
                 val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as android.content.ClipboardManager
                 clipboard.setPrimaryClip(android.content.ClipData.newPlainText("URL", url))
-                Toast.makeText(this, "Link copied", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, R.string.link_copied, Toast.LENGTH_SHORT).show()
             }
             3 -> { // Share Link
                 val intent = Intent(Intent.ACTION_SEND).apply {
                     type = "text/plain"
                     putExtra(Intent.EXTRA_TEXT, url)
                 }
-                startActivity(Intent.createChooser(intent, "Share via"))
+                startActivity(Intent.createChooser(intent, getString(R.string.share_via)))
             }
             4 -> { // Save Image
                 downloadFile(url, "", "", "image/*")
@@ -774,18 +800,6 @@ class MainActivity : AppCompatActivity() {
         val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
         imm.hideSoftInputFromWindow(binding.urlBar.windowToken, 0)
         binding.urlBar.clearFocus()
-    }
-
-    override fun onBackPressed() {
-        val webView = getCurrentWebView()
-        when {
-            binding.fragmentContainer.isVisible -> {
-                if (isHomeVisible) showHome() else showWebView()
-            }
-            webView?.canGoBack() == true -> webView.goBack()
-            !isHomeVisible -> showHome()
-            else -> super.onBackPressed()
-        }
     }
 
     override fun onDestroy() {
