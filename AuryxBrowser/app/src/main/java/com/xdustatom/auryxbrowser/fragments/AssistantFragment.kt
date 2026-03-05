@@ -87,6 +87,7 @@ class AssistantFragment(
                 "open_bookmarks" -> onAction("open_bookmarks", null)
                 "open_history" -> onAction("open_history", null)
                 "new_tab" -> onAction("new_tab", null)
+                else -> { /* Unknown action, ignore */ }
             }
         }
     }
