@@ -3,38 +3,38 @@
 
     <item
         android:id="@+id/menu_refresh"
-        android:title="Refresh"/>
+        android:title="Refresh" />
 
     <item
         android:id="@+id/menu_stop"
-        android:title="Stop"/>
+        android:title="Stop loading" />
 
     <item
         android:id="@+id/menu_share"
-        android:title="Share"/>
+        android:title="Share page" />
 
     <item
         android:id="@+id/menu_copy_link"
-        android:title="Copy link"/>
+        android:title="Copy link" />
 
     <item
         android:id="@+id/menu_desktop_mode"
-        android:title="Desktop mode"/>
+        android:title="Desktop mode" />
 
     <item
         android:id="@+id/menu_find_in_page"
-        android:title="Find in page"/>
+        android:title="Find in page" />
 
     <item
         android:id="@+id/menu_find_next"
-        android:title="Find next"/>
+        android:title="Find next" />
 
     <item
         android:id="@+id/menu_find_prev"
-        android:title="Find previous"/>
+        android:title="Find previous" />
 
     <item
         android:id="@+id/menu_check_updates"
-        android:title="Check updates"/>
+        android:title="Check updates" />
 
 </menu>
