@@ -10,11 +10,9 @@ import android.net.NetworkCapabilities
 import android.net.Uri
 import android.os.Build
 import android.os.Bundle
-import android.os.SystemClock
 import android.view.KeyEvent
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
 import android.view.inputmethod.EditorInfo
 import android.webkit.CookieManager
 import android.webkit.WebChromeClient
@@ -24,14 +22,11 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.EditText
 import android.widget.ImageButton
-import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.PopupMenu
-import androidx.appcompat.widget.Toolbar
 import androidx.core.view.isVisible
-import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.xdustatom.auryxbrowser.R
 import java.io.BufferedReader
@@ -41,17 +36,6 @@ import java.net.URL
 import java.net.URLEncoder
 import kotlin.concurrent.thread
 
-/**
- * AuryxBrowser MainActivity (v1.305.02)
- *
- * EXPECTED IDs (activity_main.xml):
- * - Toolbar: toolbar (can be invisible; used for menu/supportActionBar)
- * - WebView: webView
- * - URL bar (EditText): urlBar
- * - BottomNavigationView: bottomNav
- * - Optional: progressBar
- * - Buttons: btnMenu, btnRefresh (optional but present in your layout)
- */
 class MainActivity : AppCompatActivity() {
 
     companion object {
@@ -60,63 +44,67 @@ class MainActivity : AppCompatActivity() {
         const val DEFAULT_HOME = "https://duckduckgo.com/"
     }
 
-    // UI
-    private lateinit var toolbarView: Toolbar
-    private lateinit var webView: WebView
     private lateinit var urlBar: EditText
+    private lateinit var btnRefresh: ImageButton
+    private lateinit var btnMenu: ImageButton
+    private lateinit var webView: WebView
     private lateinit var bottomNav: BottomNavigationView
 
-    // Optional (safe)
-    private var progressBar: View? = null
+    private var progressBar: android.widget.ProgressBar? = null
 
-    // State
-    private var pageLoadStartMs: Long = 0L
-    private var desktopModeEnabled: Boolean = false
+    // Containers in your activity_main.xml
+    private lateinit var homeContainer: android.view.View
+    private lateinit var webViewContainer: android.view.View
+    private lateinit var fragmentContainer: android.view.View
 
-    // Find in page state
+    private var desktopModeEnabled = false
+
+    // Find in page
     private var findQuery: String = ""
     private var findActive: Boolean = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         setContentView(R.layout.activity_main)
 
         bindViews()
-        setupToolbar()
-        setupTopButtons()      // ✅ btnMenu + btnRefresh
+        setupTopButtons()
         setupBottomNav()
         setupWebView()
-        setupUrlBar()
+        setupUrlInputs()
 
+        // Start in browser mode (home page) on first launch
         if (savedInstanceState == null) {
+            showBrowser()
             loadUrl(DEFAULT_HOME)
         }
     }
 
     private fun bindViews() {
-        toolbarView = findViewById(R.id.toolbar)
-        webView = findViewById(R.id.webView)
         urlBar = findViewById(R.id.urlBar)
+        btnRefresh = findViewById(R.id.btnRefresh)
+        btnMenu = findViewById(R.id.btnMenu)
+        webView = findViewById(R.id.webView)
         bottomNav = findViewById(R.id.bottomNav)
 
-        progressBar = runCatching { findViewById<View>(R.id.progressBar) }.getOrNull()
-        progressBar?.isVisible = false
-    }
+        progressBar = runCatching { findViewById<android.widget.ProgressBar>(R.id.progressBar) }.getOrNull()
 
-    private fun setupToolbar() {
-        setSupportActionBar(toolbarView)
-        supportActionBar?.title = ""
+        homeContainer = findViewById(R.id.homeContainer)
+        webViewContainer = findViewById(R.id.webViewContainer)
+        fragmentContainer = findViewById(R.id.fragmentContainer)
     }
 
     private fun setupTopButtons() {
-        // Refresh button
-        runCatching { findViewById<ImageButton>(R.id.btnRefresh) }.getOrNull()?.setOnClickListener {
-            webView.reload()
+        btnRefresh.setOnClickListener {
+            if (webViewContainer.isVisible) {
+                webView.reload()
+            } else {
+                // If in another section, go back to browser
+                showBrowser()
+            }
         }
 
-        // Menu button -> Popup menu that maps to onOptionsItemSelected()
-        runCatching { findViewById<ImageButton>(R.id.btnMenu) }.getOrNull()?.setOnClickListener { anchor ->
+        btnMenu.setOnClickListener { anchor ->
             val popup = PopupMenu(this, anchor)
             popup.menuInflater.inflate(R.menu.browser_menu, popup.menu)
             popup.setOnMenuItemClickListener { item ->
@@ -131,48 +119,86 @@ class MainActivity : AppCompatActivity() {
         bottomNav.setOnItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.nav_home -> {
+                    showBrowser()
                     loadUrl(DEFAULT_HOME)
                     true
                 }
+
                 R.id.nav_bookmarks -> {
-                    switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.BookmarksFragment")
+                    // If you don't have these fragments yet, we show the HomeContainer instead of lying.
+                    // You can replace these with real fragments later.
+                    showPlaceholder("Bookmarks not implemented yet")
                     true
                 }
+
                 R.id.nav_history -> {
-                    switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.HistoryFragment")
+                    showPlaceholder("History not implemented yet")
                     true
                 }
+
                 R.id.nav_tools -> {
-                    switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment")
+                    // If AuryxToolsFragment exists, show it.
+                    // Otherwise fallback to placeholder without toast spam.
+                    if (classExists("com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment")) {
+                        showFragment("com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment")
+                    } else {
+                        showPlaceholder("Tools not implemented yet")
+                    }
                     true
                 }
+
                 R.id.nav_settings -> {
-                    switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.SettingsFragment")
+                    if (classExists("com.xdustatom.auryxbrowser.fragments.SettingsFragment")) {
+                        showFragment("com.xdustatom.auryxbrowser.fragments.SettingsFragment")
+                    } else {
+                        showPlaceholder("Settings not implemented yet")
+                    }
                     true
                 }
+
                 else -> false
             }
         }
     }
 
-    private fun switchToFragmentSafe(className: String) {
-        try {
-            val clazz = Class.forName(className)
-            val fragment = clazz.newInstance() as Fragment
-            switchToFragment(fragment)
+    private fun classExists(name: String): Boolean {
+        return try {
+            Class.forName(name)
+            true
         } catch (_: Throwable) {
-            Toast.makeText(this, "Section not available", Toast.LENGTH_SHORT).show()
+            false
         }
     }
 
-    private fun switchToFragment(fragment: Fragment) {
-        val containerId = resources.getIdentifier("fragmentContainer", "id", packageName)
-        if (containerId == 0) return
+    private fun showFragment(className: String) {
+        try {
+            val clazz = Class.forName(className)
+            val fragment = clazz.newInstance() as androidx.fragment.app.Fragment
 
-        supportFragmentManager.beginTransaction()
-            .replace(containerId, fragment)
-            .addToBackStack(null)
-            .commit()
+            homeContainer.isVisible = false
+            webViewContainer.isVisible = false
+            fragmentContainer.isVisible = true
+
+            supportFragmentManager.beginTransaction()
+                .replace(R.id.fragmentContainer, fragment)
+                .commit()
+        } catch (_: Throwable) {
+            showPlaceholder("Section error")
+        }
+    }
+
+    private fun showBrowser() {
+        fragmentContainer.isVisible = false
+        homeContainer.isVisible = false
+        webViewContainer.isVisible = true
+    }
+
+    private fun showPlaceholder(text: String) {
+        // We use homeContainer as placeholder screen (no fake toast "Section not available")
+        fragmentContainer.isVisible = false
+        webViewContainer.isVisible = false
+        homeContainer.isVisible = true
+        Toast.makeText(this, text, Toast.LENGTH_SHORT).show()
     }
 
     @SuppressLint("SetJavaScriptEnabled")
@@ -211,7 +237,6 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onPageStarted(view: WebView, url: String, favicon: android.graphics.Bitmap?) {
-                pageLoadStartMs = SystemClock.elapsedRealtime()
                 progressBar?.isVisible = true
                 urlBar.setText(url)
                 findActive = false
@@ -226,8 +251,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    private fun setupUrlBar() {
-        urlBar.setOnEditorActionListener { _: TextView, actionId: Int, event: KeyEvent? ->
+    private fun setupUrlInputs() {
+        urlBar.setOnEditorActionListener { _, actionId, event ->
             val isEnter =
                 actionId == EditorInfo.IME_ACTION_GO ||
                     actionId == EditorInfo.IME_ACTION_SEARCH ||
@@ -235,7 +260,10 @@ class MainActivity : AppCompatActivity() {
 
             if (isEnter) {
                 val text = urlBar.text?.toString()?.trim().orEmpty()
-                if (text.isNotEmpty()) loadFromInput(text)
+                if (text.isNotEmpty()) {
+                    showBrowser()
+                    loadFromInput(text)
+                }
                 true
             } else false
         }
@@ -278,7 +306,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    // Kept for compatibility; the real menu is shown via btnMenu popup.
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         return super.onCreateOptionsMenu(menu)
     }
@@ -287,6 +314,7 @@ class MainActivity : AppCompatActivity() {
         return when (item.itemId) {
 
             R.id.menu_refresh -> {
+                showBrowser()
                 webView.reload()
                 true
             }
@@ -312,6 +340,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             R.id.menu_find_in_page -> {
+                showBrowser()
                 showFindInPageDialog()
                 true
             }
@@ -481,16 +510,25 @@ class MainActivity : AppCompatActivity() {
         when (action) {
             "open_url" -> {
                 val url = data?.trim().orEmpty()
-                if (url.isNotEmpty()) loadFromInput(url)
+                if (url.isNotEmpty()) {
+                    showBrowser()
+                    loadFromInput(url)
+                }
             }
             "search" -> {
                 val q = data?.trim().orEmpty()
-                if (q.isNotEmpty()) loadFromInput(q)
+                if (q.isNotEmpty()) {
+                    showBrowser()
+                    loadFromInput(q)
+                }
             }
-            "open_settings" -> switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.SettingsFragment")
-            "open_bookmarks" -> switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.BookmarksFragment")
-            "open_history" -> switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.HistoryFragment")
-            "new_tab" -> loadUrl(DEFAULT_HOME)
+            "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
+            "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
+            "open_history" -> bottomNav.selectedItemId = R.id.nav_history
+            "new_tab" -> {
+                showBrowser()
+                loadUrl(DEFAULT_HOME)
+            }
             else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
         }
     }
@@ -503,7 +541,16 @@ class MainActivity : AppCompatActivity() {
             return
         }
 
-        if (webView.canGoBack()) webView.goBack()
-        else super.onBackPressed()
+        if (fragmentContainer.isVisible) {
+            // If a fragment is open, go back to browser
+            showBrowser()
+            return
+        }
+
+        if (webView.canGoBack()) {
+            webView.goBack()
+        } else {
+            super.onBackPressed()
+        }
     }
 }
