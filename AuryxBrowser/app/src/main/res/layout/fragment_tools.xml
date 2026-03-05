@@ -67,7 +67,6 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_toEndOf="@id/btnNetworkMonitor"
                     android:layout_marginStart="68dp"
                     android:orientation="vertical">
 
@@ -225,7 +224,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="Real-time CPU & RAM usage"
+                        android:text="Real-time CPU &amp; RAM usage"
                         android:textColor="@color/text_secondary"
                         android:textSize="14sp" />
                 </LinearLayout>
@@ -313,7 +312,7 @@
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- ITEM: Assistant (highlighted) -->
+        <!-- ITEM: Assistant (highlight) -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnAssistant"
             android:layout_width="match_parent"
@@ -367,7 +366,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="Local browser helper & commands"
+                        android:text="Local browser helper &amp; commands"
                         android:textColor="@color/text_secondary"
                         android:textSize="14sp" />
                 </LinearLayout>
@@ -384,7 +383,7 @@
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Hidden-but-required ID for compatibility (Downloads button in code) -->
+        <!-- Keep ID for compatibility if code references it -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnDownloads"
             android:layout_width="0dp"
