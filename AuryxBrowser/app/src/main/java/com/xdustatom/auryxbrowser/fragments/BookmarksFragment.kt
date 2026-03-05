@@ -4,7 +4,6 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import android.view.View
-import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.ListView
 import android.widget.Toast
@@ -15,9 +14,7 @@ import com.xdustatom.auryxbrowser.activities.BrowserStore
 class BookmarksFragment : Fragment(R.layout.fragment_bookmarks) {
 
     companion object {
-        fun newInstance(): BookmarksFragment {
-            return BookmarksFragment()
-        }
+        fun newInstance(): BookmarksFragment = BookmarksFragment()
     }
 
     private lateinit var store: BrowserStore
@@ -28,7 +25,6 @@ class BookmarksFragment : Fragment(R.layout.fragment_bookmarks) {
         super.onViewCreated(view, savedInstanceState)
 
         store = BrowserStore(requireContext())
-
         list = view.findViewById(R.id.bookmarksList)
         btnClear = view.findViewById(R.id.btnClearBookmarks)
 
@@ -56,26 +52,16 @@ class BookmarksFragment : Fragment(R.layout.fragment_bookmarks) {
 
     private fun render() {
         val data = store.getBookmarks()
-
-        list.adapter = ArrayAdapter(
-            requireContext(),
-            android.R.layout.simple_list_item_1,
-            data
-        )
-
+        list.adapter = LinkListAdapter(requireContext(), data, "★")
         if (data.isEmpty()) {
-            Toast.makeText(
-                requireContext(),
-                "No bookmarks yet",
-                Toast.LENGTH_SHORT
-            ).show()
+            Toast.makeText(requireContext(), "No bookmarks yet", Toast.LENGTH_SHORT).show()
         }
     }
 
     private fun openUrl(url: String) {
-        try {
+        runCatching {
             startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
-        } catch (e: Exception) {
+        }.onFailure {
             Toast.makeText(requireContext(), "Cannot open URL", Toast.LENGTH_SHORT).show()
         }
     }
