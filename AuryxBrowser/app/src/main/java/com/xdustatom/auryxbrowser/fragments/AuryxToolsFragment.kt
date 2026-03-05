@@ -16,8 +16,6 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // Se i bottoni non esistono nel layout, non crasha la build:
-        // (la build fallisce solo se R.layout.fragment_tools non esiste)
         val btnDeviceInfo = view.findViewById<Button>(R.id.btnDeviceInfo)
         val btnNetworkMonitor = view.findViewById<Button>(R.id.btnNetworkMonitor)
         val btnPerformance = view.findViewById<Button>(R.id.btnPerformance)
@@ -25,12 +23,15 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
         val btnDownloads = view.findViewById<Button>(R.id.btnDownloads)
         val btnAssistant = view.findViewById<Button>(R.id.btnAssistant)
 
-        btnDeviceInfo?.setOnClickListener { openTool(DeviceInfoFragment()) }
-        btnNetworkMonitor?.setOnClickListener { openTool(NetworkMonitorFragment()) }
-        btnPerformance?.setOnClickListener { openTool(PerformanceFragment()) }
-        btnPageInfo?.setOnClickListener { openTool(PageInfoFragment()) }
-        btnDownloads?.setOnClickListener { openTool(DownloadsFragment()) }
-        btnAssistant?.setOnClickListener { openTool(AssistantFragment()) }
+        btnDeviceInfo.setOnClickListener { openTool(DeviceInfoFragment()) }
+        btnNetworkMonitor.setOnClickListener { openTool(NetworkMonitorFragment()) }
+        btnPerformance.setOnClickListener { openTool(PerformanceFragment()) }
+
+        // ✅ FIX: PageInfoFragment ora si apre senza parametri (mostra placeholder)
+        btnPageInfo.setOnClickListener { openTool(PageInfoFragment.newInstance()) }
+
+        btnDownloads.setOnClickListener { openTool(DownloadsFragment()) }
+        btnAssistant.setOnClickListener { openTool(AssistantFragment()) }
     }
 
     private fun openTool(fragment: Fragment) {
