@@ -4,7 +4,6 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import android.view.View
-import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.ListView
 import android.widget.Toast
@@ -15,9 +14,7 @@ import com.xdustatom.auryxbrowser.activities.BrowserStore
 class HistoryFragment : Fragment(R.layout.fragment_history) {
 
     companion object {
-        fun newInstance(): HistoryFragment {
-            return HistoryFragment()
-        }
+        fun newInstance(): HistoryFragment = HistoryFragment()
     }
 
     private lateinit var store: BrowserStore
@@ -28,7 +25,6 @@ class HistoryFragment : Fragment(R.layout.fragment_history) {
         super.onViewCreated(view, savedInstanceState)
 
         store = BrowserStore(requireContext())
-
         list = view.findViewById(R.id.historyList)
         btnClear = view.findViewById(R.id.btnClearHistory)
 
@@ -48,22 +44,16 @@ class HistoryFragment : Fragment(R.layout.fragment_history) {
 
     private fun render() {
         val data = store.getHistory()
-
-        list.adapter = ArrayAdapter(
-            requireContext(),
-            android.R.layout.simple_list_item_1,
-            data
-        )
-
+        list.adapter = LinkListAdapter(requireContext(), data, "⟲")
         if (data.isEmpty()) {
             Toast.makeText(requireContext(), "History empty", Toast.LENGTH_SHORT).show()
         }
     }
 
     private fun openUrl(url: String) {
-        try {
+        runCatching {
             startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
-        } catch (e: Exception) {
+        }.onFailure {
             Toast.makeText(requireContext(), "Cannot open URL", Toast.LENGTH_SHORT).show()
         }
     }
