@@ -1,48 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/background_dark">
 
     <LinearLayout
-        android:orientation="vertical"
-        android:padding="16dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical">
 
-        <Switch
-            android:id="@+id/swDesktopMode"
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Desktop Mode (User-Agent)" />
+            android:text="Settings"
+            android:textColor="@color/text_primary"
+            android:textSize="28sp"
+            android:textStyle="bold" />
 
-        <EditText
-            android:id="@+id/etHomeUrl"
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Home URL"
-            android:inputType="textUri"
-            android:layout_marginTop="12dp" />
+            android:layout_marginTop="6dp"
+            android:text="Browser preferences"
+            android:textColor="@color/text_secondary"
+            android:textSize="16sp" />
 
-        <Button
-            android:id="@+id/btnSaveSettings"
+        <!-- Card: Main settings -->
+        <com.google.android.material.card.MaterialCardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Save"
-            android:layout_marginTop="12dp" />
+            android:layout_marginTop="18dp"
+            app:cardBackgroundColor="@color/surface_elevated"
+            app:cardCornerRadius="18dp"
+            app:cardElevation="2dp"
+            app:strokeColor="@color/neon_green_dim"
+            app:strokeWidth="1dp">
 
-        <Button
-            android:id="@+id/btnClearHistorySettings"
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:orientation="vertical">
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/swDesktopMode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Desktop Mode (User-Agent)"
+                    android:textColor="@color/text_primary" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="14dp"
+                    app:boxBackgroundMode="outlined"
+                    app:boxStrokeColor="@color/neon_green_dim"
+                    app:hintTextColor="@color/text_hint">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/etHomeUrl"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Home URL"
+                        android:inputType="textUri"
+                        android:textColor="@color/text_primary" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnSaveSettings"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginTop="14dp"
+                    android:text="Save"
+                    android:textAllCaps="false"
+                    android:textStyle="bold"
+                    android:textColor="@color/background_dark"
+                    app:backgroundTint="@color/neon_green"
+                    app:rippleColor="@color/neon_green_dim" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Clear History"
-            android:layout_marginTop="20dp" />
+            android:layout_marginTop="18dp"
+            android:text="Data"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            android:textAllCaps="true"
+            android:letterSpacing="0.08" />
 
-        <Button
-            android:id="@+id/btnClearBookmarksSettings"
+        <!-- Card: Clear History -->
+        <com.google.android.material.card.MaterialCardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Clear Bookmarks"
-            android:layout_marginTop="12dp" />
+            android:layout_marginTop="10dp"
+            app:cardBackgroundColor="@color/surface_elevated"
+            app:cardCornerRadius="18dp"
+            app:cardElevation="2dp"
+            app:strokeColor="@color/neon_green_dim"
+            app:strokeWidth="1dp">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnClearHistorySettings"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:text="Clear History"
+                android:textAllCaps="false"
+                android:textColor="@color/text_primary"
+                app:backgroundTint="@color/surface_elevated"
+                app:rippleColor="@color/neon_green_dim" />
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- Card: Clear Bookmarks -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardBackgroundColor="@color/surface_elevated"
+            app:cardCornerRadius="18dp"
+            app:cardElevation="2dp"
+            app:strokeColor="@color/neon_green_dim"
+            app:strokeWidth="1dp">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnClearBookmarksSettings"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:text="Clear Bookmarks"
+                android:textAllCaps="false"
+                android:textColor="@color/text_primary"
+                app:backgroundTint="@color/surface_elevated"
+                app:rippleColor="@color/neon_green_dim" />
+        </com.google.android.material.card.MaterialCardView>
 
     </LinearLayout>
 </ScrollView>
