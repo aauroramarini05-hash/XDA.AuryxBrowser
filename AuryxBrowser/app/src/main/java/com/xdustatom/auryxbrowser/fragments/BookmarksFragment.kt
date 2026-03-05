@@ -15,7 +15,9 @@ import com.xdustatom.auryxbrowser.activities.BrowserStore
 class BookmarksFragment : Fragment(R.layout.fragment_bookmarks) {
 
     companion object {
-        fun newInstance() = BookmarksFragment()
+        fun newInstance(): BookmarksFragment {
+            return BookmarksFragment()
+        }
     }
 
     private lateinit var store: BrowserStore
@@ -26,20 +28,21 @@ class BookmarksFragment : Fragment(R.layout.fragment_bookmarks) {
         super.onViewCreated(view, savedInstanceState)
 
         store = BrowserStore(requireContext())
+
         list = view.findViewById(R.id.bookmarksList)
         btnClear = view.findViewById(R.id.btnClearBookmarks)
 
         render()
 
         list.setOnItemClickListener { _, _, position, _ ->
-            val url = (list.adapter.getItem(position) as String)
+            val url = list.adapter.getItem(position) as String
             openUrl(url)
         }
 
         list.setOnItemLongClickListener { _, _, position, _ ->
-            val url = (list.adapter.getItem(position) as String)
+            val url = list.adapter.getItem(position) as String
             store.removeBookmark(url)
-            Toast.makeText(requireContext(), "Removed bookmark", Toast.LENGTH_SHORT).show()
+            Toast.makeText(requireContext(), "Bookmark removed", Toast.LENGTH_SHORT).show()
             render()
             true
         }
@@ -53,17 +56,27 @@ class BookmarksFragment : Fragment(R.layout.fragment_bookmarks) {
 
     private fun render() {
         val data = store.getBookmarks()
-        list.adapter = ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, data)
+
+        list.adapter = ArrayAdapter(
+            requireContext(),
+            android.R.layout.simple_list_item_1,
+            data
+        )
+
         if (data.isEmpty()) {
-            Toast.makeText(requireContext(), "No bookmarks yet (use Menu → Add bookmark)", Toast.LENGTH_SHORT).show()
+            Toast.makeText(
+                requireContext(),
+                "No bookmarks yet",
+                Toast.LENGTH_SHORT
+            ).show()
         }
     }
 
     private fun openUrl(url: String) {
-        runCatching {
+        try {
             startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
-        }.onFailure {
-            Toast.makeText(requireContext(), "Can't open", Toast.LENGTH_SHORT).show()
+        } catch (e: Exception) {
+            Toast.makeText(requireContext(), "Cannot open URL", Toast.LENGTH_SHORT).show()
         }
     }
 }
