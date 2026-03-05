@@ -17,7 +17,6 @@ import android.view.MenuItem
 import android.view.View
 import android.view.inputmethod.EditorInfo
 import android.webkit.CookieManager
-import android.webkit.URLUtil
 import android.webkit.WebChromeClient
 import android.webkit.WebResourceRequest
 import android.webkit.WebSettings
@@ -43,22 +42,19 @@ import kotlin.concurrent.thread
 /**
  * AuryxBrowser MainActivity (v1.305.02)
  *
- * WHAT THIS FILE EXPECTS IN YOUR PROJECT (you can rename in code if different):
- * - layout: res/layout/activity_main.xml
- * - views:
- *   - WebView with id: webView
- *   - EditText/AutoCompleteTextView URL bar with id: urlBar
- *   - Toolbar with id: toolbar
- *   - BottomNavigationView with id: bottomNav
- *   - Optional progress view with id: progressBar (can be removed if not present)
+ * EXPECTED IDs (activity_main.xml):
+ * - Toolbar: toolbar
+ * - WebView: webView
+ * - URL bar (EditText): urlBar
+ * - BottomNavigationView: bottomNav
+ * - Optional: progressBar
  *
- * - bottom nav menu ids (from your bottom_nav_menu.xml):
- *   nav_home, nav_bookmarks, nav_history, nav_tools, nav_settings
+ * EXPECTED bottom nav ids:
+ * nav_home, nav_bookmarks, nav_history, nav_tools, nav_settings
  *
- * - Fragments (rename to match yours if different):
- *   HomeFragment, BookmarksFragment, HistoryFragment, ToolsFragment, SettingsFragment
- *
- * If your project uses different names, search/replace them.
+ * EXPECTED menu ids (optional):
+ * menu_refresh, menu_stop, menu_share, menu_copy_link,
+ * menu_desktop_mode, menu_find_in_page, menu_find_next, menu_find_prev, menu_check_updates
  */
 class MainActivity : AppCompatActivity() {
 
@@ -69,7 +65,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     // UI
-    private lateinit var toolbar: Toolbar
+    private lateinit var toolbarView: Toolbar
     private lateinit var webView: WebView
     private lateinit var urlBar: EditText
     private lateinit var bottomNav: BottomNavigationView
@@ -100,13 +96,11 @@ class MainActivity : AppCompatActivity() {
         // Load default page only on fresh start
         if (savedInstanceState == null) {
             loadUrl(DEFAULT_HOME)
-            // If you have a HomeFragment UI, you can also show it
-            // switchToFragment(HomeFragment())
         }
     }
 
     private fun bindViews() {
-        toolbar = findViewById(R.id.toolbar)
+        toolbarView = findViewById(R.id.toolbar)
         webView = findViewById(R.id.webView)
         urlBar = findViewById(R.id.urlBar)
         bottomNav = findViewById(R.id.bottomNav)
@@ -117,7 +111,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupToolbar() {
-        setSupportActionBar(toolbar)
+        setSupportActionBar(toolbarView)
         supportActionBar?.title = ""
     }
 
@@ -125,12 +119,10 @@ class MainActivity : AppCompatActivity() {
         bottomNav.setOnItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.nav_home -> {
-                    // If you have a home fragment, show it. Otherwise just load home page.
                     loadUrl(DEFAULT_HOME)
                     true
                 }
                 R.id.nav_bookmarks -> {
-                    // Replace with your actual fragment class if different
                     switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.BookmarksFragment")
                     true
                 }
@@ -139,6 +131,8 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
                 R.id.nav_tools -> {
+                    // Se il tuo tools fragment si chiama AuryxToolsFragment, cambia la stringa qui sotto:
+                    // "com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment"
                     switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.ToolsFragment")
                     true
                 }
@@ -153,8 +147,6 @@ class MainActivity : AppCompatActivity() {
 
     /**
      * Safe fragment switching without hard compile-time dependency on exact class names.
-     * This avoids breaking compilation if your fragments have different names.
-     * If you know the exact fragment classes, you can replace this with direct references.
      */
     private fun switchToFragmentSafe(className: String) {
         try {
@@ -169,10 +161,8 @@ class MainActivity : AppCompatActivity() {
     private fun switchToFragment(fragment: Fragment) {
         // Your app must have a container in activity_main.xml with id fragmentContainer
         val containerId = resources.getIdentifier("fragmentContainer", "id", packageName)
-        if (containerId == 0) {
-            // If you don't have fragments container, do nothing.
-            return
-        }
+        if (containerId == 0) return
+
         supportFragmentManager.beginTransaction()
             .replace(containerId, fragment)
             .addToBackStack(null)
@@ -181,7 +171,6 @@ class MainActivity : AppCompatActivity() {
 
     @SuppressLint("SetJavaScriptEnabled")
     private fun setupWebView() {
-        // Cookies often needed for modern sites
         CookieManager.getInstance().setAcceptCookie(true)
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             CookieManager.getInstance().setAcceptThirdPartyCookies(webView, true)
@@ -203,16 +192,13 @@ class MainActivity : AppCompatActivity() {
         s.userAgentString = defaultUserAgent()
 
         webView.webChromeClient = object : WebChromeClient() {
-            // You can add progress updates here if you have a progress bar
+            // Optional: implement onProgressChanged if you want
         }
 
         webView.webViewClient = object : WebViewClient() {
 
             override fun shouldOverrideUrlLoading(view: WebView, request: WebResourceRequest): Boolean {
                 val url = request.url.toString()
-
-                // Keep inside WebView by default
-                // You can add special cases (tel:, mailto:, intent:) here
                 if (url.startsWith("tel:") || url.startsWith("mailto:") || url.startsWith("sms:")) {
                     openExternal(url)
                     return true
@@ -240,25 +226,20 @@ class MainActivity : AppCompatActivity() {
         urlBar.setOnEditorActionListener { _: TextView, actionId: Int, event: KeyEvent? ->
             val isEnter =
                 actionId == EditorInfo.IME_ACTION_GO ||
-                actionId == EditorInfo.IME_ACTION_SEARCH ||
-                (event?.keyCode == KeyEvent.KEYCODE_ENTER && event.action == KeyEvent.ACTION_DOWN)
+                    actionId == EditorInfo.IME_ACTION_SEARCH ||
+                    (event?.keyCode == KeyEvent.KEYCODE_ENTER && event.action == KeyEvent.ACTION_DOWN)
 
             if (isEnter) {
                 val text = urlBar.text?.toString()?.trim().orEmpty()
-                if (text.isNotEmpty()) {
-                    loadFromInput(text)
-                }
+                if (text.isNotEmpty()) loadFromInput(text)
                 true
-            } else {
-                false
-            }
+            } else false
         }
     }
 
     private fun defaultUserAgent(): String {
         val base = WebSettings.getDefaultUserAgent(this)
         return if (desktopModeEnabled) {
-            // Simple desktop UA tweak
             base.replace("Mobile", "X11").replace("Android", "Linux")
         } else base
     }
@@ -271,15 +252,12 @@ class MainActivity : AppCompatActivity() {
     private fun normalizeInputToUrl(input: String): String {
         val trimmed = input.trim()
 
-        // If looks like URL already
         val hasScheme = trimmed.startsWith("http://") || trimmed.startsWith("https://")
         if (hasScheme) return trimmed
 
-        // If is domain-like, add https
         val looksLikeDomain = trimmed.contains(".") && !trimmed.contains(" ")
         if (looksLikeDomain) return "https://$trimmed"
 
-        // Otherwise: search query
         val q = URLEncoder.encode(trimmed, "UTF-8")
         return "https://duckduckgo.com/?q=$q"
     }
@@ -302,15 +280,13 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // If you already have a menu resource, inflate it here.
-        // Example: menuInflater.inflate(R.menu.browser_menu, menu)
-        // If not, we still can work without it.
+        // menuInflater.inflate(R.menu.browser_menu, menu)
         return super.onCreateOptionsMenu(menu)
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
 
-            // If you have these ids in your menu XML, they will work.
             R.id.menu_refresh -> {
                 webView.reload()
                 true
@@ -422,11 +398,6 @@ class MainActivity : AppCompatActivity() {
 
     // -------------------------
     // Update checker (NO backend)
-    // Strategy:
-    // - Fetch the GitHub Pages HTML
-    // - Find newest "AuryxBrowser-vX.Y.ZZ.apk" (simple regex)
-    // - Compare to CURRENT_VERSION
-    // - If different -> open site
     // -------------------------
 
     private fun checkForUpdates() {
@@ -470,11 +441,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun extractLatestVersionFromHtml(html: String): String? {
-        // matches: AuryxBrowser-v1.305.01.apk OR AuryxBrowser-v1.305.02.apk etc.
         val regex = Regex("""AuryxBrowser-v(\d+\.\d+\.\d+)\.apk""")
         val all = regex.findAll(html).map { it.groupValues[1] }.toList()
         if (all.isEmpty()) return null
-        // simple numeric compare: split by dots
         return all.maxWithOrNull { a, b -> compareVersions(a, b) }
     }
 
@@ -543,7 +512,6 @@ class MainActivity : AppCompatActivity() {
     // -------------------------
 
     override fun onBackPressed() {
-        // Close find mode first (optional)
         if (findActive) {
             findActive = false
             webView.clearMatches()
@@ -551,10 +519,7 @@ class MainActivity : AppCompatActivity() {
             return
         }
 
-        if (webView.canGoBack()) {
-            webView.goBack()
-        } else {
-            super.onBackPressed()
-        }
+        if (webView.canGoBack()) webView.goBack()
+        else super.onBackPressed()
     }
 }
