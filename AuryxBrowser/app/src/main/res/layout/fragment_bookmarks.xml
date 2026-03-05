@@ -1,21 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:padding="16dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@color/background_dark"
+    android:orientation="vertical"
+    android:padding="16dp">
 
-    <Button
-        android:id="@+id/btnClearBookmarks"
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Clear Bookmarks" />
+        android:text="Bookmarks"
+        android:textColor="@color/text_primary"
+        android:textSize="28sp"
+        android:textStyle="bold" />
 
-    <ListView
-        android:id="@+id/bookmarksList"
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="Tap to open • Long-press to remove"
+        android:textColor="@color/text_secondary"
+        android:textSize="16sp" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        app:cardBackgroundColor="@color/surface_elevated"
+        app:cardCornerRadius="18dp"
+        app:cardElevation="2dp"
+        app:strokeColor="@color/neon_green_dim"
+        app:strokeWidth="1dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnClearBookmarks"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:text="Clear Bookmarks"
+            android:textAllCaps="false"
+            android:textColor="@color/text_primary"
+            app:backgroundTint="@color/surface_elevated"
+            app:rippleColor="@color/neon_green_dim" />
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="0dp"
+        android:layout_weight="1"
         android:layout_marginTop="12dp"
-        android:layout_weight="1" />
+        app:cardBackgroundColor="@color/surface_elevated"
+        app:cardCornerRadius="18dp"
+        app:cardElevation="2dp"
+        app:strokeColor="@color/neon_green_dim"
+        app:strokeWidth="1dp">
+
+        <ListView
+            android:id="@+id/bookmarksList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp"
+            android:padding="8dp" />
+    </com.google.android.material.card.MaterialCardView>
 
 </LinearLayout>
