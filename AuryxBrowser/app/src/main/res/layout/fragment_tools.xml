@@ -28,19 +28,19 @@
             android:textColor="@color/text_secondary"
             android:textSize="16sp" />
 
-        <!-- ITEM: Network Monitor -->
+        <!-- Network -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnNetworkMonitor"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="18dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardBackgroundColor="@color/surface_elevated"
             app:cardCornerRadius="18dp"
             app:cardElevation="2dp"
             app:strokeColor="@color/neon_green_dim"
-            app:strokeWidth="1dp"
-            android:clickable="true"
-            android:focusable="true">
+            app:strokeWidth="1dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -50,18 +50,18 @@
                 <com.google.android.material.card.MaterialCardView
                     android:layout_width="52dp"
                     android:layout_height="52dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
                     app:cardCornerRadius="26dp"
                     app:cardBackgroundColor="@color/background_dark"
-                    app:cardElevation="0dp"
-                    android:layout_alignParentStart="true"
-                    android:layout_centerVertical="true">
+                    app:cardElevation="0dp">
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:text="📶"
-                        android:gravity="center"
-                        android:textSize="20sp" />
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_network"
+                        android:contentDescription="Network" />
                 </com.google.android.material.card.MaterialCardView>
 
                 <LinearLayout
@@ -87,31 +87,30 @@
                         android:textSize="14sp" />
                 </LinearLayout>
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="›"
-                    android:textSize="26sp"
-                    android:textColor="@color/text_secondary"
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
                     android:layout_alignParentEnd="true"
-                    android:layout_centerVertical="true" />
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_chevron"
+                    android:contentDescription="Open" />
 
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- ITEM: Device Info -->
+        <!-- Device -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnDeviceInfo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardBackgroundColor="@color/surface_elevated"
             app:cardCornerRadius="18dp"
             app:cardElevation="2dp"
             app:strokeColor="@color/neon_green_dim"
-            app:strokeWidth="1dp"
-            android:clickable="true"
-            android:focusable="true">
+            app:strokeWidth="1dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -121,18 +120,18 @@
                 <com.google.android.material.card.MaterialCardView
                     android:layout_width="52dp"
                     android:layout_height="52dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
                     app:cardCornerRadius="26dp"
                     app:cardBackgroundColor="@color/background_dark"
-                    app:cardElevation="0dp"
-                    android:layout_alignParentStart="true"
-                    android:layout_centerVertical="true">
+                    app:cardElevation="0dp">
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:text="📱"
-                        android:gravity="center"
-                        android:textSize="20sp" />
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_device"
+                        android:contentDescription="Device" />
                 </com.google.android.material.card.MaterialCardView>
 
                 <LinearLayout
@@ -158,31 +157,30 @@
                         android:textSize="14sp" />
                 </LinearLayout>
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="›"
-                    android:textSize="26sp"
-                    android:textColor="@color/text_secondary"
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
                     android:layout_alignParentEnd="true"
-                    android:layout_centerVertical="true" />
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_chevron"
+                    android:contentDescription="Open" />
 
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- ITEM: Performance -->
+        <!-- Performance -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnPerformance"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardBackgroundColor="@color/surface_elevated"
             app:cardCornerRadius="18dp"
             app:cardElevation="2dp"
             app:strokeColor="@color/neon_green_dim"
-            app:strokeWidth="1dp"
-            android:clickable="true"
-            android:focusable="true">
+            app:strokeWidth="1dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -192,18 +190,18 @@
                 <com.google.android.material.card.MaterialCardView
                     android:layout_width="52dp"
                     android:layout_height="52dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
                     app:cardCornerRadius="26dp"
                     app:cardBackgroundColor="@color/background_dark"
-                    app:cardElevation="0dp"
-                    android:layout_alignParentStart="true"
-                    android:layout_centerVertical="true">
+                    app:cardElevation="0dp">
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:text="📊"
-                        android:gravity="center"
-                        android:textSize="20sp" />
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_performance"
+                        android:contentDescription="Performance" />
                 </com.google.android.material.card.MaterialCardView>
 
                 <LinearLayout
@@ -229,31 +227,30 @@
                         android:textSize="14sp" />
                 </LinearLayout>
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="›"
-                    android:textSize="26sp"
-                    android:textColor="@color/text_secondary"
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
                     android:layout_alignParentEnd="true"
-                    android:layout_centerVertical="true" />
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_chevron"
+                    android:contentDescription="Open" />
 
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- ITEM: Page Info -->
+        <!-- Page -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnPageInfo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardBackgroundColor="@color/surface_elevated"
             app:cardCornerRadius="18dp"
             app:cardElevation="2dp"
             app:strokeColor="@color/neon_green_dim"
-            app:strokeWidth="1dp"
-            android:clickable="true"
-            android:focusable="true">
+            app:strokeWidth="1dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -263,18 +260,18 @@
                 <com.google.android.material.card.MaterialCardView
                     android:layout_width="52dp"
                     android:layout_height="52dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
                     app:cardCornerRadius="26dp"
                     app:cardBackgroundColor="@color/background_dark"
-                    app:cardElevation="0dp"
-                    android:layout_alignParentStart="true"
-                    android:layout_centerVertical="true">
+                    app:cardElevation="0dp">
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:text="📄"
-                        android:gravity="center"
-                        android:textSize="20sp" />
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_page"
+                        android:contentDescription="Page Info" />
                 </com.google.android.material.card.MaterialCardView>
 
                 <LinearLayout
@@ -300,31 +297,30 @@
                         android:textSize="14sp" />
                 </LinearLayout>
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="›"
-                    android:textSize="26sp"
-                    android:textColor="@color/text_secondary"
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
                     android:layout_alignParentEnd="true"
-                    android:layout_centerVertical="true" />
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_chevron"
+                    android:contentDescription="Open" />
 
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- ITEM: Assistant (highlight) -->
+        <!-- Assistant -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnAssistant"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardBackgroundColor="@color/surface_elevated"
             app:cardCornerRadius="18dp"
             app:cardElevation="2dp"
             app:strokeColor="@color/neon_green"
-            app:strokeWidth="1dp"
-            android:clickable="true"
-            android:focusable="true">
+            app:strokeWidth="1dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -334,18 +330,18 @@
                 <com.google.android.material.card.MaterialCardView
                     android:layout_width="52dp"
                     android:layout_height="52dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
                     app:cardCornerRadius="26dp"
                     app:cardBackgroundColor="@color/background_dark"
-                    app:cardElevation="0dp"
-                    android:layout_alignParentStart="true"
-                    android:layout_centerVertical="true">
+                    app:cardElevation="0dp">
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:text="💬"
-                        android:gravity="center"
-                        android:textSize="20sp" />
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_assistant"
+                        android:contentDescription="Assistant" />
                 </com.google.android.material.card.MaterialCardView>
 
                 <LinearLayout
@@ -371,19 +367,18 @@
                         android:textSize="14sp" />
                 </LinearLayout>
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="›"
-                    android:textSize="26sp"
-                    android:textColor="@color/text_secondary"
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
                     android:layout_alignParentEnd="true"
-                    android:layout_centerVertical="true" />
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_chevron"
+                    android:contentDescription="Open" />
 
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Keep ID for compatibility if code references it -->
+        <!-- keep compatibility -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnDownloads"
             android:layout_width="0dp"
