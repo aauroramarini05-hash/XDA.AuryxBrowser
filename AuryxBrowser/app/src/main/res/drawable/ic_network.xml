@@ -1,10 +1,14 @@
-<!-- Network icon -->
+<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="24dp"
-    android:height="24dp"
-    android:viewportWidth="24"
-    android:viewportHeight="24">
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
     <path
-        android:fillColor="#39FF14"
-        android:pathData="M1,9l2,2c4.97,-4.97 13.03,-4.97 18,0l2,-2C16.93,2.93 7.08,2.93 1,9zM9,17l3,3 3,-3c-1.65,-1.66 -4.34,-1.66 -6,0zM5,13l2,2c2.76,-2.76 7.24,-2.76 10,0l2,-2C15.14,9.14 8.87,9.14 5,13z"/>
+        android:fillColor="@color/neon_green"
+        android:pathData="M12,3C7.41,3 3.36,4.97 0.67,8.05l2.06,2.06C4.86,7.62 8.29,6 12,6s7.14,1.62 9.27,4.11l2.06,-2.06C20.64,4.97 16.59,3 12,3z"/>
+    <path
+        android:fillColor="@color/neon_green"
+        android:pathData="M12,9c-2.76,0 -5.26,1.12 -7.07,2.93l2.06,2.06C8.28,12.7 10.05,12 12,12s3.72,0.7 5.01,1.99l2.06,-2.06C17.26,10.12 14.76,9 12,9z"/>
+    <path
+        android:fillColor="@color/neon_green"
+        android:pathData="M12,15c-1.1,0 -2.1,0.45 -2.83,1.17l2.83,2.83 2.83,-2.83C14.1,15.45 13.1,15 12,15z"/>
 </vector>
