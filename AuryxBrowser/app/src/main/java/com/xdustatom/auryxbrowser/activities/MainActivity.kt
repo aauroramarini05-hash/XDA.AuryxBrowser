@@ -1,7 +1,6 @@
 package com.xdustatom.auryxbrowser.activities
 
 import android.annotation.SuppressLint
-import android.app.AlertDialog
 import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
@@ -11,21 +10,6 @@ import android.net.NetworkCapabilities
 import android.net.Uri
 import android.os.Build
 import android.os.Bundle
-import android.os.Environment
-import android.text.Editable
-import android.text.TextWatcher
-import android.view.ContextMenu
-import android.view.MenuItem
-import android.view.View
-import android.view.inputmethod.EditorInfo
-import android.view.inputmethod.InputMethodManager
-import android.webkit.*
-import android.widget.EditText
-import android.widget.ImageButton
-import android.widget.TextView
-import android.widget.Toast
-import androidx.activity.OnBackPressedCallback
-import androidx.appcompat.app.AlertDialog
 import android.os.SystemClock
 import android.view.KeyEvent
 import android.view.Menu
@@ -42,6 +26,7 @@ import android.webkit.WebViewClient
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
+import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import androidx.core.view.isVisible
@@ -395,7 +380,11 @@ class MainActivity : AppCompatActivity() {
         desktopModeEnabled = !desktopModeEnabled
         webView.settings.userAgentString = defaultUserAgent()
         webView.reload()
-        Toast.makeText(this, if (desktopModeEnabled) "Desktop mode ON" else "Desktop mode OFF", Toast.LENGTH_SHORT).show()
+        Toast.makeText(
+            this,
+            if (desktopModeEnabled) "Desktop mode ON" else "Desktop mode OFF",
+            Toast.LENGTH_SHORT
+        ).show()
     }
 
     // -------------------------
@@ -526,6 +515,27 @@ class MainActivity : AppCompatActivity() {
         val net = cm.activeNetwork ?: return false
         val caps = cm.getNetworkCapabilities(net) ?: return false
         return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
+    }
+
+    // -------------------------
+    // Assistant actions (needed by AuryxToolsFragment)
+    // -------------------------
+    fun performAssistantAction(action: String, data: String?) {
+        when (action) {
+            "open_url" -> {
+                val url = data?.trim().orEmpty()
+                if (url.isNotEmpty()) loadFromInput(url)
+            }
+            "search" -> {
+                val q = data?.trim().orEmpty()
+                if (q.isNotEmpty()) loadFromInput(q)
+            }
+            "open_settings" -> switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.SettingsFragment")
+            "open_bookmarks" -> switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.BookmarksFragment")
+            "open_history" -> switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.HistoryFragment")
+            "new_tab" -> loadUrl(DEFAULT_HOME)
+            else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
+        }
     }
 
     // -------------------------
