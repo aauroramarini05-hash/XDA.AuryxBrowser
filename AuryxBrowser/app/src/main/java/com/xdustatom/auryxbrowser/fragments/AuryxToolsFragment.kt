@@ -6,6 +6,7 @@ import android.widget.Button
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.xdustatom.auryxbrowser.R
+import com.xdustatom.auryxbrowser.activities.MainActivity
 
 class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
 
@@ -27,11 +28,24 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
         btnNetworkMonitor.setOnClickListener { openTool(NetworkMonitorFragment()) }
         btnPerformance.setOnClickListener { openTool(PerformanceFragment()) }
 
-        // ✅ FIX: PageInfoFragment ora si apre senza parametri (mostra placeholder)
+        // ✅ PageInfo (usa newInstance, così non chiede parametri nel costruttore)
         btnPageInfo.setOnClickListener { openTool(PageInfoFragment.newInstance()) }
 
         btnDownloads.setOnClickListener { openTool(DownloadsFragment()) }
-        btnAssistant.setOnClickListener { openTool(AssistantFragment()) }
+
+        // ✅ FIX: AssistantFragment richiede onAction
+        btnAssistant.setOnClickListener {
+            openTool(
+                AssistantFragment { action, data ->
+                    val act = activity
+                    if (act is MainActivity) {
+                        act.performAssistantAction(action, data)
+                    } else {
+                        Toast.makeText(requireContext(), "Action not available", Toast.LENGTH_SHORT).show()
+                    }
+                }
+            )
+        }
     }
 
     private fun openTool(fragment: Fragment) {
