@@ -32,6 +32,7 @@ import com.xdustatom.auryxbrowser.models.DownloadItem
 import com.xdustatom.auryxbrowser.models.DownloadStatus
 import com.xdustatom.auryxbrowser.models.HistoryItem
 import com.xdustatom.auryxbrowser.models.Tab
+import com.xdustatom.auryxbrowser.utils.LocaleHelper
 import kotlinx.coroutines.*
 
 class MainActivity : AppCompatActivity() {
@@ -55,6 +56,10 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val STORAGE_PERMISSION_CODE = 100
         private const val DESKTOP_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+
+    override fun attachBaseContext(newBase: Context) {
+        super.attachBaseContext(LocaleHelper.applyLocale(newBase))
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
