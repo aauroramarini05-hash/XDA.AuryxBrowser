@@ -29,6 +29,10 @@ import androidx.appcompat.widget.PopupMenu
 import androidx.core.view.isVisible
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.xdustatom.auryxbrowser.R
+import com.xdustatom.auryxbrowser.fragments.BookmarksFragment
+import com.xdustatom.auryxbrowser.fragments.HistoryFragment
+import com.xdustatom.auryxbrowser.fragments.SettingsFragment
+import com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.net.HttpURLConnection
@@ -42,6 +46,11 @@ class MainActivity : AppCompatActivity() {
         const val CURRENT_VERSION = "1.305.02"
         const val UPDATE_SITE = "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/"
         const val DEFAULT_HOME = "https://duckduckgo.com/"
+
+        // prefs keys
+        const val PREFS = "auryx_prefs"
+        const val KEY_HOME = "home_url"
+        const val KEY_DESKTOP_MODE = "desktop_mode"
     }
 
     private lateinit var urlBar: EditText
@@ -49,10 +58,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var btnMenu: ImageButton
     private lateinit var webView: WebView
     private lateinit var bottomNav: BottomNavigationView
-
     private var progressBar: android.widget.ProgressBar? = null
 
-    // Containers in your activity_main.xml
     private lateinit var homeContainer: android.view.View
     private lateinit var webViewContainer: android.view.View
     private lateinit var fragmentContainer: android.view.View
@@ -63,20 +70,29 @@ class MainActivity : AppCompatActivity() {
     private var findQuery: String = ""
     private var findActive: Boolean = false
 
+    // simple storage
+    private lateinit var store: BrowserStore
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        store = BrowserStore(this)
+
         bindViews()
+
+        // load settings
+        val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
+        desktopModeEnabled = prefs.getBoolean(KEY_DESKTOP_MODE, false)
+
         setupTopButtons()
         setupBottomNav()
         setupWebView()
         setupUrlInputs()
 
-        // Start in browser mode (home page) on first launch
         if (savedInstanceState == null) {
             showBrowser()
-            loadUrl(DEFAULT_HOME)
+            loadUrl(getHomeUrl())
         }
     }
 
@@ -86,7 +102,6 @@ class MainActivity : AppCompatActivity() {
         btnMenu = findViewById(R.id.btnMenu)
         webView = findViewById(R.id.webView)
         bottomNav = findViewById(R.id.bottomNav)
-
         progressBar = runCatching { findViewById<android.widget.ProgressBar>(R.id.progressBar) }.getOrNull()
 
         homeContainer = findViewById(R.id.homeContainer)
@@ -99,7 +114,6 @@ class MainActivity : AppCompatActivity() {
             if (webViewContainer.isVisible) {
                 webView.reload()
             } else {
-                // If in another section, go back to browser
                 showBrowser()
             }
         }
@@ -120,85 +134,44 @@ class MainActivity : AppCompatActivity() {
             when (item.itemId) {
                 R.id.nav_home -> {
                     showBrowser()
-                    loadUrl(DEFAULT_HOME)
+                    loadUrl(getHomeUrl())
                     true
                 }
-
                 R.id.nav_bookmarks -> {
-                    // If you don't have these fragments yet, we show the HomeContainer instead of lying.
-                    // You can replace these with real fragments later.
-                    showPlaceholder("Bookmarks not implemented yet")
+                    showFragment(BookmarksFragment.newInstance())
                     true
                 }
-
                 R.id.nav_history -> {
-                    showPlaceholder("History not implemented yet")
+                    showFragment(HistoryFragment.newInstance())
                     true
                 }
-
                 R.id.nav_tools -> {
-                    // If AuryxToolsFragment exists, show it.
-                    // Otherwise fallback to placeholder without toast spam.
-                    if (classExists("com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment")) {
-                        showFragment("com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment")
-                    } else {
-                        showPlaceholder("Tools not implemented yet")
-                    }
+                    showFragment(AuryxToolsFragment.newInstance())
                     true
                 }
-
                 R.id.nav_settings -> {
-                    if (classExists("com.xdustatom.auryxbrowser.fragments.SettingsFragment")) {
-                        showFragment("com.xdustatom.auryxbrowser.fragments.SettingsFragment")
-                    } else {
-                        showPlaceholder("Settings not implemented yet")
-                    }
+                    showFragment(SettingsFragment.newInstance())
                     true
                 }
-
                 else -> false
             }
         }
     }
 
-    private fun classExists(name: String): Boolean {
-        return try {
-            Class.forName(name)
-            true
-        } catch (_: Throwable) {
-            false
-        }
-    }
+    private fun showFragment(fragment: androidx.fragment.app.Fragment) {
+        homeContainer.isVisible = false
+        webViewContainer.isVisible = false
+        fragmentContainer.isVisible = true
 
-    private fun showFragment(className: String) {
-        try {
-            val clazz = Class.forName(className)
-            val fragment = clazz.newInstance() as androidx.fragment.app.Fragment
-
-            homeContainer.isVisible = false
-            webViewContainer.isVisible = false
-            fragmentContainer.isVisible = true
-
-            supportFragmentManager.beginTransaction()
-                .replace(R.id.fragmentContainer, fragment)
-                .commit()
-        } catch (_: Throwable) {
-            showPlaceholder("Section error")
-        }
+        supportFragmentManager.beginTransaction()
+            .replace(R.id.fragmentContainer, fragment)
+            .commit()
     }
 
     private fun showBrowser() {
         fragmentContainer.isVisible = false
         homeContainer.isVisible = false
         webViewContainer.isVisible = true
-    }
-
-    private fun showPlaceholder(text: String) {
-        // We use homeContainer as placeholder screen (no fake toast "Section not available")
-        fragmentContainer.isVisible = false
-        webViewContainer.isVisible = false
-        homeContainer.isVisible = true
-        Toast.makeText(this, text, Toast.LENGTH_SHORT).show()
     }
 
     @SuppressLint("SetJavaScriptEnabled")
@@ -246,6 +219,10 @@ class MainActivity : AppCompatActivity() {
             override fun onPageFinished(view: WebView, url: String) {
                 progressBar?.isVisible = false
                 urlBar.setText(url)
+
+                // ✅ add to history automatically (avoid duplicates spam)
+                store.addHistory(url)
+
                 super.onPageFinished(view, url)
             }
         }
@@ -306,9 +283,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        return super.onCreateOptionsMenu(menu)
-    }
+    override fun onCreateOptionsMenu(menu: Menu): Boolean = super.onCreateOptionsMenu(menu)
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
@@ -360,6 +335,11 @@ class MainActivity : AppCompatActivity() {
                 true
             }
 
+            R.id.menu_add_bookmark -> {
+                addBookmarkCurrent()
+                true
+            }
+
             else -> super.onOptionsItemSelected(item)
         }
     }
@@ -382,13 +362,29 @@ class MainActivity : AppCompatActivity() {
 
     private fun toggleDesktopMode() {
         desktopModeEnabled = !desktopModeEnabled
+        getSharedPreferences(PREFS, MODE_PRIVATE)
+            .edit()
+            .putBoolean(KEY_DESKTOP_MODE, desktopModeEnabled)
+            .apply()
+
         webView.settings.userAgentString = defaultUserAgent()
         webView.reload()
+
         Toast.makeText(
             this,
             if (desktopModeEnabled) "Desktop mode ON" else "Desktop mode OFF",
             Toast.LENGTH_SHORT
         ).show()
+    }
+
+    private fun addBookmarkCurrent() {
+        val url = webView.url ?: urlBar.text?.toString()?.trim().orEmpty()
+        if (url.isBlank()) {
+            Toast.makeText(this, "No URL to bookmark", Toast.LENGTH_SHORT).show()
+            return
+        }
+        store.addBookmark(url)
+        Toast.makeText(this, "Added to bookmarks", Toast.LENGTH_SHORT).show()
     }
 
     private fun showFindInPageDialog() {
@@ -418,6 +414,12 @@ class MainActivity : AppCompatActivity() {
                 if (findActive) webView.findNext(false)
             }
             .show()
+    }
+
+    private fun getHomeUrl(): String {
+        val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
+        val v = prefs.getString(KEY_HOME, DEFAULT_HOME) ?: DEFAULT_HOME
+        return if (v.isBlank()) DEFAULT_HOME else v
     }
 
     private fun checkForUpdates() {
@@ -527,7 +529,7 @@ class MainActivity : AppCompatActivity() {
             "open_history" -> bottomNav.selectedItemId = R.id.nav_history
             "new_tab" -> {
                 showBrowser()
-                loadUrl(DEFAULT_HOME)
+                loadUrl(getHomeUrl())
             }
             else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
         }
@@ -542,15 +544,11 @@ class MainActivity : AppCompatActivity() {
         }
 
         if (fragmentContainer.isVisible) {
-            // If a fragment is open, go back to browser
             showBrowser()
             return
         }
 
-        if (webView.canGoBack()) {
-            webView.goBack()
-        } else {
-            super.onBackPressed()
-        }
+        if (webView.canGoBack()) webView.goBack()
+        else super.onBackPressed()
     }
 }
