@@ -12,7 +12,7 @@ else
 fi
 
 # Increase maximum heap size
-DEFAULT_JVM_OPTS='"-Xmx2048m" "-Xms256m"'
+DEFAULT_JVM_OPTS="-Xmx2048m -Xms256m"
 
 APP_HOME=$(cd "$(dirname "$0")" && pwd)
 APP_NAME="Gradle"
