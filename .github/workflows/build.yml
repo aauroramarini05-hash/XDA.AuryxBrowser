@@ -1,4 +1,4 @@
-name: Build Release APK
+name: Build Release APK (Signed)
 
 on:
   push:
@@ -20,13 +20,24 @@ jobs:
           distribution: temurin
           java-version: 17
 
+      - name: Decode keystore
+        shell: bash
+        run: |
+          echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > keystore.jks
+          ls -la keystore.jks
+
       - name: Give gradlew permission
         run: chmod +x AuryxBrowser/gradlew
 
-      - name: Build Release APK
+      - name: Build SIGNED Release APK
+        env:
+          SIGNING_STORE_FILE: ${{ github.workspace }}/keystore.jks
+          SIGNING_STORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          SIGNING_KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+          SIGNING_KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
         run: |
           cd AuryxBrowser
-          ./gradlew assembleRelease
+          ./gradlew --no-daemon --stacktrace clean assembleRelease
 
       - name: Upload Release APK
         uses: actions/upload-artifact@v4
