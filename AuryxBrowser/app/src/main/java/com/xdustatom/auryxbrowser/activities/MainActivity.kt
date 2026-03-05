@@ -1,24 +1,13 @@
-package com.xdustatom.auryxbrowser.activities
+package com.xdustatom.auryxbrowser
 
-import android.Manifest
-import android.annotation.SuppressLint
-import android.app.DownloadManager
-import android.content.Context
+import android.app.AlertDialog
 import android.content.Intent
-import android.content.pm.PackageManager
-import android.graphics.Bitmap
 import android.net.Uri
-import android.os.Build
 import android.os.Bundle
-import android.os.Environment
-import android.view.ContextMenu
-import android.view.MenuItem
-import android.view.View
-import android.view.inputmethod.EditorInfo
-import android.view.inputmethod.InputMethodManager
-import android.webkit.*
+import android.webkit.WebView
+import android.webkit.WebViewClient
+import android.widget.EditText
 import android.widget.Toast
-import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
@@ -34,12 +23,14 @@ import com.xdustatom.auryxbrowser.models.HistoryItem
 import com.xdustatom.auryxbrowser.models.Tab
 import com.xdustatom.auryxbrowser.utils.LocaleHelper
 import kotlinx.coroutines.*
+import java.io.BufferedReader
+import java.io.InputStreamReader
+import java.net.HttpURLConnection
+import java.net.URL
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var binding: ActivityMainBinding
-    private val prefs by lazy { AuryxApplication.instance.preferencesManager }
-    private val scope = CoroutineScope(Dispatchers.Main + Job())
+    lateinit var webView: WebView
 
     private val tabs = mutableListOf<Tab>()
     private var currentTabIndex = 0
@@ -57,6 +48,7 @@ class MainActivity : AppCompatActivity() {
         private const val STORAGE_PERMISSION_CODE = 100
         private const val DESKTOP_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
+    val CURRENT_VERSION = "1.305.02"
 
     override fun attachBaseContext(newBase: Context) {
         super.attachBaseContext(LocaleHelper.applyLocale(newBase))
@@ -64,100 +56,30 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
-        setContentView(binding.root)
 
-        setupUI()
-        setupWebView()
-        setupBottomNavigation()
-        createNewTab()
-        showHome()
+        webView = WebView(this)
+        setContentView(webView)
 
-        // Handle intent URLs
-        handleIntent(intent)
+        webView.settings.javaScriptEnabled = true
+        webView.settings.domStorageEnabled = true
+
+        webView.webViewClient = WebViewClient()
+
+        webView.loadUrl("https://www.google.com")
     }
 
-    override fun onNewIntent(intent: Intent?) {
-        super.onNewIntent(intent)
-        intent?.let { handleIntent(it) }
-    }
+    fun showFindDialog() {
 
-    private fun handleIntent(intent: Intent) {
-        val url = intent.dataString
-        if (!url.isNullOrEmpty()) {
-            loadUrl(url)
-        }
-    }
+        val input = EditText(this)
 
-    private fun setupUI() {
-        // URL bar actions
-        binding.urlBar.setOnEditorActionListener { _, actionId, _ ->
-            if (actionId == EditorInfo.IME_ACTION_GO || actionId == EditorInfo.IME_ACTION_SEARCH) {
-                val query = binding.urlBar.text.toString().trim()
-                if (query.isNotEmpty()) {
-                    val url = if (isValidUrl(query)) {
-                        if (!query.startsWith("http")) "https://$query" else query
-                    } else {
-                        prefs.getSearchUrl(query)
-                    }
-                    loadUrl(url)
-                    hideKeyboard()
-                }
-                true
-            } else false
-        }
+        AlertDialog.Builder(this)
+            .setTitle("Find in Page")
+            .setView(input)
+            .setPositiveButton("Search") { _, _ ->
 
-        binding.urlBar.setOnFocusChangeListener { _, hasFocus ->
-            if (hasFocus) {
-                binding.urlBar.selectAll()
-            }
-        }
+                val query = input.text.toString()
 
-        // Refresh button
-        binding.btnRefresh.setOnClickListener {
-            getCurrentWebView()?.reload()
-        }
-
-        // Tabs button
-        binding.btnTabs.setOnClickListener {
-            showTabsOverview()
-        }
-
-        // Menu button
-        binding.btnMenu.setOnClickListener {
-            showMainMenu()
-        }
-
-        // Home search bar
-        binding.homeSearchBar.setOnEditorActionListener { _, actionId, _ ->
-            if (actionId == EditorInfo.IME_ACTION_GO || actionId == EditorInfo.IME_ACTION_SEARCH) {
-                val query = binding.homeSearchBar.text.toString().trim()
-                if (query.isNotEmpty()) {
-                    val url = if (isValidUrl(query)) {
-                        if (!query.startsWith("http")) "https://$query" else query
-                    } else {
-                        prefs.getSearchUrl(query)
-                    }
-                    loadUrl(url)
-                    hideKeyboard()
-                }
-                true
-            } else false
-        }
-
-        // Update tabs count
-        updateTabsCount()
-    }
-
-    private fun isValidUrl(text: String): Boolean {
-        val urlPattern = "^(https?://)?([\\w-]+\\.)+[\\w-]+(/.*)?$".toRegex(RegexOption.IGNORE_CASE)
-        return urlPattern.matches(text) || text.contains(".")
-    }
-
-    @SuppressLint("SetJavaScriptEnabled")
-    private fun setupWebView() {
-        registerForContextMenu(binding.webView)
-    }
+                webView.findAllAsync(query)
 
     private fun createWebView(): WebView {
         return WebView(this).apply {
@@ -425,53 +347,11 @@ class MainActivity : AppCompatActivity() {
                     6 -> shareCurrentPage()
                 }
             }
+            .setNegativeButton("Cancel", null)
             .show()
     }
 
-    private fun showDownloads() {
-        showFragment()
-        supportFragmentManager.beginTransaction()
-            .replace(R.id.fragmentContainer, DownloadsFragment())
-            .commit()
-    }
-
-    private fun addCurrentPageToBookmarks() {
-        val currentTab = getCurrentTab() ?: return
-        if (currentTab.url.isEmpty() || currentTab.url.startsWith("about:")) {
-            Toast.makeText(this, "Cannot bookmark this page", Toast.LENGTH_SHORT).show()
-            return
-        }
-
-        if (prefs.isBookmarked(currentTab.url)) {
-            Toast.makeText(this, "Already bookmarked", Toast.LENGTH_SHORT).show()
-        } else {
-            prefs.addBookmark(Bookmark(
-                url = currentTab.url,
-                title = currentTab.title
-            ))
-            Toast.makeText(this, "Bookmark added", Toast.LENGTH_SHORT).show()
-        }
-    }
-
-    private fun toggleDesktopMode() {
-        prefs.isDesktopMode = !prefs.isDesktopMode
-        webViews.values.forEach { setupWebViewSettings(it) }
-        getCurrentWebView()?.reload()
-        val message = if (prefs.isDesktopMode) "Desktop mode enabled" else "Desktop mode disabled"
-        Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
-    }
-
-    private fun shareCurrentPage() {
-        val currentTab = getCurrentTab() ?: return
-        if (currentTab.url.isEmpty()) return
-
-        val intent = Intent(Intent.ACTION_SEND).apply {
-            type = "text/plain"
-            putExtra(Intent.EXTRA_SUBJECT, currentTab.title)
-            putExtra(Intent.EXTRA_TEXT, currentTab.url)
-        }
-        startActivity(Intent.createChooser(intent, "Share via"))
-    }
+    fun checkUpdates() {
 
     @SuppressLint("InflateParams")
     private fun showFindInPage() {
@@ -588,209 +468,67 @@ class MainActivity : AppCompatActivity() {
         val tab = Tab()
         tabs.add(tab)
         currentTabIndex = tabs.size - 1
+        Thread {
 
-        val webView = createWebView()
-        webViews[tab.id] = webView
+            try {
 
-        updateTabsCount()
-        return tab
-    }
+                val url = URL("https://TUOUSERNAME.github.io/TUAREPO/version.txt")
 
-    private fun switchToTab(index: Int) {
-        if (index < 0 || index >= tabs.size) return
+                val connection = url.openConnection() as HttpURLConnection
 
-        currentTabIndex = index
-        val tab = tabs[index]
-        val webView = webViews[tab.id]
+                val reader = BufferedReader(InputStreamReader(connection.inputStream))
 
-        binding.webViewContainer.removeAllViews()
-        webView?.let {
-            binding.webViewContainer.addView(it)
-            binding.urlBar.setText(tab.url)
-        }
+                val latest = reader.readLine().trim()
 
-        if (tab.url.isEmpty()) {
-            showHome()
-        } else {
-            showWebView()
-        }
-    }
+                reader.close()
 
-    private fun closeTab(index: Int) {
-        if (tabs.size <= 1) {
-            // Keep at least one tab
-            tabs[0] = Tab()
-            webViews[tabs[0].id]?.loadUrl("about:blank")
-            showHome()
-            return
-        }
+                runOnUiThread {
 
-        val tab = tabs[index]
-        webViews[tab.id]?.destroy()
-        webViews.remove(tab.id)
-        tabs.removeAt(index)
+                    if (latest != CURRENT_VERSION) {
 
-        if (currentTabIndex >= tabs.size) {
-            currentTabIndex = tabs.size - 1
-        }
+                        AlertDialog.Builder(this)
+                            .setTitle("Update Available")
+                            .setMessage("A new version is available: $latest")
+                            .setPositiveButton("Update") { _, _ ->
 
-        updateTabsCount()
-        switchToTab(currentTabIndex)
-    }
+                                val intent = Intent(Intent.ACTION_VIEW)
 
-    private fun getCurrentTab(): Tab? = tabs.getOrNull(currentTabIndex)
+                                intent.data =
+                                    Uri.parse("https://TUOUSERNAME.github.io/TUAREPO")
 
-    private fun getCurrentWebView(): WebView? {
-        val tab = getCurrentTab() ?: return null
-        return webViews[tab.id]
-    }
+                                startActivity(intent)
 
-    private fun updateCurrentTab(update: (Tab) -> Unit) {
-        getCurrentTab()?.let { update(it) }
-    }
+                            }
+                            .setNegativeButton("Later", null)
+                            .show()
 
-    private fun updateTabsCount() {
-        binding.tabsCount.text = tabs.size.toString()
-    }
+                    } else {
 
-    // URL Loading
-    fun loadUrl(url: String) {
-        showWebView()
-        val currentTab = getCurrentTab() ?: createNewTab()
-        var webView = webViews[currentTab.id]
+                        Toast.makeText(
+                            this,
+                            "You are using the latest version",
+                            Toast.LENGTH_LONG
+                        ).show()
 
-        if (webView == null) {
-            webView = createWebView()
-            webViews[currentTab.id] = webView
-        }
+                    }
 
-        binding.webViewContainer.removeAllViews()
-        binding.webViewContainer.addView(webView)
-
-        val finalUrl = if (!url.startsWith("http://") && !url.startsWith("https://")) {
-            "https://$url"
-        } else url
-
-        webView.loadUrl(finalUrl)
-        binding.urlBar.setText(finalUrl)
-    }
-
-    // Downloads
-    private fun downloadFile(url: String, userAgent: String, contentDisposition: String, mimeType: String) {
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.Q) {
-            if (ContextCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-                ActivityCompat.requestPermissions(this, arrayOf(Manifest.permission.WRITE_EXTERNAL_STORAGE), STORAGE_PERMISSION_CODE)
-                return
-            }
-        }
-
-        val fileName = URLUtil.guessFileName(url, contentDisposition, mimeType)
-
-        try {
-            val request = DownloadManager.Request(Uri.parse(url)).apply {
-                setMimeType(mimeType)
-                addRequestHeader("User-Agent", userAgent)
-                setDescription("Downloading file...")
-                setTitle(fileName)
-                setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED)
-                setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS, fileName)
-            }
-
-            val downloadManager = getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
-            downloadManager.enqueue(request)
-
-            // Save to our download list
-            prefs.addDownload(DownloadItem(
-                url = url,
-                fileName = fileName,
-                filePath = "${Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS)}/$fileName",
-                status = DownloadStatus.DOWNLOADING
-            ))
-
-            Toast.makeText(this, "Download started: $fileName", Toast.LENGTH_SHORT).show()
-        } catch (e: Exception) {
-            Toast.makeText(this, "Download failed: ${e.message}", Toast.LENGTH_SHORT).show()
-        }
-    }
-
-    // Context Menu for links
-    override fun onCreateContextMenu(menu: ContextMenu?, v: View?, menuInfo: ContextMenu.ContextMenuInfo?) {
-        super.onCreateContextMenu(menu, v, menuInfo)
-        val webView = getCurrentWebView() ?: return
-        val result = webView.hitTestResult
-
-        when (result.type) {
-            WebView.HitTestResult.SRC_ANCHOR_TYPE,
-            WebView.HitTestResult.SRC_IMAGE_ANCHOR_TYPE -> {
-                contextMenuUrl = result.extra
-                menu?.setHeaderTitle("Link Options")
-                menu?.add(0, 1, 0, "Open in New Tab")
-                menu?.add(0, 2, 0, "Copy Link")
-                menu?.add(0, 3, 0, "Share Link")
-            }
-            WebView.HitTestResult.IMAGE_TYPE -> {
-                contextMenuUrl = result.extra
-                menu?.setHeaderTitle("Image Options")
-                menu?.add(0, 4, 0, "Save Image")
-                menu?.add(0, 5, 0, "Open Image in New Tab")
-            }
-        }
-    }
-
-    override fun onContextItemSelected(item: MenuItem): Boolean {
-        val url = contextMenuUrl ?: return super.onContextItemSelected(item)
-
-        when (item.itemId) {
-            1 -> { // Open in New Tab
-                val newTab = createNewTab()
-                webViews[newTab.id]?.loadUrl(url)
-                Toast.makeText(this, "Opened in new tab", Toast.LENGTH_SHORT).show()
-            }
-            2 -> { // Copy Link
-                val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as android.content.ClipboardManager
-                clipboard.setPrimaryClip(android.content.ClipData.newPlainText("URL", url))
-                Toast.makeText(this, "Link copied", Toast.LENGTH_SHORT).show()
-            }
-            3 -> { // Share Link
-                val intent = Intent(Intent.ACTION_SEND).apply {
-                    type = "text/plain"
-                    putExtra(Intent.EXTRA_TEXT, url)
                 }
-                startActivity(Intent.createChooser(intent, "Share via"))
-            }
-            4 -> { // Save Image
-                downloadFile(url, "", "", "image/*")
-            }
-            5 -> { // Open Image in New Tab
-                val newTab = createNewTab()
-                webViews[newTab.id]?.loadUrl(url)
-            }
-        }
 
-        return true
-    }
+            } catch (e: Exception) {
 
-    private fun hideKeyboard() {
-        val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
-        imm.hideSoftInputFromWindow(binding.urlBar.windowToken, 0)
-        binding.urlBar.clearFocus()
-    }
+                runOnUiThread {
 
-    override fun onBackPressed() {
-        val webView = getCurrentWebView()
-        when {
-            binding.fragmentContainer.isVisible -> {
-                if (isHomeVisible) showHome() else showWebView()
+                    Toast.makeText(
+                        this,
+                        "Update check failed",
+                        Toast.LENGTH_LONG
+                    ).show()
+
+                }
+
             }
-            webView?.canGoBack() == true -> webView.goBack()
-            !isHomeVisible -> showHome()
-            else -> super.onBackPressed()
-        }
-    }
 
-    override fun onDestroy() {
-        super.onDestroy()
-        scope.cancel()
-        webViews.values.forEach { it.destroy() }
+        }.start()
+
     }
 }
