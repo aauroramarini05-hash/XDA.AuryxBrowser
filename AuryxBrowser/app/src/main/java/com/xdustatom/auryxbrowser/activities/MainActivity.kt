@@ -131,9 +131,8 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
                 R.id.nav_tools -> {
-                    // Se il tuo tools fragment si chiama AuryxToolsFragment, cambia la stringa qui sotto:
-                    // "com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment"
-                    switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.ToolsFragment")
+                    // Tools = AuryxToolsFragment (quello che hai nella repo)
+                    switchToFragmentSafe("com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment")
                     true
                 }
                 R.id.nav_settings -> {
