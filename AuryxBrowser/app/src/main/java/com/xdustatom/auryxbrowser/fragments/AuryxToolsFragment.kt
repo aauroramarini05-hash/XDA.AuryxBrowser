@@ -20,21 +20,21 @@ class AuryxToolsFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        
+
         binding.cardNetworkMonitor.setOnClickListener {
             parentFragmentManager.beginTransaction()
                 .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, NetworkMonitorFragment())
                 .addToBackStack(null)
                 .commit()
         }
-        
+
         binding.cardDeviceInfo.setOnClickListener {
             parentFragmentManager.beginTransaction()
                 .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, DeviceInfoFragment())
                 .addToBackStack(null)
                 .commit()
         }
-        
+
         binding.cardPerformance.setOnClickListener {
             parentFragmentManager.beginTransaction()
                 .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, PerformanceFragment())
