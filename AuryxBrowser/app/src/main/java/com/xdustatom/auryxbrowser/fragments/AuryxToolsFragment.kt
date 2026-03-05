@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.xdustatom.auryxbrowser.R
 import com.xdustatom.auryxbrowser.activities.MainActivity
 import com.xdustatom.auryxbrowser.databinding.FragmentAuryxToolsBinding
 
@@ -13,7 +14,11 @@ class AuryxToolsFragment : Fragment() {
     private var _binding: FragmentAuryxToolsBinding? = null
     private val binding get() = _binding!!
 
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View {
         _binding = FragmentAuryxToolsBinding.inflate(inflater, container, false)
         return binding.root
     }
@@ -22,42 +27,41 @@ class AuryxToolsFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         binding.cardNetworkMonitor.setOnClickListener {
-            parentFragmentManager.beginTransaction()
-                .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, NetworkMonitorFragment())
-                .addToBackStack(null)
-                .commit()
+            openFragment(NetworkMonitorFragment())
         }
 
         binding.cardDeviceInfo.setOnClickListener {
-            parentFragmentManager.beginTransaction()
-                .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, DeviceInfoFragment())
-                .addToBackStack(null)
-                .commit()
+            openFragment(DeviceInfoFragment())
         }
 
         binding.cardPerformance.setOnClickListener {
-            parentFragmentManager.beginTransaction()
-                .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, PerformanceFragment())
-                .addToBackStack(null)
-                .commit()
+            openFragment(PerformanceFragment())
         }
 
         binding.cardPageInfo.setOnClickListener {
-            // Navigate to Page Info through MainActivity
-            (activity as? MainActivity)?.let { mainActivity ->
-                // Trigger page info from menu
-                parentFragmentManager.popBackStack()
-            }
+            // Qui puoi implementare davvero una schermata "Page Info" se vuoi.
+            // Per ora: torna indietro (comportamento originale, ma senza variabile inutilizzata).
+            parentFragmentManager.popBackStack()
         }
 
         binding.cardAssistant.setOnClickListener {
-            parentFragmentManager.beginTransaction()
-                .replace(com.xdustatom.auryxbrowser.R.id.fragmentContainer, AssistantFragment { action, data ->
+            openFragment(
+                AssistantFragment { action, data ->
                     (activity as? MainActivity)?.performAssistantAction(action, data)
-                })
-                .addToBackStack(null)
-                .commit()
+                }
+            )
         }
+    }
+
+    private fun openFragment(fragment: Fragment) {
+        // Se non hai un container con questo id, evitiamo crash.
+        val containerId = R.id.fragmentContainer
+        if (containerId == 0) return
+
+        parentFragmentManager.beginTransaction()
+            .replace(containerId, fragment)
+            .addToBackStack(null)
+            .commit()
     }
 
     override fun onDestroyView() {
