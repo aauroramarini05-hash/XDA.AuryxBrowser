@@ -15,7 +15,9 @@ import com.xdustatom.auryxbrowser.activities.BrowserStore
 class HistoryFragment : Fragment(R.layout.fragment_history) {
 
     companion object {
-        fun newInstance() = HistoryFragment()
+        fun newInstance(): HistoryFragment {
+            return HistoryFragment()
+        }
     }
 
     private lateinit var store: BrowserStore
@@ -26,13 +28,14 @@ class HistoryFragment : Fragment(R.layout.fragment_history) {
         super.onViewCreated(view, savedInstanceState)
 
         store = BrowserStore(requireContext())
+
         list = view.findViewById(R.id.historyList)
         btnClear = view.findViewById(R.id.btnClearHistory)
 
         render()
 
         list.setOnItemClickListener { _, _, position, _ ->
-            val url = (list.adapter.getItem(position) as String)
+            val url = list.adapter.getItem(position) as String
             openUrl(url)
         }
 
@@ -45,17 +48,23 @@ class HistoryFragment : Fragment(R.layout.fragment_history) {
 
     private fun render() {
         val data = store.getHistory()
-        list.adapter = ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, data)
+
+        list.adapter = ArrayAdapter(
+            requireContext(),
+            android.R.layout.simple_list_item_1,
+            data
+        )
+
         if (data.isEmpty()) {
-            Toast.makeText(requireContext(), "History is empty", Toast.LENGTH_SHORT).show()
+            Toast.makeText(requireContext(), "History empty", Toast.LENGTH_SHORT).show()
         }
     }
 
     private fun openUrl(url: String) {
-        runCatching {
+        try {
             startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
-        }.onFailure {
-            Toast.makeText(requireContext(), "Can't open", Toast.LENGTH_SHORT).show()
+        } catch (e: Exception) {
+            Toast.makeText(requireContext(), "Cannot open URL", Toast.LENGTH_SHORT).show()
         }
     }
 }
