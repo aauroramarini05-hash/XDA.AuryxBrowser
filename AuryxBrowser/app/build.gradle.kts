@@ -18,42 +18,45 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    // --- Signing (works in GitHub Actions via env vars) ---
-    val storeFilePath = System.getenv("SIGNING_STORE_FILE")
-    val storePassword = System.getenv("SIGNING_STORE_PASSWORD")
-    val keyAlias = System.getenv("SIGNING_KEY_ALIAS")
-    val keyPassword = System.getenv("SIGNING_KEY_PASSWORD")
+    // ✅ Read signing from ENV (GitHub Actions provides these env vars)
+    val signingStoreFilePathEnv = System.getenv("SIGNING_STORE_FILE")
+    val signingStorePasswordEnv = System.getenv("SIGNING_STORE_PASSWORD")
+    val signingKeyAliasEnv = System.getenv("SIGNING_KEY_ALIAS")
+    val signingKeyPasswordEnv = System.getenv("SIGNING_KEY_PASSWORD")
 
-    if (!storeFilePath.isNullOrBlank()
-        && !storePassword.isNullOrBlank()
-        && !keyAlias.isNullOrBlank()
-        && !keyPassword.isNullOrBlank()
+    // Create signing config only when all values exist
+    if (!signingStoreFilePathEnv.isNullOrBlank()
+        && !signingStorePasswordEnv.isNullOrBlank()
+        && !signingKeyAliasEnv.isNullOrBlank()
+        && !signingKeyPasswordEnv.isNullOrBlank()
     ) {
         signingConfigs {
             create("release") {
-                storeFile = file(storeFilePath)
-                storePassword = storePassword
-                keyAlias = keyAlias
-                keyPassword = keyPassword
-            }
-        }
-        buildTypes {
-            getByName("release") {
-                signingConfig = signingConfigs.getByName("release")
+                storeFile = file(signingStoreFilePathEnv)
+                storePassword = signingStorePasswordEnv
+                keyAlias = signingKeyAliasEnv
+                keyPassword = signingKeyPasswordEnv
             }
         }
     }
 
     buildTypes {
         release {
-            // ✅ Keep everything (no code/resource stripping)
+            // ✅ Keep everything (no stripping)
             isMinifyEnabled = false
             isShrinkResources = false
+
+            // ✅ Attach signing ONLY if we created it
+            if (signingConfigs.findByName("release") != null) {
+                signingConfig = signingConfigs.getByName("release")
+            }
+
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
         }
+
         debug {
             isMinifyEnabled = false
         }
