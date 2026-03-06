@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_dark"
+    tools:context=".activities.MainActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/surface_dark">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingStart="14dp"
+            android:paddingEnd="14dp">
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="0dp"
+                android:layout_height="52dp"
+                android:layout_weight="1"
+                app:cardBackgroundColor="@color/surface_elevated"
+                app:cardCornerRadius="26dp"
+                app:cardElevation="0dp"
+                app:strokeColor="@color/neon_green_dim"
+                app:strokeWidth="1dp">
+
+                <EditText
+                    android:id="@+id/urlBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:hint="Search or enter URL"
+                    android:imeOptions="actionGo"
+                    android:inputType="textUri"
+                    android:maxLines="1"
+                    android:paddingStart="18dp"
+                    android:paddingEnd="18dp"
+                    android:singleLine="true"
+                    android:textColor="@color/text_primary"
+                    android:textColorHint="@color/text_hint"
+                    android:textSize="18sp" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <ImageButton
+                android:id="@+id/btnRefresh"
+                android:layout_width="52dp"
+                android:layout_height="52dp"
+                android:layout_marginStart="8dp"
+                android:background="@drawable/bg_tv_focus_circle"
+                android:contentDescription="Refresh"
+                android:padding="12dp"
+                android:src="@drawable/ic_refresh"
+                app:tint="@color/text_primary" />
+
+            <FrameLayout
+                android:layout_width="52dp"
+                android:layout_height="52dp"
+                android:layout_marginStart="6dp">
+
+                <ImageButton
+                    android:id="@+id/btnTabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/bg_tv_focus_circle"
+                    android:contentDescription="Tabs"
+                    android:padding="12dp"
+                    android:src="@drawable/ic_tabs"
+                    app:tint="@color/text_primary" />
+
+                <TextView
+                    android:id="@+id/tabsCount"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/bg_tab_count"
+                    android:gravity="center"
+                    android:text="1"
+                    android:textColor="@color/background_dark"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+            </FrameLayout>
+
+            <ImageButton
+                android:id="@+id/btnMenu"
+                android:layout_width="52dp"
+                android:layout_height="52dp"
+                android:layout_marginStart="6dp"
+                android:background="@drawable/bg_tv_focus_circle"
+                android:contentDescription="Menu"
+                android:padding="12dp"
+                android:src="@drawable/ic_menu"
+                app:tint="@color/text_primary" />
+        </LinearLayout>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:indeterminate="false"
+            android:max="100"
+            android:progress="0"
+            android:progressTint="@color/neon_green"
+            android:visibility="gone" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:id="@+id/homeContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingTop="70dp"
+            android:visibility="visible">
+
+            <ImageView
+                android:id="@+id/imgLogo"
+                android:layout_width="152dp"
+                android:layout_height="152dp"
+                android:contentDescription="AuryxBrowser Logo"
+                android:src="@drawable/ic_logo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="AuryxBrowser"
+                android:textColor="@color/text_primary"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="Fast. Private. Powerful."
+                android:textColor="@color/text_secondary"
+                android:textSize="18sp" />
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="36dp"
+                android:layout_marginEnd="40dp"
+                app:cardBackgroundColor="@color/surface_elevated"
+                app:cardCornerRadius="34dp"
+                app:cardElevation="4dp"
+                app:strokeColor="@color/neon_green_dim"
+                app:strokeWidth="1dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingStart="20dp"
+                    android:paddingEnd="20dp">
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:src="@drawable/ic_search"
+                        app:tint="@color/neon_green" />
+
+                    <EditText
+                        android:id="@+id/homeSearchBar"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="14dp"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:hint="Search the web"
+                        android:imeOptions="actionSearch"
+                        android:inputType="text"
+                        android:maxLines="1"
+                        android:singleLine="true"
+                        android:textColor="@color/text_primary"
+                        android:textColorHint="@color/text_hint"
+                        android:textSize="20sp" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="34dp"
+                android:layout_marginEnd="40dp"
+                android:letterSpacing="0.1"
+                android:text="Quick Access"
+                android:textAllCaps="true"
+                android:textColor="@color/text_secondary"
+                android:textSize="15sp" />
+
+            <GridLayout
+                android:id="@+id/quickAccessGrid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="28dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="28dp"
+                android:alignmentMode="alignBounds"
+                android:columnCount="4"
+                android:rowCount="2" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/webViewContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <WebView
+                android:id="@+id/webView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/fragmentContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+    </FrameLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/surface_dark"
+        android:minHeight="74dp"
+        app:itemIconSize="28dp"
+        app:itemIconTint="@color/bottom_nav_color"
+        app:itemTextColor="@color/bottom_nav_color"
+        app:labelVisibilityMode="labeled"
+        app:menu="@menu/bottom_nav_menu" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
