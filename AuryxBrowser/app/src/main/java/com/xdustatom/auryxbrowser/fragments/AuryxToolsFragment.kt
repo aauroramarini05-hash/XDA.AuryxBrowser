@@ -20,16 +20,17 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
         view.findViewById<View>(R.id.btnNetworkMonitor).setOnClickListener { openTool(NetworkMonitorFragment()) }
         view.findViewById<View>(R.id.btnPerformance).setOnClickListener { openTool(PerformanceFragment()) }
         view.findViewById<View>(R.id.btnPageInfo).setOnClickListener { openTool(PageInfoFragment.newInstance()) }
-
-        // Downloads ID esiste ma è nascosto (se vuoi lo rendiamo card anche lui)
         view.findViewById<View>(R.id.btnDownloads)?.setOnClickListener { openTool(DownloadsFragment()) }
 
         view.findViewById<View>(R.id.btnAssistant).setOnClickListener {
             openTool(
                 AssistantFragment { action, data ->
                     val act = activity
-                    if (act is MainActivity) act.performAssistantAction(action, data)
-                    else Toast.makeText(requireContext(), "Action not available", Toast.LENGTH_SHORT).show()
+                    if (act is MainActivity) {
+                        act.performAssistantAction(action, data)
+                    } else {
+                        Toast.makeText(requireContext(), "Action not available", Toast.LENGTH_SHORT).show()
+                    }
                 }
             )
         }
