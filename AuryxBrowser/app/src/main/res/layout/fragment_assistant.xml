@@ -4,104 +4,113 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/background_dark">
+    android:background="@color/background_dark"
+    android:padding="16dp">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Auryx Assistant"
         android:textColor="@color/text_primary"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        android:padding="16dp" />
+        android:textSize="28sp"
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Your local browser helper"
+        android:layout_marginTop="6dp"
+        android:text="Local browser helper for quick actions"
         android:textColor="@color/text_secondary"
-        android:textSize="14sp"
-        android:paddingHorizontal="16dp"
-        android:paddingBottom="8dp" />
+        android:textSize="16sp" />
 
-    <!-- Quick Actions -->
-    <LinearLayout
+    <HorizontalScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:paddingHorizontal="12dp"
-        android:paddingBottom="12dp">
+        android:layout_marginTop="16dp"
+        android:scrollbars="none">
 
-        <com.google.android.material.chip.Chip
-            android:id="@+id/btnOpenWebsite"
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="8dp"
-            android:text="Open Site"
-            android:textColor="@color/text_primary"
-            app:chipBackgroundColor="@color/surface_elevated"
-            app:chipStrokeColor="@color/neon_green_dim"
-            app:chipStrokeWidth="1dp" />
+            android:orientation="horizontal">
 
-        <com.google.android.material.chip.Chip
-            android:id="@+id/btnSearch"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginEnd="8dp"
-            android:text="Search"
-            android:textColor="@color/text_primary"
-            app:chipBackgroundColor="@color/surface_elevated"
-            app:chipStrokeColor="@color/neon_green_dim"
-            app:chipStrokeWidth="1dp" />
+            <com.google.android.material.chip.Chip
+                android:id="@+id/btnOpenWebsite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:text="Open Site"
+                android:textColor="@color/text_primary"
+                app:chipBackgroundColor="@color/surface_elevated"
+                app:chipStrokeColor="@color/neon_green_dim"
+                app:chipStrokeWidth="1dp" />
 
-        <com.google.android.material.chip.Chip
-            android:id="@+id/btnSettings"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginEnd="8dp"
-            android:text="Settings"
-            android:textColor="@color/text_primary"
-            app:chipBackgroundColor="@color/surface_elevated"
-            app:chipStrokeColor="@color/neon_green_dim"
-            app:chipStrokeWidth="1dp" />
+            <com.google.android.material.chip.Chip
+                android:id="@+id/btnSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:text="Search"
+                android:textColor="@color/text_primary"
+                app:chipBackgroundColor="@color/surface_elevated"
+                app:chipStrokeColor="@color/neon_green_dim"
+                app:chipStrokeWidth="1dp" />
 
-        <com.google.android.material.chip.Chip
-            android:id="@+id/btnHelp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Help"
-            android:textColor="@color/text_primary"
-            app:chipBackgroundColor="@color/surface_elevated"
-            app:chipStrokeColor="@color/neon_green_dim"
-            app:chipStrokeWidth="1dp" />
+            <com.google.android.material.chip.Chip
+                android:id="@+id/btnSettings"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:text="Settings"
+                android:textColor="@color/text_primary"
+                app:chipBackgroundColor="@color/surface_elevated"
+                app:chipStrokeColor="@color/neon_green_dim"
+                app:chipStrokeWidth="1dp" />
 
-    </LinearLayout>
+            <com.google.android.material.chip.Chip
+                android:id="@+id/btnHelp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Help"
+                android:textColor="@color/text_primary"
+                app:chipBackgroundColor="@color/surface_elevated"
+                app:chipStrokeColor="@color/neon_green_dim"
+                app:chipStrokeWidth="1dp" />
+        </LinearLayout>
+    </HorizontalScrollView>
 
-    <!-- Conversation Area -->
-    <ScrollView
-        android:id="@+id/scrollView"
+    <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:fillViewport="true">
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        app:cardBackgroundColor="@color/surface_elevated"
+        app:cardCornerRadius="18dp"
+        app:cardElevation="2dp"
+        app:strokeColor="@color/neon_green_dim"
+        app:strokeWidth="1dp">
 
-        <TextView
-            android:id="@+id/tvConversation"
+        <ScrollView
+            android:id="@+id/scrollView"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp"
-            android:textColor="@color/text_primary"
-            android:textSize="14sp"
-            android:lineSpacingMultiplier="1.3" />
+            android:layout_height="match_parent"
+            android:fillViewport="true">
 
-    </ScrollView>
+            <TextView
+                android:id="@+id/tvConversation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:textColor="@color/text_primary"
+                android:textSize="15sp"
+                android:lineSpacingExtra="4dp" />
+        </ScrollView>
+    </com.google.android.material.card.MaterialCardView>
 
-    <!-- Input Area -->
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="16dp"
-        android:layout_marginBottom="80dp"
         app:cardBackgroundColor="@color/surface_dark"
         app:cardCornerRadius="24dp"
         app:cardElevation="4dp"
@@ -122,25 +131,23 @@
                 android:layout_height="44dp"
                 android:layout_weight="1"
                 android:background="@null"
-                android:hint="Ask me anything..."
-                android:textColorHint="@color/text_hint"
-                android:textColor="@color/text_primary"
-                android:textSize="14sp"
-                android:imeOptions="actionSend"
+                android:hint="Type a command..."
                 android:inputType="text"
-                android:maxLines="1" />
+                android:imeOptions="actionSend"
+                android:maxLines="1"
+                android:textColor="@color/text_primary"
+                android:textColorHint="@color/text_hint"
+                android:textSize="14sp" />
 
             <ImageButton
                 android:id="@+id/btnSend"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:background="@drawable/bg_send_button"
-                android:src="@drawable/ic_send"
                 android:padding="10dp"
+                android:src="@drawable/ic_send"
                 app:tint="@color/background_dark" />
-
         </LinearLayout>
-
     </com.google.android.material.card.MaterialCardView>
 
 </LinearLayout>
