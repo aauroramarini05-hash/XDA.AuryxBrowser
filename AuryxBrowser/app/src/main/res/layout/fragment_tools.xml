@@ -270,7 +270,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:layout_gravity="center"
-                        android:src="@drawable/ic_page"
+                        android:src="@drawable/ic_page_info"
                         android:contentDescription="Page Info" />
                 </com.google.android.material.card.MaterialCardView>
 
