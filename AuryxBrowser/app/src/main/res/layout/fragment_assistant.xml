@@ -5,15 +5,39 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/background_dark"
-    android:padding="16dp">
+    android:paddingStart="16dp"
+    android:paddingTop="16dp"
+    android:paddingEnd="16dp"
+    android:paddingBottom="8dp">
 
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Auryx Assistant (Beta)"
-        android:textColor="@color/text_primary"
-        android:textSize="28sp"
-        android:textStyle="bold" />
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Auryx Assistant"
+            android:textColor="@color/text_primary"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:paddingStart="10dp"
+            android:paddingTop="4dp"
+            android:paddingEnd="10dp"
+            android:paddingBottom="4dp"
+            android:text="Beta"
+            android:textColor="@color/background_dark"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:background="@drawable/bg_send_button" />
+    </LinearLayout>
 
     <TextView
         android:layout_width="match_parent"
@@ -21,12 +45,12 @@
         android:layout_marginTop="6dp"
         android:text="Local browser helper for quick actions"
         android:textColor="@color/text_secondary"
-        android:textSize="16sp" />
+        android:textSize="15sp" />
 
     <HorizontalScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="14dp"
         android:scrollbars="none">
 
         <LinearLayout
@@ -34,48 +58,64 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <com.google.android.material.chip.Chip
+            <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnOpenWebsite"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
+                android:layout_height="44dp"
+                android:layout_marginEnd="10dp"
                 android:text="Open Site"
+                android:textAllCaps="false"
                 android:textColor="@color/text_primary"
-                app:chipBackgroundColor="@color/surface_elevated"
-                app:chipStrokeColor="@color/neon_green_dim"
-                app:chipStrokeWidth="1dp" />
+                android:textStyle="bold"
+                app:backgroundTint="@color/surface_elevated"
+                app:cornerRadius="16dp"
+                app:rippleColor="@color/neon_green_dim"
+                app:strokeColor="@color/neon_green_dim"
+                app:strokeWidth="1dp" />
 
-            <com.google.android.material.chip.Chip
+            <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnSearch"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
+                android:layout_height="44dp"
+                android:layout_marginEnd="10dp"
                 android:text="Search"
+                android:textAllCaps="false"
                 android:textColor="@color/text_primary"
-                app:chipBackgroundColor="@color/surface_elevated"
-                app:chipStrokeColor="@color/neon_green_dim"
-                app:chipStrokeWidth="1dp" />
+                android:textStyle="bold"
+                app:backgroundTint="@color/surface_elevated"
+                app:cornerRadius="16dp"
+                app:rippleColor="@color/neon_green_dim"
+                app:strokeColor="@color/neon_green_dim"
+                app:strokeWidth="1dp" />
 
-            <com.google.android.material.chip.Chip
+            <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnSettings"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
+                android:layout_height="44dp"
+                android:layout_marginEnd="10dp"
                 android:text="Settings"
+                android:textAllCaps="false"
                 android:textColor="@color/text_primary"
-                app:chipBackgroundColor="@color/surface_elevated"
-                app:chipStrokeColor="@color/neon_green_dim"
-                app:chipStrokeWidth="1dp" />
+                android:textStyle="bold"
+                app:backgroundTint="@color/surface_elevated"
+                app:cornerRadius="16dp"
+                app:rippleColor="@color/neon_green_dim"
+                app:strokeColor="@color/neon_green_dim"
+                app:strokeWidth="1dp" />
 
-            <com.google.android.material.chip.Chip
+            <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnHelp"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="44dp"
                 android:text="Help"
+                android:textAllCaps="false"
                 android:textColor="@color/text_primary"
-                app:chipBackgroundColor="@color/surface_elevated"
-                app:chipStrokeColor="@color/neon_green_dim"
-                app:chipStrokeWidth="1dp" />
+                android:textStyle="bold"
+                app:backgroundTint="@color/surface_elevated"
+                app:cornerRadius="16dp"
+                app:rippleColor="@color/neon_green_dim"
+                app:strokeColor="@color/neon_green_dim"
+                app:strokeWidth="1dp" />
         </LinearLayout>
     </HorizontalScrollView>
 
@@ -84,10 +124,10 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="12dp"
+        android:layout_marginBottom="10dp"
         app:cardBackgroundColor="@color/surface_elevated"
-        app:cardCornerRadius="18dp"
-        app:cardElevation="2dp"
+        app:cardCornerRadius="22dp"
+        app:cardElevation="3dp"
         app:strokeColor="@color/neon_green_dim"
         app:strokeWidth="1dp">
 
@@ -95,27 +135,28 @@
             android:id="@+id/scrollView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:fillViewport="true">
+            android:fillViewport="true"
+            android:scrollbars="vertical">
 
             <TextView
                 android:id="@+id/tvConversation"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:padding="16dp"
+                android:padding="18dp"
                 android:textColor="@color/text_primary"
-                android:textSize="15sp"
-                android:lineSpacingExtra="4dp" />
+                android:textSize="16sp"
+                android:lineSpacingExtra="6dp" />
         </ScrollView>
     </com.google.android.material.card.MaterialCardView>
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
+        android:layout_marginBottom="72dp"
         app:cardBackgroundColor="@color/surface_dark"
         app:cardCornerRadius="24dp"
         app:cardElevation="4dp"
-        app:strokeColor="@color/neon_green_dim"
+        app:strokeColor="@color/neon_green"
         app:strokeWidth="1dp">
 
         <LinearLayout
@@ -123,8 +164,10 @@
             android:layout_height="wrap_content"
             android:gravity="center_vertical"
             android:orientation="horizontal"
-            android:paddingHorizontal="16dp"
-            android:paddingVertical="8dp">
+            android:paddingStart="16dp"
+            android:paddingTop="8dp"
+            android:paddingEnd="8dp"
+            android:paddingBottom="8dp">
 
             <EditText
                 android:id="@+id/etMessage"
@@ -136,20 +179,21 @@
                 android:imeOptions="actionSend"
                 android:inputType="text"
                 android:maxLines="1"
-                android:paddingEnd="8dp"
+                android:singleLine="true"
                 android:textColor="@color/text_primary"
                 android:textColorHint="@color/text_hint"
-                android:textSize="14sp"
+                android:textSize="15sp"
                 android:focusable="true"
                 android:focusableInTouchMode="true"
-                android:clickable="true" />
+                android:clickable="true"
+                android:paddingEnd="8dp" />
 
             <ImageButton
                 android:id="@+id/btnSend"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
                 android:background="@drawable/bg_send_button"
-                android:padding="10dp"
+                android:padding="11dp"
                 android:src="@drawable/ic_send"
                 app:tint="@color/background_dark" />
         </LinearLayout>
