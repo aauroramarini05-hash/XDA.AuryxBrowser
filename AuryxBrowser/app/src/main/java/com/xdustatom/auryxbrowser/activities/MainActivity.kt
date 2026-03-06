@@ -29,10 +29,10 @@ import androidx.appcompat.widget.PopupMenu
 import androidx.core.view.isVisible
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.xdustatom.auryxbrowser.R
+import com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment
 import com.xdustatom.auryxbrowser.fragments.BookmarksFragment
 import com.xdustatom.auryxbrowser.fragments.HistoryFragment
 import com.xdustatom.auryxbrowser.fragments.SettingsFragment
-import com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.net.HttpURLConnection
@@ -47,10 +47,13 @@ class MainActivity : AppCompatActivity() {
         const val UPDATE_SITE = "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/"
         const val DEFAULT_HOME = "https://duckduckgo.com/"
 
-        // prefs keys
         const val PREFS = "auryx_prefs"
         const val KEY_HOME = "home_url"
         const val KEY_DESKTOP_MODE = "desktop_mode"
+        const val KEY_SEARCH_ENGINE = "search_engine"
+        const val KEY_APP_LANGUAGE = "app_language"
+        const val KEY_JAVASCRIPT_ENABLED = "javascript_enabled"
+        const val KEY_LOAD_IMAGES = "load_images"
     }
 
     private lateinit var urlBar: EditText
@@ -65,12 +68,9 @@ class MainActivity : AppCompatActivity() {
     private lateinit var fragmentContainer: android.view.View
 
     private var desktopModeEnabled = false
-
-    // Find in page
     private var findQuery: String = ""
     private var findActive: Boolean = false
 
-    // simple storage
     private lateinit var store: BrowserStore
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -81,7 +81,6 @@ class MainActivity : AppCompatActivity() {
 
         bindViews()
 
-        // load settings
         val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
         desktopModeEnabled = prefs.getBoolean(KEY_DESKTOP_MODE, false)
 
@@ -181,11 +180,15 @@ class MainActivity : AppCompatActivity() {
             CookieManager.getInstance().setAcceptThirdPartyCookies(webView, true)
         }
 
+        val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
+        val jsEnabled = prefs.getBoolean(KEY_JAVASCRIPT_ENABLED, true)
+        val loadImages = prefs.getBoolean(KEY_LOAD_IMAGES, true)
+
         val s: WebSettings = webView.settings
-        s.javaScriptEnabled = true
+        s.javaScriptEnabled = jsEnabled
         s.domStorageEnabled = true
         s.databaseEnabled = true
-        s.loadsImagesAutomatically = true
+        s.loadsImagesAutomatically = loadImages
         s.useWideViewPort = true
         s.loadWithOverviewMode = true
         s.builtInZoomControls = true
@@ -199,7 +202,6 @@ class MainActivity : AppCompatActivity() {
         webView.webChromeClient = object : WebChromeClient() {}
 
         webView.webViewClient = object : WebViewClient() {
-
             override fun shouldOverrideUrlLoading(view: WebView, request: WebResourceRequest): Boolean {
                 val url = request.url.toString()
                 if (url.startsWith("tel:") || url.startsWith("mailto:") || url.startsWith("sms:")) {
@@ -219,10 +221,7 @@ class MainActivity : AppCompatActivity() {
             override fun onPageFinished(view: WebView, url: String) {
                 progressBar?.isVisible = false
                 urlBar.setText(url)
-
-                // ✅ add to history automatically (avoid duplicates spam)
                 store.addHistory(url)
-
                 super.onPageFinished(view, url)
             }
         }
@@ -250,7 +249,9 @@ class MainActivity : AppCompatActivity() {
         val base = WebSettings.getDefaultUserAgent(this)
         return if (desktopModeEnabled) {
             base.replace("Mobile", "X11").replace("Android", "Linux")
-        } else base
+        } else {
+            base
+        }
     }
 
     private fun loadFromInput(input: String) {
@@ -267,8 +268,15 @@ class MainActivity : AppCompatActivity() {
         val looksLikeDomain = trimmed.contains(".") && !trimmed.contains(" ")
         if (looksLikeDomain) return "https://$trimmed"
 
+        val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
+        val engine = prefs.getString(KEY_SEARCH_ENGINE, "DuckDuckGo") ?: "DuckDuckGo"
         val q = URLEncoder.encode(trimmed, "UTF-8")
-        return "https://duckduckgo.com/?q=$q"
+
+        return when (engine) {
+            "Google" -> "https://www.google.com/search?q=$q"
+            "Bing" -> "https://www.bing.com/search?q=$q"
+            else -> "https://duckduckgo.com/?q=$q"
+        }
     }
 
     private fun loadUrl(url: String) {
@@ -287,7 +295,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
-
             R.id.menu_refresh -> {
                 showBrowser()
                 webView.reload()
@@ -517,6 +524,7 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(url)
                 }
             }
+
             "search" -> {
                 val q = data?.trim().orEmpty()
                 if (q.isNotEmpty()) {
@@ -524,13 +532,16 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(q)
                 }
             }
+
             "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
             "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
             "open_history" -> bottomNav.selectedItemId = R.id.nav_history
+
             "new_tab" -> {
                 showBrowser()
                 loadUrl(getHomeUrl())
             }
+
             else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
         }
     }
