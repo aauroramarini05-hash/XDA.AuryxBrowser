@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Auryx Assistant"
+        android:text="Auryx Assistant (Beta)"
         android:textColor="@color/text_primary"
         android:textSize="28sp"
         android:textStyle="bold" />
