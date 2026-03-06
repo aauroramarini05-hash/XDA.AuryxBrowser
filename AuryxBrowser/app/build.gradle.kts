@@ -12,19 +12,17 @@ android {
         applicationId = "com.xdustatom.auryxbrowser"
         minSdk = 23
         targetSdk = 34
-        versionCode = 1305002
-        versionName = "1.305.02"
+        versionCode = 1305003
+        versionName = "1.305.03"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    // ✅ Read signing from ENV (GitHub Actions provides these env vars)
     val signingStoreFilePathEnv = System.getenv("SIGNING_STORE_FILE")
     val signingStorePasswordEnv = System.getenv("SIGNING_STORE_PASSWORD")
     val signingKeyAliasEnv = System.getenv("SIGNING_KEY_ALIAS")
     val signingKeyPasswordEnv = System.getenv("SIGNING_KEY_PASSWORD")
 
-    // Create signing config only when all values exist
     if (!signingStoreFilePathEnv.isNullOrBlank()
         && !signingStorePasswordEnv.isNullOrBlank()
         && !signingKeyAliasEnv.isNullOrBlank()
@@ -42,11 +40,9 @@ android {
 
     buildTypes {
         release {
-            // ✅ Keep everything (no stripping)
             isMinifyEnabled = false
             isShrinkResources = false
 
-            // ✅ Attach signing ONLY if we created it
             if (signingConfigs.findByName("release") != null) {
                 signingConfig = signingConfigs.getByName("release")
             }
@@ -89,6 +85,7 @@ dependencies {
     implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
     implementation("androidx.recyclerview:recyclerview:1.3.2")
     implementation("androidx.cardview:cardview:1.0.0")
+    implementation("androidx.leanback:leanback:1.0.0")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
     implementation("com.google.code.gson:gson:2.10.1")
