@@ -12,8 +12,8 @@ android {
         applicationId = "com.xdustatom.auryxbrowser"
         minSdk = 23
         targetSdk = 34
-        versionCode = 1305003
-        versionName = "1.305.03"
+        versionCode = 1306003
+        versionName = "1.306.03"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
