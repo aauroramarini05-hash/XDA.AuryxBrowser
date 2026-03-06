@@ -51,7 +51,6 @@ class MainActivity : AppCompatActivity() {
         const val UPDATE_SITE = "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/"
         const val DEFAULT_HOME = "https://duckduckgo.com/"
 
-        // prefs keys
         const val PREFS = "auryx_prefs"
         const val KEY_HOME = "home_url"
         const val KEY_DESKTOP_MODE = "desktop_mode"
@@ -75,11 +74,9 @@ class MainActivity : AppCompatActivity() {
     private var desktopModeEnabled = false
     private var isTvDevice = false
 
-    // Find in page
     private var findQuery: String = ""
     private var findActive: Boolean = false
 
-    // simple storage
     private lateinit var store: BrowserStore
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -90,7 +87,6 @@ class MainActivity : AppCompatActivity() {
 
         bindViews()
 
-        // load settings
         val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
         desktopModeEnabled = prefs.getBoolean(KEY_DESKTOP_MODE, false)
 
@@ -277,10 +273,7 @@ class MainActivity : AppCompatActivity() {
             override fun onPageFinished(view: WebView, url: String) {
                 progressBar?.isVisible = false
                 urlBar.setText(url)
-
-                // add to history automatically
                 store.addHistory(url)
-
                 super.onPageFinished(view, url)
             }
         }
@@ -586,7 +579,54 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    private fun isNetworkAvailable(): Boolean {
+            private fun isNetworkAvailable(): Boolean {
         val cm = getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
         val net = cm.activeNetwork ?: return false
-  
+        val caps = cm.getNetworkCapabilities(net) ?: return false
+        return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
+    }
+
+    fun performAssistantAction(action: String, data: String?) {
+        when (action) {
+            "open_url" -> {
+                val url = data?.trim().orEmpty()
+                if (url.isNotEmpty()) {
+                    showBrowser()
+                    loadFromInput(url)
+                }
+            }
+            "search" -> {
+                val q = data?.trim().orEmpty()
+                if (q.isNotEmpty()) {
+                    showBrowser()
+                    loadFromInput(q)
+                }
+            }
+            "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
+            "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
+            "open_history" -> bottomNav.selectedItemId = R.id.nav_history
+            "new_tab" -> {
+                showBrowser()
+                loadUrl(getHomeUrl())
+            }
+            else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
+        }
+    }
+
+    override fun onBackPressed() {
+        if (findActive) {
+            findActive = false
+            webView.clearMatches()
+            Toast.makeText(this, "Find cleared", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        if (fragmentContainer.isVisible) {
+            showBrowser()
+            return
+        }
+
+        if (webView.canGoBack()) webView.goBack()
+        else super.onBackPressed()
+    }
+}
