@@ -26,6 +26,7 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.EditText
 import android.widget.ImageButton
+import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
@@ -47,7 +48,7 @@ import kotlin.concurrent.thread
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        const val CURRENT_VERSION = "1.305.02"
+        const val CURRENT_VERSION = "1.305.03"
         const val UPDATE_SITE = "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/"
         const val DEFAULT_HOME = "https://duckduckgo.com/"
 
@@ -61,8 +62,12 @@ class MainActivity : AppCompatActivity() {
     }
 
     private lateinit var urlBar: EditText
+    private var homeSearchBar: EditText? = null
     private lateinit var btnRefresh: ImageButton
     private lateinit var btnMenu: ImageButton
+    private var btnTabs: View? = null
+    private var tabsCount: TextView? = null
+
     private lateinit var webView: WebView
     private lateinit var bottomNav: BottomNavigationView
     private var progressBar: android.widget.ProgressBar? = null
@@ -99,6 +104,7 @@ class MainActivity : AppCompatActivity() {
         setupBottomNav()
         setupWebView()
         setupUrlInputs()
+        setupHomeSearch()
         optimizeForTv()
 
         if (savedInstanceState == null) {
@@ -113,11 +119,17 @@ class MainActivity : AppCompatActivity() {
         btnMenu = findViewById(R.id.btnMenu)
         webView = findViewById(R.id.webView)
         bottomNav = findViewById(R.id.bottomNav)
+
         progressBar = runCatching { findViewById<android.widget.ProgressBar>(R.id.progressBar) }.getOrNull()
+        homeSearchBar = runCatching { findViewById<EditText>(R.id.homeSearchBar) }.getOrNull()
+        btnTabs = runCatching { findViewById<View>(R.id.btnTabs) }.getOrNull()
+        tabsCount = runCatching { findViewById<TextView>(R.id.tabsCount) }.getOrNull()
 
         homeContainer = findViewById(R.id.homeContainer)
         webViewContainer = findViewById(R.id.webViewContainer)
         fragmentContainer = findViewById(R.id.fragmentContainer)
+
+        tabsCount?.text = "1"
     }
 
     private fun isRunningOnTv(): Boolean {
@@ -127,35 +139,6 @@ class MainActivity : AppCompatActivity() {
 
         val hasLeanback = packageManager.hasSystemFeature("android.software.leanback")
         return isTelevisionMode || hasLeanback
-    }
-
-    private fun optimizeForTv() {
-        if (!isTvDevice) return
-
-        urlBar.isFocusable = true
-        urlBar.isFocusableInTouchMode = true
-
-        btnRefresh.isFocusable = true
-        btnMenu.isFocusable = true
-        bottomNav.isFocusable = true
-        webView.isFocusable = true
-        webView.isFocusableInTouchMode = true
-
-        bottomNav.labelVisibilityMode = BottomNavigationView.LABEL_VISIBILITY_LABELED
-
-        urlBar.setOnFocusChangeListener { v, hasFocus ->
-            v.alpha = if (hasFocus) 1f else 0.92f
-        }
-
-        btnRefresh.setOnFocusChangeListener { v, hasFocus ->
-            v.scaleX = if (hasFocus) 1.08f else 1f
-            v.scaleY = if (hasFocus) 1.08f else 1f
-        }
-
-        btnMenu.setOnFocusChangeListener { v, hasFocus ->
-            v.scaleX = if (hasFocus) 1.08f else 1f
-            v.scaleY = if (hasFocus) 1.08f else 1f
-        }
     }
 
     private fun setupTopButtons() {
@@ -176,6 +159,10 @@ class MainActivity : AppCompatActivity() {
             }
             popup.show()
         }
+
+        btnTabs?.setOnClickListener {
+            Toast.makeText(this, "Tabs coming soon", Toast.LENGTH_SHORT).show()
+        }
     }
 
     private fun setupBottomNav() {
@@ -186,23 +173,48 @@ class MainActivity : AppCompatActivity() {
                     loadUrl(getHomeUrl())
                     true
                 }
+
                 R.id.nav_bookmarks -> {
                     showFragment(BookmarksFragment.newInstance())
                     true
                 }
+
                 R.id.nav_history -> {
                     showFragment(HistoryFragment.newInstance())
                     true
                 }
+
                 R.id.nav_tools -> {
                     showFragment(AuryxToolsFragment.newInstance())
                     true
                 }
+
                 R.id.nav_settings -> {
                     showFragment(SettingsFragment.newInstance())
                     true
                 }
+
                 else -> false
+            }
+        }
+    }
+
+    private fun setupHomeSearch() {
+        homeSearchBar?.setOnEditorActionListener { _, actionId, event ->
+            val isSearch =
+                actionId == EditorInfo.IME_ACTION_SEARCH ||
+                    actionId == EditorInfo.IME_ACTION_GO ||
+                    (event?.keyCode == KeyEvent.KEYCODE_ENTER && event.action == KeyEvent.ACTION_DOWN)
+
+            if (isSearch) {
+                val text = homeSearchBar?.text?.toString()?.trim().orEmpty()
+                if (text.isNotEmpty()) {
+                    showBrowser()
+                    loadFromInput(text)
+                }
+                true
+            } else {
+                false
             }
         }
     }
@@ -221,7 +233,10 @@ class MainActivity : AppCompatActivity() {
         fragmentContainer.isVisible = false
         homeContainer.isVisible = false
         webViewContainer.isVisible = true
-        if (isTvDevice) webView.requestFocus()
+
+        if (isTvDevice) {
+            webView.requestFocus()
+        }
     }
 
     @SuppressLint("SetJavaScriptEnabled")
@@ -293,7 +308,57 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(text)
                 }
                 true
-            } else false
+            } else {
+                false
+            }
+        }
+    }
+
+    private fun optimizeForTv() {
+        if (!isTvDevice) return
+
+        urlBar.isFocusable = true
+        urlBar.isFocusableInTouchMode = true
+
+        btnRefresh.isFocusable = true
+        btnMenu.isFocusable = true
+        bottomNav.isFocusable = true
+        webView.isFocusable = true
+        webView.isFocusableInTouchMode = true
+
+        btnTabs?.isFocusable = true
+        homeSearchBar?.apply {
+            isFocusable = true
+            isFocusableInTouchMode = true
+        }
+
+        bottomNav.labelVisibilityMode = BottomNavigationView.LABEL_VISIBILITY_LABELED
+
+        applyTvFocusEffect(urlBar, 1.02f)
+        applyTvFocusEffect(btnRefresh, 1.10f)
+        applyTvFocusEffect(btnMenu, 1.10f)
+        applyTvFocusEffect(webView, 1.0f)
+
+        btnTabs?.let { applyTvFocusEffect(it, 1.10f) }
+        homeSearchBar?.let { applyTvFocusEffect(it, 1.03f) }
+
+        webView.post {
+            if (webViewContainer.isVisible) {
+                webView.requestFocus()
+            } else {
+                urlBar.requestFocus()
+            }
+        }
+    }
+
+    private fun applyTvFocusEffect(view: View, focusedScale: Float) {
+        view.setOnFocusChangeListener { v, hasFocus ->
+            v.animate()
+                .scaleX(if (hasFocus) focusedScale else 1f)
+                .scaleY(if (hasFocus) focusedScale else 1f)
+                .alpha(if (hasFocus) 1f else 0.95f)
+                .setDuration(120)
+                .start()
         }
     }
 
@@ -347,7 +412,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
-
             R.id.menu_refresh -> {
                 showBrowser()
                 webView.reload()
@@ -411,6 +475,7 @@ class MainActivity : AppCompatActivity() {
                     btnMenu.performClick()
                     return true
                 }
+
                 KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE -> {
                     if (webViewContainer.isVisible) {
                         webView.reload()
@@ -566,6 +631,7 @@ class MainActivity : AppCompatActivity() {
             instanceFollowRedirects = true
             setRequestProperty("User-Agent", "AuryxBrowser/$CURRENT_VERSION")
         }
+
         conn.inputStream.use { input ->
             BufferedReader(InputStreamReader(input)).use { br ->
                 val sb = StringBuilder()
@@ -579,7 +645,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-            private fun isNetworkAvailable(): Boolean {
+    private fun isNetworkAvailable(): Boolean {
         val cm = getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
         val net = cm.activeNetwork ?: return false
         val caps = cm.getNetworkCapabilities(net) ?: return false
@@ -595,6 +661,7 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(url)
                 }
             }
+
             "search" -> {
                 val q = data?.trim().orEmpty()
                 if (q.isNotEmpty()) {
@@ -602,13 +669,16 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(q)
                 }
             }
+
             "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
             "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
             "open_history" -> bottomNav.selectedItemId = R.id.nav_history
+
             "new_tab" -> {
                 showBrowser()
                 loadUrl(getHomeUrl())
             }
+
             else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
         }
     }
@@ -626,7 +696,10 @@ class MainActivity : AppCompatActivity() {
             return
         }
 
-        if (webView.canGoBack()) webView.goBack()
-        else super.onBackPressed()
+        if (webView.canGoBack()) {
+            webView.goBack()
+        } else {
+            super.onBackPressed()
+        }
     }
 }
