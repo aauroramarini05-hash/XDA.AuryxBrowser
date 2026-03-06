@@ -8,102 +8,97 @@ data class AssistantResponse(
 
 class AuryxAssistant {
 
-    private val helpResponses = mapOf(
-        "bookmark" to "To add a bookmark, tap the menu button (⋮) and select 'Add to Bookmarks'. You can view all bookmarks from the bottom navigation bar.",
-        "history" to "Your browsing history is accessible from the bottom navigation bar. Tap 'History' to see all visited pages. You can clear history in Settings.",
-        "download" to "When you tap a downloadable file, AuryxBrowser will automatically start the download. Check your downloads from the menu.",
-        "tab" to "Tap the tabs button in the top bar to see all open tabs. You can open new tabs, switch between them, or close them from there.",
-        "search" to "Type in the URL bar or home search bar to search. DuckDuckGo is the default search engine. You can change it in Settings.",
-        "desktop" to "Enable Desktop Mode from the menu or Settings to view desktop versions of websites.",
-        "javascript" to "JavaScript can be enabled or disabled in Settings under the Browser section.",
-        "cache" to "Clear your browser cache in Settings under the Privacy section.",
-        "settings" to "Access Settings from the bottom navigation bar to customize your browser experience."
-    )
-
     fun getWelcomeMessage(): String {
-        return """Hello! I'm Auryx, your browser assistant. I can help you with:
-
-• Opening websites (try: "open google.com")
-• Searching the web (try: "search android news")
-• Browser features (try: "how to bookmark")
-• Navigation (try: "open settings")
-
-What would you like to do?"""
+        return "Hello! I'm your local browser helper. I can open websites, search the web, open bookmarks, open history, and explain browser features."
     }
 
     fun processQuery(query: String): AssistantResponse {
-        val lowerQuery = query.lowercase().trim()
+        val q = query.lowercase().trim()
 
-        // Open URL commands
-        if (lowerQuery.startsWith("open ") || lowerQuery.startsWith("go to ") || lowerQuery.startsWith("visit ")) {
-            val url = lowerQuery
+        if (q == "help") {
+            return AssistantResponse(
+                "Try commands like:\n" +
+                "• open google.com\n" +
+                "• search android tv browser\n" +
+                "• open settings\n" +
+                "• open bookmarks\n" +
+                "• open history\n" +
+                "• help bookmarks"
+            )
+        }
+
+        if (q.startsWith("open ") || q.startsWith("go to ") || q.startsWith("visit ")) {
+            val value = q
                 .removePrefix("open ")
                 .removePrefix("go to ")
                 .removePrefix("visit ")
                 .trim()
-            
-            return if (url == "settings") {
-                AssistantResponse("Opening Settings...", "open_settings")
-            } else if (url == "bookmarks") {
-                AssistantResponse("Opening Bookmarks...", "open_bookmarks")
-            } else if (url == "history") {
-                AssistantResponse("Opening History...", "open_history")
-            } else {
-                val finalUrl = if (url.contains(".")) url else "$url.com"
-                AssistantResponse("Opening $finalUrl...", "open_url", finalUrl)
+
+            return when (value) {
+                "settings" -> AssistantResponse("Opening Settings...", "open_settings")
+                "bookmarks" -> AssistantResponse("Opening Bookmarks...", "open_bookmarks")
+                "history" -> AssistantResponse("Opening History...", "open_history")
+                else -> {
+                    val finalUrl = if (
+                        value.startsWith("http://") || value.startsWith("https://")
+                    ) {
+                        value
+                    } else if (value.contains(".")) {
+                        "https://$value"
+                    } else {
+                        "https://$value.com"
+                    }
+
+                    AssistantResponse("Opening $finalUrl...", "open_url", finalUrl)
+                }
             }
         }
 
-        // Search commands
-        if (lowerQuery.startsWith("search ") || lowerQuery.startsWith("find ") || lowerQuery.startsWith("look up ")) {
-            val searchQuery = lowerQuery
+        if (q.startsWith("search ") || q.startsWith("find ") || q.startsWith("look up ")) {
+            val searchQuery = q
                 .removePrefix("search ")
                 .removePrefix("find ")
                 .removePrefix("look up ")
                 .trim()
-            return AssistantResponse("Searching for \"$searchQuery\"...", "search", searchQuery)
+
+            return if (searchQuery.isBlank()) {
+                AssistantResponse("Write something to search for.")
+            } else {
+                AssistantResponse("Searching for \"$searchQuery\"...", "search", searchQuery)
+            }
         }
 
-        // New tab
-        if (lowerQuery.contains("new tab") || lowerQuery.contains("open tab")) {
+        if (q.contains("new tab")) {
             return AssistantResponse("Opening a new tab...", "new_tab")
         }
 
-        // Help queries
-        if (lowerQuery.contains("how to") || lowerQuery.contains("help") || lowerQuery.contains("what is")) {
-            for ((keyword, response) in helpResponses) {
-                if (lowerQuery.contains(keyword)) {
-                    return AssistantResponse(response)
-                }
-            }
-            return AssistantResponse(getHelpMessage())
+        if (q.contains("bookmark")) {
+            return AssistantResponse("To add a bookmark, open a page, tap the menu, then tap Add bookmark.")
         }
 
-        // Greetings
-        if (lowerQuery in listOf("hi", "hello", "hey", "hi there", "hello there")) {
-            return AssistantResponse("Hello! How can I help you today? Try asking me to open a website or search for something.")
+        if (q.contains("history")) {
+            return AssistantResponse("Browsing history is available in the History section from the bottom bar.")
         }
 
-        // Thanks
-        if (lowerQuery.contains("thank") || lowerQuery.contains("thanks")) {
-            return AssistantResponse("You're welcome! Let me know if you need anything else.")
+        if (q.contains("settings")) {
+            return AssistantResponse("Settings lets you change desktop mode, home URL, and clear history or bookmarks.")
         }
 
-        // Default response
-        return AssistantResponse("I'm not sure how to help with that. Try:\n• \"open google.com\"\n• \"search weather today\"\n• \"how to bookmark\"\n• \"open settings\"")
-    }
+        if (q in listOf("hi", "hello", "hey")) {
+            return AssistantResponse("Hello! Try a command like \"open google.com\" or \"search android news\".")
+        }
 
-    private fun getHelpMessage(): String {
-        return """Here's what I can help you with:
+        if (q.contains("thank")) {
+            return AssistantResponse("You're welcome.")
+        }
 
-📌 Bookmarks - Save and manage your favorite pages
-📜 History - View and clear browsing history
-📥 Downloads - Manage downloaded files
-🗂️ Tabs - Open and manage multiple tabs
-🔍 Search - Search the web with DuckDuckGo
-🖥️ Desktop Mode - View desktop versions of sites
-⚙️ Settings - Customize your browser
-
-Just ask about any of these topics!"""
+        return AssistantResponse(
+            "I didn't understand that.\n" +
+            "Try:\n" +
+            "• open youtube.com\n" +
+            "• search weather today\n" +
+            "• open settings\n" +
+            "• open bookmarks"
+        )
     }
 }
