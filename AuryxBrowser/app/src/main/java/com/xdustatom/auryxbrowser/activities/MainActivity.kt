@@ -1,10 +1,13 @@
 package com.xdustatom.auryxbrowser.activities
 
 import android.annotation.SuppressLint
+import android.app.UiModeManager
 import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
 import android.content.Intent
+import android.content.pm.ActivityInfo
+import android.content.res.Configuration
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 import android.net.Uri
@@ -13,6 +16,7 @@ import android.os.Bundle
 import android.view.KeyEvent
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
 import android.view.inputmethod.EditorInfo
 import android.webkit.CookieManager
 import android.webkit.WebChromeClient
@@ -63,13 +67,14 @@ class MainActivity : AppCompatActivity() {
     private lateinit var bottomNav: BottomNavigationView
     private var progressBar: android.widget.ProgressBar? = null
 
-    private lateinit var homeContainer: android.view.View
-    private lateinit var webViewContainer: android.view.View
-    private lateinit var fragmentContainer: android.view.View
+    private lateinit var homeContainer: View
+    private lateinit var webViewContainer: View
+    private lateinit var fragmentContainer: View
 
     private var desktopModeEnabled = false
     private var findQuery: String = ""
     private var findActive: Boolean = false
+    private var isTvDevice = false
 
     private lateinit var store: BrowserStore
 
@@ -78,15 +83,22 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         store = BrowserStore(this)
+
         bindViews()
 
         val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
         desktopModeEnabled = prefs.getBoolean(KEY_DESKTOP_MODE, false)
 
+        isTvDevice = isRunningOnTv()
+        if (isTvDevice) {
+            requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE
+        }
+
         setupTopButtons()
         setupBottomNav()
         setupWebView()
         setupUrlInputs()
+        optimizeForTv()
 
         if (savedInstanceState == null) {
             showBrowser()
@@ -105,6 +117,44 @@ class MainActivity : AppCompatActivity() {
         homeContainer = findViewById(R.id.homeContainer)
         webViewContainer = findViewById(R.id.webViewContainer)
         fragmentContainer = findViewById(R.id.fragmentContainer)
+    }
+
+    private fun isRunningOnTv(): Boolean {
+        val uiModeManager = getSystemService(Context.UI_MODE_SERVICE) as UiModeManager
+        val isTelevisionMode =
+            uiModeManager.currentModeType == Configuration.UI_MODE_TYPE_TELEVISION
+
+        val hasLeanback = packageManager.hasSystemFeature("android.software.leanback")
+        return isTelevisionMode || hasLeanback
+    }
+
+    private fun optimizeForTv() {
+        if (!isTvDevice) return
+
+        urlBar.isFocusable = true
+        urlBar.isFocusableInTouchMode = true
+
+        btnRefresh.isFocusable = true
+        btnMenu.isFocusable = true
+        bottomNav.isFocusable = true
+        webView.isFocusable = true
+        webView.isFocusableInTouchMode = true
+
+        bottomNav.labelVisibilityMode = BottomNavigationView.LABEL_VISIBILITY_LABELED
+
+        urlBar.setOnFocusChangeListener { v, hasFocus ->
+            v.alpha = if (hasFocus) 1f else 0.92f
+        }
+
+        btnRefresh.setOnFocusChangeListener { v, hasFocus ->
+            v.scaleX = if (hasFocus) 1.08f else 1f
+            v.scaleY = if (hasFocus) 1.08f else 1f
+        }
+
+        btnMenu.setOnFocusChangeListener { v, hasFocus ->
+            v.scaleX = if (hasFocus) 1.08f else 1f
+            v.scaleY = if (hasFocus) 1.08f else 1f
+        }
     }
 
     private fun setupTopButtons() {
@@ -170,6 +220,7 @@ class MainActivity : AppCompatActivity() {
         fragmentContainer.isVisible = false
         homeContainer.isVisible = false
         webViewContainer.isVisible = true
+        if (isTvDevice) webView.requestFocus()
     }
 
     @SuppressLint("SetJavaScriptEnabled")
@@ -240,15 +291,13 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(text)
                 }
                 true
-            } else {
-                false
-            }
+            } else false
         }
     }
 
     private fun defaultUserAgent(): String {
         val base = WebSettings.getDefaultUserAgent(this)
-        return if (desktopModeEnabled) {
+        return if (desktopModeEnabled || isTvDevice) {
             base.replace("Mobile", "X11").replace("Android", "Linux")
         } else {
             base
@@ -340,6 +389,24 @@ class MainActivity : AppCompatActivity() {
             }
             else -> super.onOptionsItemSelected(item)
         }
+    }
+
+    override fun dispatchKeyEvent(event: KeyEvent): Boolean {
+        if (isTvDevice && event.action == KeyEvent.ACTION_DOWN) {
+            when (event.keyCode) {
+                KeyEvent.KEYCODE_MENU -> {
+                    btnMenu.performClick()
+                    return true
+                }
+                KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE -> {
+                    if (webViewContainer.isVisible) {
+                        webView.reload()
+                        return true
+                    }
+                }
+            }
+        }
+        return super.dispatchKeyEvent(event)
     }
 
     private fun shareCurrentPage() {
@@ -506,47 +573,4 @@ class MainActivity : AppCompatActivity() {
         return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
     }
 
-    fun performAssistantAction(action: String, data: String?) {
-        when (action) {
-            "open_url" -> {
-                val url = data?.trim().orEmpty()
-                if (url.isNotEmpty()) {
-                    showBrowser()
-                    loadFromInput(url)
-                }
-            }
-            "search" -> {
-                val q = data?.trim().orEmpty()
-                if (q.isNotEmpty()) {
-                    showBrowser()
-                    loadFromInput(q)
-                }
-            }
-            "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
-            "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
-            "open_history" -> bottomNav.selectedItemId = R.id.nav_history
-            "new_tab" -> {
-                showBrowser()
-                loadUrl(getHomeUrl())
-            }
-            else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
-        }
-    }
-
-    override fun onBackPressed() {
-        if (findActive) {
-            findActive = false
-            webView.clearMatches()
-            Toast.makeText(this, "Find cleared", Toast.LENGTH_SHORT).show()
-            return
-        }
-
-        if (fragmentContainer.isVisible) {
-            showBrowser()
-            return
-        }
-
-        if (webView.canGoBack()) webView.goBack()
-        else super.onBackPressed()
-    }
-}
+  
