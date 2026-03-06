@@ -78,7 +78,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         store = BrowserStore(this)
-
         bindViews()
 
         val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
@@ -241,7 +240,9 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(text)
                 }
                 true
-            } else false
+            } else {
+                false
+            }
         }
     }
 
@@ -300,53 +301,43 @@ class MainActivity : AppCompatActivity() {
                 webView.reload()
                 true
             }
-
             R.id.menu_stop -> {
                 webView.stopLoading()
                 true
             }
-
             R.id.menu_share -> {
                 shareCurrentPage()
                 true
             }
-
             R.id.menu_copy_link -> {
                 copyCurrentUrl()
                 true
             }
-
             R.id.menu_desktop_mode -> {
                 toggleDesktopMode()
                 true
             }
-
             R.id.menu_find_in_page -> {
                 showBrowser()
                 showFindInPageDialog()
                 true
             }
-
             R.id.menu_find_next -> {
                 if (findActive) webView.findNext(true)
                 true
             }
-
             R.id.menu_find_prev -> {
                 if (findActive) webView.findNext(false)
                 true
             }
-
             R.id.menu_check_updates -> {
                 checkForUpdates()
                 true
             }
-
             R.id.menu_add_bookmark -> {
                 addBookmarkCurrent()
                 true
             }
-
             else -> super.onOptionsItemSelected(item)
         }
     }
@@ -524,7 +515,6 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(url)
                 }
             }
-
             "search" -> {
                 val q = data?.trim().orEmpty()
                 if (q.isNotEmpty()) {
@@ -532,16 +522,13 @@ class MainActivity : AppCompatActivity() {
                     loadFromInput(q)
                 }
             }
-
             "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
             "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
             "open_history" -> bottomNav.selectedItemId = R.id.nav_history
-
             "new_tab" -> {
                 showBrowser()
                 loadUrl(getHomeUrl())
             }
-
             else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
         }
     }
