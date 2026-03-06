@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.ArrayAdapter
 import android.widget.AutoCompleteTextView
+import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.os.LocaleListCompat
@@ -43,6 +44,7 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         val btnSave = view.findViewById<MaterialButton>(R.id.btnSaveSettings)
         val btnClearHistory = view.findViewById<MaterialButton>(R.id.btnClearHistorySettings)
         val btnClearBookmarks = view.findViewById<MaterialButton>(R.id.btnClearBookmarksSettings)
+        val tvVersion = view.findViewById<TextView>(R.id.tvVersion)
 
         val searchEngines = listOf("DuckDuckGo", "Google", "Bing")
         val languages = listOf("System Default", "English", "Italiano")
@@ -79,10 +81,18 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
             false
         )
 
+        tvVersion.text = "Version ${MainActivity.CURRENT_VERSION}"
+
         btnSave.setOnClickListener {
             val home = etHome.text?.toString()?.trim().orEmpty()
             val selectedSearchEngine = dropSearchEngine.text?.toString()?.trim().orEmpty()
             val selectedLanguage = dropLanguage.text?.toString()?.trim().orEmpty()
+
+            val safeSearchEngine =
+                if (selectedSearchEngine in searchEngines) selectedSearchEngine else "DuckDuckGo"
+
+            val safeLanguage =
+                if (selectedLanguage in languages) selectedLanguage else "System Default"
 
             prefs.edit()
                 .putBoolean(MainActivity.KEY_DESKTOP_MODE, swDesktop.isChecked)
@@ -92,22 +102,14 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
                     MainActivity.KEY_HOME,
                     if (home.isBlank()) MainActivity.DEFAULT_HOME else home
                 )
-                .putString(
-                    MainActivity.KEY_SEARCH_ENGINE,
-                    if (selectedSearchEngine in searchEngines) selectedSearchEngine else "DuckDuckGo"
-                )
-                .putString(
-                    MainActivity.KEY_APP_LANGUAGE,
-                    if (selectedLanguage in languages) selectedLanguage else "System Default"
-                )
+                .putString(MainActivity.KEY_SEARCH_ENGINE, safeSearchEngine)
+                .putString(MainActivity.KEY_APP_LANGUAGE, safeLanguage)
                 .apply()
 
-            applyLanguage(
-                if (selectedLanguage in languages) selectedLanguage else "System Default"
-            )
+            applyLanguage(safeLanguage)
 
             Toast.makeText(requireContext(), "Settings saved", Toast.LENGTH_SHORT).show()
-            activity?.recreate()
+            requireActivity().recreate()
         }
 
         btnClearHistory.setOnClickListener {
