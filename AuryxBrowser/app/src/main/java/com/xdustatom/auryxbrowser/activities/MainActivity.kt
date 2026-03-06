@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity() {
         const val UPDATE_SITE = "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/"
         const val DEFAULT_HOME = "https://duckduckgo.com/"
 
+        // prefs keys
         const val PREFS = "auryx_prefs"
         const val KEY_HOME = "home_url"
         const val KEY_DESKTOP_MODE = "desktop_mode"
@@ -72,10 +73,13 @@ class MainActivity : AppCompatActivity() {
     private lateinit var fragmentContainer: View
 
     private var desktopModeEnabled = false
-    private var findQuery: String = ""
-    private var findActive: Boolean = false
     private var isTvDevice = false
 
+    // Find in page
+    private var findQuery: String = ""
+    private var findActive: Boolean = false
+
+    // simple storage
     private lateinit var store: BrowserStore
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -86,6 +90,7 @@ class MainActivity : AppCompatActivity() {
 
         bindViews()
 
+        // load settings
         val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
         desktopModeEnabled = prefs.getBoolean(KEY_DESKTOP_MODE, false)
 
@@ -252,6 +257,7 @@ class MainActivity : AppCompatActivity() {
         webView.webChromeClient = object : WebChromeClient() {}
 
         webView.webViewClient = object : WebViewClient() {
+
             override fun shouldOverrideUrlLoading(view: WebView, request: WebResourceRequest): Boolean {
                 val url = request.url.toString()
                 if (url.startsWith("tel:") || url.startsWith("mailto:") || url.startsWith("sms:")) {
@@ -271,7 +277,10 @@ class MainActivity : AppCompatActivity() {
             override fun onPageFinished(view: WebView, url: String) {
                 progressBar?.isVisible = false
                 urlBar.setText(url)
+
+                // add to history automatically
                 store.addHistory(url)
+
                 super.onPageFinished(view, url)
             }
         }
@@ -345,48 +354,59 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
+
             R.id.menu_refresh -> {
                 showBrowser()
                 webView.reload()
                 true
             }
+
             R.id.menu_stop -> {
                 webView.stopLoading()
                 true
             }
+
             R.id.menu_share -> {
                 shareCurrentPage()
                 true
             }
+
             R.id.menu_copy_link -> {
                 copyCurrentUrl()
                 true
             }
+
             R.id.menu_desktop_mode -> {
                 toggleDesktopMode()
                 true
             }
+
             R.id.menu_find_in_page -> {
                 showBrowser()
                 showFindInPageDialog()
                 true
             }
+
             R.id.menu_find_next -> {
                 if (findActive) webView.findNext(true)
                 true
             }
+
             R.id.menu_find_prev -> {
                 if (findActive) webView.findNext(false)
                 true
             }
+
             R.id.menu_check_updates -> {
                 checkForUpdates()
                 true
             }
+
             R.id.menu_add_bookmark -> {
                 addBookmarkCurrent()
                 true
             }
+
             else -> super.onOptionsItemSelected(item)
         }
     }
@@ -569,8 +589,4 @@ class MainActivity : AppCompatActivity() {
     private fun isNetworkAvailable(): Boolean {
         val cm = getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
         val net = cm.activeNetwork ?: return false
-        val caps = cm.getNetworkCapabilities(net) ?: return false
-        return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
-    }
-
   
