@@ -40,7 +40,6 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         val etHome = view.findViewById<TextInputEditText>(R.id.etHomeUrl)
         val dropSearchEngine = view.findViewById<AutoCompleteTextView>(R.id.dropSearchEngine)
         val dropLanguage = view.findViewById<AutoCompleteTextView>(R.id.dropLanguage)
-
         val btnSave = view.findViewById<MaterialButton>(R.id.btnSaveSettings)
         val btnClearHistory = view.findViewById<MaterialButton>(R.id.btnClearHistorySettings)
         val btnClearBookmarks = view.findViewById<MaterialButton>(R.id.btnClearBookmarksSettings)
@@ -54,6 +53,12 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         dropLanguage.setAdapter(
             ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, languages)
         )
+
+        dropSearchEngine.keyListener = null
+        dropLanguage.keyListener = null
+
+        dropSearchEngine.setOnClickListener { dropSearchEngine.showDropDown() }
+        dropLanguage.setOnClickListener { dropLanguage.showDropDown() }
 
         swDesktop.isChecked = prefs.getBoolean(MainActivity.KEY_DESKTOP_MODE, false)
         swJavascript.isChecked = prefs.getBoolean(MainActivity.KEY_JAVASCRIPT_ENABLED, true)
@@ -89,15 +94,17 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
                 )
                 .putString(
                     MainActivity.KEY_SEARCH_ENGINE,
-                    if (selectedSearchEngine.isBlank()) "DuckDuckGo" else selectedSearchEngine
+                    if (selectedSearchEngine in searchEngines) selectedSearchEngine else "DuckDuckGo"
                 )
                 .putString(
                     MainActivity.KEY_APP_LANGUAGE,
-                    if (selectedLanguage.isBlank()) "System Default" else selectedLanguage
+                    if (selectedLanguage in languages) selectedLanguage else "System Default"
                 )
                 .apply()
 
-            applyLanguage(selectedLanguage)
+            applyLanguage(
+                if (selectedLanguage in languages) selectedLanguage else "System Default"
+            )
 
             Toast.makeText(requireContext(), "Settings saved", Toast.LENGTH_SHORT).show()
             activity?.recreate()
