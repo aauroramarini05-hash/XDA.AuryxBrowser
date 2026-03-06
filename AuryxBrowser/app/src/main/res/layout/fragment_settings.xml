@@ -77,21 +77,29 @@
                     android:text="Load Images Automatically"
                     android:textColor="@color/text_primary" />
 
-                <com.google.android.material.textfield.TextInputLayout
+                <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="14dp"
+                    android:text="Home URL"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="13sp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
                     app:boxBackgroundMode="outline"
-                    app:boxStrokeColor="@color/neon_green_dim"
-                    app:hintTextColor="@color/text_hint">
+                    app:boxStrokeColor="@color/neon_green_dim">
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:id="@+id/etHomeUrl"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:hint="Home URL"
+                        android:hint="https://google.com/"
                         android:inputType="textUri"
-                        android:textColor="@color/text_primary" />
+                        android:textColor="@color/text_primary"
+                        android:textColorHint="@color/text_hint" />
                 </com.google.android.material.textfield.TextInputLayout>
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>
@@ -122,21 +130,35 @@
                 android:orientation="vertical"
                 android:padding="16dp">
 
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Default Search Engine"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="13sp" />
+
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Default Search Engine"
+                    android:layout_marginTop="6dp"
                     app:boxBackgroundMode="outline"
                     app:boxStrokeColor="@color/neon_green_dim"
-                    app:hintTextColor="@color/text_hint">
+                    app:endIconMode="dropdown_menu">
 
                     <AutoCompleteTextView
                         android:id="@+id/dropSearchEngine"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:clickable="true"
+                        android:cursorVisible="false"
                         android:focusable="false"
+                        android:focusableInTouchMode="false"
                         android:inputType="none"
-                        android:textColor="@color/text_primary" />
+                        android:paddingTop="12dp"
+                        android:paddingBottom="12dp"
+                        android:textColor="@color/text_primary"
+                        android:textColorHint="@color/text_hint" />
                 </com.google.android.material.textfield.TextInputLayout>
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>
@@ -167,21 +189,35 @@
                 android:orientation="vertical"
                 android:padding="16dp">
 
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="App Language"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="13sp" />
+
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="App Language"
+                    android:layout_marginTop="6dp"
                     app:boxBackgroundMode="outline"
                     app:boxStrokeColor="@color/neon_green_dim"
-                    app:hintTextColor="@color/text_hint">
+                    app:endIconMode="dropdown_menu">
 
                     <AutoCompleteTextView
                         android:id="@+id/dropLanguage"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:clickable="true"
+                        android:cursorVisible="false"
                         android:focusable="false"
+                        android:focusableInTouchMode="false"
                         android:inputType="none"
-                        android:textColor="@color/text_primary" />
+                        android:paddingTop="12dp"
+                        android:paddingBottom="12dp"
+                        android:textColor="@color/text_primary"
+                        android:textColorHint="@color/text_hint" />
                 </com.google.android.material.textfield.TextInputLayout>
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>
