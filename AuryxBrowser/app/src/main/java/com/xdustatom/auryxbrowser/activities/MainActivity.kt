@@ -806,12 +806,12 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onDestroy() {
-        runCatching {
-            webView.stopLoading()
-            webView.webChromeClient = null
-            webView.webViewClient = null
-            webView.destroy()
-        }
-        super.onDestroy()
+    runCatching {
+        webView.stopLoading()
+        webView.loadUrl("about:blank")
+        webView.onPause()
+        webView.removeAllViews()
+        webView.destroy()
     }
-}
+    super.onDestroy()
+    }
