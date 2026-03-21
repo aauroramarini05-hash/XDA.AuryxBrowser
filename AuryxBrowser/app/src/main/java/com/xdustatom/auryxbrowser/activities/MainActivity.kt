@@ -38,6 +38,8 @@ import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.android.material.button.MaterialButton
 import com.xdustatom.auryxbrowser.BuildConfig
@@ -47,6 +49,9 @@ import com.xdustatom.auryxbrowser.fragments.BookmarksFragment
 import com.xdustatom.auryxbrowser.fragments.HistoryFragment
 import com.xdustatom.auryxbrowser.fragments.SettingsFragment
 import com.xdustatom.auryxbrowser.remote.RemoteConfigRepository
+import com.xdustatom.auryxbrowser.tabs.BrowserTab
+import com.xdustatom.auryxbrowser.tabs.TabsAdapter
+import com.xdustatom.auryxbrowser.tabs.TabsRepository
 import com.xdustatom.auryxbrowser.ui.animateEntrance
 import com.xdustatom.auryxbrowser.ui.applyPressAnimation
 import com.xdustatom.auryxbrowser.ui.crossfadeVisible
@@ -100,12 +105,19 @@ class MainActivity : AppCompatActivity() {
     private lateinit var remoteConfigRepository: RemoteConfigRepository
     private var restoredWebState: Bundle? = null
 
+    private lateinit var tabsRepository: TabsRepository
+    private var tabs: MutableList<BrowserTab> = mutableListOf()
+    private var selectedTabId: Long = -1L
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
         store = BrowserStore(this)
         remoteConfigRepository = RemoteConfigRepository(this)
+        tabsRepository = TabsRepository(this)
+        tabs = tabsRepository.getTabs()
+        selectedTabId = tabsRepository.getSelectedTabId().takeIf { it != -1L } ?: tabs.first().id
         restoredWebState = savedInstanceState?.getBundle(KEY_WEBVIEW_STATE)
 
         bindViews()
@@ -132,10 +144,15 @@ class MainActivity : AppCompatActivity() {
 
         if (savedInstanceState == null) {
             showBrowser()
-            loadUrl(getHomeUrl())
+            val selected = tabs.firstOrNull { it.id == selectedTabId } ?: tabs.first()
+            selectedTabId = selected.id
+            loadUrl(selected.url.ifBlank { getHomeUrl() })
+            persistTabs()
+            refreshTabsCount()
         } else if (restoredWebState != null) {
             showBrowser()
             webView.restoreState(restoredWebState!!)
+            refreshTabsCount()
         }
     }
 
@@ -155,7 +172,7 @@ class MainActivity : AppCompatActivity() {
         webViewContainer = findViewById(R.id.webViewContainer)
         fragmentContainer = findViewById(R.id.fragmentContainer)
 
-        tabsCount?.text = "1"
+        refreshTabsCount()
     }
 
     private fun isRunningOnTv(): Boolean {
@@ -179,7 +196,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         btnTabs?.setOnClickListener {
-            Toast.makeText(this, "Tabs coming soon", Toast.LENGTH_SHORT).show()
+            showTabsDialog()
         }
     }
 
@@ -238,6 +255,114 @@ class MainActivity : AppCompatActivity() {
         }
 
         dialog.show()
+    }
+
+    private fun showTabsDialog() {
+        val view = LayoutInflater.from(this).inflate(R.layout.dialog_tabs, null)
+        val recycler = view.findViewById<RecyclerView>(R.id.tabsRecycler)
+        val btnNewTab = view.findViewById<MaterialButton>(R.id.btnNewTab)
+
+        val dialog = AlertDialog.Builder(this, R.style.AlertDialogTheme)
+            .setView(view)
+            .create()
+
+        fun renderTabs() {
+            recycler.layoutManager = LinearLayoutManager(this)
+            recycler.adapter = TabsAdapter(
+                items = tabs,
+                selectedTabId = selectedTabId,
+                onTabClick = { tab ->
+                    dialog.dismiss()
+                    switchToTab(tab.id)
+                },
+                onTabClose = { tab ->
+                    closeTab(tab.id)
+                    refreshTabsCount()
+                    renderTabs()
+                }
+            )
+        }
+
+        btnNewTab.setOnClickListener {
+            createNewTab()
+            refreshTabsCount()
+            renderTabs()
+            dialog.dismiss()
+        }
+
+        renderTabs()
+        dialog.show()
+    }
+
+    private fun createNewTab(url: String = getHomeUrl()) {
+        val newTab = BrowserTab(
+            id = System.currentTimeMillis(),
+            title = "New Tab",
+            url = url
+        )
+        tabs.add(0, newTab)
+        selectedTabId = newTab.id
+        persistTabs()
+        refreshTabsCount()
+        showBrowser()
+        loadUrl(url)
+    }
+
+    private fun switchToTab(tabId: Long) {
+        val tab = tabs.firstOrNull { it.id == tabId } ?: return
+        selectedTabId = tab.id
+        persistTabs()
+        refreshTabsCount()
+        showBrowser()
+        loadUrl(tab.url.ifBlank { getHomeUrl() })
+    }
+
+    private fun closeTab(tabId: Long) {
+        if (tabs.size <= 1) {
+            tabs.clear()
+            val fallback = BrowserTab(
+                id = System.currentTimeMillis(),
+                title = "Home",
+                url = getHomeUrl()
+            )
+            tabs.add(fallback)
+            selectedTabId = fallback.id
+            persistTabs()
+            refreshTabsCount()
+            showBrowser()
+            loadUrl(fallback.url)
+            return
+        }
+
+        val closingCurrent = selectedTabId == tabId
+        tabs.removeAll { it.id == tabId }
+
+        if (closingCurrent) {
+            val fallback = tabs.first()
+            selectedTabId = fallback.id
+            showBrowser()
+            loadUrl(fallback.url.ifBlank { getHomeUrl() })
+        }
+
+        persistTabs()
+    }
+
+    private fun persistTabs() {
+        tabsRepository.saveTabs(tabs)
+        tabsRepository.saveSelectedTabId(selectedTabId)
+    }
+
+    private fun refreshTabsCount() {
+        tabsCount?.text = tabs.size.toString()
+    }
+
+    private fun updateCurrentTab(url: String?, title: String?) {
+        val tab = tabs.firstOrNull { it.id == selectedTabId } ?: return
+        if (!url.isNullOrBlank()) tab.url = url
+        if (!title.isNullOrBlank()) tab.title = title
+        tab.lastUpdated = System.currentTimeMillis()
+        persistTabs()
+        refreshTabsCount()
     }
 
     private fun setupBottomNav() {
@@ -394,6 +519,7 @@ class MainActivity : AppCompatActivity() {
                 progressBar?.progress = 8
                 urlBar.setText(url)
                 findActive = false
+                updateCurrentTab(url = url, title = null)
                 super.onPageStarted(view, url, favicon)
             }
 
@@ -402,6 +528,10 @@ class MainActivity : AppCompatActivity() {
                 progressBar?.isVisible = false
                 urlBar.setText(url)
                 store.addHistory(url)
+                updateCurrentTab(
+                    url = url,
+                    title = view.title ?: Uri.parse(url).host ?: "New Tab"
+                )
                 super.onPageFinished(view, url)
             }
 
@@ -860,8 +990,7 @@ class MainActivity : AppCompatActivity() {
             "open_history" -> bottomNav.selectedItemId = R.id.nav_history
 
             "new_tab" -> {
-                showBrowser()
-                loadUrl(getHomeUrl())
+                createNewTab()
             }
 
             else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
