@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    android:background="@color/surface_dark">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="18dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Browser Menu"
+            android:textColor="@color/text_primary"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="14dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuRefresh"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Refresh" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuStop"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Stop loading" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuBookmark"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Add bookmark" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuShare"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Share page" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuCopy"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Copy link" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuDesktop"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Desktop mode" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuFind"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Find in page" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuTranslate"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Translate page" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menuUpdates"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Check updates" />
+
+    </LinearLayout>
+</ScrollView>
