@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.view.inputmethod.EditorInfo
 import androidx.fragment.app.Fragment
 import com.xdustatom.auryxbrowser.databinding.FragmentAssistantBinding
+import com.xdustatom.auryxbrowser.remote.RemoteConfigRepository
 import com.xdustatom.auryxbrowser.utils.AuryxAssistant
 
 class AssistantFragment(
@@ -28,7 +29,8 @@ class AssistantFragment(
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        assistant = AuryxAssistant()
+        val remote = RemoteConfigRepository(requireContext()).cached()
+        assistant = AuryxAssistant(remote.commands)
         setupUI()
         showWelcome()
     }
@@ -67,12 +69,12 @@ class AssistantFragment(
     private fun showWelcome() {
         binding.tvConversation.text =
             "Auryx: ${assistant.getWelcomeMessage()}\n\n" +
-            "Examples:\n" +
-            "• open youtube.com\n" +
-            "• search weather milan\n" +
-            "• open bookmarks\n" +
-            "• open history\n" +
-            "• help bookmarks"
+                "Examples:\n" +
+                "• open youtube.com\n" +
+                "• search weather milan\n" +
+                "• open bookmarks\n" +
+                "• open history\n" +
+                "• help bookmarks"
     }
 
     private fun sendMessage() {
