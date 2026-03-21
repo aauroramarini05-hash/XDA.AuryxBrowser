@@ -258,40 +258,40 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showTabsDialog() {
-        val view = LayoutInflater.from(this).inflate(R.layout.dialog_tabs, null)
-        val recycler = view.findViewById<RecyclerView>(R.id.tabsRecycler)
-        val btnNewTab = view.findViewById<MaterialButton>(R.id.btnNewTab)
+    val view = LayoutInflater.from(this).inflate(R.layout.dialog_tabs, null)
+    val recycler = view.findViewById<RecyclerView>(R.id.tabsRecycler)
+    val btnNewTab = view.findViewById<MaterialButton>(R.id.btnNewTab)
 
-        val dialog = AlertDialog.Builder(this, R.style.AlertDialogTheme)
-            .setView(view)
-            .create()
+    val dialog = AlertDialog.Builder(this, R.style.AlertDialogTheme)
+        .setView(view)
+        .create()
 
-        fun renderTabs() {
-            recycler.layoutManager = LinearLayoutManager(this)
-            recycler.adapter = TabsAdapter(
-                items = tabs,
-                selectedTabId = selectedTabId,
-                onTabClick = { tab ->
-                    dialog.dismiss()
-                    switchToTab(tab.id)
-                },
-                onTabClose = { tab ->
-                    closeTab(tab.id)
-                    refreshTabsCount()
-                    renderTabs()
-                }
-            )
-        }
+    fun renderTabs() {
+        recycler.layoutManager = LinearLayoutManager(this)
+        recycler.adapter = TabsAdapter(
+            items = tabs,
+            selectedTabId = selectedTabId,
+            onTabClick = { tab ->
+                dialog.dismiss()
+                switchToTab(tab.id)
+            },
+            onTabClose = { tab ->
+                closeTab(tab.id)
+                refreshTabsCount()
+                renderTabs()
+            }
+        )
+    }
 
-        btnNewTab.setOnClickListener {
-            createNewTab()
-            refreshTabsCount()
-            renderTabs()
-            dialog.dismiss()
-        }
-
+    btnNewTab.setOnClickListener {
+        createNewTab()
+        refreshTabsCount()
         renderTabs()
-        dialog.show()
+        dialog.dismiss()
+    }
+
+    renderTabs()
+    dialog.show()
     }
 
     private fun createNewTab(url: String = getHomeUrl()) {
