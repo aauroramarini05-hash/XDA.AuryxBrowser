@@ -7,14 +7,12 @@
     android:background="@color/background_dark"
     tools:context=".activities.MainActivity">
 
-    <!-- Top App Bar -->
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appBarLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/surface_dark">
 
-        <!-- ✅ TOOLBAR (serve solo per setSupportActionBar e menu, non cambia la UI) -->
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
@@ -28,7 +26,6 @@
             android:gravity="center_vertical"
             android:paddingHorizontal="8dp">
 
-            <!-- URL Bar -->
             <com.google.android.material.card.MaterialCardView
                 android:layout_width="0dp"
                 android:layout_height="40dp"
@@ -52,10 +49,8 @@
                     android:inputType="textUri"
                     android:maxLines="1"
                     android:singleLine="true" />
-
             </com.google.android.material.card.MaterialCardView>
 
-            <!-- Refresh Button -->
             <ImageButton
                 android:id="@+id/btnRefresh"
                 android:layout_width="40dp"
@@ -66,7 +61,6 @@
                 android:contentDescription="Refresh"
                 app:tint="@color/text_primary" />
 
-            <!-- Tabs Button -->
             <FrameLayout
                 android:layout_width="40dp"
                 android:layout_height="40dp">
@@ -91,10 +85,8 @@
                     android:textColor="@color/background_dark"
                     android:textSize="10sp"
                     android:textStyle="bold" />
-
             </FrameLayout>
 
-            <!-- Menu Button -->
             <ImageButton
                 android:id="@+id/btnMenu"
                 android:layout_width="40dp"
@@ -103,10 +95,8 @@
                 android:src="@drawable/ic_menu"
                 android:contentDescription="Menu"
                 app:tint="@color/text_primary" />
-
         </LinearLayout>
 
-        <!-- Progress Bar -->
         <ProgressBar
             android:id="@+id/progressBar"
             style="@style/Widget.AppCompat.ProgressBar.Horizontal"
@@ -117,16 +107,14 @@
             android:progress="0"
             android:progressTint="@color/neon_green"
             android:visibility="gone" />
-
     </com.google.android.material.appbar.AppBarLayout>
 
-    <!-- Main Content Area -->
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:animateLayoutChanges="true"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-        <!-- Home Container -->
         <LinearLayout
             android:id="@+id/homeContainer"
             android:layout_width="match_parent"
@@ -136,7 +124,6 @@
             android:paddingTop="60dp"
             android:visibility="visible">
 
-            <!-- Logo -->
             <ImageView
                 android:id="@+id/imgLogo"
                 android:layout_width="120dp"
@@ -161,7 +148,6 @@
                 android:textSize="14sp"
                 android:layout_marginTop="4dp" />
 
-            <!-- Home Search Bar -->
             <com.google.android.material.card.MaterialCardView
                 android:layout_width="match_parent"
                 android:layout_height="52dp"
@@ -201,12 +187,9 @@
                         android:inputType="text"
                         android:maxLines="1"
                         android:singleLine="true" />
-
                 </LinearLayout>
-
             </com.google.android.material.card.MaterialCardView>
 
-            <!-- Quick Access Label -->
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -218,7 +201,6 @@
                 android:layout_marginTop="32dp"
                 android:layout_marginHorizontal="24dp" />
 
-            <!-- Quick Access Grid -->
             <GridLayout
                 android:id="@+id/quickAccessGrid"
                 android:layout_width="match_parent"
@@ -228,10 +210,8 @@
                 android:columnCount="3"
                 android:rowCount="2"
                 android:alignmentMode="alignBounds" />
-
         </LinearLayout>
 
-        <!-- WebView Container -->
         <FrameLayout
             android:id="@+id/webViewContainer"
             android:layout_width="match_parent"
@@ -241,29 +221,27 @@
             <WebView
                 android:id="@+id/webView"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" />
-
+                android:layout_height="match_parent"
+                android:overScrollMode="never"
+                android:scrollbarStyle="outsideOverlay" />
         </FrameLayout>
 
-        <!-- Fragment Container -->
         <FrameLayout
             android:id="@+id/fragmentContainer"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:visibility="gone" />
-
     </FrameLayout>
 
-    <!-- Bottom Navigation -->
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomNav"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         android:background="@color/surface_dark"
+        android:elevation="12dp"
         app:itemIconTint="@color/bottom_nav_color"
         app:itemTextColor="@color/bottom_nav_color"
         app:labelVisibilityMode="labeled"
         app:menu="@menu/bottom_nav_menu" />
-
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
