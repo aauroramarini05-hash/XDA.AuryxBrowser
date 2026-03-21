@@ -16,6 +16,7 @@ import android.os.Build
 import android.os.Bundle
 import android.os.Message
 import android.view.KeyEvent
+import android.view.LayoutInflater
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
@@ -35,10 +36,10 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import androidx.appcompat.widget.PopupMenu
 import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.google.android.material.button.MaterialButton
 import com.xdustatom.auryxbrowser.BuildConfig
 import com.xdustatom.auryxbrowser.R
 import com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment
@@ -60,7 +61,7 @@ import kotlin.concurrent.thread
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        const val UPDATE_SITE = "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/"
+        const val UPDATE_SITE = "https://auryxbrowser.it.uptodown.com/android"
         const val DEFAULT_HOME = "https://duckduckgo.com/"
 
         const val PREFS = "auryx_prefs"
@@ -173,19 +174,70 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        btnMenu.setOnClickListener { anchor ->
-            val popup = PopupMenu(this, anchor)
-            popup.menuInflater.inflate(R.menu.browser_menu, popup.menu)
-            popup.setOnMenuItemClickListener { item ->
-                onOptionsItemSelected(item)
-                true
-            }
-            popup.show()
+        btnMenu.setOnClickListener {
+            showBrowserMenuDialog()
         }
 
         btnTabs?.setOnClickListener {
             Toast.makeText(this, "Tabs coming soon", Toast.LENGTH_SHORT).show()
         }
+    }
+
+    private fun showBrowserMenuDialog() {
+        val view = LayoutInflater.from(this).inflate(R.layout.dialog_browser_menu, null)
+
+        val dialog = AlertDialog.Builder(this, R.style.AlertDialogTheme)
+            .setView(view)
+            .create()
+
+        view.findViewById<MaterialButton>(R.id.menuRefresh).setOnClickListener {
+            dialog.dismiss()
+            showBrowser()
+            webView.reload()
+        }
+
+        view.findViewById<MaterialButton>(R.id.menuStop).setOnClickListener {
+            dialog.dismiss()
+            webView.stopLoading()
+        }
+
+        view.findViewById<MaterialButton>(R.id.menuBookmark).setOnClickListener {
+            dialog.dismiss()
+            addBookmarkCurrent()
+        }
+
+        view.findViewById<MaterialButton>(R.id.menuShare).setOnClickListener {
+            dialog.dismiss()
+            shareCurrentPage()
+        }
+
+        view.findViewById<MaterialButton>(R.id.menuCopy).setOnClickListener {
+            dialog.dismiss()
+            copyCurrentUrl()
+        }
+
+        view.findViewById<MaterialButton>(R.id.menuDesktop).setOnClickListener {
+            dialog.dismiss()
+            toggleDesktopMode()
+        }
+
+        view.findViewById<MaterialButton>(R.id.menuFind).setOnClickListener {
+            dialog.dismiss()
+            showBrowser()
+            showFindInPageDialog()
+        }
+
+        view.findViewById<MaterialButton>(R.id.menuTranslate).setOnClickListener {
+            dialog.dismiss()
+            translateCurrentPageWithChoice()
+        }
+
+        view.findViewById<MaterialButton>(R.id.menuUpdates).setOnClickListener {
+            dialog.dismiss()
+            checkForUpdates()
+        }
+
+        dialog.show()
     }
 
     private fun setupBottomNav() {
@@ -615,12 +667,13 @@ class MainActivity : AppCompatActivity() {
 
     private fun showFindInPageDialog() {
         val input = EditText(this).apply {
-            hint = "Search in page"
+            hint = "Find in page"
             setText(findQuery)
+            setSelection(text?.length ?: 0)
         }
 
-        AlertDialog.Builder(this)
-            .setTitle("Find in Page")
+        AlertDialog.Builder(this, R.style.AlertDialogTheme)
+            .setTitle("Find in page")
             .setView(input)
             .setPositiveButton("Find") { _, _ ->
                 val q = input.text?.toString()?.trim().orEmpty()
@@ -628,16 +681,47 @@ class MainActivity : AppCompatActivity() {
                     Toast.makeText(this, "Empty query", Toast.LENGTH_SHORT).show()
                     return@setPositiveButton
                 }
+
                 findQuery = q
                 findActive = true
                 webView.findAllAsync(q)
-                Toast.makeText(this, "Searching…", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Searching for \"$q\"", Toast.LENGTH_SHORT).show()
             }
             .setNeutralButton("Next") { _, _ ->
-                if (findActive) webView.findNext(true)
+                if (findActive) {
+                    webView.findNext(true)
+                } else {
+                    Toast.makeText(this, "Search something first", Toast.LENGTH_SHORT).show()
+                }
             }
-            .setNegativeButton("Prev") { _, _ ->
-                if (findActive) webView.findNext(false)
+            .setNegativeButton("Previous") { _, _ ->
+                if (findActive) {
+                    webView.findNext(false)
+                } else {
+                    Toast.makeText(this, "Search something first", Toast.LENGTH_SHORT).show()
+                }
+            }
+            .show()
+    }
+
+    private fun translateCurrentPageWithChoice() {
+        val currentUrl = webView.url?.trim().orEmpty()
+        if (currentUrl.isBlank()) {
+            Toast.makeText(this, "No page to translate", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        val labels = arrayOf("Italiano", "English", "Español", "Français")
+        val codes = arrayOf("it", "en", "es", "fr")
+
+        AlertDialog.Builder(this, R.style.AlertDialogTheme)
+            .setTitle("Translate page")
+            .setItems(labels) { _, which ->
+                val encodedUrl = URLEncoder.encode(currentUrl, "UTF-8")
+                val translateUrl =
+                    "https://translate.google.com/translate?sl=auto&tl=${codes[which]}&u=$encodedUrl"
+                showBrowser()
+                webView.loadUrl(translateUrl)
             }
             .show()
     }
@@ -661,7 +745,7 @@ class MainActivity : AppCompatActivity() {
         thread {
             try {
                 val html = httpGetText(UPDATE_SITE)
-                val latest = extractLatestVersionFromHtml(html) ?: ""
+                val latest = extractLatestVersionFromUptodownHtml(html)
 
                 runOnUiThread {
                     if (latest.isBlank()) {
@@ -669,11 +753,11 @@ class MainActivity : AppCompatActivity() {
                         return@runOnUiThread
                     }
 
-                    if (latest != currentVersion) {
+                    if (compareVersions(latest, currentVersion) > 0) {
                         AlertDialog.Builder(this)
                             .setTitle("Update available")
                             .setMessage("New version: $latest\nCurrent: $currentVersion")
-                            .setPositiveButton("Open download page") { _, _ ->
+                            .setPositiveButton("Open Uptodown") { _, _ ->
                                 openExternal(UPDATE_SITE)
                             }
                             .setNegativeButton("Later", null)
@@ -690,11 +774,27 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    private fun extractLatestVersionFromHtml(html: String): String? {
-        val regex = Regex("""AuryxBrowser-v(\d+\.\d+\.\d+)\.apk""")
-        val all = regex.findAll(html).map { it.groupValues[1] }.toList()
-        if (all.isEmpty()) return null
-        return all.maxWithOrNull { a, b -> compareVersions(a, b) }
+    private fun extractLatestVersionFromUptodownHtml(html: String): String {
+        val patterns = listOf(
+            Regex("""\b(\d+\.\d+\.\d+)\b"""),
+            Regex("""version["'\s:>]+(\d+\.\d+\.\d+)""", RegexOption.IGNORE_CASE),
+            Regex("""AuryxBrowser[^\d]*(\d+\.\d+\.\d+)""", RegexOption.IGNORE_CASE)
+        )
+
+        val matches = mutableListOf<String>()
+
+        for (pattern in patterns) {
+            pattern.findAll(html).forEach { match ->
+                val value = match.groupValues.getOrNull(1).orEmpty()
+                if (value.matches(Regex("""\d+\.\d+\.\d+"""))) {
+                    matches.add(value)
+                }
+            }
+        }
+
+        if (matches.isEmpty()) return ""
+
+        return matches.distinct().maxWithOrNull { a, b -> compareVersions(a, b) } ?: ""
     }
 
     private fun compareVersions(a: String, b: String): Int {
@@ -711,10 +811,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun httpGetText(url: String): String {
         val conn = (URL(url).openConnection() as HttpURLConnection).apply {
-            connectTimeout = 8000
-            readTimeout = 8000
+            connectTimeout = 10000
+            readTimeout = 10000
             instanceFollowRedirects = true
-            setRequestProperty("User-Agent", "AuryxBrowser/${BuildConfig.VERSION_NAME}")
+            setRequestProperty("User-Agent", "Mozilla/5.0")
         }
 
         conn.inputStream.use { input ->
@@ -806,13 +906,13 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onDestroy() {
-    runCatching {
-        webView.stopLoading()
-        webView.loadUrl("about:blank")
-        webView.onPause()
-        webView.removeAllViews()
-        webView.destroy()
-    }
-    super.onDestroy()
+        runCatching {
+            webView.stopLoading()
+            webView.loadUrl("about:blank")
+            webView.onPause()
+            webView.removeAllViews()
+            webView.destroy()
+        }
+        super.onDestroy()
     }
 }
