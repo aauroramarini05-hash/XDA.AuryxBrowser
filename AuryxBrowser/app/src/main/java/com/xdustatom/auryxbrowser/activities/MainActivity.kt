@@ -8,6 +8,7 @@ import android.content.Context
 import android.content.Intent
 import android.content.pm.ActivityInfo
 import android.content.res.Configuration
+import android.graphics.Bitmap
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 import android.net.Uri
@@ -22,12 +23,14 @@ import android.view.inputmethod.EditorInfo
 import android.webkit.CookieManager
 import android.webkit.RenderProcessGoneDetail
 import android.webkit.WebChromeClient
+import android.webkit.WebResourceError
 import android.webkit.WebResourceRequest
 import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.EditText
 import android.widget.ImageButton
+import android.widget.ProgressBar
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
@@ -80,7 +83,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var webView: WebView
     private lateinit var bottomNav: BottomNavigationView
-    private var progressBar: android.widget.ProgressBar? = null
+    private var progressBar: ProgressBar? = null
 
     private lateinit var homeContainer: View
     private lateinit var webViewContainer: View
@@ -142,7 +145,7 @@ class MainActivity : AppCompatActivity() {
         webView = findViewById(R.id.webView)
         bottomNav = findViewById(R.id.bottomNav)
 
-        progressBar = runCatching { findViewById<android.widget.ProgressBar>(R.id.progressBar) }.getOrNull()
+        progressBar = runCatching { findViewById<ProgressBar>(R.id.progressBar) }.getOrNull()
         homeSearchBar = runCatching { findViewById<EditText>(R.id.homeSearchBar) }.getOrNull()
         btnTabs = runCatching { findViewById<View>(R.id.btnTabs) }.getOrNull()
         tabsCount = runCatching { findViewById<TextView>(R.id.tabsCount) }.getOrNull()
@@ -156,9 +159,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun isRunningOnTv(): Boolean {
         val uiModeManager = getSystemService(Context.UI_MODE_SERVICE) as UiModeManager
-        val isTelevisionMode =
-            uiModeManager.currentModeType == Configuration.UI_MODE_TYPE_TELEVISION
-
+        val isTelevisionMode = uiModeManager.currentModeType == Configuration.UI_MODE_TYPE_TELEVISION
         val hasLeanback = packageManager.hasSystemFeature("android.software.leanback")
         return isTelevisionMode || hasLeanback
     }
@@ -323,7 +324,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         webView.webViewClient = object : WebViewClient() {
-
             override fun shouldOverrideUrlLoading(view: WebView, request: WebResourceRequest): Boolean {
                 val url = request.url.toString()
                 if (
@@ -337,7 +337,7 @@ class MainActivity : AppCompatActivity() {
                 return false
             }
 
-            override fun onPageStarted(view: WebView, url: String, favicon: android.graphics.Bitmap?) {
+            override fun onPageStarted(view: WebView, url: String, favicon: Bitmap?) {
                 progressBar?.isVisible = true
                 progressBar?.progress = 8
                 urlBar.setText(url)
@@ -356,15 +356,11 @@ class MainActivity : AppCompatActivity() {
             override fun onReceivedError(
                 view: WebView,
                 request: WebResourceRequest,
-                error: android.webkit.WebResourceError
+                error: WebResourceError
             ) {
                 if (request.isForMainFrame) {
                     progressBar?.isVisible = false
-                    Toast.makeText(
-                        this@MainActivity,
-                        "Page load failed",
-                        Toast.LENGTH_SHORT
-                    ).show()
+                    Toast.makeText(this@MainActivity, "Page load failed", Toast.LENGTH_SHORT).show()
                 }
                 super.onReceivedError(view, request, error)
             }
@@ -374,11 +370,7 @@ class MainActivity : AppCompatActivity() {
                 detail: RenderProcessGoneDetail
             ): Boolean {
                 runCatching { view.destroy() }
-                Toast.makeText(
-                    this@MainActivity,
-                    "Browser engine restarted",
-                    Toast.LENGTH_SHORT
-                ).show()
+                Toast.makeText(this@MainActivity, "Browser engine restarted", Toast.LENGTH_SHORT).show()
                 recreate()
                 return true
             }
@@ -599,4 +591,11 @@ class MainActivity : AppCompatActivity() {
         getSharedPreferences(PREFS, MODE_PRIVATE)
             .edit()
             .putBoolean(KEY_DESKTOP_MODE, desktopModeEnabled)
-            .a
+            .apply()
+
+        webView.settings.userAgentString = defaultUserAgent()
+        webView.reload()
+
+        Toast.makeText(
+            this,
+      
