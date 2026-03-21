@@ -598,4 +598,220 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(
             this,
-      
+            if (desktopModeEnabled) "Desktop mode ON" else "Desktop mode OFF",
+            Toast.LENGTH_SHORT
+        ).show()
+    }
+
+    private fun addBookmarkCurrent() {
+        val url = webView.url ?: urlBar.text?.toString()?.trim().orEmpty()
+        if (url.isBlank()) {
+            Toast.makeText(this, "No URL to bookmark", Toast.LENGTH_SHORT).show()
+            return
+        }
+        store.addBookmark(url)
+        Toast.makeText(this, "Added to bookmarks", Toast.LENGTH_SHORT).show()
+    }
+
+    private fun showFindInPageDialog() {
+        val input = EditText(this).apply {
+            hint = "Search in page"
+            setText(findQuery)
+        }
+
+        AlertDialog.Builder(this)
+            .setTitle("Find in Page")
+            .setView(input)
+            .setPositiveButton("Find") { _, _ ->
+                val q = input.text?.toString()?.trim().orEmpty()
+                if (q.isEmpty()) {
+                    Toast.makeText(this, "Empty query", Toast.LENGTH_SHORT).show()
+                    return@setPositiveButton
+                }
+                findQuery = q
+                findActive = true
+                webView.findAllAsync(q)
+                Toast.makeText(this, "Searching…", Toast.LENGTH_SHORT).show()
+            }
+            .setNeutralButton("Next") { _, _ ->
+                if (findActive) webView.findNext(true)
+            }
+            .setNegativeButton("Prev") { _, _ ->
+                if (findActive) webView.findNext(false)
+            }
+            .show()
+    }
+
+    private fun getHomeUrl(): String {
+        val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
+        val value = prefs.getString(KEY_HOME, DEFAULT_HOME) ?: DEFAULT_HOME
+        return if (value.isBlank()) DEFAULT_HOME else value
+    }
+
+    private fun checkForUpdates() {
+        val currentVersion = BuildConfig.VERSION_NAME
+
+        if (!isNetworkAvailable()) {
+            Toast.makeText(this, "No internet connection", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        Toast.makeText(this, "Checking for updates…", Toast.LENGTH_SHORT).show()
+
+        thread {
+            try {
+                val html = httpGetText(UPDATE_SITE)
+                val latest = extractLatestVersionFromHtml(html) ?: ""
+
+                runOnUiThread {
+                    if (latest.isBlank()) {
+                        Toast.makeText(this, "Can't detect latest version", Toast.LENGTH_LONG).show()
+                        return@runOnUiThread
+                    }
+
+                    if (latest != currentVersion) {
+                        AlertDialog.Builder(this)
+                            .setTitle("Update available")
+                            .setMessage("New version: $latest\nCurrent: $currentVersion")
+                            .setPositiveButton("Open download page") { _, _ ->
+                                openExternal(UPDATE_SITE)
+                            }
+                            .setNegativeButton("Later", null)
+                            .show()
+                    } else {
+                        Toast.makeText(this, "You already have the latest version", Toast.LENGTH_LONG).show()
+                    }
+                }
+            } catch (_: Throwable) {
+                runOnUiThread {
+                    Toast.makeText(this, "Update check failed", Toast.LENGTH_LONG).show()
+                }
+            }
+        }
+    }
+
+    private fun extractLatestVersionFromHtml(html: String): String? {
+        val regex = Regex("""AuryxBrowser-v(\d+\.\d+\.\d+)\.apk""")
+        val all = regex.findAll(html).map { it.groupValues[1] }.toList()
+        if (all.isEmpty()) return null
+        return all.maxWithOrNull { a, b -> compareVersions(a, b) }
+    }
+
+    private fun compareVersions(a: String, b: String): Int {
+        val pa = a.split(".").mapNotNull { it.toIntOrNull() }
+        val pb = b.split(".").mapNotNull { it.toIntOrNull() }
+        val max = maxOf(pa.size, pb.size)
+        for (i in 0 until max) {
+            val ai = pa.getOrElse(i) { 0 }
+            val bi = pb.getOrElse(i) { 0 }
+            if (ai != bi) return ai.compareTo(bi)
+        }
+        return 0
+    }
+
+    private fun httpGetText(url: String): String {
+        val conn = (URL(url).openConnection() as HttpURLConnection).apply {
+            connectTimeout = 8000
+            readTimeout = 8000
+            instanceFollowRedirects = true
+            setRequestProperty("User-Agent", "AuryxBrowser/${BuildConfig.VERSION_NAME}")
+        }
+
+        conn.inputStream.use { input ->
+            BufferedReader(InputStreamReader(input)).use { br ->
+                val sb = StringBuilder()
+                var line: String?
+                while (true) {
+                    line = br.readLine() ?: break
+                    sb.append(line).append('\n')
+                }
+                return sb.toString()
+            }
+        }
+    }
+
+    private fun isNetworkAvailable(): Boolean {
+        val cm = getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+        val net = cm.activeNetwork ?: return false
+        val caps = cm.getNetworkCapabilities(net) ?: return false
+        return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
+    }
+
+    fun performAssistantAction(action: String, data: String?) {
+        when (action) {
+            "open_url" -> {
+                val url = data?.trim().orEmpty()
+                if (url.isNotEmpty()) {
+                    showBrowser()
+                    loadFromInput(url)
+                }
+            }
+
+            "search" -> {
+                val q = data?.trim().orEmpty()
+                if (q.isNotEmpty()) {
+                    showBrowser()
+                    loadFromInput(q)
+                }
+            }
+
+            "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
+            "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
+            "open_history" -> bottomNav.selectedItemId = R.id.nav_history
+
+            "new_tab" -> {
+                showBrowser()
+                loadUrl(getHomeUrl())
+            }
+
+            else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
+        }
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+        val webBundle = Bundle()
+        webView.saveState(webBundle)
+        outState.putBundle(KEY_WEBVIEW_STATE, webBundle)
+    }
+
+    override fun onPause() {
+        webView.onPause()
+        super.onPause()
+    }
+
+    override fun onResume() {
+        super.onResume()
+        webView.onResume()
+    }
+
+    override fun onBackPressed() {
+        if (findActive) {
+            findActive = false
+            webView.clearMatches()
+            Toast.makeText(this, "Find cleared", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        if (fragmentContainer.isVisible) {
+            showBrowser()
+            return
+        }
+
+        if (webView.canGoBack()) {
+            webView.goBack()
+        } else {
+            super.onBackPressed()
+        }
+    }
+
+    override fun onDestroy() {
+        runCatching {
+            webView.stopLoading()
+            webView.webChromeClient = null
+            webView.webViewClient = null
+            webView.destroy()
+        }
+        super.onDestroy()
+    }
+}
