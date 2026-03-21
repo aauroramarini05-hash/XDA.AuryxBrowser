@@ -1,5 +1,6 @@
 package com.xdustatom.auryxbrowser.utils
 
+import com.xdustatom.auryxbrowser.remote.RemoteCommand
 import java.net.URLEncoder
 
 data class AssistantResponse(
@@ -8,7 +9,9 @@ data class AssistantResponse(
     val data: String? = null
 )
 
-class AuryxAssistant {
+class AuryxAssistant(
+    private val remoteCommands: List<RemoteCommand> = emptyList()
+) {
 
     fun getWelcomeMessage(): String {
         return "Hello! I'm your local browser helper. I can open websites, search on Google, YouTube, DuckDuckGo, Wikipedia and GitHub, open bookmarks, open history, and handle combined commands."
@@ -21,6 +24,9 @@ class AuryxAssistant {
         if (q.isBlank()) {
             return AssistantResponse("Write something first.")
         }
+
+        val remoteReply = handleRemoteCommand(raw, q)
+        if (remoteReply != null) return remoteReply
 
         if (q == "help" || q == "commands") {
             return AssistantResponse(
@@ -86,6 +92,22 @@ class AuryxAssistant {
                 "• search on youtube gaming news\n" +
                 "• open google and search meteo milano\n" +
                 "• open bookmarks"
+        )
+    }
+
+    private fun handleRemoteCommand(raw: String, q: String): AssistantResponse? {
+        val command = remoteCommands.firstOrNull { remote ->
+            when (remote.match.lowercase()) {
+                "contains" -> q.contains(remote.trigger.lowercase())
+                "starts_with" -> q.startsWith(remote.trigger.lowercase())
+                else -> q == remote.trigger.lowercase()
+            }
+        } ?: return null
+
+        return AssistantResponse(
+            message = command.reply.ifBlank { "Done." },
+            action = command.action,
+            data = command.data
         )
     }
 
