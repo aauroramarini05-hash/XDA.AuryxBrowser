@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "flags": {
+    "assistant_enabled": true,
+    "downloads_enabled": false,
+    "experimental_find_bar": true
+  },
+  "commands": [
+    {
+      "trigger": "open uptodown",
+      "match": "equals",
+      "action": "open_url",
+      "data": "https://www.uptodown.com/",
+      "reply": "Opening Uptodown..."
+    },
+    {
+      "trigger": "open github auryx",
+      "match": "equals",
+      "action": "open_url",
+      "data": "https://github.com/aauroramarini05-hash/XDA.AuryxBrowser",
+      "reply": "Opening the AuryxBrowser repository..."
+    },
+    {
+      "trigger": "open google ai studio",
+      "match": "equals",
+      "action": "open_url",
+      "data": "https://aistudio.google.com/",
+      "reply": "Opening Google AI Studio..."
+    }
+  ],
+  "quickLinks": [
+    {
+      "title": "Auryx Site",
+      "url": "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/"
+    }
+  ],
+  "announcement": "Remote features are active"
+}
