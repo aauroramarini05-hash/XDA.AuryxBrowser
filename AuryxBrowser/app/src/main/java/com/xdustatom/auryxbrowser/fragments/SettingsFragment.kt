@@ -13,6 +13,7 @@ import androidx.fragment.app.Fragment
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.switchmaterial.SwitchMaterial
 import com.google.android.material.textfield.TextInputEditText
+import com.xdustatom.auryxbrowser.BuildConfig
 import com.xdustatom.auryxbrowser.R
 import com.xdustatom.auryxbrowser.activities.BrowserStore
 import com.xdustatom.auryxbrowser.activities.MainActivity
@@ -81,7 +82,7 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
             false
         )
 
-        tvVersion.text = "Version ${MainActivity.CURRENT_VERSION}"
+        tvVersion.text = "Version ${BuildConfig.VERSION_NAME}"
 
         btnSave.setOnClickListener {
             val home = etHome.text?.toString()?.trim().orEmpty()
