@@ -11,7 +11,7 @@ class NewsRepository(context: Context) {
         private const val PREFS = "auryx_news_prefs"
         private const val KEY_CACHE = "news_cache"
         private const val NEWS_URL =
-            "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/news/index.json"
+            "https://aauroramarini05-hash.github.io/XDA.AuryxBrowser/docs/news/index.json"
     }
 
     private val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
