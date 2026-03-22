@@ -47,6 +47,7 @@ import com.xdustatom.auryxbrowser.R
 import com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment
 import com.xdustatom.auryxbrowser.fragments.BookmarksFragment
 import com.xdustatom.auryxbrowser.fragments.HistoryFragment
+import com.xdustatom.auryxbrowser.fragments.NewsFragment
 import com.xdustatom.auryxbrowser.fragments.SettingsFragment
 import com.xdustatom.auryxbrowser.remote.RemoteConfigRepository
 import com.xdustatom.auryxbrowser.tabs.BrowserTab
@@ -384,6 +385,11 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
 
+                R.id.nav_news -> {
+                    showFragment(NewsFragment.newInstance())
+                    true
+                }
+
                 R.id.nav_tools -> {
                     showFragment(AuryxToolsFragment.newInstance())
                     true
@@ -580,468 +586,467 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun optimizeForTv() {
-        if (!isTvDevice) return
+    if (!isTvDevice) return
 
-        urlBar.isFocusable = true
-        urlBar.isFocusableInTouchMode = true
+    urlBar.isFocusable = true
+    urlBar.isFocusableInTouchMode = true
 
-        btnRefresh.isFocusable = true
-        btnMenu.isFocusable = true
-        bottomNav.isFocusable = true
-        webView.isFocusable = true
-        webView.isFocusableInTouchMode = true
+    btnRefresh.isFocusable = true
+    btnMenu.isFocusable = true
+    bottomNav.isFocusable = true
+    webView.isFocusable = true
+    webView.isFocusableInTouchMode = true
 
-        btnTabs?.isFocusable = true
-        homeSearchBar?.apply {
-            isFocusable = true
-            isFocusableInTouchMode = true
-        }
-
-        bottomNav.labelVisibilityMode = BottomNavigationView.LABEL_VISIBILITY_LABELED
-
-        applyTvFocusEffect(urlBar, 1.02f)
-        applyTvFocusEffect(btnRefresh, 1.10f)
-        applyTvFocusEffect(btnMenu, 1.10f)
-        applyTvFocusEffect(webView, 1.0f)
-
-        btnTabs?.let { applyTvFocusEffect(it, 1.10f) }
-        homeSearchBar?.let { applyTvFocusEffect(it, 1.03f) }
-
-        webView.post {
-            if (webViewContainer.isVisible) {
-                webView.requestFocus()
-            } else {
-                urlBar.requestFocus()
-            }
-        }
+    btnTabs?.isFocusable = true
+    homeSearchBar?.apply {
+        isFocusable = true
+        isFocusableInTouchMode = true
     }
 
-    private fun applyTvFocusEffect(view: View, focusedScale: Float) {
-        view.setOnFocusChangeListener { v, hasFocus ->
-            v.animate()
-                .scaleX(if (hasFocus) focusedScale else 1f)
-                .scaleY(if (hasFocus) focusedScale else 1f)
-                .alpha(if (hasFocus) 1f else 0.95f)
-                .setDuration(120)
-                .start()
-        }
-    }
+    bottomNav.labelVisibilityMode = BottomNavigationView.LABEL_VISIBILITY_LABELED
 
-    private fun defaultUserAgent(): String {
-        val base = WebSettings.getDefaultUserAgent(this)
-        return if (desktopModeEnabled || isTvDevice) {
-            base.replace("Mobile", "X11").replace("Android", "Linux")
+    applyTvFocusEffect(urlBar, 1.02f)
+    applyTvFocusEffect(btnRefresh, 1.10f)
+    applyTvFocusEffect(btnMenu, 1.10f)
+    applyTvFocusEffect(webView, 1.0f)
+
+    btnTabs?.let { applyTvFocusEffect(it, 1.10f) }
+    homeSearchBar?.let { applyTvFocusEffect(it, 1.03f) }
+
+    webView.post {
+        if (webViewContainer.isVisible) {
+            webView.requestFocus()
         } else {
-            base
+            urlBar.requestFocus()
         }
     }
+}
 
-    private fun loadFromInput(input: String) {
-        val url = normalizeInputToUrl(input)
-        loadUrl(url)
+private fun applyTvFocusEffect(view: View, focusedScale: Float) {
+    view.setOnFocusChangeListener { v, hasFocus ->
+        v.animate()
+            .scaleX(if (hasFocus) focusedScale else 1f)
+            .scaleY(if (hasFocus) focusedScale else 1f)
+            .alpha(if (hasFocus) 1f else 0.95f)
+            .setDuration(120)
+            .start()
     }
+}
 
-    private fun normalizeInputToUrl(input: String): String {
-        val trimmed = input.trim()
+private fun defaultUserAgent(): String {
+    val base = WebSettings.getDefaultUserAgent(this)
+    return if (desktopModeEnabled || isTvDevice) {
+        base.replace("Mobile", "X11").replace("Android", "Linux")
+    } else {
+        base
+    }
+}
 
-        val hasScheme = trimmed.startsWith("http://") || trimmed.startsWith("https://")
-        if (hasScheme) return trimmed
+private fun loadFromInput(input: String) {
+    val url = normalizeInputToUrl(input)
+    loadUrl(url)
+}
 
-        val looksLikeDomain = trimmed.contains(".") && !trimmed.contains(" ")
-        if (looksLikeDomain) return "https://$trimmed"
+private fun normalizeInputToUrl(input: String): String {
+    val trimmed = input.trim()
 
-        val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
-        val engine = prefs.getString(KEY_SEARCH_ENGINE, "DuckDuckGo") ?: "DuckDuckGo"
-        val q = URLEncoder.encode(trimmed, "UTF-8")
+    val hasScheme = trimmed.startsWith("http://") || trimmed.startsWith("https://")
+    if (hasScheme) return trimmed
 
-        return when (engine) {
-            "Google" -> "https://www.google.com/search?q=$q"
-            "Bing" -> "https://www.bing.com/search?q=$q"
-            else -> "https://duckduckgo.com/?q=$q"
+    val looksLikeDomain = trimmed.contains(".") && !trimmed.contains(" ")
+    if (looksLikeDomain) return "https://$trimmed"
+
+    val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
+    val engine = prefs.getString(KEY_SEARCH_ENGINE, "DuckDuckGo") ?: "DuckDuckGo"
+    val q = URLEncoder.encode(trimmed, "UTF-8")
+
+    return when (engine) {
+        "Google" -> "https://www.google.com/search?q=$q"
+        "Bing" -> "https://www.bing.com/search?q=$q"
+        else -> "https://duckduckgo.com/?q=$q"
+    }
+}
+
+private fun loadUrl(url: String) {
+    webView.loadUrl(url)
+}
+
+private fun openExternal(url: String) {
+    runCatching {
+        startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
+    }.onFailure {
+        Toast.makeText(this, "Can't open external link", Toast.LENGTH_SHORT).show()
+    }
+}
+
+override fun onCreateOptionsMenu(menu: Menu): Boolean = super.onCreateOptionsMenu(menu)
+
+override fun onOptionsItemSelected(item: MenuItem): Boolean {
+    return when (item.itemId) {
+        R.id.menu_refresh -> {
+            showBrowser()
+            webView.reload()
+            true
         }
-    }
 
-    private fun loadUrl(url: String) {
-        webView.loadUrl(url)
-    }
-
-    private fun openExternal(url: String) {
-        runCatching {
-            startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
-        }.onFailure {
-            Toast.makeText(this, "Can't open external link", Toast.LENGTH_SHORT).show()
+        R.id.menu_stop -> {
+            webView.stopLoading()
+            true
         }
-    }
 
-    override fun onCreateOptionsMenu(menu: Menu): Boolean = super.onCreateOptionsMenu(menu)
-
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        return when (item.itemId) {
-            R.id.menu_refresh -> {
-                showBrowser()
-                webView.reload()
-                true
-            }
-
-            R.id.menu_stop -> {
-                webView.stopLoading()
-                true
-            }
-
-            R.id.menu_share -> {
-                shareCurrentPage()
-                true
-            }
-
-            R.id.menu_copy_link -> {
-                copyCurrentUrl()
-                true
-            }
-
-            R.id.menu_desktop_mode -> {
-                toggleDesktopMode()
-                true
-            }
-
-            R.id.menu_find_in_page -> {
-                showBrowser()
-                showFindInPageDialog()
-                true
-            }
-
-            R.id.menu_find_next -> {
-                if (findActive) webView.findNext(true)
-                true
-            }
-
-            R.id.menu_find_prev -> {
-                if (findActive) webView.findNext(false)
-                true
-            }
-
-            R.id.menu_check_updates -> {
-                checkForUpdates()
-                true
-            }
-
-            R.id.menu_add_bookmark -> {
-                addBookmarkCurrent()
-                true
-            }
-
-            else -> super.onOptionsItemSelected(item)
+        R.id.menu_share -> {
+            shareCurrentPage()
+            true
         }
-    }
 
-    override fun dispatchKeyEvent(event: KeyEvent): Boolean {
-        if (isTvDevice && event.action == KeyEvent.ACTION_DOWN) {
-            when (event.keyCode) {
-                KeyEvent.KEYCODE_MENU -> {
-                    btnMenu.performClick()
+        R.id.menu_copy_link -> {
+            copyCurrentUrl()
+            true
+        }
+
+        R.id.menu_desktop_mode -> {
+            toggleDesktopMode()
+            true
+        }
+
+        R.id.menu_find_in_page -> {
+            showBrowser()
+            showFindInPageDialog()
+            true
+        }
+
+        R.id.menu_find_next -> {
+            if (findActive) webView.findNext(true)
+            true
+        }
+
+        R.id.menu_find_prev -> {
+            if (findActive) webView.findNext(false)
+            true
+        }
+
+        R.id.menu_check_updates -> {
+            checkForUpdates()
+            true
+        }
+
+        R.id.menu_add_bookmark -> {
+            addBookmarkCurrent()
+            true
+        }
+
+        else -> super.onOptionsItemSelected(item)
+    }
+}
+
+override fun dispatchKeyEvent(event: KeyEvent): Boolean {
+    if (isTvDevice && event.action == KeyEvent.ACTION_DOWN) {
+        when (event.keyCode) {
+            KeyEvent.KEYCODE_MENU -> {
+                btnMenu.performClick()
+                return true
+            }
+
+            KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE -> {
+                if (webViewContainer.isVisible) {
+                    webView.reload()
                     return true
                 }
-
-                KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE -> {
-                    if (webViewContainer.isVisible) {
-                        webView.reload()
-                        return true
-                    }
-                }
-            }
-        }
-        return super.dispatchKeyEvent(event)
-    }
-
-    private fun shareCurrentPage() {
-        val url = webView.url ?: return
-        val intent = Intent(Intent.ACTION_SEND).apply {
-            type = "text/plain"
-            putExtra(Intent.EXTRA_TEXT, url)
-        }
-        startActivity(Intent.createChooser(intent, "Share"))
-    }
-
-    private fun copyCurrentUrl() {
-        val url = webView.url ?: return
-        val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
-        clipboard.setPrimaryClip(ClipData.newPlainText("url", url))
-        Toast.makeText(this, "Copied link", Toast.LENGTH_SHORT).show()
-    }
-
-    private fun toggleDesktopMode() {
-        desktopModeEnabled = !desktopModeEnabled
-        getSharedPreferences(PREFS, MODE_PRIVATE)
-            .edit()
-            .putBoolean(KEY_DESKTOP_MODE, desktopModeEnabled)
-            .apply()
-
-        webView.settings.userAgentString = defaultUserAgent()
-        webView.reload()
-
-        Toast.makeText(
-            this,
-            if (desktopModeEnabled) "Desktop mode ON" else "Desktop mode OFF",
-            Toast.LENGTH_SHORT
-        ).show()
-    }
-
-    private fun addBookmarkCurrent() {
-        val url = webView.url ?: urlBar.text?.toString()?.trim().orEmpty()
-        if (url.isBlank()) {
-            Toast.makeText(this, "No URL to bookmark", Toast.LENGTH_SHORT).show()
-            return
-        }
-        store.addBookmark(url)
-        Toast.makeText(this, "Added to bookmarks", Toast.LENGTH_SHORT).show()
-    }
-
-    private fun showFindInPageDialog() {
-        val input = EditText(this).apply {
-            hint = "Find in page"
-            setText(findQuery)
-            setSelection(text?.length ?: 0)
-        }
-
-        AlertDialog.Builder(this, R.style.AlertDialogTheme)
-            .setTitle("Find in page")
-            .setView(input)
-            .setPositiveButton("Find") { _, _ ->
-                val q = input.text?.toString()?.trim().orEmpty()
-                if (q.isEmpty()) {
-                    Toast.makeText(this, "Empty query", Toast.LENGTH_SHORT).show()
-                    return@setPositiveButton
-                }
-
-                findQuery = q
-                findActive = true
-                webView.findAllAsync(q)
-                Toast.makeText(this, "Searching for \"$q\"", Toast.LENGTH_SHORT).show()
-            }
-            .setNeutralButton("Next") { _, _ ->
-                if (findActive) {
-                    webView.findNext(true)
-                } else {
-                    Toast.makeText(this, "Search something first", Toast.LENGTH_SHORT).show()
-                }
-            }
-            .setNegativeButton("Previous") { _, _ ->
-                if (findActive) {
-                    webView.findNext(false)
-                } else {
-                    Toast.makeText(this, "Search something first", Toast.LENGTH_SHORT).show()
-                }
-            }
-            .show()
-    }
-
-    private fun translateCurrentPageWithChoice() {
-        val currentUrl = webView.url?.trim().orEmpty()
-        if (currentUrl.isBlank()) {
-            Toast.makeText(this, "No page to translate", Toast.LENGTH_SHORT).show()
-            return
-        }
-
-        val labels = arrayOf("Italiano", "English", "Español", "Français")
-        val codes = arrayOf("it", "en", "es", "fr")
-
-        AlertDialog.Builder(this, R.style.AlertDialogTheme)
-            .setTitle("Translate page")
-            .setItems(labels) { _, which ->
-                val encodedUrl = URLEncoder.encode(currentUrl, "UTF-8")
-                val translateUrl =
-                    "https://translate.google.com/translate?sl=auto&tl=${codes[which]}&u=$encodedUrl"
-                showBrowser()
-                webView.loadUrl(translateUrl)
-            }
-            .show()
-    }
-
-    private fun getHomeUrl(): String {
-        val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
-        val value = prefs.getString(KEY_HOME, DEFAULT_HOME) ?: DEFAULT_HOME
-        return if (value.isBlank()) DEFAULT_HOME else value
-    }
-
-    private fun checkForUpdates() {
-        val currentVersion = BuildConfig.VERSION_NAME
-
-        if (!isNetworkAvailable()) {
-            Toast.makeText(this, "No internet connection", Toast.LENGTH_SHORT).show()
-            return
-        }
-
-        Toast.makeText(this, "Checking for updates…", Toast.LENGTH_SHORT).show()
-
-        thread {
-            try {
-                val html = httpGetText(UPDATE_SITE)
-                val latest = extractLatestVersionFromUptodownHtml(html)
-
-                runOnUiThread {
-                    if (latest.isBlank()) {
-                        Toast.makeText(this, "Can't detect latest version", Toast.LENGTH_LONG).show()
-                        return@runOnUiThread
-                    }
-
-                    if (compareVersions(latest, currentVersion) > 0) {
-                        AlertDialog.Builder(this)
-                            .setTitle("Update available")
-                            .setMessage("New version: $latest\nCurrent: $currentVersion")
-                            .setPositiveButton("Open Uptodown") { _, _ ->
-                                openExternal(UPDATE_SITE)
-                            }
-                            .setNegativeButton("Later", null)
-                            .show()
-                    } else {
-                        Toast.makeText(this, "You already have the latest version", Toast.LENGTH_LONG).show()
-                    }
-                }
-            } catch (_: Throwable) {
-                runOnUiThread {
-                    Toast.makeText(this, "Update check failed", Toast.LENGTH_LONG).show()
-                }
             }
         }
     }
+    return super.dispatchKeyEvent(event)
+}
 
-    private fun extractLatestVersionFromUptodownHtml(html: String): String {
-        val patterns = listOf(
-            Regex("""\b(\d+\.\d+\.\d+)\b"""),
-            Regex("""version["'\s:>]+(\d+\.\d+\.\d+)""", RegexOption.IGNORE_CASE),
-            Regex("""AuryxBrowser[^\d]*(\d+\.\d+\.\d+)""", RegexOption.IGNORE_CASE)
-        )
+private fun shareCurrentPage() {
+    val url = webView.url ?: return
+    val intent = Intent(Intent.ACTION_SEND).apply {
+        type = "text/plain"
+        putExtra(Intent.EXTRA_TEXT, url)
+    }
+    startActivity(Intent.createChooser(intent, "Share"))
+}
 
-        val matches = mutableListOf<String>()
+private fun copyCurrentUrl() {
+    val url = webView.url ?: return
+    val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
+    clipboard.setPrimaryClip(ClipData.newPlainText("url", url))
+    Toast.makeText(this, "Copied link", Toast.LENGTH_SHORT).show()
+}
 
-        for (pattern in patterns) {
-            pattern.findAll(html).forEach { match ->
-                val value = match.groupValues.getOrNull(1).orEmpty()
-                if (value.matches(Regex("""\d+\.\d+\.\d+"""))) {
-                    matches.add(value)
-                }
-            }
-        }
+private fun toggleDesktopMode() {
+    desktopModeEnabled = !desktopModeEnabled
+    getSharedPreferences(PREFS, MODE_PRIVATE)
+        .edit()
+        .putBoolean(KEY_DESKTOP_MODE, desktopModeEnabled)
+        .apply()
 
-        if (matches.isEmpty()) return ""
+    webView.settings.userAgentString = defaultUserAgent()
+    webView.reload()
 
-        return matches.distinct().maxWithOrNull { a, b -> compareVersions(a, b) } ?: ""
+    Toast.makeText(
+        this,
+        if (desktopModeEnabled) "Desktop mode ON" else "Desktop mode OFF",
+        Toast.LENGTH_SHORT
+    ).show()
+}
+
+private fun addBookmarkCurrent() {
+    val url = webView.url ?: urlBar.text?.toString()?.trim().orEmpty()
+    if (url.isBlank()) {
+        Toast.makeText(this, "No URL to bookmark", Toast.LENGTH_SHORT).show()
+        return
+    }
+    store.addBookmark(url)
+    Toast.makeText(this, "Added to bookmarks", Toast.LENGTH_SHORT).show()
+}
+
+private fun showFindInPageDialog() {
+    val input = EditText(this).apply {
+        hint = "Find in page"
+        setText(findQuery)
+        setSelection(text?.length ?: 0)
     }
 
-    private fun compareVersions(a: String, b: String): Int {
-        val pa = a.split(".").mapNotNull { it.toIntOrNull() }
-        val pb = b.split(".").mapNotNull { it.toIntOrNull() }
-        val max = maxOf(pa.size, pb.size)
-        for (i in 0 until max) {
-            val ai = pa.getOrElse(i) { 0 }
-            val bi = pb.getOrElse(i) { 0 }
-            if (ai != bi) return ai.compareTo(bi)
-        }
-        return 0
-    }
-
-    private fun httpGetText(url: String): String {
-        val conn = (URL(url).openConnection() as HttpURLConnection).apply {
-            connectTimeout = 10000
-            readTimeout = 10000
-            instanceFollowRedirects = true
-            setRequestProperty("User-Agent", "Mozilla/5.0")
-        }
-
-        conn.inputStream.use { input ->
-            BufferedReader(InputStreamReader(input)).use { br ->
-                val sb = StringBuilder()
-                var line: String?
-                while (true) {
-                    line = br.readLine() ?: break
-                    sb.append(line).append('\n')
-                }
-                return sb.toString()
-            }
-        }
-    }
-
-    private fun isNetworkAvailable(): Boolean {
-        val cm = getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
-        val net = cm.activeNetwork ?: return false
-        val caps = cm.getNetworkCapabilities(net) ?: return false
-        return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
-    }
-
-    fun performAssistantAction(action: String, data: String?) {
-        when (action) {
-            "open_url" -> {
-                val url = data?.trim().orEmpty()
-                if (url.isNotEmpty()) {
-                    showBrowser()
-                    loadFromInput(url)
-                }
+    AlertDialog.Builder(this, R.style.AlertDialogTheme)
+        .setTitle("Find in page")
+        .setView(input)
+        .setPositiveButton("Find") { _, _ ->
+            val q = input.text?.toString()?.trim().orEmpty()
+            if (q.isEmpty()) {
+                Toast.makeText(this, "Empty query", Toast.LENGTH_SHORT).show()
+                return@setPositiveButton
             }
 
-            "search" -> {
-                val q = data?.trim().orEmpty()
-                if (q.isNotEmpty()) {
-                    showBrowser()
-                    loadFromInput(q)
-                }
-            }
-
-            "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
-            "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
-            "open_history" -> bottomNav.selectedItemId = R.id.nav_history
-
-            "new_tab" -> {
-                createNewTab()
-            }
-
-            else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
+            findQuery = q
+            findActive = true
+            webView.findAllAsync(q)
+            Toast.makeText(this, "Searching for \"$q\"", Toast.LENGTH_SHORT).show()
         }
-    }
-
-    override fun onSaveInstanceState(outState: Bundle) {
-        super.onSaveInstanceState(outState)
-        val webBundle = Bundle()
-        webView.saveState(webBundle)
-        outState.putBundle(KEY_WEBVIEW_STATE, webBundle)
-    }
-
-    override fun onPause() {
-        webView.onPause()
-        super.onPause()
-    }
-
-    override fun onResume() {
-        super.onResume()
-        webView.onResume()
-    }
-
-    override fun onBackPressed() {
-        if (findActive) {
-            findActive = false
-            webView.clearMatches()
-            Toast.makeText(this, "Find cleared", Toast.LENGTH_SHORT).show()
-            return
+        .setNeutralButton("Next") { _, _ ->
+            if (findActive) {
+                webView.findNext(true)
+            } else {
+                Toast.makeText(this, "Search something first", Toast.LENGTH_SHORT).show()
+            }
         }
+        .setNegativeButton("Previous") { _, _ ->
+            if (findActive) {
+                webView.findNext(false)
+            } else {
+                Toast.makeText(this, "Search something first", Toast.LENGTH_SHORT).show()
+            }
+        }
+        .show()
+}
 
-        if (fragmentContainer.isVisible) {
+private fun translateCurrentPageWithChoice() {
+    val currentUrl = webView.url?.trim().orEmpty()
+    if (currentUrl.isBlank()) {
+        Toast.makeText(this, "No page to translate", Toast.LENGTH_SHORT).show()
+        return
+    }
+
+    val labels = arrayOf("Italiano", "English", "Español", "Français")
+    val codes = arrayOf("it", "en", "es", "fr")
+
+    AlertDialog.Builder(this, R.style.AlertDialogTheme)
+        .setTitle("Translate page")
+        .setItems(labels) { _, which ->
+            val encodedUrl = URLEncoder.encode(currentUrl, "UTF-8")
+            val translateUrl =
+                "https://translate.google.com/translate?sl=auto&tl=${codes[which]}&u=$encodedUrl"
             showBrowser()
-            return
+            webView.loadUrl(translateUrl)
         }
+        .show()
+}
 
-        if (webView.canGoBack()) {
-            webView.goBack()
-        } else {
-            super.onBackPressed()
+private fun getHomeUrl(): String {
+    val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
+    val value = prefs.getString(KEY_HOME, DEFAULT_HOME) ?: DEFAULT_HOME
+    return if (value.isBlank()) DEFAULT_HOME else value
+}
+
+private fun checkForUpdates() {
+    val currentVersion = BuildConfig.VERSION_NAME
+
+    if (!isNetworkAvailable()) {
+        Toast.makeText(this, "No internet connection", Toast.LENGTH_SHORT).show()
+        return
+    }
+
+    Toast.makeText(this, "Checking for updates…", Toast.LENGTH_SHORT).show()
+
+    thread {
+        try {
+            val html = httpGetText(UPDATE_SITE)
+            val latest = extractLatestVersionFromUptodownHtml(html)
+
+            runOnUiThread {
+                if (latest.isBlank()) {
+                    Toast.makeText(this, "Can't detect latest version", Toast.LENGTH_LONG).show()
+                    return@runOnUiThread
+                }
+
+                if (compareVersions(latest, currentVersion) > 0) {
+                    AlertDialog.Builder(this)
+                        .setTitle("Update available")
+                        .setMessage("New version: $latest\nCurrent: $currentVersion")
+                        .setPositiveButton("Open Uptodown") { _, _ ->
+                            openExternal(UPDATE_SITE)
+                        }
+                        .setNegativeButton("Later", null)
+                        .show()
+                } else {
+                    Toast.makeText(this, "You already have the latest version", Toast.LENGTH_LONG).show()
+                }
+            }
+        } catch (_: Throwable) {
+            runOnUiThread {
+                Toast.makeText(this, "Update check failed", Toast.LENGTH_LONG).show()
+            }
+        }
+    }
+}
+
+private fun extractLatestVersionFromUptodownHtml(html: String): String {
+    val patterns = listOf(
+        Regex("""\b(\d+\.\d+\.\d+)\b"""),
+        Regex("""version["'\s:>]+(\d+\.\d+\.\d+)""", RegexOption.IGNORE_CASE),
+        Regex("""AuryxBrowser[^\d]*(\d+\.\d+\.\d+)""", RegexOption.IGNORE_CASE)
+    )
+
+    val matches = mutableListOf<String>()
+
+    for (pattern in patterns) {
+        pattern.findAll(html).forEach { match ->
+            val value = match.groupValues.getOrNull(1).orEmpty()
+            if (value.matches(Regex("""\d+\.\d+\.\d+"""))) {
+                matches.add(value)
+            }
         }
     }
 
-    override fun onDestroy() {
-        runCatching {
-            webView.stopLoading()
-            webView.loadUrl("about:blank")
-            webView.onPause()
-            webView.removeAllViews()
-            webView.destroy()
-        }
-        super.onDestroy()
+    if (matches.isEmpty()) return ""
+
+    return matches.distinct().maxWithOrNull { a, b -> compareVersions(a, b) } ?: ""
+}
+
+private fun compareVersions(a: String, b: String): Int {
+    val pa = a.split(".").mapNotNull { it.toIntOrNull() }
+    val pb = b.split(".").mapNotNull { it.toIntOrNull() }
+    val max = maxOf(pa.size, pb.size)
+    for (i in 0 until max) {
+        val ai = pa.getOrElse(i) { 0 }
+        val bi = pb.getOrElse(i) { 0 }
+        if (ai != bi) return ai.compareTo(bi)
     }
+    return 0
+}
+
+private fun httpGetText(url: String): String {
+    val conn = (URL(url).openConnection() as HttpURLConnection).apply {
+        connectTimeout = 10000
+        readTimeout = 10000
+        instanceFollowRedirects = true
+        setRequestProperty("User-Agent", "Mozilla/5.0")
+    }
+
+    conn.inputStream.use { input ->
+        BufferedReader(InputStreamReader(input)).use { br ->
+            val sb = StringBuilder()
+            var line: String?
+            while (true) {
+                line = br.readLine() ?: break
+                sb.append(line).append('\n')
+            }
+            return sb.toString()
+        }
+    }
+}
+
+private fun isNetworkAvailable(): Boolean {
+    val cm = getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+    val net = cm.activeNetwork ?: return false
+    val caps = cm.getNetworkCapabilities(net) ?: return false
+    return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
+}
+
+fun performAssistantAction(action: String, data: String?) {
+    when (action) {
+        "open_url" -> {
+            val url = data?.trim().orEmpty()
+            if (url.isNotEmpty()) {
+                showBrowser()
+                loadFromInput(url)
+            }
+        }
+
+        "search" -> {
+            val q = data?.trim().orEmpty()
+            if (q.isNotEmpty()) {
+                showBrowser()
+                loadFromInput(q)
+            }
+        }
+
+        "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
+        "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
+        "open_history" -> bottomNav.selectedItemId = R.id.nav_history
+
+        "new_tab" -> {
+            createNewTab()
+        }
+
+        else -> Toast.makeText(this, "Unknown action: $action", Toast.LENGTH_SHORT).show()
+    }
+}
+
+override fun onSaveInstanceState(outState: Bundle) {
+    super.onSaveInstanceState(outState)
+    val webBundle = Bundle()
+    webView.saveState(webBundle)
+    outState.putBundle(KEY_WEBVIEW_STATE, webBundle)
+}
+
+override fun onPause() {
+    webView.onPause()
+    super.onPause()
+}
+
+override fun onResume() {
+    super.onResume()
+    webView.onResume()
+}
+
+override fun onBackPressed() {
+    if (findActive) {
+        findActive = false
+        webView.clearMatches()
+        Toast.makeText(this, "Find cleared", Toast.LENGTH_SHORT).show()
+        return
+    }
+
+    if (fragmentContainer.isVisible) {
+        showBrowser()
+        return
+    }
+
+    if (webView.canGoBack()) {
+        webView.goBack()
+    } else {
+        super.onBackPressed()
+    }
+}
+
+override fun onDestroy() {
+    runCatching {
+        webView.stopLoading()
+        webView.loadUrl("about:blank")
+        webView.onPause()
+        webView.removeAllViews()
+        webView.destroy()
+    }
+    super.onDestroy()
 }
