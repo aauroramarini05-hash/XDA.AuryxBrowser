@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "name": "ANSA Tecnologia",
+      "country": "it",
+      "category": "technology",
+      "rss": "https://www.ansa.it/sito/notizie/tecnologia/tecnologia_rss.xml"
+    },
+    {
+      "name": "Multiplayer.it",
+      "country": "it",
+      "category": "gaming",
+      "rss": "https://multiplayer.it/rss/notizie.xml"
+    },
+    {
+      "name": "Reuters World",
+      "country": "global",
+      "category": "general",
+      "rss": "https://feeds.reuters.com/reuters/worldNews"
+    },
+    {
+      "name": "Reuters Technology",
+      "country": "global",
+      "category": "technology",
+      "rss": "https://feeds.reuters.com/reuters/technologyNews"
+    },
+    {
+      "name": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "rss": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+    },
+    {
+      "name": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "rss": "http://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "name": "The Verge",
+      "country": "us",
+      "category": "technology",
+      "rss": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "name": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "rss": "https://feeds.ign.com/ign/all"
+    },
+    {
+      "name": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "rss": "https://www.lemonde.fr/pixels/rss_full.xml"
+    }
+  ]
+}
