@@ -23,19 +23,25 @@ class NewsRepository(context: Context) {
         .connectTimeout(15, TimeUnit.SECONDS)
         .readTimeout(15, TimeUnit.SECONDS)
         .callTimeout(20, TimeUnit.SECONDS)
+        .followRedirects(true)
+        .followSslRedirects(true)
         .build()
 
     fun getCachedFeed(): NewsFeedResponse? {
         val raw = prefs.getString(KEY_CACHE, null) ?: return null
-        return runCatching {
+        return try {
             gson.fromJson(raw, NewsFeedResponse::class.java)
-        }.getOrNull()
+        } catch (e: Throwable) {
+            Log.e("AuryxNews", "Cache parse failed", e)
+            null
+        }
     }
 
     fun fetchRemoteFeed(): NewsFeedResponse? {
         val request = Request.Builder()
             .url(NEWS_URL)
             .header("User-Agent", "Mozilla/5.0")
+            .header("Accept", "application/json")
             .header("Cache-Control", "no-cache")
             .build()
 
@@ -57,6 +63,16 @@ class NewsRepository(context: Context) {
                 }
 
                 val parsed = gson.fromJson(body, NewsFeedResponse::class.java)
+
+                if (parsed == null) {
+                    Log.e("AuryxNews", "Parsed response is null")
+                    return null
+                }
+
+                if (parsed.items.isEmpty()) {
+                    Log.w("AuryxNews", "Parsed response has 0 items")
+                }
+
                 prefs.edit().putString(KEY_CACHE, body).apply()
                 parsed
             }
