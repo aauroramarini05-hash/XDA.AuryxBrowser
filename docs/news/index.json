@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-03-22T18:25:17.253304+00:00",
+  "updatedAt": "2026-03-22T19:19:43.465265+00:00",
   "items": [
+    {
+      "id": "4910debce5b6b9642988654f",
+      "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
+      "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
+      "url": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-22T19:05:30+00:00"
+    },
+    {
+      "id": "27808c13e59b16be77e73de3",
+      "title": "Selon ChatGPT, le visage parfait est… blanc",
+      "summary": "Les robots conversationnels sont-ils racistes ? Selon eux, le visage idéal serait celui d’une femme blanche, jeune et souriante. Face aux données stéréotypées utilisées par l’intelligence artificielle, les outils de régulation tardent à venir.",
+      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/03/22/selon-chatgpt-le-visage-parfait-est-blanc_6673811_6065879.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-22T19:00:07+00:00"
+    },
     {
       "id": "af8227002e6d38c6947346ef",
       "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
@@ -10,7 +32,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-03-22T17:57:48+00:00"
+      "publishedAt": "2026-03-22T18:37:07+00:00"
+    },
+    {
+      "id": "93315174750879804b609449",
+      "title": "Trump says ICE agents will assist airport security as DHS shutdown continues",
+      "summary": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
+      "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-22T18:15:59+00:00"
     },
     {
       "id": "29a8179a65f7dfa400535a93",
@@ -253,6 +286,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-21T22:01:45+00:00"
+    },
+    {
+      "id": "e53c101ece44820bf6f328d3",
+      "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
+      "summary": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital.",
+      "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-21T22:01:05+00:00"
     },
     {
       "id": "382394df3036c5b90fd4cf56",
@@ -825,17 +869,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-19T10:41:20+00:00"
-    },
-    {
-      "id": "04d39881cff40bb1cd1c1823",
-      "title": "« Les emplois du secteur tertiaire sont désormais exposés à la baisse des embauches et à des licenciements »",
-      "summary": "Intelligence artificielle, mondialisation et e‑commerce fragilisent massivement l’emploi, dans un mouvement encore sous-estimé, constate, dans une tribune au « Monde », Adrien Charbuy, spécialiste des politiques de l’emploi au sein de l’Etat.",
-      "url": "https://www.lemonde.fr/idees/article/2026/03/19/les-emplois-du-secteur-tertiaire-sont-desormais-exposes-a-la-baisse-des-embauches-et-a-des-licenciements_6672364_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-19T06:30:01+00:00"
     },
     {
       "id": "ed9ae2066b85d97b77bcfc79",
