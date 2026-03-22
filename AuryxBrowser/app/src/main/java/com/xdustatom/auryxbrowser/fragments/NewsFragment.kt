@@ -121,20 +121,31 @@ class NewsFragment : Fragment(R.layout.fragment_news) {
     }
 
     private fun refreshNews(tvUpdated: TextView) {
-        thread {
-            val remote = repository.fetchRemoteFeed()
-            requireActivity().runOnUiThread {
-                if (remote == null) {
-                    Toast.makeText(requireContext(), "Unable to refresh news", Toast.LENGTH_SHORT).show()
-                    return@runOnUiThread
-                }
+    thread {
+        val remote = repository.fetchRemoteFeed()
+        activity?.runOnUiThread {
+            if (!isAdded) return@runOnUiThread
 
-                fullFeed = remote
-                tvUpdated.text = "Updated: ${remote.updatedAt}"
-                applyFilters(tvUpdated)
-                Toast.makeText(requireContext(), "News updated", Toast.LENGTH_SHORT).show()
+            if (remote == null) {
+                Toast.makeText(
+                    requireContext(),
+                    "News fetch failed",
+                    Toast.LENGTH_LONG
+                ).show()
+                return@runOnUiThread
             }
+
+            fullFeed = remote
+            tvUpdated.text = "Updated: ${remote.updatedAt}"
+            applyFilters(tvUpdated)
+
+            Toast.makeText(
+                requireContext(),
+                "Loaded ${remote.items.size} news",
+                Toast.LENGTH_SHORT
+            ).show()
         }
+    }
     }
 
     private fun applyFilters(tvUpdated: TextView) {
