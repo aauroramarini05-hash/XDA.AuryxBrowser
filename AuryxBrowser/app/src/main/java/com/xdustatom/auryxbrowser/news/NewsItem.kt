@@ -1,18 +1,43 @@
 package com.xdustatom.auryxbrowser.news
 
+import androidx.annotation.Keep
+import com.google.gson.annotations.SerializedName
+
+@Keep
 data class NewsItem(
-    val id: String,
-    val title: String,
-    val summary: String,
-    val url: String,
+    @SerializedName("id")
+    val id: String = "",
+
+    @SerializedName("title")
+    val title: String = "",
+
+    @SerializedName("summary")
+    val summary: String = "",
+
+    @SerializedName("url")
+    val url: String = "",
+
+    @SerializedName("imageUrl")
     val imageUrl: String? = null,
-    val source: String,
-    val country: String,
-    val category: String,
-    val publishedAt: String
+
+    @SerializedName("source")
+    val source: String = "",
+
+    @SerializedName("country")
+    val country: String = "",
+
+    @SerializedName("category")
+    val category: String = "",
+
+    @SerializedName("publishedAt")
+    val publishedAt: String = ""
 )
 
+@Keep
 data class NewsFeedResponse(
-    val updatedAt: String,
-    val items: List<NewsItem>
+    @SerializedName("updatedAt")
+    val updatedAt: String = "",
+
+    @SerializedName("items")
+    val items: List<NewsItem> = emptyList()
 )
