@@ -10,6 +10,9 @@
 
 # Keep data classes
 -keep class com.xdustatom.auryxbrowser.models.** { *; }
+-keep class com.xdustatom.auryxbrowser.news.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
 
 # OkHttp
 -dontwarn okhttp3.**
