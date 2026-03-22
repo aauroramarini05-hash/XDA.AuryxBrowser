@@ -224,6 +224,11 @@ class MainActivity : AppCompatActivity() {
             addBookmarkCurrent()
         }
 
+        view.findViewById<MaterialButton>(R.id.menuHistory).setOnClickListener {
+            dialog.dismiss()
+            showFragment(HistoryFragment.newInstance())
+        }
+
         view.findViewById<MaterialButton>(R.id.menuShare).setOnClickListener {
             dialog.dismiss()
             shareCurrentPage()
@@ -377,11 +382,6 @@ class MainActivity : AppCompatActivity() {
 
                 R.id.nav_bookmarks -> {
                     showFragment(BookmarksFragment.newInstance())
-                    true
-                }
-
-                R.id.nav_history -> {
-                    showFragment(HistoryFragment.newInstance())
                     true
                 }
 
@@ -993,7 +993,7 @@ class MainActivity : AppCompatActivity() {
 
             "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
             "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
-            "open_history" -> bottomNav.selectedItemId = R.id.nav_history
+            "open_history" -> showFragment(HistoryFragment.newInstance())
 
             "new_tab" -> {
                 createNewTab()
