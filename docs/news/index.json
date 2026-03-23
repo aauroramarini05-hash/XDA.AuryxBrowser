@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-03-23T01:23:00.353377+00:00",
+  "updatedAt": "2026-03-23T04:21:23.050786+00:00",
   "items": [
+    {
+      "id": "3d5d77997d53c7db8ded6388",
+      "title": "UN issues new climate warning as El Niño looms",
+      "summary": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
+      "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-23T04:06:22+00:00"
+    },
+    {
+      "id": "6ade0d35cbba698b40653a1e",
+      "title": "Asia stocks slide as US and Iran threaten to intensify war",
+      "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-23T03:00:32+00:00"
+    },
+    {
+      "id": "ba31636c68bea16b01143d86",
+      "title": "Crimson Desert Patch Adjusts Some Keyboard/Mouse Controls, Adds Storage",
+      "summary": "“We will continue to improve both controller and keyboard/mouse controls moving forward,” says studio.",
+      "url": "https://www.ign.com/articles/crimson-desert-patch-adjusts-some-keyboardmouse-controls-adds-storage",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-23T02:35:26+00:00"
+    },
     {
       "id": "a4a9e1c637a432df276a2554",
       "title": "How a ban on religious symbols has triggered a Canadian constitutional debate",
@@ -365,39 +398,6 @@
       "publishedAt": "2026-03-21T22:14:00+00:00"
     },
     {
-      "id": "0f08a1a93349cfd69be628c9",
-      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-      "summary": "\"Don't take this storm lightly,\" Hawaii Governor Josh Green warned on Saturday, as more rain is expected on Oahu and Maui.",
-      "url": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-21T22:01:45+00:00"
-    },
-    {
-      "id": "e53c101ece44820bf6f328d3",
-      "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
-      "summary": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital.",
-      "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-21T22:01:05+00:00"
-    },
-    {
-      "id": "382394df3036c5b90fd4cf56",
-      "title": "Trump threatens to send ICE into airports unless funding deal reached",
-      "summary": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
-      "url": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-21T20:22:10+00:00"
-    },
-    {
       "id": "57c41a0997eb73a5a747fb86",
       "title": "The Best Deals Today: Castlevania Blu-ray Box Set, Dragon Quest VII Reimagined, LEGO Project Hail Mary, and More",
       "summary": "",
@@ -440,17 +440,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-03-21T17:16:45+00:00"
-    },
-    {
-      "id": "0dd787c611f6280e7114e2b8",
-      "title": "Pentagon restrictions on press violate First Amendment, judge rules",
-      "summary": "The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pentagon.",
-      "url": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-21T16:11:58+00:00"
     },
     {
       "id": "1e01d42159d7df1d97209a49",
@@ -519,17 +508,6 @@
       "publishedAt": "2026-03-21T14:00:00+00:00"
     },
     {
-      "id": "9a051c35c2db1c19fcc46150",
-      "title": "BTS make live return in front of huge crowd",
-      "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook perform together for the first time since October 2022.",
-      "url": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-21T13:24:34+00:00"
-    },
-    {
       "id": "6bc67617c0247a84030900e6",
       "title": "La résistance épistolaire des amoureux de l’e-mail : « Le courriel, c’est le temps de l’écrit, de la pause, de la réflexion »",
       "summary": "Après les SMS, les messageries comme WhatsApp se sont largement imposées dans les communications privées des Français. Malgré tout, certains internautes sont restés fidèles au courriel, attachés à l’écriture longue, et à la profondeur de telles correspondances.",
@@ -550,28 +528,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-03-21T12:00:00+00:00"
-    },
-    {
-      "id": "7dd15362b44b7a77b555a534",
-      "title": "Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54",
-      "summary": "Brendon died of \"natural causes\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\".",
-      "url": "https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-21T11:26:16+00:00"
-    },
-    {
-      "id": "f8f6aed72f719da13c78e844",
-      "title": "Pokémon Pokopia is the Best Reason to Pick Up a Switch 2 Right Now, So Here's Your Best Options Available",
-      "summary": "",
-      "url": "https://www.ign.com/articles/buying-nintendo-switch-2-for-pokemon-pokopia-worth-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-21T11:00:00+00:00"
     },
     {
       "id": "347dc73ad0f57111f1c9fc33",
@@ -640,17 +596,6 @@
       "publishedAt": "2026-03-21T01:00:00+00:00"
     },
     {
-      "id": "8ed5470c3da3b0f334d3410d",
-      "title": "Elon Musk misled Twitter investors, jury finds",
-      "summary": "A San Francisco jury concludes Musk’s claims in 2022 were damaging to a group of Twitter investors.",
-      "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-20T23:44:09+00:00"
-    },
-    {
       "id": "d66aeae622ea0dd6b0b53339",
       "title": "Elon Musk reconnu coupable d’avoir trompé des actionnaires lors du rachat de Twitter",
       "summary": "Un jury a estimé que deux tweets publiés par le patron de Tesla en mai 2022 contenaient des déclarations mensongères responsables de la baisse du cours de la plateforme. Les dommages, qui doivent encore être déterminés, sont estimés à 2,6 milliards de dollars (environ 2,2 milliards d’euros).",
@@ -660,39 +605,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-20T23:25:44+00:00"
-    },
-    {
-      "id": "f7a7d30958f7da28184dbbcb",
-      "title": "As Islamophobia rises, Australia's Muslims celebrate Eid",
-      "summary": "Recent events abroad and at home have fuelled an ongoing surge of Islamophobia in Australia.",
-      "url": "https://www.bbc.com/news/articles/cr410ezy312o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-20T22:36:13+00:00"
-    },
-    {
-      "id": "59132b5b720fa0bff1457ff3",
-      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-      "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
-      "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-20T22:34:05+00:00"
-    },
-    {
-      "id": "9e74fe3faaf831fcce6dfda0",
-      "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
-      "summary": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended.",
-      "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-20T20:16:29+00:00"
     },
     {
       "id": "a035759890a5df503b543ff9",
