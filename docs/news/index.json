@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-03-23T08:51:52.115529+00:00",
+  "updatedAt": "2026-03-23T09:55:32.117693+00:00",
   "items": [
+    {
+      "id": "75d3313dad0739099fee50ed",
+      "title": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
+      "summary": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident.",
+      "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-23T09:40:11+00:00"
+    },
     {
       "id": "2af01c1b6db5d2c218f3b1a0",
       "title": "Asia stocks slide as US and Iran threaten to escalate war",
@@ -24,19 +35,8 @@
       "publishedAt": "2026-03-23T08:00:09+00:00"
     },
     {
-      "id": "3d1e43146b3b9b8b747abfad",
-      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
-      "summary": "An Air Canada Express plane suffered significant damage after the collision.",
-      "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T07:53:53+00:00"
-    },
-    {
-      "id": "35d951649a819c43824ed838",
-      "title": "The cutthroat battle for the US weight-loss drug market",
+      "id": "66b0ff83ca9a1b3dc084cd39",
+      "title": "US weight loss drugmakers slash prices in fight to win customers",
       "summary": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
       "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
