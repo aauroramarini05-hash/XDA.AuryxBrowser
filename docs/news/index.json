@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-03-23T07:57:11.937115+00:00",
+  "updatedAt": "2026-03-23T08:51:52.115529+00:00",
   "items": [
+    {
+      "id": "2af01c1b6db5d2c218f3b1a0",
+      "title": "Asia stocks slide as US and Iran threaten to escalate war",
+      "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-23T08:11:01+00:00"
+    },
+    {
+      "id": "332c455789b4b2bc2028d0ba",
+      "title": "« La Russie tente de bâtir un écosystème numérique national où Internet fait office d’instrument de souveraineté technologique et d’outil de contrôle »",
+      "summary": "Dans une tribune au « Monde », la sociologue Francesca Musiani évoque les significations diplomatiques, politiques et économiques des coupures prolongées d’Internet à Moscou depuis le mois de mars.",
+      "url": "https://www.lemonde.fr/idees/article/2026/03/23/la-russie-tente-de-batir-un-ecosysteme-numerique-national-ou-internet-fait-office-d-instrument-de-souverainete-technologique-et-d-outil-de-controle_6673869_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-23T08:00:09+00:00"
+    },
     {
       "id": "3d1e43146b3b9b8b747abfad",
       "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
@@ -11,17 +33,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-23T07:53:53+00:00"
-    },
-    {
-      "id": "2af01c1b6db5d2c218f3b1a0",
-      "title": "Asia stocks slide as US and Iran threaten to escalate war",
-      "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T07:29:09+00:00"
     },
     {
       "id": "35d951649a819c43824ed838",
@@ -803,17 +814,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-19T12:13:04+00:00"
-    },
-    {
-      "id": "3f15de4c306d8c77028d80e4",
-      "title": "iPhone : l’inquiétante prolifération des outils conçus pour pirater les appareils d’Apple",
-      "summary": "Plusieurs campagnes d’espionnage ou à visée lucrative identifiées ces derniers mois reposaient sur l’exploitation très sophistiquée de vulnérabilités de téléphones d’Apple. La dernière repérée concerne les appareils équipés d’anciennes versions d’iOS (de iOS 18.4 à 18.7).",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/19/iphone-l-inquietante-proliferation-des-outils-concus-pour-pirater-les-appareils-d-apple_6672393_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-19T10:41:20+00:00"
     },
     {
       "id": "ed9ae2066b85d97b77bcfc79",
