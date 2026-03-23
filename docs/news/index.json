@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-03-23T16:48:53.745629+00:00",
+  "updatedAt": "2026-03-23T17:44:33.563004+00:00",
   "items": [
+    {
+      "id": "f971d25c1bf8e1645d9a052d",
+      "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
+      "summary": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
+      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-23T17:31:32+00:00"
+    },
+    {
+      "id": "fd62d124235af4c569127c64",
+      "title": "The Apple AirPods Pro 3 Noise Canceling Earbuds Has Dropped by $50 Ahead of the Amazon Spring Sale",
+      "summary": "The best earbuds for iPhone.",
+      "url": "https://www.ign.com/articles/apple-airpods-pro-3-deal-early-amazon-spring-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-23T17:25:00+00:00"
+    },
+    {
+      "id": "e64766ee88877abca528f56a",
+      "title": "World of Warcraft: Midnight Review",
+      "summary": "Enthralling zones and a satisfying endgame loop.",
+      "url": "https://www.ign.com/articles/world-of-warcraft-midnight-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-23T17:14:14+00:00"
+    },
+    {
+      "id": "9f97fac262ee85b6bbb856cc",
+      "title": "Exclusive: Check Out This Alternate Art Riftbound Unleashed Legend",
+      "summary": "",
+      "url": "https://www.ign.com/articles/exclusive-check-out-this-alternate-art-riftbound-unleashed-legend",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-23T17:00:00+00:00"
+    },
+    {
+      "id": "0f57cf451e7de508007d3a45",
+      "title": "Alienware's Flagship Area-51 RTX 5090 Gaming PC Doesn't Cost Much More Than a Lone 5090 GPU",
+      "summary": "Buying a RTX 5090 GPU by itself would cost you $3,800.",
+      "url": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-not-much-more-than-lone-gpu",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-23T16:55:00+00:00"
+    },
+    {
+      "id": "e9f9c3945b180a14b42615f1",
+      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
+      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-23T16:50:12+00:00"
+    },
     {
       "id": "8966a7b8378940ca4c0a72cc",
       "title": "Kenyan ex-foreign minister arrested and accused of staging his disappearance",
@@ -11,6 +77,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-23T16:48:08+00:00"
+    },
+    {
+      "id": "edfdb976109604d2f0702ea8",
+      "title": "The Rock is Losing This Season's Player-Decided Fortnite Storyline, Despite a Weekend Event Designed to Help Him Catch Up",
+      "summary": "The Rock is currently losing Fortnite's new season vote that asks players to pick a side between his in-game character and a wintry villain.",
+      "url": "https://www.ign.com/articles/the-rock-is-losing-this-seasons-player-decided-fortnite-storyline-despite-a-weekend-event-designed-to-help-him-catch-up",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-23T16:44:41+00:00"
     },
     {
       "id": "894a29748699f2edd203092a",
@@ -79,17 +156,6 @@
       "publishedAt": "2026-03-23T15:34:38+00:00"
     },
     {
-      "id": "0cd42b279935d973dc7c6177",
-      "title": "What we know about the LaGuardia Airport crash",
-      "summary": "Two pilots have died after a passenger plane collided with a fire truck at New York's LaGuardia Airport.",
-      "url": "https://www.bbc.com/news/articles/c4gvpmz18e0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T15:32:35+00:00"
-    },
-    {
       "id": "e6af8483677c57642b74dd8d",
       "title": "OnlyFans owner Leonid Radvinsky dies at 43",
       "summary": "Leo Radvinsky became a billionaire after investing in the site, known for its pornographic content.",
@@ -134,19 +200,8 @@
       "publishedAt": "2026-03-23T14:37:52+00:00"
     },
     {
-      "id": "e9f9c3945b180a14b42615f1",
-      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T14:19:58+00:00"
-    },
-    {
-      "id": "dba23b712828facc5b618d2a",
-      "title": "Dying Light: The Beast Announces Restored Land Update That Adds Lots of Free Content",
+      "id": "8d900b57d098702b6b70ef94",
+      "title": "Dying Light: The Beast Announces Restored Land Edition That Adds Lots of Free Content",
       "summary": "Dying Light: The Beast developer Techland has announced a new edition of its first-person zombie-slaying game. It's called Dying Light: The Beast Restored Land, and it includes the full game, all post-release content, and new Restored Land content. It launches on March 26 and is free for existing players of Dying Light: The Beast.",
       "url": "https://www.ign.com/articles/dying-light-the-beast-announces-restored-land-update-that-adds-lots-of-free-content",
       "imageUrl": null,
@@ -200,8 +255,8 @@
       "publishedAt": "2026-03-23T13:16:27+00:00"
     },
     {
-      "id": "cb7327329f8507be7eb2b143",
-      "title": "'If I Wanna Be the Most OP Mfer Every Why Try to Hinder Me?' — It Turns Out That Flying a Dragon in Crimson Desert Is on a 15 Minute Timer and There's a 50 Minute Cooldown You Can't Speed Up",
+      "id": "ce40e1c9aa1776070bf281e9",
+      "title": "'If I Wanna Be the Most OP Mfer Ever Why Try to Hinder Me?' — It Turns Out That Flying a Dragon in Crimson Desert Is on a 15 Minute Timer and There's a 50 Minute Cooldown You Can't Speed Up",
       "summary": "As Crimson Desert players make their way further into the game, they’re coming to understand some of its more puzzling design choices. Chief among them is that creature mounts other than your horse are not permanent. And while the coveted endgame dragon is a permanent addition, its use has a 15 minute real-time time limit, and then a 50 minute real",
       "url": "https://www.ign.com/articles/if-i-wanna-be-the-most-op-mfer-every-why-try-to-hinder-me-it-turns-out-that-flying-a-dragon-in-crimson-desert-is-on-a-15-minute-timer-and-theres-a-50-minute-cooldown-you-cant-speed-up",
       "imageUrl": null,
@@ -233,28 +288,6 @@
       "publishedAt": "2026-03-23T12:30:09+00:00"
     },
     {
-      "id": "b84da6f63c114b0fddb531d9",
-      "title": "Bungie is 'Watching and Ingesting' Your Feedback About Marathon's Cryo Archive And Looking at 'Solutions' For Players Who Can't Get On During the Weekend",
-      "summary": "Marathon developer Bungie is \"watching and ingesting\" your thoughts and feedback about its new mode, Cryo Archive.",
-      "url": "https://www.ign.com/articles/bungie-is-watching-and-ingesting-your-feedback-about-marathons-cryo-archive-and-looking-at-solutions-for-players-who-cant-get-on-during-the-weekend",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-23T11:52:21+00:00"
-    },
-    {
-      "id": "b41c5a3cb734246aaf9464bc",
-      "title": "Crimson Desert Steam Reviews Jump to 'Mostly Positive' as Latest Patch Makes Significant Improvements",
-      "summary": "Crimson Desert Steam reviews are improving, moving up from ‘mixed’ to ‘mostly positive’ on Valve’s platform as developer Pearl Abyss releases game-changing updates.",
-      "url": "https://www.ign.com/articles/crimson-desert-steam-reviews-jump-to-mostly-positive-as-latest-patch-makes-significant-improvements",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-23T11:42:24+00:00"
-    },
-    {
       "id": "f551cd0ffa8dea8043106721",
       "title": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
       "summary": "Jospin was head of government from 1997 to 2002 and is credited with bringing in the 35-hour working week.",
@@ -264,39 +297,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-23T11:29:26+00:00"
-    },
-    {
-      "id": "7ff339ece791e30490158ada",
-      "title": "'The Abuse Fuels Me' — Harry Potter TV Actor Paapa Essiedu Slams Racist Backlash Following Snape Casting",
-      "summary": "Harry Potter TV series actor Paapa Essiedu has spoken out about the racist abuse he's suffered since being cast as Hogwarts professor Severus Snape.",
-      "url": "https://www.ign.com/articles/the-abuse-fuels-me-harry-potter-tv-actor-paapa-essiedu-slams-racist-backlash-following-snape-casting",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-23T11:11:57+00:00"
-    },
-    {
-      "id": "84f6dd46f51a007155a40816",
-      "title": "Buffy the Vampire Slayer Stars Pay Tribute to Nicholas Brendon, Who Has Died Aged 54",
-      "summary": "The cast of Buffy the Vampire Slayer have paid tribute to Nicholas Brendon, the actor who played Xander on the cult classic TV series, who has died at the age of 54.",
-      "url": "https://www.ign.com/articles/buffy-the-vampire-slayer-stars-pay-tribute-to-nicholas-brendon-who-has-died-aged-54",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-23T10:23:25+00:00"
-    },
-    {
-      "id": "9c39e4482e408ddc6c0e22ee",
-      "title": "'I Just Want It to Be Known That I Did This Before the Patch' — Crimson Desert Players Who Beat Its Rock Hard Archery Minigame Before Today's Update Are Flexing Now",
-      "summary": "Crimson Desert developer Pearl Abyss just released a patch that makes a number of significant improvements, but one that players are already praising lowers the difficulty of one of the hardest activities in the game: the archery minigame.",
-      "url": "https://www.ign.com/articles/i-just-want-it-to-be-known-that-i-did-this-before-the-patch-crimson-desert-players-who-beat-its-rock-hard-archery-minigame-before-todays-update-are-flexing-now",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-23T09:43:20+00:00"
     },
     {
       "id": "63fd1f3f3974f6f6fda788d1",
