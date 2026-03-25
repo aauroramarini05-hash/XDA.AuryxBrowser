@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-03-25T22:27:29.516999+00:00",
+  "updatedAt": "2026-03-25T23:26:57.934372+00:00",
   "items": [
+    {
+      "id": "9c072205a27e5edc7f9bc8cc",
+      "title": "Meta and YouTube found liable in landmark social media addiction trial",
+      "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-03-25T22:59:23+00:00"
+    },
+    {
+      "id": "e3af82e52cacaedc9720f739",
+      "title": "Pokémon Champions Won't Let You Use Pokémon That Aren't Fully Evolved",
+      "summary": "Pokémon Champions' producer Masaaki Hoshino says only \"final evolution\" Pokémon will be available at launch, possibly with exceptions for some like Pikachu and Eevee.",
+      "url": "https://www.ign.com/articles/pokemon-champions-wont-let-you-use-pokmon-that-arent-fully-evolved",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-25T22:22:50+00:00"
+    },
+    {
+      "id": "27ebb15e76c0e505d8a5c06d",
+      "title": "Bait Season 1 Review",
+      "summary": "What if Riz Ahmed was Bond? The actor’s new streaming series Bait answers this question in hilarious and unexpected ways.",
+      "url": "https://www.ign.com/articles/bait-season-1-review-riz-ahmed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-25T21:55:33+00:00"
+    },
+    {
+      "id": "b1233852b1a865d627431b9a",
+      "title": "The T-Mobile Samsung Galaxy S26 Ultra \"On Us\" Deal Explained (No Trade-In or Port-In Required)",
+      "summary": "Samsung's new flagship phone was released on March 11 and is now shipping.",
+      "url": "https://www.ign.com/articles/t-mobile-samsung-galaxy-s26-ultra-deals-no-trade-in-or-port-in-required-now-shipping",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-25T21:55:00+00:00"
+    },
     {
       "id": "47fe7ff1291123dc4b3b71c4",
       "title": "What are the US and Iran's proposals for peace?",
@@ -13,17 +57,6 @@
       "publishedAt": "2026-03-25T21:06:26+00:00"
     },
     {
-      "id": "9c072205a27e5edc7f9bc8cc",
-      "title": "Meta and YouTube found liable in landmark social media addiction trial",
-      "summary": "A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.",
-      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-25T21:06:23+00:00"
-    },
-    {
       "id": "8ed3614dffde5b13e82d8b7a",
       "title": "« EA Sports FC » et « Battlefield 6 » en tête des ventes de jeux vidéo en France en 2025",
       "summary": "Le chiffre d’affaires du marché du jeu vidéo en France est en légère hausse en 2025, selon le bilan annuel des éditeurs.",
@@ -32,7 +65,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-03-25T21:00:12+00:00"
+      "publishedAt": "2026-03-25T21:00:08+00:00"
     },
     {
       "id": "0d7fa0947c52136691d6a408",
@@ -277,28 +310,6 @@
       "publishedAt": "2026-03-25T16:33:10+00:00"
     },
     {
-      "id": "b879bdfd5455d586d6cb299a",
-      "title": "Amazon’s Has a Bunch of New Magic: The Gathering Deals as Part of Its Spring Sale",
-      "summary": "From Commander decks to booster boxes, here are the best deals in Magic during Amazon's sales event.",
-      "url": "https://www.ign.com/articles/amazons-has-a-bunch-of-new-magic-the-gathering-deals-as-part-of-its-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-25T16:14:27+00:00"
-    },
-    {
-      "id": "648542de556478504e701902",
-      "title": "The Nintendo Switch 2 Pro Controller Just Dropped to $58.39 at Woot, But Only for Today",
-      "summary": "Grade A refurbished with 90-day warranty.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-pro-controller-deal-woot-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-25T16:05:00+00:00"
-    },
-    {
       "id": "868b638cf2562c68c894d30a",
       "title": "IA : la fin de Sora, symbole du recentrage d’OpenAI sur le marché des entreprises pour contrer Anthropic",
       "summary": "Concurrencée par Anthropic, la maison mère de ChatGPT ajuste sa stratégie et tourne la page de ce réseau social sans modèle économique immédiat lancé en septembre.",
@@ -319,17 +330,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-25T15:47:48+00:00"
-    },
-    {
-      "id": "10befebd07adf8d28586018e",
-      "title": "Harry Potter TV Series Sounds Like It Won't Stream Seasons Annually, as HBO Compares Show to House of the Dragon and The Last of Us",
-      "summary": "Harry Potter fans will likely have to wait multiple years between seasons of HBO's upcoming TV series, the streaming service has admitted.",
-      "url": "https://www.ign.com/articles/harry-potter-tv-series-sounds-like-it-wont-stream-seasons-annually-as-hbo-compares-show-to-house-of-the-dragon-and-the-last-of-us",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-25T15:46:23+00:00"
     },
     {
       "id": "42d81bdc31eb959912b93471",
