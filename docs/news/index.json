@@ -1,16 +1,115 @@
 {
-  "updatedAt": "2026-03-25T01:21:30.361579+00:00",
+  "updatedAt": "2026-03-25T04:12:08.764696+00:00",
   "items": [
     {
-      "id": "63558c6bb61122ef78b86086",
-      "title": "Journalists at Australia's national broadcaster begin 24-hour strike over pay",
-      "summary": "Staff at the Australian Broadcasting Corporation are striking for the first time in 20 years.",
+      "id": "3241fca911663514adec81a1",
+      "title": "OpenAI ends Disney partnership as it closes Sora video-making tool",
+      "summary": "The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.",
+      "url": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-03-25T04:01:57+00:00"
+    },
+    {
+      "id": "5011184c7b7e7df97061ac0c",
+      "title": "Un verdict « historique » contre Meta, la maison mère de Facebook et Instagram, reconnue coupable de mise en danger de mineurs, au Nouveau-Mexique",
+      "summary": "Le géant de la tech a été condamné à payer 375 millions de dollars de dommages et intérêts par un jury qui a estimé que l’entreprise avait privilégié les profits à la sécurité et dissimulé ce qu’elle savait des effets néfastes de ses applications.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/03/25/un-verdict-historique-contre-meta-la-maison-mere-de-facebook-et-instagram-reconnue-coupable-de-mise-en-danger-de-mineurs-au-nouveau-mexique_6674150_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-25T04:00:48+00:00"
+    },
+    {
+      "id": "1492df80b9144eeafcfa3eaf",
+      "title": "Dario Amodei, le patron d’Anthropic, l’utopiste alarmiste de l’IA",
+      "summary": "« Les gourous de l’IA » (1/12). Le quadragénaire incarne une figure paradoxale de la révolution de l’intelligence artificielle, à la fois inquiet sur ses possibles dérives et convaincu qu’elle peut révolutionner la médecine.",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/25/dario-amodei-le-patron-d-anthropic-l-utopiste-alarmiste-de-l-ia_6674149_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-25T04:00:45+00:00"
+    },
+    {
+      "id": "f141a4a329551aa26091de40",
+      "title": "Tough negotiations loom as Denmark's Social Democrats fail to secure a majority",
+      "summary": "The party, which has governed since 2019, gained the most votes but saw its weakest results in over a century.",
+      "url": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-25T03:40:53+00:00"
+    },
+    {
+      "id": "4215b910f04c000f447245cd",
+      "title": "Democrats flip Florida seat that includes Trump's Mar-a-Lago home",
+      "summary": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+      "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-25T03:36:08+00:00"
+    },
+    {
+      "id": "285a7f15b8260cc7e21f7d11",
+      "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
+      "summary": "Staff have walked out for 24 hours over a pay rise offer that was below inflation.",
       "url": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-03-25T00:00:37+00:00"
+      "publishedAt": "2026-03-25T03:07:54+00:00"
+    },
+    {
+      "id": "067d3aff028ff5073d00247a",
+      "title": "OpenAI ferme son application vidéo Sora pour se recentrer sur les outils professionnels face à la concurrence d’Anthropic",
+      "summary": "Cette clôture de Sora acte la fin de l’un des produits grand public d’intelligence artificielle les plus médiatisés de l’an dernier, qui signé avait un partenariat avec Disney en décembre sur l’utilisation de l’image de ses personnages animés.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/03/25/openai-ferme-son-application-video-sora-pour-se-recentrer-sur-les-outils-professionnels-face-a-la-concurrence-d-anthropic_6674140_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-25T03:06:23+00:00"
+    },
+    {
+      "id": "d9f1589a8685137a2c2e1b0f",
+      "title": "BTS comeback concert on Netflix draws 18.4m global viewers",
+      "summary": "The livestreamed show saw the band perform together for the first time since October 2022.",
+      "url": "https://www.bbc.com/news/articles/cy513rvg91ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-03-25T02:55:12+00:00"
+    },
+    {
+      "id": "24f2318b4dbd812a9b13ebb1",
+      "title": "Daredevil: Born Again Season 2 Review",
+      "summary": "Daredevil: Born Again Season 2 review: This season is packed with too many characters and subplots, some far better used than others. But the central story of Matt Murdock’s quest to take down Mayor Fisk remains compelling, backed by cool and exciting action scenes.",
+      "url": "https://www.ign.com/articles/daredevil-born-again-season-2-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-25T01:00:00+00:00"
+    },
+    {
+      "id": "6801f84f9d50d1b644403a10",
+      "title": "Packed cinemas and whistling fans: A spy thriller sequel revives Bollywood",
+      "summary": "Dhurandhar: The Revenge, starring Ranveer Singh, has opened to record demand, with near 24/7 shows nationwide.",
+      "url": "https://www.bbc.com/news/articles/cpwj8nxey7eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-25T00:42:59+00:00"
     },
     {
       "id": "c9c95ca12fb552a605f55e0a",
@@ -398,17 +497,6 @@
       "publishedAt": "2026-03-24T16:35:00+00:00"
     },
     {
-      "id": "1a45e1439055d0b26e14bab2",
-      "title": "Pokémon Champions Launches Next Month With Paid Upgrade Pack to 'Support Early Progression'",
-      "summary": "The Pokémon Company has announced a Nintendo Switch and Switch 2 release date for its upcoming free-to-play battler Pokémon Champions, alongside a paid starter pack which provides \"useful in-game items.\"",
-      "url": "https://www.ign.com/articles/pokemon-champions-launches-next-month-with-paid-upgrade-pack-to-support-early-progression",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-24T16:34:30+00:00"
-    },
-    {
       "id": "cc6262b12fb00a1375914bf3",
       "title": "Iran war shows norms of international conflicts have been overturned",
       "summary": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.",
@@ -596,17 +684,6 @@
       "publishedAt": "2026-03-23T22:17:26+00:00"
     },
     {
-      "id": "a1440847efb0d9ebb5a978a2",
-      "title": "ICE agents deploy to major US airports as security queues stretch for hours",
-      "summary": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
-      "url": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T21:22:18+00:00"
-    },
-    {
       "id": "1e72ceec224661c5ba72fb3c",
       "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
       "summary": "Leo Medina, who was on another plane on the tarmac when the crash happened, told the BBC what he saw.",
@@ -706,17 +783,6 @@
       "publishedAt": "2026-03-23T15:23:29+00:00"
     },
     {
-      "id": "e6af8483677c57642b74dd8d",
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-      "summary": "Leo Radvinsky became a billionaire after investing in the site, known for its pornographic content.",
-      "url": "https://www.bbc.com/news/articles/c33le6yv7pno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T15:23:00+00:00"
-    },
-    {
       "id": "94ddac43e20d0b5262371a67",
       "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
       "summary": "An Air Canada plane carrying 72 passengers and four crew initially landed safely from Montreal on Sunday evening before colliding with a firefighting vehicle.",
@@ -726,28 +792,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-23T15:04:25+00:00"
-    },
-    {
-      "id": "b16a62c1bdae2caa0bfa3dea",
-      "title": "Nigerian police arrest 15 after viral videos of alleged sexual assault at festival",
-      "summary": "The videos sparked widespread anger, leading to the hashtag #StopRapingWomen to trend on social media.",
-      "url": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T15:01:17+00:00"
-    },
-    {
-      "id": "739b0ce8f58884b3836608f2",
-      "title": "HK police can now demand phone passwords under new national security rules",
-      "summary": "Those who do not comply can be jailed for up to a year and fined up to HK$100,000 ($12,700; £9,600).",
-      "url": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T08:06:25+00:00"
     },
     {
       "id": "332c455789b4b2bc2028d0ba",
@@ -770,17 +814,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-23T06:03:48+00:00"
-    },
-    {
-      "id": "b5502fd1836e7af7ac41755c",
-      "title": "Germany has a shortage of workers - so it's turning to India for help",
-      "summary": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
-      "url": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T00:03:25+00:00"
     },
     {
       "id": "27808c13e59b16be77e73de3",
@@ -924,39 +957,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-20T17:44:22+00:00"
-    },
-    {
-      "id": "7fa6de413661a4e50e9a2492",
-      "title": "Mistral AI propose une contribution payante pour accéder aux contenus utilisés pour entrainer les IA",
-      "summary": "Arthur Mensch, cofondateur de la start-up d’intelligence artificielle, avance l’idée d’un pourcentage de chiffre d’affaires. Mais des ayant-droits culturels n’y sont pas favorables.",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/20/mistral-ai-propose-une-contribution-payante-pour-acceder-aux-contenus-utilises-pour-entrainer-les-ia_6672766_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-20T17:24:43+00:00"
-    },
-    {
-      "id": "2dd4fe59daf606eb54e5eb16",
-      "title": "Elon Musk visé par un signalement de la justice française au gendarme boursier américain pour une possible manipulation de la valorisation de X",
-      "summary": "Cette « transmission spontanée d’information » a été effectuée à partir d’informations trouvées en source ouverte par des magistrats français, en marge d’une autre enquête sur le réseau social X, propriété du milliardaire, qui a qualifié les procureurs parisiens d’« attardés mentaux ».",
-      "url": "https://www.lemonde.fr/societe/article/2026/03/20/elon-musk-vise-par-un-signalement-de-la-justice-francaise-au-gendarme-boursier-americain-pour-une-possible-manipulation-du-cours-de-x_6672764_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-20T17:07:01+00:00"
-    },
-    {
-      "id": "f14a1e3be936e13755d47121",
-      "title": "Des agents IA à l’origine de bourdes informatiques",
-      "summary": "Effacement de bases de données, création de brèche de sécurité… Le recours à ces technologies émergentes, qui peuvent envoyer des e-mails ou piloter des logiciels, a exposé leurs commanditaires à des erreurs lourdes de conséquences.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/20/des-agents-ia-a-l-origine-de-bourdes-informatiques_6672758_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-20T17:00:09+00:00"
     },
     {
       "id": "5767f63e01a7a678ef7e1266",
