@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T22:20:12.576583+00:00",
+  "updatedAt": "2026-03-26T23:23:48.031505+00:00",
   "items": [
     {
       "id": "60cd5a85ae938f8b24629884",
@@ -330,6 +330,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-26T17:16:06+00:00"
+    },
+    {
+      "id": "6dafb6a3c9ccdb1ef67a0514",
+      "title": "Rescuers attempt to save stranded humpback whale off German coast",
+      "summary": "The marine mammal, which is stuck on a sandbank, was first spotted in Lübeck Bay on Monday.",
+      "url": "https://www.bbc.com/news/articles/ce3dn005x7xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-26T17:02:03+00:00"
     },
     {
       "id": "a404da1ad408e497fab623aa",
