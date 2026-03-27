@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-03-27T10:39:40.427315+00:00",
+  "updatedAt": "2026-03-27T11:36:22.651396+00:00",
   "items": [
+    {
+      "id": "e3075f2f8528d90aea050edf",
+      "title": "OpenAI abandonne finalement le « mode adulte » et les tchats érotiques dans ChatGPT",
+      "summary": "Annoncé par Sam Altman en octobre par l’entreprise américaine, ce projet risqué et critiqué en interne a été suspendu.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/03/27/openai-abandonne-finalement-le-mode-adulte-et-les-tchats-erotiques-dans-chatgpt_6674545_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-27T11:12:26+00:00"
+    },
+    {
+      "id": "86feef56f65e79caed045c7d",
+      "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
+      "summary": "The UK's competition watchdog says it is looking at five firms in its investigation into misleading online reviews.",
+      "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-03-27T11:07:35+00:00"
+    },
+    {
+      "id": "f10a64cf3394c41d21b7ec6a",
+      "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
+      "summary": "In a letter to the Treasury Select Committee, Lloyds apologised and said some compensation has been paid.",
+      "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-03-27T11:03:29+00:00"
+    },
+    {
+      "id": "0001226027731314116565f8",
+      "title": "Affaire Epstein : des victimes portent plainte contre le gouvernement américain et Google après la révélation de leur identité",
+      "summary": "Les victimes du criminel sexuel ont déposé plainte jeudi, après la mise en ligne en janvier par le département de la justice américain de plus de trois millions de fichiers liés à l’enquête, dévoilant le nom de victimes. Le gouvernement a retiré les informations, mais les plaignants accusent Google de les « republier continuellement ».",
+      "url": "https://www.lemonde.fr/international/article/2026/03/27/affaire-epstein-des-victimes-portent-plainte-contre-le-gouvernement-americain-et-google-apres-la-revelation-de-leur-identite_6674543_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-27T10:59:15+00:00"
+    },
     {
       "id": "205d5fbcf7a7f85d4f9094ca",
       "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
@@ -10,7 +54,62 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-03-27T10:37:54+00:00"
+      "publishedAt": "2026-03-27T10:58:27+00:00"
+    },
+    {
+      "id": "5129dd5c7bbde9a51a442330",
+      "title": "En Autriche, le gouvernement conclut un accord pour interdire les réseaux sociaux aux moins de 14 ans",
+      "summary": "Selon l’accord conclu après de longues tractations au sein de la coalition entre la gauche, la droite et les libéraux, le gouvernement prévoit d’introduire une nouvelle matière obligatoire dans l’enseignement des élèves baptisée « médias et démocratie », destinée à les aider à distinguer le vrai du faux.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/03/27/en-autriche-le-gouvernement-conclut-un-accord-pour-interdire-les-reseaux-sociaux-aux-moins-de-14-ans_6674542_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-27T10:58:19+00:00"
+    },
+    {
+      "id": "7765db5741b72570603435e0",
+      "title": "Marco Rubio meets G7 counterparts amid Iran war",
+      "summary": "It is the secretary of state's first foreign trip since the conflict began last month.",
+      "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-27T10:41:41+00:00"
+    },
+    {
+      "id": "78a7499145252942fb472b0c",
+      "title": "US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded",
+      "summary": "The late-night vote is a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end.",
+      "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-27T10:31:46+00:00"
+    },
+    {
+      "id": "bc1686b736eb6ce8a97b5398",
+      "title": "Amazon’s Spring Sale Has These Magic: The Gathering Lorwyn Eclipsed Commander Decks at Just $30 Each",
+      "summary": "Save on a pair of Magic: The Gathering precons for you and a friend to play with right out of the box.",
+      "url": "https://www.ign.com/articles/amazon-spring-sale-magic-the-gathering-lorwyn-eclipsed-commander-decks-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-27T10:22:24+00:00"
+    },
+    {
+      "id": "dc535e26347e82df962efefe",
+      "title": "Amazon’s Spring Sale Offers Disney Lorcana Discounts On Booster Boxes, Gift Bundles, and More",
+      "summary": "Save on Lorcana starter sets and Disney booster boxes in Amazon's latest Spring Sale deals.",
+      "url": "https://www.ign.com/articles/amazons-spring-sale-offers-disney-lorcana-discounts-on-booster-boxes-gift-bundles-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-27T10:04:58+00:00"
     },
     {
       "id": "e276eede809280536c0f5c57",
@@ -24,15 +123,37 @@
       "publishedAt": "2026-03-27T10:00:09+00:00"
     },
     {
-      "id": "7765db5741b72570603435e0",
-      "title": "Marco Rubio meets G7 counterparts amid Iran war",
-      "summary": "It is the secretary of state's first foreign trip since the conflict began last month.",
-      "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
+      "id": "a7c6fb07612473bb5b170207",
+      "title": "Project Hail Mary Is Doing So Well at the Box Office That There's Already Talk of Turning It Into a Franchise — and Don't Forget the Merch Potential of Rocky",
+      "summary": "Project Hail Mary is doing so well at the global box office that there’s talk of turning it into a franchise with a sequel.",
+      "url": "https://www.ign.com/articles/project-hail-mary-is-doing-so-well-at-the-box-office-that-theres-already-talk-of-turning-it-into-a-franchise-and-dont-forget-the-merch-potential-of-rocky",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-27T09:34:32+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-27T09:58:58+00:00"
+    },
+    {
+      "id": "8ae3584466d28a7028db2de3",
+      "title": "Pokémon TCG’s 151 Booster Bundles See Staggering Price Spike After 30th Anniversary Hype, So What's Going On?",
+      "summary": "Pokémon TCG's 151 Booster Bundle has recently seen an aggressive, short-term value spike - a 93.48% rise in value the past three months, and a massive 33.35% jump in the last 30 days alone. So what's going on?",
+      "url": "https://www.ign.com/articles/pokemon-tcg-scarlet-violet-151-booster-bundles-price-spike",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-27T09:46:41+00:00"
+    },
+    {
+      "id": "73d46bc86444e0ec5466928e",
+      "title": "Resident Evil Requiem Update Available Now, Adds Photo Mode and More",
+      "summary": "Resident Evil Requiem has been updated today with a major new patch that adds the game's photo mode, plus other improvements. Check out the patch notes.",
+      "url": "https://www.ign.com/articles/resident-evil-requiem-update-available-now-adds-photo-mode-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-27T09:45:06+00:00"
     },
     {
       "id": "f3dc6243cda916bd3101f1a9",
@@ -66,17 +187,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-27T09:12:03+00:00"
-    },
-    {
-      "id": "86feef56f65e79caed045c7d",
-      "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
-      "summary": "The UK's competition watchdog says it is looking at five firms in its investigation into misleading online reviews.",
-      "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-27T09:05:16+00:00"
     },
     {
       "id": "44f30aefd82ba90e58a62553",
@@ -145,8 +255,8 @@
       "publishedAt": "2026-03-27T06:17:27+00:00"
     },
     {
-      "id": "1a949d74afb39fe2d320d24b",
-      "title": "How Russia's threat has seen a German become Europe's most important soldier",
+      "id": "8e1e95c7f05af507f16bdabc",
+      "title": "How Russia's threat has seen Germany become Europe's most important army",
       "summary": "Germany once terrorised Europe, but now Europe is welcoming a resurgent German military.",
       "url": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -420,17 +530,6 @@
       "publishedAt": "2026-03-26T21:15:00+00:00"
     },
     {
-      "id": "890e93d1f6abfca08ac2d8a4",
-      "title": "Netflix Is Raising Its Prices...Yet Again",
-      "summary": "Netflix is raising its prices once again. As updated on its website on March 26, all three of Netflix's plans are seeing hikes, starting today, by $1-$2 each.",
-      "url": "https://www.ign.com/articles/netflix-is-raising-its-pricesyet-again",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-26T20:54:53+00:00"
-    },
-    {
       "id": "688956f0e3f213d8823dd27a",
       "title": "Spanish woman dies by euthanasia after long legal battle with father",
       "summary": "The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week.",
@@ -442,28 +541,6 @@
       "publishedAt": "2026-03-26T20:33:07+00:00"
     },
     {
-      "id": "2730f463fa9e2a39d00e4c65",
-      "title": "'Come Back for the Adventure' — After a Turbulent 6 Months, Borderlands 4 Gets Its First Big DLC, and Gearbox Hopes Lapsed Fans Return for It",
-      "summary": "IGN interviews Gearbox on Borderlands 4's first Story Pack DLC: Mad Ellie and the Vault of the Damned.",
-      "url": "https://www.ign.com/articles/come-back-for-the-adventure-after-a-turbulent-6-months-borderlands-4-gets-its-first-big-dlc-and-gearbox-hopes-lapsed-fans-return-for-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-26T20:00:02+00:00"
-    },
-    {
-      "id": "360d0ee72d04d175a96ae4c8",
-      "title": "Amazon's Spring Sale Deals Include Tons of Excellent Third-Party Switch 2 Games",
-      "summary": "There are some excellent third-party Switch 2 games on sale at Amazon this week.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-game-deals-amazon-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-26T19:45:00+00:00"
-    },
-    {
       "id": "fff7b4d2c65ba32b458edd7f",
       "title": "Les députés veulent aider la presse à récupérer les rémunérations que lui doivent les géants du numérique",
       "summary": "Jeudi, les députés ont adopté à l’unanimité une proposition de loi du groupe MoDem pour tenter de remédier aux difficultés de la presse française à obtenir les rémunérations que les plateformes numériques sont censées lui verser pour la reprise de ses contenus",
@@ -473,28 +550,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-26T19:35:09+00:00"
-    },
-    {
-      "id": "3553310bae2fe66151d2e56c",
-      "title": "Save 23% Off the Sonos Roam 2 Waterproof Portable Speaker During the March Madness Sale",
-      "summary": "Small package, big sound.",
-      "url": "https://www.ign.com/articles/save-23-off-the-sonos-roam-2-waterproof-portable-speaker-during-the-march-madness-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-26T19:30:00+00:00"
-    },
-    {
-      "id": "e1311d41a1b7fe2f8a0d6dd2",
-      "title": "Tomodachi Life: Living the Dream Players Are Already Demonstrating Why Nintendo's Strict Image-Sharing Rules Exist",
-      "summary": "A Tomodachi Life: Living the Dream demo has been out since yesterday, and it's pretty quickly made it apparent why Nintendo put heavier restrictions than usual on media sharing from this game specifically.",
-      "url": "https://www.ign.com/articles/tomodachi-life-living-the-dream-players-are-already-demonstrating-why-nintendos-strict-image-sharing-rules-exist",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-26T19:21:45+00:00"
     },
     {
       "id": "022f81730162600c97847c8a",
@@ -528,17 +583,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-26T17:29:13+00:00"
-    },
-    {
-      "id": "1a58fc06bb74fd4bd74f6681",
-      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
-      "summary": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
-      "url": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-26T17:16:06+00:00"
     },
     {
       "id": "a404da1ad408e497fab623aa",
@@ -728,28 +772,6 @@
       "publishedAt": "2026-03-25T04:00:31+00:00"
     },
     {
-      "id": "2162ba8732cd367758be391f",
-      "title": "Un verdict « historique » condamne Meta, la maison mère de Facebook et d’Instagram, pour mise en danger de mineurs au Nouveau-Mexique",
-      "summary": "Le géant de la tech a été condamné à payer 375 millions de dollars de dommages et intérêts par un jury de Santa Fe, qui a estimé que l’entreprise avait privilégié les profits à la sécurité et dissimulé ce qu’elle savait des effets néfastes de ses applications.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/25/un-verdict-historique-contre-meta-la-maison-mere-de-facebook-et-instagram-reconnue-coupable-de-mise-en-danger-de-mineurs-au-nouveau-mexique_6674150_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-25T04:00:20+00:00"
-    },
-    {
-      "id": "067d3aff028ff5073d00247a",
-      "title": "OpenAI ferme son application vidéo Sora pour se recentrer sur les outils professionnels face à la concurrence d’Anthropic",
-      "summary": "Cette clôture de Sora acte la fin de l’un des produits grand public d’intelligence artificielle les plus médiatisés l’an dernier, qui avait signé un partenariat avec Disney en décembre sur l’utilisation de l’image de ses personnages animés.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/25/openai-ferme-son-application-video-sora-pour-se-recentrer-sur-les-outils-professionnels-face-a-la-concurrence-d-anthropic_6674140_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-25T03:06:21+00:00"
-    },
-    {
       "id": "529647ef4ce61d85467e0ad9",
       "title": "Meta told to pay $375m for misleading users over child safety",
       "summary": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico.",
@@ -759,17 +781,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-24T23:16:55+00:00"
-    },
-    {
-      "id": "23a4baa55b117889e4f2f689",
-      "title": "Meta reconnu coupable de mise en danger de mineurs sur ses plateformes par un tribunal du Nouveau-Mexique",
-      "summary": "Le géant des réseaux sociaux, qui possède Facebook et Instagram, est condamné à verser 375 millions de dollars de dommages et intérêts. Il a annoncé qu’il allait faire appel. Cette décision inédite pourrait ouvrir la voie à une vague de procès similaires visant les grandes entreprises du numérique aux Etats-Unis.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/24/meta-reconnue-coupable-de-mise-en-danger-de-mineurs-sur-ses-plateformes_6674131_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-24T22:42:24+00:00"
     },
     {
       "id": "68ddf93b24f9b6fa85010429",
@@ -803,17 +814,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-24T20:30:00+00:00"
-    },
-    {
-      "id": "904cb8a14fb09aaba1a04911",
-      "title": "Fortnite-maker Epic Games lays off 1,000 more staff",
-      "summary": "It is the second time in recent years the company has announced lays offs due to struggles with its blockbuster online game.",
-      "url": "https://www.bbc.com/news/articles/c5yxv5kzlv5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-24T16:48:34+00:00"
     },
     {
       "id": "fb1c00c9d9032fb3f16f82b8",
