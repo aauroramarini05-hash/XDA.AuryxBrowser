@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-03-28T09:29:36.908897+00:00",
+  "updatedAt": "2026-03-28T10:24:15.357629+00:00",
   "items": [
     {
-      "id": "c27e1cf400c8b2bfa6913ab4",
-      "title": "House Republicans reject Senate deal, prolonging partial government shutdown",
+      "id": "f8f0ec0deec9a99c0147401e",
+      "title": "La passion du cinéaste Takeshi Koike pour le gentleman cambrioleur Lupin",
+      "summary": "Le réalisateur de « Lupin the IIIrd, the Movie : la lignée immortelle » a découvert enfant le personnage créé par Monkey Punch, auquel il a consacré plusieurs films.",
+      "url": "https://www.lemonde.fr/culture/article/2026/03/28/la-passion-de-takeshi-koike-pour-le-gentleman-cambrioleur_6675039_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-28T10:00:04+00:00"
+    },
+    {
+      "id": "f722c9f91044edcfc8ee2ea4",
+      "title": "House Republicans reject Senate deal, prolonging partial US government shutdown",
       "summary": "Airport security agents have not been paid in more than a month due to a congressional impasse, causing travel chaos across the US.",
       "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -44,6 +55,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-28T06:33:49+00:00"
+    },
+    {
+      "id": "47b830e9a9a62eb071030104",
+      "title": "Gaza peace doubts deepen as attention shifts to Iran",
+      "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-28T06:00:37+00:00"
     },
     {
       "id": "93d3eaff2e2810350c71a955",
@@ -112,6 +134,17 @@
       "publishedAt": "2026-03-28T01:00:00+00:00"
     },
     {
+      "id": "896ebc5873eb7735fd7860c3",
+      "title": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
+      "summary": "The landmark decision in an LA court may go beyond immediate impacts on defendants Meta and YouTube.",
+      "url": "https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-28T00:54:37+00:00"
+    },
+    {
       "id": "987123c16b546602e6ef4064",
       "title": "Win Big on Board Game Deals During Amazon’s Spring Sale",
       "summary": "From family classics to strategy favorites, these discounted games deserve a place in your collection.",
@@ -132,6 +165,28 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-03-28T00:24:08+00:00"
+    },
+    {
+      "id": "c716744a1d2b2b95347228c2",
+      "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+      "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+      "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-28T00:05:47+00:00"
+    },
+    {
+      "id": "7faaf996335e4320e37e4eb5",
+      "title": "Maldives tells UK it does not recognise Chagos Islands deal",
+      "summary": "The Maldives is threatening international legal action to press its claim for control of the Chagos Islands.",
+      "url": "https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-28T00:01:19+00:00"
     },
     {
       "id": "728555524c5e69b7a4bfb9ca",
@@ -827,17 +882,6 @@
       "publishedAt": "2026-03-26T14:15:08+00:00"
     },
     {
-      "id": "23a40db9c3ebae54e80be894",
-      "title": "Protection des mineurs : l’Union européenne ouvre une enquête contre Snapchat",
-      "summary": "L’UE a annoncé ouvrir une enquête ce jeudi, estimant que Snapchat pourrait avoir manqué à ses obligations. La Commission européenne va aussi se pencher sur les mesures prises en interne pour limiter la vente de produits illicites ou interdits aux mineurs sur la plateforme.",
-      "url": "https://www.lemonde.fr/international/article/2026/03/26/protection-des-mineurs-l-union-europeenne-ouvre-une-enquete-contre-snapchat_6674377_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-26T13:56:13+00:00"
-    },
-    {
       "id": "0200553063794f3cfc11a1b7",
       "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
       "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
@@ -915,10 +959,10 @@
       "publishedAt": "2026-03-24T20:55:58+00:00"
     },
     {
-      "id": "dd9b2d88b9de92c1c3bb4dce",
+      "id": "42aba57f5e07eae655256910",
       "title": "Tech Life",
       "summary": "Artificial intelligence is already in use in many areas of healthcare.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zq9?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
