@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-03-28T05:51:27.716539+00:00",
+  "updatedAt": "2026-03-28T06:48:15.857847+00:00",
   "items": [
+    {
+      "id": "6406e3389552b57145fad433",
+      "title": "Tiger Woods charged with driving under influence after crash",
+      "summary": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Florida.",
+      "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-28T06:47:10+00:00"
+    },
+    {
+      "id": "0b31b1815697ebd9167d90d2",
+      "title": "En Indonésie, 70 millions d’enfants privés de réseaux sociaux après l’entrée en vigueur de l’interdiction d’accès aux plateformes numériques",
+      "summary": "Les comptes appartenant aux moins de 16 ans doivent commencer à être désactivés à partir de samedi sur les plateformes dites « à haut risque », à savoir YouTube, TikTok, Facebook, Instagram, Threads, X, Bigo Live (vidéo en direct) et Roblox.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/03/28/en-indonesie-70-millions-d-enfants-prives-de-reseaux-sociaux-apres-l-entree-en-vigueur-de-l-interdiction-d-acces-aux-plateformes-numeriques_6674886_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-28T06:33:50+00:00"
+    },
+    {
+      "id": "93d3eaff2e2810350c71a955",
+      "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+      "summary": "The BBC's Hugo Bachega speaks to families in Beirut as more than a million people have been displaced in Lebanon.",
+      "url": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-28T06:00:25+00:00"
+    },
     {
       "id": "6b7d758de59b765359b36e3c",
       "title": "VIDEO - Musique générée par IA : Comment les faux artistes inondent les plateformes de streaming",
@@ -35,6 +68,17 @@
       "publishedAt": "2026-03-28T03:30:17+00:00"
     },
     {
+      "id": "b8677bedf1c8918f338b144b",
+      "title": "US House to vote on DHS funding as travel chaos deepens",
+      "summary": "The planned vote is unlikely to end the funding impasse as long security lines at US airports continue.",
+      "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-28T01:49:48+00:00"
+    },
+    {
       "id": "823028d07791dd1d3bf9f2e5",
       "title": "From jammed broadcasts to a blocked website: BBC Russian's 80 years of defiance",
       "summary": "For half a century, BBC Russian had to fend off jammers. Now its website is blocked, but millions still read it.",
@@ -55,17 +99,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-28T01:06:54+00:00"
-    },
-    {
-      "id": "6406e3389552b57145fad433",
-      "title": "Tiger Woods charged with driving under influence after crash",
-      "summary": "The 15-time major champion faces charges of driving under the influence after rolling his car in Florida.",
-      "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-28T01:00:35+00:00"
     },
     {
       "id": "5bbe7fdb12b57fa61f7bb1f9",
@@ -805,17 +838,6 @@
       "publishedAt": "2026-03-26T13:56:13+00:00"
     },
     {
-      "id": "27eb9ebcf35accf8542495fb",
-      "title": "Sam Altman, le patron d’OpenAI, l’apôtre de la « superintelligence » artificielle",
-      "summary": "« Les gourous de l’IA » (2/12). Le PDG et fondateur de la start-up désormais valorisée 840 milliards de dollars estime que, avec l’IA, le travail humain sera surpassé dans tous les domaines.",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/26/sam-altman-le-patron-d-openai-l-apotre-de-la-superintelligence-artificielle_6674366_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-26T13:00:07+00:00"
-    },
-    {
       "id": "0200553063794f3cfc11a1b7",
       "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
       "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
@@ -902,17 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-24T20:30:00+00:00"
-    },
-    {
-      "id": "fb1c00c9d9032fb3f16f82b8",
-      "title": "How the deadly LaGuardia Airport crash unfolded",
-      "summary": "Video shows the aftermath of the collision between a passenger plane and a firefighting vehicle on the runway of the New York airport.",
-      "url": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-23T22:17:26+00:00"
     },
     {
       "id": "eb100c3df5b05efd170a0cb2",
