@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-03-28T08:29:50.046376+00:00",
+  "updatedAt": "2026-03-28T09:29:36.908897+00:00",
   "items": [
+    {
+      "id": "c27e1cf400c8b2bfa6913ab4",
+      "title": "House Republicans reject Senate deal, prolonging partial government shutdown",
+      "summary": "Airport security agents have not been paid in more than a month due to a congressional impasse, causing travel chaos across the US.",
+      "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-28T08:38:34+00:00"
+    },
     {
       "id": "0c52a1d74c16aa350ade2041",
       "title": "Nepal's ex-PM arrested over fatal protest crackdown",
@@ -65,18 +76,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-03-28T03:30:17+00:00"
-    },
-    {
-      "id": "b8677bedf1c8918f338b144b",
-      "title": "US House to vote on DHS funding as travel chaos deepens",
-      "summary": "The planned vote is unlikely to end the funding impasse as long security lines at US airports continue.",
-      "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-28T01:49:48+00:00"
+      "publishedAt": "2026-03-28T03:30:08+00:00"
     },
     {
       "id": "823028d07791dd1d3bf9f2e5",
@@ -915,10 +915,10 @@
       "publishedAt": "2026-03-24T20:55:58+00:00"
     },
     {
-      "id": "42aba57f5e07eae655256910",
+      "id": "dd9b2d88b9de92c1c3bb4dce",
       "title": "Tech Life",
       "summary": "Artificial intelligence is already in use in many areas of healthcare.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zq9?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
