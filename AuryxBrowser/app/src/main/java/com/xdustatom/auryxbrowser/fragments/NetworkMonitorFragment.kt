@@ -13,7 +13,6 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
 
 class NetworkMonitorFragment : Fragment() {
 
@@ -59,7 +58,7 @@ class NetworkMonitorFragment : Fragment() {
             NetworkUtils.getNetworkState(context)
         }.getOrDefault("Unknown")
 
-        val (ip, latency) = withContext(Dispatchers.IO) {
+        viewLifecycleOwner.lifecycleScope.launch(Dispatchers.IO) {
             val safeIp = try {
                 NetworkUtils.getPublicIp()
             } catch (_: Exception) {
@@ -70,12 +69,13 @@ class NetworkMonitorFragment : Fragment() {
             } catch (_: Exception) {
                 -1L
             }
-            safeIp to safeLatency
-        }
 
-        _binding?.apply {
-            tvPublicIp.text = ip
-            tvLatency.text = if (latency >= 0) "${latency}ms" else "N/A"
+            launch(Dispatchers.Main) {
+                _binding?.apply {
+                    tvPublicIp.text = safeIp
+                    tvLatency.text = if (safeLatency >= 0) "${safeLatency}ms" else "N/A"
+                }
+            }
         }
     }
 
@@ -84,32 +84,32 @@ class NetworkMonitorFragment : Fragment() {
         binding.btnRunNetworkTest.isEnabled = false
         binding.btnRunNetworkTest.text = "Testing..."
 
-        precisionJob = viewLifecycleOwner.lifecycleScope.launch {
-            val report = withContext(Dispatchers.IO) {
-                try {
-                    NetworkUtils.runConnectivityTest()
-                } catch (_: Exception) {
-                    null
-                }
+        precisionJob = viewLifecycleOwner.lifecycleScope.launch(Dispatchers.IO) {
+            val report = try {
+                NetworkUtils.runConnectivityTest()
+            } catch (_: Exception) {
+                null
             }
 
-            _binding?.apply {
-                if (report == null) {
-                    tvNetworkState.text = "Unavailable"
-                    tvJitter.text = "N/A"
-                    tvPacketLoss.text = "N/A"
-                    tvDownloadSpeed.text = "N/A"
-                } else {
-                    tvNetworkState.text = report.state
-                    tvLatency.text = if (report.latencyMs >= 0) "${report.latencyMs}ms" else "N/A"
-                    tvJitter.text = if (report.jitterMs >= 0) "${report.jitterMs}ms" else "N/A"
-                    tvPacketLoss.text = "${report.packetLossPercent}%"
-                    tvDownloadSpeed.text =
-                        if (report.downloadMbps > 0) String.format("%.2f Mbps", report.downloadMbps)
-                        else "N/A"
+            launch(Dispatchers.Main) {
+                _binding?.apply {
+                    if (report == null) {
+                        tvNetworkState.text = "Unavailable"
+                        tvJitter.text = "N/A"
+                        tvPacketLoss.text = "N/A"
+                        tvDownloadSpeed.text = "N/A"
+                    } else {
+                        tvNetworkState.text = report.state
+                        tvLatency.text = if (report.latencyMs >= 0) "${report.latencyMs}ms" else "N/A"
+                        tvJitter.text = if (report.jitterMs >= 0) "${report.jitterMs}ms" else "N/A"
+                        tvPacketLoss.text = "${report.packetLossPercent}%"
+                        tvDownloadSpeed.text =
+                            if (report.downloadMbps > 0) String.format("%.2f Mbps", report.downloadMbps)
+                            else "N/A"
+                    }
+                    btnRunNetworkTest.isEnabled = true
+                    btnRunNetworkTest.text = "Run Precision Test"
                 }
-                btnRunNetworkTest.isEnabled = true
-                btnRunNetworkTest.text = "Run Precision Test"
             }
         }
     }
