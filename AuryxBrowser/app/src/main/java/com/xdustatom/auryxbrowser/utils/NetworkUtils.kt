@@ -5,8 +5,6 @@ import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 import android.os.Build
 import android.telephony.TelephonyManager
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.withContext
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import java.util.concurrent.TimeUnit
@@ -79,8 +77,8 @@ object NetworkUtils {
         return capabilities.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
     }
 
-    suspend fun getPublicIp(): String = withContext(Dispatchers.IO) {
-        try {
+    fun getPublicIp(): String {
+        return try {
             val request = Request.Builder()
                 .url("https://api.ipify.org")
                 .build()
@@ -92,7 +90,7 @@ object NetworkUtils {
         }
     }
 
-    suspend fun measureLatency(): Long = withContext(Dispatchers.IO) {
+    fun measureLatency(): Long {
         val values = mutableListOf<Long>()
         repeat(3) {
             val start = System.nanoTime()
@@ -104,10 +102,10 @@ object NetworkUtils {
                 values.add((System.nanoTime() - start) / 1_000_000)
             }
         }
-        values.minOrNull() ?: -1L
+        return values.minOrNull() ?: -1L
     }
 
-    suspend fun runConnectivityTest(): ConnectivityReport = withContext(Dispatchers.IO) {
+    fun runConnectivityTest(): ConnectivityReport {
         val pings = mutableListOf<Long>()
         repeat(5) {
             val start = System.nanoTime()
@@ -150,7 +148,7 @@ object NetworkUtils {
             else -> "Connected"
         }
 
-        ConnectivityReport(
+        return ConnectivityReport(
             state = state,
             latencyMs = latency,
             jitterMs = jitter,

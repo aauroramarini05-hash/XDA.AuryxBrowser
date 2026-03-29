@@ -8,10 +8,12 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
 import com.xdustatom.auryxbrowser.databinding.FragmentNetworkMonitorBinding
 import com.xdustatom.auryxbrowser.utils.NetworkUtils
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class NetworkMonitorFragment : Fragment() {
 
@@ -57,16 +59,18 @@ class NetworkMonitorFragment : Fragment() {
             NetworkUtils.getNetworkState(context)
         }.getOrDefault("Unknown")
 
-        val ip = try {
-            NetworkUtils.getPublicIp()
-        } catch (_: Exception) {
-            "Unavailable"
-        }
-
-        val latency = try {
-            NetworkUtils.measureLatency()
-        } catch (_: Exception) {
-            -1L
+        val (ip, latency) = withContext(Dispatchers.IO) {
+            val safeIp = try {
+                NetworkUtils.getPublicIp()
+            } catch (_: Exception) {
+                "Unavailable"
+            }
+            val safeLatency = try {
+                NetworkUtils.measureLatency()
+            } catch (_: Exception) {
+                -1L
+            }
+            safeIp to safeLatency
         }
 
         _binding?.apply {
@@ -81,10 +85,12 @@ class NetworkMonitorFragment : Fragment() {
         binding.btnRunNetworkTest.text = "Testing..."
 
         precisionJob = viewLifecycleOwner.lifecycleScope.launch {
-            val report = try {
-                NetworkUtils.runConnectivityTest()
-            } catch (_: Exception) {
-                null
+            val report = withContext(Dispatchers.IO) {
+                try {
+                    NetworkUtils.runConnectivityTest()
+                } catch (_: Exception) {
+                    null
+                }
             }
 
             _binding?.apply {
