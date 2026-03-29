@@ -57,8 +57,17 @@ class NetworkMonitorFragment : Fragment() {
             NetworkUtils.getNetworkState(context)
         }.getOrDefault("Unknown")
 
-        val ip = runCatching { NetworkUtils.getPublicIp() }.getOrDefault("Unavailable")
-        val latency = runCatching { NetworkUtils.measureLatency() }.getOrDefault(-1L)
+        val ip = try {
+            NetworkUtils.getPublicIp()
+        } catch (_: Exception) {
+            "Unavailable"
+        }
+
+        val latency = try {
+            NetworkUtils.measureLatency()
+        } catch (_: Exception) {
+            -1L
+        }
 
         _binding?.apply {
             tvPublicIp.text = ip
@@ -72,7 +81,11 @@ class NetworkMonitorFragment : Fragment() {
         binding.btnRunNetworkTest.text = "Testing..."
 
         precisionJob = viewLifecycleOwner.lifecycleScope.launch {
-            val report = runCatching { NetworkUtils.runConnectivityTest() }.getOrNull()
+            val report = try {
+                NetworkUtils.runConnectivityTest()
+            } catch (_: Exception) {
+                null
+            }
 
             _binding?.apply {
                 if (report == null) {
