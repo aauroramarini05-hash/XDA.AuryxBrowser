@@ -24,6 +24,11 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         fun newInstance(): SettingsFragment = SettingsFragment()
     }
 
+    private data class LanguageOption(
+        val label: String,
+        val languageTag: String
+    )
+
     private lateinit var store: BrowserStore
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -48,13 +53,21 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         val tvVersion = view.findViewById<TextView>(R.id.tvVersion)
 
         val searchEngines = listOf("DuckDuckGo", "Google", "Bing")
-        val languages = listOf("System Default", "English", "Italiano")
+        val languageOptions = listOf(
+            LanguageOption("System Default", ""),
+            LanguageOption("English", "en"),
+            LanguageOption("Italiano", "it"),
+            LanguageOption("Español", "es"),
+            LanguageOption("Français", "fr"),
+            LanguageOption("Deutsch", "de")
+        )
+        val languageLabels = languageOptions.map { it.label }
 
         dropSearchEngine.setAdapter(
             ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, searchEngines)
         )
         dropLanguage.setAdapter(
-            ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, languages)
+            ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, languageLabels)
         )
 
         dropSearchEngine.keyListener = null
@@ -77,23 +90,25 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
             false
         )
 
-        dropLanguage.setText(
-            prefs.getString(MainActivity.KEY_APP_LANGUAGE, "System Default") ?: "System Default",
-            false
-        )
+        val savedLanguage = prefs.getString(MainActivity.KEY_APP_LANGUAGE, "") ?: ""
+        val currentLanguageOption = languageOptions.firstOrNull {
+            it.languageTag == savedLanguage || it.label == savedLanguage
+        } ?: languageOptions.first()
+        dropLanguage.setText(currentLanguageOption.label, false)
 
         tvVersion.text = "Version ${BuildConfig.VERSION_NAME}"
 
         btnSave.setOnClickListener {
             val home = etHome.text?.toString()?.trim().orEmpty()
             val selectedSearchEngine = dropSearchEngine.text?.toString()?.trim().orEmpty()
-            val selectedLanguage = dropLanguage.text?.toString()?.trim().orEmpty()
+            val selectedLanguageLabel = dropLanguage.text?.toString()?.trim().orEmpty()
 
             val safeSearchEngine =
                 if (selectedSearchEngine in searchEngines) selectedSearchEngine else "DuckDuckGo"
 
-            val safeLanguage =
-                if (selectedLanguage in languages) selectedLanguage else "System Default"
+            val safeLanguage = languageOptions.firstOrNull { it.label == selectedLanguageLabel }
+                ?: languageOptions.first()
+            val normalizedHome = normalizeHomeUrl(home)
 
             prefs.edit()
                 .putBoolean(MainActivity.KEY_DESKTOP_MODE, swDesktop.isChecked)
@@ -101,13 +116,13 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
                 .putBoolean(MainActivity.KEY_LOAD_IMAGES, swLoadImages.isChecked)
                 .putString(
                     MainActivity.KEY_HOME,
-                    if (home.isBlank()) MainActivity.DEFAULT_HOME else home
+                    normalizedHome
                 )
                 .putString(MainActivity.KEY_SEARCH_ENGINE, safeSearchEngine)
-                .putString(MainActivity.KEY_APP_LANGUAGE, safeLanguage)
+                .putString(MainActivity.KEY_APP_LANGUAGE, safeLanguage.languageTag)
                 .apply()
 
-            applyLanguage(safeLanguage)
+            applyLanguage(safeLanguage.languageTag)
 
             Toast.makeText(requireContext(), "Settings saved", Toast.LENGTH_SHORT).show()
             requireActivity().recreate()
@@ -124,11 +139,19 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         }
     }
 
-    private fun applyLanguage(language: String) {
-        val locales = when (language) {
-            "English" -> LocaleListCompat.forLanguageTags("en")
-            "Italiano" -> LocaleListCompat.forLanguageTags("it")
-            else -> LocaleListCompat.getEmptyLocaleList()
+    private fun normalizeHomeUrl(input: String): String {
+        if (input.isBlank()) {
+            return MainActivity.DEFAULT_HOME
+        }
+        val hasScheme = input.startsWith("http://") || input.startsWith("https://")
+        return if (hasScheme) input else "https://$input"
+    }
+
+    private fun applyLanguage(languageTag: String) {
+        val locales = if (languageTag.isBlank()) {
+            LocaleListCompat.getEmptyLocaleList()
+        } else {
+            LocaleListCompat.forLanguageTags(languageTag)
         }
         AppCompatDelegate.setApplicationLocales(locales)
     }
