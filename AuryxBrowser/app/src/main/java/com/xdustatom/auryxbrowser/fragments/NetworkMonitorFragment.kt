@@ -45,7 +45,7 @@ class NetworkMonitorFragment : Fragment() {
         }
     }
 
-    private suspend fun updateNetworkInfo() {
+    private fun updateNetworkInfo() {
         val context = context ?: return
         val currentBinding = _binding ?: return
 
