@@ -8,6 +8,8 @@ import android.content.Context
 import android.content.Intent
 import android.content.pm.ActivityInfo
 import android.content.res.Configuration
+import android.graphics.Color
+import android.graphics.drawable.GradientDrawable
 import android.graphics.Bitmap
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
@@ -36,11 +38,13 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import android.content.res.ColorStateList
 import com.google.android.material.button.MaterialButton
 import com.xdustatom.auryxbrowser.BuildConfig
 import com.xdustatom.auryxbrowser.R
@@ -77,6 +81,8 @@ class MainActivity : AppCompatActivity() {
         const val KEY_APP_LANGUAGE = "app_language"
         const val KEY_JAVASCRIPT_ENABLED = "javascript_enabled"
         const val KEY_LOAD_IMAGES = "load_images"
+        const val KEY_THEME_ACCENT = "theme_accent"
+        const val KEY_PERFORMANCE_MODE = "performance_mode"
 
         private const val KEY_WEBVIEW_STATE = "webview_state"
     }
@@ -110,6 +116,9 @@ class MainActivity : AppCompatActivity() {
     private var tabs: MutableList<BrowserTab> = mutableListOf()
     private var selectedTabId: Long = -1L
 
+    private var pageLoadStartedAt: Long = 0L
+    private var lastPageLoadTimeMs: Long = 0L
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -122,6 +131,7 @@ class MainActivity : AppCompatActivity() {
         restoredWebState = savedInstanceState?.getBundle(KEY_WEBVIEW_STATE)
 
         bindViews()
+        applyAccentTheme()
 
         val prefs = getSharedPreferences(PREFS, MODE_PRIVATE)
         desktopModeEnabled = prefs.getBoolean(KEY_DESKTOP_MODE, false)
@@ -181,6 +191,46 @@ class MainActivity : AppCompatActivity() {
         val isTelevisionMode = uiModeManager.currentModeType == Configuration.UI_MODE_TYPE_TELEVISION
         val hasLeanback = packageManager.hasSystemFeature("android.software.leanback")
         return isTelevisionMode || hasLeanback
+    }
+
+
+    private fun applyAccentTheme() {
+        val accent = getSharedPreferences(PREFS, MODE_PRIVATE)
+            .getString(KEY_THEME_ACCENT, "Neon Green") ?: "Neon Green"
+
+        val selectedColor = when (accent) {
+            "Ocean Blue" -> Color.parseColor("#33B5FF")
+            "Sunset Orange" -> Color.parseColor("#FF8A33")
+            "Purple" -> Color.parseColor("#B86CFF")
+            "Gradient Aurora" -> Color.parseColor("#58FFCA")
+            "Gradient Magma" -> Color.parseColor("#FF5A5A")
+            else -> ContextCompat.getColor(this, R.color.neon_green)
+        }
+
+        progressBar?.progressTintList = ColorStateList.valueOf(selectedColor)
+        tabsCount?.backgroundTintList = ColorStateList.valueOf(selectedColor)
+
+        val itemColors = ColorStateList(
+            arrayOf(intArrayOf(android.R.attr.state_checked), intArrayOf()),
+            intArrayOf(selectedColor, ContextCompat.getColor(this, R.color.text_hint))
+        )
+        bottomNav.itemIconTintList = itemColors
+        bottomNav.itemTextColor = itemColors
+
+        val bg = when (accent) {
+            "Gradient Aurora" -> GradientDrawable(
+                GradientDrawable.Orientation.LEFT_RIGHT,
+                intArrayOf(Color.parseColor("#0F3D2E"), Color.parseColor("#123F58"))
+            )
+            "Gradient Magma" -> GradientDrawable(
+                GradientDrawable.Orientation.LEFT_RIGHT,
+                intArrayOf(Color.parseColor("#3A1717"), Color.parseColor("#3A2A12"))
+            )
+            else -> GradientDrawable().apply {
+                setColor(ContextCompat.getColor(this@MainActivity, R.color.surface_dark))
+            }
+        }
+        bottomNav.background = bg
     }
 
     private fun setupTopButtons() {
@@ -440,10 +490,10 @@ class MainActivity : AppCompatActivity() {
         supportFragmentManager.beginTransaction()
             .setReorderingAllowed(true)
             .setCustomAnimations(
-                android.R.anim.fade_in,
-                android.R.anim.fade_out,
-                android.R.anim.fade_in,
-                android.R.anim.fade_out
+                R.anim.slide_in_right,
+                R.anim.slide_out_left,
+                R.anim.slide_in_left,
+                R.anim.slide_out_right
             )
             .replace(R.id.fragmentContainer, fragment)
             .commit()
@@ -485,6 +535,7 @@ class MainActivity : AppCompatActivity() {
         s.cacheMode = WebSettings.LOAD_DEFAULT
         s.userAgentString = defaultUserAgent()
         s.setSupportMultipleWindows(false)
+        applyPerformanceProfile(s)
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             WebView.setWebContentsDebuggingEnabled(false)
@@ -521,6 +572,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onPageStarted(view: WebView, url: String, favicon: Bitmap?) {
+                pageLoadStartedAt = System.currentTimeMillis()
                 progressBar?.isVisible = true
                 progressBar?.progress = 8
                 urlBar.setText(url)
@@ -530,6 +582,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onPageFinished(view: WebView, url: String) {
+                lastPageLoadTimeMs = if (pageLoadStartedAt > 0L) System.currentTimeMillis() - pageLoadStartedAt else 0L
                 progressBar?.progress = 100
                 progressBar?.isVisible = false
                 urlBar.setText(url)
@@ -561,6 +614,39 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this@MainActivity, "Browser engine restarted", Toast.LENGTH_SHORT).show()
                 recreate()
                 return true
+            }
+        }
+    }
+
+
+    private fun applyPerformanceProfile(settings: WebSettings) {
+        val mode = getSharedPreferences(PREFS, MODE_PRIVATE)
+            .getString(KEY_PERFORMANCE_MODE, "Balanced") ?: "Balanced"
+
+        when (mode) {
+            "Boost" -> {
+                settings.cacheMode = WebSettings.LOAD_DEFAULT
+                settings.loadsImagesAutomatically = true
+                settings.blockNetworkImage = false
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                    webView.setRendererPriorityPolicy(WebView.RENDERER_PRIORITY_IMPORTANT, true)
+                }
+            }
+
+            "Eco RAM" -> {
+                settings.cacheMode = WebSettings.LOAD_CACHE_ELSE_NETWORK
+                settings.loadsImagesAutomatically = false
+                settings.blockNetworkImage = true
+                settings.offscreenPreRaster = false
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                    webView.setRendererPriorityPolicy(WebView.RENDERER_PRIORITY_BOUND, true)
+                }
+            }
+
+            else -> {
+                settings.cacheMode = WebSettings.LOAD_DEFAULT
+                settings.loadsImagesAutomatically = true
+                settings.blockNetworkImage = false
             }
         }
     }
@@ -668,7 +754,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun loadUrl(url: String) {
-        webView.loadUrl(url)
+        runCatching { webView.loadUrl(url) }
+            .onFailure {
+                Toast.makeText(this, "Unable to load page", Toast.LENGTH_SHORT).show()
+            }
     }
 
     private fun openExternal(url: String) {
@@ -971,6 +1060,16 @@ class MainActivity : AppCompatActivity() {
         val net = cm.activeNetwork ?: return false
         val caps = cm.getNetworkCapabilities(net) ?: return false
         return caps.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
+    }
+
+
+    fun buildPageInfoFragment(): com.xdustatom.auryxbrowser.fragments.PageInfoFragment {
+        return com.xdustatom.auryxbrowser.fragments.PageInfoFragment.newInstance(
+            pageUrl = webView.url ?: urlBar.text?.toString().orEmpty(),
+            pageTitle = webView.title ?: tabs.firstOrNull { it.id == selectedTabId }?.title.orEmpty(),
+            userAgent = webView.settings?.userAgentString.orEmpty(),
+            loadTime = lastPageLoadTimeMs
+        )
     }
 
     fun performAssistantAction(action: String, data: String?) {
