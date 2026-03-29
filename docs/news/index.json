@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-03-29T15:23:05.854480+00:00",
+  "updatedAt": "2026-03-29T16:25:45.061911+00:00",
   "items": [
+    {
+      "id": "5483603e0b06bea49be09180",
+      "title": "Canada's New Democratic Party elects Avi Lewis as its leader",
+      "summary": "Avi Lewis's campaign platform focused on revitalising the struggling left-leaning party and prioritising workers' rights.",
+      "url": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-29T16:01:00+00:00"
+    },
+    {
+      "id": "e2e185ca70eeec56a46f8b47",
+      "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
+      "summary": "France's anti-terrorism prosecutor's office said it had immediately taken over the investigation.",
+      "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-29T15:33:36+00:00"
+    },
+    {
+      "id": "e9260736226fc1c3afb36742",
+      "title": "How Nintendo Finally Made Mario a Movie Star",
+      "summary": "After the disaster of the 1993 Mario movie, it seemed like Nintendo would never try Hollywood again. But 30 years later, it struck gold with the billion-dollar Super Mario Bros. Movie – this is the story of how that happened.",
+      "url": "https://www.ign.com/articles/how-nintendo-finally-made-mario-a-movie-star",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-29T15:30:00+00:00"
+    },
+    {
+      "id": "256f94b7e5d435400374f640",
+      "title": "Two Australian states offer free public transport as war pushes up fuel prices",
+      "summary": "Victoria and Tasmania incentivise commuters not to drive as the Iran war causes the price of petrol to shoot up.",
+      "url": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-29T15:24:54+00:00"
+    },
+    {
+      "id": "484873a271f0faf3063b47f7",
+      "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+      "summary": "BBC reports from the funerals of three journalists killed by a targeted attack in southern Lebanon.",
+      "url": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-29T15:20:44+00:00"
+    },
     {
       "id": "08b5f978ff68f0c09ff1f113",
       "title": "Les illustrateurs sonores de films ou de programmes audiovisuels, des musiciens menacés par l’IA",
@@ -11,6 +66,28 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-29T15:15:10+00:00"
+    },
+    {
+      "id": "d93fd0f6ef07667605afd3e6",
+      "title": "Amazon's Big Spring Sale Is Live: We're Finding the Best Tech and Gaming Deals Each Day",
+      "summary": "New deals today include an $90 gaming monitor, WiFi 7 home mesh system, Bowflex dumbbells, and more.",
+      "url": "https://www.ign.com/articles/amazon-spring-sale-2026-best-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-29T15:15:00+00:00"
+    },
+    {
+      "id": "d3d8817f2d12ba0470c58cc3",
+      "title": "Bowflex SelectTech Adjustable Dumbbells Are Over 50% Off in the Amazon Spring Sale",
+      "summary": "Amazon Resale has used \"like new\" units for just $228 a pair instead of $479.",
+      "url": "https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-spring-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-29T15:15:00+00:00"
     },
     {
       "id": "8098728a68b8e7a05254a6d4",
@@ -59,13 +136,13 @@
     {
       "id": "c307e2eb284c341077f352ca",
       "title": "Jensen Huang, patron de Nvidia, l’anti-doomer et « nouveau parrain » de la Silicon Valley",
-      "summary": "« Les gourous de l’IA » 5/12. Le fondateur et patron de la société spécialisée dans les microprocesseurs, est messianique. Mais son ton posé lui donne une crédibilité sans doute plus grande que le fantasque Elon Musk. Face à la révolution de l’IA, il n’en prévoit pas moins une terra incognita, un monde méconnaissable.",
+      "summary": "« Les gourous de l’IA » (5/12). Le fondateur et patron de la société spécialisée dans les microprocesseurs, est messianique. Mais son ton posé lui donne une crédibilité sans doute plus grande que le fantasque Elon Musk. Face à la révolution de l’IA, il n’en prévoit pas moins une terra incognita, un monde méconnaissable.",
       "url": "https://www.lemonde.fr/economie/article/2026/03/29/jensen-huang-patron-de-nvidia-l-anti-doomer-et-nouveau-parrain-de-la-silicon-valley_6675237_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-03-29T12:00:19+00:00"
+      "publishedAt": "2026-03-29T12:00:07+00:00"
     },
     {
       "id": "f180ed7289101815c63a0b90",
@@ -365,28 +442,6 @@
       "publishedAt": "2026-03-28T16:40:00+00:00"
     },
     {
-      "id": "d3d8817f2d12ba0470c58cc3",
-      "title": "Bowflex SelectTech Adjustable Dumbbells Are Over 50% Off in the Amazon Spring Sale",
-      "summary": "Amazon Resale has used \"like new\" units for just $228 a pair instead of $479.",
-      "url": "https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-28T16:35:00+00:00"
-    },
-    {
-      "id": "d93fd0f6ef07667605afd3e6",
-      "title": "Amazon's Big Spring Sale Is Live: We're Finding the Best Tech and Gaming Deals Each Day",
-      "summary": "New deals today include an OBD II car scanner, WiFi 7 home mesh system, Bowflex dumbbells, and more.",
-      "url": "https://www.ign.com/articles/amazon-spring-sale-2026-best-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-28T16:25:00+00:00"
-    },
-    {
       "id": "0883b3795a288bff071db2a3",
       "title": "The Leaphorn, Chee, & Manuelito Humble Book Bundle Announced With 30 Books For Just $18 Instead of $451",
       "summary": "Fans of AMC's Dark Winds and the novels by Tony and Anne Hillerman's Leaphorn, Chee, & Manuelito novels will be excited to check out the latest Humble Book Bundle that will get you 30 of these books (a $451 value!) for just $18. Proceeds from this bundle supports Trees, Water & People, which strives to improve lives by helping communities to protec",
@@ -651,17 +706,6 @@
       "publishedAt": "2026-03-28T00:54:37+00:00"
     },
     {
-      "id": "987123c16b546602e6ef4064",
-      "title": "Win Big on Board Game Deals During Amazon’s Spring Sale",
-      "summary": "From family classics to strategy favorites, these discounted games deserve a place in your collection.",
-      "url": "https://www.ign.com/articles/win-big-on-board-game-deals-during-amazon-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-28T00:30:00+00:00"
-    },
-    {
       "id": "c716744a1d2b2b95347228c2",
       "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
       "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
@@ -704,17 +748,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-27T22:05:42+00:00"
-    },
-    {
-      "id": "8a9b30af3f5c424caa1aa4f1",
-      "title": "Man arrested over plot to firebomb pro-Palestinian activist's NY home",
-      "summary": "Agents found eight Molotov cocktails in the man's Hoboken home, according to court documents.",
-      "url": "https://www.bbc.com/news/articles/c4g69q6r32do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-27T22:03:34+00:00"
     },
     {
       "id": "f3dc6243cda916bd3101f1a9",
@@ -1001,17 +1034,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-27T00:13:09+00:00"
-    },
-    {
-      "id": "022f81730162600c97847c8a",
-      "title": "Guthrie on missing mother: 'We cannot be at peace without knowing'",
-      "summary": "In her first interview since the disappearance, Savannah Guthrie recounts the moment she learned her mother was missing and wrestles with the idea that her fame may have made her mother a target.",
-      "url": "https://www.bbc.com/news/videos/c0kr5xdj45xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-26T18:09:36+00:00"
     },
     {
       "id": "c502e16b88409d521bbf6dd1",
