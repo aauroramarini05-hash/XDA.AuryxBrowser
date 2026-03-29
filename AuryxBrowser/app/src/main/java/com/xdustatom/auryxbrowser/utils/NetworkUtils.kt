@@ -53,7 +53,6 @@ object NetworkUtils {
         return when (networkType) {
             TelephonyManager.NETWORK_TYPE_NR -> "5G"
             TelephonyManager.NETWORK_TYPE_LTE,
-            TelephonyManager.NETWORK_TYPE_LTE_CA,
             TelephonyManager.NETWORK_TYPE_IWLAN -> "4G/4G+"
             TelephonyManager.NETWORK_TYPE_HSPAP,
             TelephonyManager.NETWORK_TYPE_UMTS,
