@@ -60,6 +60,7 @@ import com.xdustatom.auryxbrowser.tabs.TabsRepository
 import com.xdustatom.auryxbrowser.ui.animateEntrance
 import com.xdustatom.auryxbrowser.ui.applyPressAnimation
 import com.xdustatom.auryxbrowser.ui.crossfadeVisible
+import com.xdustatom.auryxbrowser.utils.LocaleHelper
 import kotlinx.coroutines.launch
 import java.io.BufferedReader
 import java.io.InputStreamReader
@@ -118,6 +119,11 @@ class MainActivity : AppCompatActivity() {
 
     private var pageLoadStartedAt: Long = 0L
     private var lastPageLoadTimeMs: Long = 0L
+
+
+    override fun attachBaseContext(newBase: Context) {
+        super.attachBaseContext(LocaleHelper.applyLocale(newBase))
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

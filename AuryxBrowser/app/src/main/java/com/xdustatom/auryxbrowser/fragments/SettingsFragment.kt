@@ -8,9 +8,11 @@ import android.widget.AutoCompleteTextView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatDelegate
+import androidx.core.content.ContextCompat
 import androidx.core.os.LocaleListCompat
 import androidx.fragment.app.Fragment
 import com.google.android.material.button.MaterialButton
+import com.google.android.material.card.MaterialCardView
 import com.google.android.material.switchmaterial.SwitchMaterial
 import com.google.android.material.textfield.TextInputEditText
 import com.xdustatom.auryxbrowser.BuildConfig
@@ -31,6 +33,7 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
     )
 
     private lateinit var store: BrowserStore
+    private var selectedPerformanceMode: String = "Balanced"
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
@@ -49,7 +52,9 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         val dropSearchEngine = view.findViewById<AutoCompleteTextView>(R.id.dropSearchEngine)
         val dropLanguage = view.findViewById<AutoCompleteTextView>(R.id.dropLanguage)
         val dropAccentTheme = view.findViewById<AutoCompleteTextView>(R.id.dropAccentTheme)
-        val dropPerformanceMode = view.findViewById<AutoCompleteTextView>(R.id.dropPerformanceMode)
+        val cardPerfBalanced = view.findViewById<MaterialCardView>(R.id.cardPerfBalanced)
+        val cardPerfBoost = view.findViewById<MaterialCardView>(R.id.cardPerfBoost)
+        val cardPerfEco = view.findViewById<MaterialCardView>(R.id.cardPerfEco)
         val btnSave = view.findViewById<MaterialButton>(R.id.btnSaveSettings)
         val btnClearHistory = view.findViewById<MaterialButton>(R.id.btnClearHistorySettings)
         val btnClearBookmarks = view.findViewById<MaterialButton>(R.id.btnClearBookmarksSettings)
@@ -66,7 +71,6 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         )
         val languageLabels = languageOptions.map { it.label }
         val accentOptions = listOf("Neon Green", "Ocean Blue", "Sunset Orange", "Purple", "Gradient Aurora", "Gradient Magma")
-        val performanceModes = listOf("Balanced", "Boost", "Eco RAM")
 
         dropSearchEngine.setAdapter(
             ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, searchEngines)
@@ -77,19 +81,14 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         dropAccentTheme.setAdapter(
             ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, accentOptions)
         )
-        dropPerformanceMode.setAdapter(
-            ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, performanceModes)
-        )
 
         dropSearchEngine.keyListener = null
         dropLanguage.keyListener = null
         dropAccentTheme.keyListener = null
-        dropPerformanceMode.keyListener = null
 
         dropSearchEngine.setOnClickListener { dropSearchEngine.showDropDown() }
         dropLanguage.setOnClickListener { dropLanguage.showDropDown() }
         dropAccentTheme.setOnClickListener { dropAccentTheme.showDropDown() }
-        dropPerformanceMode.setOnClickListener { dropPerformanceMode.showDropDown() }
 
         swDesktop.isChecked = prefs.getBoolean(MainActivity.KEY_DESKTOP_MODE, false)
         swJavascript.isChecked = prefs.getBoolean(MainActivity.KEY_JAVASCRIPT_ENABLED, true)
@@ -107,13 +106,33 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
 
         val savedLanguage = prefs.getString(MainActivity.KEY_APP_LANGUAGE, "") ?: ""
         val savedAccent = prefs.getString(MainActivity.KEY_THEME_ACCENT, "Neon Green") ?: "Neon Green"
-        val savedPerformance = prefs.getString(MainActivity.KEY_PERFORMANCE_MODE, "Balanced") ?: "Balanced"
+        selectedPerformanceMode = prefs.getString(MainActivity.KEY_PERFORMANCE_MODE, "Balanced") ?: "Balanced"
+
         val currentLanguageOption = languageOptions.firstOrNull {
             it.languageTag == savedLanguage || it.label == savedLanguage
         } ?: languageOptions.first()
+
         dropLanguage.setText(currentLanguageOption.label, false)
         dropAccentTheme.setText(savedAccent, false)
-        dropPerformanceMode.setText(savedPerformance, false)
+        applyPerformanceSelection(
+            selectedPerformanceMode,
+            cardPerfBalanced,
+            cardPerfBoost,
+            cardPerfEco
+        )
+
+        cardPerfBalanced.setOnClickListener {
+            selectedPerformanceMode = "Balanced"
+            applyPerformanceSelection(selectedPerformanceMode, cardPerfBalanced, cardPerfBoost, cardPerfEco)
+        }
+        cardPerfBoost.setOnClickListener {
+            selectedPerformanceMode = "Boost"
+            applyPerformanceSelection(selectedPerformanceMode, cardPerfBalanced, cardPerfBoost, cardPerfEco)
+        }
+        cardPerfEco.setOnClickListener {
+            selectedPerformanceMode = "Eco RAM"
+            applyPerformanceSelection(selectedPerformanceMode, cardPerfBalanced, cardPerfBoost, cardPerfEco)
+        }
 
         tvVersion.text = "Version ${BuildConfig.VERSION_NAME}"
 
@@ -122,7 +141,6 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
             val selectedSearchEngine = dropSearchEngine.text?.toString()?.trim().orEmpty()
             val selectedLanguageLabel = dropLanguage.text?.toString()?.trim().orEmpty()
             val selectedAccent = dropAccentTheme.text?.toString()?.trim().orEmpty()
-            val selectedPerformanceMode = dropPerformanceMode.text?.toString()?.trim().orEmpty()
 
             val safeSearchEngine =
                 if (selectedSearchEngine in searchEngines) selectedSearchEngine else "DuckDuckGo"
@@ -130,28 +148,25 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
             val safeLanguage = languageOptions.firstOrNull { it.label == selectedLanguageLabel }
                 ?: languageOptions.first()
             val safeAccent = if (selectedAccent in accentOptions) selectedAccent else "Neon Green"
-            val safePerformance = if (selectedPerformanceMode in performanceModes) selectedPerformanceMode else "Balanced"
             val normalizedHome = normalizeHomeUrl(home)
 
             prefs.edit()
                 .putBoolean(MainActivity.KEY_DESKTOP_MODE, swDesktop.isChecked)
                 .putBoolean(MainActivity.KEY_JAVASCRIPT_ENABLED, swJavascript.isChecked)
                 .putBoolean(MainActivity.KEY_LOAD_IMAGES, swLoadImages.isChecked)
-                .putString(
-                    MainActivity.KEY_HOME,
-                    normalizedHome
-                )
+                .putString(MainActivity.KEY_HOME, normalizedHome)
                 .putString(MainActivity.KEY_SEARCH_ENGINE, safeSearchEngine)
                 .putString(MainActivity.KEY_APP_LANGUAGE, safeLanguage.languageTag)
-                                .putString(MainActivity.KEY_THEME_ACCENT, safeAccent)
-                .putString(MainActivity.KEY_PERFORMANCE_MODE, safePerformance)
+                .putString(MainActivity.KEY_THEME_ACCENT, safeAccent)
+                .putString(MainActivity.KEY_PERFORMANCE_MODE, selectedPerformanceMode)
                 .apply()
 
             applyLanguage(safeLanguage.languageTag)
             LocaleHelper.setLanguage(requireContext(), safeLanguage.languageTag)
 
-            Toast.makeText(requireContext(), "Settings saved", Toast.LENGTH_SHORT).show()
-            requireActivity().recreate()
+            Toast.makeText(requireContext(), getString(R.string.language_changed), Toast.LENGTH_SHORT).show()
+            requireActivity().finish()
+            startActivity(requireActivity().intent)
         }
 
         btnClearHistory.setOnClickListener {
@@ -163,6 +178,24 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
             store.clearBookmarks()
             Toast.makeText(requireContext(), "Bookmarks cleared", Toast.LENGTH_SHORT).show()
         }
+    }
+
+    private fun applyPerformanceSelection(
+        mode: String,
+        balanced: MaterialCardView,
+        boost: MaterialCardView,
+        eco: MaterialCardView
+    ) {
+        val selectedColor = ContextCompat.getColor(requireContext(), R.color.neon_green)
+        val normalColor = ContextCompat.getColor(requireContext(), R.color.neon_green_dim)
+
+        balanced.strokeColor = if (mode == "Balanced") selectedColor else normalColor
+        boost.strokeColor = if (mode == "Boost") selectedColor else normalColor
+        eco.strokeColor = if (mode == "Eco RAM") selectedColor else normalColor
+
+        balanced.strokeWidth = if (mode == "Balanced") 2 else 1
+        boost.strokeWidth = if (mode == "Boost") 2 else 1
+        eco.strokeWidth = if (mode == "Eco RAM") 2 else 1
     }
 
     private fun normalizeHomeUrl(input: String): String {

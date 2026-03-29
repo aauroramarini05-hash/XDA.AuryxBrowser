@@ -169,7 +169,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="18dp"
             android:letterSpacing="0.08"
-            android:text="Personalization"
+            android:text="@string/settings_personalization"
             android:textAllCaps="true"
             android:textColor="@color/text_secondary"
             android:textSize="14sp" />
@@ -193,7 +193,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="App Language"
+                    android:text="@string/settings_app_language"
                     android:textColor="@color/text_secondary"
                     android:textSize="13sp" />
 
@@ -228,38 +228,164 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="14dp"
-                    android:text="Performance Mode"
+                    android:text="@string/settings_performance_mode"
                     android:textColor="@color/text_secondary"
                     android:textSize="13sp" />
 
-                <com.google.android.material.textfield.TextInputLayout
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardPerfBalanced"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="6dp"
-                    app:boxBackgroundMode="outline"
-                    app:boxStrokeColor="@color/neon_green_dim"
-                    app:endIconMode="dropdown_menu">
+                    android:layout_marginTop="8dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    app:cardBackgroundColor="@color/surface_dark"
+                    app:cardCornerRadius="14dp"
+                    app:strokeColor="@color/neon_green_dim"
+                    app:strokeWidth="1dp">
 
-                    <AutoCompleteTextView
-                        android:id="@+id/dropPerformanceMode"
+                    <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:background="@null"
-                        android:clickable="true"
-                        android:cursorVisible="false"
-                        android:focusable="false"
-                        android:focusableInTouchMode="false"
-                        android:inputType="none"
-                        android:paddingTop="12dp"
-                        android:paddingBottom="12dp"
-                        android:textColor="@color/text_primary"
-                        android:textColorHint="@color/text_hint" />
-                </com.google.android.material.textfield.TextInputLayout>
+                        android:orientation="horizontal"
+                        android:padding="12dp"
+                        android:gravity="center_vertical">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:src="@drawable/ic_refresh"
+                            app:tint="@color/text_secondary" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:layout_marginStart="10dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvPerfBalancedTitle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/perf_balanced"
+                                android:textColor="@color/text_primary"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/perf_balanced_desc"
+                                android:textColor="@color/text_secondary"
+                                android:textSize="12sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardPerfBoost"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    app:cardBackgroundColor="@color/surface_dark"
+                    app:cardCornerRadius="14dp"
+                    app:strokeColor="@color/neon_green_dim"
+                    app:strokeWidth="1dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="12dp"
+                        android:gravity="center_vertical">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:src="@drawable/ic_performance"
+                            app:tint="@color/neon_green" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:layout_marginStart="10dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvPerfBoostTitle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/perf_boost"
+                                android:textColor="@color/text_primary"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/perf_boost_desc"
+                                android:textColor="@color/text_secondary"
+                                android:textSize="12sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardPerfEco"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    app:cardBackgroundColor="@color/surface_dark"
+                    app:cardCornerRadius="14dp"
+                    app:strokeColor="@color/neon_green_dim"
+                    app:strokeWidth="1dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="12dp"
+                        android:gravity="center_vertical">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:src="@drawable/ic_device"
+                            app:tint="@color/text_secondary" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:layout_marginStart="10dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvPerfEcoTitle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/perf_eco"
+                                android:textColor="@color/text_primary"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/perf_eco_desc"
+                                android:textColor="@color/text_secondary"
+                                android:textSize="12sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="14dp"
-                    android:text="Accent Theme"
+                    android:text="@string/settings_accent_theme"
                     android:textColor="@color/text_secondary"
                     android:textSize="13sp" />
 
