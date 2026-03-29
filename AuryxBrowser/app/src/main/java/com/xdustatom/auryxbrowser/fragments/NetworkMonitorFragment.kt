@@ -18,6 +18,7 @@ class NetworkMonitorFragment : Fragment() {
     private var _binding: FragmentNetworkMonitorBinding? = null
     private val binding get() = _binding!!
     private var updateJob: Job? = null
+    private var precisionJob: Job? = null
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -39,42 +40,55 @@ class NetworkMonitorFragment : Fragment() {
         updateJob = viewLifecycleOwner.lifecycleScope.launch {
             while (isActive) {
                 updateNetworkInfo()
-                delay(2500)
+                delay(3000)
             }
         }
     }
 
     private fun updateNetworkInfo() {
         val context = context ?: return
+        val currentBinding = _binding ?: return
 
-        binding.tvConnectionType.text = NetworkUtils.getConnectionType(context)
-        binding.tvNetworkState.text = NetworkUtils.getNetworkState(context)
+        currentBinding.tvConnectionType.text = runCatching {
+            NetworkUtils.getConnectionType(context)
+        }.getOrDefault("Unknown")
 
-        viewLifecycleOwner.lifecycleScope.launch {
-            val ip = NetworkUtils.getPublicIp()
-            _binding?.tvPublicIp?.text = ip
-        }
+        currentBinding.tvNetworkState.text = runCatching {
+            NetworkUtils.getNetworkState(context)
+        }.getOrDefault("Unknown")
 
-        viewLifecycleOwner.lifecycleScope.launch {
-            val latency = NetworkUtils.measureLatency()
-            _binding?.tvLatency?.text = if (latency >= 0) "${latency}ms" else "N/A"
+        val ip = runCatching { NetworkUtils.getPublicIp() }.getOrDefault("Unavailable")
+        val latency = runCatching { NetworkUtils.measureLatency() }.getOrDefault(-1L)
+
+        _binding?.apply {
+            tvPublicIp.text = ip
+            tvLatency.text = if (latency >= 0) "${latency}ms" else "N/A"
         }
     }
 
     private fun runPrecisionTest() {
+        precisionJob?.cancel()
         binding.btnRunNetworkTest.isEnabled = false
         binding.btnRunNetworkTest.text = "Testing..."
 
-        viewLifecycleOwner.lifecycleScope.launch {
-            val report = NetworkUtils.runConnectivityTest()
+        precisionJob = viewLifecycleOwner.lifecycleScope.launch {
+            val report = runCatching { NetworkUtils.runConnectivityTest() }.getOrNull()
+
             _binding?.apply {
-                tvNetworkState.text = report.state
-                tvLatency.text = if (report.latencyMs >= 0) "${report.latencyMs}ms" else "N/A"
-                tvJitter.text = if (report.jitterMs >= 0) "${report.jitterMs}ms" else "N/A"
-                tvPacketLoss.text = "${report.packetLossPercent}%"
-                tvDownloadSpeed.text =
-                    if (report.downloadMbps > 0) String.format("%.2f Mbps", report.downloadMbps)
-                    else "N/A"
+                if (report == null) {
+                    tvNetworkState.text = "Unavailable"
+                    tvJitter.text = "N/A"
+                    tvPacketLoss.text = "N/A"
+                    tvDownloadSpeed.text = "N/A"
+                } else {
+                    tvNetworkState.text = report.state
+                    tvLatency.text = if (report.latencyMs >= 0) "${report.latencyMs}ms" else "N/A"
+                    tvJitter.text = if (report.jitterMs >= 0) "${report.jitterMs}ms" else "N/A"
+                    tvPacketLoss.text = "${report.packetLossPercent}%"
+                    tvDownloadSpeed.text =
+                        if (report.downloadMbps > 0) String.format("%.2f Mbps", report.downloadMbps)
+                        else "N/A"
+                }
                 btnRunNetworkTest.isEnabled = true
                 btnRunNetworkTest.text = "Run Precision Test"
             }
@@ -82,8 +96,9 @@ class NetworkMonitorFragment : Fragment() {
     }
 
     override fun onDestroyView() {
-        super.onDestroyView()
         updateJob?.cancel()
+        precisionJob?.cancel()
         _binding = null
+        super.onDestroyView()
     }
 }

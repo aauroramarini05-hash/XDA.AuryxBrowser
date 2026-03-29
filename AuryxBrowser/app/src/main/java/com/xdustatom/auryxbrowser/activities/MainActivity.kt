@@ -82,6 +82,7 @@ class MainActivity : AppCompatActivity() {
         const val KEY_JAVASCRIPT_ENABLED = "javascript_enabled"
         const val KEY_LOAD_IMAGES = "load_images"
         const val KEY_THEME_ACCENT = "theme_accent"
+        const val KEY_PERFORMANCE_MODE = "performance_mode"
 
         private const val KEY_WEBVIEW_STATE = "webview_state"
     }
@@ -534,6 +535,7 @@ class MainActivity : AppCompatActivity() {
         s.cacheMode = WebSettings.LOAD_DEFAULT
         s.userAgentString = defaultUserAgent()
         s.setSupportMultipleWindows(false)
+        applyPerformanceProfile(s)
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             WebView.setWebContentsDebuggingEnabled(false)
@@ -612,6 +614,39 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this@MainActivity, "Browser engine restarted", Toast.LENGTH_SHORT).show()
                 recreate()
                 return true
+            }
+        }
+    }
+
+
+    private fun applyPerformanceProfile(settings: WebSettings) {
+        val mode = getSharedPreferences(PREFS, MODE_PRIVATE)
+            .getString(KEY_PERFORMANCE_MODE, "Balanced") ?: "Balanced"
+
+        when (mode) {
+            "Boost" -> {
+                settings.cacheMode = WebSettings.LOAD_DEFAULT
+                settings.loadsImagesAutomatically = true
+                settings.blockNetworkImage = false
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                    webView.setRendererPriorityPolicy(WebView.RENDERER_PRIORITY_IMPORTANT, true)
+                }
+            }
+
+            "Eco RAM" -> {
+                settings.cacheMode = WebSettings.LOAD_CACHE_ELSE_NETWORK
+                settings.loadsImagesAutomatically = false
+                settings.blockNetworkImage = true
+                settings.offscreenPreRaster = false
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                    webView.setRendererPriorityPolicy(WebView.RENDERER_PRIORITY_BOUND, true)
+                }
+            }
+
+            else -> {
+                settings.cacheMode = WebSettings.LOAD_DEFAULT
+                settings.loadsImagesAutomatically = true
+                settings.blockNetworkImage = false
             }
         }
     }
