@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-03-29T01:30:06.152604+00:00",
+  "updatedAt": "2026-03-29T04:30:59.530338+00:00",
   "items": [
+    {
+      "id": "1ea7bab8442028e49ff602d9",
+      "title": "No Kings protests across the US rally against Donald Trump",
+      "summary": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen preformed to crowds.",
+      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-29T04:11:27+00:00"
+    },
+    {
+      "id": "64a6614de44b2d0fe1ea391d",
+      "title": "L’IA met les musiciens au défi de faire mieux qu’elle",
+      "summary": "L’intelligence artificielle gagne de plus en plus de terrain dans les studios d’enregistrement. Gain de temps, source d’inspiration et dépassement de soi : les artistes, intéressés mais prudents, cherchent à s’approprier cet outil à double tranchant.",
+      "url": "https://www.lemonde.fr/culture/article/2026/03/29/l-ia-met-les-musiciens-au-defi-de-faire-mieux-qu-elle_6675202_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-29T04:00:09+00:00"
+    },
     {
       "id": "80d353b8b3fee005a0274b85",
       "title": "Trump is waging war based on instinct and it isn't working",
@@ -88,17 +110,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-28T23:00:49+00:00"
-    },
-    {
-      "id": "1ea7bab8442028e49ff602d9",
-      "title": "No Kings protests across the US rally against Donald Trump",
-      "summary": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen preformed to crowds.",
-      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-28T22:48:02+00:00"
     },
     {
       "id": "c9c80a322a51f6037c8dd2fd",
@@ -1001,17 +1012,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-27T00:13:09+00:00"
-    },
-    {
-      "id": "fff7b4d2c65ba32b458edd7f",
-      "title": "Les députés veulent aider la presse à récupérer les rémunérations que lui doivent les géants du numérique",
-      "summary": "Jeudi, les députés ont adopté à l’unanimité une proposition de loi du groupe MoDem pour tenter de remédier aux difficultés de la presse française à obtenir les rémunérations que les plateformes numériques sont censées lui verser pour la reprise de ses contenus",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/26/les-deputes-veulent-aider-la-presse-a-recuperer-les-remunerations-que-lui-doivent-les-geants-du-numerique_6674438_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-26T19:35:09+00:00"
     },
     {
       "id": "022f81730162600c97847c8a",
