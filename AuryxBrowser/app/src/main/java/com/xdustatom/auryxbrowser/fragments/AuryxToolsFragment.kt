@@ -23,6 +23,7 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
             view.findViewById<View>(R.id.btnDeviceInfo),
             view.findViewById<View>(R.id.btnPerformance),
             view.findViewById<View>(R.id.btnPageInfo),
+            view.findViewById<View>(R.id.btnDownloads),
             view.findViewById<View>(R.id.btnAssistant)
         )
 
@@ -34,7 +35,7 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
         view.findViewById<View>(R.id.btnNetworkMonitor).setOnClickListener { openTool(NetworkMonitorFragment()) }
         view.findViewById<View>(R.id.btnPerformance).setOnClickListener { openTool(PerformanceFragment()) }
         view.findViewById<View>(R.id.btnPageInfo).setOnClickListener { openTool(PageInfoFragment.newInstance()) }
-        view.findViewById<View>(R.id.btnDownloads)?.setOnClickListener { openTool(DownloadsFragment()) }
+        view.findViewById<View>(R.id.btnDownloads).setOnClickListener { openTool(DownloadsFragment()) }
 
         val remoteConfig = RemoteConfigRepository(requireContext()).cached()
         val assistantEnabled = remoteConfig.flags["assistant_enabled"] ?: true
