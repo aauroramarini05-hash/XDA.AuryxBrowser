@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-03-31T22:26:33.107872+00:00",
+  "updatedAt": "2026-03-31T23:26:50.503562+00:00",
   "items": [
+    {
+      "id": "831b23b88cd935781ace50c1",
+      "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+      "summary": "Seizing the stockpile would be one of the \"most complicated special operations in history,\" a former defence official tells the BBC.",
+      "url": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T23:16:15+00:00"
+    },
+    {
+      "id": "e0e29ab381ac845ce3076336",
+      "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
+      "summary": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.",
+      "url": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T22:48:34+00:00"
+    },
+    {
+      "id": "b621280b8dd47c9395009278",
+      "title": "US Army suspends crews who flew helicopters near Kid Rock's home",
+      "summary": "President Donald Trump, when asked about the helicopters flying by his friend's house said: \"They like Kid Rock. I like Kid Rock.\"",
+      "url": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T22:36:15+00:00"
+    },
     {
       "id": "5a061c72842127907fb9a468",
       "title": "Judge temporarily halts construction of Trump's White House ballroom",
@@ -22,6 +55,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-31T22:07:26+00:00"
+    },
+    {
+      "id": "3ebf51298582d017f9ca0c25",
+      "title": "Amazon's Big Spring Sale Includes Discounts on Every Invincible Compendium Comic",
+      "summary": "Experience the rise of Mark Grayson as the titular hero.",
+      "url": "https://www.ign.com/articles/every-invincible-compendium-comic-deals-amazon-spring-sale-march-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-31T22:05:00+00:00"
     },
     {
       "id": "12bbfab2cfb2fe4458989da3",
@@ -299,17 +343,6 @@
       "publishedAt": "2026-03-31T19:00:00+00:00"
     },
     {
-      "id": "aeff8a9f5ba3c50646ceb877",
-      "title": "Shigeru Miyamoto Says He's 'on a Mission to Include Pikmin' in Everything Nintendo",
-      "summary": "Shigeru Miyamoto, the creator of Pikmin, is also a known Pikmin lover. That guy is always gassing up the little fellas, and he recently admitted to us that he's on a mission to put Pikmin into absolutely every Nintendo thing he can.",
-      "url": "https://www.ign.com/articles/shigeru-miyamoto-says-hes-on-a-mission-to-include-pikmin-in-everything-nintendo",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-31T19:00:00+00:00"
-    },
-    {
       "id": "7223fc7b0de1b8fbf0a16f81",
       "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
       "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
@@ -330,17 +363,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-31T18:02:29+00:00"
-    },
-    {
-      "id": "5578a28803a9818a97d66abf",
-      "title": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
-      "summary": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir.",
-      "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T17:30:05+00:00"
     },
     {
       "id": "d5998353259c4c3d819b51c9",
@@ -376,17 +398,6 @@
       "publishedAt": "2026-03-31T12:51:51+00:00"
     },
     {
-      "id": "822c1a99a4e980a385106737",
-      "title": "At least 16 killed and thousands displaced by gang attack in rural Haiti",
-      "summary": "The attack happened in the Artibonite region, where members of the Gran Grif gang have targeted locals in the past.",
-      "url": "https://www.bbc.com/news/articles/cql76l4221qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T12:02:46+00:00"
-    },
-    {
       "id": "bdb3da1b505a1f2cec88c661",
       "title": "Fei-Fei Li, la « marraine de l’IA », prône une technologie « centrée sur l’humain »",
       "summary": "« Les gourous de l’IA » (7/12). L’informaticienne sino-américaine argue que l’intelligence artificelle doit être régulée et aider l’humanité plutôt que de la remplacer.",
@@ -396,17 +407,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-31T12:00:20+00:00"
-    },
-    {
-      "id": "4c96bc6bc696cff01f4654f6",
-      "title": "Kissing a woman's hand can be sexual assault, Spanish court finds",
-      "summary": "The Supreme Court found that a man had done more than harass a woman by kissing her hand as there had been \"a clear sexual component\" to his behaviour.",
-      "url": "https://www.bbc.com/news/articles/cx2w6239p64o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T11:37:47+00:00"
     },
     {
       "id": "b7d8ed502ae129fc63a9ac79",
@@ -431,17 +431,6 @@
       "publishedAt": "2026-03-31T10:00:09+00:00"
     },
     {
-      "id": "21db5cb2920e98ecc9ffb324",
-      "title": "Teen cyclist killed at Road World Championships not found for 82 minutes",
-      "summary": "A cyclist who was killed during the Road World Championships was not found for 82 minutes after a crash, investigators find.",
-      "url": "https://www.bbc.com/sport/cycling/articles/cnv85v7r22ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T09:59:52+00:00"
-    },
-    {
       "id": "df4beb68b19977253b7c603c",
       "title": "Eurovision Song Contest launches first-ever Asia edition",
       "summary": "Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.",
@@ -462,17 +451,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-31T09:42:26+00:00"
-    },
-    {
-      "id": "cf9ebcc1035aba53ee19b3f0",
-      "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
-      "summary": "Victims describe how they have been targeted while carrying out everyday activities.",
-      "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T07:12:41+00:00"
     },
     {
       "id": "8f048bc5530e38fed7852ce4",
@@ -528,17 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-31T03:46:22+00:00"
-    },
-    {
-      "id": "78870cb71b490767c12950fc",
-      "title": "Kid Rock sparks US Army probe after helicopter flyby at his mansion",
-      "summary": "The country rock artist posted footage on Saturday of himself saluting the aircraft from his outdoor pool.",
-      "url": "https://www.bbc.com/news/articles/cdrmgvzm62no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T02:50:07+00:00"
     },
     {
       "id": "604d3110624dcbd3c7bda430",
