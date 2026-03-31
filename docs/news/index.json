@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-03-31T08:02:58.315988+00:00",
+  "updatedAt": "2026-03-31T09:56:33.955870+00:00",
   "items": [
+    {
+      "id": "df4beb68b19977253b7c603c",
+      "title": "Eurovision Song Contest launches first-ever Asia edition",
+      "summary": "Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.",
+      "url": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T09:51:58+00:00"
+    },
+    {
+      "id": "08d8f731e07b5413da0bc43d",
+      "title": "L’UFC-Que choisir poursuit en justice l’éditeur de jeux vidéo Ubisoft",
+      "summary": "La fermeture des services en ligne liés au jeu « The Crew » avait rendu ce dernier inutilisable en 2024. L’association dénonce des pratiques commerciales « trompeuses ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/03/31/ufc-que-choisir-poursuit-en-justice-l-editeur-de-jeux-video-ubisoft_6675623_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-03-31T09:42:26+00:00"
+    },
+    {
+      "id": "73ee0a985aa6413938344e2c",
+      "title": "VR Social Game Rec Room Is Shutting Down on its 10th Anniversary: 'Our Costs Always Ended Up Overwhelming the Revenue We Brought In'",
+      "summary": "Rec Room — the virtual reality social club where you play games, hang out in the locker room, customize your appearance, and party with friends — is shutting down on its 10th anniversary.",
+      "url": "https://www.ign.com/articles/vr-social-game-rec-room-is-shutting-down-on-its-10th-anniversary-our-costs-always-ended-up-overwhelming-the-revenue-we-brought-in",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-31T09:39:20+00:00"
+    },
+    {
+      "id": "d35629cca5b5466cea83e139",
+      "title": "Amazon Says Fallout Season 2 Audience Trails Only Reacher Season 2 Among Returning Series on Prime Video",
+      "summary": "Amazon has released audience data for Fallout Season 2, showing the video game adaptation is a huge Prime Video hit.",
+      "url": "https://www.ign.com/articles/amazon-says-fallout-season-2-audience-trails-only-reacher-season-2-among-returning-series-on-prime-video",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-31T09:29:33+00:00"
+    },
+    {
+      "id": "1dab4adb65e6a5e2d38948d6",
+      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+      "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
+      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T09:18:11+00:00"
+    },
+    {
+      "id": "6761ffdfcc2ebc78f24fc06f",
+      "title": "Nintendo's Changing Mario Kart World Again, Rebalancing Items and Adding Bob-omb Blast Battle Mode",
+      "summary": "Nintendo has released a major new update for Mario Kart World, which rebalances items, adjusts recovery times, and adds another battle mode.",
+      "url": "https://www.ign.com/articles/nintendos-changing-mario-kart-world-again-rebalancing-items-and-adding-bob-omb-blast-battle-mode",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-31T08:47:24+00:00"
+    },
+    {
+      "id": "c97072230d22668891e365a7",
+      "title": "Deus Ex Dev Eidos-Montréal Announces Mass Layoffs Alongside Departure of Head of Stuido David Anfossi",
+      "summary": "Deus Ex and Tomb Raider developer Eidos-Montréal has announced a wave of layoffs alongside the departure of head of studio David Anfossi.",
+      "url": "https://www.ign.com/articles/eidos-montreal-announces-layoffs-alongside-the-departure-of-head-of-stuido-david-anfossi",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-31T08:25:16+00:00"
+    },
     {
       "id": "b66fab734f252027e7b23da3",
       "title": "Congressman writes to King Charles urging him to meet Epstein victims during US visit",
@@ -22,17 +99,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-31T07:12:41+00:00"
-    },
-    {
-      "id": "df4beb68b19977253b7c603c",
-      "title": "Eurovision Song Contest launches first-ever Asia edition",
-      "summary": "Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.",
-      "url": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T06:26:19+00:00"
     },
     {
       "id": "8f048bc5530e38fed7852ce4",
@@ -387,17 +453,6 @@
       "publishedAt": "2026-03-30T19:48:38+00:00"
     },
     {
-      "id": "0d694eeb18e680f86c8e0bc4",
-      "title": "Sony Is Putting Its SD and CFExpress Memory Card Production on Hold Thanks to AI",
-      "summary": "",
-      "url": "https://www.ign.com/articles/sony-is-putting-its-sd-and-cfexpress-memory-card-production-on-hold-thanks-to-ai",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-30T19:22:21+00:00"
-    },
-    {
       "id": "9da556055212f496b8cc769e",
       "title": "Céline Dion announces comeback shows in Paris after incurable diagnosis",
       "summary": "The star was diagnosed with a rare condition that affects her singing voice and her ability to walk.",
@@ -420,39 +475,6 @@
       "publishedAt": "2026-03-30T19:14:12+00:00"
     },
     {
-      "id": "abdd7de0d3719c56ce35e59a",
-      "title": "RAM Prices Have Started To Drop, But the Crisis Is Far From Over",
-      "summary": "",
-      "url": "https://www.ign.com/articles/ram-prices-have-started-to-drop-but-the-crisis-is-far-from-over",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-30T18:51:57+00:00"
-    },
-    {
-      "id": "b7ae88ed1a8173a53fcbcdaf",
-      "title": "'I Don't Want to Say They Started Panicking…' — Actor Behind Crimson Desert's Kliff Reveals 'Bridge Point' Where Pearl Abyss Realized the Story and Characters Needed to Change",
-      "summary": "Alec Newman, the actor who plays Crimson Desert protagonist Kliff, has discussed his work on the game, and revealed how the story and characters changed significantly during development.",
-      "url": "https://www.ign.com/articles/i-dont-want-to-say-they-started-panicking-actor-behind-crimson-deserts-kliff-reveals-bridge-point-where-pearl-abyss-realized-the-story-and-characters-needed-to-change",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-30T18:32:35+00:00"
-    },
-    {
-      "id": "95502ae685e4dd4bd88e03fa",
-      "title": "My Favorite Lord of the Rings Puzzle Is at Its Lowest Price Ever for Amazon's Big Spring Sale",
-      "summary": "",
-      "url": "https://www.ign.com/articles/lord-of-the-rings-puzzle-is-at-its-lowest-price-for-amazon-big-spring-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-30T18:30:00+00:00"
-    },
-    {
       "id": "076787174a510df10366dc10",
       "title": "Barbie Dream Fest in Florida to issue refunds after fan complaints",
       "summary": "Fans, who paid up to $450 (£340), complained of a grey convention centre backdrop and a \"swag bag\" that included only a plastic pouch with a Barbie hand sanitiser.",
@@ -462,50 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-30T18:13:45+00:00"
-    },
-    {
-      "id": "1dab4adb65e6a5e2d38948d6",
-      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
-      "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
-      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T17:53:51+00:00"
-    },
-    {
-      "id": "32219f115bf794d37d1ddeb3",
-      "title": "48-hour curfew imposed after attack on bar in Nigerian city",
-      "summary": "The raid led to revenge attacks in Jos, with 22 reported dead so far in one of the most volatile parts of the country.",
-      "url": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T16:44:28+00:00"
-    },
-    {
-      "id": "547a0066325bd5c05689b5b8",
-      "title": "Nigerian president's rivals get major boost as political heavyweight joins fold",
-      "summary": "Rabiu Kwankwaso joins the ADC, a coalition poised to take on President Tinubu in the 2027 elections.",
-      "url": "https://www.bbc.com/news/articles/c2k3vzjp1ylo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T16:30:58+00:00"
-    },
-    {
-      "id": "93fc2d02b1b0d90ace8b1314",
-      "title": "Three killed as unfinished building collapses on church service in Ghana",
-      "summary": "Locals say the structure, in a school complex, was in use despite lying unfinished for a number of years.",
-      "url": "https://www.bbc.com/news/articles/ckgex51zzd8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T16:18:05+00:00"
     },
     {
       "id": "8cf5d4a32f927abbec0b5922",
@@ -662,28 +640,6 @@
       "publishedAt": "2026-03-30T04:00:27+00:00"
     },
     {
-      "id": "3b767212048dcd4635b21522",
-      "title": "Partial government shutdown becomes the longest in US history",
-      "summary": "The 44-day funding lapse for the Department of Homeland Security has led to travel chaos at US airports.",
-      "url": "https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T01:13:51+00:00"
-    },
-    {
-      "id": "406a60029077142cc1fdc41a",
-      "title": "No Kings protests draw large crowds to rally against Donald Trump",
-      "summary": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.",
-      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-29T23:57:25+00:00"
-    },
-    {
       "id": "2276fb93049806097b3a3d70",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
       "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
@@ -715,17 +671,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-29T23:07:04+00:00"
-    },
-    {
-      "id": "93d0629eec87bf5590c457c7",
-      "title": "Thieves steal Renoir, Cézanne and Matisse paintings in three-minute Italian heist",
-      "summary": "The paintings were taken from a museum in Parma by four masked men in the middle of the night, police say.",
-      "url": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-29T21:29:56+00:00"
     },
     {
       "id": "a0275fb8112f272398d73add",
@@ -924,17 +869,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-27T20:45:19+00:00"
-    },
-    {
-      "id": "57cb27f97bca2def43e9561b",
-      "title": "Des hackeurs iraniens revendiquent le piratage de la boîte mail personnelle du directeur du FBI",
-      "summary": "Un échantillon de courriels a été mis en ligne par le groupe Handala.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/27/des-hackeurs-iraniens-revendiquent-le-piratage-de-la-boite-mail-personnelle-du-directeur-du-fbi_6674660_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-27T16:12:23+00:00"
     },
     {
       "id": "626d5c389644adcfa3a02ac2",
