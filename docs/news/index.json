@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-03-31T12:57:14.618018+00:00",
+  "updatedAt": "2026-03-31T14:25:48.891088+00:00",
   "items": [
+    {
+      "id": "49e4c37d467edb75f4bcbde4",
+      "title": "Jared Leto's Skeletor Speaks in New Masters of the Universe Trailer",
+      "summary": "The latest Masters of the Universe trailer is packed with new details, chief among them a first listen at Jared Leto’s take on villain Skeletor.",
+      "url": "https://www.ign.com/articles/jared-letos-skeletor-speaks-in-new-masters-of-the-universe-trailer",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-31T13:40:19+00:00"
+    },
+    {
+      "id": "73928a6c40cbec1ae3745f58",
+      "title": "Wolf bites woman in shock German attack in Hamburg shopping street",
+      "summary": "It is believed to be the first wolf attack on a human since the animals began to reestablish themselves in Germany decades ago.",
+      "url": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T13:00:32+00:00"
+    },
+    {
+      "id": "8ff48e2418efc12d6a94b433",
+      "title": "Avatar: The Last Airbender Season 2 Will Premiere on Netflix in June 2026",
+      "summary": "Netflix announced Tuesday that Season 2 of their live-action Avatar: The Last Airbender series will premiere on June 25, 2026. The third and final season wrapped production in late 2025 for an expected 2027 release.",
+      "url": "https://www.ign.com/articles/avatar-the-last-airbender-season-2-will-premiere-on-netflix-in-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-31T13:00:00+00:00"
+    },
+    {
+      "id": "e890af814de800827bed8c9b",
+      "title": "Hands On With Nvidia DLSS 4.5 Dynamic Multi-Frame Generation",
+      "summary": "Nvidia DLSS 4.5 Dynamic Multi-Frame Generation changes your frame generation multiplier in real time, in order to keep your frame rate close to your monitor's refresh rate. But how well does it work?",
+      "url": "https://www.ign.com/articles/nvidia-dlss-45-dynamic-multi-frame-generation-hands-on",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-03-31T13:00:00+00:00"
+    },
+    {
+      "id": "2952ec9b655e78251090e2cd",
+      "title": "Russian oil tanker docks in Cuba ending near-total blockade",
+      "summary": "A Russian oil tanker has docked in Cuba, providing temporary relief after months of shortages.",
+      "url": "https://www.bbc.com/news/articles/clyx1lrv0w5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T12:51:51+00:00"
+    },
     {
       "id": "715ce61ad909e648c8f33bd9",
       "title": "After Lying About No Way Home, Andrew Garfield Admits He'll Be Answering Questions About Returning as Spider-Man 'For the Rest of My Life'",
@@ -11,6 +66,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-03-31T12:17:43+00:00"
+    },
+    {
+      "id": "399daeab86e8309032799796",
+      "title": "At least 16 killed, thousands displaced by gang attack in rural Haiti",
+      "summary": "The attack happened in the Artibonite region, where members of the Gran Grif gang have targeted locals in the past.",
+      "url": "https://www.bbc.com/news/articles/cql76l4221qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T12:02:46+00:00"
     },
     {
       "id": "bdb3da1b505a1f2cec88c661",
@@ -33,6 +99,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-03-31T12:00:00+00:00"
+    },
+    {
+      "id": "4c96bc6bc696cff01f4654f6",
+      "title": "Kissing a woman's hand can be sexual assault, Spanish court finds",
+      "summary": "The Supreme Court found that a man had done more than harass a woman by kissing her hand as there had been \"a clear sexual component\" to his behaviour.",
+      "url": "https://www.bbc.com/news/articles/cx2w6239p64o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T11:37:47+00:00"
     },
     {
       "id": "5493df1c1a943a066c92936a",
@@ -112,6 +189,17 @@
       "publishedAt": "2026-03-31T10:00:09+00:00"
     },
     {
+      "id": "21db5cb2920e98ecc9ffb324",
+      "title": "Teen cyclist killed at Road World Championships not found for 82 minutes",
+      "summary": "A cyclist who was killed during the Road World Championships was not found for 82 minutes after a crash, investigators find.",
+      "url": "https://www.bbc.com/sport/cycling/articles/cnv85v7r22ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-03-31T09:59:52+00:00"
+    },
+    {
       "id": "df4beb68b19977253b7c603c",
       "title": "Eurovision Song Contest launches first-ever Asia edition",
       "summary": "Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.",
@@ -154,17 +242,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-03-31T09:29:33+00:00"
-    },
-    {
-      "id": "1dab4adb65e6a5e2d38948d6",
-      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
-      "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
-      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T09:18:11+00:00"
     },
     {
       "id": "6761ffdfcc2ebc78f24fc06f",
@@ -277,17 +354,6 @@
       "publishedAt": "2026-03-31T03:46:22+00:00"
     },
     {
-      "id": "de4ebda9bbbec6552a0ffbc0",
-      "title": "'A succulent Chinese meal' - iconic Australian quote immortalised in national film archive",
-      "summary": "The theatrical monologue given by Jack Karlson as he was arrested in 1991 has been officially recognised as a \"lasting piece of cultural folklore\".",
-      "url": "https://www.bbc.com/news/articles/c3exvk1207ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-31T02:51:21+00:00"
-    },
-    {
       "id": "78870cb71b490767c12950fc",
       "title": "Kid Rock sparks US Army probe after helicopter flyby at his mansion",
       "summary": "The country rock artist posted footage on Saturday of himself saluting the aircraft from his outdoor pool.",
@@ -398,39 +464,6 @@
       "publishedAt": "2026-03-30T23:50:00+00:00"
     },
     {
-      "id": "6542dace74dba6f9e3c6208a",
-      "title": "Last Chance: Save $120 on DJI's Most Popular 4K Drone Combo During the Amazon Spring Sale",
-      "summary": "Take to the skies with over an hour of flight time.",
-      "url": "https://www.ign.com/articles/last-chance-save-120-on-djis-most-popular-4k-drone-combo-during-the-amazon-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-30T23:35:00+00:00"
-    },
-    {
-      "id": "dbad2fca3f8b53bdc47550dc",
-      "title": "The Best Selling Deals From the Amazon Spring Sale Includes Several Items Under $20",
-      "summary": "Products include the Fire TV Stick, OBD II car scanner, salmon DNA serum, Apple AirPods, and more.",
-      "url": "https://www.ign.com/articles/the-most-popular-deals-to-come-out-of-the-big-amazon-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-30T23:30:00+00:00"
-    },
-    {
-      "id": "86652458e8f26c0db4c077fd",
-      "title": "The Newest Harry Potter Interactive Illustrated Edition Is 50% Off Thanks to an Amazon Coupon",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-newest-harry-potter-interactive-illustrated-edition-discount-amazon-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-30T23:30:00+00:00"
-    },
-    {
       "id": "2353cba5d82cbc898132a27d",
       "title": "Inside the cockpit of RAF tanker during defensive mission against Iranian drones",
       "summary": "Defence correspondent Jonathan Beale flies onboard a Royal Air Force Voyager as it refuels jets in the Middle East.",
@@ -453,72 +486,6 @@
       "publishedAt": "2026-03-30T22:03:59+00:00"
     },
     {
-      "id": "188fc81b66a67e667a593d53",
-      "title": "Gazan mother reunited with evacuated daughter after two years",
-      "summary": "The girl is among at least eight children who were premature newborns when they were evacuated during heavy fighting in Gaza at the start of the war.",
-      "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T21:12:29+00:00"
-    },
-    {
-      "id": "e5b59b16d62a377843aa3195",
-      "title": "Air Canada CEO to retire after criticism for English-only condolence video",
-      "summary": "Michael Rousseau faced calls to resign for his message after the Air Canada crash at LaGuardia airport killed two pilots, including one French-Canadian.",
-      "url": "https://www.bbc.com/news/articles/cgme8xy2rl1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T21:06:47+00:00"
-    },
-    {
-      "id": "880e044c19733ec3a8c473f6",
-      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-      "summary": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
-      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T20:07:17+00:00"
-    },
-    {
-      "id": "9da556055212f496b8cc769e",
-      "title": "Céline Dion announces comeback shows in Paris after incurable diagnosis",
-      "summary": "The star was diagnosed with a rare condition that affects her singing voice and her ability to walk.",
-      "url": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T19:15:23+00:00"
-    },
-    {
-      "id": "91c7c90518c8bc6d016da4b3",
-      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-      "summary": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
-      "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T19:14:12+00:00"
-    },
-    {
-      "id": "076787174a510df10366dc10",
-      "title": "Barbie Dream Fest in Florida to issue refunds after fan complaints",
-      "summary": "Fans, who paid up to $450 (£340), complained of a grey convention centre backdrop and a \"swag bag\" that included only a plastic pouch with a Barbie hand sanitiser.",
-      "url": "https://www.bbc.com/news/articles/cp3l1422d3qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T18:13:45+00:00"
-    },
-    {
       "id": "8cf5d4a32f927abbec0b5922",
       "title": "Inside Nasa's moon spacesuit lab ahead of Artemis launch",
       "summary": "The Artemis II spacesuits are designed to protect the astronauts during launch and landing, as well as possible emergency scenarios.",
@@ -528,17 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-30T15:48:53+00:00"
-    },
-    {
-      "id": "bd35753de304ecdb78349cdc",
-      "title": "Spain closes airspace to US aircraft involved in Iran war",
-      "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
-      "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T15:29:15+00:00"
     },
     {
       "id": "3102e582ae8c02e873ce5ad8",
@@ -574,17 +530,6 @@
       "publishedAt": "2026-03-30T13:57:15+00:00"
     },
     {
-      "id": "bb248685fc7f4192305fcf46",
-      "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
-      "summary": "The Israeli PM says Cardinal Pierbattista Pizzaballa had been asked not to enter the church over concerns about Iranian strikes.",
-      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T13:30:32+00:00"
-    },
-    {
       "id": "6d1a74c69fbd6625c43c3808",
       "title": "Depuis le début de la guerre en Iran, les hackeurs proches de Téhéran mènent des attaques opportunistes à la portée limitée",
       "summary": "Loin des opérations sophistiquées et destructrices que redoutent les diplomaties occidentales, les campagnes iraniennes ont été pour l’heure limitées techniquement et principalement à visée de propagande.",
@@ -618,17 +563,6 @@
       "publishedAt": "2026-03-30T12:00:17+00:00"
     },
     {
-      "id": "0c79861c68f8c1a35bca82cd",
-      "title": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
-      "summary": "Freeman has been wanted since the fatal shooting of two police officers in Porepunkah in August.",
-      "url": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T07:07:15+00:00"
-    },
-    {
       "id": "209969f95a5e113529b39445",
       "title": "How Australia’s seven-month-long manhunt came to an end",
       "summary": "Fugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.",
@@ -638,17 +572,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-30T05:58:41+00:00"
-    },
-    {
-      "id": "160be39d1259dc77ba980119",
-      "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
-      "summary": "The military leader, who has been sanctioned by Western countries, is now certain to get the job.",
-      "url": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-30T05:26:09+00:00"
     },
     {
       "id": "13ee7ab4c10fe4964299a2fd",
