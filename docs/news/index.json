@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-01T16:02:36.905044+00:00",
+  "updatedAt": "2026-04-01T17:43:06.529855+00:00",
   "items": [
+    {
+      "id": "a59234f9122972bc86eb9ea9",
+      "title": "Trump to give primetime address on war as questions swirl over his next move",
+      "summary": "The US president finds himself under growing pressure at home to avoid a protracted conflict.",
+      "url": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T17:07:51+00:00"
+    },
+    {
+      "id": "2ae973df983c8fea04634616",
+      "title": "LEGO Reveals the First Toy Story Set for Adults, Releasing a Month Before Toy Story 5",
+      "summary": "The Slinky Dog set is made up of 1311 pieces and includes two minifigures: Slinky Dog and Woody. The bookends are made up of two different-sized LEGO books with Slinky Dog attached at either end.",
+      "url": "https://www.ign.com/articles/lego-toy-story-sets-where-to-buy-may-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T16:47:05+00:00"
+    },
+    {
+      "id": "7ab69cb0aa66499d82c96aed",
+      "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+      "summary": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
+      "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T16:31:17+00:00"
+    },
+    {
+      "id": "dd30ac8f9acd6df82f0062a7",
+      "title": "Families cram into Greek court for trial into deadliest train crash",
+      "summary": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.",
+      "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T16:30:17+00:00"
+    },
+    {
+      "id": "b18cbe5984a4c622b1df4e40",
+      "title": "Crimson Desert Estimated to Have Made Over $200 Million Already — and PS5 Is a Big Contributor",
+      "summary": "Official figures put Crimson Desert at 4 million sales in just under two weeks, but how much money has it made? One analyst believes they’ve worked it out.",
+      "url": "https://www.ign.com/articles/crimson-desert-estimated-to-have-made-over-200-million-already-and-ps5-is-a-big-contributor",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T16:28:01+00:00"
+    },
     {
       "id": "661687a38b78c0f93941f20e",
       "title": "Explosions at Burundi ammunition depot kill civilians, witnesses say",
@@ -10,7 +65,84 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-01T15:51:24+00:00"
+      "publishedAt": "2026-04-01T16:26:19+00:00"
+    },
+    {
+      "id": "d63392668cd1142817cda680",
+      "title": "Sony Confirms PlayStation Plus Monthly Games for April 2026",
+      "summary": "Sony has announced the PlayStation Plus Monthly games lineup for April 2026, confirming earlier leaks that spilled some — but not all — of the games.",
+      "url": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-april-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T16:16:46+00:00"
+    },
+    {
+      "id": "74789741e1027230ebddfa02",
+      "title": "Final Fantasy 7 Remake Intergrade for Nintendo Switch 2 Is Down to Just $30 at Walmart",
+      "summary": "Final Fantasy 7 Remake Intergrade for Nintendo Switch 2 is on sale for $29.99 right now at Walmart, a $10 drop from its list price of $39.99.",
+      "url": "https://www.ign.com/articles/final-fantasy-7-remake-intergrade-for-nintendo-switch-2-is-down-to-just-30-at-walmart",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T16:13:48+00:00"
+    },
+    {
+      "id": "78adfbacb6ed1193bdcbcb9a",
+      "title": "Samsung's Premium 65\" S90 4K OLED TV Drops to Just $1,099 with Free Delivery",
+      "summary": "The best gaming TV.",
+      "url": "https://www.ign.com/articles/best-samsung-s90-4k-oled-tv-deal-amazon-spring-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T16:10:00+00:00"
+    },
+    {
+      "id": "8a6109b690124b4fe23d4f2d",
+      "title": "Peppa Pig and Transformers owner Hasbro hit by cyber-attack",
+      "summary": "The firm says its operations remain open but says the hack \"may result in some delays\".",
+      "url": "https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-01T16:05:37+00:00"
+    },
+    {
+      "id": "1bcabca2118aef9ff293aaf7",
+      "title": "The Best Hulu Deals and Bundles Right Now (April 2026)",
+      "summary": "These are the best Hulu deals and bundles to check out in 2026.",
+      "url": "https://www.ign.com/articles/best-hulu-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T16:03:00+00:00"
+    },
+    {
+      "id": "7e046e2365e00562ac8cd470",
+      "title": "Funko Celebrates April Pool's Day With New Deadpool Pop! Figures",
+      "summary": "Funko is celebrating April Pool's Day by revealing a brand new wave of Deadpool figures inspired by the live-action Marvel movies.",
+      "url": "https://www.ign.com/articles/funko-celebrates-april-pools-day-with-new-deadpool-pop-figures",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T16:00:00+00:00"
+    },
+    {
+      "id": "540ad20af06dc8a5e147ae0f",
+      "title": "Magic: The Gathering Reveal - Inside The Prismari Artistry Deck From Secrets of Strixhaven",
+      "summary": "A first look at a bunch of new Commander cards from Magic's next set.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-secrets-of-strixhaven-prismari-deck",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T16:00:00+00:00"
     },
     {
       "id": "b1d4b59536db604c0376b868",
@@ -24,8 +156,8 @@
       "publishedAt": "2026-04-01T15:45:34+00:00"
     },
     {
-      "id": "2989be445aab3a35d9973168",
-      "title": "LEGO Bionicle is Back, Though Not As You'd Expect",
+      "id": "c5eeb5f5b05ce2d0623c45ab",
+      "title": "LEGO Bionicle Is Back, Though Not As You'd Expect",
       "summary": "LEGO has announced a big surprise for fans of its beloved Bionicle range, with a new minifigure set to launch as soon as next month.",
       "url": "https://www.ign.com/articles/lego-bionicle-is-back-though-not-as-youd-expect",
       "imageUrl": null,
@@ -233,17 +365,6 @@
       "publishedAt": "2026-04-01T11:17:18+00:00"
     },
     {
-      "id": "0bb216831f9e343a055ad449",
-      "title": "‘Succulent Chinese Meal’ Monologue Added to Australia’s National Film and Sound Archive",
-      "summary": "This is democracy manifest.",
-      "url": "https://www.ign.com/articles/succulent-chinese-meal-monologue-added-to-australias-national-film-and-sound-archive",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T11:03:25+00:00"
-    },
-    {
       "id": "d51fbe16b4f51b39ae34ebd4",
       "title": "L’histoire folle d’une nouvelle pièce de Molière, coécrite avec l’IA",
       "summary": "Depuis bientôt trois ans, le Théâtre Molière Sorbonne, à Paris, et un trio d’artistes se sont attelés à produire une comédie qu’aurait pu écrire le dramaturge s’il avait vécu plus longtemps. Les créateurs de « L’Astrologue ou les Faux Présages » participent à la première édition de Noûs, festival art et IA à la BnF, du 9 au 19 avril.",
@@ -253,17 +374,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-01T11:00:03+00:00"
-    },
-    {
-      "id": "25dad4a2a01b7c5bba09e330",
-      "title": "Crimson Desert NPCs Are Stealing the Show, as Players Discover You Can Put Them to Work, Sit Back, and Watch Them Get the Job Done in Real-Time",
-      "summary": "Crimson Desert NPCs are stealing the show.",
-      "url": "https://www.ign.com/articles/crimson-desert-npcs-are-stealing-the-show-as-players-discover-you-can-put-them-to-work-sit-back-and-watch-them-get-the-job-done-in-real-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T11:00:01+00:00"
     },
     {
       "id": "a8023135b058966713ff0674",
@@ -288,28 +398,6 @@
       "publishedAt": "2026-04-01T10:33:35+00:00"
     },
     {
-      "id": "5a9b80d4f7d09a5463d348db",
-      "title": "Supergirl Star Milly Alcock Says Starring in Game of Thrones Spinoff House of the Dragon 'Made Me Aware That Simply Existing as a Woman in That Space Is Something People Comment On'",
-      "summary": "Milly Alcock is set to play Supergirl in the next big DC Universe movie, and with that comes an intense scrutiny from fans. But, she says, she already has experience working under the microscope of fandom: on Game of Thrones spinoff House of the Dragon.",
-      "url": "https://www.ign.com/articles/supergirl-star-milly-alcock-says-starring-in-game-of-thrones-spinoff-house-of-the-dragon-made-me-aware-that-simply-existing-as-a-woman-in-that-space-is-something-people-comment-on",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T10:20:48+00:00"
-    },
-    {
-      "id": "ac9c4a75c0765693fed855f0",
-      "title": "Pokémon Go Has a Brilliant April Fool's Day Surprise — And The Best Part is It's Not a Joke",
-      "summary": "Pokémon Go is celebrating April Fool's Day with a big in-game surprise — and the best part is that it really isn't a joke.",
-      "url": "https://www.ign.com/articles/pokemon-go-has-a-brilliant-april-fools-day-surprise-and-the-best-part-is-its-not-a-joke",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T10:11:38+00:00"
-    },
-    {
       "id": "8cb470d1e818bd5e62f04d4e",
       "title": "Robots-taxis Waymo : « Lorsque le logiciel devient le cœur d’un produit, l’équilibre du pouvoir économique tend à se déplacer avec lui »",
       "summary": "Le cas de la filiale de Google spécialisée dans les véhicules autonomes illustre une leçon fondamentale de stratégie numérique mais aussi la montée en puissance du logiciel dans l’industrie, explique, dans une tribune au « Monde », Michael Lenox, professeur de sciences de gestion aux Etats-Unis.",
@@ -330,50 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-01T09:55:28+00:00"
-    },
-    {
-      "id": "0253b38ad23f1e4254f57407",
-      "title": "Ramen Shop in Japan Becomes Official Warhammer Retailer, Owner Is a 'Total Beginner' but Says 'I've Been Immediately Captivated by Its Charm'",
-      "summary": "A ramen shop in Japan has proudly declared it has become an official Warhammer retailer, selling Warhammer 40,000 and Warhammer: Age of Sigmar miniatures alongside noodle soup.",
-      "url": "https://www.ign.com/articles/ramen-shop-in-japan-becomes-official-warhammer-retailer-owner-is-a-total-beginner-but-says-ive-been-immediately-captivated-by-its-charm",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T09:40:34+00:00"
-    },
-    {
-      "id": "d0f4871dc62e484a410540fd",
-      "title": "Bowser Actor Jack Black Suggests the Unannounced but Inevitable Third Super Mario Movie Coming 'In 2029'",
-      "summary": "Jack Black has suggested that the unannounced but inevitable third Super Mario Movie will arrive in three years' time.",
-      "url": "https://www.ign.com/articles/bowser-actor-jack-black-suggests-the-unannounced-but-inevitable-third-super-mario-movie-coming-in-2029",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T09:04:30+00:00"
-    },
-    {
-      "id": "b023af02e643b9368dd8f035",
-      "title": "Dress to Impress Codes (April 2026)",
-      "summary": "Use these working and active Dress to Impress codes to claim free rewards in DTI, including clothes, shoes, and accessories.",
-      "url": "https://www.ign.com/articles/dress-to-impress-codes",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T09:00:00+00:00"
-    },
-    {
-      "id": "af7bf43d34675e784430c98e",
-      "title": "Stellar Blade Developer Shift Up Buys Resident Evil Creator Shinji Mikami's New Studio: 'For the First Time in a While, I'll Be Fully Involved On-Site to Work on a Fairly Large Game'",
-      "summary": "Stellar Blade developer Shift Up has bought Resident Evil creator Shinji Mikami's new studio, Unbound, and will help to create and publish its next game.",
-      "url": "https://www.ign.com/articles/stellar-blade-developer-shift-up-buys-resident-evil-creator-shinji-mikamis-new-studio-for-the-first-time-in-a-while-ill-be-fully-involved-on-site-to-work-on-a-fairly-large-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T08:38:44+00:00"
     },
     {
       "id": "21ff9206b5d5a4e4efe4e21c",
@@ -935,17 +979,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-27T11:03:29+00:00"
-    },
-    {
-      "id": "4d9432a27f792171e30a8dc6",
-      "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
-      "summary": "A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.",
-      "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-27T00:44:24+00:00"
     },
     {
       "id": "42aba57f5e07eae655256910",
