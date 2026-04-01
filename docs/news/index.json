@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-04-01T10:00:54.694911+00:00",
+  "updatedAt": "2026-04-01T11:44:14.932289+00:00",
   "items": [
+    {
+      "id": "57387149eddd31d667d5bff2",
+      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+      "summary": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
+      "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-01T11:34:31+00:00"
+    },
+    {
+      "id": "d51fbe16b4f51b39ae34ebd4",
+      "title": "L’histoire folle d’une nouvelle pièce de Molière, coécrite avec l’IA",
+      "summary": "Depuis bientôt trois ans, le Théâtre Molière Sorbonne, à Paris, et un trio d’artistes se sont attelés à produire une comédie qu’aurait pu écrire le dramaturge s’il avait vécu plus longtemps. Les créateurs de « L’Astrologue ou les Faux Présages » participent à la première édition de Noûs, festival art et IA à la BnF, du 9 au 19 avril.",
+      "url": "https://www.lemonde.fr/culture/article/2026/04/01/l-histoire-folle-d-une-nouvelle-piece-de-moliere-coecrite-avec-l-ia_6675891_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-01T11:00:03+00:00"
+    },
+    {
+      "id": "57900e7f4cc3d1994ff87dcc",
+      "title": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
+      "summary": "This is just the second time that DR Congo have reached the World Cup finals, sparking celebrations in Kinshasa.",
+      "url": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T10:55:57+00:00"
+    },
+    {
+      "id": "a8023135b058966713ff0674",
+      "title": "Iran war economic shocks will last 'months', says Australia's PM",
+      "summary": "Anthony Albanese used a rare TV address to tell Australians that the \"months ahead may not be easy\" amid the global effects of the war.",
+      "url": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T10:53:03+00:00"
+    },
+    {
+      "id": "7306dc6a6168c598a8af19a5",
+      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+      "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
+      "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T10:33:35+00:00"
+    },
+    {
+      "id": "5a9b80d4f7d09a5463d348db",
+      "title": "Supergirl Star Milly Alcock Says Starring in Game of Thrones Spinoff House of the Dragon 'Made Me Aware That Simply Existing as a Woman in That Space Is Something People Comment On'",
+      "summary": "Milly Alcock is set to play Supergirl in the next big DC Universe movie, and with that comes an intense scrutiny from fans. But, she says, she already has experience working under the microscope of fandom: on Game of Thrones spinoff House of the Dragon.",
+      "url": "https://www.ign.com/articles/supergirl-star-milly-alcock-says-starring-in-game-of-thrones-spinoff-house-of-the-dragon-made-me-aware-that-simply-existing-as-a-woman-in-that-space-is-something-people-comment-on",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T10:20:48+00:00"
+    },
+    {
+      "id": "ac9c4a75c0765693fed855f0",
+      "title": "Pokémon Go Has a Brilliant April Fool's Day Surprise — And The Best Part is It's Not a Joke",
+      "summary": "Pokémon Go is celebrating April Fool's Day with a big in-game surprise — and the best part is that it really isn't a joke.",
+      "url": "https://www.ign.com/articles/pokemon-go-has-a-brilliant-april-fools-day-surprise-and-the-best-part-is-its-not-a-joke",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-01T10:11:38+00:00"
+    },
     {
       "id": "8cb470d1e818bd5e62f04d4e",
       "title": "Robots-taxis Waymo : « Lorsque le logiciel devient le cœur d’un produit, l’équilibre du pouvoir économique tend à se déplacer avec lui »",
@@ -11,6 +88,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-01T10:00:08+00:00"
+    },
+    {
+      "id": "82fc93692490c16aac149faf",
+      "title": "Russian military plane crash kills 29 in occupied Crimea",
+      "summary": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
+      "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T09:55:28+00:00"
     },
     {
       "id": "0253b38ad23f1e4254f57407",
@@ -79,8 +167,8 @@
       "publishedAt": "2026-04-01T07:16:15+00:00"
     },
     {
-      "id": "12bbfab2cfb2fe4458989da3",
-      "title": "Tech giant Oracle makes 'significant' job cuts",
+      "id": "5a5b693bf438202a2be0b7f7",
+      "title": "Thousands lose their jobs in deep cuts at tech giant Oracle",
       "summary": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
       "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -132,6 +220,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-01T04:15:09+00:00"
+    },
+    {
+      "id": "54ab1b4fca6e43b53b29158b",
+      "title": "Divorced couples in Japan can now share custody of their children",
+      "summary": "Japan was, until recently, the only G7 country to not recognise the legal concept of joint custody.",
+      "url": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T04:11:30+00:00"
     },
     {
       "id": "a0476f5bd8453d6020fb6687",
@@ -189,8 +288,8 @@
       "publishedAt": "2026-04-01T00:30:00+00:00"
     },
     {
-      "id": "a51c7a92433c1fde3826f627",
-      "title": "India begins counting more than a billion people in massive census",
+      "id": "3b05b12b9c6f6596e734f851",
+      "title": "Billion-plus people, three million officials, 33 questions - India begins huge census",
       "summary": "The two-phase exercise - the world’s most ambitious - will see three million officials count every Indian.",
       "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -418,28 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-31T21:00:24+00:00"
-    },
-    {
-      "id": "12287a174bc878adca01cdf9",
-      "title": "Score This Mortal Kombat II Arcade1Up Cabinet for $399",
-      "summary": "Mortal Kombat fans can save $100 on the top-notch Arcade1UP cabinet today.",
-      "url": "https://www.ign.com/articles/mortal-kombat-ii-arcade1up-cabinet-deal-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-31T20:53:28+00:00"
-    },
-    {
-      "id": "7b4af173e7013eaced8f4db9",
-      "title": "Last Day to Score the Best Apple AirPods Pro Deal During the Amazon Spring Sale",
-      "summary": "The best earbuds for iPhone.",
-      "url": "https://www.ign.com/articles/best-apple-airpods-pro-3-deal-amazon-spring-sale-last-chance",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-03-31T20:50:00+00:00"
     },
     {
       "id": "14cc2d900e5bf24b229cadad",
@@ -893,17 +970,6 @@
       "publishedAt": "2026-03-29T12:00:07+00:00"
     },
     {
-      "id": "64a6614de44b2d0fe1ea391d",
-      "title": "L’IA met les musiciens au défi de faire mieux qu’elle",
-      "summary": "L’intelligence artificielle gagne de plus en plus de terrain dans les studios d’enregistrement. Gain de temps, source d’inspiration et dépassement de soi : les artistes, intéressés mais prudents, cherchent à s’approprier cet outil à double tranchant.",
-      "url": "https://www.lemonde.fr/culture/article/2026/03/29/l-ia-met-les-musiciens-au-defi-de-faire-mieux-qu-elle_6675202_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-29T04:00:09+00:00"
-    },
-    {
       "id": "ae9d9ca0ab2232ede6a07d37",
       "title": "One ant for $220: The new frontier of wildlife trafficking",
       "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
@@ -1001,17 +1067,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-26T17:29:13+00:00"
-    },
-    {
-      "id": "0200553063794f3cfc11a1b7",
-      "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
-      "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
-      "url": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-26T09:37:57+00:00"
     },
     {
       "id": "42aba57f5e07eae655256910",
