@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-02T16:48:25.036417+00:00",
+  "updatedAt": "2026-04-02T17:42:44.563612+00:00",
   "items": [
+    {
+      "id": "3e45d884c81ae8523a8ac553",
+      "title": "Man dies in storm near Athens as Saharan dust shrouds Crete",
+      "summary": "Several regions are flooded in mainland Greece, while a Saharan dust storm envelopes the island of Crete.",
+      "url": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-02T17:32:25+00:00"
+    },
+    {
+      "id": "c10b2bc632d65f2330628b06",
+      "title": "Iran's two largest steel plants shut down due to strikes, companies say",
+      "summary": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian economy.",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-02T17:01:08+00:00"
+    },
+    {
+      "id": "67129c286dd206393117241d",
+      "title": "Le secteur des télécoms s’écharpe sur l’entretien des réseaux ruraux de fibre optique",
+      "summary": "Les gestionnaires des réseaux Internet dans les campagnes entendent faire payer davantage les Orange, SFR, Bouygues Telecom et Free pour assurer la maintenance de ces infrastructures.",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/02/le-secteur-des-telecoms-s-echarpe-sur-l-entretien-des-reseaux-ruraux-de-fibre-optique_6676172_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-02T17:00:11+00:00"
+    },
+    {
+      "id": "581cce6940fa5cb66a85bcd5",
+      "title": "Remember the Switch 2's Mysterious C Button? Nintendo is Trying to Tempt You With Platinum Points and User Icons Just to Press It, Now GameChat is a Premium Feature",
+      "summary": "Nintendo seems keen for you to remember that the Switch 2's C Button exists, now GameChat is a premium feature.",
+      "url": "https://www.ign.com/articles/remember-the-switch-2s-mysterious-c-button-nintendo-is-trying-to-tempt-you-with-platinum-points-and-user-icons-just-to-press-it-now-gamechat-is-a-premium-feature",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T16:45:31+00:00"
+    },
+    {
+      "id": "d49cc393ac2a48280af04f1b",
+      "title": "This TSA-Compliant 28,000mAh 100W LiFePO4 Power Station Drops to Just $45.59",
+      "summary": "This is the smallest power station I've seen, weighing in at under 3 pounds.",
+      "url": "https://www.ign.com/articles/daran-28000mah-100w-lifepo4-power-station-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T16:45:00+00:00"
+    },
     {
       "id": "5fdb7c648bc06121c4231463",
       "title": "Au salon EthCC à Cannes, la sécurité du secteur des cryptomonnaies dans tous les esprits",
@@ -13,6 +68,39 @@
       "publishedAt": "2026-04-02T16:35:34+00:00"
     },
     {
+      "id": "9ab890121ea668f0ad94b925",
+      "title": "We Build the LEGO Project Hail Mary Ship: A Mechanical Marvel",
+      "summary": "My roughly 2-hour build time with the 830-piece set was some of the most fun I've had doing a build for IGN.",
+      "url": "https://www.ign.com/articles/we-build-the-lego-project-hail-mary-ship-set-11389",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T16:32:54+00:00"
+    },
+    {
+      "id": "94eb3ebe34daa495f0cabd5f",
+      "title": "Puma and Pokémon Team Up for a 30th Anniversary Collection, and It's Available From Today",
+      "summary": "",
+      "url": "https://www.ign.com/articles/puma-and-pokemon-team-up-for-a-sun-and-moonlight-30th-anniversary-collection",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T16:18:05+00:00"
+    },
+    {
+      "id": "a346ae9e0179325a27814d6b",
+      "title": "Marvel's New Avengers Crossover to Include Exclusive Magic: The Gathering Card",
+      "summary": "Marvel is giving fans added incentive to read Avengers: Armageddon #1 this summer, as the crossover comes bundled with an exclusive Magic: The Gathering card featuring Wolverine, Iron Man, Spider-Man, and Red Hulk.",
+      "url": "https://www.ign.com/articles/marvel-avengers-armageddon-exclusive-magic-the-gathering-card",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T16:01:44+00:00"
+    },
+    {
       "id": "c95ccd7e818181177aa9508e",
       "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
       "summary": "Narges Mohammadi's brother says he fears her life is in imminent danger and she needs to be transferred to a hospital.",
@@ -22,6 +110,39 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-02T16:00:58+00:00"
+    },
+    {
+      "id": "b57461daebde17e9fd9719a1",
+      "title": "Diablo 4: Lord of Hatred Exclusive Cutscene – 'The Queen and the Saint' | IGN First",
+      "summary": "Our April IGN First \"cover story\" is underway with Diablo 4: Lord of Hatred! As we kick off our coverage today, get an exclusive first look at an in-game cutscene from Diablo 4's upcoming second expansion.",
+      "url": "https://www.ign.com/articles/diablo-4-lord-of-hatred-exclusive-cutscene-the-queen-and-the-saint-ign-first",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T16:00:00+00:00"
+    },
+    {
+      "id": "8f5431aa328ae496d8f959c2",
+      "title": "The Best Comics and Graphic Novels Releasing in April 2026 - Here's What to Read This Month",
+      "summary": "Here's the best comics and graphic novels releasing in April 2026 that are absolutely worth reading.",
+      "url": "https://www.ign.com/articles/the-best-comics-and-graphic-novels-april-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T16:00:00+00:00"
+    },
+    {
+      "id": "fe5951606eeef252112370fe",
+      "title": "Preorders Have Dropped for the Marvel Legends Series Incredible Hulk Fists, Out in July",
+      "summary": "The Marvel Legends Series Incredible Hulk Premium Roleplay Fists are now available to preorder for $99.99. They're set to be released this year on July 1.",
+      "url": "https://www.ign.com/articles/preorders-have-dropped-for-the-marvel-legends-series-incredible-hulk-fists-out-in-july",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T15:57:57+00:00"
     },
     {
       "id": "c24765ca34ea3e9a4c25ed5a",
@@ -233,17 +354,6 @@
       "publishedAt": "2026-04-02T13:28:39+00:00"
     },
     {
-      "id": "310e9e835c624792af9df87e",
-      "title": "'As Far as I'm Concerned, We're Heading Forward' — Avatar 4 and 5 'Full Speed Ahead,' Producer Insists, but Those 2029 and 2031 Release Dates Are 'Tentative'",
-      "summary": "Following the release of Avatar: Fire and Ash, fans of the franchise are wondering if creator James Cameron will get to realize his ambition of following it up with Avatar 4 and 5. While the legendary writer and director has yet to confirm either movie is 100% happening, an Avatar producer sounds convinced both are on the way.",
-      "url": "https://www.ign.com/articles/as-far-as-im-concerned-were-heading-forward-avatar-4-and-5-full-speed-ahead-producer-insists-but-those-2029-and-2031-release-dates-are-tentative",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-02T12:47:28+00:00"
-    },
-    {
       "id": "e903b152f2038c38743f728d",
       "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
       "summary": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\".",
@@ -253,28 +363,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-02T12:33:03+00:00"
-    },
-    {
-      "id": "713f7a17c67989e5b5a747ee",
-      "title": "Capcom Adds All 3 OG Resident Evil Games to Steam, But There's a Catch",
-      "summary": "Surprise! The first three instalments of Capcom's storied Resident Evil franchise — 1996's Resident Evil 1, 1998's Resident Evil 2, and 1999's Resident Evil 3: Nemesis — are now available to play on Steam.",
-      "url": "https://www.ign.com/articles/capcom-adds-all-3-og-resident-evil-games-to-steam-but-theres-a-catch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-02T12:26:53+00:00"
-    },
-    {
-      "id": "f108b74a3e6b2a49c545d4aa",
-      "title": "Infamously-Bad Cats Movie Starring Taylor Swift and Ian McKellen Made Composer Andrew Lloyd Webber Get a Dog",
-      "summary": "The movie version of Cats was so bad that composer Andrew Lloyd Webber got a dog.",
-      "url": "https://www.ign.com/articles/infamously-bad-cats-movie-starring-taylor-swift-and-ian-mckellen-made-composer-andrew-lloyd-webber-get-a-dog",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-02T12:24:29+00:00"
     },
     {
       "id": "65a51f77dc5f4b5ea0a59e63",
@@ -310,61 +398,6 @@
       "publishedAt": "2026-04-02T11:55:37+00:00"
     },
     {
-      "id": "a5f30933c61975b6ed579abb",
-      "title": "Crimson Desert Players Work Out a Way to Fly Like Neo From The Matrix, but Given Pearl Abyss' Previous Form on Patches, They’re Not Sure if It's a Bug or a Feature",
-      "summary": "Crimson Desert players have found a way to fly across the map like Neo from The Matrix, although they’re not sure if it’s a bug or a feature.",
-      "url": "https://www.ign.com/articles/crimson-desert-players-work-out-a-way-to-fly-like-neo-from-the-matrix-but-given-pearl-abyss-previous-form-on-patches-theyre-not-sure-if-its-a-bug-or-a-feature",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-02T11:49:58+00:00"
-    },
-    {
-      "id": "cd6c33c6d9266b85f80472cb",
-      "title": "Is the World Falling Out of Love With 'Traditional' Video Games?",
-      "summary": "The games industry makes billions every year, but is trapped in a cycle of live-service games and studio shutdowns. Does anyone actually care, though? Or have we fallen out of love with 'traditional' video games?",
-      "url": "https://www.ign.com/articles/is-the-world-falling-out-of-love-with-traditional-video-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-02T11:30:00+00:00"
-    },
-    {
-      "id": "4b02d2312f8cb8a7b3499eb8",
-      "title": "Shigeru Miyamoto Admits 'There's Only So Many People' Who'll Play Nintendo Games, Which is Why It's Now Also Making Movies",
-      "summary": "Nintendo legend Shigeru Miyamoto has said he's aware of a limit to the number of people who will play his games — which is one of the reasons why he's making Mario movies.",
-      "url": "https://www.ign.com/articles/shigeru-miyamoto-admits-theres-only-so-many-people-wholl-play-nintendo-games-which-is-why-its-now-also-making-movies",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-02T11:24:39+00:00"
-    },
-    {
-      "id": "dbd54be8c312187c6e722883",
-      "title": "Loads of Great PS5 Games Just Dropped to £25 or Less in Brand New Sale at Amazon",
-      "summary": "Amazon has a bunch of great deals on PS5 games right now, with several top offers now under £25.",
-      "url": "https://www.ign.com/articles/ps5-games-on-sale-just-dropped-to-20-or-less-in-brand-new-sale-at-amazon-uk",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-02T11:14:28+00:00"
-    },
-    {
-      "id": "9b09880065a943941a6eb907",
-      "title": "The Super Mario Galaxy Movie Opening Breaks Box Office Records Despite Mixed Critical Response",
-      "summary": "The Super Mario Galaxy Movie has already begun breaking box office records following its explosive launch into theaters yesterday, despite middling reviews.",
-      "url": "https://www.ign.com/articles/the-super-mario-galaxy-movie-opening-breaks-box-office-records-despite-mixed-critical-response",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-02T10:34:50+00:00"
-    },
-    {
       "id": "f12f8133c1198e209d25613d",
       "title": "Brazil grants joint custody over pets in new law for separated couples",
       "summary": "Lawmakers in the Brazilian Congress view the law change as a reflection of pets' importance for their owners.",
@@ -374,17 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-02T09:38:08+00:00"
-    },
-    {
-      "id": "4074d14c8a137048a91de9fc",
-      "title": "Man dies in storm as Saharan dust shrouds Crete",
-      "summary": "A man dies in flooding near Athens as rain lashes several regions in Greece, while a Saharan dust storm enveloped Crete.",
-      "url": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-02T07:54:44+00:00"
     },
     {
       "id": "eea09f6d65c4ed51cab552f3",
@@ -748,17 +770,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-31T04:00:00+00:00"
-    },
-    {
-      "id": "29b11c2ea943add61588e9ae",
-      "title": "En Australie, plusieurs plateformes, dont TikTok, Instagram et YouTube, visées par une enquête sur l’interdiction des réseaux sociaux aux moins de 16 ans",
-      "summary": "Le régulateur australien estime que certaines grandes entreprises de la tech « n’en font peut-être pas assez pour respecter la loi ». En France, l’interdiction des réseaux sociaux aux moins de 15 ans doit être débattue mardi au Sénat.",
-      "url": "https://www.lemonde.fr/international/article/2026/03/31/en-australie-plusieurs-plateformes-dont-tiktok-instagram-et-youtube-visees-par-une-enquete-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-16-ans_6675537_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-31T02:06:28+00:00"
     },
     {
       "id": "0c2e55a09ee03262e423ed99",
