@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-02T01:25:05.002470+00:00",
+  "updatedAt": "2026-04-02T04:23:02.148970+00:00",
   "items": [
+    {
+      "id": "1edfae7a3376c0859c9b2bdd",
+      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+      "summary": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
+      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-02T04:00:48+00:00"
+    },
+    {
+      "id": "7928b1ba55bd8227cd0903cf",
+      "title": "A la Philharmonie de Paris, les musiques de jeux vidéo au cœur d’une exposition",
+      "summary": "Avec « Video Games & Music : la musique dont vous êtes le héros » qui ouvre jeudi 2 avril, l’établissement parisien met à l’honneur les liens fertiles entre ces deux moyens d’expression.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/02/a-la-philharmonie-de-paris-les-musiques-de-jeux-video-au-c-ur-d-une-exposition_6676074_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-02T04:00:31+00:00"
+    },
+    {
+      "id": "99866e76da3013593a73ec65",
+      "title": "« L’IA, un outil pour le travail social ? » : « Ne pas confondre justesse statistique et pertinence sociale »",
+      "summary": "Dans son ouvrage, l’assistant de service social Adrien Guionie analyse l’impact de l’intelligence artificielle sur le quotidien professionnel des travailleurs sociaux. Il rappelle l’importance d’adopter une « posture critique » face aux contenus générés par la machine, soulignant que « l’humain doit garder la main sur le sens ».",
+      "url": "https://www.lemonde.fr/emploi/article/2026/04/02/l-ia-un-outil-pour-le-travail-social-ne-pas-confondre-justesse-statistique-et-pertinence-sociale_6676071_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-02T04:00:16+00:00"
+    },
+    {
+      "id": "9909e981deae30143bb4cf74",
+      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+      "summary": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
+      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-02T03:22:51+00:00"
+    },
+    {
+      "id": "f5a6c466df6ef18feb30f704",
+      "title": "What is your Must Play Playstation Game you Recommend to People?",
+      "summary": "",
+      "url": "https://www.ign.com/articles/what-is-your-must-play-playstation-game-you-recommend-to-people",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-02T01:41:45+00:00"
+    },
     {
       "id": "405163aa50d9ff7a4ed5bbcf",
       "title": "Artemis 2 Launch: 11 Movies and 1 Miniseries About Missions to the Moon",
@@ -35,6 +90,28 @@
       "publishedAt": "2026-04-01T23:03:50+00:00"
     },
     {
+      "id": "e49c954047c43f9d89df89a1",
+      "title": "Watch the moment Artemis II blasts into space",
+      "summary": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
+      "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T23:00:39+00:00"
+    },
+    {
+      "id": "2309d9558b0a4a98ac6d80c5",
+      "title": "Utah teen identified as victim of serial killer Ted Bundy",
+      "summary": "New DNA testing has solved the 51-year-old case of murdered teenager Laura Ann Aime, according to investigators.",
+      "url": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T22:35:54+00:00"
+    },
+    {
       "id": "7e7f74074cf98e3a2dffaec6",
       "title": "Elon Musk's SpaceX moves to become a publicly traded company",
       "summary": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
@@ -55,6 +132,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-01T22:08:00+00:00"
+    },
+    {
+      "id": "9982eb5fce8a1acc765707a7",
+      "title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
+      "summary": "Trump attended the oral arguments in person on Wednesday, a rare move by a sitting president that underscored the high stakes of the case.",
+      "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-01T22:00:17+00:00"
     },
     {
       "id": "c68012a8984b97e74b753c70",
@@ -231,28 +319,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-01T17:30:00+00:00"
-    },
-    {
-      "id": "907a5e9acc8605186996f261",
-      "title": "Save 35% Off the TP-Link Deco 7 Pro BE10000 Mesh System, Amazon's Best Selling Wi-Fi 7 Router",
-      "summary": "Incredibly priced, feature-rich, and blazing fast networking bundle.",
-      "url": "https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-amazon-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-01T17:25:00+00:00"
-    },
-    {
-      "id": "a59234f9122972bc86eb9ea9",
-      "title": "Trump to give primetime address on war as questions swirl over his next move",
-      "summary": "The US president finds himself under growing pressure at home to avoid a protracted conflict.",
-      "url": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-01T17:07:51+00:00"
     },
     {
       "id": "7ab69cb0aa66499d82c96aed",
@@ -849,17 +915,6 @@
       "publishedAt": "2026-03-30T05:00:00+00:00"
     },
     {
-      "id": "74532196936c9311b5cbf95d",
-      "title": "Bourse : comment transférer son PEA pour payer moins de frais ?",
-      "summary": "Pour améliorer la performance de son plan d’épargne en actions, il convient de se tourner vers des courtiers sobres en frais. Pour en profiter, il est possible d’enclencher une procédure de transfert, dont les tarifs sont par ailleurs encadrés par la loi.",
-      "url": "https://www.lemonde.fr/argent/article/2026/03/30/bourse-comment-transferer-son-pea-pour-payer-moins-de-frais_6675391_1657007.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-30T04:00:27+00:00"
-    },
-    {
       "id": "2276fb93049806097b3a3d70",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
       "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
@@ -902,17 +957,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-29T15:20:44+00:00"
-    },
-    {
-      "id": "08b5f978ff68f0c09ff1f113",
-      "title": "Les illustrateurs sonores de films ou de programmes audiovisuels, des musiciens menacés par l’IA",
-      "summary": "Des professionnels demandent la création d’un label d’authenticité pour les musiques réalisées par de « vrais » compositeurs.",
-      "url": "https://www.lemonde.fr/culture/article/2026/03/29/les-illustrateurs-sonores-de-films-ou-de-programmes-audiovisuels-des-musiciens-menaces-par-l-ia_6675253_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-29T15:15:10+00:00"
     },
     {
       "id": "c9c80a322a51f6037c8dd2fd",
