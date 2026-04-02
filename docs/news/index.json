@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-04-02T04:23:02.148970+00:00",
+  "updatedAt": "2026-04-02T06:06:45.172625+00:00",
   "items": [
+    {
+      "id": "51cbf13bdfb06eeaf9066968",
+      "title": "Guillaume Chevillon, économiste : « Certains artistes transforment notre regard sur les algorithmes »",
+      "summary": "Le directeur académique du Metalab Institute for AI, Data and Society participe à la première édition de Noûs, festival art et IA, à la BnF, à Paris, du 9 au 19 avril. Il met en garde, dans un entretien au « Monde », contre les dangers des moteurs de recherche en ligne, des dispositifs d’aide à la décision, des modèles de prévision et des outils d’",
+      "url": "https://www.lemonde.fr/culture/article/2026/04/02/guillaume-chevillon-economiste-certains-artistes-transforment-notre-regard-sur-les-algorithmes_6676079_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-02T05:00:04+00:00"
+    },
     {
       "id": "1edfae7a3376c0859c9b2bdd",
       "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
@@ -21,7 +32,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-02T04:00:31+00:00"
+      "publishedAt": "2026-04-02T04:00:28+00:00"
     },
     {
       "id": "99866e76da3013593a73ec65",
@@ -44,6 +55,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-02T03:22:51+00:00"
+    },
+    {
+      "id": "ce68190c743bad5442671ca2",
+      "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
+      "summary": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh.",
+      "url": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-02T03:09:08+00:00"
     },
     {
       "id": "f5a6c466df6ef18feb30f704",
@@ -134,9 +156,9 @@
       "publishedAt": "2026-04-01T22:08:00+00:00"
     },
     {
-      "id": "9982eb5fce8a1acc765707a7",
-      "title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
-      "summary": "Trump attended the oral arguments in person on Wednesday, a rare move by a sitting president that underscored the high stakes of the case.",
+      "id": "6daf0a7d948304bbb2340315",
+      "title": "US Supreme Court appears sceptical of Trump plan to limit birthright citizenship",
+      "summary": "Trump attended the arguments in person, a rare move by a sitting president that underscores the high stakes of the case.",
       "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -882,17 +904,6 @@
       "publishedAt": "2026-03-30T12:59:23+00:00"
     },
     {
-      "id": "9b02f3d87530ec04e76705bc",
-      "title": "Arthur Mensch, patron de Mistral AI, héraut d’une intelligence artificielle ouverte et souveraine",
-      "summary": "« Les gourous de l’IA » (6/12). Le fondateur de la start-up française met de plus en plus en avant la notion de « souveraineté » face à la concentration de cette technologie dans les mains d’un « oligopole ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/30/arthur-mensch-patron-de-mistral-ai-heraut-d-une-intelligence-artificielle-ouverte-et-souveraine_6675432_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-30T12:00:17+00:00"
-    },
-    {
       "id": "209969f95a5e113529b39445",
       "title": "How Australia’s seven-month-long manhunt came to an end",
       "summary": "Fugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.",
@@ -917,7 +928,7 @@
     {
       "id": "2276fb93049806097b3a3d70",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
-      "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
+      "summary": "Lunar discoveries and a space race with China is seeing the US invest time and money to get to the Moon - and beyond.",
       "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -957,17 +968,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-03-29T15:20:44+00:00"
-    },
-    {
-      "id": "c9c80a322a51f6037c8dd2fd",
-      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
-      "summary": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday night.",
-      "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-03-28T22:02:34+00:00"
     },
     {
       "id": "5bbe7fdb12b57fa61f7bb1f9",
