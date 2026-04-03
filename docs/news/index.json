@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-04-03T01:27:14.584571+00:00",
+  "updatedAt": "2026-04-03T04:23:36.161337+00:00",
   "items": [
+    {
+      "id": "f2e87cc1ab39a36d88ee4e6a",
+      "title": "Artemis II blasts ever closer to the far side of the Moon",
+      "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+      "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-03T03:35:28+00:00"
+    },
+    {
+      "id": "bc14489295ce74ce6511b6cc",
+      "title": "Baby shot dead in pram in New York City, police say",
+      "summary": "The seven-month-old child is the unintended victim of a suspected gang-related shooting, officials say.",
+      "url": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-03T02:15:45+00:00"
+    },
     {
       "id": "d40ad7453beb7e9ebb574c28",
       "title": "Trump removes US Attorney General Pam Bondi",
@@ -176,17 +198,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-02T16:00:58+00:00"
-    },
-    {
-      "id": "bc14489295ce74ce6511b6cc",
-      "title": "Baby shot dead in pram in New York City, police say",
-      "summary": "The seven-month-old child is the unintended victim of a suspected gang-related shooting, officials say.",
-      "url": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-02T15:20:02+00:00"
     },
     {
       "id": "af6be4a7a0254d8fe4f0dec9",
@@ -552,10 +563,10 @@
       "publishedAt": "2026-04-01T03:45:05+00:00"
     },
     {
-      "id": "5b50029ad6111a42eda4e43a",
+      "id": "14cc2d900e5bf24b229cadad",
       "title": "Tech Life",
       "summary": "Attribution science is becoming an increasingly important tool in climate lawsuits.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxn?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
