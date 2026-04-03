@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-04-03T13:57:29.359649+00:00",
+  "updatedAt": "2026-04-03T14:40:21.219694+00:00",
   "items": [
+    {
+      "id": "543dfe2e0c2a7f72e25a797b",
+      "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
+      "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
+      "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-03T14:18:04+00:00"
+    },
+    {
+      "id": "f9f9fac766aa2d8da8e3581a",
+      "title": "OpenAI s’offre un podcast influent de la Silicon Valley",
+      "summary": "L’entreprise californienne a mis la main sur « TPBN », une émission en ligne très écoutée dans le milieu anglophone de la finance et des nouvelles technologies.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/03/openai-s-offre-un-podcast-influent-de-la-silicon-valley_6676379_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-03T14:09:48+00:00"
+    },
+    {
+      "id": "f9c928cb279c7e38cc25e3af",
+      "title": "US jobs surge unexpectedly in March despite Iran war",
+      "summary": "Employers added 178,000 jobs, far more than had expected, the Labor Department says.",
+      "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-03T13:35:11+00:00"
+    },
     {
       "id": "872431a178563827bf05e42b",
       "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
@@ -11,6 +44,28 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-03T13:16:33+00:00"
+    },
+    {
+      "id": "cbe12f5f50a0016497c29c32",
+      "title": "Watch: Artemis II's journey so far as it leaves Earth's orbit ... in 85 seconds",
+      "summary": "The crew will not land on the Moon on this current mission, though Nasa is preparing for a potential lunar landing by 2028.",
+      "url": "https://www.bbc.com/news/videos/cpqxn8zx8ydo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-03T13:06:18+00:00"
+    },
+    {
+      "id": "4e73493aeabd6eb8c1bca23f",
+      "title": "Italy part company with manager after failing to qualify for World Cup",
+      "summary": "Manager Gennaro Gattuso and Italy agree to \"mutually terminate\" his contract after their failure to qualify for a third successive World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-03T13:04:44+00:00"
     },
     {
       "id": "9d65db2d3e03fc174d1edb2d",
@@ -132,17 +187,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-03T10:35:55+00:00"
-    },
-    {
-      "id": "543dfe2e0c2a7f72e25a797b",
-      "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
-      "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
-      "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-03T08:35:53+00:00"
     },
     {
       "id": "786b7497ef65ff8448dc9d5e",
@@ -288,17 +332,6 @@
       "publishedAt": "2026-04-02T16:35:32+00:00"
     },
     {
-      "id": "c95ccd7e818181177aa9508e",
-      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
-      "summary": "Narges Mohammadi's brother says he fears her life is in imminent danger and she needs to be transferred to a hospital.",
-      "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-02T16:00:58+00:00"
-    },
-    {
       "id": "af6be4a7a0254d8fe4f0dec9",
       "title": "Fewer UK adults posting on social media, Ofcom finds",
       "summary": "Some experts believe it highlights a social media shift as platforms boost short video.",
@@ -308,17 +341,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-02T14:38:24+00:00"
-    },
-    {
-      "id": "7f01323b4729da75f40d4929",
-      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
-      "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-02T13:41:27+00:00"
     },
     {
       "id": "e903b152f2038c38743f728d",
@@ -561,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-03-31T10:00:09+00:00"
-    },
-    {
-      "id": "08d8f731e07b5413da0bc43d",
-      "title": "L’UFC-Que choisir poursuit en justice l’éditeur de jeux vidéo Ubisoft",
-      "summary": "La fermeture des services en ligne liés au jeu « The Crew » avait rendu ce dernier inutilisable en 2024. L’association dénonce des pratiques commerciales « trompeuses ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/31/ufc-que-choisir-poursuit-en-justice-l-editeur-de-jeux-video-ubisoft_6675623_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-31T09:42:26+00:00"
     },
     {
       "id": "0c2e55a09ee03262e423ed99",
