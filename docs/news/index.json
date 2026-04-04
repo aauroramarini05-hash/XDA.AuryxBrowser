@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-04-03T23:25:57.977267+00:00",
+  "updatedAt": "2026-04-04T01:21:25.162875+00:00",
   "items": [
+    {
+      "id": "5d837e7b69bfa849db16a801",
+      "title": "Tech Now",
+      "summary": "Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002tvm7?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-04T01:00:00+00:00"
+    },
+    {
+      "id": "50cca464b6a6e3617ba45c79",
+      "title": "How Canada's largest gun control effort in decades is missing the mark",
+      "summary": "Canada recently banned 2,500 models of \"assault-style\" firearms - but a plan to buy-back tens of thousands of guns fell short by half.",
+      "url": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-04T00:32:45+00:00"
+    },
+    {
+      "id": "be38b2afce69d0a31f9afb67",
+      "title": "'We want a voice in our land' - the people evicted to build Nigeria's capital",
+      "summary": "People evicted to build Nigeria's capital accuse the government of failing to fulfill its promises to them.",
+      "url": "https://www.bbc.com/news/articles/clyggr00x5vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-04T00:17:20+00:00"
+    },
+    {
+      "id": "bb97d5a2b53b9b3a510c04a5",
+      "title": "How Bombay went from a fort city to a bustling metropolis",
+      "summary": "A new exhibition charts Bombay's passage through the centuries via paintings, photographs and prints.",
+      "url": "https://www.bbc.com/news/articles/cj60k3x879ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-04T00:09:54+00:00"
+    },
+    {
+      "id": "6f4de40c0050e9b7ee87b20a",
+      "title": "Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs",
+      "summary": "PowerWash Simulator 2 has been nominated for two Bafta Games Awards - but why have mundane job games become so popular?",
+      "url": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-04T00:03:41+00:00"
+    },
+    {
+      "id": "70573206a6619cc9feef658f",
+      "title": "‘She’s a Killer’ - Daredevil: Born Again’s Vincent D’Onofrio on Karen Page’s Dark Side",
+      "summary": "Deborah Ann Woll’s back full time as Karen Page for Season 2 Daredevil: Born Again on Disney+, and her character isn’t messing around.",
+      "url": "https://www.ign.com/articles/shes-a-killer-daredevil-born-again-vincent-donofrio-karen-page-dark-side",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-04T00:00:00+00:00"
+    },
     {
       "id": "2d9fc8c9ceeaf34f0e61529e",
       "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
@@ -11,6 +77,28 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-03T23:14:04+00:00"
+    },
+    {
+      "id": "02e92a8fc4e55d39f1dc6519",
+      "title": "McDonald's Introduces a 'Pro Gamer Menu' With an Arch-Shaped Device That Will Keep You From Going AFK While You Eat, But It's Only Available in Türkiye",
+      "summary": "McDonald's has introduced a brand-new Pro Game Menu and an 'Archie' device that will keep you from going AFK while you're eating, but it's only available in Türkiye.",
+      "url": "https://www.ign.com/articles/mcdonalds-introduces-a-pro-gamer-menu-with-an-arch-shaped-device-that-will-keep-you-from-going-afk-while-you-eat-but-its-only-available-in-trkiye",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-03T23:14:02+00:00"
+    },
+    {
+      "id": "8125d4478abbf3833509f9ea",
+      "title": "Genius RollerCoaster Tycoon 2 Player Makes Longest Rollercoaster Ever Built, Manipulates Guests Into Staying Just Happy Enough to Ride It for 1.947 x 10²²⁷ Years",
+      "summary": "A RollerCoaster Tycoon 2 superfan has created what is believed to be the longest rollercoaster ever built in the game — and it’s so long that even a googol can’t be used to describe how many years it takes to ride it.",
+      "url": "https://www.ign.com/articles/genius-rollercoaster-tycoon-2-player-makes-longest-rollercoaster-ever-built-manipulates-guests-into-staying-just-happy-enough-to-ride-it-for-1947-x-10-years",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-03T23:13:13+00:00"
     },
     {
       "id": "56c0af7c6f157d6ef11367da",
@@ -264,39 +352,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-03T17:26:35+00:00"
-    },
-    {
-      "id": "85def03fb3a4dc60752fd7fb",
-      "title": "The PNY Nvidia GeForce RTX 5070 12GB Graphics Card Drops to $599 at Walmart",
-      "summary": "Get a free download voucher for Resident Evil: Requiem.",
-      "url": "https://www.ign.com/articles/pny-geforce-rtx-5070-graphics-card-deal-free-resident-evil-requiem",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-03T17:20:00+00:00"
-    },
-    {
-      "id": "d49cc393ac2a48280af04f1b",
-      "title": "This TSA-Compliant 28,000mAh 100W LiFePO4 Power Station Drops to Just $45.59",
-      "summary": "This is the smallest power station I've seen, weighing in at under 3 pounds.",
-      "url": "https://www.ign.com/articles/daran-28000mah-100w-lifepo4-power-station-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-03T17:20:00+00:00"
-    },
-    {
-      "id": "c8f0deaaa740d35ffae6e4fa",
-      "title": "11 Games in the indie.io Franchise Sale on Steam",
-      "summary": "",
-      "url": "https://www.ign.com/articles/11-games-in-the-indieio-franchise-sale-on-steam",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-03T17:00:00+00:00"
     },
     {
       "id": "b2f1130277e7abb7a63bea74",
@@ -979,17 +1034,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-14T01:00:06+00:00"
-    },
-    {
-      "id": "17329346415eab9d44dd9d6d",
-      "title": "Tech Now",
-      "summary": "Alasdair Keane climbs aboard an electric boat in Norway.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002rm37?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-02-14T01:00:00+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
