@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T13:46:14.721463+00:00",
+  "updatedAt": "2026-04-04T14:26:59.822788+00:00",
   "items": [
     {
       "id": "12bd1dd591a56ff7e82c1cb4",
@@ -10,7 +10,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-04T13:13:36+00:00"
+      "publishedAt": "2026-04-04T14:00:31+00:00"
+    },
+    {
+      "id": "cd6fa62b15e75a8034e9b7de",
+      "title": "The 10 Most Anticipated TV Shows to Stream in April",
+      "summary": "From a new take on Stranger Things to the return of Homelander, Darth Maul, and a (new) Man on Fire, here are our picks for what to stream this month.",
+      "url": "https://www.ign.com/articles/best-new-tv-shows-to-stream-in-april-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-04T13:30:00+00:00"
+    },
+    {
+      "id": "064c0ad211421ddb15f7edef",
+      "title": "Australians told to continue Easter travel plans despite fuel shortages",
+      "summary": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
+      "url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-04T12:10:10+00:00"
     },
     {
       "id": "5c2a92555115c21714ea4ec9",
@@ -33,6 +55,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-04T11:30:00+00:00"
+    },
+    {
+      "id": "6467335db9d910b9252a8368",
+      "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+      "summary": "Roberto Mazzarella has been on the run for more than a year and was living under a false name, police say.",
+      "url": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-04T11:10:28+00:00"
     },
     {
       "id": "70970f77e6e268b614d9fb4f",
@@ -407,17 +440,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-03T19:55:15+00:00"
-    },
-    {
-      "id": "9e9fad02d152f26ccc146034",
-      "title": "The 30 Best Comedy Movies of All Time",
-      "summary": "The truly great comedies stand the test of time, and sometimes change the genre forever. These are the best comedies ever made!",
-      "url": "https://www.ign.com/articles/best-comedy-movies-of-all-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-03T19:45:00+00:00"
     },
     {
       "id": "a46335106f58f9cd8696f751",
