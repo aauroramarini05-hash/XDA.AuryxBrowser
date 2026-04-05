@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-04-05T11:22:55.587188+00:00",
+  "updatedAt": "2026-04-05T12:37:48.356525+00:00",
   "items": [
+    {
+      "id": "dc4d31e651a61b86dc50fa30",
+      "title": "Eliezer Yudkowsky et Nate Soares, « cavaliers de l’Apocalypse » de l’IA, s’alarment d’un risque d’extinction de l’espèce humaine",
+      "summary": "« Les gourous de l’IA » (12/12). Les deux penseurs du Machine Intelligence Research Institute ont rédigé ensemble un ouvrage où ils nous préviennent sans ambages : si quelqu’un construit une superintelligence, elle nous tuera tous.",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/05/eliezer-yudkowsky-et-nate-soares-cavaliers-de-l-apocalypse-de-l-ia-s-alarment-d-un-risque-d-extinction-de-l-espece-humaine_6676905_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-05T12:00:19+00:00"
+    },
     {
       "id": "55c375dd89119a2b3b891776",
       "title": "Artemis II Crew Watched Project Hail Mary While in Quarantine Before Takeoff, Astronaut Gives Ryan Gosling the Thumbs Up More Than Halfway to the Moon",
@@ -44,6 +55,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-05T00:06:35+00:00"
+    },
+    {
+      "id": "33568fbfb0caeb5f02582a83",
+      "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
+      "summary": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
+      "url": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-04T23:56:55+00:00"
     },
     {
       "id": "39b9b08c34f6c0fdbecbbc4f",
@@ -783,17 +805,6 @@
       "publishedAt": "2026-03-31T19:05:41+00:00"
     },
     {
-      "id": "793bc59021a4b5b051a35e06",
-      "title": "Atos cède ses activités stratégiques à l’Etat, qui revendique une « étape » pour la « souveraineté technologique » française",
-      "summary": "L’Etat, qui avait fait une offre ferme en juin 2025, devient l’unique actionnaire de Bull, entité qui regroupe les activités stratégiques d’Atos, ainsi que des supercalculateurs utilisés pour la dissuasion nucléaire.",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/31/atos-cede-ses-activites-strategiques-a-l-etat-qui-revendique-une-etape-pour-la-souverainete-technologique-francaise_6675694_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-31T18:02:29+00:00"
-    },
-    {
       "id": "0c2e55a09ee03262e423ed99",
       "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
       "summary": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.",
@@ -858,28 +869,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-28T01:00:09+00:00"
-    },
-    {
-      "id": "ada744090d6c1bccf360377f",
-      "title": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
-      "summary": "The landmark decision in an LA court may go beyond immediate impacts on defendants Meta and YouTube.",
-      "url": "https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-28T00:54:37+00:00"
-    },
-    {
-      "id": "626d5c389644adcfa3a02ac2",
-      "title": "PS5 price hiked by £90 due to global 'pressures'",
-      "summary": "The changes will see the recommended retail price of the PS5 rise from £479.99 to £569.99 in the UK.",
-      "url": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-27T16:07:08+00:00"
     },
     {
       "id": "42aba57f5e07eae655256910",
