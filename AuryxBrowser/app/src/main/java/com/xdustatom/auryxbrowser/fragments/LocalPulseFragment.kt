@@ -21,6 +21,7 @@ import com.google.android.gms.tasks.CancellationTokenSource
 import com.google.android.material.button.MaterialButton
 import com.xdustatom.auryxbrowser.BuildConfig
 import com.xdustatom.auryxbrowser.R
+import com.xdustatom.auryxbrowser.utils.SecureGeminiKeyStore
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
@@ -146,9 +147,11 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
         val outputView = view?.findViewById<TextView>(R.id.tvAuryxAiOutput) ?: return
         outputView.text = "AuryxAI sta analizzando la richiesta..."
 
-        val apiKey = BuildConfig.GEMINI_API_KEY
+        val apiKey = BuildConfig.GEMINI_API_KEY.ifBlank {
+            SecureGeminiKeyStore.loadApiKey(requireContext())
+        }
         if (apiKey.isBlank()) {
-            outputView.text = "Chiave API Gemini non configurata. Imposta GEMINI_API_KEY in gradle.properties o variabili ambiente."
+            outputView.text = "Chiave API Gemini non configurata. Imposta GEMINI_API_KEY o configura l'asset cifrato gemini.key.enc."
             return
         }
 
