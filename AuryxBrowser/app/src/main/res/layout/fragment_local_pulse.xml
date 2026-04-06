@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:padding="16dp"
-        android:paddingBottom="150dp">
+        android:paddingBottom="260dp">
 
         <TextView
             android:layout_width="match_parent"
@@ -29,6 +29,13 @@
             android:text="Ricerca in zona con Maps + assistente AuryxAI ottimizzato per mappe"
             android:textColor="@color/text_secondary"
             android:textSize="14sp" />
+
+        <WebView
+            android:id="@+id/wvMaps"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/surface_elevated" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnDetectLocation"

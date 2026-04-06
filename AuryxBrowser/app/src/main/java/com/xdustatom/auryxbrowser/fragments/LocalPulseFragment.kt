@@ -1,12 +1,13 @@
 package com.xdustatom.auryxbrowser.fragments
 
 import android.Manifest
-import android.content.Intent
 import android.content.pm.PackageManager
 import android.location.Location
-import android.net.Uri
 import android.os.Bundle
 import android.view.View
+import android.webkit.WebChromeClient
+import android.webkit.WebView
+import android.webkit.WebViewClient
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
@@ -41,6 +42,7 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
     private lateinit var fusedLocationClient: FusedLocationProviderClient
     private val httpClient = OkHttpClient()
     private var lastLocation: Location? = null
+    private var mapsWebView: WebView? = null
 
     private val permissionLauncher = registerForActivityResult(
         ActivityResultContracts.RequestMultiplePermissions()
@@ -55,19 +57,27 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         fusedLocationClient = LocationServices.getFusedLocationProviderClient(requireActivity())
+        mapsWebView = view.findViewById<WebView>(R.id.wvMaps).apply {
+            settings.javaScriptEnabled = true
+            settings.domStorageEnabled = true
+            settings.loadsImagesAutomatically = true
+            webViewClient = WebViewClient()
+            webChromeClient = WebChromeClient()
+            loadUrl("https://www.google.com/maps")
+        }
 
         view.findViewById<MaterialButton>(R.id.btnDetectLocation).setOnClickListener { detectLocation() }
         view.findViewById<MaterialButton>(R.id.btnSearchRestaurants).setOnClickListener {
-            openMapsSearch("ristoranti vicino a me")
+            openMapsSearchInApp("ristoranti vicino a me")
         }
         view.findViewById<MaterialButton>(R.id.btnSearchFuel).setOnClickListener {
-            openMapsSearch("distributori benzina vicino")
+            openMapsSearchInApp("distributori benzina vicino")
         }
         view.findViewById<MaterialButton>(R.id.btnSearchHotels).setOnClickListener {
-            openMapsSearch("hotel vicino")
+            openMapsSearchInApp("hotel vicino")
         }
         view.findViewById<MaterialButton>(R.id.btnSearchPharmacies).setOnClickListener {
-            openMapsSearch("farmacia vicino")
+            openMapsSearchInApp("farmacia vicino")
         }
 
         view.findViewById<MaterialButton>(R.id.btnAskAuryxAi).setOnClickListener {
@@ -122,25 +132,11 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
             )
     }
 
-    private fun openMapsSearch(query: String) {
+    private fun openMapsSearchInApp(query: String) {
         val loc = lastLocation
         val anchoredQuery = if (loc != null) "$query ${loc.latitude},${loc.longitude}" else query
         val encoded = URLEncoder.encode(anchoredQuery, "UTF-8")
-
-        val mapsIntent = Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q=$encoded")).apply {
-            setPackage("com.google.android.apps.maps")
-        }
-
-        val browserIntent = Intent(
-            Intent.ACTION_VIEW,
-            Uri.parse("https://www.google.com/maps/search/?api=1&query=$encoded")
-        )
-
-        if (mapsIntent.resolveActivity(requireContext().packageManager) != null) {
-            startActivity(mapsIntent)
-        } else {
-            startActivity(browserIntent)
-        }
+        mapsWebView?.loadUrl("https://www.google.com/maps/search/?api=1&query=$encoded")
     }
 
     private fun askAuryxAi(userPrompt: String) {
@@ -169,8 +165,13 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
 
         lifecycleScope.launch {
             val response = withContext(Dispatchers.IO) {
-                runCatching { requestGeminiAnswer(systemPrompt, apiKey) }
+                val gemini = runCatching { requestGeminiAnswer(systemPrompt, apiKey) }
                     .getOrElse { "Errore AuryxAI: ${it.message ?: "sconosciuto"}" }
+                if (gemini.startsWith("AuryxAI non disponibile (429)")) {
+                    requestOpenStreetMapAdvice(userPrompt)
+                } else {
+                    gemini
+                }
             }
             outputView.text = response
         }
@@ -193,7 +194,10 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
         httpClient.newCall(request).execute().use { response ->
             val payload = response.body?.string().orEmpty()
             if (!response.isSuccessful) {
-                return "AuryxAI non disponibile (${response.code}): $payload"
+                val parsedMessage = runCatching {
+                    JSONObject(payload).optJSONObject("error")?.optString("message")
+                }.getOrNull().orEmpty().ifBlank { "servizio momentaneamente non disponibile" }
+                return "AuryxAI non disponibile (${response.code}): $parsedMessage"
             }
 
             val root = JSONObject(payload)
@@ -214,6 +218,42 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
         }
     }
 
+    private fun requestOpenStreetMapAdvice(userPrompt: String): String {
+        val loc = lastLocation
+        val query = URLEncoder.encode(userPrompt, "UTF-8")
+        val bias = if (loc != null) "&lat=${loc.latitude}&lon=${loc.longitude}" else ""
+        val url = "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&q=$query$bias"
+        val request = Request.Builder()
+            .url(url)
+            .header("User-Agent", "AuryxBrowser/1.0 (AuryxAI-FreeFallback)")
+            .build()
+
+        return runCatching {
+            httpClient.newCall(request).execute().use { response ->
+                if (!response.isSuccessful) {
+                    return@use "AuryxAI Free fallback non disponibile (${response.code})."
+                }
+                val payload = response.body?.string().orEmpty()
+                val results = JSONArray(payload)
+                if (results.length() == 0) {
+                    return@use "Nessun risultato in zona trovato con il fallback gratuito."
+                }
+                buildString {
+                    append("AuryxAI Free (OSM) - risultati utili:\n")
+                    for (i in 0 until minOf(5, results.length())) {
+                        val item = results.optJSONObject(i) ?: continue
+                        val name = item.optString("name").ifBlank { "Luogo" }
+                        val address = item.optString("display_name")
+                        append("${i + 1}. $name — $address\n")
+                    }
+                    append("\nSuggerimento: usa i pulsanti rapidi per aprire la ricerca direttamente nella mappa integrata.")
+                }.trim()
+            }
+        }.getOrElse {
+            "Fallback gratuito non disponibile: ${it.message ?: "errore sconosciuto"}"
+        }
+    }
+
     private fun hasLocationPermission(): Boolean {
         val fine = ContextCompat.checkSelfPermission(
             requireContext(),
@@ -226,5 +266,11 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
         ) == PackageManager.PERMISSION_GRANTED
 
         return fine || coarse
+    }
+
+    override fun onDestroyView() {
+        mapsWebView?.destroy()
+        mapsWebView = null
+        super.onDestroyView()
     }
 }
