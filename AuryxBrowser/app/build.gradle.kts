@@ -4,6 +4,12 @@ plugins {
     id("kotlin-parcelize")
 }
 
+val geminiApiKey: String = (
+    (project.findProperty("GEMINI_API_KEY") as String?)
+        ?: System.getenv("GEMINI_API_KEY")
+        ?: ""
+).replace("\"", "\\\"")
+
 android {
     namespace = "com.xdustatom.auryxbrowser"
     compileSdk = 34
@@ -14,6 +20,7 @@ android {
         targetSdk = 34
         versionCode = 1407006
         versionName = "1.407.06"
+        buildConfigField("String", "GEMINI_API_KEY", "\"$geminiApiKey\"")
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

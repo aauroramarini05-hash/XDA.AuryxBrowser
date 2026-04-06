@@ -310,7 +310,7 @@
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Local Pulse -->
+        <!-- Google Maps + AuryxAI -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnLocalPulse"
             android:layout_width="match_parent"
@@ -355,7 +355,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Local Pulse"
+                        android:text="Google Maps + AuryxAI"
                         android:textColor="@color/text_primary"
                         android:textSize="18sp"
                         android:textStyle="bold" />
@@ -364,7 +364,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="GPS smart searches around you, instantly"
+                        android:text="Mappe complete, ricerche in zona e assistente AI"
                         android:textColor="@color/text_secondary"
                         android:textSize="14sp" />
                 </LinearLayout>
