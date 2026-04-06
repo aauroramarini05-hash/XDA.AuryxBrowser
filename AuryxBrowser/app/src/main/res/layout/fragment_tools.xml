@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp"
-        android:paddingBottom="180dp"
+        android:paddingBottom="280dp"
         android:orientation="vertical">
 
         <TextView
@@ -310,9 +310,9 @@
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Smart URL Analyzer -->
+        <!-- Google Services Hub -->
         <com.google.android.material.card.MaterialCardView
-            android:id="@+id/btnUrlAnalyzer"
+            android:id="@+id/btnPlayServices"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
@@ -342,7 +342,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:layout_gravity="center"
-                        android:src="@drawable/ic_scan"
+                        android:src="@drawable/ic_google_services"
                         android:contentDescription="Analyzer" />
                 </com.google.android.material.card.MaterialCardView>
 
@@ -355,7 +355,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Smart URL Analyzer"
+                        android:text="Google Services Hub"
                         android:textColor="@color/text_primary"
                         android:textSize="18sp"
                         android:textStyle="bold" />
@@ -364,7 +364,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="Removes trackers and audits URL privacy"
+                        android:text="Play updates, review and services health"
                         android:textColor="@color/text_secondary"
                         android:textSize="14sp" />
                 </LinearLayout>
