@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-04-06T01:45:45.001796+00:00",
+  "updatedAt": "2026-04-06T04:38:09.684010+00:00",
   "items": [
+    {
+      "id": "e8263de719e659fba06cf613",
+      "title": "Aux Etats-Unis, des demandeurs d’emploi attaquent des logiciels de recrutement utilisant l’IA, pour discrimination par l’âge",
+      "summary": "Des milliers de candidats recalés poursuivent en justice le fournisseur de logiciels de RH Workday, lui reprochant l’élimination, par algorithme, de leur CV sur d’autres critères que leurs qualifications.",
+      "url": "https://www.lemonde.fr/emploi/article/2026/04/06/aux-etats-unis-des-demandeurs-d-emploi-attaquent-des-logiciels-de-recrutement-utilisant-l-ia-pour-discrimination-par-l-age_6677140_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-06T04:00:15+00:00"
+    },
     {
       "id": "0d8270a9cfa5f44fe60ec467",
       "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
@@ -11,17 +22,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-06T00:23:16+00:00"
-    },
-    {
-      "id": "82b9d6bcc6f628d7624565b0",
-      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
-      "summary": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
-      "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-06T00:01:55+00:00"
     },
     {
       "id": "8e2bc5408506e0992dbab3b4",
@@ -858,17 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-31T20:00:00+00:00"
-    },
-    {
-      "id": "671b90063c8c0806e9d5cb15",
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : le texte remanié par le Sénat",
-      "summary": "Emmanuel Macron souhaite faire appliquer la mesure dès septembre, mais le gouvernement redoute que la version adoptée par les sénateurs ne soit rejetée pour cause de non-conformité avec le droit européen.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/31/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-le-texte-remanie-par-le-senat_6675699_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-03-31T19:05:41+00:00"
     },
     {
       "id": "0c2e55a09ee03262e423ed99",
