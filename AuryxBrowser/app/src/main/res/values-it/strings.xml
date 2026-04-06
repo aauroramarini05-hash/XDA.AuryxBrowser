@@ -184,4 +184,18 @@
     <string name="lang_french">Français</string>
     <string name="lang_german">Deutsch</string>
     <string name="language_changed">Lingua cambiata. Riavvia per l\'effetto completo.</string>
+    <string name="settings_personalization">Personalizzazione</string>
+    <string name="settings_app_language">Lingua app</string>
+    <string name="settings_performance_mode">Modalità prestazioni</string>
+    <string name="perf_balanced">Bilanciata</string>
+    <string name="perf_balanced_desc">Equilibrio tra velocità e batteria</string>
+    <string name="perf_boost">Boost</string>
+    <string name="perf_boost_desc">Massime prestazioni e reattività</string>
+    <string name="perf_eco">Eco RAM</string>
+    <string name="perf_eco_desc">Meno RAM e carico in background</string>
+    <string name="settings_accent_theme">Tema colore</string>
+    <string name="about_changelog_title">Changelog</string>
+    <string name="about_changelog_v140706">Versione 1.407.06
+- Aggiunto supporto ai Google Play Services
+- Ottimizzazioni e bug risolti</string>
 </resources>

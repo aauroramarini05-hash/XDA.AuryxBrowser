@@ -71,11 +71,19 @@ class PageInfoFragment : Fragment() {
         binding.tvPageUrl.text = pageUrl.ifEmpty { "No page loaded" }
         binding.tvPageTitle.text = pageTitle.ifEmpty { "Untitled" }
 
+        val isEmpty = pageUrl.isBlank()
         val isHttps = pageUrl.startsWith("https://")
-        binding.tvHttpsStatus.text = if (isHttps) "Secure (HTTPS)" else "Not Secure (HTTP)"
+        binding.tvHttpsStatus.text = when {
+            isEmpty -> "Unknown"
+            isHttps -> "Secure (HTTPS)"
+            else -> "Not Secure (HTTP)"
+        }
         binding.tvHttpsStatus.setTextColor(
-            if (isHttps) ContextCompat.getColor(requireContext(), R.color.neon_green)
-            else ContextCompat.getColor(requireContext(), android.R.color.holo_red_light)
+            when {
+                isEmpty -> ContextCompat.getColor(requireContext(), R.color.text_secondary)
+                isHttps -> ContextCompat.getColor(requireContext(), R.color.neon_green)
+                else -> ContextCompat.getColor(requireContext(), android.R.color.holo_red_light)
+            }
         )
 
         binding.tvLoadTime.text = if (loadTime > 0) "${loadTime}ms" else "N/A"
