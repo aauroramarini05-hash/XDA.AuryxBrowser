@@ -1077,6 +1077,11 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+
+    fun getCurrentPageUrl(): String {
+        return webView.url ?: urlBar.text?.toString().orEmpty()
+    }
+
     fun buildPageInfoFragment(): com.xdustatom.auryxbrowser.fragments.PageInfoFragment {
         return com.xdustatom.auryxbrowser.fragments.PageInfoFragment.newInstance(
             pageUrl = webView.url ?: urlBar.text?.toString().orEmpty(),

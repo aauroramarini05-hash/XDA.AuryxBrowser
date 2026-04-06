@@ -24,6 +24,7 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
             view.findViewById<View>(R.id.btnDeviceInfo),
             view.findViewById<View>(R.id.btnPerformance),
             view.findViewById<View>(R.id.btnPageInfo),
+            view.findViewById<View>(R.id.btnUrlAnalyzer),
             view.findViewById<View>(R.id.btnDownloads)
         )
 
@@ -41,6 +42,10 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
             } else {
                 openTool(PageInfoFragment.newInstance())
             }
+        }
+        view.findViewById<View>(R.id.btnUrlAnalyzer).setOnClickListener {
+            val currentUrl = (activity as? MainActivity)?.getCurrentPageUrl().orEmpty()
+            openTool(UrlAnalyzerFragment.newInstance(currentUrl))
         }
         view.findViewById<View>(R.id.btnDownloads).setOnClickListener { openTool(DownloadsFragment()) }
     }
