@@ -4,6 +4,7 @@ import android.app.Application
 import android.content.Context
 import com.xdustatom.auryxbrowser.utils.LocaleHelper
 import com.xdustatom.auryxbrowser.utils.PreferencesManager
+import com.xdustatom.auryxbrowser.playservices.GoogleServices
 
 class AuryxApplication : Application() {
     
@@ -14,6 +15,7 @@ class AuryxApplication : Application() {
         super.onCreate()
         instance = this
         preferencesManager = PreferencesManager(this)
+        GoogleServices.init(this)
     }
 
     override fun attachBaseContext(base: Context) {

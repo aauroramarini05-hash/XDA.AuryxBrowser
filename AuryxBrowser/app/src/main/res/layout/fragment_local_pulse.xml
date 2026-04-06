@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_dark"
+    android:fillViewport="true"
+    android:clipToPadding="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:paddingBottom="150dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Local Pulse"
+            android:textColor="@color/text_primary"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvLocationStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Attiva la posizione per usare ricerche locali istantanee"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnDetectLocation"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="14dp"
+            android:text="Rileva posizione GPS"
+            android:textAllCaps="false"
+            android:textColor="@color/background_dark"
+            app:backgroundTint="@color/neon_green" xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnSearchNearby"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="10dp"
+            android:text="Cerca vicino a me"
+            android:textAllCaps="false"
+            android:textColor="@color/text_primary"
+            app:backgroundTint="@color/surface_elevated" xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnFuel"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="10dp"
+            android:text="Trova benzina vicino"
+            android:textAllCaps="false"
+            android:textColor="@color/text_primary"
+            app:backgroundTint="@color/surface_elevated" xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnPharmacy"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="10dp"
+            android:text="Trova farmacia vicina"
+            android:textAllCaps="false"
+            android:textColor="@color/text_primary"
+            app:backgroundTint="@color/surface_elevated" xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+    </LinearLayout>
+</ScrollView>

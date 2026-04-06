@@ -4,12 +4,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
-    android:background="@color/background_dark">
+    android:background="@color/background_dark"
+    android:clipToPadding="false">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp"
+        android:paddingBottom="280dp"
         android:orientation="vertical">
 
         <TextView
@@ -308,6 +310,76 @@
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
+        <!-- Local Pulse -->
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/btnLocalPulse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:clickable="true"
+            android:focusable="true"
+            app:cardBackgroundColor="@color/surface_elevated"
+            app:cardCornerRadius="18dp"
+            app:cardElevation="2dp"
+            app:strokeColor="@color/neon_green_dim"
+            app:strokeWidth="1dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="52dp"
+                    android:layout_height="52dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    app:cardCornerRadius="26dp"
+                    app:cardBackgroundColor="@color/background_dark"
+                    app:cardElevation="0dp">
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_local_pulse"
+                        android:contentDescription="Analyzer" />
+                </com.google.android.material.card.MaterialCardView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="68dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Local Pulse"
+                        android:textColor="@color/text_primary"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:text="GPS smart searches around you, instantly"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="14sp" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_chevron"
+                    android:contentDescription="Open" />
+
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+
         <!-- Downloads -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnDownloads"
@@ -381,6 +453,7 @@
         <!-- Assistant -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/btnAssistant"
+            android:visibility="gone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
