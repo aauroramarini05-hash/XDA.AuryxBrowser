@@ -1,11 +1,14 @@
 package com.xdustatom.auryxbrowser.fragments
 
 import android.Manifest
+import android.content.Intent
 import android.content.pm.PackageManager
 import android.location.Location
+import android.net.Uri
 import android.os.Bundle
 import android.view.View
 import android.webkit.WebChromeClient
+import android.webkit.WebResourceRequest
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.EditText
@@ -43,6 +46,7 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
     private val httpClient = OkHttpClient()
     private var lastLocation: Location? = null
     private var mapsWebView: WebView? = null
+    private var mapExpanded = false
 
     private val permissionLauncher = registerForActivityResult(
         ActivityResultContracts.RequestMultiplePermissions()
@@ -61,12 +65,33 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
             settings.javaScriptEnabled = true
             settings.domStorageEnabled = true
             settings.loadsImagesAutomatically = true
-            webViewClient = WebViewClient()
+            settings.allowFileAccess = false
+            settings.allowContentAccess = true
+            settings.mediaPlaybackRequiresUserGesture = true
+            webViewClient = object : WebViewClient() {
+                override fun shouldOverrideUrlLoading(view: WebView, request: WebResourceRequest): Boolean {
+                    return handleSpecialUrl(view, request.url.toString())
+                }
+
+                override fun shouldOverrideUrlLoading(view: WebView, url: String): Boolean {
+                    return handleSpecialUrl(view, url)
+                }
+            }
             webChromeClient = WebChromeClient()
-            loadUrl("https://www.google.com/maps")
+            loadUrl("https://www.google.com/maps?hl=it")
         }
 
         view.findViewById<MaterialButton>(R.id.btnDetectLocation).setOnClickListener { detectLocation() }
+        view.findViewById<MaterialButton>(R.id.btnToggleMapSize).setOnClickListener {
+            mapExpanded = !mapExpanded
+            val newHeight = if (mapExpanded) {
+                (resources.displayMetrics.heightPixels * 0.72f).toInt()
+            } else {
+                (320 * resources.displayMetrics.density).toInt()
+            }
+            mapsWebView?.layoutParams = mapsWebView?.layoutParams?.apply { height = newHeight }
+            (it as MaterialButton).text = if (mapExpanded) "Riduci mappa" else "Espandi mappa"
+        }
         view.findViewById<MaterialButton>(R.id.btnSearchRestaurants).setOnClickListener {
             openMapsSearchInApp("ristoranti vicino a me")
         }
@@ -136,7 +161,7 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
         val loc = lastLocation
         val anchoredQuery = if (loc != null) "$query ${loc.latitude},${loc.longitude}" else query
         val encoded = URLEncoder.encode(anchoredQuery, "UTF-8")
-        mapsWebView?.loadUrl("https://www.google.com/maps/search/?api=1&query=$encoded")
+        mapsWebView?.loadUrl("https://www.google.com/maps/search/$encoded?hl=it")
     }
 
     private fun askAuryxAi(userPrompt: String) {
@@ -266,6 +291,46 @@ class LocalPulseFragment : Fragment(R.layout.fragment_local_pulse) {
         ) == PackageManager.PERMISSION_GRANTED
 
         return fine || coarse
+    }
+
+    private fun handleSpecialUrl(webView: WebView, rawUrl: String): Boolean {
+        if (rawUrl.startsWith("http://") || rawUrl.startsWith("https://")) {
+            return false
+        }
+
+        if (rawUrl.startsWith("intent://")) {
+            return runCatching {
+                val intent = Intent.parseUri(rawUrl, Intent.URI_INTENT_SCHEME)
+                val fallbackUrl = intent.getStringExtra("browser_fallback_url")
+                when {
+                    !fallbackUrl.isNullOrBlank() -> {
+                        webView.loadUrl(fallbackUrl)
+                        true
+                    }
+                    intent.dataString?.startsWith("http") == true -> {
+                        webView.loadUrl(intent.dataString!!)
+                        true
+                    }
+                    else -> {
+                        val reconstructed = rawUrl
+                            .substringAfter("intent://")
+                            .substringBefore("#Intent")
+                        webView.loadUrl("https://$reconstructed")
+                        true
+                    }
+                }
+            }.getOrDefault(true)
+        }
+
+        if (rawUrl.startsWith("geo:")) {
+            val query = Uri.parse(rawUrl).getQueryParameter("q").orEmpty()
+            val encoded = URLEncoder.encode(query, "UTF-8")
+            webView.loadUrl("https://www.google.com/maps/search/$encoded?hl=it")
+            return true
+        }
+
+        Toast.makeText(requireContext(), "Link non supportato in modalità integrata", Toast.LENGTH_SHORT).show()
+        return true
     }
 
     override fun onDestroyView() {
