@@ -194,4 +194,8 @@
     <string name="perf_eco">Eco RAM</string>
     <string name="perf_eco_desc">Lower memory and background load</string>
     <string name="settings_accent_theme">Accent Theme</string>
+    <string name="about_changelog_title">Changelog</string>
+    <string name="about_changelog_v140706">Versione 1.407.06
+- Aggiunto supporto ai Google Play Services
+- Ottimizzazioni e bug risolti</string>
 </resources>

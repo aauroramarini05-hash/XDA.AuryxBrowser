@@ -54,6 +54,7 @@ import com.xdustatom.auryxbrowser.fragments.HistoryFragment
 import com.xdustatom.auryxbrowser.fragments.NewsFragment
 import com.xdustatom.auryxbrowser.fragments.SettingsFragment
 import com.xdustatom.auryxbrowser.remote.RemoteConfigRepository
+import com.xdustatom.auryxbrowser.playservices.GoogleServices
 import com.xdustatom.auryxbrowser.tabs.BrowserTab
 import com.xdustatom.auryxbrowser.tabs.TabsAdapter
 import com.xdustatom.auryxbrowser.tabs.TabsRepository
@@ -966,6 +967,13 @@ class MainActivity : AppCompatActivity() {
     private fun checkForUpdates() {
         val currentVersion = BuildConfig.VERSION_NAME
 
+        val googleServices = GoogleServices.get()
+        val usedInAppUpdate = googleServices?.startImmediateUpdateIfAvailable(this) == true
+        if (usedInAppUpdate) {
+            Toast.makeText(this, "Checking updates via Google Play…", Toast.LENGTH_SHORT).show()
+            return
+        }
+
         if (!isNetworkAvailable()) {
             Toast.makeText(this, "No internet connection", Toast.LENGTH_SHORT).show()
             return
@@ -1123,6 +1131,7 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         webView.onResume()
+        GoogleServices.get()?.resumeImmediateUpdateIfNeeded(this)
     }
 
     override fun onBackPressed() {
