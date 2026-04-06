@@ -24,7 +24,7 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
             view.findViewById<View>(R.id.btnDeviceInfo),
             view.findViewById<View>(R.id.btnPerformance),
             view.findViewById<View>(R.id.btnPageInfo),
-            view.findViewById<View>(R.id.btnPlayServices),
+            view.findViewById<View>(R.id.btnLocalPulse),
             view.findViewById<View>(R.id.btnDownloads)
         )
 
@@ -43,8 +43,8 @@ class AuryxToolsFragment : Fragment(R.layout.fragment_tools) {
                 openTool(PageInfoFragment.newInstance())
             }
         }
-        view.findViewById<View>(R.id.btnPlayServices).setOnClickListener {
-            openTool(PlayServicesFragment())
+        view.findViewById<View>(R.id.btnLocalPulse).setOnClickListener {
+            openTool(LocalPulseFragment())
         }
         view.findViewById<View>(R.id.btnDownloads).setOnClickListener { openTool(DownloadsFragment()) }
     }

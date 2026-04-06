@@ -310,9 +310,9 @@
             </RelativeLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Google Services Hub -->
+        <!-- Local Pulse -->
         <com.google.android.material.card.MaterialCardView
-            android:id="@+id/btnPlayServices"
+            android:id="@+id/btnLocalPulse"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
@@ -342,7 +342,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:layout_gravity="center"
-                        android:src="@drawable/ic_google_services"
+                        android:src="@drawable/ic_local_pulse"
                         android:contentDescription="Analyzer" />
                 </com.google.android.material.card.MaterialCardView>
 
@@ -355,7 +355,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Google Services Hub"
+                        android:text="Local Pulse"
                         android:textColor="@color/text_primary"
                         android:textSize="18sp"
                         android:textStyle="bold" />
@@ -364,7 +364,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="Play updates, review and services health"
+                        android:text="GPS smart searches around you, instantly"
                         android:textColor="@color/text_secondary"
                         android:textSize="14sp" />
                 </LinearLayout>
