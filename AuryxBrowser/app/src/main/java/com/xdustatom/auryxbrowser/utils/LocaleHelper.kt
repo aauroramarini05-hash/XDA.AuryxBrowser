@@ -36,7 +36,7 @@ object LocaleHelper {
      */
     fun getLanguage(context: Context): String {
         val prefs = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
-        return prefs.getString(KEY_LANGUAGE, ENGLISH) ?: ENGLISH
+        return prefs.getString(KEY_LANGUAGE, "") ?: ""
     }
 
     /**
@@ -59,6 +59,10 @@ object LocaleHelper {
      * Set a specific locale
      */
     fun setLocale(context: Context, languageCode: String): Context {
+        if (languageCode.isBlank()) {
+            return context
+        }
+
         val locale = Locale(languageCode)
         Locale.setDefault(locale)
 
