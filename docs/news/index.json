@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-04-07T08:06:45.078202+00:00",
+  "updatedAt": "2026-04-07T10:00:46.127105+00:00",
   "items": [
+    {
+      "id": "1cc1b94bcc440ba35aab2189",
+      "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
+      "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-07T09:55:07+00:00"
+    },
     {
       "id": "af52a65a2e5f06e358c33b53",
       "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
@@ -35,14 +46,14 @@
       "publishedAt": "2026-04-07T06:41:24+00:00"
     },
     {
-      "id": "2d0e97a01e707903805686b6",
+      "id": "2b552c36eaa360ba9b3d228c",
       "title": "China is winning one AI race, the US another - but either might pull ahead",
       "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
       "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC World",
+      "source": "BBC Technology",
       "country": "uk",
-      "category": "general",
+      "category": "technology",
       "publishedAt": "2026-04-07T05:13:12+00:00"
     },
     {
@@ -55,17 +66,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-07T02:00:00+00:00"
-    },
-    {
-      "id": "cb8b5097b8cc2f3bc9f44010",
-      "title": "JD Vance due in Hungary to back Orban's re-election bid",
-      "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
-      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-07T01:45:41+00:00"
     },
     {
       "id": "1d503397af728db141f9790f",
@@ -431,17 +431,6 @@
       "publishedAt": "2026-04-06T15:40:35+00:00"
     },
     {
-      "id": "21d3e2c7fe897e8dedb9a67d",
-      "title": "DR Congo agrees to take deportees from the US",
-      "summary": "The country will start receiving deportees from this month but has not said how many they will accept.",
-      "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-06T13:25:37+00:00"
-    },
-    {
       "id": "db1978614028fd829819c58e",
       "title": "Young gray whale dies after swimming up river in Washington state",
       "summary": "Hunger is a likely reason the whale, dubbed Willapa Willy, travelled inland, experts say.",
@@ -495,17 +484,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-06T04:00:07+00:00"
-    },
-    {
-      "id": "f2c312540db168178dde83dd",
-      "title": "US Secret Service investigates reports of gunfire near White House",
-      "summary": "Officials said \"a heightened security posture is in place\", but no injuries were reported and no suspects had been identified.",
-      "url": "https://www.bbc.com/news/articles/cge0213dyj5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-06T00:40:04+00:00"
     },
     {
       "id": "c61ce607e6d28a8ab8a9ad52",
@@ -882,17 +860,6 @@
       "publishedAt": "2026-03-31T02:00:24+00:00"
     },
     {
-      "id": "3f8f6cc058e62692a74816ea",
-      "title": "Kris Jenner's image spreads in Chinese social media good luck trend",
-      "summary": "Hundreds of thousands of posts have been shared in the past three days as users hope for prosperity",
-      "url": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-30T12:59:23+00:00"
-    },
-    {
       "id": "13ee7ab4c10fe4964299a2fd",
       "title": "Tech Life",
       "summary": "Humans are returning to the Moon - hear about it on the BBC’s space podcast, 13 Minutes",
@@ -902,28 +869,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-30T05:00:00+00:00"
-    },
-    {
-      "id": "b293900366c933e75cc07830",
-      "title": "Why Chinese tech companies are racing to set up in Hong Kong",
-      "summary": "Mainland firms are using the territory to test products and as a springboard for global expansion.",
-      "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-29T23:07:12+00:00"
-    },
-    {
-      "id": "80999080a6a53289f11dc212",
-      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-      "summary": "More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.",
-      "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-29T23:07:04+00:00"
     },
     {
       "id": "5bbe7fdb12b57fa61f7bb1f9",
