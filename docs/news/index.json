@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-04-07T06:14:29.767089+00:00",
+  "updatedAt": "2026-04-07T08:06:45.078202+00:00",
   "items": [
+    {
+      "id": "af52a65a2e5f06e358c33b53",
+      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
+      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-07T07:29:55+00:00"
+    },
+    {
+      "id": "851e272259807389f4e005eb",
+      "title": "Australia's most-decorated living soldier charged over alleged war crimes",
+      "summary": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
+      "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-07T07:19:27+00:00"
+    },
+    {
+      "id": "1add832481c79231b217b22c",
+      "title": "Locals dispute Nigerian army claim of 31 rescued after Easter attack",
+      "summary": "Five civilians were killed by the gunmen and their bodies were recovered at the scene, the army said.",
+      "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-07T06:41:24+00:00"
+    },
     {
       "id": "2d0e97a01e707903805686b6",
       "title": "China is winning one AI race, the US another - but either might pull ahead",
@@ -90,8 +123,19 @@
       "publishedAt": "2026-04-06T23:15:00+00:00"
     },
     {
-      "id": "7968969ead1268dc69d4227e",
-      "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
+      "id": "2b2362df1bf85da46857faf0",
+      "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
+      "summary": "Almost nothing was known about the Royal Hill casino until the Thai military took control of it in December.",
+      "url": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-06T23:09:23+00:00"
+    },
+    {
+      "id": "8cd8f481cda0b9ca42e75458",
+      "title": "Little sign of breakthrough as Trump's Iran deadline nears",
       "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
       "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -442,17 +486,6 @@
       "publishedAt": "2026-04-06T09:59:40+00:00"
     },
     {
-      "id": "2fa20a3b3b64ed5d534687dc",
-      "title": "Nigerian army rescues 31 held after Easter church attack",
-      "summary": "Five civilians were killed by the gunmen and their bodies were recovered at the scene, the army said.",
-      "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-06T09:08:45+00:00"
-    },
-    {
       "id": "e8263de719e659fba06cf613",
       "title": "Aux Etats-Unis, des demandeurs d’emploi attaquent des logiciels de recrutement utilisant l’IA, pour discrimination par l’âge",
       "summary": "Des milliers de candidats recalés poursuivent en justice le fournisseur de logiciels de RH Workday, lui reprochant l’élimination, par algorithme, de leur CV sur d’autres critères que leurs qualifications.",
@@ -486,17 +519,6 @@
       "publishedAt": "2026-04-05T23:32:20+00:00"
     },
     {
-      "id": "597018d035dd7b52aad0d21d",
-      "title": "Spain's huge pork industry seeks salvation from swine fever threat",
-      "summary": "Countries around the world, including the US, have already stopped imports over the outbreak.",
-      "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-05T23:19:20+00:00"
-    },
-    {
       "id": "8e2bc5408506e0992dbab3b4",
       "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
       "summary": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs.",
@@ -506,17 +528,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-05T22:07:40+00:00"
-    },
-    {
-      "id": "68a788281c41f6e4974f8730",
-      "title": "Two protests, two elections: How Nepal's Gen Z succeeded where Bangladesh's stumbled",
-      "summary": "How did a youth movement triumph in one country but fall so short in another?",
-      "url": "https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-05T22:07:30+00:00"
     },
     {
       "id": "24dfb3112020e9055e3d2726",
@@ -550,17 +561,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-05T12:00:02+00:00"
-    },
-    {
-      "id": "4749b2e5f37367ebf113747c",
-      "title": "ICE wanted to build a detention centre - this small farming town said no",
-      "summary": "Residents say they support the administration's immigration agenda - but not its plans to build a detention centre in their backyard.",
-      "url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-05T00:06:35+00:00"
     },
     {
       "id": "3dd284caba32107dd5127bd1",
