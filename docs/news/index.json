@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-04-08T13:02:20.183031+00:00",
+  "updatedAt": "2026-04-08T15:02:37.233906+00:00",
   "items": [
+    {
+      "id": "0bf1bf659f1b33c12976799f",
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "summary": "Crude prices tumbled by more than 15% on the conditional pause but remain far higher than before the war.",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-08T14:16:07+00:00"
+    },
     {
       "id": "96d0eef2bb59c033555ea974",
       "title": "What we know about the two-week ceasefire between the US and Iran",
@@ -10,7 +21,84 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-08T12:36:05+00:00"
+      "publishedAt": "2026-04-08T14:14:08+00:00"
+    },
+    {
+      "id": "0a8fa5db1e571c2b12a86b88",
+      "title": "Koshmar: The Last Reverie Is a Fast-Paced Action-Adventure With a Mass Effect-Like Morality System",
+      "summary": "Koshmar: The Last Reverie has the striking aesthetic of Alice: Madness Returns, Mass Effect-era morality systems, and the third-person hack-and-slash action of your favorite character action game from the past few generations, brought into modern day with roguelike elements.",
+      "url": "https://www.ign.com/articles/koshmar-the-last-reverie-is-a-fast-paced-action-adventure-with-a-mass-effect-like-morality-system",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-08T14:00:00+00:00"
+    },
+    {
+      "id": "412de01aecdf291cd08f1f9d",
+      "title": "James Bond Game 007 First Light Delayed on Nintendo Switch Until 'Later This Summer'",
+      "summary": "IO Interactive has delayed the Nintendo Switch 2 version of its upcoming James Bond game, 007 First Light.",
+      "url": "https://www.ign.com/articles/james-bond-game-007-first-light-delayed-on-nintendo-switch-until-later-this-summer",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-08T13:41:05+00:00"
+    },
+    {
+      "id": "f18cb32a9e74b6be07a6fe22",
+      "title": "Israel carries out large wave of air strikes across Lebanon",
+      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley hours after a US-Iran ceasefire was announced.",
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-08T13:13:46+00:00"
+    },
+    {
+      "id": "789b599a6c1e5d6795443dbb",
+      "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
+      "summary": "The government usually refrains from commenting on the participation of its citizens in the conflict.",
+      "url": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-08T13:07:57+00:00"
+    },
+    {
+      "id": "a4402f9c7889738670b25f11",
+      "title": "No Man's Sky Xeno Arena Update Channels Pokémon, Lets You Raise, Train and Battle the Alien Creatures Found Across the Universe",
+      "summary": "No Man’s Sky’s latest update, Xeno Arena, is doing its best Pokémon impression by letting you raise, train and battle the alien creatures found across the universe. Here's everything you need to know.",
+      "url": "https://www.ign.com/articles/no-mans-sky-xeno-arena-update-channels-pokemon-lets-you-raise-train-and-battle-the-alien-creatures-found-across-the-universe",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-08T13:01:57+00:00"
+    },
+    {
+      "id": "04e0cf4aa51c842d5dfaab18",
+      "title": "Faces of Death Review",
+      "summary": "Review: Faces of Death is a meta remake that revisits a controversial classic with a modern twist.",
+      "url": "https://www.ign.com/articles/faces-of-death-remake-2026-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-08T13:00:00+00:00"
+    },
+    {
+      "id": "8b772cdfede4809d07afd3ed",
+      "title": "Forza Horizon 6 Is Every Japanese Driving Fantasy Rolled into One: Hands-On Preview",
+      "summary": "The Forza Horizon series took a long time to land in Japan. After a few days in its meticulously modelled map, I’m doubtful I’ll ever want to leave.",
+      "url": "https://www.ign.com/articles/forza-horizon-6-is-every-japanese-driving-fantasy-rolled-into-one-hands-on-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-08T13:00:00+00:00"
     },
     {
       "id": "4e6b485255cad8728f015561",
@@ -24,15 +112,26 @@
       "publishedAt": "2026-04-08T12:30:04+00:00"
     },
     {
-      "id": "f18cb32a9e74b6be07a6fe22",
-      "title": "Israel carries out large wave of air strikes across Lebanon",
-      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley hours after a US-Iran ceasefire was announced.",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "id": "8fc794aede78c8dc9104c367",
+      "title": "Nintendo Removing 'Thousands' of Super Mario Maker 2 Levels, Tells Fans They're 'Advertising'",
+      "summary": "Players still plugged into Super Mario Maker 2 have accused Nintendo of suddenly removing \"thousands\" of user-made levels, which the company has apparently claimed broke its rules on advertising.",
+      "url": "https://www.ign.com/articles/nintendo-removing-thousands-of-super-mario-maker-2-levels-tells-fans-theyre-advertising",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-08T12:29:14+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-08T12:21:01+00:00"
+    },
+    {
+      "id": "1e979f17d71e50b552f3cc4a",
+      "title": "Dungeons & Dragons Left Impressed After Astronaut Shows How to Roll a D20 in Zero-G, Proving 'Roleplaying in Space Is Absolutely Possible'",
+      "summary": "While we still can't get enough of the Artemis II crew's record-breaking mission to the Moon, an astronaut who flew on an earlier mission has proven that you can roll a D20 in space — despite the zero gravity.",
+      "url": "https://www.ign.com/articles/dungeons-dragons-left-impressed-after-astronaut-shows-how-to-roll-a-d20-in-zero-g-proving-roleplaying-in-space-is-absolutely-possible",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-08T12:13:16+00:00"
     },
     {
       "id": "f3855dc22f3e1b5656d0c06c",
@@ -266,17 +365,6 @@
       "publishedAt": "2026-04-08T08:21:40+00:00"
     },
     {
-      "id": "0bf1bf659f1b33c12976799f",
-      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-08T08:15:36+00:00"
-    },
-    {
       "id": "0e2dea0d1ee27f5b180be8bb",
       "title": "'This Is the First Step Outside of What Happens in the Book and Movie' — Project Hail Mary Video Game Has a New, Original Story From Andy Weir",
       "summary": "Project Hail Mary now has a video game, with a new, original story from author Andy Weir.",
@@ -376,61 +464,6 @@
       "publishedAt": "2026-04-08T01:01:00+00:00"
     },
     {
-      "id": "d79604441b783eefbb57c70f",
-      "title": "Samsung's Premium 65\" S90 4K OLED TV Drops to Just $1,065 with Free Delivery",
-      "summary": "The best gaming TV.",
-      "url": "https://www.ign.com/articles/best-samsung-s90-4k-oled-tv-deal-amazon-spring-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-08T00:45:00+00:00"
-    },
-    {
-      "id": "212061027a3dd8a7a1092f5b",
-      "title": "Get a 16\" 1080p Portable USB Monitor for Your Laptop or Handheld Gaming PC for Just $44 (or Less)",
-      "summary": "Use as a second monitor for your laptop or a travel-friendly display for your Nintendo Switch.",
-      "url": "https://www.ign.com/articles/best-usb-portable-monitor-deal-in-april",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-08T00:40:00+00:00"
-    },
-    {
-      "id": "3a8a96b3cd6ddab1bc4f7375",
-      "title": "The $17 JLab Go Air Pop+ True Wireless Earbuds Include a Charging Case With Built-In USB Cable",
-      "summary": "Supports Android features like Google Fast Pair, Find My Device, and Bluetooth Multipoint.",
-      "url": "https://www.ign.com/articles/jlab-go-air-pop-true-wireless-earbuds-deal-for-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-08T00:40:00+00:00"
-    },
-    {
-      "id": "742a5dd5f44d753fc0f93a91",
-      "title": "The Popular AstroAI S8 Cordless Car Jump Starter Drops Below $20",
-      "summary": "An essential part of your car's emergency kit.",
-      "url": "https://www.ign.com/articles/astroai-s8-cordless-car-jump-starter-deal-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-08T00:40:00+00:00"
-    },
-    {
-      "id": "27628507e9de1d7393051198",
-      "title": "Save Nearly 40% Off a Brand New Pair of Sony WH-1000XM5 Noise Canceling Wireless Headphones",
-      "summary": "The best noise canceling over-ear headphones under $300.",
-      "url": "https://www.ign.com/articles/sony-wh1000xm5-noise-canceling-wireless-headphone-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-07T23:20:00+00:00"
-    },
-    {
       "id": "bf4f119b1db0c1ece97bfbbd",
       "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
       "summary": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president.",
@@ -462,28 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-07T22:29:28+00:00"
-    },
-    {
-      "id": "a4b37324ab6c48fb56c5cc34",
-      "title": "The Studio Season 2 Will Give Madonna the Big Screen Biopic Real Life Never Did",
-      "summary": "Back in 2023, Universal Pictures pulled the plug on a Madonna biopic that the Material Girl herself would have directed starring Ozark’s Julia Garner as the pop star. Now, the biopic will be a plotline in Season 2 of The Studio, with both Madonna and Garner appearing in the show as themselves.",
-      "url": "https://www.ign.com/articles/the-studio-season-2-will-give-madonna-the-big-screen-biopic-real-life-never-did",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-07T22:17:19+00:00"
-    },
-    {
-      "id": "5e0caf36c6f5902ca823e46f",
-      "title": "What Upcoming Game are you Most Excited for?",
-      "summary": "",
-      "url": "https://www.ign.com/articles/what-upcoming-game-are-you-most-excited-for",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-07T21:34:34+00:00"
     },
     {
       "id": "1c2fc542d26e61b8c34ea15d",
@@ -846,7 +857,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-03T05:30:08+00:00"
+      "publishedAt": "2026-04-03T05:30:06+00:00"
     },
     {
       "id": "67129c286dd206393117241d",
