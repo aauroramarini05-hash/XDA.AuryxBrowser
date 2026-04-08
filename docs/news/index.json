@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-08T08:07:30.531025+00:00",
+  "updatedAt": "2026-04-08T10:00:46.386150+00:00",
   "items": [
+    {
+      "id": "ebe726d75927c4b303ac6308",
+      "title": "La Grèce va interdire les réseaux sociaux aux moins de 15 ans dès 2027",
+      "summary": "Le premier ministre grec, Kyriakos Mitsotakis, a annoncé l’interdiction à venir dans une vidéo publiée sur Tiktok, évoquant une mesure « difficile mais nécessaire ».",
+      "url": "https://www.lemonde.fr/international/article/2026/04/08/la-grece-va-interdire-les-reseaux-sociaux-aux-moins-de-15-ans-des-2027_6678240_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-08T09:46:28+00:00"
+    },
+    {
+      "id": "4a96e7a86b8ce6ce1a1d0c10",
+      "title": "Des hackeurs travaillant pour l’Iran ont perturbé des sites industriels américains",
+      "summary": "Les organisations victimes de ces cyberattaques œuvrent notamment dans le secteur de l’eau et de l’énergie. Cette opération semble témoigner d’une montée en gamme des cyberattaques iraniennes visant les Etats-Unis.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/08/des-hackeurs-lies-a-l-iran-ont-perturbe-des-sites-industriels-americains_6678228_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-08T09:05:09+00:00"
+    },
+    {
+      "id": "54cf6602f7faa77f7804d526",
+      "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
+      "summary": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire between the US and Iran.",
+      "url": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-08T08:22:15+00:00"
+    },
+    {
+      "id": "022bf250c05595b206b2d5cf",
+      "title": "IA : tensions autour de la proposition de loi sur le droit d’auteur",
+      "summary": "La start-up d’intelligence artificielle Mistral AI est « très inquiète » du texte de la sénatrice Laure Darcos. Le gouvernement rend un avis de « sagesse », ni favorable ni défavorable.",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/08/intelligence-artificielle-tensions-autour-de-la-proposition-de-loi-sur-le-droit-d-auteur_6678221_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-08T08:21:40+00:00"
+    },
+    {
+      "id": "0bf1bf659f1b33c12976799f",
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-08T08:15:36+00:00"
+    },
     {
       "id": "0e2dea0d1ee27f5b180be8bb",
       "title": "'This Is the First Step Outside of What Happens in the Book and Movie' — Project Hail Mary Video Game Has a New, Original Story From Andy Weir",
@@ -57,17 +112,6 @@
       "publishedAt": "2026-04-08T03:30:55+00:00"
     },
     {
-      "id": "ce2fd8497065b5a98e6486c2",
-      "title": "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz",
-      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-08T03:24:53+00:00"
-    },
-    {
       "id": "96d0eef2bb59c033555ea974",
       "title": "What we know about the two-week ceasefire between the US and Iran",
       "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
@@ -88,6 +132,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-08T02:33:45+00:00"
+    },
+    {
+      "id": "297034b7172a67b7b912c4e6",
+      "title": "Top Australian soldier charged with war crimes to remain in jail on remand",
+      "summary": "Ben Roberts-Smith faces five charges of the war crime of murder, which has a penalty of life in prison.",
+      "url": "https://www.bbc.com/news/articles/c1l9qemvgppo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-08T02:24:33+00:00"
     },
     {
       "id": "f42671637fd7e973e91bd734",
@@ -176,6 +231,28 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-07T23:15:33+00:00"
+    },
+    {
+      "id": "7ec2eee92ee44aa07e7563b3",
+      "title": "The US refinery now processing Venezuelan oil",
+      "summary": "Chevron is now importing 250,000 barrels of crude per day from Venezuela.",
+      "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-07T23:00:31+00:00"
+    },
+    {
+      "id": "0793d7d0f86ef42c908e55c1",
+      "title": "Newlywed wife of US soldier freed by ICE after detention at military base",
+      "summary": "Annie Ramos, an undocumented immigrant who came to the US as a toddler, had gone to the base to complete paperwork so the couple could move in together.",
+      "url": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-07T22:29:28+00:00"
     },
     {
       "id": "a4b37324ab6c48fb56c5cc34",
@@ -695,17 +772,6 @@
       "publishedAt": "2026-04-04T12:00:20+00:00"
     },
     {
-      "id": "70970f77e6e268b614d9fb4f",
-      "title": "What we know so far about the search for missing US airman in Iran",
-      "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
-      "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-04T11:00:34+00:00"
-    },
-    {
       "id": "d186bc239ce83c15e1cef7f0",
       "title": "Quand les tirets trahissent l’usage de ChatGPT : « Il n’a même pas fait l’effort de retirer le tiret cadratin »",
       "summary": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, la présence de tirets longs dans un texte, qui témoignerait du recours par son auteur à l’intelligence artificielle.",
@@ -860,17 +926,6 @@
       "publishedAt": "2026-04-02T04:00:28+00:00"
     },
     {
-      "id": "99866e76da3013593a73ec65",
-      "title": "« L’IA, un outil pour le travail social ? » : « Ne pas confondre justesse statistique et pertinence sociale »",
-      "summary": "Dans son ouvrage, l’assistant de service social Adrien Guionie analyse l’impact de l’intelligence artificielle sur le quotidien professionnel des travailleurs sociaux. Il rappelle l’importance d’adopter une « posture critique » face aux contenus générés par la machine, soulignant que « l’humain doit garder la main sur le sens ».",
-      "url": "https://www.lemonde.fr/emploi/article/2026/04/02/l-ia-un-outil-pour-le-travail-social-ne-pas-confondre-justesse-statistique-et-pertinence-sociale_6676071_1698637.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-02T04:00:16+00:00"
-    },
-    {
       "id": "8a6109b690124b4fe23d4f2d",
       "title": "Peppa Pig and Transformers owner Hasbro hit by cyber-attack",
       "summary": "The firm says its operations remain open but says the hack \"may result in some delays\".",
@@ -880,17 +935,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-01T16:05:37+00:00"
-    },
-    {
-      "id": "6e281a661828eb17f0d9a1f6",
-      "title": "Demis Hassabis, PDG de Google DeepMind, l’« optimiste prudent »",
-      "summary": "« Les gourous de l’IA » (8/12). S’il s’inquiète d’éventuels mésusages par des acteurs malveillants ou du risque d’un emballement incontrôlé des systèmes, le Prix Nobel de chimie 2024 considère l’IA comme révolutionnaire et ambitionne de s’en servir pour accélérer les découvertes scientifiques.",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/01/demis-hassabis-pdg-de-google-deepmind-l-optimiste-prudent_6675894_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-01T12:00:09+00:00"
     },
     {
       "id": "dc8314118fabbddefa1416a5",
@@ -913,17 +957,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-01T11:34:31+00:00"
-    },
-    {
-      "id": "d51fbe16b4f51b39ae34ebd4",
-      "title": "L’histoire folle d’une nouvelle pièce de Molière, coécrite avec l’IA",
-      "summary": "Depuis bientôt trois ans, le Théâtre Molière Sorbonne, à Paris, et un trio d’artistes se sont attelés à produire une comédie qu’aurait pu écrire le dramaturge s’il avait vécu plus longtemps. Les créateurs de « L’Astrologue ou les Faux Présages » participent à la première édition de Noûs, festival art et IA à la BnF, du 9 au 19 avril.",
-      "url": "https://www.lemonde.fr/culture/article/2026/04/01/l-histoire-folle-d-une-nouvelle-piece-de-moliere-coecrite-avec-l-ia_6675891_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-01T11:00:00+00:00"
     },
     {
       "id": "14cc2d900e5bf24b229cadad",
