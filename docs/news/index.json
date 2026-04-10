@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-10T01:45:55.839829+00:00",
+  "updatedAt": "2026-04-10T04:40:39.265499+00:00",
   "items": [
+    {
+      "id": "4145eabedef6c25390f20060",
+      "title": "« Le registre national des cancers constitue un fourre-tout hétérogène de données sensibles, couvrant de multiples facettes de la vie privée »",
+      "summary": "Dans une tribune au « Monde », trois professionnels de la santé publique alertent sur la dimension liberticide du registre national des cancers, créé pour mieux cerner les causes de la maladie mais qui, selon eux, prévoit une collecte de données personnelles inquiétante et inutilement exhaustive.",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/10/le-registre-national-des-cancers-constitue-un-fourre-tout-heterogene-de-donnees-sensibles-couvrant-de-multiples-facettes-de-la-vie-privee_6678770_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-10T04:30:04+00:00"
+    },
+    {
+      "id": "3559322d6e82ce6fe4196ac8",
+      "title": "IA : sept bonnes pratiques pour limiter son empreinte carbone",
+      "summary": "Face à une technologie énergivore, certains usages de l’IA sont à proscrire. D’autres permettent de diminuer légèrement la consommation électrique liée aux requêtes, et donc les émissions de CO₂.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/10/ia-sept-bonnes-pratiques-pour-limiter-son-empreinte-carbone_6678765_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-10T04:00:38+00:00"
+    },
+    {
+      "id": "23861eae2aa97d74018f7037",
+      "title": "De la guerre en Iran au CAC 40, Palantir déploie la puissance de l’intelligence artificielle sans s’embarrasser d’éthique",
+      "summary": "Fournisseuse des armées américaine, ukrainienne ou israélienne, la société de tech américaine déploie l’IA dans les conflits. Ses logiciels d’analyse de données équipent aussi beaucoup d’entreprises, d’Airbus à la Société générale. Mais l’entreprise reste associée aux débats sur l’autonomisation des armes ou la surveillance.",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/10/de-la-guerre-en-iran-au-cac-40-palantir-deploie-la-puissance-de-l-intelligence-artificielle-sans-s-embarrasser-d-ethique_6678723_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-10T03:13:43+00:00"
+    },
+    {
+      "id": "53f53fab77e4496ad5b762be",
+      "title": "White House staff told not to place bets on prediction markets",
+      "summary": "The gambling platforms have grown in popularity, with some users making wagers on conflicts.",
+      "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-10T02:32:27+00:00"
+    },
+    {
+      "id": "5aba42ab6d30f95a128f81ce",
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+      "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
+      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-10T02:10:44+00:00"
+    },
     {
       "id": "b342e772dbbdd8689080b1c6",
       "title": "The Pitt Season 2, Episode 14: \"8:00 PM\" Review",
@@ -13,8 +68,8 @@
       "publishedAt": "2026-04-10T01:00:00+00:00"
     },
     {
-      "id": "faa0e0a8bdd91ccd6396c612",
-      "title": "Hip-hop pioneer, Afrika Bambaataa, dies aged 67",
+      "id": "8fcda0c8313e4b26eb59f3d0",
+      "title": "Hip-hop pioneer, Afrika Bambaataa, dies aged 68",
       "summary": "The Bronx born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.",
       "url": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -176,17 +231,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-09T21:23:50+00:00"
-    },
-    {
-      "id": "3c7f67c7d33696bfcdff05fa",
-      "title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
-      "summary": "Lebanese officials had called for a ceasefire before talks begin.",
-      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-09T20:47:02+00:00"
     },
     {
       "id": "d42af22a901ba1ea0e014c00",
@@ -761,10 +805,10 @@
       "publishedAt": "2026-04-07T21:02:07+00:00"
     },
     {
-      "id": "5b50029ad6111a42eda4e43a",
+      "id": "df8f61e13831f8966f68d471",
       "title": "Tech Life",
       "summary": "Is there a way to fix AI's problem with trust?",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxp?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -915,28 +959,6 @@
       "publishedAt": "2026-04-04T23:56:55+00:00"
     },
     {
-      "id": "5c2a92555115c21714ea4ec9",
-      "title": "Timnit Gebru, critique éthique des géants de l’IA",
-      "summary": "« Les gourous de l’IA » (11/12). Cette ancienne de Google est l’autrice d’un article précurseur sur la critique des grands systèmes d’IA couramment utilisés aujourd’hui et conteste le concept de « superintelligence ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/04/timnit-gebru-critique-ethique-des-geants-de-l-ia_6676670_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-04T12:00:20+00:00"
-    },
-    {
-      "id": "d186bc239ce83c15e1cef7f0",
-      "title": "Quand les tirets trahissent l’usage de ChatGPT : « Il n’a même pas fait l’effort de retirer le tiret cadratin »",
-      "summary": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, la présence de tirets longs dans un texte, qui témoignerait du recours par son auteur à l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/04/04/quand-les-tirets-trahissent-l-usage-de-chatgpt-il-n-a-meme-pas-fait-l-effort-de-retirer-le-tiret-cadratin_6676653_4500055.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-04T09:00:09+00:00"
-    },
-    {
       "id": "5d837e7b69bfa849db16a801",
       "title": "Tech Now",
       "summary": "Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.",
@@ -957,17 +979,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-04T00:03:41+00:00"
-    },
-    {
-      "id": "f9f9fac766aa2d8da8e3581a",
-      "title": "OpenAI s’offre un podcast influent de la Silicon Valley",
-      "summary": "L’entreprise californienne a mis la main sur « TPBN », une émission en ligne très écoutée dans le milieu anglophone de la finance et des nouvelles technologies.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/03/openai-s-offre-un-podcast-influent-de-la-silicon-valley_6676379_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-03T14:09:48+00:00"
     },
     {
       "id": "af6be4a7a0254d8fe4f0dec9",
