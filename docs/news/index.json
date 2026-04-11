@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-04-11T08:33:44.983008+00:00",
+  "updatedAt": "2026-04-11T09:32:40.325466+00:00",
   "items": [
+    {
+      "id": "5523ab7f9e7d739c470c5d92",
+      "title": "'You are my god', Japan's PM tells British rock band Deep Purple",
+      "summary": "Hard rock enthusiast Sanae Takaichi beamed as she met the rockers in her Tokyo office.",
+      "url": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-11T09:12:36+00:00"
+    },
+    {
+      "id": "179f7898add74beee3415027",
+      "title": "New Crimson Desert Patch Just Dropped With Many of the Improvements Pearl Abyss Said Were Due in the Coming Months, and Some It Hadn't Mentioned at All",
+      "summary": "Just a day after Pearl Abyss’ announcement of the various improvements it said were coming soon to Crimson Desert, we have a new patch that adds many of them already — and even a few changes fans hadn't expected.",
+      "url": "https://www.ign.com/articles/new-crimson-desert-patch-just-dropped-with-many-of-the-improvements-pearl-abyss-said-were-due-in-the-coming-months-and-some-it-hadnt-mentioned-at-all",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-11T08:45:53+00:00"
+    },
+    {
+      "id": "187f74e035eef8bd84dfe833",
+      "title": "Baseball statue broken as it is unveiled in Seattle",
+      "summary": "The mishap occurred as a tarp was pulled off a bronze figure immortalising Hall of Famer Ichiro Suzuki.",
+      "url": "https://www.bbc.com/news/articles/c0rx4v5q701o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-11T08:38:17+00:00"
+    },
     {
       "id": "5e3ee098ecfaaac6fabc247f",
       "title": "Concerns after satellite provider restricts Iran images following US pressure",
@@ -66,6 +99,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-11T01:45:41+00:00"
+    },
+    {
+      "id": "962b15955ab7bddc3664c6f5",
+      "title": "This idyllic US town was full of police families - and a serial killer in their midst",
+      "summary": "For years, rumours swirled about who could be behind the bodies that washed up on the shores of Gilgo Beach.",
+      "url": "https://www.bbc.com/news/articles/cpwjkqq910go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-11T01:19:55+00:00"
     },
     {
       "id": "b2143ca87e94ecbe18d334a4",
@@ -398,17 +442,6 @@
       "publishedAt": "2026-04-10T17:08:27+00:00"
     },
     {
-      "id": "09b0a75b6ba3bdff8a9b34b2",
-      "title": "Amazon Luna Will No Longer Allow Owners to Buy Games, Access Game Stores or Third-Party Subscriptions, Starting Today",
-      "summary": "Amazon has announced a major change to its cloud gaming service, Luna, which will no longer allow owners to purchase games or access third-party subscriptions from today.",
-      "url": "https://www.ign.com/articles/amazon-luna-will-no-longer-allow-owners-to-buy-games-access-game-stores-or-third-party-subscriptions-starting-today",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-10T17:08:14+00:00"
-    },
-    {
       "id": "36cee9a7f637ddc786c7e166",
       "title": "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
       "summary": "The once close-knit community of Ngogo chimpanzees have been at loggerheads for the last eight years.",
@@ -739,10 +772,10 @@
       "publishedAt": "2026-04-08T08:21:40+00:00"
     },
     {
-      "id": "dd9b2d88b9de92c1c3bb4dce",
+      "id": "df8f61e13831f8966f68d471",
       "title": "Tech Life",
       "summary": "Is there a way to fix AI's problem with trust?",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxp?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
