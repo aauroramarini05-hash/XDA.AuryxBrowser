@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T19:59:33.149036+00:00",
+  "updatedAt": "2026-04-14T20:59:20.812357+00:00",
   "items": [
     {
       "id": "d979edc1131a6f1f32da71e7",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-14T19:54:52+00:00"
+      "publishedAt": "2026-04-14T20:30:57+00:00"
+    },
+    {
+      "id": "bbc454bd741f3475acee7007",
+      "title": "Don't Miss This Rare Deal on a Legion RTX 5070 Ti Gaming PC with 32GB of DDR5 RAM and 2TB SSD",
+      "summary": "One of the few gaming PCs priced under $2K this year that can run any game in 4K.",
+      "url": "https://www.ign.com/articles/lenovo-legion-tower-5-rtx-5070-ti-gaming-pc-deal-april-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T20:00:00+00:00"
     },
     {
       "id": "e30a4e603b97b4e061df5bec",
@@ -259,17 +270,6 @@
       "title": "The Alienware Aurora Gaming PC Is One of the Least Expensive RTX 5080 Prebuilts You Can Buy Right Now",
       "summary": "Currently available for $2,250 when other configs are $2,700 or higher.",
       "url": "https://www.ign.com/articles/best-alienware-aurora-rtx-5080-gaming-pc-deal-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-14T15:50:00+00:00"
-    },
-    {
-      "id": "4266b240e05b08f0dc507024",
-      "title": "The FlashForge Adventurer 5M 3D Printer Drops to $151 With a New Coupon That Starts Today",
-      "summary": "All the features you need to get started on your 3D printing projects, without the steep cost.",
-      "url": "https://www.ign.com/articles/best-flashforge-adventurer-5m-3d-printer-deal-april-2026",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
