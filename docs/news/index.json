@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-04-14T01:48:24.099655+00:00",
+  "updatedAt": "2026-04-14T04:39:45.571799+00:00",
   "items": [
+    {
+      "id": "43b4ac4d3f0a2924cebbc89f",
+      "title": "Harry and Meghan arrive in Australia for four-day tour",
+      "summary": "It is the couple's first visit to Australia since 2018 when they were working royals.",
+      "url": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T04:09:33+00:00"
+    },
+    {
+      "id": "4dcdac685cdc353a8046c0c7",
+      "title": "Bongbong Marcos fights ill-health rumours with star jumps",
+      "summary": "The Philippine President challenged anyone questioning his fitness to join him in the gym.",
+      "url": "https://www.bbc.com/news/videos/cj3775edd11o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T03:16:38+00:00"
+    },
+    {
+      "id": "ec58abbb309ae69afb843ea6",
+      "title": "Aux Etats-Unis, l’émergence d’un nouveau salarié dopé à l’IA",
+      "summary": "Mesurer la performance en tokens, sorte de « jetons d’IA », plutôt qu’en heures travaillées : dans la Silicon Valley, l’intelligence artificielle redéfinit les critères de valeur des employés. Avec, en creux, la menace d’un déclassement pour ceux qui restent à l’écart.",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/14/aux-etats-unis-l-emergence-d-un-nouveau-salarie-dope-a-l-ia_6679869_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-14T03:00:09+00:00"
+    },
     {
       "id": "7e4e6d97347b40f64a581ad4",
       "title": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman",
@@ -22,17 +55,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-14T00:30:00+00:00"
-    },
-    {
-      "id": "43b4ac4d3f0a2924cebbc89f",
-      "title": "Harry and Meghan arrive in Australia for four-day tour",
-      "summary": "It is the couple's first visit to Australia since 2018 when they were working royals.",
-      "url": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T00:14:27+00:00"
     },
     {
       "id": "470a95eaed69374da19b6cc0",
@@ -957,17 +979,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-08T10:30:11+00:00"
-    },
-    {
-      "id": "ebe726d75927c4b303ac6308",
-      "title": "La Grèce va interdire les réseaux sociaux aux moins de 15 ans dès 2027",
-      "summary": "Le premier ministre grec, Kyriakos Mitsotakis, a annoncé l’interdiction à venir dans une vidéo publiée sur Tiktok, évoquant une mesure « difficile mais nécessaire ».",
-      "url": "https://www.lemonde.fr/international/article/2026/04/08/la-grece-va-interdire-les-reseaux-sociaux-aux-moins-de-15-ans-des-2027_6678240_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-08T09:46:25+00:00"
     },
     {
       "id": "df8f61e13831f8966f68d471",
