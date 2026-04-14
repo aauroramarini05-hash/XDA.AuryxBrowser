@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-04-14T08:21:57.641844+00:00",
+  "updatedAt": "2026-04-14T10:08:35.552369+00:00",
   "items": [
+    {
+      "id": "c8f9900741b036ef749c3a75",
+      "title": "Police officers among seven arrested over deadly Haiti stampede",
+      "summary": "An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday.",
+      "url": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T09:49:45+00:00"
+    },
+    {
+      "id": "8a4e9a78124ff268053b749e",
+      "title": "Roblox interdit une partie de ses jeux aux enfants et aux adolescents",
+      "summary": "La plateforme de jeux en ligne étoffe les restrictions instaurées en janvier, qui bloquent certaines expériences pour les moins de 16 ans, et plus encore pour les moins de 9 ans.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/14/roblox-interdit-une-partie-de-ses-jeux-aux-enfants-et-aux-adolescents_6679911_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-14T09:28:34+00:00"
+    },
+    {
+      "id": "bbf0945974f75354a151c7a9",
+      "title": "Bethesda Responds to Starfield PS5 Crashing Issues",
+      "summary": "Bethesda says it is \"aware\" of the crashing issues some people are reporting when playing Starfield on PS5 and will address them in a hotfix later this week.",
+      "url": "https://www.ign.com/articles/bethesda-responds-to-starfield-ps5-crashing-issues",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T08:55:43+00:00"
+    },
+    {
+      "id": "9335a600909e82b929b36f6a",
+      "title": "Avengers: Doomsday and Secret Wars Update",
+      "summary": "Avengers: Doomsday is reportedly in post-production, with Avengers: Secret Wars now in pre-production.",
+      "url": "https://www.ign.com/articles/avengers-doomsday-and-secret-wars-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T08:40:50+00:00"
+    },
+    {
+      "id": "31480d0107804048483bf72e",
+      "title": "Avec l’IA, « Mark Zuckerberg réfléchit à donner naissance à une nouvelle créature : un PDG augmenté, un PDG jamais fatigué »",
+      "summary": "Cette doublure numérique pourrait engager la conversation et donner son avis en temps réel, en fonction des déclarations et de la façon de penser du dirigeant de Meta, sur lesquelles l’IA aurait été entraînée. Un monde du travail désincarné dont rêve le dirigeant de Meta depuis des années, constate Olivier Pinaud, journaliste au service Economie du",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/14/avec-l-ia-mark-zuckerberg-reflechit-a-donner-naissance-a-une-nouvelle-creature-un-pdg-augmente-un-pdg-jamais-fatigue_6679902_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-14T08:25:36+00:00"
+    },
+    {
+      "id": "46377b291b8dd00a905f48d9",
+      "title": "Legend of Zelda Movie Update",
+      "summary": "The Legend of Zelda movie has officially wrapped filming, according to a brief update from Sony at CinemaCon 2026.",
+      "url": "https://www.ign.com/articles/legend-of-zelda-movie-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T08:23:56+00:00"
+    },
+    {
+      "id": "e91684f51eace58ead753379",
+      "title": "Rockstar Games Hack Update",
+      "summary": "The Rockstar Games hackers released the stolen data early, revealing revenue for GTA Online and Red Dead Online. But, crucially, no GTA 6 information appears to have leaked online.",
+      "url": "https://www.ign.com/articles/rockstar-games-hack-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T08:13:07+00:00"
+    },
     {
       "id": "2cc6f2e1245f45ad5ded80ef",
       "title": "Potential Spoilers for Daredevil: Born Again",
@@ -233,8 +310,8 @@
       "publishedAt": "2026-04-13T22:42:22+00:00"
     },
     {
-      "id": "429532420db3b6ba87aa8c32",
-      "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+      "id": "4f515a1d94ecce21addf2c6f",
+      "title": "'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes",
       "summary": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.",
       "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -374,50 +451,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-13T18:20:00+00:00"
-    },
-    {
-      "id": "a1017b1de9b5b069cb0db527",
-      "title": "Today’s Top Deals: AirPods Pro 3, Nintendo Switch 2 Mario Galaxy Bundle, eShop Gift Card, and More",
-      "summary": "Plus, save on the four-film Indiana Jones Collection in 4K UHD, 4K drone, Razer phone controller, and more",
-      "url": "https://www.ign.com/articles/best-deals-for-april-13-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-13T18:20:00+00:00"
-    },
-    {
-      "id": "48798aa7f5abc7dd5174d3c7",
-      "title": "Windrose Early Access Review So Far",
-      "summary": "Taking to the high seas in a buccaneering survival crafter with deep combat.",
-      "url": "https://www.ign.com/articles/windrose-review-early-access",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-13T18:18:49+00:00"
-    },
-    {
-      "id": "c931bb6e92beada0132e2545",
-      "title": "Indie Pass, a Subscription Service for Indie Games, Launches on PC",
-      "summary": "",
-      "url": "https://www.ign.com/articles/indie-pass-a-subscription-service-for-indie-games-launches-on-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-13T18:00:00+00:00"
-    },
-    {
-      "id": "4266b240e05b08f0dc507024",
-      "title": "The FlashForge Adventurer 5M 3D Printer Drops to $151 With a New Coupon That Starts Today",
-      "summary": "All the features you need to get started on your 3D printing projects, without the steep cost.",
-      "url": "https://www.ign.com/articles/best-flashforge-adventurer-5m-3d-printer-deal-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-13T18:00:00+00:00"
     },
     {
       "id": "ddfdbc95cef120af5b57c972",
@@ -948,17 +981,6 @@
       "publishedAt": "2026-04-08T12:30:04+00:00"
     },
     {
-      "id": "7df598d2955d71f5c52bbb8e",
-      "title": "La vente de XpFibre, le vaste réseau de fibre optique de Patrick Drahi, s’accélère",
-      "summary": "Quatre fonds d’investissement sont désormais en lice pour racheter la filiale d’Altice France, qui gère pas moins de 7,3 millions de lignes de fibre optique dans l’Hexagone.",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/08/la-vente-de-xpfibre-le-vaste-reseau-de-fibre-optique-de-patrick-drahi-s-accelere_6678255_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-08T11:25:27+00:00"
-    },
-    {
       "id": "4ade019f7102bbcc2e1a89f8",
       "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
       "summary": "The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.",
@@ -968,17 +990,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-08T10:33:54+00:00"
-    },
-    {
-      "id": "da9f13ea07d37e87c20c8b05",
-      "title": "Comprendre ou déléguer à l’IA : le dilemme d’Asimov appliqué à la science",
-      "summary": "Dans leur Carte blanche au « Monde », Wiebke Drenckhan et Jean Farago en appellent à l’auteur de science-fiction pour mettre en garde contre la tentation de laisser à la seule IA la maîtrise de ce qui dépasse la compréhension humaine.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/08/comprendre-ou-deleguer-a-l-ia-le-dilemme-d-asimov-applique-a-la-science_6678250_1650684.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-08T10:30:11+00:00"
     },
     {
       "id": "df8f61e13831f8966f68d471",
