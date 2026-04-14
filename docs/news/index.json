@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-14T10:08:35.552369+00:00",
+  "updatedAt": "2026-04-14T11:52:46.887803+00:00",
   "items": [
+    {
+      "id": "1e1b91c841f3ba98cf75866c",
+      "title": "Cameroon separatists to pause fighting ahead of Pope visit",
+      "summary": "The separatists say their decison reflects responsibility, restraint and respect for human dignity.",
+      "url": "https://www.bbc.com/news/articles/c1d993116q6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T11:44:35+00:00"
+    },
+    {
+      "id": "f7a3102494e97f5b7118ac0e",
+      "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
+      "summary": "The son of pensioner Marie-Thérèse told French media he is worried for his mother's frail health as she is detained in a Louisiana ICE centre.",
+      "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T11:37:11+00:00"
+    },
+    {
+      "id": "0add943aff8f1258a7bf4aa3",
+      "title": "Cryptomonnaies : une mère et son fils libérés par le GIGN après leur enlèvement ; quatre personnes interpellées",
+      "summary": "Enlevés en Bourgogne, ils ont été libérés dans le Val-de-Marne, selon l’Agence France-Presse. Le ministre de l’intérieur, Laurent Nuñez, a salué l’opération et rappelle que cette affaire faite suite « à une longue série d’interpellations dans d’autres dossiers menées dans le milieu des cryptomonnaies ».",
+      "url": "https://www.lemonde.fr/societe/article/2026/04/14/cryptomonnaies-une-mere-et-son-fils-liberes-par-le-gign-apres-leur-enlevement-en-bourgogne-quatre-personnes-interpellees_6679919_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-14T10:58:56+00:00"
+    },
+    {
+      "id": "6986b513e132c19d95d99c34",
+      "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
+      "summary": "Students and teachers are among those who were injured in the attack in the country's south-east.",
+      "url": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T10:38:55+00:00"
+    },
+    {
+      "id": "624a402e4bd2b2a709ad70cc",
+      "title": "New Spider-Man: Brand New Day Posters Released",
+      "summary": "Sony Pictures has released two new posters for upcoming Marvel Cinematic Universe movie, Spider-Man: Brand New Day, and shown new footage during CinemaCon 2026.",
+      "url": "https://www.ign.com/articles/new-spider-man-brand-new-day-posters-released",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T10:17:30+00:00"
+    },
     {
       "id": "c8f9900741b036ef749c3a75",
       "title": "Police officers among seven arrested over deadly Haiti stampede",
@@ -11,6 +66,39 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-14T09:49:45+00:00"
+    },
+    {
+      "id": "0a4a74ef8838e976358e6aed",
+      "title": "Animal Crossing: New Horizons Update 3.0.2 Released",
+      "summary": "In honor of its Animal Crossing series' 25th anniversary, Nintendo has a special treat for fans checking into Animal Crossing: New Horizons: a commemorative leaf ornament.",
+      "url": "https://www.ign.com/articles/animal-crossing-new-horizons-update-302-released",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T09:48:55+00:00"
+    },
+    {
+      "id": "d4a906fc753cfb7dce213e6b",
+      "title": "Katy Perry Rep Responds to Ruby Rose Accusations",
+      "summary": "A representative for pop star Katy Perry has issued a strongly worded response to sexual assault allegations from Ruby Rose.",
+      "url": "https://www.ign.com/articles/katy-perry-rep-responds-to-ruby-rose-accusations",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T09:45:50+00:00"
+    },
+    {
+      "id": "1ec29a7e0334f083fac20d75",
+      "title": "What's changed since Harry and Meghan last visited Australia in 2018?",
+      "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
+      "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T09:41:22+00:00"
     },
     {
       "id": "8a4e9a78124ff268053b749e",
@@ -198,17 +286,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-13T23:50:00+00:00"
-    },
-    {
-      "id": "05d194bf4055f3c89b29e9e2",
-      "title": "‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit",
-      "summary": "The BBC spoke to people in Sydney to hear their thoughts on the Duke and Duchess of Sussex’s trip to Australia.",
-      "url": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T23:40:20+00:00"
     },
     {
       "id": "a204d53d72f0d76ec6a36be6",
@@ -418,39 +495,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-13T19:00:00+00:00"
-    },
-    {
-      "id": "dde77fccb8c2ec51e894a08f",
-      "title": "Former Naughty Dog Dev Recalls Crunch Culture for Games Like The Last of Us and Uncharted",
-      "summary": "Former Naughty Dog designer Benson Russell has explained how the developer eventually began to believe workplace crunch was necessary to make games like The Last of Us at its \"level.\"",
-      "url": "https://www.ign.com/articles/former-naughty-dog-dev-recalls-crunch-culture-for-games-like-the-last-of-us-and-uncharted",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-13T18:45:39+00:00"
-    },
-    {
-      "id": "c30ff7e73468fa7b0e240105",
-      "title": "The Best Lord of the Rings Board Games Tolkien Fans Will Actually Love",
-      "summary": "There are lots of bad licensed board games out there, but these Lord of the Rings board games are worth their weight in dwarven gold.",
-      "url": "https://www.ign.com/articles/best-lord-of-the-rings-board-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-13T18:45:34+00:00"
-    },
-    {
-      "id": "f1099a5bc7d3a293955e90db",
-      "title": "The AstroAI Cordless Car Jump Starter and Air Compressor (Tire Inflator) Drops to Just $39.99",
-      "summary": "Cordless jump starter, tire inflator, and power bank in one.",
-      "url": "https://www.ign.com/articles/astroai-s8-air-cordless-car-jump-starter-and-air-compressor-deal-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-13T18:20:00+00:00"
     },
     {
       "id": "ddfdbc95cef120af5b57c972",
@@ -739,17 +783,6 @@
       "publishedAt": "2026-04-12T15:30:04+00:00"
     },
     {
-      "id": "0d65daf48adfcf858fffff58",
-      "title": "At least 30 feared dead in crush at Haitian tourist site",
-      "summary": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
-      "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-12T07:22:28+00:00"
-    },
-    {
       "id": "8d72e9734115af60ed15b6af",
       "title": "Data centers : « Limiter les impacts spatiaux, énergétiques et environnementaux des grandes fermes de données est fondamental »",
       "summary": "Dans une tribune au « Monde », l’avocat Sébastien Barles alerte sur la nécessaire mise en place d’une régulation des infrastructures de données, au fonctionnement opaque, énergivore et riche d’externalités négatives dont pâtissent les territoires où sont implantées ces structures.",
@@ -968,17 +1001,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-08T16:35:09+00:00"
-    },
-    {
-      "id": "4e6b485255cad8728f015561",
-      "title": "« On leur demande d’être à la fois la Madone et la putain » : la photographe Philippa James dévoile le quotidien de sa fille ado sur les réseaux sociaux",
-      "summary": "Dans la série « Once a Slag… », la photographe britannique a exploré les contradictions qui traversent les jeunes, entre quête d’identité, pression sociale et exposition permanente de soi.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/08/on-leur-demande-d-etre-a-la-fois-la-madone-et-la-putain-la-photographe-philippa-james-devoile-le-quotidien-de-sa-fille-ado-sur-les-reseaux-sociaux_6678262_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-08T12:30:04+00:00"
     },
     {
       "id": "4ade019f7102bbcc2e1a89f8",
