@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-04-14T20:59:20.812357+00:00",
+  "updatedAt": "2026-04-14T21:54:29.749499+00:00",
   "items": [
+    {
+      "id": "c82e05e173b462a2e6b49cbc",
+      "title": "Amazon met la main sur Globalstar pour rattraper Starlink dans les communications Internet par satellite",
+      "summary": "Amazon Leo, la constellation du géant américain du commerce en ligne, a trouvé un accord pour acquérir l’opérateur Globalstar pour 11,6 milliards de dollars. Son ambition : accélérer dans le segment stratégique des communications directes entre les satellites et les smartphones.",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/14/amazon-met-la-main-sur-globalstar-pour-rattraper-starlink-dans-les-communications-internet-par-satellite_6679994_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-14T21:33:30+00:00"
+    },
+    {
+      "id": "4b639ebf008fcb41a952bfca",
+      "title": "Tech Life",
+      "summary": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-14T21:30:00+00:00"
+    },
+    {
+      "id": "d07c9802431edfea49e959d4",
+      "title": "The Refurbished Sonos Arc Ultra Soundbar Finally Shows in Stock With a Sweet 20% Discount",
+      "summary": "Includes the same 1 year Sonos warranty as buying brand new.",
+      "url": "https://www.ign.com/articles/sonos-arc-ultra-soundbar-deal-refurbished",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T20:50:00+00:00"
+    },
+    {
+      "id": "91299c6982da8a21fcbdc452",
+      "title": "Save 40% Off the Lenovo Legion Glasses 2 Micro-OLED Personal Wearable Display on Amazon",
+      "summary": "An easily transportable, 126\" simulated display for your Legion Go, Steam Deck, or Asus ROG Ally",
+      "url": "https://www.ign.com/articles/lenovo-legion-glasses-2-deal-steam-deck-nintendo-switch-asus-rog-ally",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T20:35:00+00:00"
+    },
     {
       "id": "d979edc1131a6f1f32da71e7",
       "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
@@ -44,6 +88,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-14T18:40:00+00:00"
+    },
+    {
+      "id": "4ca326ec817f6febc82c6661",
+      "title": "The Best Streaming Services for Watching Live TV Online in 2026",
+      "summary": "The top cable alternatives we've found.",
+      "url": "https://www.ign.com/articles/best-live-tv-streaming-services",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-14T18:34:00+00:00"
     },
     {
       "id": "99a5dd132ade525c988b285d",
@@ -242,39 +297,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-14T16:22:47+00:00"
-    },
-    {
-      "id": "6a4b5116c99887a401cda78d",
-      "title": "Silent Jenny Is a Disturbingly Timely Sci-Fi Story About the Climate Crisis",
-      "summary": "Check out our exclusive preview of Silent Jenny, a haunting new sci-fi graphic novel about life after the climate crisis has transformed the world.",
-      "url": "https://www.ign.com/articles/silent-jenny-exclusive-graphic-novel-preview-oni-press-magnetic",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-14T16:00:00+00:00"
-    },
-    {
-      "id": "3b97abca0f54fc9496105d9e",
-      "title": "Save $50 Off the Latest Apple AirPods Pro 3 Noise Canceling Earbuds at Amazon",
-      "summary": "The best earbuds for iPhone.",
-      "url": "https://www.ign.com/articles/new-apple-airpods-pro-3-deal-for-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-14T15:50:00+00:00"
-    },
-    {
-      "id": "b1e5c896933b84a7459db23e",
-      "title": "The Alienware Aurora Gaming PC Is One of the Least Expensive RTX 5080 Prebuilts You Can Buy Right Now",
-      "summary": "Currently available for $2,250 when other configs are $2,700 or higher.",
-      "url": "https://www.ign.com/articles/best-alienware-aurora-rtx-5080-gaming-pc-deal-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-14T15:50:00+00:00"
     },
     {
       "id": "14b02f6b4c7333441f8be15b",
@@ -1025,17 +1047,6 @@
       "publishedAt": "2026-04-09T01:39:32+00:00"
     },
     {
-      "id": "66be341c798ebaa112c21f68",
-      "title": "L’IA mise au défi de rédiger un projet de Constitution du XXIᵉ siècle",
-      "summary": "Des étudiants en master de l’université Paris-I Panthéon-Sorbonne ont présenté mardi 7 avril les résultats d’une confrontation entre une Constitution du futur qu’ils devaient imaginer et celles rédigées par quatre intelligences artificielles.",
-      "url": "https://www.lemonde.fr/campus/article/2026/04/08/a-l-universite-paris-1-l-ia-mise-au-defi-de-rediger-un-projet-de-constitution-du-xxie-siecle_6678312_4401467.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-08T17:13:15+00:00"
-    },
-    {
       "id": "4ade019f7102bbcc2e1a89f8",
       "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
       "summary": "The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.",
@@ -1100,17 +1111,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-28T01:00:09+00:00"
-    },
-    {
-      "id": "42aba57f5e07eae655256910",
-      "title": "Tech Life",
-      "summary": "Artificial intelligence is already in use in many areas of healthcare.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zq9?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-24T20:30:00+00:00"
     },
     {
       "id": "eb100c3df5b05efd170a0cb2",
