@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T21:54:29.749499+00:00",
+  "updatedAt": "2026-04-14T22:38:21.017709+00:00",
   "items": [
     {
       "id": "c82e05e173b462a2e6b49cbc",
@@ -10,7 +10,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-14T21:33:30+00:00"
+      "publishedAt": "2026-04-14T21:33:29+00:00"
     },
     {
       "id": "4b639ebf008fcb41a952bfca",
@@ -21,6 +21,17 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
+      "publishedAt": "2026-04-14T21:30:00+00:00"
+    },
+    {
+      "id": "36f2134722d8d2aa26487349",
+      "title": "Witch Hat Atelier Volume 1 Drops to 99 Cents at the Kindle Store",
+      "summary": "Now that the Witch Hat Atelier is now streaming on Crunchyroll, there's never been a better time to dive into the source material.",
+      "url": "https://www.ign.com/articles/witch-hat-atelier-volume-1-manga-drops-to-99-cents-at-the-kindle-store",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
       "publishedAt": "2026-04-14T21:30:00+00:00"
     },
     {
@@ -46,8 +57,8 @@
       "publishedAt": "2026-04-14T20:35:00+00:00"
     },
     {
-      "id": "d979edc1131a6f1f32da71e7",
-      "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
+      "id": "65fd83df55851918d6284554",
+      "title": "Another woman accuses Swalwell of rape, saying he drugged her in 2018",
       "summary": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room.",
       "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -275,17 +286,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-14T16:30:00+00:00"
-    },
-    {
-      "id": "d521bf8ddb02589fac263d74",
-      "title": "Call of Duty 2026 Xbox Game Pass Rumor",
-      "summary": "Microsoft is reportedly considering pulling this year’s Call of Duty game out of Xbox Game Pass as a day-one release.",
-      "url": "https://www.ign.com/articles/call-of-duty-2026-xbox-game-pass-rumor",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-14T16:26:35+00:00"
     },
     {
       "id": "440b1066eee258d6daf15cb4",
