@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-04-15T01:44:29.309203+00:00",
+  "updatedAt": "2026-04-15T04:39:55.358497+00:00",
   "items": [
+    {
+      "id": "742bb1c5ece2496f4dcf55fb",
+      "title": "Accès aux mails et aux données personnelles : le RGPD, nouvelle source de conflit entre entreprises et salariés",
+      "summary": "La Cour de cassation a estimé que les courriels émis et reçus par un salarié constituent des données personnelles. Concrètement, un salarié ou un ex-salarié a le droit de demander à son entreprise l’intégralité des courriels de sa boîte, et tous ceux de ses collègues qui permettent de l’identifier, mais la jurisprudence n’est pas totalement fixée, ",
+      "url": "https://www.lemonde.fr/emploi/article/2026/04/15/acces-aux-mails-et-aux-donnees-personnelles-le-rgpd-nouvelle-source-de-conflit-entre-entreprises-et-salaries_6680217_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-15T04:30:17+00:00"
+    },
+    {
+      "id": "58741990385da0835e93cd8a",
+      "title": "Warner Bros. Confirms Game of Thrones Movie, Aegon's Conquest, is in the Works",
+      "summary": "The studio included the GoT movie on a list of 28 upcoming films.",
+      "url": "https://www.ign.com/articles/warner-bros-confirms-game-of-thrones-movie-aegons-conquest-is-in-the-works",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-15T03:27:52+00:00"
+    },
+    {
+      "id": "b8611bee48c3df3b8a5bbccf",
+      "title": "Marvel Suffers Layoffs in Wake of New Job Cuts at Disney",
+      "summary": "Layoffs have reportedly affected most departments.",
+      "url": "https://www.ign.com/articles/marvel-suffers-layoffs-in-wake-of-new-job-cuts-at-disney",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-15T03:10:47+00:00"
+    },
+    {
+      "id": "8f93b9ff665ae0a354530a67",
+      "title": "Watch: Vance heckled as he chides Pope",
+      "summary": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of theology.\"",
+      "url": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-15T03:09:28+00:00"
+    },
+    {
+      "id": "1c225157faa762e30a2ddc30",
+      "title": "Prime Video’s Young Sherlock Will Return for a Second Season",
+      "summary": "Guy Ritchie will be back on deck to direct the first episode of season two.",
+      "url": "https://www.ign.com/articles/prime-videos-young-sherlock-will-return-for-a-second-season",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-15T03:08:58+00:00"
+    },
+    {
+      "id": "1648e5f7e9eda06f7d9b17c0",
+      "title": "250 missing after migrant boat sinks in Indian Ocean",
+      "summary": "The trawler \"reportedly sank due to heavy winds, rough seas and overcrowding\", the United Nations said.",
+      "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-15T01:28:08+00:00"
+    },
     {
       "id": "b78c7ea4af997b9614f6ab55",
       "title": "Daredevil: Born Again Season 2, Episode 5 Review",
@@ -35,8 +101,8 @@
       "publishedAt": "2026-04-15T00:00:00+00:00"
     },
     {
-      "id": "fee26c592b615e859569f859",
-      "title": "The Dungeon Crawler RPG Crowdfunding Campaign Just Launched and Has Already Decimated Its Goals",
+      "id": "b9a423d502cfec15c9f9c68d",
+      "title": "The Dungeon Crawler Carl RPG Crowdfunding Campaign Just Launched and Has Already Decimated Its Goals",
       "summary": "Renegade Game Studios just launched a new crowdfunding campaign for multiple Dungeon Crawler Carl tabletop games which has already raised more than $3 million in a single day.",
       "url": "https://www.ign.com/articles/the-dungeon-crawler-rpg-crowdfunding-campaign-just-launched-and-has-already-decimated-its-goals",
       "imageUrl": null,
@@ -44,6 +110,28 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-14T23:25:00+00:00"
+    },
+    {
+      "id": "37d1d89f1613b7a26bd7eee9",
+      "title": "Nazi search engine shows if ancestors were in Hitler's party",
+      "summary": "Christian Rainer told the BBC he found his grandfather within seconds using the online tool, which also helped clear other members of his family.",
+      "url": "https://www.bbc.com/news/articles/cr411ndee7yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T23:13:34+00:00"
+    },
+    {
+      "id": "8a6ed93471d47e18647deabe",
+      "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
+      "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
+      "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T23:13:15+00:00"
     },
     {
       "id": "435919bfba70c1b5f32b89f5",
@@ -90,9 +178,9 @@
       "publishedAt": "2026-04-14T22:35:00+00:00"
     },
     {
-      "id": "43e0cd26b8872b549f7c5c6d",
-      "title": "Warner Bros. Pictures at CinemaCon 2026: Everything Revealed (Updating Live!)",
-      "summary": "Warner Bros. Pictures is taking center stage once again at CinemaCon 2026, and it looks poised to showcase some of its upcoming films, which could include Mortal Kombat II, Supergirl, Evil Dead Burn, Digger, Clayface, The Cat in the Hat, The Great Beyond, and Dune: Part Three.",
+      "id": "3023b69ffa357f40fd22b947",
+      "title": "Warner Bros. Pictures at CinemaCon 2026: Everything Revealed",
+      "summary": "Warner Bros. Pictures took center stage once again at CinemaCon 2026, and we've gathered all the biggest news and moments from the presentation, including from The Lord of the Rings: The Hunt for Gollum, Dune: Part 3, Mortal Kombat II, Supergirl, Clayface, Digger, Evil Dead Burn, and more.",
       "url": "https://www.ign.com/articles/warner-bros-pictures-at-cinemacon-2026-everything-revealed",
       "imageUrl": null,
       "source": "IGN All",
@@ -112,6 +200,17 @@
       "publishedAt": "2026-04-14T22:25:00+00:00"
     },
     {
+      "id": "08b548134c4c2ea111e0ccd0",
+      "title": "Man wins €1m Picasso painting in €100 charity raffle",
+      "summary": "\"How do I know this isn't a prank?\" the winner asked when he answered a video call from Christie's auction house in Paris.",
+      "url": "https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T21:40:24+00:00"
+    },
+    {
       "id": "c82e05e173b462a2e6b49cbc",
       "title": "Amazon met la main sur Globalstar pour rattraper Starlink dans les communications Internet par satellite",
       "summary": "Amazon Leo, la constellation du géant américain du commerce en ligne, a trouvé un accord pour acquérir l’opérateur Globalstar pour 11,6 milliards de dollars. Son ambition : accélérer dans le segment stratégique des communications directes entre les satellites et les smartphones.",
@@ -123,10 +222,10 @@
       "publishedAt": "2026-04-14T21:33:29+00:00"
     },
     {
-      "id": "4b639ebf008fcb41a952bfca",
+      "id": "e38ea93908f76437d10ffd0b",
       "title": "Tech Life",
       "summary": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -145,6 +244,17 @@
       "publishedAt": "2026-04-14T21:30:00+00:00"
     },
     {
+      "id": "f2582f84db803af4d76f1b7d",
+      "title": "Canada was once a dream destination for Indian students. Is that changing?",
+      "summary": "Tighter rules, rising costs and visa risks are forcing Indian students to rethink studying in Canada.",
+      "url": "https://www.bbc.com/news/articles/cj37y8np54eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T21:22:51+00:00"
+    },
+    {
       "id": "d07c9802431edfea49e959d4",
       "title": "The Refurbished Sonos Arc Ultra Soundbar Finally Shows in Stock With a Sweet 20% Discount",
       "summary": "Includes the same 1 year Sonos warranty as buying brand new.",
@@ -154,6 +264,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-14T20:50:00+00:00"
+    },
+    {
+      "id": "92108297a69924342660ecf9",
+      "title": "Israel and Lebanon hold first direct talks since 1993",
+      "summary": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
+      "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T20:42:48+00:00"
     },
     {
       "id": "91299c6982da8a21fcbdc452",
@@ -189,6 +310,17 @@
       "publishedAt": "2026-04-14T20:00:00+00:00"
     },
     {
+      "id": "2910b48a15f75db9b61a9347",
+      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
+      "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T19:47:53+00:00"
+    },
+    {
       "id": "e30a4e603b97b4e061df5bec",
       "title": "Disney Lorcana Wilds Unknown Special Lorecast: Everything Announced, Including Toy Story, Brave, The Incredibles, Monsters, Inc., Coco, and Onward Cards",
       "summary": "Disney Lorcana Trading Card Game by Ravensburger revealed a ton of exciting details for its future during a special Lorecast today, including big Toy Story, Brave, and The Incredibles reveals for Wilds Unknown, Monsters, Inc. cards for Attack of the Vine!, Hyperia City called Coco, and set featuring Onward, and so much more.",
@@ -220,39 +352,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-14T18:34:00+00:00"
-    },
-    {
-      "id": "99a5dd132ade525c988b285d",
-      "title": "Every Sci-Fi Movie Included in Amazon's Massive 4K Blu-ray Sale",
-      "summary": "Pretty much every movie looks better in 4K, but there's just something about a high-definition sci-fi movie that hits different.",
-      "url": "https://www.ign.com/articles/every-sci-fi-movie-included-in-amazons-massive-4k-blu-ray-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-14T18:30:00+00:00"
-    },
-    {
-      "id": "a450e12a8b46d165d3feb166",
-      "title": "The 5th Wheel 36V Adult Electric Bike Will Cost You Just $262 With This New AliExpress Coupon",
-      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "url": "https://www.ign.com/articles/best-5th-wheel-electric-bike-deal-for-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-14T18:15:00+00:00"
-    },
-    {
-      "id": "3a8d8779512d9c04d4c757b9",
-      "title": "Save Nearly 50% Off the Bose QuietComfort Noise Canceling Headphones",
-      "summary": "Lowest price of the year.",
-      "url": "https://www.ign.com/articles/bose-quietcomfort-noise-canceling-headphone-deal-limited-edition-color",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-14T18:10:00+00:00"
     },
     {
       "id": "473399e41e95c701aa3a7fce",
@@ -585,17 +684,6 @@
       "publishedAt": "2026-04-13T21:09:15+00:00"
     },
     {
-      "id": "32864a37879f000fcc8705f6",
-      "title": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
-      "summary": "Beijing rejects the allegation as a \"farce\", while Manila claims the poison was used to kill fish and deprive troops stationed in the area of food.",
-      "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T19:17:18+00:00"
-    },
-    {
       "id": "8fa146f7a8f278ba866a75c3",
       "title": "US drivers head to Native American lands for cheaper gas",
       "summary": "Some of the cheapest fuel in the country can be found on tribal land due to tax exemptions.",
@@ -638,17 +726,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-13T17:32:43+00:00"
-    },
-    {
-      "id": "2ff7ea0979f2bb803bd72f0e",
-      "title": "Ex-Nigerian oil minister denies taking bribes",
-      "summary": "Diezani Alison-Madueke is accused of living “a life of luxury” in the UK at properties paid for and refurbished by industry figures.",
-      "url": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T16:05:59+00:00"
     },
     {
       "id": "4b0dc7cf33e556fc5d9e6aac",
@@ -706,17 +783,6 @@
       "publishedAt": "2026-04-13T14:59:59+00:00"
     },
     {
-      "id": "791bf5522ba8f0e14af9b151",
-      "title": "Peru election drags into second day after ballot delivery fiasco",
-      "summary": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
-      "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T13:07:12+00:00"
-    },
-    {
       "id": "7d814f857b90acf435faac73",
       "title": "Iran carried out highest number of executions in decades",
       "summary": "Organisations warn many more people could be executed in the wake of the anti-government protests which swept Iran earlier this year.",
@@ -737,17 +803,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-13T12:19:13+00:00"
-    },
-    {
-      "id": "379c23e592f7f75a43fe9d05",
-      "title": "Mourners sing Asha Bhosle hit as iconic Indian singer cremated",
-      "summary": "The singer, who died at the age of 92, will be cremated with full state honours on Monday.",
-      "url": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T12:02:45+00:00"
     },
     {
       "id": "0d17ab9f8c09f84b4b556c29",
@@ -783,17 +838,6 @@
       "publishedAt": "2026-04-13T08:28:35+00:00"
     },
     {
-      "id": "13372e1fdd64a881e548c948",
-      "title": "Britney Spears goes into rehab after driving under the influence arrest",
-      "summary": "The singer voluntarily checks herself into a treatment facility, three weeks before her court date.",
-      "url": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T08:14:14+00:00"
-    },
-    {
       "id": "6ec7e3b060494ac456a262f3",
       "title": "Viktor Orbán's Hungarian experiment runs out of steam",
       "summary": "Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule, Nick Thorpe reports from Budapest.",
@@ -814,17 +858,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-12T23:59:48+00:00"
-    },
-    {
-      "id": "a4d9dae0aa8f1c079e73972d",
-      "title": "The Dutch village at risk of being demolished",
-      "summary": "Moerdijk has been earmarked for removal, to make way for a vast electricity substation.",
-      "url": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-12T23:20:52+00:00"
     },
     {
       "id": "02bb9a1a9ef34dd53f67e349",
@@ -1045,17 +1078,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-09T04:00:11+00:00"
-    },
-    {
-      "id": "a472ae77a5f2f6595c7be1e8",
-      "title": "Anthropic : dans l’affaire opposant l’entreprise d’IA et le Pentagone, la justice américaine tranche partiellement en faveur de l’administration",
-      "summary": "La cour d’appel fédérale a accepté d’examiner le fond en accéléré et fixé une audience au 19 mai. « Nous sommes reconnaissants que la cour ait reconnu la nécessité de résoudre rapidement ces questions », a déclaré Anthropic.",
-      "url": "https://www.lemonde.fr/international/article/2026/04/09/une-cour-federale-de-washington-refuse-de-suspendre-le-bannissement-des-technologies-d-anthropic-par-le-pentagone_6678426_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-09T01:39:32+00:00"
     },
     {
       "id": "4ade019f7102bbcc2e1a89f8",
