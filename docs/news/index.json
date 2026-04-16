@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-04-16T08:23:20.710900+00:00",
+  "updatedAt": "2026-04-16T10:08:44.558318+00:00",
   "items": [
+    {
+      "id": "28f84186f6bb8be3a60022a2",
+      "title": "South African opposition figure Malema sentenced to five years in prison",
+      "summary": "Malema is appealing against the decision to prevent him from being taken to prison on Thursday.",
+      "url": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T10:01:45+00:00"
+    },
+    {
+      "id": "610bc5afa6f8033ad2923e6d",
+      "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
+      "summary": "Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.",
+      "url": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T09:58:14+00:00"
+    },
+    {
+      "id": "d25593a9b0e8012f24634217",
+      "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
+      "summary": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK.",
+      "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-16T09:20:36+00:00"
+    },
+    {
+      "id": "153cff7b17fc0449dba73975",
+      "title": "Turkish police order 83 arrests over online praise for school shootings",
+      "summary": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high school.",
+      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T09:20:20+00:00"
+    },
+    {
+      "id": "cf40035e57345318fdf101c5",
+      "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
+      "summary": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
+      "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T08:28:51+00:00"
+    },
+    {
+      "id": "1587e95ee55bd63a55df1425",
+      "title": "En Inde, un film entièrement généré par IA au cinéma pour la première fois à la fin de l’été",
+      "summary": "Des acteurs aux décors, et jusqu’à la mise en scène : chaque détail du film « Maharaja in Denims » a été généré par l’intelligence artificielle, à l’exception de sa bande-son. L’idée d’un long-métrage créé par la machine a fait son chemin dans la très prolifique industrie indienne du cinéma.",
+      "url": "https://www.lemonde.fr/culture/article/2026/04/16/en-inde-un-film-entierement-genere-par-ia-au-cinema-pour-la-premiere-fois-a-la-fin-de-l-ete_6680488_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-16T08:26:03+00:00"
+    },
+    {
+      "id": "af7d33eb161f214367798661",
+      "title": "Meghan says she was 'most trolled person in the world'",
+      "summary": "Alongside her husband, the Duchess of Sussex was speaking to young people in Melbourne about the harms of social media.",
+      "url": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T08:24:35+00:00"
+    },
+    {
+      "id": "e4c36dd579e47de761a6f4df",
+      "title": "India to decide women's quota bill as row over parliamentary seats intensifies",
+      "summary": "Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.",
+      "url": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T08:20:55+00:00"
+    },
+    {
+      "id": "63c15aafc28af404fc1c5a3b",
+      "title": "China's economy grows faster than expected despite Iran war",
+      "summary": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
+      "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T07:08:52+00:00"
+    },
     {
       "id": "0b25ce243c7093f01561f0a5",
       "title": "Beef Season 2 Review",
@@ -13,15 +112,26 @@
       "publishedAt": "2026-04-16T07:01:00+00:00"
     },
     {
-      "id": "b2969897161454f067c44dfd",
-      "title": "Israeli demolitions levelling towns in south Lebanon, satellite images show",
-      "summary": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
-      "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "id": "c3818327930b292546384a3b",
+      "title": "Cool Hand Luke actress Joy Harmon dies aged 87",
+      "summary": "Harmon was best known for a car-washing scene in the Paul Newman prison drama.",
+      "url": "https://www.bbc.com/news/articles/cvgkzpqnvd0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-16T06:25:14+00:00"
+      "publishedAt": "2026-04-16T05:52:12+00:00"
+    },
+    {
+      "id": "96c29f8b59ace84c4dbf8738",
+      "title": "Shakespeare's 'missing' home mapped with discovery",
+      "summary": "A Shakespeare expert identifies the location and size of the property the playwright bought in1613.",
+      "url": "https://www.bbc.com/news/articles/cedeenvdwgxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T05:02:47+00:00"
     },
     {
       "id": "80e6c06b13e78c106addf842",
@@ -33,6 +143,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-16T04:50:00+00:00"
+    },
+    {
+      "id": "a150a0609ad8edcc13be87f5",
+      "title": "'Unprecedented' fire at Australian oil refinery to impact nation's petrol supplies",
+      "summary": "The fire has deepened fears over the nation's petrol supplies amid a global crunch.",
+      "url": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T03:45:29+00:00"
     },
     {
       "id": "60473b8d8f9c310a4f69c907",
@@ -134,6 +255,17 @@
       "publishedAt": "2026-04-15T23:35:00+00:00"
     },
     {
+      "id": "ed7fa344883054d9e28db3ba",
+      "title": "Back to books - Sweden's schools cutting back on digital learning",
+      "summary": "Swedish classrooms swap laptops for books, pens and paper, raising concerns from the tech sector.",
+      "url": "https://www.bbc.com/news/articles/cly0vk77vdko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-15T23:06:43+00:00"
+    },
+    {
       "id": "04ec013e699f834bb52842e5",
       "title": "Universal Pictures at CinemaCon 2026: Everything Revealed",
       "summary": "From Christopher Nolan's The Odyssey to Steven Spielberg's Disclosure Day, these were the big movie reveals from Universal Pictures' CinemaCon 2026 presentation.",
@@ -187,17 +319,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-15T21:35:00+00:00"
-    },
-    {
-      "id": "afa5ebb2388db1f4fd654c86",
-      "title": "Social media leaders called to Downing Street over children's safety",
-      "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children.",
-      "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-15T21:30:40+00:00"
     },
     {
       "id": "c3c637b9d18255bfad9d0281",
@@ -277,17 +398,6 @@
       "publishedAt": "2026-04-15T20:15:00+00:00"
     },
     {
-      "id": "19df70dc07bce3d69a3a45b2",
-      "title": "Nine killed in second Turkish school shooting in two days",
-      "summary": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
-      "url": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T20:10:49+00:00"
-    },
-    {
       "id": "9ec9b18a63b743ac2353da9a",
       "title": "Popeyes x One Piece Bento Boxes Are Already Being Resold on eBay for Hundreds of Dollars",
       "summary": "Popeyes and One Piece have collaborated on a special menu and range of collectibles that have already taken the internet by storm. In fact, a special One Piece Bento Box given away for free to select customers is already being resold on eBay for hundreds of dollars.",
@@ -332,17 +442,6 @@
       "publishedAt": "2026-04-15T18:48:34+00:00"
     },
     {
-      "id": "e964f170aadbbbafa3738512",
-      "title": "SantaCon organiser charged with stealing $1m from charity pub crawl",
-      "summary": "Prosecutors say Stefan Pildes spent hundreds of thousands of $2.7m raised for charity on personal expenses.",
-      "url": "https://www.bbc.com/news/articles/crl11g21ex8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T17:56:47+00:00"
-    },
-    {
       "id": "4547d94f64c644babcdf5bdb",
       "title": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says",
       "summary": "The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are \"false and baseless\".",
@@ -374,17 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-15T15:36:25+00:00"
-    },
-    {
-      "id": "6c89d1a2e5f38bd6cca48f49",
-      "title": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war",
-      "summary": "It follows a warning from the US president that America's trade deal with the UK \"can always be changed\".",
-      "url": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T15:27:22+00:00"
     },
     {
       "id": "68c3b68e910fb7af869a8266",
@@ -486,17 +574,6 @@
       "publishedAt": "2026-04-15T10:20:32+00:00"
     },
     {
-      "id": "934a333787a1aaeba0f83436",
-      "title": "Meghan to appear as guest judge on MasterChef Australia",
-      "summary": "The Duke and Duchess of Sussex are on a four-day visit to Australia - their first since 2018.",
-      "url": "https://www.bbc.com/news/articles/cx2eejdwpk5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T10:04:29+00:00"
-    },
-    {
       "id": "d62061d144aef562c87ade75",
       "title": "Google to punish sites that trap people in with back button tricks",
       "summary": "The tech giant said it will punish sites that block back button navigation from June.",
@@ -508,17 +585,6 @@
       "publishedAt": "2026-04-15T10:02:19+00:00"
     },
     {
-      "id": "9ff11305b4a07e4475832cae",
-      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
-      "summary": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those sent home.",
-      "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T10:00:41+00:00"
-    },
-    {
       "id": "8a6ed93471d47e18647deabe",
       "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
       "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
@@ -528,17 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-15T09:19:07+00:00"
-    },
-    {
-      "id": "9d593f453566ff71624719ad",
-      "title": "Kenya fuel prices rise sharply despite reduction in tax due to Iran war",
-      "summary": "Diesel prices rise by a record margin despite a reduction in value added tax.",
-      "url": "https://www.bbc.com/news/articles/cgrlll7qgdzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T09:06:38+00:00"
     },
     {
       "id": "d55f2a46e3b0a408a7afb248",
@@ -563,39 +618,6 @@
       "publishedAt": "2026-04-15T08:38:36+00:00"
     },
     {
-      "id": "286921d8aa1b50b3faf1ec72",
-      "title": "Kanye West postpones France gig following UK ban",
-      "summary": "It comes a week after the UK government announced it would block the rapper from entering the country.",
-      "url": "https://www.bbc.com/news/articles/c36rrrp5wnlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T08:29:43+00:00"
-    },
-    {
-      "id": "1648e5f7e9eda06f7d9b17c0",
-      "title": "250 missing after migrant boat sinks in Indian Ocean",
-      "summary": "The trawler \"reportedly sank due to heavy winds, rough seas and overcrowding\", the United Nations said.",
-      "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T07:52:40+00:00"
-    },
-    {
-      "id": "417c8e9ab02eaaf7c29f6244",
-      "title": "Australian pleads guilty to creating deepfake porn in landmark case",
-      "summary": "The 19-year-old is the first person to be charged under a new national law.",
-      "url": "https://www.bbc.com/news/articles/c39333x0xeno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T07:23:56+00:00"
-    },
-    {
       "id": "b1c886af41e3ceca057f7cc9",
       "title": "« J’ai l’impression d’avoir raté ma vie à un an près » : quand l’IA freine l’embauche des juniors",
       "summary": "Webdesigners, développeurs, traducteurs, consultants en cabinet de conseil… Les jeunes diplômés dont le métier est bouleversé par l’intelligence artificielle générative n’ont jamais autant peiné à décrocher leur premier job.",
@@ -607,17 +629,6 @@
       "publishedAt": "2026-04-15T05:00:11+00:00"
     },
     {
-      "id": "0044b6f64cbff4593c719b87",
-      "title": "Australia's richest person must share part of her mining fortunes, court rules",
-      "summary": "The long-running legal dispute is over a lucrative iron ore project in the top west corner of Australia.",
-      "url": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T04:40:30+00:00"
-    },
-    {
       "id": "742bb1c5ece2496f4dcf55fb",
       "title": "Accès aux mails et aux données personnelles : le RGPD, nouvelle source de conflit entre entreprises et salariés",
       "summary": "La Cour de cassation a estimé que les courriels émis et reçus par un salarié constituent des données personnelles. Concrètement, un salarié ou un ex-salarié a le droit de demander à son entreprise l’intégralité des courriels de sa boîte, et tous ceux de ses collègues qui permettent de l’identifier, mais la jurisprudence n’est pas totalement fixée, ",
@@ -627,50 +638,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-15T04:30:09+00:00"
-    },
-    {
-      "id": "bac116601dcdbbce1cca89da",
-      "title": "South Korea jails American YouTuber for public nuisance",
-      "summary": "Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.",
-      "url": "https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T04:21:51+00:00"
-    },
-    {
-      "id": "8f93b9ff665ae0a354530a67",
-      "title": "Watch: Vance heckled as he chides Pope",
-      "summary": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of theology.\"",
-      "url": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T03:09:28+00:00"
-    },
-    {
-      "id": "0691a6384f869635b99883cf",
-      "title": "New search engine reveals if ancestors were in Nazi party",
-      "summary": "Christian Rainer told the BBC he found his grandfather within seconds using the online tool, which also helped clear other members of his family.",
-      "url": "https://www.bbc.com/news/articles/cr411ndee7yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T23:13:34+00:00"
-    },
-    {
-      "id": "08b548134c4c2ea111e0ccd0",
-      "title": "Man wins €1m Picasso painting in €100 charity raffle",
-      "summary": "\"How do I know this isn't a prank?\" the winner asked when he answered a video call from Christie's auction house in Paris.",
-      "url": "https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T21:40:24+00:00"
     },
     {
       "id": "c82e05e173b462a2e6b49cbc",
@@ -695,39 +662,6 @@
       "publishedAt": "2026-04-14T21:30:00+00:00"
     },
     {
-      "id": "f2582f84db803af4d76f1b7d",
-      "title": "Canada was once a dream destination for Indian students. Is that changing?",
-      "summary": "Tighter rules, rising costs and visa risks are forcing Indian students to rethink studying in Canada.",
-      "url": "https://www.bbc.com/news/articles/cj37y8np54eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T21:22:51+00:00"
-    },
-    {
-      "id": "92108297a69924342660ecf9",
-      "title": "Israel and Lebanon hold first direct talks since 1993",
-      "summary": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
-      "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T20:42:48+00:00"
-    },
-    {
-      "id": "2910b48a15f75db9b61a9347",
-      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
-      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
-      "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T19:47:53+00:00"
-    },
-    {
       "id": "55d4217bf640393b4ed150e4",
       "title": "Palantir defends its record as MPs demand more scrutiny of data use",
       "summary": "NHS guidance that all hospitals should be using Palantir software from this month has sparked a backlash.",
@@ -737,17 +671,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-14T18:57:51+00:00"
-    },
-    {
-      "id": "bb98b3c9b3e0a645d0a4873f",
-      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T17:10:52+00:00"
     },
     {
       "id": "fa83a5555e9247cabf182aa0",
@@ -783,6 +706,17 @@
       "publishedAt": "2026-04-14T10:58:56+00:00"
     },
     {
+      "id": "b582fa7d5697fd753350dbd1",
+      "title": "Watch: What are Harry and Meghan doing in Australia?",
+      "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
+      "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-14T09:41:22+00:00"
+    },
+    {
       "id": "8a4e9a78124ff268053b749e",
       "title": "Roblox interdit une partie de ses jeux aux enfants et aux adolescents",
       "summary": "La plateforme de jeux en ligne étoffe les restrictions instaurées en janvier, qui bloquent certaines expériences pour les moins de 16 ans, et plus encore pour les moins de 9 ans.",
@@ -803,17 +737,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-14T08:25:36+00:00"
-    },
-    {
-      "id": "6c7ed7ce8edf836bf28c7853",
-      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
-      "summary": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
-      "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T05:02:21+00:00"
     },
     {
       "id": "ec58abbb309ae69afb843ea6",
@@ -849,50 +772,6 @@
       "publishedAt": "2026-04-13T23:35:56+00:00"
     },
     {
-      "id": "c925e3ad0ee42ecaf58d69ab",
-      "title": "Can this man broaden the appeal of a South African party seen by some as 'too white'?",
-      "summary": "The Democratic Alliance's new leader, Geordin Hill-Lewis, admits the party's support is too narrow.",
-      "url": "https://www.bbc.com/news/articles/cj948p84jjxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T23:31:43+00:00"
-    },
-    {
-      "id": "8cfe01b8c6664a6135f5a1f9",
-      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
-      "summary": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine.",
-      "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T23:27:45+00:00"
-    },
-    {
-      "id": "b7d45aba12f579c9df50f91b",
-      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-      "summary": "The Lebanese government go into peace talks with limited influence over the group.",
-      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T23:26:46+00:00"
-    },
-    {
-      "id": "61744807475d782f7bec0d0e",
-      "title": "Democrats were already scrambling in California's governor race. Then Swalwell dropped out",
-      "summary": "California Democrats were already fretting about the race due to troubling polls and low name recognition",
-      "url": "https://www.bbc.com/news/articles/cje419peejxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T23:02:45+00:00"
-    },
-    {
       "id": "1665bed5fa2838d18e69a492",
       "title": "Hungarian voters celebrate 'much-needed' change",
       "summary": "Viktor Orbán's 16-year rule is over, defeated by 45-year-old ex-party insider Péter Magyar.",
@@ -913,17 +792,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-13T17:33:26+00:00"
-    },
-    {
-      "id": "6314e26f4c6bbc4de326cca8",
-      "title": "The US blockade of Iran is a gamble. Will it work?",
-      "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
-      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-13T15:27:43+00:00"
     },
     {
       "id": "b79d04791fabe4817e81b8d6",
@@ -1023,17 +891,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-12T04:00:13+00:00"
-    },
-    {
-      "id": "ddbf634381ed3bdb62424fa8",
-      "title": "Ego, l’auteur de la mystérieuse chaîne Youtube dévoile son visage et ses ambitions",
-      "summary": "Le vidéaste, qui se fait rare sur la plateforme vidéo, a décidé de sortir de l’ombre sur la scène du festival Frames. Avec des projets et une ambition philosophique qui dépassent désormais largement sa chaîne YouTube.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/11/a-avignon-ego-maitre-du-storytelling-sur-youtube-se-devoile_6679369_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-11T13:00:05+00:00"
     },
     {
       "id": "29a64790481fd4c0551dcb29",
