@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T10:08:44.558318+00:00",
+  "updatedAt": "2026-04-16T11:53:56.741062+00:00",
   "items": [
     {
       "id": "28f84186f6bb8be3a60022a2",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-16T10:01:45+00:00"
+      "publishedAt": "2026-04-16T11:32:12+00:00"
+    },
+    {
+      "id": "d0b1dc9c01ed3b840e1a64af",
+      "title": "Blunt-speaking Pope tells Cameroon to root out corruption to find peace",
+      "summary": "The pontiff was unusually forthright in his address at the presidential palace.",
+      "url": "https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T11:28:42+00:00"
     },
     {
       "id": "610bc5afa6f8033ad2923e6d",
@@ -21,7 +32,84 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-16T09:58:14+00:00"
+      "publishedAt": "2026-04-16T11:10:17+00:00"
+    },
+    {
+      "id": "6a42324c103ce3073472fdc7",
+      "title": "Turkish police detain 162 people over online praise for school shootings",
+      "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T11:01:59+00:00"
+    },
+    {
+      "id": "37e539245a3eaf8fbfb42c51",
+      "title": "Brazil's former spy chief released from ICE detention",
+      "summary": "Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.",
+      "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T11:00:22+00:00"
+    },
+    {
+      "id": "be6a479d1f1500c69d407e1f",
+      "title": "Ashes of Creation Director Responds",
+      "summary": "Ashes of Creation director Steven Sharif has hit out at alleged \"coordinated attacks\" against him and his studio, Intrepid Studios, insisting recent claims about the company's finances were \"completely false and already faltering under judicial review,\" and calling the drama \"one of the craziest stories gaming has ever seen.\"",
+      "url": "https://www.ign.com/articles/ashes-of-creation-director-responds",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T10:56:44+00:00"
+    },
+    {
+      "id": "166e4270170c5ab508999f58",
+      "title": "Toph Beifong Actor on Avatar Leak",
+      "summary": "The original voice of Toph Beifong in Avatar: The Last Airbender has told fans not to look at The Legend of Aang: The Last Airbender leaks.",
+      "url": "https://www.ign.com/articles/toph-beifong-actor-on-avatar-leak",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T10:32:30+00:00"
+    },
+    {
+      "id": "fc1b56af522a6309e30cf909",
+      "title": "Resident Evil Adult Mod Video Takedown",
+      "summary": "Capcom has forced a YouTuber to remove more than 1,000 \"adult-orientated\" mod videos showing Resident Evil Requiem characters in skimpy clothing.",
+      "url": "https://www.ign.com/articles/resident-evil-adult-mod-video-takedown",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T10:19:56+00:00"
+    },
+    {
+      "id": "1b0271331b72d9138d4c037a",
+      "title": "Amazon Comments on James Bond",
+      "summary": "Amazon has addressed the long wait for a casting announcement for its upcoming James Bond film, insisting it’s taking its time to ensure it gets the decision right.",
+      "url": "https://www.ign.com/articles/amazon-comments-on-james-bond",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T09:44:07+00:00"
+    },
+    {
+      "id": "3e3d531dc29e406b55297ce3",
+      "title": "Starfield Nintendo Switch 2 Spotted",
+      "summary": "A version of Starfield for Nintendo Switch 2 has been leaked by the Taiwan ratings board, suggesting Bethesda's space RPG will land on the console.",
+      "url": "https://www.ign.com/articles/starfield-nintendo-switch-2-spotted",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T09:36:11+00:00"
     },
     {
       "id": "d25593a9b0e8012f24634217",
@@ -35,15 +123,15 @@
       "publishedAt": "2026-04-16T09:20:36+00:00"
     },
     {
-      "id": "153cff7b17fc0449dba73975",
-      "title": "Turkish police order 83 arrests over online praise for school shootings",
-      "summary": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high school.",
-      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "id": "06e7fecc8d7eda61770b2eb7",
+      "title": "First Highlander Footage",
+      "summary": "The Highlander reboot movie was finally revealed behind closed doors at CinemaCon 2026, with footage showing Henry Cavill facing off against Dave Bautista’s Kurgan — and yes, there can be only one winner.",
+      "url": "https://www.ign.com/articles/first-highlander-footage",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-16T09:20:20+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T09:20:07+00:00"
     },
     {
       "id": "cf40035e57345318fdf101c5",
@@ -354,72 +442,6 @@
       "publishedAt": "2026-04-15T21:10:14+00:00"
     },
     {
-      "id": "a9cc251c3e04bb9a409a2ffa",
-      "title": "Save 50% Off a Flame Thrower Style Propane Torch Gun",
-      "summary": "Make cooking fun again.",
-      "url": "https://www.ign.com/articles/flame-thrower-style-propane-torch-gun-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T21:00:00+00:00"
-    },
-    {
-      "id": "f2c5a279b9fea69e492976fe",
-      "title": "Save $700 Off the Legion RTX 5070 Ti Gaming PC, Now Includes Pragmata for Free",
-      "summary": "One of the few gaming PCs priced under $2K this year that can run any game in 4K.",
-      "url": "https://www.ign.com/articles/lenovo-legion-tower-5-rtx-5070-ti-gaming-pc-deal-includes-pragmata",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T21:00:00+00:00"
-    },
-    {
-      "id": "139b0bba0d4b408fe0307fb3",
-      "title": "Coyote vs. Acme Poster Revealed Alongside Cheeky Trailer Announcement",
-      "summary": "A worldwide theatrical run of Coyote vs. Acme is still happening, and we have the key art reveal to prove it. The film’s first poster has been released ahead of its inevitably, highly anticipated release this summer.",
-      "url": "https://www.ign.com/articles/coyote-vs-acme-poster-revealed-alongside-cheeky-trailer-announcement",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T20:46:40+00:00"
-    },
-    {
-      "id": "d07c9802431edfea49e959d4",
-      "title": "The Refurbished Sonos Arc Ultra Soundbar Finally Shows in Stock With a Sweet 20% Discount",
-      "summary": "Includes the same 1 year Sonos warranty as buying brand new.",
-      "url": "https://www.ign.com/articles/sonos-arc-ultra-soundbar-deal-refurbished",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T20:15:00+00:00"
-    },
-    {
-      "id": "9ec9b18a63b743ac2353da9a",
-      "title": "Popeyes x One Piece Bento Boxes Are Already Being Resold on eBay for Hundreds of Dollars",
-      "summary": "Popeyes and One Piece have collaborated on a special menu and range of collectibles that have already taken the internet by storm. In fact, a special One Piece Bento Box given away for free to select customers is already being resold on eBay for hundreds of dollars.",
-      "url": "https://www.ign.com/articles/popeyes-x-one-piece-bento-boxes-are-already-being-resold-on-ebay-for-hundreds-of-dollars",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T19:44:03+00:00"
-    },
-    {
-      "id": "a450e12a8b46d165d3feb166",
-      "title": "The 5th Wheel 36V Adult Electric Bike Will Cost You Just $262 With This New AliExpress Coupon",
-      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "url": "https://www.ign.com/articles/best-5th-wheel-electric-bike-deal-for-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T19:10:00+00:00"
-    },
-    {
       "id": "77d1fd8bfcc7fda53a6371e5",
       "title": "Frank Gardner: What is China's role in the Iran war?",
       "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
@@ -429,28 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-15T18:54:06+00:00"
-    },
-    {
-      "id": "086a3c438122f26ade6cea21",
-      "title": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say",
-      "summary": "Lebanon's government condemns as a \"flagrant crime\" the killing of the paramedics, one of whom featured in a BBC report.",
-      "url": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T18:48:34+00:00"
-    },
-    {
-      "id": "4547d94f64c644babcdf5bdb",
-      "title": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says",
-      "summary": "The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are \"false and baseless\".",
-      "url": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T15:59:24+00:00"
     },
     {
       "id": "611a278dcbfa43e50fbb877e",
@@ -464,28 +464,6 @@
       "publishedAt": "2026-04-15T15:52:58+00:00"
     },
     {
-      "id": "1f75e53251c5f098e5697769",
-      "title": "Chinese national given one year in prison for smuggling ants out of Kenya",
-      "summary": "Zhang Kequn was arrested in March while trying to travel to China with more than 2,000 live ants.",
-      "url": "https://www.bbc.com/news/articles/cz788z27j2jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T15:36:25+00:00"
-    },
-    {
-      "id": "68c3b68e910fb7af869a8266",
-      "title": "Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work",
-      "summary": "The Snapchat owner is laying off around 16% of staff and withdrawn hundreds of open job roles.",
-      "url": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-15T15:15:13+00:00"
-    },
-    {
       "id": "844035ccf02a5fb10a8f8314",
       "title": "« La France croit en la crypto » : le gouvernement en opération séduction à la Paris Blockchain Week",
       "summary": "Plusieurs ministres participent à ce salon privé consacré aux cryptomonnaies, dans un contexte où le secteur tente de s’institutionnaliser, mais où les attaques visant les investisseurs se multiplient en France.",
@@ -495,17 +473,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-15T14:35:40+00:00"
-    },
-    {
-      "id": "4d581b357a6c407cf90e0014",
-      "title": "Magyar calls for fast handover of power in talks with Hungary's president",
-      "summary": "Péter Magyar, the man who ended Viktor Orbán's 16 years of continuous rule, wants the new parliament to convene in early May.",
-      "url": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T13:51:20+00:00"
     },
     {
       "id": "4324f66c33938088f3572248",
@@ -585,17 +552,6 @@
       "publishedAt": "2026-04-15T10:02:19+00:00"
     },
     {
-      "id": "8a6ed93471d47e18647deabe",
-      "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
-      "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
-      "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T09:19:07+00:00"
-    },
-    {
       "id": "d55f2a46e3b0a408a7afb248",
       "title": "Moment gunman tackled by school principal",
       "summary": "CCTV footage shows a high school principal charging towards a former student who was armed in Oklahoma.",
@@ -662,17 +618,6 @@
       "publishedAt": "2026-04-14T21:30:00+00:00"
     },
     {
-      "id": "55d4217bf640393b4ed150e4",
-      "title": "Palantir defends its record as MPs demand more scrutiny of data use",
-      "summary": "NHS guidance that all hospitals should be using Palantir software from this month has sparked a backlash.",
-      "url": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-14T18:57:51+00:00"
-    },
-    {
       "id": "fa83a5555e9247cabf182aa0",
       "title": "OpenAI et Anthropic, en quête de rentabilité, envisagent d’entrer en Bourse pour lever les capitaux nécessaires à leurs investissements",
       "summary": "Les géants de l’IA investissent des sommes colossales, sans garantie de rentabilité à ce stade, persuadés que leur technologie est vouée à devenir indispensable.",
@@ -684,17 +629,6 @@
       "publishedAt": "2026-04-14T13:00:00+00:00"
     },
     {
-      "id": "51c9943ccf134a13d47111ca",
-      "title": "Rolls-Royce launches new two-seater electric car",
-      "summary": "The company says it will create only 100 of its Project Nightingale in its Goodwood headquarters.",
-      "url": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-14T12:06:48+00:00"
-    },
-    {
       "id": "33619a30689ea21bdbcc7d65",
       "title": "Cryptomonnaies : une mère et son fils libérés par le GIGN après leur enlèvement en Bourgogne ; sept personnes en garde à vue",
       "summary": "Le ministre de l’intérieur, Laurent Nuñez, a salué l’opération et rappelle que cette affaire faite suite « à une longue série d’interpellations dans d’autres dossiers menées dans le milieu des cryptomonnaies ».",
@@ -704,17 +638,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-14T10:58:56+00:00"
-    },
-    {
-      "id": "b582fa7d5697fd753350dbd1",
-      "title": "Watch: What are Harry and Meghan doing in Australia?",
-      "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
-      "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-14T09:41:22+00:00"
     },
     {
       "id": "8a4e9a78124ff268053b749e",
@@ -904,6 +827,17 @@
       "publishedAt": "2026-04-10T21:01:18+00:00"
     },
     {
+      "id": "4adae41982396d59b4677b81",
+      "title": "Great at gaming? US air traffic control wants you to apply",
+      "summary": "A new government ad campaign is trying to persuade gamers to apply for air safety roles.",
+      "url": "https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-10T19:35:24+00:00"
+    },
+    {
       "id": "5ec588eb52043d314920cc82",
       "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
       "summary": "The Facebook owner recently lost a landmark social media addiction trial in California",
@@ -924,6 +858,28 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-10T13:13:09+00:00"
+    },
+    {
+      "id": "5e849a842421076bc44eee13",
+      "title": "TV for dogs booms but are they watching?",
+      "summary": "TV channels for dogs are multiplying but research is mixed on whether dogs are watching.",
+      "url": "https://www.bbc.com/news/articles/cq59leg3gp5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-09T23:06:25+00:00"
+    },
+    {
+      "id": "d42af22a901ba1ea0e014c00",
+      "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+      "summary": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
+      "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-09T20:36:41+00:00"
     },
     {
       "id": "df8f61e13831f8966f68d471",
