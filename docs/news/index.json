@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-04-16T11:53:56.741062+00:00",
+  "updatedAt": "2026-04-16T13:10:31.724220+00:00",
   "items": [
+    {
+      "id": "417e0bfbee26927eb05e30bf",
+      "title": "« Tu crois que c’est vraiment Satoshi ? » : lors d’une soirée de gala en marge de la Paris Blockchain Week, un homme au cœur des spéculations sur l’inventeur du bitcoin",
+      "summary": "Le « New York Times » a publié une longue enquête, le 8 avril, proclamant avoir identifié Satoshi Nakamoto, le mystérieux créateur du bitcoin. Présent lors d’une soirée du salon privé consacré aux cryptomonnaies organisée au château de Versailles, Adam Back continue de démentir. Mais le Britannique suscite aussi la fascination.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/16/tu-crois-que-c-est-vraiment-satoshi-lors-d-une-soiree-de-gala-en-marge-de-la-paris-blockchain-week-un-homme-au-c-ur-des-speculations-sur-l-inventeur-du-bitcoin_6680527_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-16T13:00:24+00:00"
+    },
+    {
+      "id": "0d8e7aab06de910a9724e050",
+      "title": "Pope criticises 'tyrants' who spend billions on wars, days after Trump spat",
+      "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+      "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T12:42:23+00:00"
+    },
     {
       "id": "28f84186f6bb8be3a60022a2",
       "title": "South African opposition figure Malema sentenced to five years in prison",
@@ -10,18 +32,62 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-16T11:32:12+00:00"
+      "publishedAt": "2026-04-16T12:36:16+00:00"
     },
     {
-      "id": "d0b1dc9c01ed3b840e1a64af",
-      "title": "Blunt-speaking Pope tells Cameroon to root out corruption to find peace",
-      "summary": "The pontiff was unusually forthright in his address at the presidential palace.",
-      "url": "https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&at_campaign=rss",
+      "id": "ce70a04abc99bb71b573b9bc",
+      "title": "Hytale Dev Addresses Copycat",
+      "summary": "Hytale developer Hypixel Studios is taking legal action against a copycat game that popped up on the Nintendo eShop last week.",
+      "url": "https://www.ign.com/articles/hytale-dev-addresses-copycat",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-16T11:28:42+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T12:10:29+00:00"
+    },
+    {
+      "id": "17852fd64d8bee3ee5d59789",
+      "title": "Pragmata PC Settings Guide",
+      "summary": "Some light tweaking can go a long way.",
+      "url": "https://www.ign.com/articles/pragmata-pc-settings-guide",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T12:00:00+00:00"
+    },
+    {
+      "id": "a967dfa024fb9ef3bd63d4ae",
+      "title": "Turtle Beach's Next Stealth Pro Headset Sounds Bigger and Badder",
+      "summary": "Turtle Beach's next Stealth Pro headset sound bigger and badder, and they sure look a lot like Apple's AirPods Max.",
+      "url": "https://www.ign.com/articles/turtle-beachs-next-stealth-pro-headset-sounds-bigger-and-badder",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T12:00:00+00:00"
+    },
+    {
+      "id": "f31db64dff45d2fbdbc248ae",
+      "title": "Tomodachi Life: Living the Dream Nintendo Recreation",
+      "summary": "Tomodachi Life: Living the Dream releases today on the Nintendo Switch, and as an example of the scope and depth of what players can make in the latest installment of Nintendo’s life sim, the devs recreated Nintendo’s Kyoto HQ in-game for their Mii avatars.",
+      "url": "https://www.ign.com/articles/tomodachi-life-living-the-dream-nintendo-recreation",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T11:58:04+00:00"
+    },
+    {
+      "id": "0be8ab7dec6102000405b40d",
+      "title": "Ex-Sony Exec Comments on Game Pass",
+      "summary": "A former PlayStation executive has questioned Microsoft’s reported bid to revive Xbox Game Pass with a price cut.",
+      "url": "https://www.ign.com/articles/ex-sony-exec-comments-on-game-pass",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-16T11:24:29+00:00"
     },
     {
       "id": "610bc5afa6f8033ad2923e6d",
@@ -211,17 +277,6 @@
       "publishedAt": "2026-04-16T05:52:12+00:00"
     },
     {
-      "id": "96c29f8b59ace84c4dbf8738",
-      "title": "Shakespeare's 'missing' home mapped with discovery",
-      "summary": "A Shakespeare expert identifies the location and size of the property the playwright bought in1613.",
-      "url": "https://www.bbc.com/news/articles/cedeenvdwgxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-16T05:02:47+00:00"
-    },
-    {
       "id": "80e6c06b13e78c106addf842",
       "title": "Expand Your Home Gym on the Cheap With the Yoleo Weight Bench for Just $55.49 Shipped",
       "summary": "Comes 95% preassembled and features 14 individual bench adjustments.",
@@ -354,28 +409,6 @@
       "publishedAt": "2026-04-15T23:06:43+00:00"
     },
     {
-      "id": "04ec013e699f834bb52842e5",
-      "title": "Universal Pictures at CinemaCon 2026: Everything Revealed",
-      "summary": "From Christopher Nolan's The Odyssey to Steven Spielberg's Disclosure Day, these were the big movie reveals from Universal Pictures' CinemaCon 2026 presentation.",
-      "url": "https://www.ign.com/articles/universal-pictures-at-cinemacon-2026-everything-revealed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T23:06:40+00:00"
-    },
-    {
-      "id": "c09f6657a1d994ecb27d35c9",
-      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
-      "summary": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
-      "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T22:56:29+00:00"
-    },
-    {
       "id": "1a0aea150f486522956936ef",
       "title": "Howl recordings and an AI image: Inside South Korea's long hunt for an escaped wolf",
       "summary": "Hundreds have been deployed to find Neukgu, a young wolf that has eluded capture for a week and counting.",
@@ -385,50 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-15T22:09:13+00:00"
-    },
-    {
-      "id": "0870feeb8dc56730b010c216",
-      "title": "Belkin Releases a Wireless Mic and Tripod Starter Set for New Creators",
-      "summary": "Belkin has announced the Stage Creator Kit, a bundled collection of creator-focused hardware that includes a telescoping tripod, a magnetic phone holder, and Belkin's compact set of two clip-on, wireless microphones, and a USB-C receiver.",
-      "url": "https://www.ign.com/articles/belkin-releases-a-wireless-mic-and-tripod-starter-set-for-new-creators",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T22:02:40+00:00"
-    },
-    {
-      "id": "4a74fa81c19065f4e047a858",
-      "title": "Alienware Just Released the Least Expensive 27\" QHD 240Hz OLED Gaming Monitor I've Ever Seen",
-      "summary": "Setting the bar for affordable OLED picture quality in PC gaming.",
-      "url": "https://www.ign.com/articles/alienware-just-released-the-least-expensive-27-qhd-240hz-oled-gaming-monitor-ever",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T21:35:00+00:00"
-    },
-    {
-      "id": "c3c637b9d18255bfad9d0281",
-      "title": "Walmart Has the Lowest Price on an Nvidia GeForce RTX 5070 12GB Graphics Card in 2026",
-      "summary": "\"Only\" $50 over MSRP.",
-      "url": "https://www.ign.com/articles/pny-geforce-rtx-5070-graphics-card-deal-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T21:30:00+00:00"
-    },
-    {
-      "id": "3b97abca0f54fc9496105d9e",
-      "title": "Save $50 Off the Latest Apple AirPods Pro 3 Noise Canceling Earbuds at Amazon",
-      "summary": "The best earbuds for iPhone.",
-      "url": "https://www.ign.com/articles/new-apple-airpods-pro-3-deal-for-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-15T21:15:00+00:00"
     },
     {
       "id": "911f6c01af508bbecf096fde",
@@ -473,17 +462,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-15T14:35:40+00:00"
-    },
-    {
-      "id": "4324f66c33938088f3572248",
-      "title": "South Africa names apartheid-era politician as new ambassador to the US",
-      "summary": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
-      "url": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T13:10:56+00:00"
     },
     {
       "id": "ac18a357df46779afab582a1",
@@ -803,17 +781,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-12T06:00:15+00:00"
-    },
-    {
-      "id": "bde02aef12f5aa76e1935937",
-      "title": "OpenClaw, cet agent IA autonome qui agite la Silicon Valley",
-      "summary": "Conçu par un programmeur autrichien, cet agent mû par intelligence artificielle peut prendre le contrôle presque total de l’ordinateur sur lequel il est installé. Il séduit les développeurs et les entrepreneurs en leur donnant l’espoir de démultiplier leurs forces. Particulièrement souple, l’outil se révèle aussi complexe et dangereux.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/12/openclaw-cet-agent-ia-autonome-qui-agite-la-silicon-valley_6679530_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-12T04:00:13+00:00"
     },
     {
       "id": "29a64790481fd4c0551dcb29",
