@@ -1,10 +1,120 @@
 {
-  "updatedAt": "2026-04-17T08:22:35.030156+00:00",
+  "updatedAt": "2026-04-17T10:07:08.238401+00:00",
   "items": [
+    {
+      "id": "01e07e5caf19505736400693",
+      "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
+      "summary": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington's terms.",
+      "url": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-17T09:19:23+00:00"
+    },
+    {
+      "id": "68645755d8d07b3f96316a6e",
+      "title": "Game Pass Rumor Details",
+      "summary": "The new boss of Xbox is reportedly considering a Game Pass tier that would only include first-party Microsoft games.",
+      "url": "https://www.ign.com/articles/game-pass-rumor-details",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-17T09:07:14+00:00"
+    },
+    {
+      "id": "3ebe5057c6291f4b13b4d9db",
+      "title": "Samson Review",
+      "summary": "Samson may come stocked with an impressively detailed sandbox, but it’s totally impossible to recommend in its current state.",
+      "url": "https://www.ign.com/articles/samson-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-17T08:58:20+00:00"
+    },
+    {
+      "id": "07917b8cb59f9fdfcb7965ee",
+      "title": "Indie Racer Formula Legends Gets Officially Licensed Formula E Expansion",
+      "summary": "3DClouds has announced it has partnered with the FIA Formula E World Championship for a fully licensed expansion for its 2025 racer Formula Legends.",
+      "url": "https://www.ign.com/articles/indie-racer-formula-legends-gets-officially-licensed-formula-e-expansion",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-17T08:58:04+00:00"
+    },
+    {
+      "id": "9674be9882532990f0a2a004",
+      "title": "Plus des trois quarts des pays européens sont dépendants du cloud américain pour des fonctions essentielles à leur sécurité nationale, met en garde un rapport",
+      "summary": "Une analyse du groupe de réflexion Future of Technology Institute souligne les risques que fait peser pour l’Europe la dépendance numérique aux Etats-Unis.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/17/plus-des-trois-quarts-des-pays-europeens-sont-dependants-du-cloud-americain-pour-des-fonctions-essentielles-a-leur-securite-nationale-met-en-garde-un-rapport_6680848_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-17T08:57:29+00:00"
+    },
+    {
+      "id": "44647a31c932b3b6aed75669",
+      "title": "What we know about the Israel-Lebanon ceasefire",
+      "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-17T08:44:20+00:00"
+    },
+    {
+      "id": "fda0fd56f0b2f9ad582b3440",
+      "title": "Avengers: Endgame Re-Release Update",
+      "summary": "The re-release of Avengers: Endgame in theaters will include brand-new footage, Marvel Studios has said.",
+      "url": "https://www.ign.com/articles/avengers-endgame-re-release-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-17T08:38:10+00:00"
+    },
+    {
+      "id": "1f62e8064ffcaaefecba744c",
+      "title": "Avengers reassemble and Top Gun flies back - Hollywood studios preview their new movies",
+      "summary": "Some of the most hotly anticipated new films of the next couple of years are previewed at CinemaCon.",
+      "url": "https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-17T08:30:34+00:00"
+    },
+    {
+      "id": "56dea753fbbe50c2a1e6905d",
+      "title": "Three charged with arson on Persian media offices in London",
+      "summary": "Two teenagers and a 21-year-old man are due in court charged with arson with intent to endanger life.",
+      "url": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-17T08:22:33+00:00"
+    },
+    {
+      "id": "fb122b465ce5348eb27a48ba",
+      "title": "Project Hail Mary Theatrical Update",
+      "summary": "Amazon MGM has extended the Project Hail Mary exclusive theatrical window, with a full return to Imax for one week only kicking off this weekend.",
+      "url": "https://www.ign.com/articles/project-hail-mary-theatrical-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-17T08:18:41+00:00"
+    },
     {
       "id": "762b5c8373b1d3a6d2957724",
       "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
       "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -46,17 +156,6 @@
       "publishedAt": "2026-04-17T06:00:00+00:00"
     },
     {
-      "id": "44647a31c932b3b6aed75669",
-      "title": "What we know about the Israel-Lebanon ceasefire",
-      "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
-      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-17T05:34:48+00:00"
-    },
-    {
       "id": "8fb64abd55508acc1fc8bdb7",
       "title": "Moment wolf on the run in South Korea is found",
       "summary": "The escape of Neukgu, a two-year-old wolf, from a zoo in the city of Daejon captured national attention.",
@@ -70,7 +169,7 @@
     {
       "id": "a5a82ed95deac42a955a11b4",
       "title": "Avec Mythos, l’IA d’Anthropic capable de détecter les failles des logiciels, les Américains s’arrogent un pré carré sur la cybersécurité mondiale",
-      "summary": "Le nouveau système du géant mondial de l’intelligence artificielle fait craindre la divulgation massive de failles informatiques, qui ferait le bonheur des cybercriminels. Le groupe de travail mis en place par l’entreprise pour identifier et corriger les vulnérabilités laisse de côté les Européens et les Chinois.",
+      "summary": "Le nouveau système du géant mondial de l’intelligence artificielle fait craindre la divulgation massive de failles informatiques, qui ferait le bonheur des cybercriminels. « Glasswing », le groupe de travail mis en place par l’entreprise pour identifier et corriger les vulnérabilités, laisse de côté les Européens et les Chinois.",
       "url": "https://www.lemonde.fr/economie/article/2026/04/17/avec-son-ia-mythos-anthropic-suscite-l-effroi-et-fait-de-la-cybersecurite-la-chasse-gardee-du-secteur-prive-americain_6680799_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -79,8 +178,8 @@
       "publishedAt": "2026-04-17T03:30:09+00:00"
     },
     {
-      "id": "e1dbd20b1c1e907766beedc6",
-      "title": "South Korea's runaway wolf finally captured after nine-day search",
+      "id": "fafad97a194a5ca692f8308c",
+      "title": "Runaway wolf finally captured after nine-day search in South Korea",
       "summary": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
       "url": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -134,6 +233,17 @@
       "publishedAt": "2026-04-17T01:00:00+00:00"
     },
     {
+      "id": "fa13f9e25be4a476b7900b84",
+      "title": "Iranian footballers say Australia has given them 'hope' for safe future",
+      "summary": "The duo had sought aslyum after their football team did not sing the national anthem during a match.",
+      "url": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-17T00:30:38+00:00"
+    },
+    {
       "id": "30c0541eded9f385f78fcbbd",
       "title": "Disney Debuts New Avengers: Doomsday Trailer at CinemaCon 2026",
       "summary": "Disney showed off a brand new Avengers: Doomsday trailer at CinemaCon 2026. Here's what we saw.",
@@ -147,7 +257,7 @@
     {
       "id": "dd5fabbfc7ce156d6644d659",
       "title": "'I was tortured and lost my hand' - one student's struggle to get an education in Nigeria",
-      "summary": "The BBC speaks to a student who pushed for his his toe print to be taken to verify his identity.",
+      "summary": "The BBC speaks to a student who pushed for his toe print to be taken to verify his identity.",
       "url": "https://www.bbc.com/news/articles/c9d4nnpw8w2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -187,6 +297,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-16T22:30:00+00:00"
+    },
+    {
+      "id": "f59471cf79c121c3d226e96a",
+      "title": "'How does one survive?': Factory protests expose strain in India's industrial system",
+      "summary": "Workers in some north Indian cities have been protesting, demanding better pay and working conditions.",
+      "url": "https://www.bbc.com/news/articles/ce8444gex65o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-16T22:25:26+00:00"
     },
     {
       "id": "e0bd83b305d5f52b7d50a045",
@@ -321,39 +442,6 @@
       "publishedAt": "2026-04-16T19:17:17+00:00"
     },
     {
-      "id": "2d7fbfba81bfad95776816a7",
-      "title": "Today’s Best Deals: Switch 2 Resident Evil Generation Pack, Gaming Chair Under $100, and Pokémon TCG",
-      "summary": "Plus, shop discounts on a lawn mower, Exploding Kittens, and more.",
-      "url": "https://www.ign.com/articles/todays-best-deals-switch-2-resident-evil-generation-pack-gaming-chair-under-100-and-pokmon-tcg",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-16T19:10:00+00:00"
-    },
-    {
-      "id": "f1fcb7aa09512a06e6b910f8",
-      "title": "Grab a Meta Quest 3 or 3S Before the Price Goes Up",
-      "summary": "Meta has announced price increases across the Meta Quest 3 and Meta Quest 3S line of virtual reality headsets. Here's where you can still buy one at today's lower prices.",
-      "url": "https://www.ign.com/articles/grab-a-meta-quest-3-or-3s-before-the-price-goes-up",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-16T19:04:44+00:00"
-    },
-    {
-      "id": "6c15cd95c3d5815cc9ee322b",
-      "title": "Disney Lorcana TCG: Collection Starter Set - Stitch Edition Has One of the Coolest Cards and It's Also Great for Beginners",
-      "summary": "If you are new to Disney Lorcana, are looking to learn more and build your collection, or simply want one of the coolest cards I've seen yet from the trading card game, I strongly recommend this Disney Lorcana TCG: Collection Starter Set - Stitch Edition after getting my hands on it earlier this month.",
-      "url": "https://www.ign.com/articles/disney-lorcana-tcg-collection-starter-set-stitch-edition-has-one-of-the-coolest-cards-and-its-also-great-for-beginners",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-16T19:00:00+00:00"
-    },
-    {
       "id": "6b51656ae69b6f61bcaca837",
       "title": "Un projet de loi « contre les ingérences étrangères » annoncé par Emmanuel Macron, à un an de l’élection présidentielle",
       "summary": "S’exprimant devant plusieurs centaines de maires réunis à l’Elysée, le président français a dit vouloir réguler la parole sur les réseaux sociaux.",
@@ -374,28 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-16T18:40:45+00:00"
-    },
-    {
-      "id": "3cc8ee2d1c0ebabc262c7ed5",
-      "title": "The LADPED Adult Electric Scooter With 19mph Top Speed Starts at Just $109 at AliExpress",
-      "summary": "Fast and free delivery (ships from the US) and sold by the official manufacturer.",
-      "url": "https://www.ign.com/articles/best-ladped-electric-scooter-deal-aliexpress-april-sale-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-16T18:40:00+00:00"
-    },
-    {
-      "id": "f2c5a279b9fea69e492976fe",
-      "title": "Save $700 Off the Legion RTX 5070 Ti Gaming PC, Now Includes Pragmata for Free",
-      "summary": "One of the few gaming PCs priced under $2K this year that can run any game in 4K.",
-      "url": "https://www.ign.com/articles/lenovo-legion-tower-5-rtx-5070-ti-gaming-pc-deal-includes-pragmata",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-16T18:35:00+00:00"
     },
     {
       "id": "e1ffd3988c859c62cb5dc827",
@@ -508,17 +574,6 @@
       "publishedAt": "2026-04-16T14:46:14+00:00"
     },
     {
-      "id": "349f740639d199f28366aa32",
-      "title": "India pushes for women's quota bill as row over parliamentary seats intensifies",
-      "summary": "Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.",
-      "url": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-16T14:26:17+00:00"
-    },
-    {
       "id": "a6a6a2721d2cbf3fa16cdf42",
       "title": "L’UE précise comment Google devra partager les données de son moteur de recherche",
       "summary": "Cette annonce a été faite par la Commission européenne dans le cadre d’une procédure amiable lancée en janvier, pour s’assurer que le grand groupe américain remplisse ses obligations en vertu du règlement européen sur les marchés numériques.",
@@ -574,28 +629,6 @@
       "publishedAt": "2026-04-16T09:20:36+00:00"
     },
     {
-      "id": "25f5800a3b5b945fa765f232",
-      "title": "Meghan: 'I was the most trolled person in the entire world'",
-      "summary": "Speaking in Melbourne about the harms of social media, alongside the Duke of Sussex, Meghan said she was \"bullied\" every day for a decade.",
-      "url": "https://www.bbc.com/news/videos/cwyj271eg81o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-16T09:01:50+00:00"
-    },
-    {
-      "id": "cf40035e57345318fdf101c5",
-      "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-      "summary": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
-      "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-16T08:28:51+00:00"
-    },
-    {
       "id": "1587e95ee55bd63a55df1425",
       "title": "En Inde, un film entièrement généré par IA au cinéma pour la première fois à la fin de l’été",
       "summary": "Des acteurs aux décors, et jusqu’à la mise en scène : chaque détail du film « Maharaja in Denims » a été généré par l’intelligence artificielle, à l’exception de sa bande-son. L’idée d’un long-métrage créé par la machine a fait son chemin dans la très prolifique industrie indienne du cinéma.",
@@ -616,17 +649,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-15T23:06:43+00:00"
-    },
-    {
-      "id": "911f6c01af508bbecf096fde",
-      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
-      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-15T21:10:14+00:00"
     },
     {
       "id": "611a278dcbfa43e50fbb877e",
@@ -759,17 +781,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-14T13:00:00+00:00"
-    },
-    {
-      "id": "33619a30689ea21bdbcc7d65",
-      "title": "Cryptomonnaies : une mère et son fils libérés par le GIGN après leur enlèvement en Bourgogne ; sept personnes en garde à vue",
-      "summary": "Le ministre de l’intérieur, Laurent Nuñez, a salué l’opération et rappelle que cette affaire faite suite « à une longue série d’interpellations dans d’autres dossiers menées dans le milieu des cryptomonnaies ».",
-      "url": "https://www.lemonde.fr/societe/article/2026/04/14/cryptomonnaies-une-mere-et-son-fils-liberes-par-le-gign-apres-leur-enlevement-en-bourgogne-quatre-personnes-interpellees_6679919_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-14T10:58:56+00:00"
     },
     {
       "id": "c35b8b459c5fc2c528e93738",
