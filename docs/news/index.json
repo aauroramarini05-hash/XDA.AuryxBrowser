@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-04-19T06:25:19.990137+00:00",
+  "updatedAt": "2026-04-19T08:02:18.937141+00:00",
   "items": [
+    {
+      "id": "29cf969e7fad939f86a33fe4",
+      "title": "Bodies of 50 infants dumped at Trinidad graveyard",
+      "summary": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\".",
+      "url": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-19T07:49:45+00:00"
+    },
+    {
+      "id": "8632986d9cce07b0479c847d",
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-19T07:47:35+00:00"
+    },
+    {
+      "id": "df43034d7fc9568c16314a34",
+      "title": "Où les éditeurs d’IA trouvent-ils les montagnes de textes nécessaires à leur entraînement ?",
+      "summary": "Très évasifs sur les sources d’entraînement de leurs intelligences artificielles, les éditeurs sont soupçonnés d’employer des piles de textes à la provenance sulfureuse.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/19/ou-les-editeurs-d-ia-trouvent-ils-les-montagnes-de-textes-necessaires-a-leur-entrainement_6681441_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-19T06:30:02+00:00"
+    },
     {
       "id": "df0fc9832f377383cc05851a",
       "title": "Australia's most-decorated soldier vows to 'fight' war crime charges",
@@ -33,6 +66,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-19T00:45:48+00:00"
+    },
+    {
+      "id": "f027bf22ea0def804b8bddeb",
+      "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "summary": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
+      "url": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-18T23:09:49+00:00"
     },
     {
       "id": "6ba324bc93ed40fbfc0663a5",
@@ -90,8 +134,8 @@
       "publishedAt": "2026-04-18T22:51:19+00:00"
     },
     {
-      "id": "242a84ce056e11377a29a17f",
-      "title": "The South Korean authors rising above a tide of hate to become bestsellers",
+      "id": "768482926b3312434f39a599",
+      "title": "A literary revolution is sweeping South Korea - and being led by women",
       "summary": "A quiet revolution is unfolding as women writers carve out space in the wake of an anti-feminist backlash.",
       "url": "https://www.bbc.com/news/articles/cm2rpl7xzpvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -220,17 +264,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-18T16:51:48+00:00"
-    },
-    {
-      "id": "8632986d9cce07b0479c847d",
-      "title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
-      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-18T16:44:39+00:00"
     },
     {
       "id": "17c582df205a66f865091d86",
@@ -440,17 +473,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-17T23:15:00+00:00"
-    },
-    {
-      "id": "5b8657514b2bdbe8deed4c2e",
-      "title": "He made jazz under air raids - and built an Indian city's music scene",
-      "summary": "War correspondent, jazz bandleader and impresario, KC Sen shaped Kolkata’s music scene.",
-      "url": "https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-17T23:01:06+00:00"
     },
     {
       "id": "5746368ac53f68bf0a5c72e4",
@@ -726,17 +748,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-15T11:30:00+00:00"
-    },
-    {
-      "id": "34eb488e0db9f55db0731224",
-      "title": "Faux arrêts-maladie : un homme mis en examen pour avoir vendu plus de 44 000 certificats sur Internet",
-      "summary": "Les investigations ont établi que « des arrêts de travail étaient générés systématiquement par la plateforme, pour la somme de 21 euros », selon le parquet de Paris. L’homme de 25 ans a été mis en examen au début d’avril à Paris, notamment pour exercice illégal de la médecine.",
-      "url": "https://www.lemonde.fr/societe/article/2026/04/15/faux-arrets-maladie-un-homme-mis-en-examen-pour-avoir-vendu-plus-de-44-000-certificats-sur-internet_6680276_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-15T11:28:41+00:00"
     },
     {
       "id": "d62061d144aef562c87ade75",
