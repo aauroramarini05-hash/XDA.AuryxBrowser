@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-04-20T22:35:29.076851+00:00",
+  "updatedAt": "2026-04-20T23:35:30.781740+00:00",
   "items": [
     {
-      "id": "b3a07bff7d3aba409eef6ab6",
-      "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
-      "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted.",
-      "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+      "id": "4bccfea556838afe151a0e08",
+      "title": "The 'dumb machine' promising a clean energy breakthrough",
+      "summary": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
+      "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC World",
+      "source": "BBC Technology",
       "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T22:09:21+00:00"
+      "category": "technology",
+      "publishedAt": "2026-04-20T23:09:41+00:00"
+    },
+    {
+      "id": "32685e9b8e820b75c9a9fc56",
+      "title": "Renew Your Wardrobe with These Spring Deals at Men's Wearhouse",
+      "summary": "Elevate your wardrobe for less.",
+      "url": "https://www.ign.com/articles/renew-your-wardrobe-with-these-spring-deals-at-mens-wearhouse",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T23:00:00+00:00"
     },
     {
       "id": "f40c27a61979906fcb54f338",
@@ -21,7 +32,18 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-04-20T22:03:26+00:00"
+      "publishedAt": "2026-04-20T22:55:39+00:00"
+    },
+    {
+      "id": "b3a07bff7d3aba409eef6ab6",
+      "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
+      "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted.",
+      "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T22:53:24+00:00"
     },
     {
       "id": "9b979cfbf976a3d3fbab2889",
@@ -99,6 +121,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-20T21:06:40+00:00"
+    },
+    {
+      "id": "6d8c1915fa69dbca26fb7d88",
+      "title": "Indian politicians are campaigning while holding fish. What is going on?",
+      "summary": "In West Bengal polls, fish moves from plate to politics, symbolising identity and cultural pride.",
+      "url": "https://www.bbc.com/news/articles/cwyw2zvqxe2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T21:01:31+00:00"
     },
     {
       "id": "3521809e607caa979882666c",
@@ -297,17 +330,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-20T17:10:00+00:00"
-    },
-    {
-      "id": "1dc27c1c3446aba50e6aff88",
-      "title": "Save Over 50% Off a Sonos Sub Wireless Subwoofer During the Sonos Earth Day Sale",
-      "summary": "Certified refurbished with the same 1 year warranty as buying new.",
-      "url": "https://www.ign.com/articles/save-over-half-off-the-sonos-sub-during-the-sonos-earth-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-20T17:05:00+00:00"
     },
     {
       "id": "597128d37280d2d8217cf8c7",
@@ -706,17 +728,6 @@
       "publishedAt": "2026-04-19T06:30:02+00:00"
     },
     {
-      "id": "a72b5cf541b697a370a459ce",
-      "title": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
-      "summary": "Montenegro and Albania are among the places rising in popularity for Britons seeking a holiday away from tourist traps.",
-      "url": "https://www.bbc.com/news/articles/c747r0l8n7do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-18T23:08:45+00:00"
-    },
-    {
       "id": "bdb9b0ed1e29b2c66d5032cd",
       "title": "Non, je ne suis pas un robot : le casse-tête des Captcha",
       "summary": "« Sur le feed. » Ces tests requis pour accéder à certains services sur Internet, aux allures parfois kafkaïenness, sont censés distinguer l’être humain de la machine. Aujourd’hui inefficaces, ils permettent surtout de récolter des données et d’alimenter les algorithmes.",
@@ -935,17 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-13T23:35:56+00:00"
-    },
-    {
-      "id": "9bf7b1d19b1852f1c10091a1",
-      "title": "GTA-maker Rockstar Games hacked again but downplays impact",
-      "summary": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
-      "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-13T15:10:38+00:00"
     },
     {
       "id": "df8f61e13831f8966f68d471",
