@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-04-20T07:12:06.485347+00:00",
+  "updatedAt": "2026-04-20T09:49:54.169054+00:00",
   "items": [
+    {
+      "id": "b5f9019013d9a690d929a7f3",
+      "title": "Pragmata Sales Update",
+      "summary": "Pragmata has sold 1 million copies in two days, Capcom has announced.",
+      "url": "https://www.ign.com/articles/pragmata-sales-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T08:47:29+00:00"
+    },
+    {
+      "id": "dd4f67cc99486f8d14caf619",
+      "title": "The Legend of Zelda Movie Artwork Shows Link Wielding the Master Sword",
+      "summary": "The Legend of Zelda fans have gotten their first look at the upcoming live-action movie's Master Sword, via concept art showing Link wielding the iconic blade.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-movie-artwork-shows-link-wielding-the-master-sword",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T08:43:27+00:00"
+    },
     {
       "id": "b767df0d60b7a44c0024ff43",
       "title": "Oil prices rise after Trump says Iranian ship seized",
@@ -10,7 +32,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-20T06:41:10+00:00"
+      "publishedAt": "2026-04-20T08:41:12+00:00"
+    },
+    {
+      "id": "4e25b38a61fa224abb8fbfc8",
+      "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+      "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
+      "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T08:26:46+00:00"
+    },
+    {
+      "id": "8d3f05fcdf3ba6d6309eab2e",
+      "title": "Rumen Radev's party wins Bulgarian election",
+      "summary": "With 87% of the vote now counted, Progressive Bulgaria has secured a majority in parliament.",
+      "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T07:47:42+00:00"
+    },
+    {
+      "id": "ca7ec2868463b2a1781f658b",
+      "title": "US releases video of forces seizing Iranian ship",
+      "summary": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
+      "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T07:29:42+00:00"
+    },
+    {
+      "id": "8aa5a4453bfd462d9fe730d6",
+      "title": "Watch: Trapped boy dangles from moving bus in Australia",
+      "summary": "The boy, who was uninjured, was dragged for 350 metres after the back doors trapped his arm and school bag.",
+      "url": "https://www.bbc.com/news/videos/c80mn1jjyvno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T06:46:03+00:00"
     },
     {
       "id": "db8e24029a123472ac8f023a",
@@ -24,17 +90,6 @@
       "publishedAt": "2026-04-20T05:13:58+00:00"
     },
     {
-      "id": "ec88acd96c1e1cfd3846822e",
-      "title": "Rumen Radev set to win Bulgarian Parliamentary election",
-      "summary": "Early results put his Progressive Bulgaria on 45%, well ahead of the liberal PP-DB coalition, which stood at 15%.",
-      "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T04:50:15+00:00"
-    },
-    {
       "id": "f8a488f3087ba731ef5a2fa7",
       "title": "Présidentielle 2027 : « La France peut et doit aller plus loin pour se protéger des ingérences numériques étrangères »",
       "summary": "Dans une tribune au « Monde », le président du Collectif Télémaque, Philippe Sabuco, appelle à anticiper d’éventuelles tentatives de déstabilisation politique venues de l’étranger lors de l’élection présidentielle de 2027 et recommande de « préparer l’opinion publique à l’éventualité de mesures de régulation de l’espace numérique ».",
@@ -44,17 +99,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-20T04:30:04+00:00"
-    },
-    {
-      "id": "4e25b38a61fa224abb8fbfc8",
-      "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-      "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
-      "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T04:10:40+00:00"
     },
     {
       "id": "6c2405e90f4b606775053239",
@@ -574,39 +618,6 @@
       "publishedAt": "2026-04-18T16:51:48+00:00"
     },
     {
-      "id": "17c582df205a66f865091d86",
-      "title": "Magic's Secrets of Strixhaven Study Guide: All of the Set's New Mechanics, Explained",
-      "summary": "",
-      "url": "https://www.ign.com/articles/magics-secrets-of-strixhaven-study-guide-all-of-the-sets-new-mechanics-explained",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-18T16:00:00+00:00"
-    },
-    {
-      "id": "44e1838d1b9460e82498bbfb",
-      "title": "Crimson Desert's Next Major Patch Adds Difficulty Settings and Inventory Tabs Next Week",
-      "summary": "Crimson Desert developer Pearl Abyss has said it’s taking the time to make sure it properly tests and polishes the game’s next major patch, which is due out next week. Here's what to expect.",
-      "url": "https://www.ign.com/articles/crimson-deserts-next-major-patch-adds-difficulty-settings-and-inventory-tabs-next-week",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-18T15:59:49+00:00"
-    },
-    {
-      "id": "3372d8a1821f2be63d8818e0",
-      "title": "BBC reports from Lebanese border town as residents try to return home",
-      "summary": "BBC Arabic's correspondent Carine Torbey reports from the border town of Khiam, as the ceasefire between Israel and Hezbollah in southern Lebanon goes into its second day.",
-      "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-18T11:47:11+00:00"
-    },
-    {
       "id": "a1f0ba31b37567bdee204a42",
       "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
       "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
@@ -649,17 +660,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-18T00:37:06+00:00"
-    },
-    {
-      "id": "8caa91311b1defe50e8dad47",
-      "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
-      "summary": "Eyewitnesses captured the moment a burning fuel tanker drove through the centre of Hasakah, Syria, leaving a trail of fire behind it.",
-      "url": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-18T00:20:56+00:00"
     },
     {
       "id": "5746368ac53f68bf0a5c72e4",
@@ -715,17 +715,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-17T12:00:04+00:00"
-    },
-    {
-      "id": "01e07e5caf19505736400693",
-      "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
-      "summary": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington's terms.",
-      "url": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-17T09:19:23+00:00"
     },
     {
       "id": "aa4b39a6fd70408c10f7ba77",
