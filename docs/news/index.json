@@ -1,16 +1,126 @@
 {
-  "updatedAt": "2026-04-20T11:14:02.516069+00:00",
+  "updatedAt": "2026-04-20T13:09:12.534291+00:00",
   "items": [
+    {
+      "id": "8d3f05fcdf3ba6d6309eab2e",
+      "title": "Rumen Radev's party wins Bulgarian election",
+      "summary": "With 87% of the vote now counted, Progressive Bulgaria has secured a majority in parliament.",
+      "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T13:01:19+00:00"
+    },
     {
       "id": "4e25b38a61fa224abb8fbfc8",
       "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-      "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
+      "summary": "Three boys and five girls, aged between three to 11, were killed in the shooting on Sunday, officials say.",
       "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-20T10:48:57+00:00"
+      "publishedAt": "2026-04-20T12:56:03+00:00"
+    },
+    {
+      "id": "e77152b663152c3cdd1c50fb",
+      "title": "Près de la moitié des titres mis en ligne sur Deezer chaque jour sont générés par IA",
+      "summary": "L’écoute de ces morceaux reste toutefois « très faible », ne pesant ainsi qu’entre 1 et 3 % du nombre total de streams, précise la plateforme française.",
+      "url": "https://www.lemonde.fr/culture/article/2026/04/20/pres-de-la-moitie-des-titres-mis-en-ligne-sur-deezer-chaque-jour-sont-generes-par-ia_6681718_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-20T12:48:03+00:00"
+    },
+    {
+      "id": "a97cfde8cc3e16e412b6916b",
+      "title": "Are insider traders making millions from the Iran war?",
+      "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
+      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T12:14:56+00:00"
+    },
+    {
+      "id": "c7218ab21d3de2eb3b16ad9d",
+      "title": "LEGO Lord of the Rings Minas Tirith Set Leaks",
+      "summary": "Images showing the long-awaited LEGO Lord of the Rings Minas Tirith set have leaked online, revealing the colossal Middle-earth city in all of its glory.",
+      "url": "https://www.ign.com/articles/lego-lord-of-the-rings-minas-tirith-set-leaks",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T12:04:01+00:00"
+    },
+    {
+      "id": "3a2c41546b22c12bb4ac6543",
+      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
+      "summary": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen.",
+      "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-20T12:03:16+00:00"
+    },
+    {
+      "id": "3c8c95766d228549d755183e",
+      "title": "Iranian woman arrested in US for allegedly trafficking arms to Sudan",
+      "summary": "Shamim Mafi is accused of brokering the sales of arms to Sudan's defence ministry on behalf of Iran.",
+      "url": "https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T11:28:05+00:00"
+    },
+    {
+      "id": "13b15a803ac6bcc898ed2c6e",
+      "title": "L’ANTS, qui gère les cartes d’identité et passeports, visée par une attaque informatique, des données potentiellement divulguées",
+      "summary": "Les fuites concernent notamment les nom, prénom, adresse électronique et date de naissance d’usagers.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/20/l-ants-qui-gere-les-cartes-d-identites-et-passeports-visee-par-une-attaque-informatique-des-donnees-potentiellement-divulguees_6681710_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-20T11:27:00+00:00"
+    },
+    {
+      "id": "b767df0d60b7a44c0024ff43",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T11:23:04+00:00"
+    },
+    {
+      "id": "882e827de847af002cff097a",
+      "title": "Bungie’s Limited Edition Marathon Controller Just Got a Hefty Price Cut at Amazon and Walmart",
+      "summary": "Bungie’s Marathon PS5 DualSense controller just got a major price cut only weeks after launch.",
+      "url": "https://www.ign.com/articles/marathon-ps5-dualsense-controller-deal-amazon-walmart",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T11:20:07+00:00"
+    },
+    {
+      "id": "9dd5076eaa2d87002fb2e72a",
+      "title": "Ryan Reynolds Discusses New Deadpool Team-Up Movie",
+      "summary": "Ryan Reynolds has discussed the future of his beloved Marvel character, and suggested that the next Deadpool movie will likely look different.",
+      "url": "https://www.ign.com/articles/ryan-reynolds-discusses-new-deadpool-team-up-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T11:16:54+00:00"
     },
     {
       "id": "402d13a8d592e4ca0cb43afd",
@@ -22,6 +132,39 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-20T10:41:09+00:00"
+    },
+    {
+      "id": "2dbd96e60faabb99ea890fe5",
+      "title": "Dragon Ball Games Battle Hour 2026: Everything Announced",
+      "summary": "As players beat each other senseless — uh, in-game, of course — during last weekend's Dragon Ball Games Battle Hour 2026, Bandai Namco pulled back the cover on what Dragon Ball fans can expect from the franchise over the next 12 months or so, including confirmation of the final DLC pack for Dragon Ball Xenoverse 2 and the formal unveiling Dragon Ba",
+      "url": "https://www.ign.com/articles/dragon-ball-games-battle-hour-2026-everything-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T10:31:45+00:00"
+    },
+    {
+      "id": "37700eebc4284eb7947a90d2",
+      "title": "Counter-Strike 2 Player Banned",
+      "summary": "A Counter-Strike 2 tournament has slapped a player with a 10-year ban after he punched his opponent live on-stage at a local German LAN.",
+      "url": "https://www.ign.com/articles/counter-strike-2-player-banned",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T10:31:31+00:00"
+    },
+    {
+      "id": "60261431fd6a42e754dc273d",
+      "title": "Former The Last of Us Dev Hints at Potential Future Story",
+      "summary": "A major plot point that could play into The Last of Us: Part 3 has been revealed by a former Naughty Dog developer.",
+      "url": "https://www.ign.com/articles/former-the-last-of-us-dev-hints-at-potential-future-story",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T10:29:41+00:00"
     },
     {
       "id": "41746b40ef4b54bfd8ef1d13",
@@ -88,28 +231,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-20T08:43:27+00:00"
-    },
-    {
-      "id": "b767df0d60b7a44c0024ff43",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T08:41:12+00:00"
-    },
-    {
-      "id": "8d3f05fcdf3ba6d6309eab2e",
-      "title": "Rumen Radev's party wins Bulgarian election",
-      "summary": "With 87% of the vote now counted, Progressive Bulgaria has secured a majority in parliament.",
-      "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T07:47:42+00:00"
     },
     {
       "id": "ca7ec2868463b2a1781f658b",
@@ -453,17 +574,6 @@
       "publishedAt": "2026-04-19T12:52:26+00:00"
     },
     {
-      "id": "29d89d437ce880bd8320e3f0",
-      "title": "Watch: Obama and Mamdani sing with children in New York",
-      "summary": "The former US president and New York City mayor meet for the first time at a child care centre in the Bronx.",
-      "url": "https://www.bbc.com/news/videos/c0le5pdgdzwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-19T11:19:32+00:00"
-    },
-    {
       "id": "7f5b83b879c398f8b17f73cd",
       "title": "Zelensky condemns US extension of Russian sanctions waiver",
       "summary": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
@@ -473,17 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-19T09:55:22+00:00"
-    },
-    {
-      "id": "709645ce17694188898cae74",
-      "title": "Watch: Runners v robots at China half marathon",
-      "summary": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
-      "url": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-19T08:46:34+00:00"
     },
     {
       "id": "8632986d9cce07b0479c847d",
@@ -508,17 +607,6 @@
       "publishedAt": "2026-04-19T06:30:02+00:00"
     },
     {
-      "id": "2669da3a64aefdfb3eca1eb3",
-      "title": "Invincible Season 4 Animation Error Sparks Debate Amongst Fans",
-      "summary": "Fans of Prime Video’s Invincible have started debating the significance of animation errors after spotting a mistake in Season 4 that made Mark Grayson look a little too much like his dad, Omni-Man.",
-      "url": "https://www.ign.com/articles/invincible-season-4-animation-error-sparks-debate-amongst-fans",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-19T00:45:48+00:00"
-    },
-    {
       "id": "a72b5cf541b697a370a459ce",
       "title": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
       "summary": "Montenegro and Albania are among the places rising in popularity for Britons seeking a holiday away from tourist traps.",
@@ -528,72 +616,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-18T23:08:45+00:00"
-    },
-    {
-      "id": "01aabe37777209225f1869eb",
-      "title": "Alec Baldwin to face civil trial over Rust film set shooting",
-      "summary": "The criminal case against the actor was dismissed in 2024.",
-      "url": "https://www.bbc.com/news/articles/cp86rrld6dyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-18T23:08:23+00:00"
-    },
-    {
-      "id": "a7abf6e49d2509505ed807da",
-      "title": "Kevin Feige on Casting Robert Downey Jr. as Doctor Doom: 'It's Our Universe'",
-      "summary": "Marvel Studios mastermind Kevin Feige has opened up about bringing Robert Downey Jr. back to the MCU as Victor Von Doom, saying the multiverse allowed them to do \"whatever the heck we want.\"",
-      "url": "https://www.ign.com/articles/kevin-feige-on-casting-robert-downey-jr-as-doctor-doom-its-our-universe",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-18T22:51:19+00:00"
-    },
-    {
-      "id": "dbab64e0e0ba31054668849f",
-      "title": "Project Hail Mary Author Andy Weir Reveals the One Scene From the Book He Wishes Had Made It Into the Movie",
-      "summary": "Project Hail Mary author Andy Weir has revealed his “only regret” about the movie, confirming the one scene from his book he wishes had made it into the adaptation.",
-      "url": "https://www.ign.com/articles/project-hail-mary-author-andy-weir-reveals-the-one-scene-from-the-book-he-wishes-had-made-it-into-the-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-18T22:29:12+00:00"
-    },
-    {
-      "id": "ba07a021ec736a810a0eeaa3",
-      "title": "Slay the Spire 2 Roadmap Has No Release Dates So Dev Can Avoid 'Sloppy Spire 2'",
-      "summary": "Slay the Spire 2 developer Mega Crit has published a detailed roadmap for Slay the Spire 2 without promising any release dates because it doesn’t want to make \"Sloppy Spire 2.\"",
-      "url": "https://www.ign.com/articles/slay-the-spire-2-roadmap-has-no-release-dates-so-dev-can-avoid-sloppy-spire-2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-18T20:29:35+00:00"
-    },
-    {
-      "id": "4fadc2b53a205ad133f1319a",
-      "title": "The Best Deals Today: Sony 4K OLED BRAVIA 8 TV, 4K Blu-ray Bundles, AirPods Pro 3, and More",
-      "summary": "",
-      "url": "https://www.ign.com/articles/best-deals-for-april-18-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-18T19:46:24+00:00"
-    },
-    {
-      "id": "aae95cff6d67f7527d84086d",
-      "title": "Resident Evil Requiem Mercenaries Rumors Heat Up After Alleged Leak",
-      "summary": "Resident Evil Requiem fans believe next month’s mysterious content update will add a new version of the franchise’s The Mercenaries mode after an alleged datamine leak revealed tense new music.",
-      "url": "https://www.ign.com/articles/resident-evil-requiem-mercenaries-rumors-heat-up-after-alleged-leak",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-18T19:07:49+00:00"
     },
     {
       "id": "bdb9b0ed1e29b2c66d5032cd",
@@ -629,8 +651,8 @@
       "publishedAt": "2026-04-18T00:37:06+00:00"
     },
     {
-      "id": "5746368ac53f68bf0a5c72e4",
-      "title": "« Clair Obscur : Expedition 33 » sacré meilleur jeu vidéo aux Bafta Games Awards",
+      "id": "7f518a9b524b207048e1fefa",
+      "title": "« Clair obscur : expedition 33 » sacré meilleur jeu vidéo aux Bafta Games Awards",
       "summary": "Le jeu français avait déjà remporté en décembre aux Game Awards à Los Angeles le titre de « jeu de l’année ».",
       "url": "https://www.lemonde.fr/pixels/article/2026/04/17/clair-obscur-expedition-33-sacre-meilleur-jeu-video-aux-bafta-games-awards_6680927_4408996.html",
       "imageUrl": null,
@@ -761,28 +783,6 @@
       "publishedAt": "2026-04-16T18:00:09+00:00"
     },
     {
-      "id": "888d299cbad281383775f948",
-      "title": "Emmanuel Macron appelle à une « journée sans connexion » mensuelle pour les jeunes",
-      "summary": "Le chef de l’Etat a fait cette déclaration lors d’une visite à la Cité internationale de la langue française. A ses côtés, le ministre de l’éducation a dit vouloir mener une « concertation » en vue de lancer l’initiative à la rentrée de septembre dans les établissements.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/16/emmanuel-macron-appelle-a-une-journee-sans-connexion-mensuelle-pour-les-jeunes_6680544_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-16T14:46:14+00:00"
-    },
-    {
-      "id": "a6a6a2721d2cbf3fa16cdf42",
-      "title": "L’UE précise comment Google devra partager les données de son moteur de recherche",
-      "summary": "Cette annonce a été faite par la Commission européenne dans le cadre d’une procédure amiable lancée en janvier, pour s’assurer que le grand groupe américain remplisse ses obligations en vertu du règlement européen sur les marchés numériques.",
-      "url": "https://www.lemonde.fr/international/article/2026/04/16/l-ue-precise-comment-google-devra-partager-les-donnees-de-son-moteur-de-rercherche_6680536_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-16T13:39:54+00:00"
-    },
-    {
       "id": "d25593a9b0e8012f24634217",
       "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
       "summary": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK.",
@@ -880,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-10T21:01:18+00:00"
-    },
-    {
-      "id": "4adae41982396d59b4677b81",
-      "title": "Great at gaming? US air traffic control wants you to apply",
-      "summary": "A new government ad campaign is trying to persuade gamers to apply for air safety roles.",
-      "url": "https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-10T19:35:24+00:00"
     },
     {
       "id": "df8f61e13831f8966f68d471",
