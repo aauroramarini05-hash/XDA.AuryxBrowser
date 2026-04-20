@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-04-20T04:52:30.132860+00:00",
+  "updatedAt": "2026-04-20T07:12:06.485347+00:00",
   "items": [
     {
-      "id": "e943946910668ed33281f2f8",
-      "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "id": "b767df0d60b7a44c0024ff43",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T06:41:10+00:00"
+    },
+    {
+      "id": "db8e24029a123472ac8f023a",
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T05:13:58+00:00"
+    },
+    {
+      "id": "ec88acd96c1e1cfd3846822e",
+      "title": "Rumen Radev set to win Bulgarian Parliamentary election",
       "summary": "Early results put his Progressive Bulgaria on 45%, well ahead of the liberal PP-DB coalition, which stood at 15%.",
       "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -37,24 +59,13 @@
     {
       "id": "6c2405e90f4b606775053239",
       "title": "« On ne peut pas laisser à des entreprises privées, juges et parties, le soin de définir les règles du jeu de l’IA »",
-      "summary": "Les propositions d’OpenAI, acteur majeur de l’intelligence artificielle dirigé par Sam Altman, soulèvent des questions sur l’atténuation des risques sociaux et sur le partage des bénéfices de cette révolution technologique. Reste à savoir si on peut lui faire confiance, s’interroge Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
+      "summary": "Les propositions d’OpenAI, acteur majeur de l’intelligence artificielle, dirigé par Sam Altman, soulèvent des questions sur l’atténuation des risques sociaux et sur le partage des bénéfices de cette révolution technologique. Reste à savoir si on peut lui faire confiance, s’interroge Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
       "url": "https://www.lemonde.fr/idees/article/2026/04/20/on-ne-peut-pas-laisser-a-des-entreprises-privees-juges-et-parties-le-soin-de-definir-les-regles-du-jeu-de-l-ia_6681596_3232.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-20T03:00:07+00:00"
-    },
-    {
-      "id": "b767df0d60b7a44c0024ff43",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T02:29:04+00:00"
+      "publishedAt": "2026-04-20T03:00:05+00:00"
     },
     {
       "id": "900fae8e147c5ddf68e1ed3c",
@@ -110,17 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-19T23:02:11+00:00"
-    },
-    {
-      "id": "db8e24029a123472ac8f023a",
-      "title": "The insider trading suspicions looming over Trump's presidency",
-      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
-      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-19T23:02:06+00:00"
     },
     {
       "id": "3d44ce200363edefed59eea0",
@@ -246,13 +246,13 @@
     {
       "id": "6e6c37030203486840e09c56",
       "title": "Au Muséum national d’histoire naturelle, 7 000 factures en retard neuf mois après une cyberattaque",
-      "summary": "Le président du Muséum national d’histoire naturelle, Gilles Bloch, affirme que cet acte de malveillance émane d’« un grand pays peu démocratique ».",
+      "summary": "Le président du Muséum national d’histoire naturelle, Gilles Bloch, affirme que cet acte de malveillance émane d’un « grand pays peu démocratique ».",
       "url": "https://www.lemonde.fr/planete/article/2026/04/19/au-museum-national-d-histoire-naturelle-7-000-factures-en-retard-neuf-mois-apres-une-cyberattaque_6681479_3244.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-19T17:00:04+00:00"
+      "publishedAt": "2026-04-19T17:00:03+00:00"
     },
     {
       "id": "e5a775787eed95fc8af9dd18",
