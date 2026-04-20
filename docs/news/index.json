@@ -1,16 +1,82 @@
 {
-  "updatedAt": "2026-04-20T01:53:48.477445+00:00",
+  "updatedAt": "2026-04-20T04:52:30.132860+00:00",
   "items": [
     {
-      "id": "e9e6437a116a710244d39a36",
-      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
-      "summary": "Tehran vows retaliation soon for what it calls an \"act of armed piracy\", which comes as the US prepares for a second round of talks.",
-      "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "id": "e943946910668ed33281f2f8",
+      "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "summary": "Early results put his Progressive Bulgaria on 45%, well ahead of the liberal PP-DB coalition, which stood at 15%.",
+      "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-20T01:38:17+00:00"
+      "publishedAt": "2026-04-20T04:50:15+00:00"
+    },
+    {
+      "id": "f8a488f3087ba731ef5a2fa7",
+      "title": "Présidentielle 2027 : « La France peut et doit aller plus loin pour se protéger des ingérences numériques étrangères »",
+      "summary": "Dans une tribune au « Monde », le président du Collectif Télémaque, Philippe Sabuco, appelle à anticiper d’éventuelles tentatives de déstabilisation politique venues de l’étranger lors de l’élection présidentielle de 2027 et recommande de « préparer l’opinion publique à l’éventualité de mesures de régulation de l’espace numérique ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/20/presidentielle-2027-la-france-peut-et-doit-aller-plus-loin-pour-se-proteger-des-ingerences-numeriques-etrangeres_6681613_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-20T04:30:04+00:00"
+    },
+    {
+      "id": "4e25b38a61fa224abb8fbfc8",
+      "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+      "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
+      "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T04:10:40+00:00"
+    },
+    {
+      "id": "6c2405e90f4b606775053239",
+      "title": "« On ne peut pas laisser à des entreprises privées, juges et parties, le soin de définir les règles du jeu de l’IA »",
+      "summary": "Les propositions d’OpenAI, acteur majeur de l’intelligence artificielle dirigé par Sam Altman, soulèvent des questions sur l’atténuation des risques sociaux et sur le partage des bénéfices de cette révolution technologique. Reste à savoir si on peut lui faire confiance, s’interroge Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/20/on-ne-peut-pas-laisser-a-des-entreprises-privees-juges-et-parties-le-soin-de-definir-les-regles-du-jeu-de-l-ia_6681596_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-20T03:00:07+00:00"
+    },
+    {
+      "id": "b767df0d60b7a44c0024ff43",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T02:29:04+00:00"
+    },
+    {
+      "id": "900fae8e147c5ddf68e1ed3c",
+      "title": "Fuel rations and free buses: How countries have responded to rising oil prices",
+      "summary": "Governments around the world have introduced measures to limit the impact of price increases.",
+      "url": "https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-20T01:35:20+00:00"
+    },
+    {
+      "id": "172b11848a92c9802ed4dbaf",
+      "title": "Battlefield 6 Fans Believe BF Studios Is Teasing a Las Vegas Map",
+      "summary": "Battlefield 6 players think they’ve discovered that one of the three maps coming in Season 5 is set in Las Vegas after Battlefield Studios posted an enigmatic teaser last week.",
+      "url": "https://www.ign.com/articles/battlefield-6-fans-believe-bf-studios-is-teasing-a-las-vegas-map",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-20T01:22:16+00:00"
     },
     {
       "id": "dc8d92035537c1a2cd3d4244",
@@ -57,17 +123,6 @@
       "publishedAt": "2026-04-19T23:02:06+00:00"
     },
     {
-      "id": "b2a26827285c39e3d8848dec",
-      "title": "Eight children killed in Louisiana shooting, police say",
-      "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
-      "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-19T22:54:51+00:00"
-    },
-    {
       "id": "3d44ce200363edefed59eea0",
       "title": "Art on trial - a sculptor's arrest highlights new extremes for censorship in China",
       "summary": "Gao Zhen is being retroactively punished for 15 year-old-works, in a case that has alarmed rights groups.",
@@ -88,17 +143,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-19T22:43:35+00:00"
-    },
-    {
-      "id": "e943946910668ed33281f2f8",
-      "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
-      "summary": "Exit polls put his Progressive Bulgaria on 37%, more than double the score of the closest runner-up, but he will likely need to form a coalition to govern.",
-      "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-19T22:06:39+00:00"
     },
     {
       "id": "8b5c3009d9e270b0e552715e",
@@ -275,17 +319,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-19T14:30:00+00:00"
-    },
-    {
-      "id": "d3011b0c42efee457ed5b1dd",
-      "title": "Why are gray whales dying in San Francisco's waters? US scientists search for clues",
-      "summary": "Climate change and shifting migration patterns are bringing rare research opportunities and new mysteries.",
-      "url": "https://www.bbc.com/news/articles/c9qdd8qvrplo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-19T13:08:05+00:00"
     },
     {
       "id": "146bd50169191c0ed9c062f8",
@@ -497,8 +530,8 @@
       "publishedAt": "2026-04-18T19:07:49+00:00"
     },
     {
-      "id": "04d3f76c7a823f6e8834b8e5",
-      "title": "Wrestlemania 42: All of the Match Winners, Returns, and Surprises — Updating Live!",
+      "id": "b1d0c50180a28068a27b02e8",
+      "title": "Wrestlemania 42: Everything That Happened",
       "summary": "We’re updating our Wrestlemania 42 live feed with every big win, moment, and surprise from Las Vegas. From Roman Reigns vs. CM Punk to Oba Femi vs. Brock Lesnar, follow along here.",
       "url": "https://www.ign.com/articles/wrestlemania-42-live",
       "imageUrl": null,
@@ -561,28 +594,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-18T15:59:49+00:00"
-    },
-    {
-      "id": "af2ec2e332735fb71a2ba20f",
-      "title": "French film star Nathalie Baye dies aged 77, media report",
-      "summary": "President Emmanuel Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
-      "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-18T14:52:15+00:00"
-    },
-    {
-      "id": "8d7ef8f5ca453a9d1c464332",
-      "title": "Lee Cronin's The Mummy Poster Complaints",
-      "summary": "A poster for Lee Cronin's The Mummy has drawn complaints for its depiction of a female child’s face.",
-      "url": "https://www.ign.com/articles/lee-cronins-the-mummy-poster-complaints",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-18T13:40:16+00:00"
     },
     {
       "id": "3372d8a1821f2be63d8818e0",
@@ -827,17 +838,6 @@
       "publishedAt": "2026-04-16T13:36:21+00:00"
     },
     {
-      "id": "417e0bfbee26927eb05e30bf",
-      "title": "« Tu crois que c’est vraiment Satoshi ? » : lors d’une soirée de gala en marge de la Paris Blockchain Week, un homme au cœur des spéculations sur l’inventeur du bitcoin",
-      "summary": "Le « New York Times » a publié une longue enquête, le 8 avril, proclamant avoir identifié Satoshi Nakamoto, le mystérieux créateur du bitcoin. Présent lors d’une soirée du salon privé consacré aux cryptomonnaies organisée au château de Versailles, Adam Back continue de démentir. Mais le Britannique suscite aussi la fascination.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/16/tu-crois-que-c-est-vraiment-satoshi-lors-d-une-soiree-de-gala-en-marge-de-la-paris-blockchain-week-un-homme-au-c-ur-des-speculations-sur-l-inventeur-du-bitcoin_6680527_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-16T13:00:21+00:00"
-    },
-    {
       "id": "d25593a9b0e8012f24634217",
       "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
       "summary": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK.",
@@ -847,17 +847,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-16T09:20:36+00:00"
-    },
-    {
-      "id": "1587e95ee55bd63a55df1425",
-      "title": "En Inde, un film entièrement généré par IA au cinéma pour la première fois à la fin de l’été",
-      "summary": "Des acteurs aux décors, et jusqu’à la mise en scène : chaque détail du film « Maharaja in Denims » a été généré par l’intelligence artificielle, à l’exception de sa bande-son. L’idée d’un long-métrage créé par la machine a fait son chemin dans la très prolifique industrie indienne du cinéma.",
-      "url": "https://www.lemonde.fr/culture/article/2026/04/16/en-inde-un-film-entierement-genere-par-ia-au-cinema-pour-la-premiere-fois-a-la-fin-de-l-ete_6680488_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-16T08:26:03+00:00"
     },
     {
       "id": "ac18a357df46779afab582a1",
