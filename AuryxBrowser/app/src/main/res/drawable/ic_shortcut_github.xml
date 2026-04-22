@@ -1,0 +1,19 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="16dp"/>
+            <solid android:color="#1C2638"/>
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <size android:width="34dp" android:height="34dp"/>
+            <solid android:color="#FFFFFF"/>
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <vector android:width="16dp" android:height="16dp" android:viewportWidth="16" android:viewportHeight="16">
+            <path android:fillColor="#101820" android:pathData="M8,1.5a6.5,6.5 0 0,0 -2.1,12.7c0.3,0.1 0.4,-0.1 0.4,-0.3v-1.1c-1.7,0.4 -2.1,-0.7 -2.1,-0.7c-0.3,-0.8 -0.8,-1 -0.8,-1c-0.7,-0.5 0,-0.5 0,-0.5c0.8,0.1 1.2,0.8 1.2,0.8c0.7,1.1 1.8,0.8 2.2,0.6c0.1,-0.5 0.3,-0.8 0.5,-1c-1.3,-0.1 -2.8,-0.7 -2.8,-3c0,-0.7 0.2,-1.3 0.7,-1.8c-0.1,-0.2 -0.3,-0.9 0.1,-1.8c0,0 0.6,-0.2 1.9,0.7c0.5,-0.1 1,-0.2 1.6,-0.2s1.1,0.1 1.6,0.2c1.2,-0.8 1.9,-0.7 1.9,-0.7c0.4,0.9 0.1,1.6 0.1,1.8c0.4,0.5 0.7,1.1 0.7,1.8c0,2.3 -1.5,2.8 -2.8,3c0.3,0.2 0.5,0.7 0.5,1.4v2c0,0.2 0.1,0.4 0.4,0.3A6.5,6.5 0 0,0 8,1.5z"/>
+        </vector>
+    </item>
+</layer-list>
