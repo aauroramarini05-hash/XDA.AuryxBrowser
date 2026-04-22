@@ -13,12 +13,6 @@
         android:layout_height="wrap_content"
         android:background="@color/surface_dark">
 
-        <androidx.appcompat.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:visibility="gone" />
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="56dp"
@@ -112,7 +106,6 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:animateLayoutChanges="true"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <ScrollView
@@ -122,8 +115,8 @@
             android:fillViewport="true"
             android:overScrollMode="never"
             android:paddingHorizontal="16dp"
-            android:paddingTop="36dp"
-            android:paddingBottom="92dp"
+            android:paddingTop="30dp"
+            android:paddingBottom="108dp"
             android:visibility="visible">
 
             <LinearLayout
@@ -139,33 +132,33 @@
 
                     <ImageView
                         android:id="@+id/imgLogo"
-                        android:layout_width="88dp"
-                        android:layout_height="88dp"
+                        android:layout_width="90dp"
+                        android:layout_height="90dp"
                         android:contentDescription="AuryxBrowser Logo"
                         android:src="@drawable/ic_logo" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="10dp"
+                        android:layout_marginTop="8dp"
                         android:text="AuryxBrowser"
                         android:textColor="@color/text_primary"
-                        android:textSize="44sp"
+                        android:textSize="24sp"
                         android:textStyle="bold" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="6dp"
+                        android:layout_marginTop="4dp"
                         android:text="Veloce. Sicuro. Tuo."
                         android:textColor="@color/text_secondary"
-                        android:textSize="16sp" />
+                        android:textSize="15sp" />
                 </LinearLayout>
 
                 <com.google.android.material.card.MaterialCardView
                     android:layout_width="match_parent"
                     android:layout_height="56dp"
-                    android:layout_marginTop="28dp"
+                    android:layout_marginTop="24dp"
                     app:cardBackgroundColor="#293140"
                     app:cardCornerRadius="28dp"
                     app:cardElevation="0dp"
@@ -202,7 +195,6 @@
                             android:textSize="17sp" />
 
                         <ImageView
-                            android:id="@+id/homeVoice"
                             android:layout_width="22dp"
                             android:layout_height="22dp"
                             android:src="@drawable/ic_mic_simple"
@@ -218,102 +210,20 @@
                     android:gravity="center"
                     android:orientation="horizontal">
 
-                    <LinearLayout
-                        android:id="@+id/shortcutDocs"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:gravity="center_horizontal"
-                        android:orientation="vertical"
-                        android:padding="4dp">
-
-                        <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:src="@drawable/ic_shortcut_docs" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginTop="8dp"
-                            android:text="Docs"
-                            android:textColor="@color/text_primary" />
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:id="@+id/shortcutMaps"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:gravity="center_horizontal"
-                        android:orientation="vertical"
-                        android:padding="4dp">
-
-                        <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:src="@drawable/ic_shortcut_maps" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginTop="8dp"
-                            android:text="Maps"
-                            android:textColor="@color/text_primary" />
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:id="@+id/shortcutVideo"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:gravity="center_horizontal"
-                        android:orientation="vertical"
-                        android:padding="4dp">
-
-                        <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:src="@drawable/ic_shortcut_video" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginTop="8dp"
-                            android:text="Video"
-                            android:textColor="@color/text_primary" />
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:id="@+id/shortcutCode"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:gravity="center_horizontal"
-                        android:orientation="vertical"
-                        android:padding="4dp">
-
-                        <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:src="@drawable/ic_shortcut_code" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginTop="8dp"
-                            android:text="Code"
-                            android:textColor="@color/text_primary" />
-                    </LinearLayout>
+                    <include android:id="@+id/shortcutGoogle" layout="@layout/item_home_shortcut" />
+                    <include android:id="@+id/shortcutYoutube" layout="@layout/item_home_shortcut" />
+                    <include android:id="@+id/shortcutWikipedia" layout="@layout/item_home_shortcut" />
+                    <include android:id="@+id/shortcutX" layout="@layout/item_home_shortcut" />
+                    <include android:id="@+id/shortcutGithub" layout="@layout/item_home_shortcut" />
                 </LinearLayout>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="22dp"
+                    android:layout_marginTop="20dp"
                     android:text="Preferiti"
                     android:textColor="@color/text_primary"
-                    android:textSize="33sp"
+                    android:textSize="34sp"
                     android:textStyle="bold" />
 
                 <com.google.android.material.card.MaterialCardView
@@ -332,19 +242,19 @@
                         android:orientation="vertical"
                         android:paddingVertical="8dp">
 
-                        <include layout="@layout/list_item_home_link" android:id="@+id/homeFavOne" />
-                        <include layout="@layout/list_item_home_link" android:id="@+id/homeFavTwo" />
-                        <include layout="@layout/list_item_home_link" android:id="@+id/homeFavThree" />
+                        <include android:id="@+id/homeFavOne" layout="@layout/list_item_home_link" />
+                        <include android:id="@+id/homeFavTwo" layout="@layout/list_item_home_link" />
+                        <include android:id="@+id/homeFavThree" layout="@layout/list_item_home_link" />
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="22dp"
+                    android:layout_marginTop="20dp"
                     android:text="Recenti"
                     android:textColor="@color/text_primary"
-                    android:textSize="33sp"
+                    android:textSize="34sp"
                     android:textStyle="bold" />
 
                 <com.google.android.material.card.MaterialCardView
@@ -363,9 +273,9 @@
                         android:orientation="vertical"
                         android:paddingVertical="8dp">
 
-                        <include layout="@layout/list_item_home_link" android:id="@+id/homeRecOne" />
-                        <include layout="@layout/list_item_home_link" android:id="@+id/homeRecTwo" />
-                        <include layout="@layout/list_item_home_link" android:id="@+id/homeRecThree" />
+                        <include android:id="@+id/homeRecOne" layout="@layout/list_item_home_link" />
+                        <include android:id="@+id/homeRecTwo" layout="@layout/list_item_home_link" />
+                        <include android:id="@+id/homeRecThree" layout="@layout/list_item_home_link" />
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
             </LinearLayout>
@@ -403,4 +313,20 @@
         app:itemTextColor="@color/bottom_nav_color"
         app:labelVisibilityMode="labeled"
         app:menu="@menu/bottom_nav_menu" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnQuickTools"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="18dp"
+        android:contentDescription="Strumenti"
+        android:src="@drawable/ic_add_white"
+        app:backgroundTint="#4BAEFF"
+        app:borderWidth="0dp"
+        app:elevation="8dp"
+        app:maxImageSize="28dp"
+        app:rippleColor="#90D2FF"
+        app:tint="@android:color/white" />
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

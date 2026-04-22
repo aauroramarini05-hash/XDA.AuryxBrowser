@@ -52,7 +52,6 @@ import com.xdustatom.auryxbrowser.R
 import com.xdustatom.auryxbrowser.fragments.AuryxToolsFragment
 import com.xdustatom.auryxbrowser.fragments.BookmarksFragment
 import com.xdustatom.auryxbrowser.fragments.HistoryFragment
-import com.xdustatom.auryxbrowser.fragments.NewsFragment
 import com.xdustatom.auryxbrowser.fragments.SettingsFragment
 import com.xdustatom.auryxbrowser.remote.RemoteConfigRepository
 import com.xdustatom.auryxbrowser.playservices.GoogleServices
@@ -99,6 +98,7 @@ class MainActivity : AppCompatActivity() {
     private var homeSearchBar: EditText? = null
     private lateinit var btnRefresh: ImageButton
     private lateinit var btnMenu: ImageButton
+    private var btnQuickTools: View? = null
     private var btnTabs: View? = null
     private var tabsCount: TextView? = null
 
@@ -191,6 +191,7 @@ class MainActivity : AppCompatActivity() {
         progressBar = runCatching { findViewById<ProgressBar>(R.id.progressBar) }.getOrNull()
         homeSearchBar = runCatching { findViewById<EditText>(R.id.homeSearchBar) }.getOrNull()
         btnTabs = runCatching { findViewById<View>(R.id.btnTabs) }.getOrNull()
+        btnQuickTools = runCatching { findViewById<View>(R.id.btnQuickTools) }.getOrNull()
         tabsCount = runCatching { findViewById<TextView>(R.id.tabsCount) }.getOrNull()
 
         homeContainer = findViewById(R.id.homeContainer)
@@ -262,6 +263,10 @@ class MainActivity : AppCompatActivity() {
 
         btnTabs?.setOnClickListener {
             showTabsDialog()
+        }
+
+        btnQuickTools?.setOnClickListener {
+            showFragment(AuryxToolsFragment.newInstance())
         }
     }
 
@@ -444,24 +449,19 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
 
+                R.id.nav_tabs -> {
+                    showTabsDialog()
+                    false
+                }
+
                 R.id.nav_bookmarks -> {
                     showFragment(BookmarksFragment.newInstance())
                     true
                 }
 
-                R.id.nav_news -> {
-                    showFragment(NewsFragment.newInstance())
-                    true
-                }
-
-                R.id.nav_tools -> {
-                    showFragment(AuryxToolsFragment.newInstance())
-                    true
-                }
-
-                R.id.nav_settings -> {
-                    showFragment(SettingsFragment.newInstance())
-                    true
+                R.id.nav_menu -> {
+                    showBrowserMenuDialog()
+                    false
                 }
 
                 else -> false
@@ -490,20 +490,27 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupHomeSurface() {
-        bindQuickShortcut(R.id.shortcutDocs, "https://developer.android.com")
-        bindQuickShortcut(R.id.shortcutMaps, "https://www.openstreetmap.org")
-        bindQuickShortcut(R.id.shortcutVideo, "https://vimeo.com")
-        bindQuickShortcut(R.id.shortcutCode, "https://github.com")
+        val shortcuts = listOf(
+            Triple(R.id.shortcutGoogle, HomeLink("Google", "https://www.google.com", R.drawable.ic_shortcut_google)),
+            Triple(R.id.shortcutYoutube, HomeLink("YouTube", "https://www.youtube.com", R.drawable.ic_shortcut_youtube)),
+            Triple(R.id.shortcutWikipedia, HomeLink("Wikipedia", "https://www.wikipedia.org", R.drawable.ic_shortcut_wikipedia)),
+            Triple(R.id.shortcutX, HomeLink("X", "https://x.com", R.drawable.ic_shortcut_x)),
+            Triple(R.id.shortcutGithub, HomeLink("GitHub", "https://github.com", R.drawable.ic_shortcut_github))
+        )
+
+        shortcuts.forEach { (containerId, item) ->
+            bindShortcut(containerId, item)
+        }
 
         val favorites = listOf(
-            HomeLink("Android Developers", "https://developer.android.com", R.drawable.ic_shortcut_docs),
-            HomeLink("OpenStreetMap", "https://www.openstreetmap.org", R.drawable.ic_shortcut_maps),
-            HomeLink("Vimeo", "https://vimeo.com", R.drawable.ic_shortcut_video)
+            HomeLink("Google Ricerca", "https://www.google.com", R.drawable.ic_shortcut_google),
+            HomeLink("YouTube Trending", "https://www.youtube.com/feed/trending", R.drawable.ic_shortcut_youtube),
+            HomeLink("Wikipedia IT", "https://it.wikipedia.org", R.drawable.ic_shortcut_wikipedia)
         )
         val recents = listOf(
-            HomeLink("GitHub", "https://github.com", R.drawable.ic_shortcut_code),
-            HomeLink("DuckDuckGo", "https://duckduckgo.com", R.drawable.ic_search),
-            HomeLink("Wikipedia", "https://www.wikipedia.org", R.drawable.ic_shortcut_docs)
+            HomeLink("X Explore", "https://x.com/explore", R.drawable.ic_shortcut_x),
+            HomeLink("GitHub Explore", "https://github.com/explore", R.drawable.ic_shortcut_github),
+            HomeLink("Android Developers", "https://developer.android.com", R.drawable.ic_shortcut_docs)
         )
 
         bindHomeLink(R.id.homeFavOne, favorites[0])
@@ -514,10 +521,13 @@ class MainActivity : AppCompatActivity() {
         bindHomeLink(R.id.homeRecThree, recents[2])
     }
 
-    private fun bindQuickShortcut(viewId: Int, url: String) {
-        findViewById<View>(viewId)?.setOnClickListener {
+    private fun bindShortcut(containerId: Int, item: HomeLink) {
+        val shortcut = findViewById<View>(containerId) ?: return
+        shortcut.findViewById<TextView>(R.id.shortcutLabel)?.text = item.title
+        shortcut.findViewById<ImageView>(R.id.shortcutIcon)?.setImageResource(item.iconRes)
+        shortcut.setOnClickListener {
             showBrowser()
-            loadUrl(url)
+            loadUrl(item.url)
         }
     }
 
@@ -536,6 +546,7 @@ class MainActivity : AppCompatActivity() {
     private fun attachMicroAnimations() {
         listOf(btnRefresh, btnMenu, urlBar).forEach { it.applyPressAnimation() }
         btnTabs?.applyPressAnimation()
+        btnQuickTools?.applyPressAnimation(1f, 0.94f)
         bottomNav.applyPressAnimation(1f, 0.995f)
         homeSearchBar?.animateEntrance(40L)
     }
@@ -1160,7 +1171,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
 
-            "open_settings" -> bottomNav.selectedItemId = R.id.nav_settings
+            "open_settings" -> showFragment(SettingsFragment.newInstance())
             "open_bookmarks" -> bottomNav.selectedItemId = R.id.nav_bookmarks
             "open_history" -> showFragment(HistoryFragment.newInstance())
 
