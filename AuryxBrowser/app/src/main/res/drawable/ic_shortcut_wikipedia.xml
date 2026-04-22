@@ -1,19 +1,9 @@
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item>
-        <shape android:shape="rectangle">
-            <corners android:radius="16dp"/>
-            <solid android:color="#1C2638"/>
-        </shape>
-    </item>
-    <item android:gravity="center">
-        <shape android:shape="oval">
-            <size android:width="34dp" android:height="34dp"/>
-            <solid android:color="#39465B"/>
-        </shape>
-    </item>
-    <item android:gravity="center">
-        <vector android:width="16dp" android:height="16dp" android:viewportWidth="16" android:viewportHeight="16">
-            <path android:fillColor="#FFFFFF" android:pathData="M1,2h2.2l1.8,8.4L7,3.5l2.1,6.9L10.8,2H13l-3,12H8.2L7,8.6L5.8,14H4z"/>
-        </vector>
-    </item>
-</layer-list>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <path android:fillColor="#1C2638" android:pathData="M16,8h32a8,8 0 0 1,8 8v32a8,8 0 0 1,-8 8H16a8,8 0 0 1,-8 -8V16a8,8 0 0 1,8 -8z"/>
+    <path android:fillColor="#3B4657" android:pathData="M32,18a14,14 0 1 1,0 28a14,14 0 1 1,0 -28z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M22,24h3l2.2,10l2.8,-8l2.8,8l2.2,-10h3L35,40h-3l-2,-6l-2,6h-3z"/>
+</vector>
