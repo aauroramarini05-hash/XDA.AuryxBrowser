@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-22T08:25:51.330699+00:00",
+  "updatedAt": "2026-04-22T10:12:32.337225+00:00",
   "items": [
+    {
+      "id": "53ccb715a8281f074c3fd166",
+      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
+      "summary": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
+      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-22T09:47:48+00:00"
+    },
+    {
+      "id": "d0189d77064a74600ad09a4a",
+      "title": "Un hackeur interpellé en Vendée après plusieurs cyberattaques visant notamment des fédérations sportives",
+      "summary": "L’homme, qui agit sous le pseudonyme « Hexdex », a également ciblé un site répertoriant les particuliers détenteurs d’armes, des syndicats comme la CFDT ou FO ou encore des sites d’agents de l’éducation nationale, selon le ministère public.",
+      "url": "https://www.lemonde.fr/societe/article/2026/04/22/un-hacker-interpelle-en-vendee-apres-plusieurs-cyberattaques-visant-notamment-des-federations-sportives_6682379_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-22T09:45:05+00:00"
+    },
+    {
+      "id": "ddd44c8a929d4c82fbaff064",
+      "title": "Pokémon Doubles Down on Decision to Penalize Pro Player",
+      "summary": "A Pokémon pro who saw his tournament win taken away from him in controversial circumstances will not be getting an official reprieve.",
+      "url": "https://www.ign.com/articles/pokmon-doubles-down-on-decision-to-penalize-pro-player",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T09:17:56+00:00"
+    },
+    {
+      "id": "9cbeda9b3638d491bf76d9a9",
+      "title": "Japanese Website Owner Fined $6,300 for Posting Godzilla and Overlord Spoilers",
+      "summary": "We live in a world where most people don’t think twice about posting detailed spoiler articles or video breakdowns of the latest blockbuster movies or TV shows. However, this month, the Tokyo District Court handed down an 18 month suspended prison sentence, plus a one million yen (approx. $6,300) fine to a website administrator for posting in-depth",
+      "url": "https://www.ign.com/articles/japanese-website-owner-fined-6300-for-posting-godzilla-and-overlord-spoilers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T08:39:03+00:00"
+    },
+    {
+      "id": "e6c72baea1c3fba1f14962f2",
+      "title": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
+      "summary": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
+      "url": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-22T08:35:34+00:00"
+    },
     {
       "id": "dce9280763c09071070a96f7",
       "title": "SpaceX mise sur l’IA et noue un partenariat avec l’éditeur de code Cursor",
@@ -22,6 +77,28 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-22T07:16:51+00:00"
+    },
+    {
+      "id": "71d2580d757453cef53cccae",
+      "title": "Taiwan president cancels trip after African countries revoke flight permits",
+      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
+      "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-22T06:25:15+00:00"
+    },
+    {
+      "id": "ca690addc5e67f28f172aaae",
+      "title": "Thirteen killed in second India fireworks blast in three days",
+      "summary": "Earlier this week, an explosion at a firecracker factory in neighbouring state Tamil Nadu left at least 25 dead.",
+      "url": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-22T05:55:18+00:00"
     },
     {
       "id": "1719716adafa4052c8f0f0c7",
@@ -55,6 +132,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-22T04:00:28+00:00"
+    },
+    {
+      "id": "8d54666ac8422ed61b00541c",
+      "title": "Mexico officials say Teotihuacán gunman carried material related to US mass shooting",
+      "summary": "The gunman visited the archaeological site repeatedly and appeared to act alone.",
+      "url": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-22T03:11:57+00:00"
     },
     {
       "id": "e20a12d12db4ad403e49f7c4",
@@ -103,7 +191,7 @@
     {
       "id": "8f2edd5dc115a2a544e4a2c0",
       "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time",
+      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
       "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -211,6 +299,17 @@
       "publishedAt": "2026-04-21T22:25:00+00:00"
     },
     {
+      "id": "8dd81f448dd16c8fd083d08c",
+      "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
+      "summary": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.",
+      "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-21T22:10:22+00:00"
+    },
+    {
       "id": "4763d3db31392dd73b2734ec",
       "title": "This $40 Baseus MagSafe Power Bank Can Wireless Charge Your iPhone From 0% to 50% in 30 Minutes",
       "summary": "Finally a wireless power bank that can charge the Apple iPhone at nearly its maximum rate.",
@@ -253,6 +352,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-21T21:43:48+00:00"
+    },
+    {
+      "id": "8c0b173f2b73d466b5b59c68",
+      "title": "A Kashmir tourist hotspot became a bloodbath. A year on, the pain remains unbearable",
+      "summary": "A year after militants killed 26 people in Indian-administered Kashmir, families are trying to cope with their loss.",
+      "url": "https://www.bbc.com/news/articles/c8ej3wl130yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-21T21:14:37+00:00"
     },
     {
       "id": "fcd10cf1e35387f786e28f5a",
@@ -332,6 +442,17 @@
       "publishedAt": "2026-04-21T19:35:00+00:00"
     },
     {
+      "id": "297c7efa3951e4deba565c9e",
+      "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
+      "summary": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
+      "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-21T18:59:39+00:00"
+    },
+    {
       "id": "d95bec4022f4f3c474a7ef8a",
       "title": "The Sonos Arc Soundbar with Dolby Atmos Drops to Just $399 Shipped During the Earth Day Sale",
       "summary": "Certified refurbished from Sonos direct with the same warranty as buying new.",
@@ -376,17 +497,6 @@
       "publishedAt": "2026-04-21T17:51:43+00:00"
     },
     {
-      "id": "dcc845c8846d792fe181fa8c",
-      "title": "Pokémon Fan Funds Wedding With $44,000 Charizard Card Sale",
-      "summary": "A veteran Pokémon fan has been able to fund his own wedding, after rediscovering a trio of rare Charizard cards hidden away in his attic.",
-      "url": "https://www.ign.com/articles/pokemon-fan-funds-wedding-with-44000-charizard-card-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-21T17:50:26+00:00"
-    },
-    {
       "id": "c0c331a08c39798555b3c770",
       "title": "Mass trial for 486 alleged gang members begins in El Salvador",
       "summary": "Footage released by the attorney general's office shows large groups of men in prison attending the trial via video link.",
@@ -396,17 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-21T17:45:39+00:00"
-    },
-    {
-      "id": "43d89d3d86d5b7bbc3eb984c",
-      "title": "The Beginner-Friendly DJI Mini 4K Drone Fly More Combo With Extra Batteries Has a 30% Price Drop",
-      "summary": "FAA registration exempt, up to 93 minutes of total flight time, and 3-axis gimbal for stable 4K video.",
-      "url": "https://www.ign.com/articles/best-dji-mini-4k-quadcopter-drone-deals-fly-more-combo",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-21T17:45:00+00:00"
     },
     {
       "id": "7853338c20ccf20771e9bba7",
@@ -464,17 +563,6 @@
       "publishedAt": "2026-04-21T16:13:27+00:00"
     },
     {
-      "id": "6e33efdce186331619143e3f",
-      "title": "South Africa's police boss charged in connection with controversial health contract",
-      "summary": "Fannie Masemola is accused of failing in his duties to provide proper oversight in his role.",
-      "url": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T16:11:21+00:00"
-    },
-    {
       "id": "ede7cdeb57f13dacf0582d85",
       "title": "Iran sees mass redundancies from war with US and Israel",
       "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
@@ -495,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-21T15:00:06+00:00"
-    },
-    {
-      "id": "c11be6988e084db6f56ef56e",
-      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
-      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup.",
-      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T14:55:19+00:00"
     },
     {
       "id": "1ace9b2e78872a43a1d5fa72",
@@ -541,17 +618,6 @@
       "publishedAt": "2026-04-21T12:28:31+00:00"
     },
     {
-      "id": "8325992975f012789a4c60bc",
-      "title": "Arrests in Nigeria after abduction of local monarch 'held for ransom'",
-      "summary": "The kidnappers raided his palace on Saturday and are believed to be holding him in a forest.",
-      "url": "https://www.bbc.com/news/articles/cr71de2dr32o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T10:59:51+00:00"
-    },
-    {
       "id": "20be72782fc42d86c08142ba",
       "title": "Madonna offers reward for return of missing Coachella costume",
       "summary": "The items, which she says are \"part of my history\", disappeared after her slot with Sabrina Carpenter.",
@@ -572,17 +638,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-21T10:13:54+00:00"
-    },
-    {
-      "id": "88b1a35dcb1d7fa0b7f0c314",
-      "title": "The Onion launches new effort to turn Infowars into parody website",
-      "summary": "The new proposal would involve the publication licensing Alex Jones's company, which faces liquidation.",
-      "url": "https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T09:28:46+00:00"
     },
     {
       "id": "c945dc4145136fed91fb3cf1",
@@ -607,17 +662,6 @@
       "publishedAt": "2026-04-21T05:57:56+00:00"
     },
     {
-      "id": "4f4bc0f375d93674759f0523",
-      "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
-      "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week.",
-      "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T01:31:27+00:00"
-    },
-    {
       "id": "4bccfea556838afe151a0e08",
       "title": "The 'dumb machine' promising a clean energy breakthrough",
       "summary": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
@@ -627,17 +671,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-20T23:09:41+00:00"
-    },
-    {
-      "id": "6d8c1915fa69dbca26fb7d88",
-      "title": "Indian politicians are campaigning while holding fish. What is going on?",
-      "summary": "In West Bengal polls, fish moves from plate to politics, symbolising identity and cultural pride.",
-      "url": "https://www.bbc.com/news/articles/cwyw2zvqxe2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T21:01:31+00:00"
     },
     {
       "id": "13bd71bc4348e29d81621875",
@@ -783,17 +816,6 @@
       "publishedAt": "2026-04-20T03:00:05+00:00"
     },
     {
-      "id": "b43ec61a7431a936d40bb6bb",
-      "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
-      "summary": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
-      "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-19T23:07:52+00:00"
-    },
-    {
       "id": "ae2b7d884d8fb0850a3df6a9",
       "title": "« Après m’être connectée, je me lâche complètement » : plongée dans la taverne libertine de « World of Warcraft »",
       "summary": "Le best-seller médiéval fantastique et multijoueur de Blizzard Entertainment héberge une communauté orientée jeu de rôle érotique. Célébrée comme libératrice par les adeptes, cette sexualité connectée soulève néanmoins l’épineuse question du consentement dans les espaces virtuels. Et de la prédation en ligne.",
@@ -825,17 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-19T15:00:02+00:00"
-    },
-    {
-      "id": "df43034d7fc9568c16314a34",
-      "title": "Où les éditeurs d’IA trouvent-ils les montagnes de textes nécessaires à leur entraînement ?",
-      "summary": "Très évasifs sur les sources d’entraînement de leurs intelligences artificielles, les éditeurs sont soupçonnés d’employer des piles de textes à la provenance sulfureuse.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/19/ou-les-editeurs-d-ia-trouvent-ils-les-montagnes-de-textes-necessaires-a-leur-entrainement_6681441_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-19T06:30:02+00:00"
     },
     {
       "id": "27de0e2411631fe10cc826a8",
