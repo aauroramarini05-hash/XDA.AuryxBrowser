@@ -17,7 +17,7 @@ android {
     defaultConfig {
         applicationId = "com.xdustatom.auryxbrowser"
         minSdk = 23
-        targetSdk = 36
+        targetSdk = 35
         versionCode = 1422007
         versionName = "1.422.07"
         buildConfigField("String", "GEMINI_API_KEY", "\"$geminiApiKey\"")
