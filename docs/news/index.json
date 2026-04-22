@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-22T16:50:49.926996+00:00",
+  "updatedAt": "2026-04-22T17:53:38.070020+00:00",
   "items": [
+    {
+      "id": "ca48225ec1c749e38af33f7c",
+      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-22T17:48:44+00:00"
+    },
+    {
+      "id": "1e07fa989f68b99904438330",
+      "title": "Nigeria's suspected coup plotters deny treason charges",
+      "summary": "Allegations of a coup plot first surfaced last year when an Independence Day parade was cancelled.",
+      "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-22T17:33:30+00:00"
+    },
+    {
+      "id": "b30cd6e8cc16887c6b18a97e",
+      "title": "The Travel-Friendly Orico Power Strip With AC Outlets and USB Ports Packs Down to the Size of a Phone",
+      "summary": "Compact all-purpose charger for your smartphone, PC gaming handheld, and more.",
+      "url": "https://www.ign.com/articles/oricio-travel-friendly-power-strip-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T17:20:00+00:00"
+    },
+    {
+      "id": "3d1526ae5bde144284833c3d",
+      "title": "La fuite de données à l’ANTS, nouvelle illustration des failles de sécurité des services informatiques de l’Etat",
+      "summary": "Un « accès non autorisé » au fichier de l’agence, responsable des titres d’identité, aurait exposé jusqu’à 11,7 millions de comptes, selon le ministère de l’intérieur. Les cas de vols de données se multiplient depuis plusieurs mois.",
+      "url": "https://www.lemonde.fr/societe/article/2026/04/22/la-fuite-de-donnees-a-l-agence-nationale-des-titres-securises-nouvelle-illustration-des-failles-de-securite-des-services-informatiques-de-l-etat_6682449_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-22T17:18:36+00:00"
+    },
+    {
+      "id": "06fabe116dc265dd11b8342e",
+      "title": "Nintendo Fans Demand Tariff Refunds Returned to Customers",
+      "summary": "Nintendo fans have filed a class-action lawsuit demanding that tariff refunds received by the company are returned to customers, who have paid higher prices on Switch 2 accessories and Switch 1 consoles over the course of the past year.",
+      "url": "https://www.ign.com/articles/nintendo-fans-demand-tariff-refunds-returned-to-customers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T17:06:43+00:00"
+    },
     {
       "id": "3a6b6905499ba22bcde103f1",
       "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
@@ -10,7 +65,73 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-22T16:39:15+00:00"
+      "publishedAt": "2026-04-22T17:04:33+00:00"
+    },
+    {
+      "id": "39d6f4b8342fc1cea0b53b51",
+      "title": "Action-Focused Roguelite Dragon Quest Smash/Grow Launches on iOS and Android",
+      "summary": "",
+      "url": "https://www.ign.com/articles/action-focused-roguelite-dragon-quest-smashgrow-launches-on-ios-and-android",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T17:00:00+00:00"
+    },
+    {
+      "id": "bbcb58c5b4cc7d2c73148dc5",
+      "title": "Wolverine's Latest Defeat Has Major Consequences for the Iconic X-Man",
+      "summary": "Wolverine has just suffered his biggest defeat in years, and it's a loss that will continue to haunt him going forward.",
+      "url": "https://www.ign.com/articles/wolverines-latest-defeat-has-major-consequences-for-the-iconic-x-man",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T17:00:00+00:00"
+    },
+    {
+      "id": "c2a2b85f87fc8d318e9719ab",
+      "title": "Jon Favreau Addresses Iron Man Death",
+      "summary": "Jon Favreau has admitted the Russo Brothers were right to kill off Iron Man in Avengers: Endgame, after he was initially against the idea.",
+      "url": "https://www.ign.com/articles/jon-favreau-addresses-iron-man-death",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T16:56:17+00:00"
+    },
+    {
+      "id": "a1d8483f9a6ac58979bd56e9",
+      "title": "10 Most Valuable Cards From MTG Secrets of Strixhaven",
+      "summary": "From Elder Dragons to the Emeritus cycle, these are the most valuable cards from Magic's latest set.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-secrets-of-strixhaven-most-valuable-cards",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T16:30:00+00:00"
+    },
+    {
+      "id": "1dc27c1c3446aba50e6aff88",
+      "title": "Save Over 50% Off a Sonos Sub Wireless Subwoofer During the Sonos Earth Day Sale",
+      "summary": "Certified refurbished with the same 1 year warranty as buying new.",
+      "url": "https://www.ign.com/articles/save-over-half-off-the-sonos-sub-during-the-sonos-earth-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T16:25:00+00:00"
+    },
+    {
+      "id": "5d954141aaa3ebd9488acc86",
+      "title": "The Sonos Refurbished Earth Day Sale Ends in 3 Days, Save Up to Extra 25% Off Soundbars and Speakers",
+      "summary": "Recertified Sonos products are indistinguishable from new and come with the same 1 year warranty.",
+      "url": "https://www.ign.com/articles/sonos-refurbished-earth-day-sale-best-deals-on-soundbars-speakers-subwoofers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T16:20:00+00:00"
     },
     {
       "id": "2a2088221a3e630fe9b176f7",
@@ -24,25 +145,14 @@
       "publishedAt": "2026-04-22T16:19:36+00:00"
     },
     {
-      "id": "ca48225ec1c749e38af33f7c",
-      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
-      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
-      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T16:16:57+00:00"
-    },
-    {
-      "id": "e579611f46be116dee54a58c",
+      "id": "8c0828ea58197eda6a8d4d41",
       "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
       "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
       "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
+      "category": "general",
       "publishedAt": "2026-04-22T16:14:20+00:00"
     },
     {
@@ -222,17 +332,6 @@
       "publishedAt": "2026-04-22T14:19:31+00:00"
     },
     {
-      "id": "91777876f9cffef23a810b7c",
-      "title": "The Hard-to-Find Secrets of Strixhaven MTG Commander Decks Are Finally Back in Stock",
-      "summary": "MTG fans can finally find the elusive Secrets of Strixhaven Commander decks back in stock at Amazon. After months of scarcity, these sought-after decks have reappeared at $10 under market price.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-secrets-strixhaven-commander-decks-amazon-restock",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T14:19:05+00:00"
-    },
-    {
       "id": "17988400e44f7a65e2f8ff9d",
       "title": "Fuite de données à l’ANTS : ce que l’on sait de la cyberattaque qui a touché le site qui gère les demandes de pièces d’identité",
       "summary": "Selon les autorités, 11,7 millions de comptes pourraient être concernés. A ce stade, il n’est pas possible d’établir l’ampleur réelle de la fuite qui a touché l’Agence nationale des titres sécurisés.",
@@ -255,61 +354,6 @@
       "publishedAt": "2026-04-22T13:49:15+00:00"
     },
     {
-      "id": "34e22de75d60e34ed1bf616e",
-      "title": "Gaming's New Lara Croft on TV's New Lara Croft",
-      "summary": "Veteran video game voice Alix Wilton Regan will soon be taking on the role of Tomb Raider’s Lara Croft, but she won’t be the only one. Game of Thrones star Sophie Turner is also scheduled to portray the same character in Prime Video’s adaptation of the series.",
-      "url": "https://www.ign.com/articles/gamings-new-lara-croft-on-tvs-new-lara-croft",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T13:47:00+00:00"
-    },
-    {
-      "id": "b6de836348452c166042fb8b",
-      "title": "'We've Not Seen The Last of Joel,' Says The Last of Us Actor",
-      "summary": "The Last of Us video game actor Troy Baker has said there's more to come for his character Joel, potentially including \"more games.\"",
-      "url": "https://www.ign.com/articles/weve-not-seen-the-last-of-joel-says-the-last-of-us-actor",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T13:39:30+00:00"
-    },
-    {
-      "id": "aa9992635fe73709306d48f2",
-      "title": "Hellforged Announced for PC",
-      "summary": "Developer MoonPyre Studio introduces you to Hellforged, a new loot-focused bullet-hell extraction game that has you fighting off massive waves of demons. It's in development for PC and due out in Q4 2026.",
-      "url": "https://www.ign.com/articles/hellforged-announced-for-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T13:00:00+00:00"
-    },
-    {
-      "id": "d40a62d1e2d516d6bf04ee43",
-      "title": "Yoshi and the Mysterious Book Preview: It’s More for Kids Than for You and That’s OK",
-      "summary": "Yoshi and the Mysterious Book is quite adorable. The scratchy fantasy book illustrations are very charming, all the little guys are super cute, and I am a fan of the choice to keep Yoshi half-pixelated in an homage to all the Yoshi games that came before this one. The whole thing might not be truly E for everyone if you were hoping for, say, a succ",
-      "url": "https://www.ign.com/articles/yoshi-and-the-mysterious-book-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T13:00:00+00:00"
-    },
-    {
-      "id": "bc898c7b456bbc60cde56da6",
-      "title": "Devil May Cry Season 2 Trailer",
-      "summary": "Netflix's Devil May Cry animated series Season 2 will see Dante come face-to-face with his long-lost brother, Vergil.",
-      "url": "https://www.ign.com/articles/devil-may-cry-season-2-trailer",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T12:38:22+00:00"
-    },
-    {
       "id": "7c6ecb16f7fd616a9a5d0f86",
       "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
       "summary": "New Call of Duty games will be added to the subscription service \"about a year\" after release, Microsoft said.",
@@ -319,28 +363,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-22T12:03:10+00:00"
-    },
-    {
-      "id": "eea90fc91e9f3877eae912ea",
-      "title": "Mark Ruffalo Just Dropped Another Big Marvel Spoiler",
-      "summary": "Marvel spoiler culprit Mark Ruffalo appears to have leaked yet more information about an upcoming movie — this time, seemingly, for Spider-Man: Brand New Day.",
-      "url": "https://www.ign.com/articles/mark-ruffalo-just-dropped-another-big-marvel-spoiler",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T11:50:04+00:00"
-    },
-    {
-      "id": "43e79c848cd717b3dfb4c9ee",
-      "title": "Avengers: Doomsday Spoiler Leaked by Composer",
-      "summary": "Legendary composer Alan Silvestri has revealed a spoilery location that looks set to appear in Avengers: Doomsday.",
-      "url": "https://www.ign.com/articles/avengers-doomsday-spoiler-leaked-by-composer",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T11:14:16+00:00"
     },
     {
       "id": "519e776b14b85684b5d3f93e",
@@ -871,17 +893,6 @@
       "publishedAt": "2026-04-20T03:00:05+00:00"
     },
     {
-      "id": "ae2b7d884d8fb0850a3df6a9",
-      "title": "« Après m’être connectée, je me lâche complètement » : plongée dans la taverne libertine de « World of Warcraft »",
-      "summary": "Le best-seller médiéval fantastique et multijoueur de Blizzard Entertainment héberge une communauté orientée jeu de rôle érotique. Célébrée comme libératrice par les adeptes, cette sexualité connectée soulève néanmoins l’épineuse question du consentement dans les espaces virtuels. Et de la prédation en ligne.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/04/19/apres-m-etre-connectee-je-me-lache-completement-plongee-dans-la-taverne-libertine-de-world-of-warcraft_6681486_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-19T18:00:03+00:00"
-    },
-    {
       "id": "27de0e2411631fe10cc826a8",
       "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
       "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
@@ -902,6 +913,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-17T19:05:43+00:00"
+    },
+    {
+      "id": "6420d79d0deff013e6d84ac0",
+      "title": "What is Claude Mythos and what risks does it pose?",
+      "summary": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world.",
+      "url": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-17T13:41:01+00:00"
     },
     {
       "id": "4b639ebf008fcb41a952bfca",
