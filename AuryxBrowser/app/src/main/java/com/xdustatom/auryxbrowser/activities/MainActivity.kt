@@ -490,16 +490,16 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupHomeSurface() {
-        val shortcuts = listOf(
-            Triple(R.id.shortcutGoogle, HomeLink("Google", "https://www.google.com", R.drawable.ic_shortcut_google)),
-            Triple(R.id.shortcutYoutube, HomeLink("YouTube", "https://www.youtube.com", R.drawable.ic_shortcut_youtube)),
-            Triple(R.id.shortcutWikipedia, HomeLink("Wikipedia", "https://www.wikipedia.org", R.drawable.ic_shortcut_wikipedia)),
-            Triple(R.id.shortcutX, HomeLink("X", "https://x.com", R.drawable.ic_shortcut_x)),
-            Triple(R.id.shortcutGithub, HomeLink("GitHub", "https://github.com", R.drawable.ic_shortcut_github))
+        val shortcuts: List<Pair<Int, HomeLink>> = listOf(
+            R.id.shortcutGoogle to HomeLink("Google", "https://www.google.com", R.drawable.ic_shortcut_google),
+            R.id.shortcutYoutube to HomeLink("YouTube", "https://www.youtube.com", R.drawable.ic_shortcut_youtube),
+            R.id.shortcutWikipedia to HomeLink("Wikipedia", "https://www.wikipedia.org", R.drawable.ic_shortcut_wikipedia),
+            R.id.shortcutX to HomeLink("X", "https://x.com", R.drawable.ic_shortcut_x),
+            R.id.shortcutGithub to HomeLink("GitHub", "https://github.com", R.drawable.ic_shortcut_github)
         )
 
-        shortcuts.forEach { (containerId, item) ->
-            bindShortcut(containerId, item)
+        shortcuts.forEach { pair ->
+            bindShortcut(pair.first, pair.second)
         }
 
         val favorites = listOf(
