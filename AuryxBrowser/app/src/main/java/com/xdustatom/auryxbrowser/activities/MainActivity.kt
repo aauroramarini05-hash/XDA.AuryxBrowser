@@ -33,6 +33,7 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.EditText
 import android.widget.ImageButton
+import android.widget.ImageView
 import android.widget.ProgressBar
 import android.widget.TextView
 import android.widget.Toast
@@ -71,6 +72,11 @@ import java.net.URLEncoder
 import kotlin.concurrent.thread
 
 class MainActivity : AppCompatActivity() {
+    private data class HomeLink(
+        val title: String,
+        val url: String,
+        val iconRes: Int
+    )
 
     companion object {
         const val UPDATE_SITE = "https://auryxbrowser.it.uptodown.com/android"
@@ -153,6 +159,7 @@ class MainActivity : AppCompatActivity() {
         setupWebView()
         setupUrlInputs()
         setupHomeSearch()
+        setupHomeSurface()
         optimizeForTv()
         attachMicroAnimations()
 
@@ -479,6 +486,50 @@ class MainActivity : AppCompatActivity() {
             } else {
                 false
             }
+        }
+    }
+
+    private fun setupHomeSurface() {
+        bindQuickShortcut(R.id.shortcutDocs, "https://developer.android.com")
+        bindQuickShortcut(R.id.shortcutMaps, "https://www.openstreetmap.org")
+        bindQuickShortcut(R.id.shortcutVideo, "https://vimeo.com")
+        bindQuickShortcut(R.id.shortcutCode, "https://github.com")
+
+        val favorites = listOf(
+            HomeLink("Android Developers", "https://developer.android.com", R.drawable.ic_shortcut_docs),
+            HomeLink("OpenStreetMap", "https://www.openstreetmap.org", R.drawable.ic_shortcut_maps),
+            HomeLink("Vimeo", "https://vimeo.com", R.drawable.ic_shortcut_video)
+        )
+        val recents = listOf(
+            HomeLink("GitHub", "https://github.com", R.drawable.ic_shortcut_code),
+            HomeLink("DuckDuckGo", "https://duckduckgo.com", R.drawable.ic_search),
+            HomeLink("Wikipedia", "https://www.wikipedia.org", R.drawable.ic_shortcut_docs)
+        )
+
+        bindHomeLink(R.id.homeFavOne, favorites[0])
+        bindHomeLink(R.id.homeFavTwo, favorites[1])
+        bindHomeLink(R.id.homeFavThree, favorites[2])
+        bindHomeLink(R.id.homeRecOne, recents[0])
+        bindHomeLink(R.id.homeRecTwo, recents[1])
+        bindHomeLink(R.id.homeRecThree, recents[2])
+    }
+
+    private fun bindQuickShortcut(viewId: Int, url: String) {
+        findViewById<View>(viewId)?.setOnClickListener {
+            showBrowser()
+            loadUrl(url)
+        }
+    }
+
+    private fun bindHomeLink(containerId: Int, item: HomeLink) {
+        val row = findViewById<View>(containerId) ?: return
+        row.findViewById<TextView>(R.id.homeItemTitle)?.text = item.title
+        row.findViewById<TextView>(R.id.homeItemUrl)?.text = item.url
+        row.findViewById<ImageView>(R.id.homeItemIcon)?.setImageResource(item.iconRes)
+
+        row.setOnClickListener {
+            showBrowser()
+            loadUrl(item.url)
         }
     }
 
