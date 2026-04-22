@@ -100,8 +100,7 @@ dependencies {
     implementation("io.coil-kt:coil:2.5.0")
     implementation("androidx.interpolator:interpolator:1.0.0")
 
-    implementation("com.google.android.gms:play-services-base:18.5.0")
-    implementation("com.google.android.gms:play-services-location:21.3.0")
+    implementation("com.google.android.gms:play-services-location:21.2.0")
     implementation("com.google.android.play:app-update-ktx:2.1.0")
     implementation("com.google.android.play:review-ktx:2.0.1")
 
