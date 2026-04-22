@@ -1,27 +1,104 @@
 {
-  "updatedAt": "2026-04-22T10:12:32.337225+00:00",
+  "updatedAt": "2026-04-22T11:53:45.982606+00:00",
   "items": [
     {
-      "id": "53ccb715a8281f074c3fd166",
-      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
-      "summary": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
+      "id": "ca48225ec1c749e38af33f7c",
+      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
       "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-22T09:47:48+00:00"
+      "publishedAt": "2026-04-22T11:19:57+00:00"
+    },
+    {
+      "id": "43e79c848cd717b3dfb4c9ee",
+      "title": "Avengers: Doomsday Spoiler Leaked by Composer",
+      "summary": "Legendary composer Alan Silvestri has revealed a spoilery location that looks set to appear in Avengers: Doomsday.",
+      "url": "https://www.ign.com/articles/avengers-doomsday-spoiler-leaked-by-composer",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T11:14:16+00:00"
+    },
+    {
+      "id": "7d15fd54c225d3ff94086919",
+      "title": "Daredevil: Showrunner Discusses Reveal of Key Marvel Character",
+      "summary": "Daredevil: Born Again showrunner Dario Scardapane has discussed the reveal of a key Marvel comics character in the series' most recent episode, as well as recent set photos that revealed the return of other fan favorites.",
+      "url": "https://www.ign.com/articles/daredevil-showrunner-discusses-reveal-of-key-marvel-character",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T10:32:13+00:00"
+    },
+    {
+      "id": "eebd67399ae053da639a956e",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-22T10:31:29+00:00"
+    },
+    {
+      "id": "d01f7d14ad37536de8ceb599",
+      "title": "Helldivers 2 Exo Experts Warbond Revealed",
+      "summary": "Helldivers 2 developer Arrowhead has revealed what we can expect from the next premium Warbond, Exo Experts.",
+      "url": "https://www.ign.com/articles/helldivers-2-exo-experts-warbond-revealed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T10:29:04+00:00"
+    },
+    {
+      "id": "519e776b14b85684b5d3f93e",
+      "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
+      "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities.",
+      "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-22T10:13:35+00:00"
     },
     {
       "id": "d0189d77064a74600ad09a4a",
       "title": "Un hackeur interpellé en Vendée après plusieurs cyberattaques visant notamment des fédérations sportives",
-      "summary": "L’homme, qui agit sous le pseudonyme « Hexdex », a également ciblé un site répertoriant les particuliers détenteurs d’armes, des syndicats comme la CFDT ou FO ou encore des sites d’agents de l’éducation nationale, selon le ministère public.",
+      "summary": "L’homme, qui agit sous le pseudonyme « Hexdex », a également ciblé un site répertoriant les particuliers détenteurs d’armes, des syndicats comme la CFDT et FO ou encore des sites d’agents de l’éducation nationale, selon le ministère public.",
       "url": "https://www.lemonde.fr/societe/article/2026/04/22/un-hacker-interpelle-en-vendee-apres-plusieurs-cyberattaques-visant-notamment-des-federations-sportives_6682379_3224.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-22T09:45:05+00:00"
+    },
+    {
+      "id": "ec2135c2b143f61296f657a8",
+      "title": "Marathon Changes Announced",
+      "summary": "Marathon has doubled the amount of Depleted Patch Kits (meds) and Depleted Shield Charges (armor) consumables players can carry in a single inventory slot as Bungie fights to make its extraction shooter less punishing for newbies.",
+      "url": "https://www.ign.com/articles/marathon-changes-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T09:43:05+00:00"
+    },
+    {
+      "id": "1848399f3c724ad28a9c499e",
+      "title": "Elden Ring Movie Set Photos Leak",
+      "summary": "With production of the Elden Ring movie in full swing, set photo leaks have hit the internet — and some of them offer what look like big spoilers.",
+      "url": "https://www.ign.com/articles/elden-ring-movie-set-photos-leak",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T09:35:52+00:00"
     },
     {
       "id": "ddd44c8a929d4c82fbaff064",
@@ -46,8 +123,8 @@
       "publishedAt": "2026-04-22T08:39:03+00:00"
     },
     {
-      "id": "e6c72baea1c3fba1f14962f2",
-      "title": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
+      "id": "624a07fa6f1b39b58be95870",
+      "title": "South Korean fighter jets collided due to pilots taking pictures, report finds",
       "summary": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
       "url": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -112,8 +189,8 @@
       "publishedAt": "2026-04-22T05:00:05+00:00"
     },
     {
-      "id": "e542408aeb60a679e1ceb95f",
-      "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
+      "id": "1aaae2170d1ac33aee3de617",
+      "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
       "summary": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
       "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -343,17 +420,6 @@
       "publishedAt": "2026-04-21T21:49:22+00:00"
     },
     {
-      "id": "e7f9e9b9d4484d60774c54dc",
-      "title": "AI hacking tools like Mythos can be 'net positive' says top cyber official",
-      "summary": "The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.",
-      "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-21T21:43:48+00:00"
-    },
-    {
       "id": "8c0b173f2b73d466b5b59c68",
       "title": "A Kashmir tourist hotspot became a bloodbath. A year on, the pain remains unbearable",
       "summary": "A year after militants killed 26 people in Indian-administered Kashmir, families are trying to cope with their loss.",
@@ -387,17 +453,6 @@
       "publishedAt": "2026-04-21T20:48:38+00:00"
     },
     {
-      "id": "555c51520929f2d66f099859",
-      "title": "The New 27\" Alienware AW2726DM QHD 240HZ OLED Monitor Just Launched at an Unbelievably Low Price",
-      "summary": "Buy two and create a 49\" 5020x1440 multi-monitor setup for a budget-friendly price.",
-      "url": "https://www.ign.com/articles/alienware-aw2726dm-oled-gaming-monitor-deal-new-release",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-21T20:25:00+00:00"
-    },
-    {
       "id": "cf6b0ccf988cbec094e0984b",
       "title": "Tech Life",
       "summary": "How to say goodbye and pay tribute to a loved one - with a hologram.",
@@ -407,17 +462,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-21T20:15:00+00:00"
-    },
-    {
-      "id": "3521809e607caa979882666c",
-      "title": "The Sonos Era 100 Smart Speaker Drops to Just $134 Shipped During the Earth Day Sale",
-      "summary": "Certified refurbished from Sonos direct with the same warranty as buying new.",
-      "url": "https://www.ign.com/articles/sonos-era-100-smart-speaker-deal-earth-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-21T19:55:00+00:00"
     },
     {
       "id": "b9d7e7edf42c7a0af7ee9693",
@@ -431,17 +475,6 @@
       "publishedAt": "2026-04-21T19:36:15+00:00"
     },
     {
-      "id": "0af03932a78348f0548843b2",
-      "title": "Save 50% Off the Wolfbox 4-in-1 Cordless Car Jump Starter, Tire Inflator, Power Bank, and Flashlight",
-      "summary": "Everything you need to get yourself out of a jam without having to call AAA.",
-      "url": "https://www.ign.com/articles/wolfbox-megavolt16-air-cordless-car-jump-starter-tire-inflator-power-bank-flashlight-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-21T19:35:00+00:00"
-    },
-    {
       "id": "297c7efa3951e4deba565c9e",
       "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
       "summary": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
@@ -453,17 +486,6 @@
       "publishedAt": "2026-04-21T18:59:39+00:00"
     },
     {
-      "id": "d95bec4022f4f3c474a7ef8a",
-      "title": "The Sonos Arc Soundbar with Dolby Atmos Drops to Just $399 Shipped During the Earth Day Sale",
-      "summary": "Certified refurbished from Sonos direct with the same warranty as buying new.",
-      "url": "https://www.ign.com/articles/sonos-arc-soundbar-deal-earth-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-21T18:45:00+00:00"
-    },
-    {
       "id": "a827976a28c229828684bd30",
       "title": "OpenAI et ChatGPT visés par une enquête criminelle en Floride, en lien avec des tirs mortels",
       "summary": "Le robot conversationnel a en particulier formulé des suggestions quant à l’arme et aux munitions adaptées, ainsi qu’au moment et aux endroits propices pour toucher le plus de personnes possible. Sur la base de ces éléments, le procureur de Floride a affirmé : « Mes enquêteurs m’ont dit que si cette chose de l’autre côté de l’écran [ChatGPT] était ",
@@ -473,17 +495,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-21T18:19:00+00:00"
-    },
-    {
-      "id": "09ae49422f7040b5a203595f",
-      "title": "Today’s Top Deals: Ninja Gaiden: Ragebound for Switch, LEGO Sets, and an Xbox Gift Card",
-      "summary": "Plus, save on a 4K drone, a pre-price-hike PS5 bundle is still available, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-april-21-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-21T18:15:00+00:00"
     },
     {
       "id": "b8c6f556efcc860279251ebe",
