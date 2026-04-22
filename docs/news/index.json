@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-04-22T06:52:48.543135+00:00",
+  "updatedAt": "2026-04-22T08:25:51.330699+00:00",
   "items": [
+    {
+      "id": "dce9280763c09071070a96f7",
+      "title": "SpaceX mise sur l’IA et noue un partenariat avec l’éditeur de code Cursor",
+      "summary": "Le partenariat est assorti d’une option de rachat à 60 milliards de dollars d’ici à la fin de l’année. Ce partenariat avec Cursor a lieu alors qu’une course est engagée dans la Silicon Valley pour capter les développeurs professionnels, devenus le principal moteur de croissance de l’industrie de l’IA.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/22/spacex-mise-sur-l-ia-et-noue-un-partenariat-avec-l-editeur-de-code-cursor_6682368_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-22T08:14:58+00:00"
+    },
+    {
+      "id": "1c67d966b4d66c6d22941535",
+      "title": "Planned Sydney Sweeney Cameo Reportedly Chopped from The Devil Wears Prada 2",
+      "summary": "Sweeney was apparently playing herself in the trimmed scene.",
+      "url": "https://www.ign.com/articles/planned-sydney-sweeney-cameo-reportedly-chopped-from-the-devil-wears-prada-2",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-22T07:16:51+00:00"
+    },
     {
       "id": "1719716adafa4052c8f0f0c7",
       "title": "« Ce qui me prenait une semaine me demande désormais deux secondes » : les jeunes diplômés utilisent l’IA pour tenter de se faire recruter",
@@ -10,7 +32,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-22T05:00:08+00:00"
+      "publishedAt": "2026-04-22T05:00:05+00:00"
     },
     {
       "id": "e542408aeb60a679e1ceb95f",
@@ -57,9 +79,9 @@
       "publishedAt": "2026-04-22T02:29:37+00:00"
     },
     {
-      "id": "f39dc21fd3f6764aea575b8a",
-      "title": "Virginia approves redistricting, giving Democrats edge in midterms",
-      "summary": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November.",
+      "id": "fc627ed340ddc46e4d6c5ccb",
+      "title": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
+      "summary": "The new maps approved by the state's voters could allow Democrats to flip as many as four House seats.",
       "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -288,8 +310,8 @@
       "publishedAt": "2026-04-21T19:55:00+00:00"
     },
     {
-      "id": "fd52a76230b078b79462deb4",
-      "title": "Fuite de données à l’ANTS, site qui gère les demandes de pièces d’identité : près de 12 millions de comptes concernés",
+      "id": "b9d7e7edf42c7a0af7ee9693",
+      "title": "Fuite de données à l’ANTS, site qui gère les demandes de pièces d’identité : près de 12 millions de comptes seraient concernés",
       "summary": "Lundi, le ministère de l’intérieur avait fait savoir que les « données à caractère personnel » touchées étaient les nom et prénom, l’adresse électronique et la date de naissance d’usagers.",
       "url": "https://www.lemonde.fr/pixels/article/2026/04/21/fuite-de-donnees-a-l-agence-nationale-des-titres-securises-pres-de-douze-millions-de-comptes-concernes_6682059_4408996.html",
       "imageUrl": null,
@@ -396,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-21T17:35:56+00:00"
-    },
-    {
-      "id": "0cfd2f6c7cf19f803e57af40",
-      "title": "Xbox Game Pass Plans, Explained: How Much Does a Subscription Cost?",
-      "summary": "Which gaming subscription is right for you?",
-      "url": "https://www.ign.com/articles/how-much-does-xbox-game-pass-cost",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-21T17:32:00+00:00"
     },
     {
       "id": "122d971814d809d4cc030313",
@@ -825,17 +836,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-19T06:30:02+00:00"
-    },
-    {
-      "id": "bdb9b0ed1e29b2c66d5032cd",
-      "title": "Non, je ne suis pas un robot : le casse-tête des Captcha",
-      "summary": "« Sur le feed. » Ces tests requis pour accéder à certains services sur Internet, aux allures parfois kafkaïenness, sont censés distinguer l’être humain de la machine. Aujourd’hui inefficaces, ils permettent surtout de récolter des données et d’alimenter les algorithmes.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/04/18/non-je-ne-suis-pas-un-robot-le-casse-tete-des-captcha_6681096_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-18T03:30:06+00:00"
     },
     {
       "id": "27de0e2411631fe10cc826a8",
