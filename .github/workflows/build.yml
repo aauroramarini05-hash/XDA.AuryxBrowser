@@ -19,6 +19,7 @@ jobs:
         with:
           distribution: temurin
           java-version: 17
+          cache: gradle
 
       - name: Decode keystore
         shell: bash
@@ -28,6 +29,9 @@ jobs:
 
       - name: Give gradlew permission
         run: chmod +x AuryxBrowser/gradlew
+
+      - name: Validate Gradle wrapper
+        uses: gradle/actions/wrapper-validation@v3
 
       - name: Build SIGNED Release APK
         env:
