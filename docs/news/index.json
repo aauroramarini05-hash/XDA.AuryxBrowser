@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-04-23T11:55:11.095599+00:00",
+  "updatedAt": "2026-04-23T13:04:57.928346+00:00",
   "items": [
+    {
+      "id": "e22ea0e44a9645da7f2a51d0",
+      "title": "Cybersécurité : face aux bouleversements de l’IA, un appel à « ne pas céder à la panique »",
+      "summary": "Le Conseil de l’intelligence artificielle et du numérique, organe public indépendant, souligne dans une note les enjeux majeurs posés par Mythos, le nouveau modèle d’IA d’Anthropic et ses capacités de pointe en matière de sécurité numérique.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/23/cybersecurite-face-aux-bouleversements-de-l-ia-un-appel-a-ne-pas-ceder-a-la-panique_6682802_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-23T12:30:03+00:00"
+    },
+    {
+      "id": "84a2fdf9bae5878e6d6b2e4b",
+      "title": "The Boys Season 5, Episode 5 Confirmed to Feature a Previous Member of the Seven Who Was Replaced by A-Train",
+      "summary": "The Boys Season 5, Episode 5 will feature a supervillain previously unseen in the show, Eric Kripke has confirmed.",
+      "url": "https://www.ign.com/articles/the-boys-season-5-episode-5-confirmed-to-feature-a-previous-member-of-the-seven-who-was-replaced-by-a-train",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T12:02:07+00:00"
+    },
     {
       "id": "edc0a792d14cc57bed8b4ff1",
       "title": "UK Biobank health data listed for sale in China, government confirms",
@@ -33,6 +55,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-23T11:39:55+00:00"
+    },
+    {
+      "id": "10c2a1f9f29abdf220305bcb",
+      "title": "Pokémon Pokopia Update Expands Ability to Move Pokémon Centers",
+      "summary": "Pokémon Pokopia has a new update available on Switch 2, which upgrades your ability to relocate Pokémon Centers.",
+      "url": "https://www.ign.com/articles/pokemon-pokopia-update-expands-ability-to-move-pokemon-centers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T11:25:08+00:00"
     },
     {
       "id": "1896c0f1c83404dd28374c7c",
@@ -330,28 +363,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-22T22:25:00+00:00"
-    },
-    {
-      "id": "6637b0ddbfa0a126723d7292",
-      "title": "You Don't Need The AMD Ryzen 9 9950X3D2",
-      "summary": "",
-      "url": "https://www.ign.com/articles/you-dont-need-the-amd-ryzen-9-9950x3d2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T22:21:38+00:00"
-    },
-    {
-      "id": "e110a6ca7a1ee6ead38f5e67",
-      "title": "These Retro Deck Boxes Are a Throwback to the Golden Age of Pokémon",
-      "summary": "Find a better way to organize your collection.",
-      "url": "https://www.ign.com/articles/these-retro-deck-boxes-are-a-throwback-to-the-golden-age-of-pokemon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T22:10:25+00:00"
     },
     {
       "id": "1fadc991fdb0c1ae8343f79a",
@@ -957,17 +968,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-20T12:14:56+00:00"
-    },
-    {
-      "id": "13b15a803ac6bcc898ed2c6e",
-      "title": "L’ANTS, qui gère les cartes d’identité et passeports, visée par une attaque informatique, des données potentiellement divulguées",
-      "summary": "Nom, prénom, adresse électronique et date de naissance d’usagers sont concernés par les fuites.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/20/l-ants-qui-gere-les-cartes-d-identites-et-passeports-visee-par-une-attaque-informatique-des-donnees-potentiellement-divulguees_6681710_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-20T11:27:00+00:00"
     },
     {
       "id": "ca7ec2868463b2a1781f658b",
