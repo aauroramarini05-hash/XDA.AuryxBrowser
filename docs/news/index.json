@@ -1,6 +1,237 @@
 {
-  "updatedAt": "2026-04-23T13:04:57.928346+00:00",
+  "updatedAt": "2026-04-23T15:45:16.957846+00:00",
   "items": [
+    {
+      "id": "4f3b13ecc3e083234a2c7f1b",
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T15:34:15+00:00"
+    },
+    {
+      "id": "67b53b8ce850b24101180406",
+      "title": "South Africa's president suspends police chief after court charges",
+      "summary": "Cyril Ramaphosa said the suspension was because of the critical role Fannie Masemola plays in fighting crime.",
+      "url": "https://www.bbc.com/news/articles/cvglxkjwr5lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T15:34:07+00:00"
+    },
+    {
+      "id": "8725bb366c89c00d995c7362",
+      "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
+      "summary": "Opposition parties accused security forces but the official report does not say who was responsible.",
+      "url": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T15:33:36+00:00"
+    },
+    {
+      "id": "8e7efe9e4ae87d6fda06b8f0",
+      "title": "'Godzilla World' Is Japan's Version of Hollywood's 'MonsterVerse' — and It Sounds Like Godzilla Minus One Is Just the Start",
+      "summary": "Godzilla is set to burst back on to theater screens in Godzilla Minus Zero in November this year. However, Toho has recently hinted that new plans are afoot for its legendary King of the Monsters. The giant kaiju will be getting “Godzilla World,” a plan to expand and interconnect the Japanese Godzilla’s universe in a similar way to what Hollywood's",
+      "url": "https://www.ign.com/articles/godzilla-world-is-japans-version-of-hollywoods-monsterverse-and-it-sounds-like-godzilla-minus-one-is-just-the-start",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T15:20:28+00:00"
+    },
+    {
+      "id": "a0e2d8a06f3753f67a56b8e3",
+      "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
+      "summary": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
+      "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T15:11:03+00:00"
+    },
+    {
+      "id": "89cbcedf321b906512460845",
+      "title": "Parcoursup : les données de 705 000 candidats rattachés aux sessions 2023 et 2025 en Occitanie piratées",
+      "summary": "Les données piratées comprennent les noms, les prénoms, les nationalités, les dates de naissance, les adresses postales et électroniques et les numéros de téléphone.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/23/parcoursup-les-donnees-de-705-000-candidats-rattaches-aux-sessions-2023-et-2025-en-occitanie-piratees_6682823_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-23T15:04:24+00:00"
+    },
+    {
+      "id": "837f8353a263e4578dd1d217",
+      "title": "Royaume-Uni : les données médicales de 500 000 personnes proposées à la vente en Chine",
+      "summary": "Ces données anonymisées ne contenaient ni noms, ni adresses, ni coordonnées, ni numéros de téléphone, a assuré le gouvernement britannique.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/23/royaume-uni-les-donnees-medicales-de-500-000-personnes-proposees-a-la-vente-en-chine_6682822_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-23T15:04:13+00:00"
+    },
+    {
+      "id": "e673f8b2c6246e9b809f2a37",
+      "title": "Storage Wars Star Darrell Sheets Dies Aged 67",
+      "summary": "Darrell Sheets, one of the stars of the hit A&E reality series Storage Wars, has died at age 67. Sheets passed away on Wednesday, April 22 in Lake Havasu City, Arizona. Local police have since released information on how the reality TV personality died.",
+      "url": "https://www.ign.com/articles/storage-wars-star-darrell-sheets-dies-aged-67",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T15:02:13+00:00"
+    },
+    {
+      "id": "28057144c43cfc0842e7bfac",
+      "title": "« L’IA fait face à une fronde croissante de la population américaine », en raison de son caractère énergivore ou de ses effets sur l’emploi",
+      "summary": "Aux Etats-Unis, des protestations venant des démocrates mais aussi des républicains s’élèvent contre des projets de centres de données nécessaires au fonctionnement de l’intelligence artificielle, explique Alexandre Piquard dans sa chronique au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/23/l-ia-fait-face-a-une-fronde-croissante-de-la-population-americaine-en-raison-de-son-caractere-energivore-ou-de-ses-effets-sur-l-emploi_6682821_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-23T15:00:09+00:00"
+    },
+    {
+      "id": "d33d4b4009b14e7f0b28f11c",
+      "title": "Spider-Noir Villains Revealed: Exclusive First Look at the Show's Sandman, Tombstone and More",
+      "summary": "Co-showrunner and executive producer Oren Uziel and his team put the needs of the story first when selecting the rogue’s gallery of Spider-Noir. That doesn’t mean they could use any Marvel character they wanted, as Uziel explained: “There are characters that you can't use.\"",
+      "url": "https://www.ign.com/articles/spider-noir-villains-revealed-exclusive-first-look-at-the-shows-sandman-tombstone-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T15:00:00+00:00"
+    },
+    {
+      "id": "62c659cad744a7374d943636",
+      "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
+      "summary": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
+      "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T14:55:21+00:00"
+    },
+    {
+      "id": "00fea05790107fed98105c7f",
+      "title": "LEGO Shrek Is Real and Releasing on June 1",
+      "summary": "Leaks have once again been proven correct with the official reveal of LEGO Shrek, Donkey, and Puss in Boots.",
+      "url": "https://www.ign.com/articles/lego-shrek-donkey-and-puss-in-boots-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T14:35:01+00:00"
+    },
+    {
+      "id": "7d4fc21baeff4cc2c5c3efca",
+      "title": "Pragmata Now Links to Albert Wesker Memes, After Fan Snaps Up In-Game Website",
+      "summary": "Pragmata publisher Capcom has left another vacant URL in one of its video games — so, of course, a fan has snapped it up.",
+      "url": "https://www.ign.com/articles/pragmata-now-links-to-albert-wesker-memes-after-fan-snaps-up-in-game-website",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T14:25:07+00:00"
+    },
+    {
+      "id": "1896c0f1c83404dd28374c7c",
+      "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+      "summary": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
+      "url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T13:54:16+00:00"
+    },
+    {
+      "id": "86b860ba3865fd61cd14c88d",
+      "title": "MrBeast's company sued by ex-employee over sexual harassment claim",
+      "summary": "Beast Industries has strongly denied claims of sexual harassment and workplace gender bias.",
+      "url": "https://www.bbc.com/news/articles/c937z1nxze8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T13:32:05+00:00"
+    },
+    {
+      "id": "a8a591b8d0681f7cf786c61d",
+      "title": "Trump administration reclassifies cannabis as less dangerous",
+      "summary": "Medical marijuana was moved into a lower category of drugs in order to increase research and access.",
+      "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T13:32:04+00:00"
+    },
+    {
+      "id": "8b881bca310a9cd7517ed32f",
+      "title": "Mr Beast's Company Sued Over Claims of Sexual Harassment",
+      "summary": "The company behind MrBeast, the world's biggest YouTube channel, has denied claims of sexual harassment in a lawsuit filed by a former employee.",
+      "url": "https://www.ign.com/articles/mr-beasts-company-sued-over-claims-of-sexual-harassment",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T13:19:56+00:00"
+    },
+    {
+      "id": "c42eb195fbe09ab0de4658e7",
+      "title": "Stranger Things: Tales From '85 and McDonald's Are Teaming Up For a Happy Meal That Lets You Fight the Upside Down",
+      "summary": "Stranger Things: Tales From '85 and McDonald's are teaming up for a Happy Meal that will not only get you a collectible toy, a Stranger Things activity book, and some delicious food, but also a QR code that lets you save Hawkins and McDonald's from the Upside Down.",
+      "url": "https://www.ign.com/articles/stranger-things-tales-from-85-and-mcdonalds-are-teaming-up-for-a-happy-meal-that-lets-you-fight-the-upside-down",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T13:15:00+00:00"
+    },
+    {
+      "id": "2593a46b48882a36831f35e5",
+      "title": "Kellogg's Is Bringing Back Toys in Its Cereal Boxes For the First Time in Over a Decade to Celebrate Toy Story 5",
+      "summary": "Kellogg's is bringing back toys in its cereal boxes for the first time in over a decade to celebrate Toy Story 5, including Frosted Flakes, Froot Loops, AppleJacks, and Corn Pops.",
+      "url": "https://www.ign.com/articles/kelloggs-is-bringing-back-toys-in-its-cereal-boxes-for-the-first-time-in-over-a-decade-to-celebrate-toy-story-5",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T13:00:00+00:00"
+    },
+    {
+      "id": "7cc15de8eeb5c4ae4d0d4563",
+      "title": "The Clayface Movie Looks to Fix the Sony Spider-Man Universe’s Biggest Mistake",
+      "summary": "Clayface looks to fix the Sony Spider-Man universe’s biggest mistake: Could this third DCU movie morph into something better than that uneven collection of comic book films?",
+      "url": "https://www.ign.com/articles/the-clayface-movie-looks-to-fix-the-sony-spider-man-universes-biggest-mistake",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T13:00:00+00:00"
+    },
+    {
+      "id": "329911a0f1e39df48c44af13",
+      "title": "Yoshi and the Mysterious Book UK Preorders Include Bonus Tote Bag and Bookmark",
+      "summary": "Yoshi and the Mysterious Book UK preorders for Switch 2 include exclusive bonus items in the UK, including a magnetic bookmark and tote bag.",
+      "url": "https://www.ign.com/articles/yoshi-mysterious-book-uk-preorder-bonus-revealed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T12:49:00+00:00"
+    },
     {
       "id": "e22ea0e44a9645da7f2a51d0",
       "title": "Cybersécurité : face aux bouleversements de l’IA, un appel à « ne pas céder à la panique »",
@@ -10,7 +241,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-23T12:30:03+00:00"
+      "publishedAt": "2026-04-23T12:30:01+00:00"
     },
     {
       "id": "84a2fdf9bae5878e6d6b2e4b",
@@ -57,6 +288,17 @@
       "publishedAt": "2026-04-23T11:39:55+00:00"
     },
     {
+      "id": "972c8b0461993a32b084d832",
+      "title": "In Tehran, money is short and a return to war looms over daily life",
+      "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+      "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T11:26:01+00:00"
+    },
+    {
       "id": "10c2a1f9f29abdf220305bcb",
       "title": "Pokémon Pokopia Update Expands Ability to Move Pokémon Centers",
       "summary": "Pokémon Pokopia has a new update available on Switch 2, which upgrades your ability to relocate Pokémon Centers.",
@@ -66,17 +308,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-23T11:25:08+00:00"
-    },
-    {
-      "id": "1896c0f1c83404dd28374c7c",
-      "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
-      "summary": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
-      "url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T11:08:56+00:00"
     },
     {
       "id": "dbadd6f41af834648f5aa622",
@@ -200,17 +431,6 @@
       "publishedAt": "2026-04-23T06:12:59+00:00"
     },
     {
-      "id": "bf91234b7ffcf5a930e66e85",
-      "title": "Samsung Reveals AI TV Lineup for 2026 in Australia",
-      "summary": "",
-      "url": "https://www.ign.com/articles/samsung-reveals-ai-tv-lineup-for-2026-in-australia-au",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-23T05:18:39+00:00"
-    },
-    {
       "id": "bd425bc694d55a3cf6962258",
       "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
       "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
@@ -233,17 +453,6 @@
       "publishedAt": "2026-04-23T03:00:03+00:00"
     },
     {
-      "id": "2da849cbd3ba6314e8d0a57f",
-      "title": "Miami Vice '85: New Title Revealed for Michael B. Jordan-Austin Butler Movie",
-      "summary": "Universal Pictures’ and director Joseph Kosinski’s big screen reboot of Miami Vice has a new title befitting its period setting: Miami Vice ‘85. As revealed when the movie’s release date was announced, Miami Vice ‘85 “explores the glamour and corruption of mid-80’s Miami,” the decade when the original NBC TV series aired.",
-      "url": "https://www.ign.com/articles/miami-vice-85-new-title-revealed-for-michael-b-jordan-austin-butler-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-23T01:25:33+00:00"
-    },
-    {
       "id": "3c877a9ad3a4affc399e746b",
       "title": "Girl, 14, found in singer D4vd's car died of 'multiple injuries'",
       "summary": "The medical examiner said the 14-year-old's cause of death was determined months ago but was blocked from release.",
@@ -253,61 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-23T00:39:56+00:00"
-    },
-    {
-      "id": "5bb7b029c1a52eef138cb78d",
-      "title": "Both LG and Samsung Have Discounted Their Most Popular 4K OLED TVs To a Monthly Low",
-      "summary": "These are the best gaming TVs for PlayStation 5 and Switch 2.",
-      "url": "https://www.ign.com/articles/best-lg-samsung-4k-oled-tv-deals-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-23T00:25:00+00:00"
-    },
-    {
-      "id": "c60a11b4261918522d6dbef0",
-      "title": "The Baseus 20,000mAh 45W Power Bank With Dual USB-C Cables Drops to $21 After Coupon",
-      "summary": "Charge and play on the Nintendo Switch 2 or Steam Deck at the same time.",
-      "url": "https://www.ign.com/articles/baseus-20000mah-45w-power-bank-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-23T00:25:00+00:00"
-    },
-    {
-      "id": "3521809e607caa979882666c",
-      "title": "The Sonos Era 100 Smart Speaker Drops to Just $134 Shipped During the Earth Day Sale",
-      "summary": "Certified refurbished from Sonos direct with the same warranty as buying new.",
-      "url": "https://www.ign.com/articles/sonos-era-100-smart-speaker-deal-earth-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-23T00:15:00+00:00"
-    },
-    {
-      "id": "a1c8af344a9966ac1a95b82e",
-      "title": "The Latest LEGO Star Wars Sale Includes the Darth Jar Jar Binks Minifigure Set",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-latest-lego-star-wars-sale-includes-the-darth-jar-jar-binks-minifigure-set",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-23T00:10:00+00:00"
-    },
-    {
-      "id": "5c074f29d25c9290602f6d8e",
-      "title": "Save Nearly 50% Off \"Like New\" Sonos Ace Noise Canceling Headphone",
-      "summary": "High-end headphones at a budget-friendly price.",
-      "url": "https://www.ign.com/articles/sonos-ace-noise-canceling-headphone-deal-open-box-at-best-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T23:45:00+00:00"
     },
     {
       "id": "cbdd2843ff7abb80b78b98cb",
@@ -330,39 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-22T23:37:11+00:00"
-    },
-    {
-      "id": "e76282b240b744673daaeb4c",
-      "title": "Windrose Early Access Review",
-      "summary": "Taking to the high seas in a swashbuckling survival crafter with deep combat.",
-      "url": "https://www.ign.com/articles/windrose-review-early-access",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T22:55:49+00:00"
-    },
-    {
-      "id": "11aa6e013f977397fbec947e",
-      "title": "For Today Only, Save $200 Off the Feature-Packed Creality K2C Multi-Color 3D Printer Combo",
-      "summary": "Fully enclosed CoreXY 3D printer with multi-color and multi-material printing for just $500.",
-      "url": "https://www.ign.com/articles/creality-k2c-3d-printer-deal-at-best-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T22:55:00+00:00"
-    },
-    {
-      "id": "8aced44a745d564d477195e0",
-      "title": "The $14 Portable Neck Fan Is the Budget-Friendly Solution to Beating the Summer Heat",
-      "summary": "Stay frosty.",
-      "url": "https://www.ign.com/articles/best-neck-fan-deal-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T22:25:00+00:00"
     },
     {
       "id": "1fadc991fdb0c1ae8343f79a",
@@ -486,17 +607,6 @@
       "publishedAt": "2026-04-22T14:03:12+00:00"
     },
     {
-      "id": "fc627ed340ddc46e4d6c5ccb",
-      "title": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
-      "summary": "The new maps approved by the state's voters could allow Democrats to flip as many as four House seats.",
-      "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T13:49:15+00:00"
-    },
-    {
       "id": "7c6ecb16f7fd616a9a5d0f86",
       "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
       "summary": "New Call of Duty games will be added to the subscription service \"about a year\" after release, Microsoft said.",
@@ -616,28 +726,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-22T04:00:28+00:00"
-    },
-    {
-      "id": "e20a12d12db4ad403e49f7c4",
-      "title": "Domestic workers legally recognised in Indonesia after '22-year struggle'",
-      "summary": "The country is home to some 4.2 million domestic workers - of which almost 90% are women.",
-      "url": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T02:55:40+00:00"
-    },
-    {
-      "id": "b3a07bff7d3aba409eef6ab6",
-      "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
-      "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted.",
-      "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T02:29:37+00:00"
     },
     {
       "id": "8f2edd5dc115a2a544e4a2c0",
@@ -783,39 +871,6 @@
       "publishedAt": "2026-04-21T16:41:54+00:00"
     },
     {
-      "id": "ffbf03e6eadd9f8a65521046",
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
-      "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T16:25:44+00:00"
-    },
-    {
-      "id": "112f6f07edb379444f185cb1",
-      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-      "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
-      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T16:13:27+00:00"
-    },
-    {
-      "id": "ede7cdeb57f13dacf0582d85",
-      "title": "Iran sees mass redundancies from war with US and Israel",
-      "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
-      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T16:05:51+00:00"
-    },
-    {
       "id": "bd541ac7597d14f64c2dbf6b",
       "title": "Les salariés et responsables RH bien conscients de l’urgence de se former à l’IA",
       "summary": "Publié mardi 21 avril, le baromètre « Transformations, compétences et learning » 2026 de l’organisme de formation Cegos relève une prise de conscience massive des enjeux de l’IA chez les salariés et les professionnels des ressources humaines.",
@@ -847,28 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-21T13:35:21+00:00"
-    },
-    {
-      "id": "8a2f78c821c2d40dd1e99114",
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty.",
-      "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-21T12:28:31+00:00"
-    },
-    {
-      "id": "c945dc4145136fed91fb3cf1",
-      "title": "« Les maîtres de l’IA seront haïs pour leur fortune et pour leur transformation de la société »",
-      "summary": "Signe de la vitalité extraordinaire du capitalisme américain, l’intelligence artificielle, guidée par ses nouveaux maîtres SpaceX, Anthropic et OpenAI, pourrait être le nouveau cygne noir de l’économie mondiale, relève Arnaud Leparmentier dans sa chronique.",
-      "url": "https://www.lemonde.fr/idees/article/2026/04/21/les-maitres-de-l-ia-seront-hais-pour-leur-fortune-et-pour-leur-transformation-de-la-societe_6681970_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-21T07:42:24+00:00"
     },
     {
       "id": "f1000c8bb7c8e8b3e1233409",
@@ -935,28 +968,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-20T15:44:44+00:00"
-    },
-    {
-      "id": "0423f89fc8f742f526c7fe98",
-      "title": "Elon Musk, convoqué à Paris dans le cadre d’une enquête sur de possibles dérives de X, ne s’est pas présenté devant la justice française",
-      "summary": "Le parquet de Paris enquête depuis janvier 2025 sur de nombreux abus prêtés au réseau social X et à son dirigeant. Le milliardaire était convoqué lundi pour une audition libre.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/20/elon-musk-convoque-a-paris-dans-le-cadre-d-une-enquete-sur-de-possibles-derives-de-x-ne-s-est-pas-presente-devant-la-justice-francaise_6681735_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-20T14:50:54+00:00"
-    },
-    {
-      "id": "e77152b663152c3cdd1c50fb",
-      "title": "Près de la moitié des titres mis en ligne sur Deezer chaque jour sont générés par IA",
-      "summary": "L’écoute de ces morceaux reste toutefois « très faible », ne pesant ainsi qu’entre 1 et 3 % du nombre total de streams, précise la plateforme française.",
-      "url": "https://www.lemonde.fr/culture/article/2026/04/20/pres-de-la-moitie-des-titres-mis-en-ligne-sur-deezer-chaque-jour-sont-generes-par-ia_6681718_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-20T12:48:03+00:00"
     },
     {
       "id": "a97cfde8cc3e16e412b6916b",
