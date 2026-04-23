@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-04-23T06:56:40.429494+00:00",
+  "updatedAt": "2026-04-23T08:50:39.884655+00:00",
   "items": [
+    {
+      "id": "6eee25fb508af5f9eca2bccb",
+      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+      "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
+      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T08:37:14+00:00"
+    },
+    {
+      "id": "5b3bc3ca156ac5e16082b32c",
+      "title": "Two trains collide head-on in Denmark, leaving four critically hurt",
+      "summary": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
+      "url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T08:02:18+00:00"
+    },
+    {
+      "id": "3a6b6905499ba22bcde103f1",
+      "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
+      "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
+      "url": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T07:47:55+00:00"
+    },
+    {
+      "id": "7f5cf4aaeb8d380bc02bc0ea",
+      "title": "Stranger Things: Tales From ’85 Review",
+      "summary": "Stranger Things: Tales From ’85 review: Great visuals and thin storytelling result in a light, slight animated spin-off.",
+      "url": "https://www.ign.com/articles/stranger-things-animated-series-tales-from-85-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-23T07:01:00+00:00"
+    },
+    {
+      "id": "d2baebbf5ff39dcf77c855f8",
+      "title": "Le Cambodge pressé par la Chine d’« éradiquer totalement » les centres de cyberfraude",
+      "summary": "En visite à Phnom Penh, le chef de la diplomatie chinoise a appelé le premier ministre cambodgien à « combattre fermement » cette criminalité en ligne qui prospère dans le pays.",
+      "url": "https://www.lemonde.fr/international/article/2026/04/23/le-cambodge-presse-par-la-chine-d-eradiquer-totalement-les-centres-de-cyberfraude_6682766_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-23T07:00:37+00:00"
+    },
     {
       "id": "665587d8eac74ddcb8282dc0",
       "title": "Australian Government Demands to Know What Roblox, Minecraft, Fortnite, and Steam are Doing to Prevent Grooming, Radicalisation",
@@ -44,17 +99,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-23T03:00:03+00:00"
-    },
-    {
-      "id": "6eee25fb508af5f9eca2bccb",
-      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
-      "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
-      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T01:56:20+00:00"
     },
     {
       "id": "2da849cbd3ba6314e8d0a57f",
@@ -136,7 +180,7 @@
     {
       "id": "cbdd2843ff7abb80b78b98cb",
       "title": "La Turquie adopte une loi pour interdire les réseaux sociaux aux moins de 15 ans",
-      "summary": "Les parents disposeront d’outils de contrôle et « en cas d’urgence » les principales plateformes devront intervenir dans l’heure suivant la diffusion de contenus préjudiciables.",
+      "summary": "Les parents disposeront d’outils de contrôle et, « en cas d’urgence », les principales plateformes devront intervenir dans l’heure suivant la diffusion de contenus préjudiciables.",
       "url": "https://www.lemonde.fr/pixels/article/2026/04/23/la-turquie-adopte-une-loi-pour-interdire-les-reseaux-sociaux-aux-moins-de-15-ans_6682499_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -299,17 +343,6 @@
       "publishedAt": "2026-04-22T20:35:00+00:00"
     },
     {
-      "id": "d95bec4022f4f3c474a7ef8a",
-      "title": "The Sonos Arc Soundbar with Dolby Atmos Drops to Just $399 Shipped During the Earth Day Sale",
-      "summary": "Certified refurbished from Sonos direct with the same warranty as buying new.",
-      "url": "https://www.ign.com/articles/sonos-arc-soundbar-deal-earth-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-22T20:35:00+00:00"
-    },
-    {
       "id": "8c0828ea58197eda6a8d4d41",
       "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
       "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
@@ -352,17 +385,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-22T17:18:36+00:00"
-    },
-    {
-      "id": "3a6b6905499ba22bcde103f1",
-      "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
-      "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
-      "url": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T17:04:33+00:00"
     },
     {
       "id": "2a2088221a3e630fe9b176f7",
@@ -924,17 +946,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-20T11:27:00+00:00"
-    },
-    {
-      "id": "402d13a8d592e4ca0cb43afd",
-      "title": "Affaire Pegasus : deux ex-dirigeants de l’entreprise commercialisant le logiciel espion entendus par la justice française",
-      "summary": "Deux des cofondateurs de NSO ont été placés sous le statut de témoin assisté dans le cadre d’une enquête ouverte en 2022, rapporte « Mediapart ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/20/affaire-pegasus-deux-ex-dirigeants-de-l-entreprise-commercialisant-le-logiciel-espion-entendus-par-la-justice-francaise_6681707_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-20T10:41:09+00:00"
     },
     {
       "id": "ca7ec2868463b2a1781f658b",
