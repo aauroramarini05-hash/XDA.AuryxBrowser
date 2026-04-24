@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-04-24T04:49:09.990217+00:00",
+  "updatedAt": "2026-04-24T07:00:39.230359+00:00",
   "items": [
     {
-      "id": "cf5f355ff973e91ce63b683e",
-      "title": "L’entreprise chinoise DeepSeek dévoile DeepSeek-V4, un nouveau modèle d’IA",
-      "summary": "DeepSeek mise sur l’open source pour séduire développeurs et entreprises au-delà des frontières chinoises, relançant ainsi la course mondiale sur l’intelligence artificielle face aux géants américains.",
+      "id": "d51ec8dda0275a07316477be",
+      "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
+      "summary": "Throughout Russia, internet usage has become seriously restricted. Citizens are drawing comparison to Soviet censorship and today's digital blackouts.",
+      "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-24T05:00:29+00:00"
+    },
+    {
+      "id": "33a52fb0291f80827715c350",
+      "title": "DeepSeek V4, le nouveau modèle d’IA de l’entreprise chinoise, dévoilé en open source",
+      "summary": "DeepSeek mise sur l’open source pour attier développeurs et entreprises au-delà des frontières chinoises, relançant ainsi la course mondiale sur l’intelligence artificielle face aux géants américains.",
       "url": "https://www.lemonde.fr/pixels/article/2026/04/24/l-entreprise-chinoise-deepseek-devoile-deepseek-v4-un-nouveau-modele-d-ia_6683010_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-24T04:42:02+00:00"
+      "publishedAt": "2026-04-24T04:41:57+00:00"
     },
     {
       "id": "4f3b13ecc3e083234a2c7f1b",
@@ -35,9 +46,9 @@
       "publishedAt": "2026-04-24T00:58:58+00:00"
     },
     {
-      "id": "b587a6a9d1788f386516febd",
-      "title": "Polymarket : un soldat américain inculpé pour avoir parié sur la chute de Nicolas Maduro grâce à des informations confidentielles",
-      "summary": "Le soldat est accusé de délit d’initié pour avoir prédit l’intervention des Etats-Unis au Venezuela le 3 janvier et empoché des centaines de milliers de dollars, sur le site de paris controversé.",
+      "id": "2ae7b914f2f235a875b16386",
+      "title": "Polymarket : un soldat américain inculpé pour avoir gagné 400 000 dollars en pariant sur la chute de Nicolas Maduro",
+      "summary": "Le militaire est accusé de délit d’initié pour avoir prédit l’intervention des Etats-Unis au Venezuela le 3 janvier et empoché cette somme.",
       "url": "https://www.lemonde.fr/pixels/article/2026/04/24/polymarket-un-militaire-americain-inculpe-pour-avoir-parie-sur-la-chute-de-nicolas-maduro-grace-a-des-informations-confidentielles_6682920_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -90,15 +101,15 @@
       "publishedAt": "2026-04-23T23:30:52+00:00"
     },
     {
-      "id": "8089081b962c585f6783668d",
-      "title": "Meta licencie en masse pour investir dans l’intelligence artificielle",
+      "id": "e43e5daa6ff01861362da12e",
+      "title": "Meta licencie en masse pour investir encore davantage dans l’IA",
       "summary": "La maison mère de Facebook, WhatsApp et Instagram a annoncé à ses employés, jeudi, qu’elle allait se séparer de 10 % d’entre eux fin mai, ce qui représente environ 8 000 personnes.",
       "url": "https://www.lemonde.fr/economie/article/2026/04/24/meta-licencie-en-masse-pour-investir-dans-l-intelligence-artificielle_6682887_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-23T23:30:08+00:00"
+      "publishedAt": "2026-04-23T23:30:04+00:00"
     },
     {
       "id": "5739a6346c982e1d4d32d8be",
@@ -242,6 +253,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-23T20:00:00+00:00"
+    },
+    {
+      "id": "8ac9b34ceb781c7d51b8d30a",
+      "title": "Hundreds of wildfires burn across Florida and Georgia",
+      "summary": "Officials in both states cite dry conditions, high winds and drought as key factors making the fires difficult to control.",
+      "url": "https://www.bbc.com/news/videos/cwyw9wezygzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T19:47:25+00:00"
     },
     {
       "id": "bfb573c89d3a73c683c203ab",
@@ -409,6 +431,17 @@
       "publishedAt": "2026-04-23T16:52:44+00:00"
     },
     {
+      "id": "00d6286a8f7ae1897980626a",
+      "title": "My five-minute phone call with President Trump",
+      "summary": "Sarah Smith asked the president about King Charles's upcoming visit, the state of the so-called special relationship and the war with Iran.",
+      "url": "https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-23T16:47:18+00:00"
+    },
+    {
       "id": "62c659cad744a7374d943636",
       "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
       "summary": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
@@ -494,7 +527,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-23T15:00:09+00:00"
+      "publishedAt": "2026-04-23T15:00:03+00:00"
     },
     {
       "id": "1896c0f1c83404dd28374c7c",
@@ -728,17 +761,6 @@
       "publishedAt": "2026-04-22T17:18:36+00:00"
     },
     {
-      "id": "2a2088221a3e630fe9b176f7",
-      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-      "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
-      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T16:19:36+00:00"
-    },
-    {
       "id": "d5e7b51d7cf279d2e71f15c7",
       "title": "Au Kenya, les tchatteurs d’OnlyFans, nouveaux travailleurs précaires du numérique",
       "summary": "Sous pression, enchaînant huit à douze heures d’affilée, des jeunes hommes sont chargés de converser avec les abonnés de la plateforme, sur des sujets sexuels, à la place des créatrices de contenus.",
@@ -970,17 +992,6 @@
       "publishedAt": "2026-04-20T19:56:11+00:00"
     },
     {
-      "id": "6b79d9a4a97f018f92da7252",
-      "title": "Victory slips away as marathon runner celebrates too soon",
-      "summary": "The dramatic end to the Delaware Marathon occurred when the lead runner slowed in celebration before a trailing marathoner sprinted toward the finish line .",
-      "url": "https://www.bbc.com/news/videos/cvg09900zx5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T16:02:14+00:00"
-    },
-    {
       "id": "a97cfde8cc3e16e412b6916b",
       "title": "Are insider traders making millions from the Iran war?",
       "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
@@ -990,17 +1001,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-20T12:14:56+00:00"
-    },
-    {
-      "id": "ca7ec2868463b2a1781f658b",
-      "title": "US releases video of forces seizing Iranian ship",
-      "summary": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
-      "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-20T07:29:42+00:00"
     },
     {
       "id": "4b639ebf008fcb41a952bfca",
