@@ -1,16 +1,126 @@
 {
-  "updatedAt": "2026-04-24T07:00:39.230359+00:00",
+  "updatedAt": "2026-04-24T09:23:09.738597+00:00",
   "items": [
     {
-      "id": "d51ec8dda0275a07316477be",
-      "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
-      "summary": "Throughout Russia, internet usage has become seriously restricted. Citizens are drawing comparison to Soviet censorship and today's digital blackouts.",
+      "id": "0cd14165bee57a2f6c3be325",
+      "title": "Kenyan leader sparks uproar after mocking Nigerians' spoken English",
+      "summary": "William Ruto says Kenyans speak \"some of the best English in the world\" while it is hard to understand Nigerians.",
+      "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-24T09:01:32+00:00"
+    },
+    {
+      "id": "a0fa028582119dd26165c3ee",
+      "title": "Woman trapped in poo for three hours after outback toilet collapses",
+      "summary": "The woman got stuck waist-deep in a pit latrine in the Australian outback after it gave way.",
+      "url": "https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-24T08:39:02+00:00"
+    },
+    {
+      "id": "bcbc354bdbb6eb57ede1c51d",
+      "title": "La Norvège compte interdire à son tour les réseaux sociaux aux moins de 16 ans",
+      "summary": "Le gouvernement norvégien devrait présenter un projet de loi pour interdire l’accès aux réseaux sociaux aux jeunes de moins de 16 ans d’ici à la fin de l’année. Plusieurs autres pays européens ont déjà annoncé leur intention d’instaurer une majorité numérique pour les réseaux sociaux.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/24/la-norvege-compte-interdire-a-son-tour-les-reseaux-sociaux-aux-moins-de-16-ans_6683036_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-24T08:38:00+00:00"
+    },
+    {
+      "id": "97dd4254551ed2769cffe090",
+      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+      "summary": "The widely circulated image had prompted authorities to move their search operation.",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-24T08:23:36+00:00"
+    },
+    {
+      "id": "d4a48fbca369eeba278c539e",
+      "title": "Meta to cut one in 10 jobs after spending billions on AI",
+      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
+      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-24T07:31:35+00:00"
+    },
+    {
+      "id": "d0a6c87975651d04ef149c68",
+      "title": "On a testé… « Saros », le jeu vidéo d’action à son apogée",
+      "summary": "Les créateurs du jeu de tir « Returnal » reviennent avec un titre aussi extrême que jubilatoire, qui paraît, jeudi 30 avril, en exclusivité sur PlayStation 5.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/24/on-a-teste-saros-le-jeu-video-d-action-a-son-apogee_6683021_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-24T07:00:12+00:00"
+    },
+    {
+      "id": "8af959df825d58a098e7c928",
+      "title": "Saros Review",
+      "summary": "Saros' ambitions aren't always fulfilled, but Housemarque's fluid action still bangs.",
+      "url": "https://www.ign.com/articles/saros-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-24T07:00:00+00:00"
+    },
+    {
+      "id": "86988df65376819efbcbfee1",
+      "title": "Aboriginal children's book pulled over illustrator's Bondi attack comments",
+      "summary": "Several writers have cut ties with the University of Queensland Press for cancelling the book.",
+      "url": "https://www.bbc.com/news/articles/c87wzv3lv1vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-24T06:37:47+00:00"
+    },
+    {
+      "id": "c8222dcd3e2dbc8b49900b57",
+      "title": "Meta to Sack 8,000 Employees, Closing 6,000 Open Job Listings",
+      "summary": "Layoffs come amid continuing shifts into AI-related investments.",
+      "url": "https://www.ign.com/articles/meta-to-sack-8000-employees-closing-6000-open-job-listings",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-24T06:31:34+00:00"
+    },
+    {
+      "id": "da80ae941ab4f83f25a8a3a1",
+      "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
+      "summary": "Officials say the restrictions are for public safety, but businesses and the public are feeling the impact.",
       "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-24T05:00:29+00:00"
+    },
+    {
+      "id": "68e766376a8c4ff07895c423",
+      "title": "Epstein housed abuse victims in London flats, BBC reveals",
+      "summary": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.",
+      "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-24T05:00:03+00:00"
     },
     {
       "id": "33a52fb0291f80827715c350",
@@ -103,7 +213,7 @@
     {
       "id": "e43e5daa6ff01861362da12e",
       "title": "Meta licencie en masse pour investir encore davantage dans l’IA",
-      "summary": "La maison mère de Facebook, WhatsApp et Instagram a annoncé à ses employés, jeudi, qu’elle allait se séparer de 10 % d’entre eux fin mai, ce qui représente environ 8 000 personnes.",
+      "summary": "La maison mère de Facebook, de WhatsApp et d’Instagram a annoncé à ses employés, jeudi, qu’elle allait se séparer de 10 % d’entre eux, fin mai, ce qui représente environ 8 000 personnes.",
       "url": "https://www.lemonde.fr/economie/article/2026/04/24/meta-licencie-en-masse-pour-investir-dans-l-intelligence-artificielle_6682887_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -143,17 +253,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-23T23:00:00+00:00"
-    },
-    {
-      "id": "2c845d062d18bccb461226c2",
-      "title": "Meta says it will cut 8,000 jobs as AI spending soars",
-      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
-      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-23T22:56:00+00:00"
     },
     {
       "id": "a76b7433770226f43138d6b7",
@@ -398,28 +497,6 @@
       "publishedAt": "2026-04-23T18:00:00+00:00"
     },
     {
-      "id": "5c074f29d25c9290602f6d8e",
-      "title": "Save Nearly 50% Off \"Like New\" Sonos Ace Noise Canceling Headphone",
-      "summary": "High-end headphones at a budget-friendly price.",
-      "url": "https://www.ign.com/articles/sonos-ace-noise-canceling-headphone-deal-open-box-at-best-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-23T17:45:00+00:00"
-    },
-    {
-      "id": "31998c8cd36cba57edca7744",
-      "title": "ID@Xbox: Everything Announced at the 2026 Showcase",
-      "summary": "Check out all the exclusive reveals from the ID@Xbox April showcase, presented by IGN.",
-      "url": "https://www.ign.com/articles/idxbox-everything-announced-at-the-2026-showcase",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-23T17:40:43+00:00"
-    },
-    {
       "id": "a27ca614699e15c7c7e48c14",
       "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
       "summary": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.",
@@ -464,17 +541,6 @@
       "publishedAt": "2026-04-23T16:14:52+00:00"
     },
     {
-      "id": "f7d742060dcca5a7aa673481",
-      "title": "South African police chief suspended over $20m health contract",
-      "summary": "Cyril Ramaphosa said the suspension was because of the critical role Fannie Masemola plays in fighting crime.",
-      "url": "https://www.bbc.com/news/articles/cvglxkjwr5lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T16:05:20+00:00"
-    },
-    {
       "id": "8725bb366c89c00d995c7362",
       "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
       "summary": "Opposition parties accused security forces but the official report does not say who was responsible.",
@@ -484,17 +550,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-23T15:33:36+00:00"
-    },
-    {
-      "id": "a0e2d8a06f3753f67a56b8e3",
-      "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
-      "summary": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
-      "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T15:11:03+00:00"
     },
     {
       "id": "89cbcedf321b906512460845",
@@ -541,28 +596,6 @@
       "publishedAt": "2026-04-23T13:54:16+00:00"
     },
     {
-      "id": "86b860ba3865fd61cd14c88d",
-      "title": "MrBeast's company sued by ex-employee over sexual harassment claim",
-      "summary": "Beast Industries has strongly denied claims of sexual harassment and workplace gender bias.",
-      "url": "https://www.bbc.com/news/articles/c937z1nxze8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T13:32:05+00:00"
-    },
-    {
-      "id": "a8a591b8d0681f7cf786c61d",
-      "title": "Trump administration reclassifies cannabis as less dangerous",
-      "summary": "Medical marijuana was moved into a lower category of drugs in order to increase research and access.",
-      "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T13:32:04+00:00"
-    },
-    {
       "id": "e22ea0e44a9645da7f2a51d0",
       "title": "Cybersécurité : face aux bouleversements de l’IA, un appel à « ne pas céder à la panique »",
       "summary": "Le Conseil de l’intelligence artificielle et du numérique, organe public indépendant, souligne dans une note les enjeux majeurs posés par Mythos, le nouveau modèle d’IA d’Anthropic et ses capacités de pointe en matière de sécurité numérique.",
@@ -585,28 +618,6 @@
       "publishedAt": "2026-04-23T11:45:41+00:00"
     },
     {
-      "id": "3a6b6905499ba22bcde103f1",
-      "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
-      "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
-      "url": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T11:42:44+00:00"
-    },
-    {
-      "id": "40c038dbfabb33735f6514d0",
-      "title": "South African court orders Zambia to return former president's body",
-      "summary": "Zambia authorities and Edgar Lungu's family are in a dispute over where the former leader's remains should be buried.",
-      "url": "https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T11:39:55+00:00"
-    },
-    {
       "id": "972c8b0461993a32b084d832",
       "title": "In Tehran, money is short and a return to war looms over daily life",
       "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
@@ -627,17 +638,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-23T09:39:50+00:00"
-    },
-    {
-      "id": "6eee25fb508af5f9eca2bccb",
-      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
-      "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
-      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T08:37:14+00:00"
     },
     {
       "id": "d2baebbf5ff39dcf77c855f8",
@@ -673,17 +673,6 @@
       "publishedAt": "2026-04-23T03:00:03+00:00"
     },
     {
-      "id": "3c877a9ad3a4affc399e746b",
-      "title": "Girl, 14, found in singer D4vd's car died of 'multiple injuries'",
-      "summary": "The medical examiner said the 14-year-old's cause of death was determined months ago but was blocked from release.",
-      "url": "https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-23T00:39:56+00:00"
-    },
-    {
       "id": "cbdd2843ff7abb80b78b98cb",
       "title": "La Turquie adopte une loi pour interdire les réseaux sociaux aux moins de 15 ans",
       "summary": "Les parents disposeront d’outils de contrôle et, « en cas d’urgence », les principales plateformes devront intervenir dans l’heure suivant la diffusion de contenus préjudiciables.",
@@ -693,61 +682,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-22T23:39:47+00:00"
-    },
-    {
-      "id": "0b031c18bf01d713bf1e6a18",
-      "title": "He wasn't guilty but delays left this man jailed for five years without trial",
-      "summary": "At 17, Rasheed Wasiu was detained as security forces cracked down on protests against police brutality.",
-      "url": "https://www.bbc.com/news/articles/cql7p9rd3gyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T23:37:11+00:00"
-    },
-    {
-      "id": "1fadc991fdb0c1ae8343f79a",
-      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
-      "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T21:23:25+00:00"
-    },
-    {
-      "id": "8c0828ea58197eda6a8d4d41",
-      "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-      "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
-      "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T18:10:42+00:00"
-    },
-    {
-      "id": "ca48225ec1c749e38af33f7c",
-      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
-      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
-      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T17:48:44+00:00"
-    },
-    {
-      "id": "1e07fa989f68b99904438330",
-      "title": "Nigeria's suspected coup plotters deny treason charges",
-      "summary": "Allegations of a coup plot first surfaced last year when an Independence Day parade was cancelled.",
-      "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T17:33:30+00:00"
     },
     {
       "id": "3d1526ae5bde144284833c3d",
@@ -770,28 +704,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-22T16:00:00+00:00"
-    },
-    {
-      "id": "eebd67399ae053da639a956e",
-      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
-      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T15:00:40+00:00"
-    },
-    {
-      "id": "7bd798fb0cc76768afc4d9bc",
-      "title": "No cartels involved - but Mexico's pyramid attack prompts new concerns",
-      "summary": "The deadly shooting at a popular tourist site weeks before the World Cup has rocked Mexico.",
-      "url": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-22T14:50:52+00:00"
     },
     {
       "id": "17988400e44f7a65e2f8ff9d",
@@ -902,28 +814,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-21T20:15:00+00:00"
-    },
-    {
-      "id": "b9d7e7edf42c7a0af7ee9693",
-      "title": "Fuite de données à l’ANTS, site qui gère les demandes de pièces d’identité : près de 12 millions de comptes seraient concernés",
-      "summary": "Lundi, le ministère de l’intérieur avait fait savoir que les « données à caractère personnel » touchées étaient les nom et prénom, l’adresse électronique et la date de naissance d’usagers.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/21/fuite-de-donnees-a-l-agence-nationale-des-titres-securises-pres-de-douze-millions-de-comptes-concernes_6682059_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-21T19:36:15+00:00"
-    },
-    {
-      "id": "a827976a28c229828684bd30",
-      "title": "OpenAI et ChatGPT visés par une enquête criminelle en Floride, en lien avec des tirs mortels",
-      "summary": "Le robot conversationnel a en particulier formulé des suggestions quant à l’arme et aux munitions adaptées, ainsi qu’au moment et aux endroits propices pour toucher le plus de personnes possible. Sur la base de ces éléments, le procureur de Floride a affirmé : « Mes enquêteurs m’ont dit que si cette chose de l’autre côté de l’écran [ChatGPT] était ",
-      "url": "https://www.lemonde.fr/international/article/2026/04/21/le-procureur-de-floride-ouvre-une-enquete-criminelle-sur-openai-et-chatgpt-en-lien-avec-des-tirs-mortels_6682051_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-21T18:19:00+00:00"
     },
     {
       "id": "1ace9b2e78872a43a1d5fa72",
