@@ -1,10 +1,32 @@
 {
-  "updatedAt": "2026-04-25T11:32:49.599640+00:00",
+  "updatedAt": "2026-04-25T12:42:32.162631+00:00",
   "items": [
     {
-      "id": "312a3aad78045aae9ded8f91",
-      "title": "Armed groups launch coordinated attacks across Mali",
-      "summary": "Witnesses hear explosions and sustained gunfire near a military base outside the capital as clashes are reported several other regions.",
+      "id": "90e3401b4250c0fa3192bfb4",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-25T12:29:37+00:00"
+    },
+    {
+      "id": "cb7d419433f68b5741fcec54",
+      "title": "Patrick Artus : « L’impact de l’IA sur la croissance dépendra aussi de l’ampleur des politiques redistributives et du partage des revenus »",
+      "summary": "L’essor de l’intelligence artificielle stimule fortement la productivité, mais ses effets globaux restent incertains. A terme, le risque de voir le chômage augmenter inquiète, prévient l’économiste dans sa chronique.",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/25/patrick-artus-l-impact-de-l-ia-sur-la-croissance-dependra-aussi-de-l-ampleur-des-politiques-redistributives-et-du-partage-des-revenus_6683253_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-25T12:00:14+00:00"
+    },
+    {
+      "id": "f6d7e8ccd4d4807749d33458",
+      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "summary": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years.",
       "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -22,17 +44,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-25T10:52:27+00:00"
-    },
-    {
-      "id": "90e3401b4250c0fa3192bfb4",
-      "title": "Seven dead in major Russian attack on Ukraine",
-      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
-      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-25T10:24:50+00:00"
     },
     {
       "id": "bc2595c774691dab5bb83a50",
@@ -902,17 +913,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-23T11:45:41+00:00"
-    },
-    {
-      "id": "d2baebbf5ff39dcf77c855f8",
-      "title": "Le Cambodge pressé par la Chine d’« éradiquer totalement » les centres de cyberfraude",
-      "summary": "En visite à Phnom Penh, le chef de la diplomatie chinoise a appelé le premier ministre cambodgien à « combattre fermement » cette criminalité en ligne qui prospère dans le pays.",
-      "url": "https://www.lemonde.fr/international/article/2026/04/23/le-cambodge-presse-par-la-chine-d-eradiquer-totalement-les-centres-de-cyberfraude_6682766_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-23T07:00:37+00:00"
     },
     {
       "id": "7c6ecb16f7fd616a9a5d0f86",
