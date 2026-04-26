@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T21:30:12.291422+00:00",
+  "updatedAt": "2026-04-26T22:29:09.034328+00:00",
   "items": [
     {
       "id": "5c024a5d81aea1656eb4f013",
@@ -13,9 +13,9 @@
       "publishedAt": "2026-04-26T21:14:04+00:00"
     },
     {
-      "id": "dc60331e59be196064964858",
-      "title": "‘It’s All on the Table’ — Seth MacFarlane Says Ted Season 3 or Movie Can Happen if Peacock Uses Its ‘Vast Amounts of Big Scrooge McDuck Money’",
-      "summary": "Seth MacFarlane said he is willing to make Ted Season 3 or even another movie, but he’s going to need Peacock’s “vast amounts of Big Scrooge McDuck money” to make it happen.",
+      "id": "949f76fe90deeb9070436a0f",
+      "title": "'It’s All on the Table' — Seth MacFarlane Says Ted Season 3 or Movie Can Happen if Peacock Uses Its 'Vast Amounts of Big Scrooge McDuck Money'",
+      "summary": "Seth MacFarlane said he is willing to make Ted Season 3 or even another movie, but he’s going to need Peacock’s \"vast amounts of Big Scrooge McDuck money\" to make it happen.",
       "url": "https://www.ign.com/articles/its-all-on-the-table-seth-macfarlane-says-ted-season-3-or-movie-can-happen-if-peacock-uses-its-vast-amounts-of-big-scrooge-mcduck-money",
       "imageUrl": null,
       "source": "IGN All",
@@ -156,17 +156,6 @@
       "publishedAt": "2026-04-26T04:22:59+00:00"
     },
     {
-      "id": "523e180a330506d4d913a473",
-      "title": "'You just didn't know': Gary O'Donoghue describes confusion and fear at correspondents' dinner",
-      "summary": "Police say a man charged security outside of the dining room and was armed with multiple weapons.",
-      "url": "https://www.bbc.com/news/videos/c8dldp2mdego?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-26T04:08:27+00:00"
-    },
-    {
       "id": "a7cd3deaa1bbba2ab3b5a964",
       "title": "« Si écrire permet d’organiser nos idées, comment comprendrons-nous le monde si nous laissons l’IA rédiger à notre place ? »",
       "summary": "Dans sa chronique, Philippe Bernard, éditorialiste au « Monde », dresse les questions posées par l’effondrement de l’écrit et l’essor de l’intelligence artificielle sur nos capacités cérébrales.",
@@ -220,6 +209,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-25T23:03:52+00:00"
+    },
+    {
+      "id": "db112f9eb3bc6d1e9cf26cf7",
+      "title": "BBC visits Chernobyl ghost city 40 years after world's worst nuclear accident",
+      "summary": "The BBC's Jessica Parker visits Pripyat, which was abandoned in 1986 after an explosion at the nearby Chernobyl nuclear power plant.",
+      "url": "https://www.bbc.com/news/videos/czjwrdgp98wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-25T23:01:11+00:00"
     },
     {
       "id": "d006b1cde539d722e521efb6",
@@ -959,10 +959,10 @@
       "publishedAt": "2026-04-21T22:47:56+00:00"
     },
     {
-      "id": "6eb5c7cb80d2a42bcf80b191",
+      "id": "cf6b0ccf988cbec094e0984b",
       "title": "Tech Life",
       "summary": "How to say goodbye and pay tribute to a loved one - with a hologram.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxr?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
