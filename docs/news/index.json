@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T14:59:06.359878+00:00",
+  "updatedAt": "2026-04-27T16:27:46.332146+00:00",
   "items": [
     {
       "id": "d14598d7312e9f64cf8486a5",
@@ -10,7 +10,84 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-27T14:32:49+00:00"
+      "publishedAt": "2026-04-27T16:26:30+00:00"
+    },
+    {
+      "id": "628b381803cef95fc58d1bf2",
+      "title": "French coastguard rescues more than 100 migrants crossing Channel",
+      "summary": "A boat carrying 106 people broke down at sea, while others were rescued attempting to board the vessel.",
+      "url": "https://www.bbc.com/news/articles/c3v6v4qd7qqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-27T16:19:43+00:00"
+    },
+    {
+      "id": "5de67c40ec791d750b4f9014",
+      "title": "Plane crash in South Sudan kills all 14 on board",
+      "summary": "The authorities are investigating but early reports suggest bad weather and poor visibility may be to blame.",
+      "url": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-27T15:52:09+00:00"
+    },
+    {
+      "id": "227b46ceb96e04e90dfb2127",
+      "title": "Pakistan accused of attacking Afghan university",
+      "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
+      "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-27T15:48:41+00:00"
+    },
+    {
+      "id": "f674c7ac29188b8462fd27c9",
+      "title": "Gunmen raid Nigerian orphanage and kidnap children",
+      "summary": "The attack saw 23 children and the facility's proprietress kidnapped by gunmen on Sunday.",
+      "url": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-27T15:39:29+00:00"
+    },
+    {
+      "id": "8d38f27a7cc0fb572be20315",
+      "title": "Crimson Desert Has Sold So Well Developer Pearl Abyss Has Reportedly Given Every Employee a $3,400 Bonus",
+      "summary": "Crimson Desert has sold so well that its developer, Pearl Abyss, has reportedly given every employee a $3,400 bonus.",
+      "url": "https://www.ign.com/articles/crimson-desert-has-sold-so-well-developer-pearl-abyss-has-reportedly-given-every-employee-a-3400-bonus",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-27T15:03:53+00:00"
+    },
+    {
+      "id": "83550d80622d330300ace4ca",
+      "title": "There's a Whole Load of Square Enix RPGs on Sale at Amazon This Week",
+      "summary": "We're tracking the best Square Enix deals during Amazon's Gaming Week sale, featuring massive, all-time low prices on Final Fantasy, Dragon Quest, Octopath Traveller, and more RPGs.",
+      "url": "https://www.ign.com/articles/amazon-gaming-week-square-enix-sale-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-27T15:00:00+00:00"
+    },
+    {
+      "id": "5e94fcebaf96e2f3767896c6",
+      "title": "House of the Dragon Season 3 Trailer and Launch Date Confirmed",
+      "summary": "HBO has announced a release date for House of the Dragon Season 3, with the Game of Thrones spinoff beginning to air new episodes via HBO Max in July.",
+      "url": "https://www.ign.com/articles/house-of-the-dragon-season-3-trailer-and-launch-date-confirmed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-27T14:56:37+00:00"
     },
     {
       "id": "685526e34bd66204c945b4b7",
@@ -156,8 +233,8 @@
       "publishedAt": "2026-04-27T11:37:13+00:00"
     },
     {
-      "id": "6adbeca82fb4f80f2369cbee",
-      "title": "Actor Who Played Marie Moreau in The Boys Spinoff Gen V Reacts to Series Cancelation",
+      "id": "78cabb13041f42211ce6f8e6",
+      "title": "Actor Who Played Marie Moreau in The Boys Spinoff Gen V Reacts to Series Cancellation",
       "summary": "Jaz Sinclair, who played Marie Moreau in The Boys spinoff Gen V, has reacted to the show’s cancelation with a brief social media statement.",
       "url": "https://www.ign.com/articles/actor-who-played-marie-moreau-in-the-boys-spinoff-gen-v-reacts-to-series-cancelation",
       "imageUrl": null,
@@ -376,8 +453,8 @@
       "publishedAt": "2026-04-27T06:40:22+00:00"
     },
     {
-      "id": "8418fab07369fee2b8a5b819",
-      "title": "Karma Exorcist is a Chinese Mythology Metroidvania That Caught Me Off Guard",
+      "id": "f65a7f4b1955333443e5b3b0",
+      "title": "Karma Exorcist Is a Chinese Mythology Metroidvania That Caught Me Off Guard",
       "summary": "",
       "url": "https://www.ign.com/articles/karma-exorcist-is-a-chinese-mythology-metroidvania-that-caught-me-off-guard",
       "imageUrl": null,
@@ -420,17 +497,6 @@
       "publishedAt": "2026-04-27T01:00:00+00:00"
     },
     {
-      "id": "f4fd9ae371de0c85a32712a8",
-      "title": "Wonder Man Started as an Elaborate 'Joke Pitch' at Marvel Before it Found Success on Disney+",
-      "summary": "Comic book filmmaker Destin Daniel Cretton originally sold Wonder Man as a \"joke pitch\" before it became one of the more successful MCU shows on Disney+.",
-      "url": "https://www.ign.com/articles/wonder-man-started-as-an-elaborate-joke-pitch-at-marvel-before-it-found-success-on-disney",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-26T23:13:32+00:00"
-    },
-    {
       "id": "e835e0910702c24b80b33f88",
       "title": "Canada's Carney has enjoyed a long political honeymoon. Now comes the test",
       "summary": "Global acclaim and domestic political gains have defined Mark Carney's first year as Canada's PM. He now faces pressure to deliver on his bold promises.",
@@ -440,28 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-26T23:04:19+00:00"
-    },
-    {
-      "id": "5b49374ec8fb62ba9d097af2",
-      "title": "Steam Game Allegedly Developed by Suspected Gunman at Trump White House Press Dinner Is Being Review-Bombed",
-      "summary": "The suspected gunman who attempted to storm the White House Correspondents' Dinner at the Washington Hilton hotel allegedly identified himself as an “indie game developer” and released a video game on Steam.",
-      "url": "https://www.ign.com/articles/steam-game-allegedly-developed-by-suspected-gunman-at-trump-white-house-press-dinner-is-being-review-bombed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-26T22:27:01+00:00"
-    },
-    {
-      "id": "5c024a5d81aea1656eb4f013",
-      "title": "Epic Games Confirms Fortnite Refunds for D4vd Cosmetics, Plans Further Changes",
-      "summary": "Epic Games has confirmed it will refund D4vd cosmetics to any Fortnite player who makes a request via player support, with further changes to come.",
-      "url": "https://www.ign.com/articles/epic-games-confirms-fortnite-refunds-for-d4vd-cosmetics-plans-further-changes",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-26T21:14:04+00:00"
     },
     {
       "id": "7f94c2b449b774b9de277643",
