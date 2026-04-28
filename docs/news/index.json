@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-04-28T08:09:18.908955+00:00",
+  "updatedAt": "2026-04-28T10:56:04.382663+00:00",
   "items": [
     {
-      "id": "7ee4e827d4eae2639780f209",
-      "title": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
-      "summary": "Prosecutors say the man, 21-year-old Beran A, received training from members of jihadist group Islamic State on how to handle explosives.",
+      "id": "5a9a6ef007876d271b4a46e6",
+      "title": "Social media restrictions for under-16s even if no ban, minister says",
+      "summary": "The government is consulting on changes as a new social media law goes through its final Parliamentary stages.",
+      "url": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-28T10:46:55+00:00"
+    },
+    {
+      "id": "3bee2cdd26774f14a4e400ab",
+      "title": "'I jumped around the house': Sabastian Sawe's parents celebrate marathon record",
+      "summary": "Emily and Simion Sawe share their pride at the runner's historic sub-two-hour marathon win.",
+      "url": "https://www.bbc.com/news/videos/cn0pl57xlppo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T10:17:08+00:00"
+    },
+    {
+      "id": "7e7b5024ed1708e139c755e3",
+      "title": "Musk v Altman: Why the tech billionaires and former friends are now facing off in court",
+      "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+      "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-28T10:10:54+00:00"
+    },
+    {
+      "id": "088b0d27f5ea1b0ec8bbddc3",
+      "title": "Friends Star Lisa Kudrow Says the Show's Writers 'Would Be Up Late Discussing Their Sexual Fantasies' About Jennifer Aniston and Courteney Cox",
+      "summary": "Lisa Kudrow has talked about “mean stuff going on behind the scenes” inside the Friends writers’ room — 22 years after the show ended.",
+      "url": "https://www.ign.com/articles/friends-star-lisa-kudrow-says-the-shows-writers-would-be-up-late-discussing-their-sexual-fantasies-about-jennifer-aniston-and-courteney-cox",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-28T10:09:38+00:00"
+    },
+    {
+      "id": "fe16525bf521a902fa07a41c",
+      "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
+      "summary": "The state prosecutor told the court that police found an almost completed bomb in a search of the man's house.",
       "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-28T07:32:35+00:00"
+      "publishedAt": "2026-04-28T10:08:01+00:00"
+    },
+    {
+      "id": "f8a13bbcae207ffdaf737666",
+      "title": "New Forza Horizon 6 Details Discussed in Developer Discord Q&A",
+      "summary": "Design director Torben Ellert has addressed a variety of community questions on the official Forza Discord server.",
+      "url": "https://www.ign.com/articles/new-forza-horizon-6-details-discussed-in-developer-discord-qa",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-28T10:03:01+00:00"
+    },
+    {
+      "id": "1c44213b7a1475329d9324c2",
+      "title": "Lost Actor Harold Perrineau Says Former Co-Star Still Won't Talk to Him",
+      "summary": "Lost actor Harold Perrineau has revealed the stunning circumstances behind his character's most controversial scene — and said that one of the actresses involved still won't speak to him now, 20 years later.",
+      "url": "https://www.ign.com/articles/lost-actor-harold-perrineau-says-former-co-star-still-wont-talk-to-him",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-28T09:59:33+00:00"
+    },
+    {
+      "id": "8b7199f9f142084d74b18e55",
+      "title": "Valve's £85 Steam Controller divides gamers ahead of May launch",
+      "summary": "The pad will be compatible with PCs, Valve's handheld console, the Steam Deck as well as its upcoming gaming PC.",
+      "url": "https://www.bbc.com/news/articles/cp8486w7de8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-28T09:16:12+00:00"
+    },
+    {
+      "id": "6910a608d1b60e7c56651e12",
+      "title": "Gollum Actor Andy Serkis Suggests Ms. Marvel is in Avengers: Doomsday",
+      "summary": "Gollum actor Andy Serkis has suggested that Avengers: Doomsday will include the long-awaited return of Kamala Khan AKA Ms. Marvel, played by Iman Vellani.",
+      "url": "https://www.ign.com/articles/gollum-actor-andy-serkis-suggests-ms-marvel-is-in-avengers-doomsday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-28T09:04:14+00:00"
+    },
+    {
+      "id": "11db35a731a365b7bf0c6b29",
+      "title": "What happened when Rebel Wilson gave evidence in court?",
+      "summary": "The Hollywood star is accused by fellow Australian actress Charlotte MacInnes of making defamatory statements.",
+      "url": "https://www.bbc.com/news/videos/cwy27njv3wvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T08:54:42+00:00"
+    },
+    {
+      "id": "32567d5cc6e5c343525ad844",
+      "title": "The Call of Duty Movie Director Once Said Some Not Very Nice Things About People Who Play Video Games",
+      "summary": "Now that Peter Berg is confirmed as the director of the upcoming Call of Duty movie, the internet has turned its attention to the things he has said in the past that might offer clues as to his approach. One of the things the internet has unearthed is a 13-year-old interview in which he said some not very nice things about people who play video gam",
+      "url": "https://www.ign.com/articles/the-call-of-duty-movie-director-once-said-some-not-very-nice-things-about-people-who-play-video-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-28T08:50:36+00:00"
+    },
+    {
+      "id": "9b8aaff50da6c15c77624bac",
+      "title": "Taylor Swift Aims to Protect Her Voice and Image With New Trademark Filings as AI Runs Rampant Online",
+      "summary": "Taylor Swift is following in Matthew McConaughey's lead by filing trademarks to protect her voice and likeness as AI runs rampant online.",
+      "url": "https://www.ign.com/articles/taylor-swift-aims-to-protect-her-voice-and-image-with-new-trademark-filings-as-ai-runs-rampant-online",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-28T08:10:09+00:00"
     },
     {
       "id": "553b516bdf1106f097b3295c",
@@ -79,8 +200,8 @@
       "publishedAt": "2026-04-28T04:00:24+00:00"
     },
     {
-      "id": "f1d0d6e9d1f3f1a5731fbe3d",
-      "title": "IS claims responsibility for Nigeria attack that killed 29 people",
+      "id": "23767f5e7794e3b2c0536b04",
+      "title": "IS says it was behind deadly Nigeria attack on football pitch",
       "summary": "Authorities say the militants raided a football pitch where people had been gathering and opened fire at random.",
       "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -321,61 +442,6 @@
       "publishedAt": "2026-04-27T19:35:00+00:00"
     },
     {
-      "id": "0e2a55a75d66993c45519698",
-      "title": "The LEGO Harry Potter: Hogwarts Castle and Grounds Is Discounted for the First Time This Year",
-      "summary": "Outstanding deal at only 5 cents per brick.",
-      "url": "https://www.ign.com/articles/lego-harry-potter-hogwarts-castle-and-grounds-set-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-27T19:10:00+00:00"
-    },
-    {
-      "id": "dc653ee0b1c09d1707d940fb",
-      "title": "Amazon's 2026 Gaming Week Sale Is Live: Here Are the Best Deals We've Found So Far",
-      "summary": "Amazon's 2026 Gaming Week sale is officially live with massive price cuts on Switch 2, PS5, and Xbox games.",
-      "url": "https://www.ign.com/articles/amazon-2026-gaming-week-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-27T19:00:00+00:00"
-    },
-    {
-      "id": "415c3b0a62b7c9cc00a63ba2",
-      "title": "Django/Zorro Crossover Movie Based on Quentin Tarantino Comic Book in the Works at Sony",
-      "summary": "A crossover movie based on the Django/Zorro comic book co-written by Quentin Tarantino and Matt Wagner is reportedly in development.",
-      "url": "https://www.ign.com/articles/djangozorro-crossover-movie-based-on-quentin-tarantino-comic-book-in-the-works-at-sony",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-27T18:47:38+00:00"
-    },
-    {
-      "id": "128ae8a40288783d52b85f68",
-      "title": "Spider-Man: Brand New Day Marvel Legends Figures Reveal Savage Hulk’s MCU Return",
-      "summary": "Hasbro's upcoming Marvel Legends figures give us a better idea of what to expect from Spider-Man: Brand New Day, including the return of Savage Hulk to the MCU.",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-marvel-legends-figures-reveal-savage-hulks-mcu-return",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-27T18:39:37+00:00"
-    },
-    {
-      "id": "cab072a02c253e6e4eb704a1",
-      "title": "Michael Is Up for Preorder, with Two 4K Steelbook Editions to Choose From",
-      "summary": "Where to preorder the new biopic Michael, about the King of Pop.",
-      "url": "https://www.ign.com/articles/michael-4k-blu-ray-steelbook-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-27T18:32:31+00:00"
-    },
-    {
       "id": "5853f0b3098d2c4dee4890da",
       "title": "Canada's Carney launches a sovereign wealth fund. What is it?",
       "summary": "The fund - which Canadians can invest in directly - will help pay for major infrastructure projects in the country, the prime minister says.",
@@ -385,17 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-27T18:13:26+00:00"
-    },
-    {
-      "id": "afd65b2137d64aa0c4304ddf",
-      "title": "Disney Reimagined and Animated Songs From Frozen 2, Moana 2, and Encanto in American Sign Language for National Deaf History Month",
-      "summary": "In celebration of National Deaf History Month, Disney+ has debuted Disney Animation's Songs in Sign Language, which reimagined and animated Frozen 2's 'The Next Right Thing,' Moana 2's 'Beyond,' and Encanto's 'We Don't Talk About Bruno' with American Sign Language (ASL).",
-      "url": "https://www.ign.com/articles/disney-reimagined-and-animated-songs-from-frozen-2-moana-2-and-encanto-in-american-sign-language-for-national-deaf-history-month",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-27T18:00:56+00:00"
     },
     {
       "id": "f6615e96f64b89191e506e09",
@@ -442,8 +497,8 @@
       "publishedAt": "2026-04-27T16:19:43+00:00"
     },
     {
-      "id": "c49a76ad5342665492e928fb",
-      "title": "Plane crash in South Sudan kills all 15 on board",
+      "id": "5de67c40ec791d750b4f9014",
+      "title": "Plane crash in South Sudan kills all 14 on board",
       "summary": "The authorities are investigating but early reports suggest bad weather and poor visibility may be to blame.",
       "url": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -662,28 +717,6 @@
       "publishedAt": "2026-04-25T23:03:52+00:00"
     },
     {
-      "id": "db112f9eb3bc6d1e9cf26cf7",
-      "title": "BBC visits Chernobyl ghost city 40 years after world's worst nuclear accident",
-      "summary": "The BBC's Jessica Parker visits Pripyat, which was abandoned in 1986 after an explosion at the nearby Chernobyl nuclear power plant.",
-      "url": "https://www.bbc.com/news/videos/czjwrdgp98wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-25T23:01:11+00:00"
-    },
-    {
-      "id": "64e1d3bb14bd0c31aabc5219",
-      "title": "Watch: How one orangutan braved new bridge to unite his split community",
-      "summary": "The forest where the Sumatran orangutans live has been split by a road.",
-      "url": "https://www.bbc.com/news/videos/ckgerdnvm2xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-25T18:23:45+00:00"
-    },
-    {
       "id": "cb7d419433f68b5741fcec54",
       "title": "Patrick Artus : « L’impact de l’IA sur la croissance dépendra aussi de l’ampleur des politiques redistributives et du partage des revenus »",
       "summary": "L’essor de l’intelligence artificielle stimule fortement la productivité, mais ses effets globaux restent incertains. A terme, le risque de voir le chômage augmenter inquiète, prévient l’économiste dans sa chronique.",
@@ -880,39 +913,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-23T23:50:01+00:00"
-    },
-    {
-      "id": "edc0a792d14cc57bed8b4ff1",
-      "title": "UK Biobank health data listed for sale in China, government confirms",
-      "summary": "The government said medical data of 500,000 people was affected but no personally identifiable information had been made available.",
-      "url": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-23T11:45:41+00:00"
-    },
-    {
-      "id": "7c6ecb16f7fd616a9a5d0f86",
-      "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
-      "summary": "New Call of Duty games will be added to the subscription service \"about a year\" after release, Microsoft said.",
-      "url": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-22T12:03:10+00:00"
-    },
-    {
-      "id": "519e776b14b85684b5d3f93e",
-      "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
-      "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities.",
-      "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-22T10:13:35+00:00"
     },
     {
       "id": "cf6b0ccf988cbec094e0984b",
