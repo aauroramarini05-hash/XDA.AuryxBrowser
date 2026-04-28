@@ -1,10 +1,65 @@
 {
-  "updatedAt": "2026-04-28T05:50:57.243610+00:00",
+  "updatedAt": "2026-04-28T08:09:18.908955+00:00",
   "items": [
+    {
+      "id": "7ee4e827d4eae2639780f209",
+      "title": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
+      "summary": "Prosecutors say the man, 21-year-old Beran A, received training from members of jihadist group Islamic State on how to handle explosives.",
+      "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T07:32:35+00:00"
+    },
+    {
+      "id": "553b516bdf1106f097b3295c",
+      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
+      "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T07:17:06+00:00"
+    },
+    {
+      "id": "80eb1300f1b2ec4ac5c7a96c",
+      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+      "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+      "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T06:09:43+00:00"
+    },
+    {
+      "id": "f7c7cfcd32a84d61de033aff",
+      "title": "IA : la Chine bloque le rachat de Manus par Meta, un nouvel épisode du bras de fer entre les deux pays",
+      "summary": "Pékin a annoncé lundi 27 avril vouloir interdire la vente de cette start-up d’intelligence artificielle déjà passée sous le contrôle du groupe Meta.",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/28/pekin-bloque-le-rachat-de-manus-par-meta-la-bataille-de-l-ia-s-envenime-entre-la-chine-et-les-etats-unis_6683880_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-28T05:50:59+00:00"
+    },
+    {
+      "id": "23553d109db1c657cfc3dc4c",
+      "title": "Inside Trump press dinner shooting suspect's court appearance",
+      "summary": "BBC reports from Washington DC, where Cole Tomas Allen was charged with attempting to assassinate Donald Trump.",
+      "url": "https://www.bbc.com/news/videos/cj6p277r3k4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T05:48:17+00:00"
+    },
     {
       "id": "a2983240b8f486ffacd6d1f3",
       "title": "Rescuers race to free survivors trapped inside train after fatal Indonesia crash",
-      "summary": "Two trains collided on the outskirts of the Indonesian capital on Monday, killing at least 14 people.",
+      "summary": "Two trains collided on the outskirts of the Indonesian capital on Monday, killing at least 15 people.",
       "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -21,7 +76,18 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-28T04:00:27+00:00"
+      "publishedAt": "2026-04-28T04:00:24+00:00"
+    },
+    {
+      "id": "f1d0d6e9d1f3f1a5731fbe3d",
+      "title": "IS claims responsibility for Nigeria attack that killed 29 people",
+      "summary": "Authorities say the militants raided a football pitch where people had been gathering and opened fire at random.",
+      "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T03:28:48+00:00"
     },
     {
       "id": "c98536fbd6ee7cb06d6549f5",
@@ -57,6 +123,17 @@
       "publishedAt": "2026-04-28T00:58:36+00:00"
     },
     {
+      "id": "df3d70e30521c8e4528cf4da",
+      "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
+      "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T00:41:48+00:00"
+    },
+    {
       "id": "546e97f2bf66ccdb43895db6",
       "title": "House of the Dragon Season 3 Trailer Breakdown: Expect Many Major Deaths Ahead",
       "summary": "The new trailer for House of the Dragon Season 3 reveals Emma D’Arcy’s Queen Rhaenyra Targaryen wresting control of King’s Landing from the Greens and claiming the Iron Throne – but it will come at a heavy price, as evidenced by her weeping at one point in this trailer.",
@@ -66,6 +143,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-28T00:28:58+00:00"
+    },
+    {
+      "id": "4c0310b91ebf96823f5013b3",
+      "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+      "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
+      "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T00:19:49+00:00"
     },
     {
       "id": "c703f5edf3b32ddcd23364f1",
@@ -101,8 +189,8 @@
       "publishedAt": "2026-04-27T23:20:00+00:00"
     },
     {
-      "id": "97c150c684e19cc17edef336",
-      "title": "Taylor Swift veut faire de sa voix une marque déposée, sur fond de déferlante des contenus générés par l’IA",
+      "id": "0fd2f16c9c3db4f094df9623",
+      "title": "Taylor Swift veut faire de sa voix une marque déposée pour la protéger des modèles d’IA",
       "summary": "La chanteuse a soumis deux empreintes sonores et une photo d’elle sur scène à l’United States Patent and Trademark Office (USPTO).",
       "url": "https://www.lemonde.fr/pixels/article/2026/04/28/taylor-swift-veut-faire-de-sa-voix-une-marque-deposee-sur-fond-de-deferlante-des-contenus-generes-par-l-ia_6683687_4408996.html",
       "imageUrl": null,
@@ -154,17 +242,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-27T21:30:00+00:00"
-    },
-    {
-      "id": "71073a16aa41e1cf9a585a32",
-      "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
-      "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
-      "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-27T21:14:23+00:00"
     },
     {
       "id": "8c88266d3ebe2b64f07c30e4",
@@ -398,17 +475,6 @@
       "publishedAt": "2026-04-27T12:21:42+00:00"
     },
     {
-      "id": "f3624209866fe4b161666b2b",
-      "title": "Sri Lankan monks arrested after 110kg of cannabis discovered in their luggage",
-      "summary": "Officials say each monk was found with around 5kg of Kush - a particularly potent form of the drug - hidden within \"false walls\" in their luggage.",
-      "url": "https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-27T12:13:58+00:00"
-    },
-    {
       "id": "1a7ede4831a25ab2367b5c7d",
       "title": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
       "summary": "Kenya's Sabastian Sawe on becoming the first person to break the two-hour barrier for the marathon.",
@@ -429,17 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-27T11:42:59+00:00"
-    },
-    {
-      "id": "38c931102f011d2ff2d74b4a",
-      "title": "Archbishop praises Pope's anti-war comments during Vatican visit",
-      "summary": "Dame Sarah Mullally, the first female head of the Church of England, had a private discussion with Pope Leo during the trip.",
-      "url": "https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-27T11:19:25+00:00"
     },
     {
       "id": "f1c08b85e7ddb892937dd35a",
@@ -497,17 +552,6 @@
       "publishedAt": "2026-04-27T09:20:50+00:00"
     },
     {
-      "id": "56468c1a86a4f2af9424d8d8",
-      "title": "Trump says King will be 'very safe' during US visit after security talks",
-      "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
-      "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-27T09:19:11+00:00"
-    },
-    {
       "id": "230b199a47b1d9790b4c2378",
       "title": "Remembering Raghu Rai: The photographer who showed India to itself",
       "summary": "With Rai's passing, India has lost a visual historian who was a chronicler of its most defining and often painful moments.",
@@ -530,17 +574,6 @@
       "publishedAt": "2026-04-27T07:09:42+00:00"
     },
     {
-      "id": "f0975026b7d365d6c6dfc661",
-      "title": "Pirates seize another vessel off Somali coast as threat level increased",
-      "summary": "The UK's maritime monitor reports at least four suspected piracy incidents in the past week off the coast of Somalia.",
-      "url": "https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-27T06:53:54+00:00"
-    },
-    {
       "id": "8823e9e19937484d84fd441d",
       "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
       "summary": "Kim Jong Un and Russian Defence Minister Andrey Belousov unveiled the memorial in Pyongyang.",
@@ -552,17 +585,6 @@
       "publishedAt": "2026-04-27T06:52:59+00:00"
     },
     {
-      "id": "5a138c6cf14d116c7601e16e",
-      "title": "French teen who licked vending machine straw faces jail in Singapore",
-      "summary": "The teen, who posted on social media a video of himself licking the straw, could be jailed for more than two years.",
-      "url": "https://www.bbc.com/news/articles/cjw8w849g6go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-27T06:40:22+00:00"
-    },
-    {
       "id": "803282914febe17b334f112d",
       "title": "Elon Musk contre Sam Altman, deux figures de l’IA en procès autour d’OpenAI",
       "summary": "A partir de lundi, les deux entrepreneurs seront devant un tribunal californien pour régler un différend autour de la structure d’OpenAI, alors que la bataille pour la régulation est engagée.",
@@ -572,17 +594,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-27T04:00:23+00:00"
-    },
-    {
-      "id": "66557c6644d75e01c1ea65c3",
-      "title": "Missing 5-year-old girl likely abducted from Outback home, police say",
-      "summary": "Police are searching for a man recently released from prison over her disappearance.",
-      "url": "https://www.bbc.com/news/articles/cgrlr18e29ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-27T02:06:04+00:00"
     },
     {
       "id": "7f94c2b449b774b9de277643",
@@ -671,17 +682,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-25T18:23:45+00:00"
-    },
-    {
-      "id": "d1ab508f5fab3b7e127109a5",
-      "title": "Hope in Gaza as 300 couples get married at one time",
-      "summary": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
-      "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-25T16:35:14+00:00"
     },
     {
       "id": "cb7d419433f68b5741fcec54",
@@ -847,17 +847,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-24T10:00:42+00:00"
-    },
-    {
-      "id": "bcbc354bdbb6eb57ede1c51d",
-      "title": "La Norvège compte interdire à son tour les réseaux sociaux aux moins de 16 ans",
-      "summary": "Le gouvernement norvégien devrait présenter un projet de loi pour interdire l’accès aux réseaux sociaux aux jeunes de moins de 16 ans d’ici à la fin de l’année. Plusieurs autres pays européens ont déjà annoncé leur intention d’instaurer une majorité numérique pour les réseaux sociaux.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/24/la-norvege-compte-interdire-a-son-tour-les-reseaux-sociaux-aux-moins-de-16-ans_6683036_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-24T08:38:00+00:00"
     },
     {
       "id": "d4a48fbca369eeba278c539e",
