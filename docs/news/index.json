@@ -1,27 +1,181 @@
 {
-  "updatedAt": "2026-04-29T15:04:40.252252+00:00",
+  "updatedAt": "2026-04-29T17:18:48.882009+00:00",
   "items": [
     {
-      "id": "7bae6e15288cfec7bc8d58aa",
-      "title": "The friendlier the AI chatbot the more inaccurate it is, study suggests",
-      "summary": "Researchers found adjusting AI systems to be more warm and friendly to users would result in an \"accuracy trade-off\".",
-      "url": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
+      "id": "8674bced73bcae8cbf9c68bf",
+      "title": "Stranded whale ferried out of German waters in barge",
+      "summary": "The final operation to save the whale is being closely followed, after the failure of earlier attempts.",
+      "url": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T17:06:23+00:00"
+    },
+    {
+      "id": "212143447ae2f63a7c4423c2",
+      "title": "Faux chien, dauphin ou éléphant... Le robot est-il l’animal du futur ?",
+      "summary": "« Au bestiaire ! ». Depuis une dizaine d’années, des chercheurs et entreprises privées testent l’utilisation de machines ultraréalistes pour mieux étudier certaines espèces et surtout pour les protéger de l’exploitation humaine.",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/04/29/faux-chien-dauphin-ou-elephant-le-robot-est-il-l-animal-du-futur_6684310_4497916.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-04-29T15:00:06+00:00"
+      "publishedAt": "2026-04-29T17:00:07+00:00"
+    },
+    {
+      "id": "1b352bf582f10eafefb0001d",
+      "title": "France urges citizens to leave Mali after rebel attacks",
+      "summary": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
+      "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T16:46:38+00:00"
+    },
+    {
+      "id": "eeffb2c315ec7f406f94b5f2",
+      "title": "XGIMI Is Offering 50% Off its New Flagship Titan Noir 4K Projector If You Back it on Kickstarter",
+      "summary": "Ships in June.",
+      "url": "https://www.ign.com/articles/preorder-xgimi-titan-noir-4k-projector-deal-from-kickstarter",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T16:25:00+00:00"
+    },
+    {
+      "id": "a2367441722226c9ecc6c849",
+      "title": "Malcolm in the Middle Star Calls on Paparazzi to Leave Original Dewey Actor Alone After He Turned Down Reboot Series",
+      "summary": "Former Malcolm in the Middle star Erik Per Sullivan, who played youngest bro Dewey in the original series, has put his foot down about not wanting to participate in the upcoming reboot series Malcolm in the Middle: Life’s Still Unfair — and his former costars feel for him when it comes to the attention he’s getting as a result.",
+      "url": "https://www.ign.com/articles/malcolm-in-the-middle-star-calls-on-paparazzi-to-leave-original-dewey-actor-alone-after-he-turned-down-reboot-series",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T16:23:02+00:00"
+    },
+    {
+      "id": "6bb212d5844c74d8ad6358ef",
+      "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
+      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T16:17:12+00:00"
+    },
+    {
+      "id": "d0565edf648061a3f5bf4c7d",
+      "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
+      "summary": "How the US President Donald Trump and Federal Reserve chair Jerome Powell came to blows.",
+      "url": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T16:12:08+00:00"
+    },
+    {
+      "id": "9504271103ea4af1111bc49c",
+      "title": "New images show suspect taking selfies before Washington press dinner shooting",
+      "summary": "Prosecutors argue Cole Tomas Allen should remain in custody until trial on a charge of attempted assassination of President Donald Trump.",
+      "url": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T16:06:00+00:00"
+    },
+    {
+      "id": "6caca8a7475a7abf49633787",
+      "title": "We Build the LEGO Icons Pan-Am Douglas DC-3",
+      "summary": "The DC-3 was really revolutionary when it was first introduced in 1935 and now you can build it in LEGO form.",
+      "url": "https://www.ign.com/articles/we-build-lego-icons-pan-am-douglas-dc-3-11378",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T16:05:00+00:00"
+    },
+    {
+      "id": "3a7f4c1c15c046af14426cbf",
+      "title": "Les frais des placements financiers continuent de baisser",
+      "summary": "En une quinzaine d’années, les frais des fonds actions sont passés de 2,3 % à 1,3 %. Le coût des comptes-titres et des plans d’épargne en actions a aussi diminué, du fait de la concurrence en ligne",
+      "url": "https://www.lemonde.fr/argent/article/2026/04/29/les-frais-des-placements-financiers-continuent-de-baisser_6684301_1657007.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-29T16:00:06+00:00"
+    },
+    {
+      "id": "aa0cc1d6be5e98ff1aa8d612",
+      "title": "Tezuka: God of Manga Documentary Explores Osamu Tezuka’s Iconic Legacy",
+      "summary": "Osamu Tezuka is arguably the most influential manga artist of all time, and his life and career are being celebrated in the new feature-length documentary TEZUKA! God of Manga.",
+      "url": "https://www.ign.com/articles/tezuka-god-of-manga-documentary-explores-osamu-tezukas-iconic-legacy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T16:00:00+00:00"
+    },
+    {
+      "id": "7cc3e7dc946b43198ef03906",
+      "title": "The Devil Wears Prada 2 Review",
+      "summary": "The movie is a glossy, charming, and razor-sharp follow-up to the beloved 2006 original but can also be frustrating in how it deals with fan-favorite characters. The movie is not nearly as biting as its predecessor, but it’s a serviceable successor for fans looking to return to the world of Runway magazine.",
+      "url": "https://www.ign.com/articles/the-devil-wears-prada-2-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T16:00:00+00:00"
+    },
+    {
+      "id": "f08f47d7c7e3ab095d0f46a6",
+      "title": "The Boys Season 5, Episode 5: \"One-Shots\" Review",
+      "summary": "The Boys Season 5 bounces back in a big way with the character-driven and thoroughly entertaining new installment \"One-Shots.\" Read our full review.",
+      "url": "https://www.ign.com/articles/the-boys-season-5-episode-5-one-shots-review-recap",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T15:51:06+00:00"
+    },
+    {
+      "id": "c61e19f461fc4a2eba63e247",
+      "title": "Sony Confirms PlayStation Plus Monthly Games for May 2026",
+      "summary": "Sony has announced the PlayStation Plus Monthly games lineup for May 2026, which will be headlined by EA Sports FC 26.",
+      "url": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-may-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T15:39:53+00:00"
     },
     {
       "id": "a885d077b0cd322a9c18df18",
       "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
-      "summary": "They are among nine people officials say were killed in successive attacks on Tuesday.",
+      "summary": "They are among nine people killed in successive attacks on Tuesday, which Israel's military says targeted a Hezbollah commander.",
       "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-29T14:55:15+00:00"
+      "publishedAt": "2026-04-29T15:30:50+00:00"
+    },
+    {
+      "id": "d9acc696cea1c8d4ddbac0d2",
+      "title": "France investigates reappearance of website linked to Pelicot crimes",
+      "summary": "Authorities say the Coco platform has been linked to sexual abuse of children, drug offences, rape and murder.",
+      "url": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T15:10:55+00:00"
     },
     {
       "id": "dce8451a559232fd767b6946",
@@ -32,7 +186,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-29T14:48:27+00:00"
+      "publishedAt": "2026-04-29T15:05:55+00:00"
+    },
+    {
+      "id": "24d9dcae39bdd1ba748daa3a",
+      "title": "Why friendly AI chatbots might be less trustworthy",
+      "summary": "Researchers found adjusting AI systems to be more warm and friendly to users would result in an \"accuracy trade-off\".",
+      "url": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-04-29T15:00:06+00:00"
+    },
+    {
+      "id": "a81774a4ce496da8e568acf0",
+      "title": "Daredevil: Born Again's Latest Shocking Death Wasn't Originally Planned or Even Shot, but Added in Post-Production",
+      "summary": "If you were shocked by the latest death in Daredevil: Born Again Season 2, you’re not alone. Even the actors who played the characters in the scene didn’t initially know it would end in a death.",
+      "url": "https://www.ign.com/articles/daredevil-born-agains-latest-shocking-death-wasnt-originally-planned-or-even-shot-but-added-in-post-production",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T14:51:11+00:00"
     },
     {
       "id": "07710138892ef567efc8d590",
@@ -46,15 +222,37 @@
       "publishedAt": "2026-04-29T14:41:26+00:00"
     },
     {
-      "id": "1b352bf582f10eafefb0001d",
-      "title": "France urges citizens to leave Mali after rebel attacks",
-      "summary": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
-      "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+      "id": "6a7b6cdd145fc7348f330111",
+      "title": "The Best Gaming PC of 2026",
+      "summary": "Building your own gaming PC is rewarding and fun, but sometimes you want to buy something, plug it in, and start gaming. If that's you here's our list of the best gaming PCs right now.",
+      "url": "https://www.ign.com/articles/best-gaming-pc",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-29T14:18:03+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T14:40:00+00:00"
+    },
+    {
+      "id": "84faeee6ba1c8e5b24ed02a1",
+      "title": "All 8 Episodes of Spider-Noir Will Be Available as a Binge Release 2 Days Early — on MGM+'s Linear Broadcast Channel",
+      "summary": "Spidey fans, listen up: this one’s important for you. The highly anticipated Prime Video series Spider-Noir, which stars the impeccable Nicolas Cage, is officially going to premiere domestically two days earlier than originally slated — but, of course, there’s a bit of a catch here.",
+      "url": "https://www.ign.com/articles/all-8-episodes-of-spider-noir-will-be-available-as-a-binge-release-2-days-early-on-mgms-linear-broadcast-channel",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T14:38:51+00:00"
+    },
+    {
+      "id": "34885157ae251dd53b5b9b18",
+      "title": "Battlefield and Call of Duty Are Set to Go Head-to-Head on the Big Screen — but Which Movie Will Emerge Victorious?",
+      "summary": "The ongoing rivalry between Call of Duty and Battlefield is escalating as both franchises target Hollywood for their next battleground.",
+      "url": "https://www.ign.com/articles/battlefield-and-call-of-duty-are-set-to-go-head-to-head-on-the-big-screen-but-which-movie-will-emerge-victorious",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T14:31:50+00:00"
     },
     {
       "id": "857e1863d4e59f02073ad66d",
@@ -134,17 +332,6 @@
       "publishedAt": "2026-04-29T12:48:45+00:00"
     },
     {
-      "id": "916201cd88410a41b2a2608d",
-      "title": "Will King's US visit lead to lasting reset in relations with UK?",
-      "summary": "As applause fades and banquet plates are cleared, it's up to politicians to build on Charles's historic trip.",
-      "url": "https://www.bbc.com/news/articles/cwy2xyvx109o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-29T12:36:50+00:00"
-    },
-    {
       "id": "f89dbe8ccbed1d270094dcc2",
       "title": "The Boys Star on Ashley’s Hidden Bravery: 'She Has to Wrangle These Children'",
       "summary": "As The Boys heads towards its conclusion, don't underestimate Colby Minifie's character, Ashley Barrett.",
@@ -222,8 +409,8 @@
       "publishedAt": "2026-04-29T11:30:56+00:00"
     },
     {
-      "id": "7632df886aeebf42ca4a1d08",
-      "title": "Russian paramilitary carried out air strikes in Mali as rebels advanced, footage shows",
+      "id": "4a0e7d218798badf7ee29fcc",
+      "title": "Russian paramilitaries carried out air strikes in Mali as rebels advanced, footage shows",
       "summary": "Last weekend's attacks came as the Africa Corps withdrew from a key base in northern Mali.",
       "url": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -255,28 +442,6 @@
       "publishedAt": "2026-04-29T10:59:24+00:00"
     },
     {
-      "id": "6e8bb5e0bfacdafd28ed349d",
-      "title": "PlayStation Fans Think They've Figured Out Sony's Mysterious New DRM",
-      "summary": "PlayStation fans appear to have figured out Sony's mysterious addition of a 30-day license for new digital PS4 and PS5 purchases, something that has prompted concern that the company has introduced a fresh form of DRM.",
-      "url": "https://www.ign.com/articles/playstation-fans-think-theyve-figured-out-sonys-mysterious-new-drm",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T10:32:27+00:00"
-    },
-    {
-      "id": "dcec7e897d9e59cb5251fcd8",
-      "title": "Jon Favreau Knows The Mandalorian and Grogu Will Be the First New Star Wars Movie in Theaters for a Generation of Young Kids",
-      "summary": "The Mandalorian and Grogu comes out in May, six-and-a-half years after the divisive The Rise of Skywalker, which means there’s a whole generation of young kids who will get to experience a brand new Star Wars movie in theaters for the first time.",
-      "url": "https://www.ign.com/articles/jon-favreau-knows-the-mandalorian-and-grogu-will-be-the-first-new-star-wars-movie-in-theaters-for-a-generation-of-young-kids",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T10:31:10+00:00"
-    },
-    {
       "id": "c4d54099ffefa5c5b120590f",
       "title": "Why has the UAE left Opec - and why does this matter?",
       "summary": "The United Arab Emirates (UAE) is quitting oil cartel Opec after nearly 60 years of membership.",
@@ -299,28 +464,6 @@
       "publishedAt": "2026-04-29T10:12:46+00:00"
     },
     {
-      "id": "b87e3c64eeb36dfbf2d97ab5",
-      "title": "Final Fantasy 7 Remake Part 3 'Proceeding on Time and on Schedule,' Director Says",
-      "summary": "Hang in there, Final Fantasy fans — Final Fantasy 7 Remake Part 3 director Naoki Hamaguchi has popped up to assure us that the eagerly-anticipated third instalment is \"proceeding on time and on schedule.\"",
-      "url": "https://www.ign.com/articles/final-fantasy-7-remake-part-3-proceeding-on-time-and-on-schedule-director-says",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T09:48:58+00:00"
-    },
-    {
-      "id": "6a8cbf8ffa17129979c85ead",
-      "title": "Christopher Nolan Confirms The Odyssey Runtime Is Shorter Than Oppenheimer, but It's Still 'An Epic Film, as the Subject Matter Demands'",
-      "summary": "Christopher Nolan has confirmed his upcoming movie The Odyssey is shorter than his previous film, Oppenheimer, but insisted “it’s an epic film, as the subject matter demands.”",
-      "url": "https://www.ign.com/articles/christopher-nolan-confirms-the-odyssey-runtime-is-shorter-than-oppenheimer-but-its-still-an-epic-film-as-the-subject-matter-demands",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T09:40:13+00:00"
-    },
-    {
       "id": "8f10c95dce2244992929220c",
       "title": "Endangered antelopes flown to Kenya from Czech zoo in 'historic homecoming'",
       "summary": "The mountain bongo is a rare antelope endemic to Kenyan highland forests, with less than 100 in the wild.",
@@ -332,17 +475,6 @@
       "publishedAt": "2026-04-29T09:37:23+00:00"
     },
     {
-      "id": "cfe9047462a5e1b53877dd34",
-      "title": "Latest Daredevil: Born Again Viewing Figures Show Dramatic Drop From Season 1",
-      "summary": "Daredevil: Born Again Season 2 viewing figures reveal the series has lost around half its audience for its sophomore run — a statistic that now has fans concerned for the future of the show, and Marvel's plans for its many street level characters.",
-      "url": "https://www.ign.com/articles/latest-daredevil-born-again-viewing-figures-show-dramatic-drop-from-season-1",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T09:28:08+00:00"
-    },
-    {
       "id": "13e817270a159e3e78edc376",
       "title": "Two dead after small plane crashes into Australia airport hangar",
       "summary": "The aircraft burst into flames after it crashed at Parafield Airport in Adelaide.",
@@ -352,17 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-29T09:08:07+00:00"
-    },
-    {
-      "id": "397067844fae7bf9e4635919",
-      "title": "What next for Mali's military leaders after shock of rebel offensive?",
-      "summary": "The military came to power to bolster security but the weekend's attacks have brought that into question.",
-      "url": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-29T09:03:55+00:00"
     },
     {
       "id": "0c9025845c68cf68d05bb9fe",
@@ -387,39 +508,6 @@
       "publishedAt": "2026-04-29T08:48:08+00:00"
     },
     {
-      "id": "3cbb837eac1c2fd6d4cb04eb",
-      "title": "A Japanese Store Has Come Up With a Fun Way to Combat Pokémon Card Scalpers: Forcing Customers to Pass a Quiz Before They Buy",
-      "summary": "Japanese electronics giant Bic Camera is making life tricky for those seeking to cash in on Pokémon cards. To deter scalpers, a branch in Tokyo now has a written Pokémon quiz that customers have to pass in order to buy the Ninja Spinner expansion.",
-      "url": "https://www.ign.com/articles/a-japanese-store-has-come-up-with-a-fun-way-to-combat-pokemon-card-scalpers-forcing-customers-to-pass-a-quiz-before-they-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T08:46:35+00:00"
-    },
-    {
-      "id": "72de2535f1ca0e76aa511285",
-      "title": "Invincible VS Global Release Times Confirmed",
-      "summary": "Invincible VS, the superhero 3v3 tag fighting game set in the Invincible universe, is coming to PC, Xbox, and PlayStation 5 on April 30. Here's exactly when you'll be able to play in your timezone.",
-      "url": "https://www.ign.com/articles/invincible-vs-global-release-times-confirmed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T08:26:53+00:00"
-    },
-    {
-      "id": "23e1ede5bccf529a621d4e3c",
-      "title": "Afghanistan women footballers can return to competition after FIFA rule changes",
-      "summary": "Afghanistan women will become a \"symbol of resilience\" after Fifa approved their return to international competition, says former captain Khalida Popal.",
-      "url": "https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-29T08:08:14+00:00"
-    },
-    {
       "id": "9215ed43793756a07f9e6e45",
       "title": "Meta expose les moins de 13 ans à de multiples risques en les laissant accéder à Instagram et Facebook, accuse la Commission européenne",
       "summary": "L’exécutif européen a publié, mercredi, les conclusions préliminaires d’une enquête lancée contre le groupe américain il y a deux ans. Meta pourrait se voir infliger une lourde amende, pesant jusqu’à 6 % de son chiffre d’affaires annuel mondial.",
@@ -442,17 +530,6 @@
       "publishedAt": "2026-04-29T06:42:29+00:00"
     },
     {
-      "id": "e6bf612217a115b842f361c1",
-      "title": "Above Land: Rhapsody is a Co-op Roguelite that Mixes Swordplay with... Slam Dunks?",
-      "summary": "",
-      "url": "https://www.ign.com/articles/above-land-rhapsody-is-a-co-op-roguelite-that-mixes-swordplay-with-slam-dunks",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T05:02:04+00:00"
-    },
-    {
       "id": "2a46d32ea98dba096c60c501",
       "title": "Should Jimmy Kimmel be fired for telling a joke?",
       "summary": "BBC's Regan Morris reports from outside the comedian's show on Hollywood Boulevard, Los Angeles.",
@@ -464,17 +541,6 @@
       "publishedAt": "2026-04-29T04:15:42+00:00"
     },
     {
-      "id": "e1c3e5626676dbdaed9bd6ad",
-      "title": "Fashion, billionaires and jokes: Inside the White House state dinner for the King and Queen",
-      "summary": "The night was filled with designer fashion, luscious bouquets, billionaire guests and joke-filled speeches.",
-      "url": "https://www.bbc.com/news/articles/cr7pr1e3p1do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-29T03:48:35+00:00"
-    },
-    {
       "id": "9724dd18161394768b8772c3",
       "title": "Elon Musk dresse son autoportrait en bienfaiteur de l’humanité au procès OpenAI",
       "summary": "Le patron de Tesla et de SpaceX accuse Sam Altman d’avoir détourné la fondation à but non lucratif qu’ils avaient fondée en 2015. Interrogé mardi, il a mis en garde : « L’IA peut guérir toutes les maladies et rendre tout le monde prospère, mais elle peut aussi nous tuer tous. »",
@@ -484,17 +550,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-29T03:44:49+00:00"
-    },
-    {
-      "id": "b65a5a27d1341bffb9499f5a",
-      "title": "Above Land: Rhapsody Announced for PC",
-      "summary": "Introducing Above Land: Rhapsody, an absolutely wild sci-fi fantasy action-RPG roguelite with tower defense elements set above the clouds that you can play in three-player co-op where weapons include bows and arrows, swords, and chairs. Yes, chairs. And basketballs.",
-      "url": "https://www.ign.com/articles/above-land-rhapsody-announced-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T03:00:00+00:00"
     },
     {
       "id": "25458f5c3f4f0fd34d661ab1",
@@ -530,17 +585,6 @@
       "publishedAt": "2026-04-29T01:28:57+00:00"
     },
     {
-      "id": "28bde440074b99eebf6a6b05",
-      "title": "Daredevil: Born Again Season 2, Episode 7 Review",
-      "summary": "The penultimate episode of Daredevil: Born Again Season 2 has satisfying moments and payoffs, though the specifics on how we get there are a little wonky.",
-      "url": "https://www.ign.com/articles/daredevil-born-again-season-2-episode-7-review-recap-the-hateful-darkness",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T01:01:00+00:00"
-    },
-    {
       "id": "600ff2bf91b8afa03ea9c82e",
       "title": "Comey charged with threatening Trump's life in Instagram post",
       "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
@@ -550,17 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-29T00:24:05+00:00"
-    },
-    {
-      "id": "8f7780aa8bb343f47289a824",
-      "title": "Take-Two CEO Addresses Grand Theft Auto 6 Price, and the Possibility for More L.A. Noire",
-      "summary": "Strauss Zelnick says price of GTA 6 is being carefully considered and that Rockstar is focused on \"making the most spectacular piece of entertainment on Earth.\"",
-      "url": "https://www.ign.com/articles/take-two-ceo-addresses-grand-theft-auto-6-price-and-the-possibility-for-more-la-noire",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T00:05:16+00:00"
     },
     {
       "id": "240c0a22e54c49f2598cc85d",
@@ -629,17 +662,6 @@
       "publishedAt": "2026-04-28T18:19:13+00:00"
     },
     {
-      "id": "b1899508cf47872da2c65217",
-      "title": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
-      "summary": "Nicole Minetti was convicted of facilitating prostitution in connection with the notorious \"bunga bunga\" parties at Silvio Berlusconi's villa.",
-      "url": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-28T16:59:49+00:00"
-    },
-    {
       "id": "cd1fd1458560333fc9f0603d",
       "title": "Path cleared for Everest climbers after huge ice block",
       "summary": "Experts warn there are still risks of further ice collapses, and there are fears climbers will again have to queue to reach the summit.",
@@ -693,17 +715,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-28T15:38:09+00:00"
-    },
-    {
-      "id": "3b80b4b920d38065892d6180",
-      "title": "Suspected gunman aged 89 held in Greece after five wounded",
-      "summary": "Five people were left with non-life-threatening injuries, according to Greece's state broadcaster ERT.",
-      "url": "https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-28T14:59:30+00:00"
     },
     {
       "id": "d09c3ad5aff6bd6fd8f80264",
@@ -825,17 +836,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-27T21:43:16+00:00"
-    },
-    {
-      "id": "5853f0b3098d2c4dee4890da",
-      "title": "Canada's Carney launches a sovereign wealth fund. What is it?",
-      "summary": "The fund - which Canadians can invest in directly - will help pay for major infrastructure projects in the country, the prime minister says.",
-      "url": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-27T18:13:26+00:00"
     },
     {
       "id": "2fa6a593d2fb8945b4c95890",
@@ -981,17 +981,6 @@
       "publishedAt": "2026-04-25T04:00:17+00:00"
     },
     {
-      "id": "d05d1f9cd932281e1aac4d69",
-      "title": "Ces IA érotiques qui bouleversent des vies sentimentales : « Je peux tout dire sans être jugé, avouer mes fantasmes bizarres »",
-      "summary": "Vivre ses premiers émois amoureux avec une intelligence artificielle, programmée pour ne jamais contredire ni rejeter, n’est pas sans conséquences. Ces compagnons virtuels peuvent brouiller l’apprentissage des relations réelles et nourrir la peur de s’y confronter.",
-      "url": "https://www.lemonde.fr/campus/article/2026/04/25/je-peux-tout-dire-sans-etre-juge-avouer-mes-fantasmes-bizarres-ces-ia-erotiques-qui-bouleversent-la-vie-sentimentale-des-jeunes_6683201_4401467.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-25T03:30:02+00:00"
-    },
-    {
       "id": "2c7cbf329fe7d03fdeb173f3",
       "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
       "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
@@ -1012,17 +1001,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-24T22:45:28+00:00"
-    },
-    {
-      "id": "0073c19cd24d87a9db8c646a",
-      "title": "Google injecte 40 milliards de dollars dans Anthropic, dont 10 immédiatement",
-      "summary": "La start-up d’intelligence artificielle Anthropic, partenaire historique d’Amazon, cherche à diversifier ses relations d’affaires et noue des accords avec d’autres prestataires.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/24/google-injecte-40-milliards-de-dollars-dans-anthropic-dont-10-immediatement_6683126_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-24T20:18:36+00:00"
     },
     {
       "id": "ff5b30c1dae35030d367da14",
