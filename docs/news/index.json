@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-04-29T02:06:42.189227+00:00",
+  "updatedAt": "2026-04-29T05:46:33.611026+00:00",
   "items": [
+    {
+      "id": "e6bf612217a115b842f361c1",
+      "title": "Above Land: Rhapsody is a Co-op Roguelite that Mixes Swordplay with... Slam Dunks?",
+      "summary": "",
+      "url": "https://www.ign.com/articles/above-land-rhapsody-is-a-co-op-roguelite-that-mixes-swordplay-with-slam-dunks",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T05:02:04+00:00"
+    },
+    {
+      "id": "2a46d32ea98dba096c60c501",
+      "title": "Should Jimmy Kimmel be fired for telling a joke?",
+      "summary": "BBC's Regan Morris reports from outside the comedian's show on Hollywood Boulevard, Los Angeles.",
+      "url": "https://www.bbc.com/news/videos/c87qg28rx8jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T04:15:42+00:00"
+    },
+    {
+      "id": "e1c3e5626676dbdaed9bd6ad",
+      "title": "Fashion, billionaires and jokes: Inside the White House state dinner for the King and Queen",
+      "summary": "The night was filled with designer fashion, luscious bouquets, billionaire guests and joke-filled speeches.",
+      "url": "https://www.bbc.com/news/articles/cr7pr1e3p1do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T03:48:35+00:00"
+    },
+    {
+      "id": "dfe99010a706687d0c07ab0c",
+      "title": "Au procès OpenAI, Elon Musk dresse son autoportrait en bienfaiteur de l’humanité",
+      "summary": "Le patron de Tesla et SpaceX accuse Sam Altman d’avoir détourné la fondation à but non lucratif qu’ils avaient fondée en 2015. Interrogé mardi, il a mis en garde : « L’IA peut guérir toutes les maladies et rendre tout le monde prospère, mais elle peut aussi nous tuer tous. »",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/29/au-proces-openai-elon-musk-dresse-son-autoportrait-en-bienfaiteur-de-l-humanite_6684076_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-29T03:44:50+00:00"
+    },
+    {
+      "id": "b65a5a27d1341bffb9499f5a",
+      "title": "Above Land: Rhapsody Announced for PC",
+      "summary": "Introducing Above Land: Rhapsody, an absolutely wild sci-fi fantasy action-RPG roguelite with tower defense elements set above the clouds that you can play in three-player co-op where weapons include bows and arrows, swords, and chairs. Yes, chairs. And basketballs.",
+      "url": "https://www.ign.com/articles/above-land-rhapsody-announced-pc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-29T03:00:00+00:00"
+    },
+    {
+      "id": "9fe7545620d37975ca2c7052",
+      "title": "Weeks of silence over Iran school strike highly unusual, former US officials say",
+      "summary": "In the two months since the deadly strike, the Pentagon has said only that the incident is under investigation.",
+      "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T02:01:50+00:00"
+    },
+    {
+      "id": "6b45614b0272cd687acbfec3",
+      "title": "Five takeaways from the King's historic address to Congress",
+      "summary": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+      "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-29T01:32:41+00:00"
+    },
     {
       "id": "72e2848255579882fe5e786e",
       "title": "IA : Google signe un accord qui permet au Pentagone d’utiliser Gemini pour des opérations classifiées",
@@ -44,6 +121,28 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-29T00:05:16+00:00"
+    },
+    {
+      "id": "240c0a22e54c49f2598cc85d",
+      "title": "Trump's face to feature on commemorative US passports",
+      "summary": "The passports will be released as part of the 250th anniversary of the US Declaration of Independence.",
+      "url": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T23:41:00+00:00"
+    },
+    {
+      "id": "3b5e5e27a9366a5ab9bbacab",
+      "title": "A faraway conflict threatens livelihoods in India's glass hub",
+      "summary": "Supply disruptions due to Middle East tensions have pushed up costs in India’s glass industry, putting workers at risk.",
+      "url": "https://www.bbc.com/news/articles/ce8pdv86359o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T23:27:44+00:00"
     },
     {
       "id": "6d5c2db06a4b343d51778a99",
@@ -99,6 +198,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-28T22:22:10+00:00"
+    },
+    {
+      "id": "5c152dfc1368076d3972bebe",
+      "title": "Flying cars and 5-minute charges: China's EV industry sees opportunity in Iran crisis",
+      "summary": "As the US-Iran has sent the world scrambling for fuel, China is positioned to benefit from its rapid shift into electric vehicles.",
+      "url": "https://www.bbc.com/news/videos/cm2pnde3l7yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-28T22:11:48+00:00"
     },
     {
       "id": "822e7ffe5ef04dbe52086638",
@@ -277,28 +387,6 @@
       "publishedAt": "2026-04-28T18:15:00+00:00"
     },
     {
-      "id": "6eedc3950d9c422dea102411",
-      "title": "Today’s Top Deals: 34” Alienware Monitor, PlayStation Store Gift Card, Resident Evil 7 for PS5, and More",
-      "summary": "And don’t miss an extra 20% off during Woot’s video game sale.",
-      "url": "https://www.ign.com/articles/best-deals-for-april-28-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-28T17:45:00+00:00"
-    },
-    {
-      "id": "c0089381b11299727a44f7e8",
-      "title": "New LEGO Fantastic Four H.E.R.B.I.E. Set Is Up for Preorder",
-      "summary": "The new LEGO Fantastic Four H.E.R.B.I.E. set is up for preorder.",
-      "url": "https://www.ign.com/articles/new-lego-fantastic-four-herbie-set-is-up-for-preorder",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-28T17:26:21+00:00"
-    },
-    {
       "id": "b1899508cf47872da2c65217",
       "title": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
       "summary": "Nicole Minetti was convicted of facilitating prostitution in connection with the notorious \"bunga bunga\" parties at Silvio Berlusconi's villa.",
@@ -354,15 +442,15 @@
       "publishedAt": "2026-04-28T16:40:27+00:00"
     },
     {
-      "id": "556fc781419d3dc4b073f60e",
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+      "id": "924e5e87f5bd45988eaada97",
+      "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+      "summary": "It will have little effect on the current oil blockades, but it could change everything afterwards.",
+      "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-28T16:24:45+00:00"
+      "publishedAt": "2026-04-28T15:55:46+00:00"
     },
     {
       "id": "d711c5bad920e7bf62e0c2aa",
@@ -891,17 +979,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-24T17:00:12+00:00"
-    },
-    {
-      "id": "572102ca75fa1da0a00e353c",
-      "title": "Enlèvements dans le secteur des cryptomonnaies : 88 mises en examen dans les enquêtes en cours, selon le Pnaco",
-      "summary": "Soixante-quinze suspects ont été placés en détention provisoire, rapporte la procureure nationale anticriminalité organisée, qui évoque « des phénomènes criminels en forte évolution ».",
-      "url": "https://www.lemonde.fr/societe/article/2026/04/24/enlevements-dans-le-secteur-des-cryptomonnaies-88-mises-en-examen-dans-les-enquetes-en-cours-selon-le-pnaco_6683108_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-24T16:37:14+00:00"
     },
     {
       "id": "ff5b30c1dae35030d367da14",
