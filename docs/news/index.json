@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-04-30T19:06:56.016676+00:00",
+  "updatedAt": "2026-04-30T20:51:41.679359+00:00",
   "items": [
+    {
+      "id": "0318efef1b6dc85c84f2e6da",
+      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-30T20:34:26+00:00"
+    },
     {
       "id": "d0c48ef30d6c55aec99896e2",
       "title": "US House votes to end government shutdown over immigration operations",
-      "summary": "The bill, already cleared by the US Senate, now moves to the desk of President Donald Trump who is expected to swiftly sign the legislation.",
+      "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
       "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-30T19:01:27+00:00"
+      "publishedAt": "2026-04-30T20:33:32+00:00"
+    },
+    {
+      "id": "5349b1042b2e5efac3f4cc23",
+      "title": "ABC Renews the Scrubs Revival for Another Season",
+      "summary": "With the Scrubs revival proving to be a big hit for ABC, the network has renewed the medical sitcom for an eleventh season.",
+      "url": "https://www.ign.com/articles/abc-renews-scrubs-revival-season-2",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T20:26:36+00:00"
+    },
+    {
+      "id": "96fb376e50bb56bf00f51b08",
+      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-30T20:15:20+00:00"
+    },
+    {
+      "id": "6f6ebbea949ae9fb17ba0411",
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry.",
+      "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-30T20:14:48+00:00"
+    },
+    {
+      "id": "57832160903e0296a567d861",
+      "title": "Everything Coming to Netflix in May 2026",
+      "summary": "Lord of the Flies, ScarJo as an alien, and Alfred Molina as an octopus (again?) are all new to Netflix in May.",
+      "url": "https://www.ign.com/articles/whats-new-on-netflix-may-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T20:00:00+00:00"
+    },
+    {
+      "id": "259832efddc44a29b0d5c5fa",
+      "title": "Lutte contre le piratage en ligne : le Conseil d’Etat retoque le dispositif français de réponse graduée",
+      "summary": "Ce traitement des données personnelles peut « porter atteinte au droit à la protection de la vie privée » et n’est donc « pas conforme » à la législation européenne, a statué le Conseil d’Etat.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/30/lutte-contre-le-piratage-en-ligne-le-conseil-d-etat-retoque-le-dispositif-francais-de-reponse-graduee_6684660_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-30T19:50:35+00:00"
+    },
+    {
+      "id": "ca26e33d4637fba39ccc5e7d",
+      "title": "Belgium plans to nationalise nuclear power plants",
+      "summary": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
+      "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-30T19:50:29+00:00"
+    },
+    {
+      "id": "14443570a9d03d609d94fb8f",
+      "title": "Get a 55\" Samsung 4K Smart TV for Just $250 Delivered",
+      "summary": "Brand-name TV for a budget-friendly price.",
+      "url": "https://www.ign.com/articles/samsung-u7900-4k-smart-tv-deal-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T19:45:00+00:00"
+    },
+    {
+      "id": "75be1319acdd66aa0af7a4d1",
+      "title": "Everything You Need to Know About the New Star Wars Content in Fortnite",
+      "summary": "Star Wars Day is nearly here, and to mark the May 4th celebration, Fortnite, Disney and Lucasfilm are teaming up to bring brand new Star Wars games and rewards to Epic's battle royale behemoth.",
+      "url": "https://www.ign.com/articles/everything-you-need-to-know-about-the-new-star-wars-content-in-fortnite",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T19:00:44+00:00"
+    },
+    {
+      "id": "67252b96847148394946fc44",
+      "title": "FFXIV Director Explains Plans to Sunset PS4 Version, Estimated to Last Through Patch 8.3",
+      "summary": "While the next expansion Evercold and post-launch content will come to PS4, it's pushing past the limits the 13 year-old console can handle.",
+      "url": "https://www.ign.com/articles/ffxiv-final-fantasy-xiv-director-explains-plans-to-sunset-ps4-version-through-patch-8-3",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T18:44:53+00:00"
+    },
+    {
+      "id": "f7536823c71010d9be046b4d",
+      "title": "Today’s Top Deals: Shout! Factory Blu-ray Steelbook, Razer BlackWidow Keyboard, and MTG Strixhaven",
+      "summary": "Plus, Amazon’s Gaming Week sale continues with top deals on games, headsets, and more.",
+      "url": "https://www.ign.com/articles/best-deals-for-april-30-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T18:40:00+00:00"
     },
     {
       "id": "f41cd0ea6303574534ab6688",
@@ -167,17 +288,6 @@
       "publishedAt": "2026-04-30T16:20:01+00:00"
     },
     {
-      "id": "0318efef1b6dc85c84f2e6da",
-      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T16:07:53+00:00"
-    },
-    {
       "id": "1fd4b7a766efed5e0aeaafc6",
       "title": "The Xbox Ally X's Fancy Upscaling Tech Is Available to Xbox Insiders Today",
       "summary": "",
@@ -244,39 +354,6 @@
       "publishedAt": "2026-04-30T15:26:18+00:00"
     },
     {
-      "id": "82c87f0a5fe2ea5877b8154a",
-      "title": "Final Fantasy 14 Director Confirms Nintendo Switch 2 Performance and Mouse-Keyboard Controls",
-      "summary": "Naoki Yoshida confirmed Switch 2 technical details during an interview at FFXIV Fan Fest alongside the Evercold reveal.",
-      "url": "https://www.ign.com/articles/ffxiv-final-fantasy-xiv-director-confirms-switch-2-performance-and-mouse-keyboard-controls",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T15:05:01+00:00"
-    },
-    {
-      "id": "1571174c609890bfffd0665d",
-      "title": "007: First Light - The Final Preview – Maybe the Most Detailed Bond Game Ever",
-      "summary": "With 007: First Light's character-first approach to delivering a fully realized Bond adventure, it's so far got the charm, wit, and raw energy to make this spy thriller one to keep an eye on as its May release fast approaches.",
-      "url": "https://www.ign.com/articles/007-first-light-final-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T15:00:00+00:00"
-    },
-    {
-      "id": "977d3105b08b488e73344350",
-      "title": "Steam Pirate Game Windrose Sails Past 1.5 Million Copies Sold, Dev Confirms First Big Content Drop Details",
-      "summary": "Windrose is a smash hit — it’s sold over 1.5 million copies in just over two weeks.",
-      "url": "https://www.ign.com/articles/steam-pirate-game-windrose-sails-past-15-million-copies-sold-dev-confirms-first-big-content-drop-details",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T14:50:59+00:00"
-    },
-    {
       "id": "dc4f1706b2adf2ef2f815d29",
       "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
       "summary": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
@@ -286,50 +363,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-30T14:32:23+00:00"
-    },
-    {
-      "id": "530772b6483e606d9925d784",
-      "title": "Invincible VS Review",
-      "summary": "A gust of fresh air for those who miss the two-way interactable combo system of Killer Instinct.",
-      "url": "https://www.ign.com/articles/invincible-vs-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T14:32:09+00:00"
-    },
-    {
-      "id": "96fb376e50bb56bf00f51b08",
-      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
-      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T14:31:49+00:00"
-    },
-    {
-      "id": "22266665112a5182e345aa49",
-      "title": "Fortnite Now Hides D4vd Emotes by Default, Though Fans Say Epic Should Scrub All Content From the Game",
-      "summary": "Fortnite developer Epic Games has effectively hidden two in-game emotes featuring music by U.S. singer D4vd — but fans say the company should go further, and fully scrub the content from the game.",
-      "url": "https://www.ign.com/articles/fortnite-now-hides-d4vd-emotes-by-default-though-fans-say-epic-should-scrub-all-content-from-the-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T14:23:32+00:00"
-    },
-    {
-      "id": "cbca7283f62e36ef779370b7",
-      "title": "Final Fantasy 7 Rebirth on Nintendo Switch 2 Goes Minimalist by Removing Most of the Interior Decor and Background Props",
-      "summary": "The Final Fantasy 7 Rebirth demo on Nintendo Switch 2 has attracted a mix of criticism, praise, and humor for removing most of the interior decor and background props, leaving rooms feeling somewhat minimalist compared to the PS5 version.",
-      "url": "https://www.ign.com/articles/final-fantasy-7-rebirth-on-nintendo-switch-2-goes-minimalist-by-removing-most-of-the-interior-decor-and-background-props",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T13:52:04+00:00"
     },
     {
       "id": "930835cb25a0c408dbca7c4b",
@@ -869,17 +902,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-27T09:51:11+00:00"
-    },
-    {
-      "id": "803282914febe17b334f112d",
-      "title": "Elon Musk contre Sam Altman, deux figures de l’IA en procès autour d’OpenAI",
-      "summary": "A partir de lundi, les deux entrepreneurs seront devant un tribunal californien pour régler un différend autour de la structure d’OpenAI, alors que la bataille pour la régulation est engagée.",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/27/elon-musk-contre-sam-altman-les-enfants-terribles-de-l-ia-en-proces_6683613_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-27T04:00:23+00:00"
     },
     {
       "id": "8fa427110082b7db1494b1ee",
