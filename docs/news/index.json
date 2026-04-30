@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-04-30T10:47:21.681411+00:00",
+  "updatedAt": "2026-04-30T12:09:37.090121+00:00",
   "items": [
+    {
+      "id": "c9e89fc7ec1b898e88a7be59",
+      "title": "Piratage de l’ANTS : un mineur de 15 ans interpellé",
+      "summary": "Les enquêteurs soupçonnent l’adolescent d’être la personne derrière le pseudonyme « breach3d », qui avait initialement revendiqué cette attaque. Selon des informations du « Monde », le mineur se rêvait en cybercriminel connu et recherché par la police.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/30/piratage-de-l-ants-un-mineur-de-15-ans-interpelle_6684591_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-04-30T11:48:52+00:00"
+    },
+    {
+      "id": "4a5e49b280d0f70e5d0721ca",
+      "title": "Anthony Mackie's $150 Million, Saudi-Funded Action Movie Desert Warrior Looks Like One of the Biggest Box Office Flops in History",
+      "summary": "It’s an epic movie with a huge $150 million budget and stars Captain America himself, Anthony Mackie alongside Oscar winner Ben Kingsley, but you’d be forgiven for having no idea it even exists, let alone looks set to become one of the biggest box office flops of all time.",
+      "url": "https://www.ign.com/articles/anthony-mackies-150-million-saudi-funded-action-movie-desert-warrior-looks-like-one-of-the-biggest-box-office-flops-in-history",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T10:56:42+00:00"
+    },
+    {
+      "id": "901265ffa5b9f76f775696d9",
+      "title": "UK Post-Apocalyptic Survival Game Atomfall To Get TV Adaptation",
+      "summary": "Rebellion's post-apocalyptic survival game with a British twist, Atomfall, is getting its own TV adaptation.",
+      "url": "https://www.ign.com/articles/uk-post-apocalyptic-survival-game-atomfall-to-get-tv-adaptation",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T10:55:34+00:00"
+    },
     {
       "id": "fc6e87a603e88b0e47c01b1e",
       "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
@@ -10,7 +43,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-04-30T10:20:44+00:00"
+      "publishedAt": "2026-04-30T10:50:19+00:00"
+    },
+    {
+      "id": "1f70e4151208cd65d77bcc0b",
+      "title": "Ubisoft Really Wants You to Know That Assassin's Creed Black Flag Resynced is Not an RPG, as It Details Combat and HUD Changes",
+      "summary": "Assassin's Creed Black Flag Resynced will feature updated combat — but Ubisoft really wants you to know that the game hasn't been changed to become an RPG.",
+      "url": "https://www.ign.com/articles/ubisoft-really-wants-you-to-know-that-assassins-creed-black-flag-resynced-is-not-an-rpg-as-it-details-combat-and-hud-changes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-04-30T10:42:48+00:00"
     },
     {
       "id": "0340031533ddaabf92cf24f2",
@@ -464,39 +508,6 @@
       "publishedAt": "2026-04-29T21:34:29+00:00"
     },
     {
-      "id": "0153431d0b9c28611811bd66",
-      "title": "Casper the Friendly Ghost Coming Back to Haunt Disney+",
-      "summary": "Casper the Friendly Ghost, is getting a new live-action series at Disney+",
-      "url": "https://www.ign.com/articles/casper-the-friendly-ghost-coming-back-to-haunt-disney",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T21:30:42+00:00"
-    },
-    {
-      "id": "69a31052510942fe77abd44d",
-      "title": "Undisputed Developer Ends Support to Focus on Sequel; Adds Talent from Rockstar and EA Sports",
-      "summary": "",
-      "url": "https://www.ign.com/articles/undisputed-developer-ends-support-to-focus-on-sequel-adds-talent-from-rockstar-and-ea-sports",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T21:20:05+00:00"
-    },
-    {
-      "id": "b61d0c259264e6a02bafc769",
-      "title": "Amazon Confirms a Major Change to Prime Day Dates This Year",
-      "summary": "Prime Day has almost always happened in July over the years, but Amazon has just announced a change to that schedule.",
-      "url": "https://www.ign.com/articles/amazon-confirms-a-major-change-to-prime-day-dates-this-year",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-29T21:15:23+00:00"
-    },
-    {
       "id": "8ba939c686d3d53456b89be9",
       "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
       "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
@@ -836,17 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-26T12:26:17+00:00"
-    },
-    {
-      "id": "6d1129c781eb4604b1a9a741",
-      "title": "Que faire pour tirer le meilleur de l’IA et éviter le pire ? Les propositions de l’investisseur Charles Ferguson et de l’économiste Philippe Aghion",
-      "summary": "Coopération interdisciplinaire, réforme fiscale, adaptation du système éducatif… Le conseiller en stratégie de la Silicon Valley et le Prix Nobel d’économie 2025 débattent, dans un entretien au « Monde », des mesures à prendre d’urgence pour s’adapter aux changements radicaux à venir avec le développement de l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/idees/article/2026/04/26/que-faire-pour-tirer-le-meilleur-de-l-ia-et-eviter-le-pire-les-propositions-de-l-investisseur-charles-ferguson-et-de-l-economiste-philippe-aghion_6683451_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-26T09:00:03+00:00"
     },
     {
       "id": "8fa427110082b7db1494b1ee",
