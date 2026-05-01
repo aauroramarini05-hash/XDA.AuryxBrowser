@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-05-01T11:52:10.611689+00:00",
+  "updatedAt": "2026-05-01T12:58:32.525490+00:00",
   "items": [
+    {
+      "id": "616b8c53d6518481e2a15fd8",
+      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+      "summary": "The airline said the Academy Award was safely in its care in Frankfurt and was arranging its return.",
+      "url": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-01T12:42:29+00:00"
+    },
+    {
+      "id": "f2ea2ccfaafbdcb5c19ec5cb",
+      "title": "Disney Reportedly Expects Star Wars: The Mandalorian and Grogu Box Office Opening Lower Than Solo: A Star Wars Story",
+      "summary": "Disney has reportedly tempered expectations for Star Wars: The Mandalorian and Grogu, which is currently tracking to open lower than box office bomb Solo: A Star Wars Story.",
+      "url": "https://www.ign.com/articles/disney-reportedly-expects-star-wars-the-mandalorian-and-grogu-box-office-opening-lower-than-solo-a-star-wars-story",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T11:50:44+00:00"
+    },
+    {
+      "id": "b0dfcb8c541aa39eac6b198b",
+      "title": "The Outer Worlds Is Getting Grenades, Nearly 7 Years After It Came Out",
+      "summary": "Surprise! Seven years after it launched — and almost six months after its sequel was released — The Outer Worlds is getting grenades.",
+      "url": "https://www.ign.com/articles/the-outer-worlds-is-getting-grenades-nearly-7-years-after-it-came-out",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T11:32:11+00:00"
+    },
     {
       "id": "db6c6318028350be387889fb",
       "title": "Are The Expanse and Exodus The True Heirs to Mass Effect?",
@@ -33,6 +66,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-01T11:10:58+00:00"
+    },
+    {
+      "id": "31319b60440602f716b46656",
+      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+      "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
+      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-01T11:05:14+00:00"
     },
     {
       "id": "619266bdcd0f7892c0ffdfc6",
@@ -277,17 +321,6 @@
       "publishedAt": "2026-05-01T03:11:34+00:00"
     },
     {
-      "id": "3fd23a343cca040d7cb7418c",
-      "title": "Oscar goes missing after Academy Award winner is blocked from taking it on flight",
-      "summary": "The airline said it regrets the situation and was doing an urgent \"comprehensive internal search\" for the award.",
-      "url": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-01T03:02:21+00:00"
-    },
-    {
       "id": "22167ff7f6e805a24c57bb51",
       "title": "Trump signs bill to end record shutdown over immigration enforcement",
       "summary": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
@@ -354,9 +387,9 @@
       "publishedAt": "2026-04-30T23:11:37+00:00"
     },
     {
-      "id": "8300350b298d4d05e9db54a7",
-      "title": "New CCTV footage appears to show Washington press dinner suspect shoot at agent",
-      "summary": "The video was released after claims that the secret service member sustained injuries in an act of 'friendly fire'.",
+      "id": "2eaf9c44d9ffeadbf534c367",
+      "title": "New CCTV footage appears to shows when shots were fired at Washington press dinner",
+      "summary": "The video was released after claims that a secret service member sustained injuries in an act of 'friendly fire'.",
       "url": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -451,28 +484,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-04-30T21:32:52+00:00"
-    },
-    {
-      "id": "5effef72b836f8e23ef870c5",
-      "title": "Dexter: Resurrection Season 2 Casts WWE Legend Chris Jericho",
-      "summary": "Dexter: Resurrection 2 continues to expand its cast with WWE superstar Chris Jericho.",
-      "url": "https://www.ign.com/articles/dexter-resurrection-season-2-casts-wwe-legend-chris-jericho",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T21:13:33+00:00"
-    },
-    {
-      "id": "68c8aaa4f0b7b396ba14aef4",
-      "title": "Subnautica 2 Finally Gets Early Access Release Date",
-      "summary": "Subnautica 2 finally has a concrete release date for its early access, and it’s very soon.",
-      "url": "https://www.ign.com/articles/subnautica-2-finally-gets-early-access-release-date",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T21:07:22+00:00"
     },
     {
       "id": "0318efef1b6dc85c84f2e6da",
