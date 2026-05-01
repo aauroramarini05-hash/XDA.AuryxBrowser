@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-04-30T23:43:15.638745+00:00",
+  "updatedAt": "2026-05-01T02:10:40.440465+00:00",
   "items": [
+    {
+      "id": "78da4a1e876e763ed1cd7de5",
+      "title": "China scraps tariffs for all but one African nation",
+      "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
+      "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-01T00:02:57+00:00"
+    },
+    {
+      "id": "721e3f1f2da08aa01a55adca",
+      "title": "Everything New to Stream on Peacock Premium This Month",
+      "summary": "Peacock's streaming lineup for May features a new original series as well as the streaming debut of a Quentin Tarantino masterpiece.",
+      "url": "https://www.ign.com/articles/whats-new-on-peacock-may-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T00:00:00+00:00"
+    },
+    {
+      "id": "34369b82e54a932470d6958d",
+      "title": "Venice Biennale jury resigns days before start of exhibition",
+      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-30T23:44:00+00:00"
+    },
     {
       "id": "750b0afa09994ba9385f1345",
       "title": "Will AI lead to more accurate opinion polls?",
@@ -44,6 +77,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-30T22:51:57+00:00"
+    },
+    {
+      "id": "4e15df22b89a2ed7cde6db33",
+      "title": "Violence in Australian town after arrest of man over girl's murder",
+      "summary": "There has been violence outside hospital in Alice Springs, where a man suspected of murdering a five-year-old girl was being treated.",
+      "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-04-30T22:46:34+00:00"
     },
     {
       "id": "ace2d886e2024d8425b774b5",
@@ -365,17 +409,6 @@
       "publishedAt": "2026-04-30T16:38:58+00:00"
     },
     {
-      "id": "046aaa921975acf40aacba7b",
-      "title": "Save 50% Off the Anker SOLIX C2000 2,048Wh 2,400W LiFePO4 Power Station",
-      "summary": "This compact power station is powerful enough to run your window AC unit or even an entire RV.",
-      "url": "https://www.ign.com/articles/anker-solix-c2000-2048wh-2400w-lifepo4-power-station-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-04-30T16:30:00+00:00"
-    },
-    {
       "id": "9c0c493a89ab3410f7e354ad",
       "title": "Man sentenced to death for murder of toddlers at Ugandan nursery",
       "summary": "Christopher Okello Onyum had pleaded insanity but this was dismissed by the judge.",
@@ -453,61 +486,6 @@
       "publishedAt": "2026-04-30T08:59:35+00:00"
     },
     {
-      "id": "50edf5de87fa018ce93e039a",
-      "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
-      "summary": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
-      "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T07:43:33+00:00"
-    },
-    {
-      "id": "d93f29ce60f106370a6a025d",
-      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-      "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
-      "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T06:30:56+00:00"
-    },
-    {
-      "id": "c21b6f10821289b8d729c78f",
-      "title": "Police say they believe abducted child was murdered as body found in Outback",
-      "summary": "The five-year-old girl was last seen on Saturday at an Aboriginal town camp near Alice Springs.",
-      "url": "https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T06:29:55+00:00"
-    },
-    {
-      "id": "2decef7ec6be1fb5badb709f",
-      "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
-      "summary": "Gun reforms should be prioritised and policing around Jewish events increased, royal commission says.",
-      "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T06:16:36+00:00"
-    },
-    {
-      "id": "d3cc56bcbc4cedc3e3a9e664",
-      "title": "China to ban drone sales in Beijing citing security concerns",
-      "summary": "Drone users will also be required to register their devices and secure permits before flying them.",
-      "url": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T05:45:54+00:00"
-    },
-    {
       "id": "3ffc7ec5bbaa78055643b2c3",
       "title": "Au procès OpenAI, l’irritation d’Elon Musk, confronté à la genèse du projet : « Vos questions sont conçues pour me piéger »",
       "summary": "Le patron de Tesla et de SpaceX, qui accuse Sam Altman d’avoir détourné la fondation à but non lucratif qu’ils avaient fondée en 2015, a été confronté, mercredi, devant le tribunal d’Oakland, à ses mails et à ses prédictions de l’époque.",
@@ -519,17 +497,6 @@
       "publishedAt": "2026-04-30T04:45:04+00:00"
     },
     {
-      "id": "d4cfb49a2cd0e552b21f6d08",
-      "title": "Christchurch mass killer loses bid to overturn conviction",
-      "summary": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
-      "url": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T04:10:54+00:00"
-    },
-    {
       "id": "4768287289fcda498448716b",
       "title": "Alphabet, Microsoft, Amazon et Meta enregistrent des profits record",
       "summary": "Les résultats au premier trimestre des quatre géants de la tech, publiés mercredi, ont tous dépassé les attentes des analystes.",
@@ -539,17 +506,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-30T04:00:27+00:00"
-    },
-    {
-      "id": "9caf7a4bb47d100b5693b7ac",
-      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
-      "summary": "The governor of Sinaloa, Rubén Rocha Moya, hails from the same party as the president of Mexico.",
-      "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T03:20:04+00:00"
     },
     {
       "id": "bef69f5996c991225c2034ac",
@@ -649,28 +605,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-29T22:22:18+00:00"
-    },
-    {
-      "id": "c654fbc7db18947f38170ed1",
-      "title": "Florida lawmakers approve new voting maps to favour Republicans",
-      "summary": "The state is the latest to act in a national redistricting war that could shape what political party controls the US House of Representatives.",
-      "url": "https://www.bbc.com/news/articles/c5y9wvl0gkno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-29T22:00:44+00:00"
-    },
-    {
-      "id": "8ba939c686d3d53456b89be9",
-      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-      "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
-      "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-29T20:24:48+00:00"
     },
     {
       "id": "85a91a583f04207db85b8dda",
