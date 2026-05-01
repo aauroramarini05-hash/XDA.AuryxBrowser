@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-05-01T21:43:57.129469+00:00",
+  "updatedAt": "2026-05-01T22:41:28.212373+00:00",
   "items": [
+    {
+      "id": "ce4481e21a576b31c65a682c",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-01T22:35:07+00:00"
+    },
+    {
+      "id": "ccbe4917353d3887c1b061c4",
+      "title": "Oscars says AI actors, writing cannot win awards",
+      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
+      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-01T22:30:59+00:00"
+    },
+    {
+      "id": "e9451a8397b2ec88f5cf3b8b",
+      "title": "Tangled Remake Cast Adds Andor Actor Diego Luna as New Character Created Just for the Live-Action Movie",
+      "summary": "Andor actor Diego Luna has reportedly boarded the cast of the Disney live-action Tangled remake in a mystery role created specifically for the new movie.",
+      "url": "https://www.ign.com/articles/tangled-remake-cast-adds-andor-actor-diego-luna-as-new-character-created-just-for-the-live-action-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T22:28:30+00:00"
+    },
+    {
+      "id": "1248e45f0d300f97c4ca6f91",
+      "title": "Here's When You Can Watch My Hero Academia's Special Epilogue Episode Online",
+      "summary": "Crunchyroll has confirmed streaming release info for the special epilogue episode of My Hero Academia.",
+      "url": "https://www.ign.com/articles/my-hero-academia-special-epilogue-episode-171-streaming-release-time",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T22:19:00+00:00"
+    },
+    {
+      "id": "9ad88a3ae7114aeb8c09ce56",
+      "title": "The MSI Aegis Z2 RTX 5070 Ti Gaming PC Drops to $1,850 and Includes Pragmata",
+      "summary": "One of the few gaming PCs priced under $2K this year that can run any game in 4K.",
+      "url": "https://www.ign.com/articles/msi-aegis-z2-rtx-5070-ti-gaming-pc-deal-includes-pragmata-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T22:10:00+00:00"
+    },
+    {
+      "id": "ad88744f546bae75c33d2090",
+      "title": "Get a 20,000mAh Power Bank That Quadruples Your Nintendo Switch 2 Playtime for a Mere $12",
+      "summary": "Features 22.5W of fast charging with the built-in USB cable",
+      "url": "https://www.ign.com/articles/kesguar-20000-mah-power-bank-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T22:05:00+00:00"
+    },
+    {
+      "id": "811a40ec4765046f9c2c3722",
+      "title": "The Wolfbox 4-in-1 Cordless Car Jump Starter, Tire Inflator, Power Bank, and Flashlight Drops to Just $59.99",
+      "summary": "Everything you need to get yourself out of a jam without having to call AAA.",
+      "url": "https://www.ign.com/articles/wolfbox-megavolt16-air-cordless-car-jump-starter-tire-inflator-deal-for-mothers-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T22:05:00+00:00"
+    },
+    {
+      "id": "430dcb891ad9997bd10054c4",
+      "title": "Le Pentagone accélère son utilisation de l’intelligence artificielle en signant des contrats avec sept concurrents d’Anthropic",
+      "summary": "L’accord doit permettre l’émergence de nouvelles capacités, deux mois après le conflit entre le gouvernement américain et le créateur du modèle Claude, après que l’entreprise a souhaité empêcher le Pentagone de l’utiliser pour la surveillance de masse et l’usage sur les champs de bataille sans intervention humaine.",
+      "url": "https://www.lemonde.fr/international/article/2026/05/02/le-pentagone-accelere-son-utilisation-de-l-intelligence-artificielle-en-signant-des-contrats-avec-sept-concurrents-d-anthropic_6684756_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-01T22:01:42+00:00"
+    },
+    {
+      "id": "7f089ef25f995eedde49b875",
+      "title": "Who shot a Secret Service officer at the Trump press dinner?",
+      "summary": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+      "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-01T21:44:05+00:00"
+    },
+    {
+      "id": "ada227efa92d384fc8319d02",
+      "title": "Tech Experts Say The Elder Scrolls IV: Oblivion Remastered Still Suffers From Issues That Plagued It at Launch",
+      "summary": "The Elder Scrolls IV: Oblivion Remastered, without a patch on PC since July 2025, still suffers from issues that plagued it at launch, including worsening performance the more you play.",
+      "url": "https://www.ign.com/articles/tech-experts-say-the-elder-scrolls-iv-oblivion-remastered-still-suffers-from-issues-that-plagued-it-at-launch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-01T21:36:45+00:00"
+    },
     {
       "id": "70a8d543e2d30f03ac236e17",
       "title": "Greta Gerwig Narnia Movie Lands Wide Theatrical Premiere from Netflix With Early 2027 Release Date",
@@ -120,7 +230,18 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-01T19:48:25+00:00"
+      "publishedAt": "2026-05-01T19:48:22+00:00"
+    },
+    {
+      "id": "049eeb092cb44534353a6bd0",
+      "title": "Australia wants to be first nation in the world to eliminate a cancer - can it?",
+      "summary": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
+      "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-01T19:30:36+00:00"
     },
     {
       "id": "6a683cc11deb3fa0ff5de500",
@@ -211,28 +332,6 @@
       "publishedAt": "2026-05-01T17:59:34+00:00"
     },
     {
-      "id": "ace2d886e2024d8425b774b5",
-      "title": "Get a 5-Pack of 60W USB Type-C Cables for $7.50 (Averages Out to a Mere $1.50 Per Cable)",
-      "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, Apple iPhone 17, or Samsung Galaxy.",
-      "url": "https://www.ign.com/articles/best-usb-cable-deals-in-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-01T17:45:00+00:00"
-    },
-    {
-      "id": "49721fe9ab6d588542712122",
-      "title": "How the Monarch: Legacy of Monsters Season 2 Finale Connects to the Godzilla Movies",
-      "summary": "The Monarch: Legacy of Monsters Season 2 finale connects to Godzilla: King of the Monsters, fleshing out the Monsterverse mythology and strengthening the universe across movies and TV.",
-      "url": "https://www.ign.com/articles/how-monarch-legacy-of-monsters-season-2-finale-connects-to-godzilla-movies",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-01T17:36:49+00:00"
-    },
-    {
       "id": "9e6646273c36178e8c2b1d81",
       "title": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
       "summary": "The former One Direction singer has taken to Instagram to update fans as he cuts his world tour dates",
@@ -253,50 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-01T17:03:11+00:00"
-    },
-    {
-      "id": "046aaa921975acf40aacba7b",
-      "title": "Save 50% Off the Anker SOLIX C2000 2,048Wh 2,400W LiFePO4 Power Station",
-      "summary": "This compact power station is powerful enough to run your window AC unit or even an entire RV.",
-      "url": "https://www.ign.com/articles/anker-solix-c2000-2048wh-2400w-lifepo4-power-station-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-01T16:45:00+00:00"
-    },
-    {
-      "id": "0e2a55a75d66993c45519698",
-      "title": "The LEGO Harry Potter: Hogwarts Castle and Grounds Is Discounted for the First Time This Year",
-      "summary": "Outstanding deal at only 5 cents per brick.",
-      "url": "https://www.ign.com/articles/lego-harry-potter-hogwarts-castle-and-grounds-set-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-01T16:45:00+00:00"
-    },
-    {
-      "id": "eeffb2c315ec7f406f94b5f2",
-      "title": "XGIMI Is Offering 50% Off its New Flagship Titan Noir 4K Projector If You Back it on Kickstarter",
-      "summary": "Ships in June.",
-      "url": "https://www.ign.com/articles/preorder-xgimi-titan-noir-4k-projector-deal-from-kickstarter",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-01T16:45:00+00:00"
-    },
-    {
-      "id": "c4e6352b8524fe232915ccfa",
-      "title": "Secrets of Strixhaven Collector Boosters Are Back In Stock, But They Don’t Come Cheap",
-      "summary": "Amazon has Collector Boosters in stock for Secrets of Strixhaven, but don't expect to get them cheap.",
-      "url": "https://www.ign.com/articles/secrets-of-strixhaven-collector-boosters-are-back-in-stock-but-they-dont-come-cheap",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-01T16:33:03+00:00"
     },
     {
       "id": "767fef2fc59241b964ba0c0a",
@@ -519,17 +574,6 @@
       "publishedAt": "2026-05-01T04:08:19+00:00"
     },
     {
-      "id": "22167ff7f6e805a24c57bb51",
-      "title": "Trump signs bill to end record shutdown over immigration enforcement",
-      "summary": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
-      "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-01T02:21:47+00:00"
-    },
-    {
       "id": "78da4a1e876e763ed1cd7de5",
       "title": "China scraps tariffs for all but one African nation",
       "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
@@ -594,28 +638,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-04-30T21:46:18+00:00"
-    },
-    {
-      "id": "0318efef1b6dc85c84f2e6da",
-      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T20:34:26+00:00"
-    },
-    {
-      "id": "96fb376e50bb56bf00f51b08",
-      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
-      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T20:15:20+00:00"
     },
     {
       "id": "1701137efdb24756845771a8",
@@ -959,17 +981,6 @@
       "publishedAt": "2026-04-28T16:42:58+00:00"
     },
     {
-      "id": "d711c5bad920e7bf62e0c2aa",
-      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
-      "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
-      "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-28T15:38:09+00:00"
-    },
-    {
       "id": "feb4a965d4a72195be6cc01d",
       "title": "Site Internet Coco : enquête ouverte après la réapparition du site connu pour ses contenus illégaux, annonce le parquet de Paris",
       "summary": "Immatriculé à l’étranger, considéré comme un repère de prédateurs par des associations de protection de l’enfance et mis en cause dans des guets-apens homophobes, ce site avait été fermé par la justice en juin 2024.",
@@ -1001,17 +1012,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-28T04:00:24+00:00"
-    },
-    {
-      "id": "c703f5edf3b32ddcd23364f1",
-      "title": "IA : plus de 600 salariés de Google demandent à leur direction de ne pas fournir des modèles à l’armée américaine",
-      "summary": "Selon des informations de presse, la filiale d’Alphabet est actuellement en discussion avec le Pentagone concernant son intelligence artificielle.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/28/google-plus-de-600-salaries-s-opposent-a-la-fourniture-d-ia-a-l-armee-americaine-pour-des-operations-classifiees_6683721_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-27T23:56:12+00:00"
     },
     {
       "id": "cf6b0ccf988cbec094e0984b",
