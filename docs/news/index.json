@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-05-01T23:43:11.196461+00:00",
+  "updatedAt": "2026-05-02T01:57:31.601465+00:00",
   "items": [
+    {
+      "id": "6737ab5b5834dd62cdc1ec86",
+      "title": "Tech Now",
+      "summary": "Harriet Bradshaw finds out how AI is being used to help solve an art history mystery.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-02T01:00:00+00:00"
+    },
+    {
+      "id": "0c654d9f0cb4c84a169c8942",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-02T00:41:43+00:00"
+    },
     {
       "id": "20d538de186283c723d65a5c",
       "title": "US court limits mail-order access to abortion pill mifepristone",
@@ -244,17 +266,6 @@
       "publishedAt": "2026-05-01T21:09:52+00:00"
     },
     {
-      "id": "0c654d9f0cb4c84a169c8942",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-01T21:05:43+00:00"
-    },
-    {
       "id": "7135e5f98d7ccd50b0908e6b",
       "title": "Crimson Desert Player Takes a Dragon Ride Out of Bounds, Discovers Previously Unseen Parts of Pywel",
       "summary": "An intrepid Crimson Desert player has ventured far out of bounds and discovered a deserted but fully functional village. No-one knows what the village is for, but some are speculating it may be cut content, or even hint at a location for DLC.",
@@ -321,8 +332,8 @@
       "publishedAt": "2026-05-01T19:48:22+00:00"
     },
     {
-      "id": "049eeb092cb44534353a6bd0",
-      "title": "Australia wants to be first nation in the world to eliminate a cancer - can it?",
+      "id": "1ac45b8e33d64f3fd666bb1f",
+      "title": "Australia wants to become the first country to eliminate a cancer - can it?",
       "summary": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
       "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -1078,17 +1089,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-21T01:00:17+00:00"
-    },
-    {
-      "id": "e15e017bf50bfea35d08a0d5",
-      "title": "Tech Now",
-      "summary": "Paul Carter checks out the newest phones, gadgets and trends from MWC Barcelona.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002sx4k?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-14T01:00:06+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
