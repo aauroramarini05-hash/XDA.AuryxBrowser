@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-02T08:22:15.389110+00:00",
+  "updatedAt": "2026-05-02T09:54:33.420298+00:00",
   "items": [
+    {
+      "id": "c061c00e48e7c09fe2ed8292",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-02T09:41:07+00:00"
+    },
     {
       "id": "ce4481e21a576b31c65a682c",
       "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
@@ -35,6 +46,17 @@
       "publishedAt": "2026-05-02T07:55:47+00:00"
     },
     {
+      "id": "c98a4637dab6e563eaeeff3e",
+      "title": "GameStop Reportedly Preparing to Make an Offer to Buy eBay",
+      "summary": "GameStop is reportedly interested in buying eBay and is preparing to make an offer.",
+      "url": "https://www.ign.com/articles/gamestop-reportedly-preparing-to-make-an-offer-to-buy-ebay",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-02T07:48:57+00:00"
+    },
+    {
       "id": "c15301ec1b78d9cd6212028b",
       "title": "Crimson Desert Gets Major Patch Designed for Players Who'd Made Pywel Too Peaceful Because They'd Killed All the Enemies",
       "summary": "Crimson Desert developer Pearl Abyss has dropped another major patch for the game, this time adding brand new features designed for endgame players who had cleared out the world of combat. Check out the 1.05.00 patch notes.",
@@ -46,8 +68,8 @@
       "publishedAt": "2026-05-02T05:57:20+00:00"
     },
     {
-      "id": "9bf92aa4e23ae0856623033b",
-      "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "id": "7fc329d1601e8e0c58e5db69",
+      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
       "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
       "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -266,9 +288,9 @@
       "publishedAt": "2026-05-01T22:05:00+00:00"
     },
     {
-      "id": "c0af89972fb9c0bb27443031",
-      "title": "Le Pentagone accélère son utilisation de l’IA en signant des contrats avec sept concurrents d’Anthropic",
-      "summary": "L’accord doit permettre l’émergence de nouvelles capacités, deux mois après le conflit entre le gouvernement américain et le créateur du modèle Claude, après que l’entreprise a souhaité empêcher le département de la défense de l’utiliser pour la surveillance de masse et l’usage sur les champs de bataille sans intervention humaine.",
+      "id": "4192ae51d26649b6abcf7390",
+      "title": "IA : le Pentagone signe des accords avec sept géants de la tech, mais écarte Anthropic et son modèle Claude",
+      "summary": "L’accord entre SpaceX, OpenAI, Google, Nvidia, Reflection, Microsoft et Amazon avec le département de la guerre américain se donne pour objectif de « déployer leurs capacités avancées en IA sur les réseaux classifiés du département ».",
       "url": "https://www.lemonde.fr/international/article/2026/05/02/le-pentagone-accelere-son-utilisation-de-l-intelligence-artificielle-en-signant-des-contrats-avec-sept-concurrents-d-anthropic_6684756_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -429,17 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-01T19:30:36+00:00"
-    },
-    {
-      "id": "6a683cc11deb3fa0ff5de500",
-      "title": "This Beginner-Friendly Flashforge Adventurer 5M Is Easily the Best 3D Printer Priced Under $150",
-      "summary": "A unique Mother's Day gift idea for a craft-loving mom.",
-      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-01T19:25:00+00:00"
     },
     {
       "id": "9e6646273c36178e8c2b1d81",
@@ -649,17 +660,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-01T04:11:53+00:00"
-    },
-    {
-      "id": "bccb176fd6054ba7774ef5ca",
-      "title": "Former Chick-fil-A employee charged in $80,000 mac-and-cheese scheme",
-      "summary": "The Texas man allegedly refunded the orders of hundreds of catering-sized mac-and-cheese trays to his personal credit cards.",
-      "url": "https://www.bbc.com/news/articles/c87q0vlwvlpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-01T04:11:50+00:00"
     },
     {
       "id": "4e15df22b89a2ed7cde6db33",
