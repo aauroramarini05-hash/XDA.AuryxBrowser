@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-05-02T01:57:31.601465+00:00",
+  "updatedAt": "2026-05-02T04:57:25.305154+00:00",
   "items": [
+    {
+      "id": "29321b513d85fdf70534c1cf",
+      "title": "'This tree was planted by my ancestor hundreds of years ago and my family settled here'",
+      "summary": "Oral history traces a family's roots to a tree planted in the 13th Century in a Ghanaian fishing town.",
+      "url": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-02T04:02:24+00:00"
+    },
+    {
+      "id": "c1a6292313d28d3dc91291ad",
+      "title": "« Mesh Network », un autre réseau de communication en cas d’« apocalypse »",
+      "summary": "Plébiscités par des spécialistes, des communautés d’amateurs et les survivalistes, les réseaux « mesh » offrent une solution de communication résiliente, décentralisée et peu coûteuse.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/02/mesh-network-un-autre-reseau-de-communication-en-cas-d-apocalypse_6684831_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-02T04:00:11+00:00"
+    },
+    {
+      "id": "74747f21c1bfc921c9e142a5",
+      "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+      "summary": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
+      "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-02T02:43:48+00:00"
+    },
+    {
+      "id": "20d538de186283c723d65a5c",
+      "title": "US court limits mail-order access to abortion pill mifepristone",
+      "summary": "The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US.",
+      "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-02T02:22:57+00:00"
+    },
     {
       "id": "6737ab5b5834dd62cdc1ec86",
       "title": "Tech Now",
@@ -22,17 +66,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-02T00:41:43+00:00"
-    },
-    {
-      "id": "20d538de186283c723d65a5c",
-      "title": "US court limits mail-order access to abortion pill mifepristone",
-      "summary": "The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US.",
-      "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-01T23:29:05+00:00"
     },
     {
       "id": "4dd65d8fdf642c8a26ab8bbc",
@@ -530,17 +563,6 @@
       "publishedAt": "2026-05-01T09:03:53+00:00"
     },
     {
-      "id": "6f6ebbea949ae9fb17ba0411",
-      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
-      "summary": "Seventeen people - including two children - were killed, according to Lebanon's health ministry.",
-      "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-01T08:12:04+00:00"
-    },
-    {
       "id": "2af0674bfb12e1cb3a1aa69a",
       "title": "Is Saudi Arabia's sports revolution unravelling?",
       "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investments? Dan Roan takes a closer look.",
@@ -849,17 +871,6 @@
       "publishedAt": "2026-04-29T23:35:30+00:00"
     },
     {
-      "id": "8b4e553f11e2bc1294db43a4",
-      "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
-      "summary": "The family dynasty behind Samsung is so complicated it regularly makes headline news in South Korea.",
-      "url": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-29T23:21:44+00:00"
-    },
-    {
       "id": "8b38afec41061cfb6017c8cc",
       "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
       "summary": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
@@ -1012,17 +1023,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-28T05:50:59+00:00"
-    },
-    {
-      "id": "1f903f1acf383d16ff3986a5",
-      "title": "Au Salvador, Nayib Bukele confie le suivi des malades chroniques à Gemini, l’IA de Google",
-      "summary": "A travers une application, les patients potentiellement concernés se voient proposer des analyses dans des laboratoires privés partenaires, un rendez-vous avec un spécialiste, à qui l’IA suggère un diagnostic et un suivi. Ce dispositif soulève des questions sur la sécurité des données.",
-      "url": "https://www.lemonde.fr/international/article/2026/04/28/au-salvador-nayib-bukele-confie-le-suivi-des-malades-chroniques-a-gemini-l-ia-de-google_6683867_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-28T04:00:24+00:00"
     },
     {
       "id": "cf6b0ccf988cbec094e0984b",
