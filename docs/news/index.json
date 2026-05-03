@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T20:33:36.431244+00:00",
+  "updatedAt": "2026-05-03T21:33:48.192225+00:00",
   "items": [
     {
       "id": "a61e3aac3a67e6d399cb3907",
@@ -10,7 +10,7 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-03T20:25:25+00:00"
+      "publishedAt": "2026-05-03T21:28:09+00:00"
     },
     {
       "id": "e6e21b3404c4809f0c23cbbb",
@@ -21,7 +21,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-03T20:03:00+00:00"
+      "publishedAt": "2026-05-03T20:36:34+00:00"
+    },
+    {
+      "id": "4d04407b3f5fd1154db879f1",
+      "title": "The Best Deals Today: Yakuza Kiwami 3 & Dark Ties, Superman 4K Steelbook Collection, Suzume Blu-ray, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-may-3-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-03T20:10:46+00:00"
     },
     {
       "id": "80026f64d01b0a405c00c2b2",
@@ -506,17 +517,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-02T08:00:06+00:00"
-    },
-    {
-      "id": "c98a4637dab6e563eaeeff3e",
-      "title": "GameStop Reportedly Preparing to Make an Offer to Buy eBay",
-      "summary": "GameStop is reportedly interested in buying eBay and is preparing to make an offer.",
-      "url": "https://www.ign.com/articles/gamestop-reportedly-preparing-to-make-an-offer-to-buy-ebay",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-02T07:48:57+00:00"
     },
     {
       "id": "7fc329d1601e8e0c58e5db69",
@@ -1014,10 +1014,10 @@
       "publishedAt": "2026-04-29T01:28:57+00:00"
     },
     {
-      "id": "e2b0f87c53147c85640082d9",
+      "id": "6eb5c7cb80d2a42bcf80b191",
       "title": "Tech Life",
       "summary": "Workers train AI to identify everyday objects by labelling items in photos and videos.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxs?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
