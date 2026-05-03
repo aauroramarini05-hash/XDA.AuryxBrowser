@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-03T11:35:53.112557+00:00",
+  "updatedAt": "2026-05-03T12:50:25.397467+00:00",
   "items": [
+    {
+      "id": "b7fa5b968a16911c02319f25",
+      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-03T12:05:59+00:00"
+    },
     {
       "id": "5217ce3614009d1f01646546",
       "title": "Nigeria summons South African envoy over attacks on its nationals",
@@ -90,15 +101,15 @@
       "publishedAt": "2026-05-03T04:30:41+00:00"
     },
     {
-      "id": "ce0318ff29737b23299c0f05",
-      "title": "Face à l’IA, les acteurs de doublage peinent à faire entendre leur voix",
-      "summary": "Les comédiens se font de plus en plus souvent piller leur voix. De nombreuses zones grises dans la législation française les pénalisent alors que l’offensive des plateformes d’intelligence artificielle anglo-saxonnes s’accélère.",
+      "id": "f7abcf85a0f11238df10b9cb",
+      "title": "Les acteurs de doublage se battent pour ne pas se faire « piller » leur voix par l’IA",
+      "summary": "De nombreuses zones grises dans la législation française pénalisent ces comédiens alors que l’offensive des plateformes d’intelligence artificielle anglo-saxonnes s’accélère.",
       "url": "https://www.lemonde.fr/economie/article/2026/05/03/face-a-l-ia-les-acteurs-de-doublage-peinent-a-faire-entendre-leur-voix_6685003_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-03T04:00:38+00:00"
+      "publishedAt": "2026-05-03T04:00:22+00:00"
     },
     {
       "id": "32fec30369d5fb8e503e6748",
@@ -739,17 +750,6 @@
       "publishedAt": "2026-05-01T09:33:43+00:00"
     },
     {
-      "id": "ea4dd5a8c9c4fe8188ccb767",
-      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
-      "summary": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
-      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-01T05:58:20+00:00"
-    },
-    {
       "id": "46be8a80ee5ca705c14f5818",
       "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
       "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
@@ -1014,10 +1014,10 @@
       "publishedAt": "2026-04-29T01:28:57+00:00"
     },
     {
-      "id": "e38ea93908f76437d10ffd0b",
+      "id": "e2b0f87c53147c85640082d9",
       "title": "Tech Life",
       "summary": "Workers train AI to identify everyday objects by labelling items in photos and videos.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxs?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
