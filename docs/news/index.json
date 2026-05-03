@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-03T12:50:25.397467+00:00",
+  "updatedAt": "2026-05-03T14:06:38.061644+00:00",
   "items": [
+    {
+      "id": "ac44a20bd01de291668b5715",
+      "title": "Two US service members reported missing in Morocco, officials say",
+      "summary": "A search and rescue operation is underway for the service members, the US African Command said.",
+      "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-03T13:44:32+00:00"
+    },
     {
       "id": "b7fa5b968a16911c02319f25",
       "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
@@ -10,7 +21,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-03T12:05:59+00:00"
+      "publishedAt": "2026-05-03T13:43:20+00:00"
+    },
+    {
+      "id": "e99c5d4e5da865ec2387d013",
+      "title": "The Target x Pokémon 30th Anniversary Collection Is Now Available Online",
+      "summary": "After releasing Wave 1 in stores, Target's massive Pokémon collection is now available online.",
+      "url": "https://www.ign.com/articles/where-to-buy-target-x-pokemon-collection",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-03T13:00:00+00:00"
     },
     {
       "id": "5217ce3614009d1f01646546",
@@ -541,17 +563,6 @@
       "publishedAt": "2026-05-01T22:30:59+00:00"
     },
     {
-      "id": "046aaa921975acf40aacba7b",
-      "title": "Save 50% Off the Anker SOLIX C2000 2,048Wh 2,400W LiFePO4 Power Station",
-      "summary": "This compact power station is powerful enough to run your window AC unit or even an entire RV.",
-      "url": "https://www.ign.com/articles/anker-solix-c2000-2048wh-2400w-lifepo4-power-station-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-01T22:30:00+00:00"
-    },
-    {
       "id": "4192ae51d26649b6abcf7390",
       "title": "IA : le Pentagone signe des accords avec sept géants de la tech, mais écarte Anthropic et son modèle Claude",
       "summary": "L’accord entre SpaceX, OpenAI, Google, Nvidia, Reflection, Microsoft et Amazon avec le département de la guerre américain se donne pour objectif de « déployer leurs capacités avancées en IA sur les réseaux classifiés du département ».",
@@ -825,17 +836,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-30T17:24:25+00:00"
-    },
-    {
-      "id": "76cc685ec0752ed113d91cba",
-      "title": "Massive sea lion makes rare appearance in San Francisco",
-      "summary": "Steller sea lions are more commonly found in the colder waters of Alaska and the Pacific Northwest, making sightings in the Bay Area less common.",
-      "url": "https://www.bbc.com/news/videos/c3e29dy701xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-04-30T13:45:06+00:00"
     },
     {
       "id": "930835cb25a0c408dbca7c4b",
