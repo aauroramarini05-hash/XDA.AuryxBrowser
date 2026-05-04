@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-04T05:55:30.741232+00:00",
+  "updatedAt": "2026-05-04T08:20:04.980998+00:00",
   "items": [
+    {
+      "id": "71e498da507e18cc4293c1f9",
+      "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
+      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-04T07:58:36+00:00"
+    },
     {
       "id": "e6e21b3404c4809f0c23cbbb",
       "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
@@ -21,7 +32,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-04T04:00:25+00:00"
+      "publishedAt": "2026-05-04T04:00:14+00:00"
     },
     {
       "id": "35a70b8ad712a243ff1d5696",
@@ -44,17 +55,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-03T22:32:20+00:00"
-    },
-    {
-      "id": "a61e3aac3a67e6d399cb3907",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-03T21:28:09+00:00"
     },
     {
       "id": "3199704d1bf0e3ed8b56d4e2",
@@ -187,17 +187,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-03T13:00:00+00:00"
-    },
-    {
-      "id": "5217ce3614009d1f01646546",
-      "title": "Nigeria summons South African envoy over attacks on its nationals",
-      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
-      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-03T10:16:01+00:00"
     },
     {
       "id": "84d6a4b07526ef71e2c60913",
