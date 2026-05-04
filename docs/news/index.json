@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-05-04T02:02:11.798477+00:00",
+  "updatedAt": "2026-05-04T05:55:30.741232+00:00",
   "items": [
+    {
+      "id": "e6e21b3404c4809f0c23cbbb",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "summary": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-04T04:46:42+00:00"
+    },
+    {
+      "id": "125c7b458a243f9dfda07d9d",
+      "title": "Cent soixante-neuf e-mails et six heures de réunion par semaine : les risques de l’« infobésité » au travail",
+      "summary": "Si l’on additionne le temps passé en réunion, le traitement des e-mails et les tchats, le total atteint, par semaine, vingt-sept heures chez les dirigeants, dix-neuf chez les manageurs et dix chez les salariés non manageurs, explique dans sa chronique Jules Thomas, journaliste du « Monde ». Un rythme qui a des conséquences sur la santé mentale et l",
+      "url": "https://www.lemonde.fr/emploi/article/2026/05/04/cent-soixante-neuf-e-mails-et-six-heures-de-reunion-par-semaine-les-risques-de-l-infobesite-au-travail_6685334_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-04T04:00:25+00:00"
+    },
+    {
+      "id": "35a70b8ad712a243ff1d5696",
+      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
+      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
+      "url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-04T03:15:03+00:00"
+    },
     {
       "id": "88f8bbe04222dae195b3cb79",
       "title": "Resident Evil Requiem Players Miss the Merchant from RE4 So Much That Someone Made a Mod to Add Him to the Game",
@@ -11,17 +44,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-03T22:32:20+00:00"
-    },
-    {
-      "id": "e6e21b3404c4809f0c23cbbb",
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
-      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-03T22:13:36+00:00"
     },
     {
       "id": "a61e3aac3a67e6d399cb3907",
@@ -418,17 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-02T17:53:07+00:00"
-    },
-    {
-      "id": "35a70b8ad712a243ff1d5696",
-      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
-      "url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-02T17:01:47+00:00"
     },
     {
       "id": "c061c00e48e7c09fe2ed8292",
@@ -1001,17 +1012,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-29T03:44:49+00:00"
-    },
-    {
-      "id": "72e2848255579882fe5e786e",
-      "title": "IA : Google signe un accord qui permet au Pentagone d’utiliser Gemini pour des opérations classifiées",
-      "summary": "Lundi, 600 salariés du spécialiste du numérique avaient appelé leur dirigeant à renoncer à mettre le modèle d’intelligence artificielle générative au service du ministère de la défense pour une utilisation susceptible d’atteindre aux libertés individuelles.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/29/ia-google-signe-un-accord-qui-permet-au-pentagone-d-utiliser-gemini-pour-des-operations-classifiees_6684064_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-29T01:28:57+00:00"
     },
     {
       "id": "e2b0f87c53147c85640082d9",
