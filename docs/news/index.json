@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-05-04T12:20:07.346256+00:00",
+  "updatedAt": "2026-05-04T15:04:45.902256+00:00",
   "items": [
+    {
+      "id": "e6e21b3404c4809f0c23cbbb",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-04T15:03:13+00:00"
+    },
+    {
+      "id": "35bc80faeaf6cda6bb579fca",
+      "title": "New alliances shakes up Nigerian political landscape",
+      "summary": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
+      "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-04T13:41:37+00:00"
+    },
     {
       "id": "779a297258c67121470051cf",
       "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
@@ -24,15 +46,15 @@
       "publishedAt": "2026-05-04T11:44:36+00:00"
     },
     {
-      "id": "35bc80faeaf6cda6bb579fca",
-      "title": "New alliances shakes up Nigerian political landscape",
-      "summary": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
-      "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+      "id": "a7617d04a23dce2da177be8f",
+      "title": "The Best LEGO Marvel Sets You Can Buy in 2026",
+      "summary": "All the coolest Marvel LEGO sets you can grab this year, from Ghost Rider to Iron Man Mark III.",
+      "url": "https://www.ign.com/articles/the-best-lego-marvel-sets",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T11:32:53+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-04T10:00:00+00:00"
     },
     {
       "id": "48790561b25a16a26a0edc41",
@@ -44,17 +66,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-04T09:49:05+00:00"
-    },
-    {
-      "id": "e6e21b3404c4809f0c23cbbb",
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "summary": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
-      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T09:29:37+00:00"
     },
     {
       "id": "a8488db17b7100e6865d4445",
@@ -101,8 +112,19 @@
       "publishedAt": "2026-05-04T08:00:00+00:00"
     },
     {
-      "id": "e174894d3275446b083942b8",
-      "title": "BBC uncovers the Ugandan scammers exploiting dogs to elicit donations from animal lovers",
+      "id": "6d7e8d0cb7e35dfe502c3f98",
+      "title": "The Most Expensive Lego Sets You Can Buy in 2026",
+      "summary": "Playing with LEGOs is an expensive hobby.",
+      "url": "https://www.ign.com/articles/most-expensive-lego-sets",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-04T08:00:00+00:00"
+    },
+    {
+      "id": "09def0c30ba8ae4328dbdbac",
+      "title": "BBC uncovers the scammers exploiting dogs to elicit donations from animal lovers",
       "summary": "Unwitting donors hand over money to save suffering animals but Ugandan con artists pocket the cash.",
       "url": "https://www.bbc.com/news/articles/c4g9l74wvd7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -121,6 +143,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-04T05:58:28+00:00"
+    },
+    {
+      "id": "7c7686c5dca3c8261f123aa8",
+      "title": "The Best LEGO Nintendo Sets for All Ages to Enjoy",
+      "summary": "In the market for a LEGO set based on Nintendo properties, or video games in general? We have you covered, with the top 10 LEGO sets based on Mario and more.",
+      "url": "https://www.ign.com/articles/the-best-lego-nintendo-sets",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-04T05:43:00+00:00"
     },
     {
       "id": "34644feea422a7cea498a3db",
@@ -561,39 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-02T16:51:18+00:00"
-    },
-    {
-      "id": "03541f788e96890bc1b9b14f",
-      "title": "Taylor Swift's Role in Toy Story 5 Seems Obvious to Toy Story 2 Fans",
-      "summary": "There's a new Toy Story on the horizon, but what is Taylor Swift's role in the fifth film in the Pixar series? We think we have a pretty good idea.",
-      "url": "https://www.ign.com/articles/taylor-swifts-role-in-toy-story-5-seems-obvious-to-toy-story-2-fans",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-02T16:33:27+00:00"
-    },
-    {
-      "id": "dd77673c9b03d3a743df5e85",
-      "title": "NBC Cancels Brilliant Minds and Stumble While 3 Other Shows Reportedly Wait in Limbo",
-      "summary": "Brilliant Minds and Stumble have both been canceled at NBC, but the future of Law & Order, The Hunting Party, and The Fall and Rise of Reggie Dinkins remains unclear.",
-      "url": "https://www.ign.com/articles/nbc-cancels-brilliant-minds-and-stumble-while-3-other-shows-reportedly-wait-in-limbo",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-02T15:50:41+00:00"
-    },
-    {
-      "id": "1653537706b5ce87d25d0ecf",
-      "title": "The 10 Most Anticipated TV Shows to Stream in May",
-      "summary": "From a superhero showdown to the return of Jack Ryan (again) and Nicolas Cage acting all spidery, here are our picks for what to stream this month.",
-      "url": "https://www.ign.com/articles/the-10-most-anticipated-tv-shows-to-stream-in-may",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-02T15:00:00+00:00"
     },
     {
       "id": "30310d04410ceb1eea3ab7e8",
