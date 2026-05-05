@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-05T13:17:29.410504+00:00",
+  "updatedAt": "2026-05-05T15:35:15.332149+00:00",
   "items": [
+    {
+      "id": "8cc5e4909ce429c7316b03db",
+      "title": "Russia and Ukraine announce rival ceasefires as deadly strikes continue",
+      "summary": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.",
+      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-05T15:08:10+00:00"
+    },
     {
       "id": "48a498b1562eed21a1d52576",
       "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
@@ -10,18 +21,95 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-05T13:17:07+00:00"
+      "publishedAt": "2026-05-05T14:13:22+00:00"
     },
     {
-      "id": "c95fdae4cc12b6c00276b6c7",
-      "title": "Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce",
-      "summary": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.",
-      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+      "id": "13bb8838d7e11ce8faf44a97",
+      "title": "Pornhub to become accessible again for some UK users",
+      "summary": "UK iPhone users who have completed Apple's device-based age checks will no longer be blocked from the site's adult content.",
+      "url": "https://www.bbc.com/news/articles/cwy27q05gj2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-05T14:09:28+00:00"
+    },
+    {
+      "id": "f8ac41be4b86ddce5cacae96",
+      "title": "Romanian PM ousted in no-confidence vote",
+      "summary": "Ilie Bolojan lost the vote after the largest party in his coalition joined the far-right opposition to depose him.",
+      "url": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-05T12:15:45+00:00"
+      "publishedAt": "2026-05-05T14:05:11+00:00"
+    },
+    {
+      "id": "7ca2a7c175864e676c81e2e6",
+      "title": "SteelSeries Arctis Nova Pro Omni Headset Review – Premium Price, Premium Headset",
+      "summary": "Despite the price, the SteelSeries Arctis Nova Pro Omni is the most well-rounded gaming headset available now, bringing hi-res sound quality, long-term comfort, and a ton of versatility in one package.",
+      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-headset-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-05T14:00:00+00:00"
+    },
+    {
+      "id": "c89cb3cabd9f6057ccfd6216",
+      "title": "28 Years Later: The Bone Temple Director Reacts to Box Office Flop Amid Part 3 Radio Silence",
+      "summary": "The director of 28 Years Later: The Bone Temple has reacted to its disappointing box office, amid continued radio silence on whether Part Three of the planned trilogy will ever be made.",
+      "url": "https://www.ign.com/articles/28-years-later-the-bone-temple-director-reacts-to-box-office-flop-amid-part-3-radio-silence",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-05T13:57:46+00:00"
+    },
+    {
+      "id": "5e41d96131b1e1b544319317",
+      "title": "May 2026 Looks Like a Massive Month for the Now Cheaper Xbox Game Pass",
+      "summary": "Microsoft has confirmed the Xbox Game Pass May 2026 Wave 1 lineup, and it’s full of big hitters.",
+      "url": "https://www.ign.com/articles/may-2026-looks-like-a-massive-month-for-the-now-cheaper-xbox-game-pass",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-05T13:22:00+00:00"
+    },
+    {
+      "id": "388be7916489f95d004c3627",
+      "title": "Lego Batman: Legacy of the Dark Knight Is More Than Just Plastic Arkham",
+      "summary": "Going hands-on with Lego Batman: Legacy of the Dark Knight reveals not just a great plastic echo of the Arkham games, but a joyful evolution of the Lego movie tie-in.",
+      "url": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-final-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-05T13:00:00+00:00"
+    },
+    {
+      "id": "ff6c7fb24b38f076f8a56ebd",
+      "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe Review",
+      "summary": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe is a rewarding watch, as long as you do the homework for it.",
+      "url": "https://www.ign.com/articles/mobile-suit-gundam-hathaway-the-sorcery-of-nymph-circe-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-05T13:00:00+00:00"
+    },
+    {
+      "id": "f23664e6744b6e5d81dca7d9",
+      "title": "GameStop CEO Ryan Cohen Gives Bizarre New Interview on $56 Billion eBay Offer, Can't Say Exactly Where He'll Get All the Money From",
+      "summary": "GameStop CEO Ryan Cohen has failed to say exactly where he’s going to get all the money he needs to buy eBay for $56 billion, in a bizarre new interview in which he continued to say he didn't understand the questions he was being asked.",
+      "url": "https://www.ign.com/articles/gamestop-ceo-ryan-cohen-gives-bizarre-new-interview-on-56-billion-ebay-offer-cant-say-exactly-where-hell-get-all-the-money-from",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-05T12:55:12+00:00"
     },
     {
       "id": "b0cd1a55cb7d7566bb527e30",
@@ -90,8 +178,8 @@
       "publishedAt": "2026-05-05T10:39:59+00:00"
     },
     {
-      "id": "7c2b09cff67564e69e88cbd0",
-      "title": "MTG x The Hobbit Preorders Are Now Live, but Stock Is Already Vanishing",
+      "id": "d03a728b5176c19a6be21643",
+      "title": "MTG x The Hobbit Preorders Are Now Live, But Stock Is Already Vanishing",
       "summary": "Preorders for the new Magic: The Gathering x The Hobbit set are live, but scalpers are already wiping out stock across major retailers.",
       "url": "https://www.ign.com/articles/magic-the-gathering-the-hobbit-where-to-buy",
       "imageUrl": null,
@@ -134,6 +222,17 @@
       "publishedAt": "2026-05-05T09:18:35+00:00"
     },
     {
+      "id": "5889eddfb71d8ef882aeddb3",
+      "title": "Dress to Impress Codes (May 2026)",
+      "summary": "Use these working and active Dress to Impress codes to claim free rewards in DTI, including clothes, shoes, and accessories.",
+      "url": "https://www.ign.com/articles/dress-to-impress-codes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-05T09:00:00+00:00"
+    },
+    {
       "id": "450647d979c3aee7cd2afa7c",
       "title": "The Odyssey Trailer Reveals Odysseus' Dog Argos, Charlize Theron's First Look, and Tom Holland Telling a Villainous Robert Pattinson: 'My Dad Is Coming Home'",
       "summary": "The Odyssey has a new trailer, pulling back the curtain on Christopher Nolan’s epic adventure.",
@@ -153,7 +252,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-05T08:30:03+00:00"
+      "publishedAt": "2026-05-05T08:30:01+00:00"
     },
     {
       "id": "2e0ac16a2b4c2a25b62949d3",
@@ -266,17 +365,6 @@
       "publishedAt": "2026-05-05T02:40:24+00:00"
     },
     {
-      "id": "250a90fc7058ead1d0917fca",
-      "title": "Watch: Met Gala sees Beyoncé's return and a star-studded red carpet",
-      "summary": "Anna Wintour brought the glam, Beyoncé brought the fam, and Heidi Klum was... statuesque at this year's fundraiser.",
-      "url": "https://www.bbc.com/news/videos/cglpy0d7k5jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-05T02:31:00+00:00"
-    },
-    {
       "id": "e5e086a029c8d47a050e711f",
       "title": "Avengers: Doomsday Director Says Spoilers Can Be 'Over-Policed' as Fans Fear Ruined Surprises",
       "summary": "As Avengers: Doomsday looms, co-director Joe Russo has admitted that spoilers are going to happen because \"you can't control everything.\"",
@@ -343,83 +431,6 @@
       "publishedAt": "2026-05-04T22:35:00+00:00"
     },
     {
-      "id": "d1ebd2cb4d2572969247fb47",
-      "title": "New Star Wars Mandalorian Crocs Just Dropped and They Look Pretty Sleek",
-      "summary": "Choose between a metallic Mandalorian’s helmet, Grogu silhouette or classic Hyperspace clogs.",
-      "url": "https://www.ign.com/articles/new-mandalorian-star-wars-crocs-just-dropped",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-04T22:27:17+00:00"
-    },
-    {
-      "id": "409912548737d6b051da8ab0",
-      "title": "This LEGO Woodland Mushrooms Set Would Make the Perfect Fungi-Themed Decoration",
-      "summary": "The LEGO Botanicals collection is branching out from the floral and into the fungal.",
-      "url": "https://www.ign.com/articles/where-to-buy-lego-botanicals-woodland-mushrooms-set-11505",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-04T21:35:23+00:00"
-    },
-    {
-      "id": "1989e8db756c60b9c7a14af6",
-      "title": "Save 20% Off the Apple AirPods Pro 3, There's Still Time to Have It Delivered by Mother's Day",
-      "summary": "Features active noise cancelation, heart rate tracking, and Live Translation with Apple Intelligence",
-      "url": "https://www.ign.com/articles/best-apple-airpods-pro-mothers-day-deal-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-04T21:15:00+00:00"
-    },
-    {
-      "id": "90ccac3a03aedc875e64fa9b",
-      "title": "Ravensburger Is Releasing New Star Wars Puzzles for The Mandalorian & Grogu Movie",
-      "summary": "",
-      "url": "https://www.ign.com/articles/ravensburger-is-releasing-new-star-wars-puzzles-for-the-mandalorian-grogu-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-04T21:13:35+00:00"
-    },
-    {
-      "id": "a109e83bd6c4b28562a56925",
-      "title": "Call of Duty 2026 Won't Be Releasing on Last-Gen Consoles",
-      "summary": "Call of Duty fans can breathe a sigh of relief as this year's entry will not release on last-gen consoles.",
-      "url": "https://www.ign.com/articles/call-of-duty-2026-wont-be-releasing-on-last-gen-consoles",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-04T21:13:16+00:00"
-    },
-    {
-      "id": "39be10b7a45dab27e06ea91c",
-      "title": "Fallout Co-Creator Says Some Players Watch Influencers So They Can Be Told What to Think About Games",
-      "summary": "Fallout co-creator Tim Cain has shared his fear that some gamers are watching influencers just so they can be \"handed an opinion from the online channel they're watching.\"",
-      "url": "https://www.ign.com/articles/fallout-co-creator-says-some-players-watch-influencers-so-they-can-be-told-what-to-think-about-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-04T21:00:01+00:00"
-    },
-    {
-      "id": "a24d6a5ede22824ee704befe",
-      "title": "The Powerful AMD Radeon 9070 XT Graphics Card Drops to $680 for a Very Limited Time",
-      "summary": "Nearly matches the performance of Nvidia's now-$1,000 GeForce RTX 5070 Ti.",
-      "url": "https://www.ign.com/articles/the-powerful-amd-radeon-9070-xt-graphics-card-drops-to-680-for-a-very-limited-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-04T21:00:00+00:00"
-    },
-    {
       "id": "48790561b25a16a26a0edc41",
       "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
       "summary": "Russia has declared a unilateral ceasefire to cover the event and threatened a massive strike on central Kyiv if it were disrupted.",
@@ -440,17 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-04T18:31:38+00:00"
-    },
-    {
-      "id": "7608f5ae4069acbaa3d7aef9",
-      "title": "Spain seizes record amount of cocaine in Atlantic Ocean, authorities say",
-      "summary": "The Civil Guard found between 30,000 and 45,000kg of the drug on a freighter headed to Libya.",
-      "url": "https://www.bbc.com/news/articles/cp8pn8py5gro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T18:08:55+00:00"
     },
     {
       "id": "c6aa17901c0dfca2632dc5f6",
@@ -495,17 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-04T13:39:18+00:00"
-    },
-    {
-      "id": "779a297258c67121470051cf",
-      "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
-      "summary": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
-      "url": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T11:59:58+00:00"
     },
     {
       "id": "09def0c30ba8ae4328dbdbac",
@@ -594,17 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-02T23:05:34+00:00"
-    },
-    {
-      "id": "92eda74c1406860bcb2d7d80",
-      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-      "summary": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
-      "url": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-02T22:13:11+00:00"
     },
     {
       "id": "30310d04410ceb1eea3ab7e8",
@@ -902,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-29T15:00:06+00:00"
-    },
-    {
-      "id": "53dd0460387606cf1a27dd92",
-      "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
-      "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
-      "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-29T10:12:46+00:00"
     },
     {
       "id": "e2b0f87c53147c85640082d9",
