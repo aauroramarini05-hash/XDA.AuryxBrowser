@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-05-06T02:01:16.007883+00:00",
+  "updatedAt": "2026-05-06T05:49:15.578965+00:00",
   "items": [
+    {
+      "id": "996d1ec1d4597ea7149bc1bf",
+      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+      "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+      "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T04:53:31+00:00"
+    },
+    {
+      "id": "98f4bf345aaa58527780a2c0",
+      "title": "More Layoffs Reportedly Hit MindsEye Developer Build a Rocket Boy",
+      "summary": "News follows last week’s new ‘Blacklisted’ update.",
+      "url": "https://www.ign.com/articles/more-layoffs-reportedly-hit-mindseye-developer-build-a-rocket-boy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T04:16:20+00:00"
+    },
+    {
+      "id": "6d0ce11b429e4ba35ab5afdb",
+      "title": "Forza Horizon 6’s Xbox Series X|S Quality and Performance Modes Explained",
+      "summary": "Loyalty reward cars for returning Forza players also listed.",
+      "url": "https://www.ign.com/articles/forza-horizon-6s-xbox-series-xs-quality-and-performance-modes-explained",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T04:15:46+00:00"
+    },
+    {
+      "id": "e2b59405cbb638d394cb19ba",
+      "title": "L’impossible droit à la déconnexion des salariés : « A chaque appel, ça me fait monter les pulsations »",
+      "summary": "Introduit dans la loi depuis dix ans, le droit à la déconnexion peine encore à faire émerger des pratiques respectueuses du temps de repos des salariés.",
+      "url": "https://www.lemonde.fr/emploi/article/2026/05/06/l-impossible-droit-a-la-deconnexion-des-salaries-a-chaque-appel-ca-me-fait-monter-les-pulsations_6685832_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-06T04:00:22+00:00"
+    },
+    {
+      "id": "86346d0b03ea666d19e5bcbf",
+      "title": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
+      "summary": "President Donald Trump raised hopes of an agreement between the US and Iran after days of escalation.",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T03:05:16+00:00"
+    },
+    {
+      "id": "041d41b8b92658d78232ca97",
+      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+      "summary": "The US president said the operation has been paused after starting on Monday.",
+      "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T02:23:36+00:00"
+    },
     {
       "id": "301fa6fe57efbe532e9585d9",
       "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
@@ -11,6 +77,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-06T01:55:26+00:00"
+    },
+    {
+      "id": "ddfd689e2ef853a62540c80d",
+      "title": "IS families in Syria have booked tickets home to Australia, minister says",
+      "summary": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
+      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T01:47:48+00:00"
     },
     {
       "id": "f6fb58fe1c5021f7249bf0eb",
@@ -24,17 +101,6 @@
       "publishedAt": "2026-05-06T01:01:00+00:00"
     },
     {
-      "id": "4daa36277966b5f01657b7fd",
-      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "summary": "\"Project Freedom\", which began less than 48 hours ago, will be halted because progress has been made toward a deal with Iran, the US president says.",
-      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-06T00:48:00+00:00"
-    },
-    {
       "id": "0da33a1e6c0428b58ad4a28a",
       "title": "All of the Sarah J. Maas Romantasy Books Are on Sale at Amazon Ahead of Mother's Day",
       "summary": "",
@@ -46,8 +112,8 @@
       "publishedAt": "2026-05-06T00:30:00+00:00"
     },
     {
-      "id": "9abd355b0b6e9b4ff283af7d",
-      "title": "Apple to pay $250m to iPhone buyers over AI features lawsuit",
+      "id": "a39f5699c9d64fef551bc7f5",
+      "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
       "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
       "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -55,6 +121,28 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-06T00:15:14+00:00"
+    },
+    {
+      "id": "6654db699d43d3d1597c3de6",
+      "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+      "summary": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
+      "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T00:01:28+00:00"
+    },
+    {
+      "id": "bb5e25e33118556f1fa964eb",
+      "title": "What do a teenager's clothes tell us about North Korea's future?",
+      "summary": "Analysts say the daughter of North Korea’s leader Kim Jong Un is not just growing up - she’s being styled for succession.",
+      "url": "https://www.bbc.com/news/videos/c072k1x1rylo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-05T23:58:58+00:00"
     },
     {
       "id": "c08eb75c47f9c83ae3ebc417",
@@ -99,6 +187,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-05T23:07:41+00:00"
+    },
+    {
+      "id": "0db7ad9a1d07ff302ea30177",
+      "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
+      "summary": "Kim Ju Ae's evolving fashion is one of the signs that she is being groomed as North Korea's next leader.",
+      "url": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-05T22:44:35+00:00"
     },
     {
       "id": "ace2d886e2024d8425b774b5",
@@ -176,6 +275,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-05T21:35:00+00:00"
+    },
+    {
+      "id": "20bf508a98f7dc38366101ce",
+      "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+      "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
+      "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-05T21:22:31+00:00"
     },
     {
       "id": "f34f243e37d855626ad53b9c",
@@ -266,17 +376,6 @@
       "publishedAt": "2026-05-05T20:03:00+00:00"
     },
     {
-      "id": "15ac97a44235b288e84b2c80",
-      "title": "The Skytech Shadow Gaming PC Is Equipped With the Rare RTX 5060 Ti 16GB GPU for About $1K",
-      "summary": "This is the best budget prebuilt for 1080p gaming.",
-      "url": "https://www.ign.com/articles/skytech-shadow-rtx-5060-ti-gaming-pc-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T19:55:00+00:00"
-    },
-    {
       "id": "27cb117c2bbd7d163da8b4be",
       "title": "'I thought he was going to hit me' OpenAI co-founder says of Musk",
       "summary": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
@@ -310,26 +409,15 @@
       "publishedAt": "2026-05-05T19:23:18+00:00"
     },
     {
-      "id": "0c86450a1ae8e3c22985d6b9",
-      "title": "For Today Only, Get a 55\" 4K OLED TV for Just $470",
-      "summary": "Least expensive 55\" OLED TV ever.",
-      "url": "https://www.ign.com/articles/cheapest-55-4k-oled-tv-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T19:05:00+00:00"
-    },
-    {
-      "id": "48a498b1562eed21a1d52576",
-      "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-      "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
-      "url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+      "id": "c5abe8c2f1838c455e9162fa",
+      "title": "'I had to stick to the plan': Officer describes retrieving crocodile with human remains inside",
+      "summary": "DNA tests are underway to confirm whether remains found inside the crocodile match that of a missing man.",
+      "url": "https://www.bbc.com/news/articles/cp8pqz63808o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-05T16:38:50+00:00"
+      "publishedAt": "2026-05-05T17:35:32+00:00"
     },
     {
       "id": "13bb8838d7e11ce8faf44a97",
@@ -352,6 +440,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-05T14:05:11+00:00"
+    },
+    {
+      "id": "b2bdebafb62f24c7f23f3520",
+      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+      "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-05T11:38:03+00:00"
     },
     {
       "id": "b7548e40ff3cdd5cafb7201b",
@@ -651,17 +750,6 @@
       "publishedAt": "2026-05-03T04:00:22+00:00"
     },
     {
-      "id": "e94cc7f536df05b1ced79be5",
-      "title": "Laufey on making jazz cool again (and the fish that brought out her inner rage)",
-      "summary": "The Icelandic star reflects on a phenomenal year, and the music video that let her go \"primal\".",
-      "url": "https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-02T23:05:34+00:00"
-    },
-    {
       "id": "30310d04410ceb1eea3ab7e8",
       "title": "Les conseils en orientation des parents à l’heure de l’intelligence artificielle : « Pourquoi pas pilote ? Je ne monterais pas dans un avion dont le pilote est une IA »",
       "summary": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, les parents perturbés face à l’orientation scolaire de leurs enfants à l’heure de l’intelligence artificielle.",
@@ -913,17 +1001,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-29T18:00:10+00:00"
-    },
-    {
-      "id": "06811bc97e9b28914ca18364",
-      "title": "Le robot est-il l’animal du futur ?",
-      "summary": "« Au bestiaire ! ». Depuis une dizaine d’années, des chercheurs et entreprises privées testent l’utilisation de machines ultraréalistes pour mieux étudier certaines espèces et surtout pour les protéger de l’exploitation humaine.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/04/29/faux-chien-dauphin-ou-elephant-le-robot-est-il-l-animal-du-futur_6684310_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-04-29T17:00:03+00:00"
     },
     {
       "id": "e2b0f87c53147c85640082d9",
