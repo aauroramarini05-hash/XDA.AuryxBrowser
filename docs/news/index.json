@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-05-05T23:40:52.004416+00:00",
+  "updatedAt": "2026-05-06T02:01:16.007883+00:00",
   "items": [
+    {
+      "id": "301fa6fe57efbe532e9585d9",
+      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+      "summary": "He spent much of the race criticising the state's response to the Covid-19 pandemic led by the Democrat nominee.",
+      "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T01:55:26+00:00"
+    },
+    {
+      "id": "f6fb58fe1c5021f7249bf0eb",
+      "title": "Daredevil: Born Again Season 2 Finale Review",
+      "summary": "Though it pushes credibility along the way, Daredevil: Born Again Season 2 ends with some incredibly thrilling moments involving both Matt and Fisk as well as major changes to the status quo of the series.",
+      "url": "https://www.ign.com/articles/daredevil-born-again-season-2-finale-episode-8-review-recap",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T01:01:00+00:00"
+    },
+    {
+      "id": "4daa36277966b5f01657b7fd",
+      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+      "summary": "\"Project Freedom\", which began less than 48 hours ago, will be halted because progress has been made toward a deal with Iran, the US president says.",
+      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T00:48:00+00:00"
+    },
+    {
+      "id": "0da33a1e6c0428b58ad4a28a",
+      "title": "All of the Sarah J. Maas Romantasy Books Are on Sale at Amazon Ahead of Mother's Day",
+      "summary": "",
+      "url": "https://www.ign.com/articles/all-of-the-sarah-j-maas-romantasy-books-are-on-sale-at-amazon-ahead-of-mothers-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T00:30:00+00:00"
+    },
+    {
+      "id": "9abd355b0b6e9b4ff283af7d",
+      "title": "Apple to pay $250m to iPhone buyers over AI features lawsuit",
+      "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
+      "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-06T00:15:14+00:00"
+    },
     {
       "id": "c08eb75c47f9c83ae3ebc417",
       "title": "India's fiercest female politician faces a fight for survival",
@@ -77,17 +132,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-05T22:20:00+00:00"
-    },
-    {
-      "id": "94855586c7ad7958ad55b0be",
-      "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
-      "summary": "As a spate of incidents in the Strait of Hormuz test the ceasefire, an Iranian official says, \"We are just getting started\".",
-      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-05T22:17:44+00:00"
     },
     {
       "id": "a99f55e76383b7bf79a887f2",
@@ -235,7 +279,7 @@
     {
       "id": "27cb117c2bbd7d163da8b4be",
       "title": "'I thought he was going to hit me' OpenAI co-founder says of Musk",
-      "summary": "Brockman spoke during the second week of a month-long trial between Musk and OpenAI's Sam Altman.",
+      "summary": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
       "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
@@ -275,28 +319,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-05T19:05:00+00:00"
-    },
-    {
-      "id": "749f6c9ed4a4f0afffb93985",
-      "title": "Today’s Top Deals: Metal Gear Solid Delta for PS5, LEGO Ferrari, and Xbox Series X Bundle",
-      "summary": "And don’t miss MTG x The Hobbit and Pokémon TCG preorders on Amazon",
-      "url": "https://www.ign.com/articles/best-deals-for-may-5-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T18:20:00+00:00"
-    },
-    {
-      "id": "e6f5b83d9329e43bd29a5090",
-      "title": "Xbox Boss Asha Sharma Announces Leadership Reshuffle in Bid to 'Move Faster,' Bringing in Former Microsoft AI Colleagues",
-      "summary": "Newly-installed Xbox boss Asha Sharma has announced a major reshuffle of the company's platform technology teams, as Microsoft's gaming division seeks to rebuild its position and release Project Helix, its next-generation console.",
-      "url": "https://www.ign.com/articles/xbox-boss-asha-sharma-announces-leadership-reshuffle-in-bid-to-move-faster-bringing-in-former-microsoft-ai-colleagues",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T17:55:10+00:00"
     },
     {
       "id": "48a498b1562eed21a1d52576",
@@ -847,17 +869,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-04-30T11:48:52+00:00"
-    },
-    {
-      "id": "45ddb8cac6c7706d006ace1a",
-      "title": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
-      "summary": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.",
-      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-30T08:59:35+00:00"
     },
     {
       "id": "3ffc7ec5bbaa78055643b2c3",
