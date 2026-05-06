@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-05-06T12:26:49.090219+00:00",
+  "updatedAt": "2026-05-06T15:23:34.430342+00:00",
   "items": [
+    {
+      "id": "2d4348bc244f422354d17c69",
+      "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+      "summary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
+      "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T14:54:50+00:00"
+    },
+    {
+      "id": "2c94ec9ad4bbc1e6dd787ae6",
+      "title": "Karl Urban Explains Why Mortal Kombat 2’s Johnny Cage is Different from the Games",
+      "summary": "",
+      "url": "https://www.ign.com/articles/karl-urban-explains-why-mortal-kombat-2s-johnny-cage-is-different-from-the-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T14:27:22+00:00"
+    },
+    {
+      "id": "9c5938192da07a30fb5319ef",
+      "title": "Get Diablo IV, Shin Megami Tensei V, and 6 More PC Games in Humble Choice May 2026",
+      "summary": "The May Humble Choice lineup is stacked with over $280 worth of PC games, including Diablo IV.",
+      "url": "https://www.ign.com/articles/humble-choice-may-2026-diablo-iv-shin-megami-tensei-v-vengeance",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T14:26:11+00:00"
+    },
+    {
+      "id": "bdb13fd41b84267a867aed6a",
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T14:03:53+00:00"
+    },
+    {
+      "id": "61f57bb8b936d8880b053371",
+      "title": "Ubisoft Announces Assassin's Creed Stage Show",
+      "summary": "Ubisoft has announced Heredis, a \"spectacular new stage experience\" set within the world of Assassin's Creed, that's set to debut later this year.",
+      "url": "https://www.ign.com/articles/ubisoft-announces-assassins-creed-stage-show",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T13:50:46+00:00"
+    },
+    {
+      "id": "3affdb0922be55507169843b",
+      "title": "10 Years Later, Captain America: Civil War Is Still Impossibly Overstuffed With Characters, Plot, Action... and Awesomeness",
+      "summary": "Cap vs. Iron Man plus Black Panther and also Spider-Man and... On its tenth anniversary, we look back at how Captain America: Civil War is one of the greatest Marvel movies ever.",
+      "url": "https://www.ign.com/articles/10-years-later-captain-america-civil-war-is-still-impossibly-overstuffed-with-characters-plot-action-and-awesomeness",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T13:00:00+00:00"
+    },
+    {
+      "id": "2325a54dd725fa1a9376246b",
+      "title": "Watch: Passengers evacuated from virus-hit cruise ship off Cape Verde",
+      "summary": "The Dutch foreign ministry confirmed that a British, German and Dutch national had now been taken from the virus-hit ship.",
+      "url": "https://www.bbc.com/news/videos/ckgpyn2plx1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T12:48:17+00:00"
+    },
+    {
+      "id": "6886de7151a6b3682eaeb85c",
+      "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
+      "summary": "The baby hippo, which has been named Bumpy, was found clinging to its lifeless mother at a lake.",
+      "url": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T12:35:15+00:00"
+    },
+    {
+      "id": "fc6be76dd93085137ba16909",
+      "title": "Massive Alaska megatsunami was second largest ever recorded",
+      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T12:00:25+00:00"
+    },
     {
       "id": "a2006331765a756751f25415",
       "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
@@ -13,15 +112,48 @@
       "publishedAt": "2026-05-06T11:59:44+00:00"
     },
     {
-      "id": "bdb13fd41b84267a867aed6a",
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "id": "e1c41eefd8850a528acc03a8",
+      "title": "After The Boys Season 5, Episode 6's Dramatic Ending, Fans Have a Clear Theory for Homelander's Fate",
+      "summary": "The Boys Season 5, Episode 6 was packed with twists and turns, some fans had predicted, others they had not. But after its dramatic conclusion, there is a clear theory for Homelander’s fate — with just two episodes of the entire show left to go.",
+      "url": "https://www.ign.com/articles/after-the-boys-season-5-episode-6s-dramatic-ending-fans-have-a-clear-theory-for-homelanders-fate",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T11:53:21+00:00"
+    },
+    {
+      "id": "7af734104bed2b55ce556e21",
+      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
+      "summary": "Ukraine's president says Russia has \"spurned the ceasefire\" and Kyiv is deciding on further action to take.",
+      "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-06T11:14:45+00:00"
+      "publishedAt": "2026-05-06T11:53:20+00:00"
+    },
+    {
+      "id": "1e8649134d73bf6950e7c317",
+      "title": "Shigeru Miyamoto Has Banned Dirty Jokes in The Super Mario Movie Franchise — But Says Wario Could Still Make an Appearance",
+      "summary": "Nintendo has not ruled out an appearance by Wario in the Super Mario Movie franchise — even though Mario's creator Shigeru Miyamoto says he's banned the films from featuring \"dirty jokes.\"",
+      "url": "https://www.ign.com/articles/shigeru-miyamoto-has-banned-dirty-jokes-in-the-super-mario-movie-franchise-but-says-wario-could-still-make-an-appearance",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-06T11:51:36+00:00"
+    },
+    {
+      "id": "9c5f2f9172af81b7b2848432",
+      "title": "German police raid neo-Nazi criminal youth groups",
+      "summary": "Police search locations in 12 states, mainly in the East and South of the country in what prosecutors say is a targeted raid.",
+      "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-06T11:34:56+00:00"
     },
     {
       "id": "301fa6fe57efbe532e9585d9",
@@ -354,50 +486,6 @@
       "publishedAt": "2026-05-05T22:20:00+00:00"
     },
     {
-      "id": "a99f55e76383b7bf79a887f2",
-      "title": "XGIMI Is Offering 50% Off its New Flagship Titan Noir Max 4K Projector If You Back it on Kickstarter",
-      "summary": "Already $11 million funded (out of a $100K goal) with over 3,000+ backers.",
-      "url": "https://www.ign.com/articles/preorder-xgimi-titan-noir-4k-projector-deal-from-kickstarter-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T22:15:00+00:00"
-    },
-    {
-      "id": "9263f81327645fc2eb67b30b",
-      "title": "Christopher Nolan's The Odyssey and Why It's OK Everyone’s Speaking Plain Old American in It",
-      "summary": "What's up with Christopher Nolan's The Odyssey and all the American accents in the trailer?",
-      "url": "https://www.ign.com/articles/christopher-nolan-the-odyssey-daddy-pattinson-holland-speaking-american",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T22:04:09+00:00"
-    },
-    {
-      "id": "205df38493a3a01f5aa82c08",
-      "title": "Is Valve Finally Getting Ready To Launch The Steam Machine?",
-      "summary": "",
-      "url": "https://www.ign.com/articles/is-valve-finally-getting-ready-to-launch-the-steam-machine",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T21:48:42+00:00"
-    },
-    {
-      "id": "45d41d70c7028c9731b3fa15",
-      "title": "The Popular AstroAI S8 Cordless Car Jump Starter Drops Below $20 Ahead of Mother's Day",
-      "summary": "An essential part of your car's emergency kit.",
-      "url": "https://www.ign.com/articles/astroai-s8-cordless-car-jump-starter-deal-mothers-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T21:35:00+00:00"
-    },
-    {
       "id": "15cd662d024aecd366848209",
       "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
       "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
@@ -407,28 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-05T21:22:31+00:00"
-    },
-    {
-      "id": "f34f243e37d855626ad53b9c",
-      "title": "The Cheapest Hobbit MTG Collector Booster Is Already Sold Out At Amazon",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-cheapest-hobbit-mtg-collector-booster-is-already-sold-out-at-amazon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T21:07:16+00:00"
-    },
-    {
-      "id": "c707fff6d53359ab828c4a80",
-      "title": "Get a 48V 500W Adult Electric Scooter With 22-Mile Range and a Top Speed of 22mph for $171",
-      "summary": "The most powerful e-scooter I've seen for under $200.",
-      "url": "https://www.ign.com/articles/aovopro-tmax-48v-500w-adult-electric-scooter-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-05T21:00:00+00:00"
     },
     {
       "id": "b66997901111686504a556a5",
@@ -671,61 +737,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-04T23:43:28+00:00"
-    },
-    {
-      "id": "48790561b25a16a26a0edc41",
-      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "summary": "Russia has declared a unilateral ceasefire to cover the event and threatened a massive strike on central Kyiv if it were disrupted.",
-      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T19:09:14+00:00"
-    },
-    {
-      "id": "7a4d09b73d514c0631c3e861",
-      "title": "Mali junta leader names himself defence minister after predecessor killed",
-      "summary": "Former Defence Minister Sadio Camara was killed in a massive offensive by combined jihadist and separatist forces.",
-      "url": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T18:31:38+00:00"
-    },
-    {
-      "id": "c6aa17901c0dfca2632dc5f6",
-      "title": "Britney Spears pleads guilty to reckless driving after arrest",
-      "summary": "The 44-year-old will avoid jail time after her arrest in California earlier this year.",
-      "url": "https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T17:11:56+00:00"
-    },
-    {
-      "id": "da3b55e608fc28709a7e4196",
-      "title": "Three Russian diplomats expelled from Austria over spying accusations",
-      "summary": "They gathered information using a \"forest of antennas\" installed on top of diplomatic buildings, the foreign minister says.",
-      "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T16:58:56+00:00"
-    },
-    {
-      "id": "6345a9cb25378cfb929d0cdf",
-      "title": "Watch: Moment United Airlines flight strikes vehicle during landing",
-      "summary": "Flight 169 from Venice, Italy, landed safely at Newark Airport with no reported injuries among the 231 passengers and crew. The lorry driver sustained minor injuries.",
-      "url": "https://www.bbc.com/news/videos/cr7pvgl9dpeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-04T13:39:18+00:00"
     },
     {
       "id": "125c7b458a243f9dfda07d9d",
