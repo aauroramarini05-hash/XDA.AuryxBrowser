@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-05-07T05:53:15.866915+00:00",
+  "updatedAt": "2026-05-07T08:17:46.750013+00:00",
   "items": [
     {
-      "id": "9f7a38dc3705fd3181383887",
-      "title": "Vigils to be held across Australia for murdered 5-year-old girl",
-      "summary": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs.",
-      "url": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
+      "id": "f6ebceb27aa42cd098462b82",
+      "title": "Islamic State-linked women arrive home in Australia from Syria",
+      "summary": "A group of nine women and children has landed in Melbourne while another woman and her child arrived in Sydney.",
+      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-07T05:46:08+00:00"
+      "publishedAt": "2026-05-07T08:06:52+00:00"
+    },
+    {
+      "id": "e41fccddd5917b293c859e90",
+      "title": "Shell profits rise as Iran war pushes oil prices higher",
+      "summary": "The energy giant reports profits of $6.92bn for the first three months of the year.",
+      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-07T07:27:08+00:00"
+    },
+    {
+      "id": "b8f96b1418ba130138171fbf",
+      "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+      "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-07T07:09:02+00:00"
     },
     {
       "id": "fdb189eb7388d8e39012754c",
@@ -46,17 +68,6 @@
       "publishedAt": "2026-05-07T04:06:33+00:00"
     },
     {
-      "id": "523a4d1c66ec4a696b5a9355",
-      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
-      "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
-      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-07T03:55:13+00:00"
-    },
-    {
       "id": "64106199346989186d6c7313",
       "title": "A l’université Bauman de Moscou, la secrète école des hackeurs russes, pilier de la guerre hybride en Europe",
       "summary": "Selon 2 000 documents obtenus par un consortium de médias internationaux, dont « Le Monde » fait partie, la prestigieuse université technique d’Etat Bauman de Moscou forme en toute confidentialité des agents du renseignement militaire russe, en particulier des hackeurs. Ces listes d’élèves, de professeurs, et ces plans de cours offrent une plongée ",
@@ -65,7 +76,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-07T03:45:10+00:00"
+      "publishedAt": "2026-05-07T03:45:08+00:00"
     },
     {
       "id": "2d4348bc244f422354d17c69",
@@ -101,14 +112,14 @@
       "publishedAt": "2026-05-07T00:41:21+00:00"
     },
     {
-      "id": "0ca178f0136da8ca228e35e0",
+      "id": "bb3a12c0347394b458dbb89e",
       "title": "In 'Musk v Altman', this judge will make the final call",
       "summary": "The feud has fuelled a costly showdown between two tech titans.",
       "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC World",
+      "source": "BBC Technology",
       "country": "uk",
-      "category": "general",
+      "category": "technology",
       "publishedAt": "2026-05-06T23:52:48+00:00"
     },
     {
@@ -418,17 +429,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-06T17:32:04+00:00"
-    },
-    {
-      "id": "bdb13fd41b84267a867aed6a",
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-06T16:11:44+00:00"
     },
     {
       "id": "ba49f50cf6557ebbe678ecd4",
@@ -979,17 +979,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-01T09:33:43+00:00"
-    },
-    {
-      "id": "750b0afa09994ba9385f1345",
-      "title": "Will AI lead to more accurate opinion polls?",
-      "summary": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?",
-      "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-30T23:11:37+00:00"
     },
     {
       "id": "e2b0f87c53147c85640082d9",
