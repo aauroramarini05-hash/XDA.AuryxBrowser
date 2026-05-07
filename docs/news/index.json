@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-05-07T08:17:46.750013+00:00",
+  "updatedAt": "2026-05-07T11:02:07.619877+00:00",
   "items": [
+    {
+      "id": "3f27723c8485857c19a6b8d3",
+      "title": "« L’émergence des chinois DeepSeek et Huawei menace la domination technologique, politique et militaire américaine »",
+      "summary": "Face à la concurrence venue de Chine, Mathieu Corteel, historien des sciences, s’interroge, dans une tribune au « Monde », sur la chute de l’empire américain dans le domaine de l’intelligence artificielle « alors qu’une opposition contre les géants de la tech gronde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/07/l-emergence-des-chinois-deepseek-et-huawei-menace-la-domination-technologique-politique-et-militaire-americaine_6686550_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-07T11:00:10+00:00"
+    },
+    {
+      "id": "398c77afdf17d1e012ea5919",
+      "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
+      "summary": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs.",
+      "url": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-07T10:37:09+00:00"
+    },
+    {
+      "id": "20965c0f289fb5f58cc81aa7",
+      "title": "Star Fox Fans Can't Believe Nintendo is Remaking the Same Game Yet Again",
+      "summary": "Nintendo fans have been weighing in with their reactions to yesterday's surprise Switch 2 Star Fox reveal — and many can't believe the same game is getting yet another version.",
+      "url": "https://www.ign.com/articles/star-fox-fans-cant-believe-nintendo-is-remaking-the-same-game-yet-again",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-07T10:21:58+00:00"
+    },
+    {
+      "id": "8b9ef7056294afd3b79b5ba2",
+      "title": "Pour tester son IA, Google DeepMind investit dans le studio développant le jeu vidéo « EVE Online »",
+      "summary": "Le studio Fenris Creations, ex-CCP Games, a annoncé à cette occasion avoir racheté son indépendance à son éditeur, le sud-coréen Pearl Abyss. Une transaction s’élevant à 120 millions de dollars.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/07/pour-tester-son-ia-google-deepmind-investit-dans-le-studio-developpant-le-jeu-video-eve-online_6686544_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-07T10:17:21+00:00"
+    },
+    {
+      "id": "c9df3e163bee3b3582d615ce",
+      "title": "DR Congo president hints at extending his term and delaying polls",
+      "summary": "\"If the people want me to have a third term, I will accept,\" Tshisekedi says, with him due to step down in 2028.",
+      "url": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-07T10:06:39+00:00"
+    },
     {
       "id": "f6ebceb27aa42cd098462b82",
       "title": "Islamic State-linked women arrive home in Australia from Syria",
@@ -10,18 +65,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-07T08:06:52+00:00"
+      "publishedAt": "2026-05-07T10:04:50+00:00"
     },
     {
-      "id": "e41fccddd5917b293c859e90",
-      "title": "Shell profits rise as Iran war pushes oil prices higher",
-      "summary": "The energy giant reports profits of $6.92bn for the first three months of the year.",
-      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "id": "01fdf6823f5ee443a34d1946",
+      "title": "Pragmata Tops 2 Million Sales in 16 Days",
+      "summary": "Just a few weeks after revealing that action adventure game Pragmata had sold 1 million copies in just two days, Capcom is back with another sales update: it's now sold over 2 million copies in just 16 days.",
+      "url": "https://www.ign.com/articles/pragmata-tops-2-million-sales-in-16-days",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-07T07:27:08+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-07T09:51:58+00:00"
+    },
+    {
+      "id": "26559642f553242d44f76e26",
+      "title": "James Cameron, Disney Sued Over Unauthorised Use of Actress’ Likeness in Avatar",
+      "summary": "Suit states Cameron has discussed Q’orianka Kilcher as the source behind Neytiri production sketch.",
+      "url": "https://www.ign.com/articles/james-cameron-disney-sued-over-unauthorised-use-of-actress-likeness-in-avatar",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-07T09:51:53+00:00"
+    },
+    {
+      "id": "257d561ea04a7f5516b57536",
+      "title": "Surveillance : les députés élargissent à nouveau le dispositif des « boîtes noires »",
+      "summary": "Le projet de loi actualisant la programmation militaire jusqu’en 2030 a réintroduit deux extensions précédemment censurées de cette technique de surveillance controversée, dont l’analyse des URL complètes.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/07/surveillance-les-deputes-elargissent-a-nouveau-le-dispositif-des-boites-noires_6686538_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-07T09:49:54+00:00"
+    },
+    {
+      "id": "7d4df77344735f71fd0a3ab1",
+      "title": "The Boys Showrunner Eric Kripke Is a Big Fan of Its Weekly Release Schedule, but Thinks Filler Episode Criticism Is One of the 'Side Effects'",
+      "summary": "The Boys is almost over, with just two episodes of the fifth and final season to go. And while there has been plenty to chew on week to week, some fans have said that Season 5 contains too many “filler episodes” that focus on character development over moving the overarching plot forward. As you'd expect, co-creator and showrunner Eric Kripke doesn",
+      "url": "https://www.ign.com/articles/the-boys-showrunner-eric-kripke-is-a-big-fan-of-its-weekly-release-schedule-but-thinks-filler-episode-criticism-is-one-of-the-side-effects",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-07T09:42:49+00:00"
     },
     {
       "id": "b8f96b1418ba130138171fbf",
@@ -32,7 +120,62 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-07T07:09:02+00:00"
+      "publishedAt": "2026-05-07T09:40:24+00:00"
+    },
+    {
+      "id": "9bfa32f50a0e94adc68831bd",
+      "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+      "summary": "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
+      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-07T09:38:04+00:00"
+    },
+    {
+      "id": "032d14a054f6d0c0beda341f",
+      "title": "Nintendo Confirms Switch 2 Star Fox Pricing",
+      "summary": "Following last night's surprise reveal of a new Star Fox game for Switch 2, Nintendo has now confirmed the game's price.",
+      "url": "https://www.ign.com/articles/nintendo-confirms-switch-2-star-fox-pricing",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-07T09:35:38+00:00"
+    },
+    {
+      "id": "82ab74072d054267a37c7afc",
+      "title": "Driver arrested after chasing down child cyclist on footpath",
+      "summary": "Video captures young boy on bike fleeing car that mounts footpath in Washington State",
+      "url": "https://www.bbc.com/news/videos/c9wep78epz8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-07T08:13:36+00:00"
+    },
+    {
+      "id": "dba7a137e8a389ea6b3bc881",
+      "title": "Top BJP leader's aide shot dead in violence after Indian state election",
+      "summary": "Chandranath Rath was personal assistant to Suvendu Adhikari, front runner to become West Bengal's new chief minister.",
+      "url": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-07T08:03:55+00:00"
+    },
+    {
+      "id": "146a345848a6e5560971ccfe",
+      "title": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
+      "summary": "YouTuber Ruhi Çenet was on board the ship, and filmed the announcement made on 12 April.",
+      "url": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-07T06:13:24+00:00"
     },
     {
       "id": "fdb189eb7388d8e39012754c",
@@ -112,8 +255,8 @@
       "publishedAt": "2026-05-07T00:41:21+00:00"
     },
     {
-      "id": "bb3a12c0347394b458dbb89e",
-      "title": "In 'Musk v Altman', this judge will make the final call",
+      "id": "ac2559c9f9ab1e8c09c462fc",
+      "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
       "summary": "The feud has fuelled a costly showdown between two tech titans.",
       "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -343,28 +486,6 @@
       "publishedAt": "2026-05-06T19:58:04+00:00"
     },
     {
-      "id": "22aa931636b5b2283e659c82",
-      "title": "The Beginner-Friendly Terrosor 48V 400W Adult Electric Bike Drops to Just $158 With Free Shipping",
-      "summary": "This sub-$200 ebike can get up to 20mph and features a maximum range of 32 miles.",
-      "url": "https://www.ign.com/articles/terrosor-48v-400w-adult-electric-bike-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-06T19:50:00+00:00"
-    },
-    {
-      "id": "6bc6185d55fbff87a3517967",
-      "title": "Borderlands 4 for PS5 Drops to a New Low Price on Amazon",
-      "summary": "$34 is a great price for this game.",
-      "url": "https://www.ign.com/articles/borderlands-4-for-ps5-drops-to-a-new-low-price-on-amazon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-06T19:34:28+00:00"
-    },
-    {
       "id": "7aea9d846da4a1c40641e6f0",
       "title": "Le retour du réseau social Vine, entre nostalgie et manifeste « anti-IA »",
       "summary": "Dix ans après la fermeture de l’application, le projet diVine, porté par des anciens dirigeants de Twitter, remet en ligne des centaines de milliers d’archives. Et promeut des modèles alternatifs pour les vidéos en ligne.",
@@ -374,39 +495,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-06T19:00:09+00:00"
-    },
-    {
-      "id": "29aadddac2f9d7aaf1175e1e",
-      "title": "Superman Sequel Man of Tomorrow Adds Matthew Lillard to Cast in Mystery Role",
-      "summary": "Scream and Daredevil: Born Again actor Matthew Lillard is joining the all-star cast of the Superman sequel, Man of Tomorrow.",
-      "url": "https://www.ign.com/articles/superman-sequel-man-of-tomorrow-adds-matthew-lillard-to-cast-in-mystery-role",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-06T18:38:27+00:00"
-    },
-    {
-      "id": "8d29378aab9d8513f08fafd2",
-      "title": "Today’s Best Deals: Metaphor: ReFantazio, 39\" LG WQHD OLED Gaming Monitor, and BOGO 50% Off Books",
-      "summary": "Plus, last-minute Mother’s Day gift ideas at a discount",
-      "url": "https://www.ign.com/articles/best-deals-for-may-6-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-06T18:35:00+00:00"
-    },
-    {
-      "id": "c9fa03f23369e688bc4e2697",
-      "title": "This Wearable Cyclops Visor From Marvel Legends Is Straight Out of X-Men ’97",
-      "summary": "Be careful where you look.",
-      "url": "https://www.ign.com/articles/where-to-buy-marvel-legends-cyclops-visor-x-men-97",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-06T18:27:16+00:00"
     },
     {
       "id": "d4ad8883987f092c47bc152c",
@@ -440,17 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-06T13:39:09+00:00"
-    },
-    {
-      "id": "2325a54dd725fa1a9376246b",
-      "title": "Watch: Passengers evacuated from virus-hit cruise ship off Cape Verde",
-      "summary": "The Dutch foreign ministry confirmed that a British, German and Dutch national had now been taken from the virus-hit ship.",
-      "url": "https://www.bbc.com/news/videos/ckgpyn2plx1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-06T12:48:17+00:00"
     },
     {
       "id": "6886de7151a6b3682eaeb85c",
@@ -915,17 +992,6 @@
       "publishedAt": "2026-05-01T21:09:52+00:00"
     },
     {
-      "id": "00eb3bf9d44e02ba33ee58b4",
-      "title": "Oscars : les acteurs et les scénarios générés par IA ne sont pas éligibles, annonce l’Académie",
-      "summary": "Face à la montée de l’intelligence artificielle, l’institution pose une limite claire pour préserver la place des artistes humains dans la course aux Oscars.",
-      "url": "https://www.lemonde.fr/culture/article/2026/05/01/oscars-les-acteurs-et-les-scenarios-generes-par-ia-ne-sont-pas-eligibles-annonce-l-academie_6684752_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-01T19:48:22+00:00"
-    },
-    {
       "id": "767fef2fc59241b964ba0c0a",
       "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
       "summary": "Musk must meet a range of ambitious milestones at Tesla to justify the monster pay packet - so far he has not.",
@@ -935,28 +1001,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-01T16:23:13+00:00"
-    },
-    {
-      "id": "7a5a2a541cb8bcf3b4e524c8",
-      "title": "Le Pentagone recrute sept entreprises d’IA pour des opérations classifiées ; Claude d’Anthropic écartée",
-      "summary": "Face à l’exclusion d’Anthropic, le Pentagone diversifie ses partenaires IA pour renforcer la sécurité nationale tout en cherchant à éviter toute dépendance technologique.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/01/le-pentagone-recrute-sept-entreprises-d-ia-pour-des-operations-classifiees-claude-d-anthropic-ecartee_6684731_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-01T15:30:25+00:00"
-    },
-    {
-      "id": "ea540e414037d6877928b600",
-      "title": "IA : « Au sein de l’entreprise, le cadre conserve son bureau, son écran, son statut, mais son espace de jugement se rétrécit »",
-      "summary": "Le développement de l’intelligence artificielle dans les entreprises promet une taylorisation du travail des cadres, auxquels l’initiative humaine risque d’être progressivement retirée, estiment, dans une tribune au « Monde », le sociologue Alain Caillé et l’anthropologue Jean-Edouard Grésy.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/01/intelligence-artificielle-au-sein-de-l-entreprise-le-cadre-conserve-son-bureau-son-ecran-son-statut-mais-son-espace-de-jugement-se-retrecit_6684727_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-01T15:15:08+00:00"
     },
     {
       "id": "a77866a5962674f1e200e6cb",
