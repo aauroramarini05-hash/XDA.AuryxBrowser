@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-05-08T02:10:23.969437+00:00",
+  "updatedAt": "2026-05-08T05:23:28.664537+00:00",
   "items": [
+    {
+      "id": "fe3b9677f46d8b5b036d844a",
+      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
+      "summary": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
+      "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-08T05:07:55+00:00"
+    },
+    {
+      "id": "742c317918db4a8862e041b0",
+      "title": "From oil giants to banks - these companies are making billions from Iran war",
+      "summary": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
+      "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-08T05:00:29+00:00"
+    },
+    {
+      "id": "3999bef46964e76497fdc093",
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-08T04:28:00+00:00"
+    },
+    {
+      "id": "44f4d9f2dba88075aa38bb0f",
+      "title": "World Cup fans in China and India face broadcast uncertainty",
+      "summary": "Broadcasters in the two countries have yet to reach deals with Fifa, just weeks before the tournament is due to start.",
+      "url": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-08T04:10:45+00:00"
+    },
+    {
+      "id": "6d83b8e473d15ba20563346b",
+      "title": "OpenAI : Quels sont les enjeux du procès qui oppose Elon Musk à Sam Altman ? Comprendre en trois minutes",
+      "summary": "Le patron de Tesla et de SpaceX poursuit en justice Sam Altman, qu’il accuse d’avoir trahi la promesse initiale d’OpenAI, la fondation qu’ils avaient créée ensemble en 2015.",
+      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/05/08/openai-quels-sont-les-enjeux-du-proces-qui-oppose-elon-musk-a-sam-altman-comprendre-en-trois-minutes_6686891_6176282.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-08T04:00:32+00:00"
+    },
+    {
+      "id": "d3269bda7788556a03d54b23",
+      "title": "US to revoke passports of parents with child support debt",
+      "summary": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
+      "url": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-08T02:57:48+00:00"
+    },
     {
       "id": "89c945bd1d718ee197c58965",
       "title": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
@@ -55,17 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-07T23:54:06+00:00"
-    },
-    {
-      "id": "fe3b9677f46d8b5b036d844a",
-      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
-      "summary": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
-      "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-07T23:49:32+00:00"
     },
     {
       "id": "47583c06d4b86d4c64a58d6c",
@@ -739,17 +794,6 @@
       "publishedAt": "2026-05-06T18:00:01+00:00"
     },
     {
-      "id": "b009da73511da6cc0f02b19a",
-      "title": "Trump's hopes for an Iran peace deal come with caveats",
-      "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
-      "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-06T17:32:04+00:00"
-    },
-    {
       "id": "fc6be76dd93085137ba16909",
       "title": "Massive Alaska megatsunami was second largest ever recorded",
       "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
@@ -772,17 +816,6 @@
       "publishedAt": "2026-05-06T11:59:44+00:00"
     },
     {
-      "id": "7af734104bed2b55ce556e21",
-      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-      "summary": "Ukraine's president says Russia has \"spurned the ceasefire\" and Kyiv is deciding on further action to take.",
-      "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-06T11:53:20+00:00"
-    },
-    {
       "id": "9c5f2f9172af81b7b2848432",
       "title": "German police raid neo-Nazi criminal youth groups",
       "summary": "Police search locations in 12 states, mainly in the East and South of the country in what prosecutors say is a targeted raid.",
@@ -803,17 +836,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-06T10:00:07+00:00"
-    },
-    {
-      "id": "55262b70f0c8afe22942e3e2",
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "summary": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-      "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-06T09:35:39+00:00"
     },
     {
       "id": "23e733e678e125a1ffc8fa5d",
@@ -968,17 +990,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-04T04:00:14+00:00"
-    },
-    {
-      "id": "fa53854b52c2bce9508b4bb7",
-      "title": "« Je déteste mon job, mais j’ai l’impression que c’est comme ça partout » : la gen Z raconte un monde du travail violent et fracturé sur le forum AntiTaff",
-      "summary": "Les témoignages anonymes dans cette communauté de Reddit donnent à voir les coulisses de situations professionnelles en pleine perte de sens et apportent aussi soutien et entraide aux salariés désillusionnés.",
-      "url": "https://www.lemonde.fr/campus/article/2026/05/03/je-deteste-mon-job-mais-j-ai-l-impression-que-c-est-comme-ca-partout-sur-reddit-le-monde-du-travail-raconte-par-la-gen-z_6685141_4401467.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-03T08:00:03+00:00"
     },
     {
       "id": "6737ab5b5834dd62cdc1ec86",
