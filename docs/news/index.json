@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-05-09T14:15:37.209214+00:00",
+  "updatedAt": "2026-05-09T15:42:10.912329+00:00",
   "items": [
     {
-      "id": "aeeaf9191404bf1dbcb50d59",
-      "title": "Hungary's new PM sworn in during 'regime change' party",
+      "id": "99974f7cea5984898dd5291f",
+      "title": "'I will serve not rule over Hungary,' says new PM",
       "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
       "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-09T13:58:01+00:00"
+      "publishedAt": "2026-05-09T15:12:04+00:00"
+    },
+    {
+      "id": "b5d64a2de922154f6a94828c",
+      "title": "Aphex Twin, légende de l’électro, connaît une surprenante popularité chez les plus jeunes",
+      "summary": "Les compositions de l’artiste réapparaissent, parfois près de 30 ans après leur sortie, dans des vidéos diffusées massivement sur les réseaux. Une viralité révélatrice de la manière dont la Gen Z découvre, et s’approprie, la musique.",
+      "url": "https://www.lemonde.fr/culture/article/2026/05/09/aphex-twin-legende-de-l-electro-connait-une-surprenante-popularite-chez-les-plus-jeunes_6687476_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-09T15:00:26+00:00"
+    },
+    {
+      "id": "dc82a1404d92ec9d538bf27b",
+      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
+      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-09T14:36:21+00:00"
+    },
+    {
+      "id": "8518ba476ab2314e67c62e85",
+      "title": "Tatiana Maslany Says She-Hulk Would Need Writer Jessica Gao's Involvement for a Proper MCU Return",
+      "summary": "She-Hulk: Attorney at Law star Tatiana Maslany has opened up about what a return for her MCU hero could look like, and what it would take to make it happen.",
+      "url": "https://www.ign.com/articles/tatiana-maslany-says-she-hulk-would-need-writer-jessica-gaos-involvement-for-a-proper-mcu-return",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-09T14:34:43+00:00"
+    },
+    {
+      "id": "ca42b38fcdbe87ec958d1c00",
+      "title": "These Lightsaber Salt and Pepper Grinders Exude Just the Right Amount of Star Wars",
+      "summary": "The spice must flow, Luke.",
+      "url": "https://www.ign.com/articles/these-lightsaber-salt-and-pepper-grinders-exude-just-the-right-amount-of-star-wars",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-09T14:30:00+00:00"
     },
     {
       "id": "e879358eb9a99fe42b7c16cc",
@@ -33,17 +77,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-09T12:12:50+00:00"
-    },
-    {
-      "id": "c23855f880fdf66d1f034a1d",
-      "title": "Australian by-election a litmus test for right-wing One Nation Party",
-      "summary": "Victory for the populist party in Farrer, New South Wales, would see One Nation's first MP elected to Australia's national parliament.",
-      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-09T09:33:27+00:00"
     },
     {
       "id": "f0ea6324e1c8aa1ab827ab36",
@@ -420,17 +453,6 @@
       "publishedAt": "2026-05-08T17:53:25+00:00"
     },
     {
-      "id": "ec295b537809466ebc64fdd8",
-      "title": "How X-Men: Outback Revives a Fan-Favorite '80s Mutant Era",
-      "summary": "The X-Men are returning to one of their boldest and most beloved eras ever as Marvel gears up for the launch of X-Men: Outback. Find out what to expect from this '80s throwback series.",
-      "url": "https://www.ign.com/articles/how-x-men-outback-revives-classic-mutant-era",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-08T17:34:21+00:00"
-    },
-    {
       "id": "eb1b6f3ab0210dfc4c533679",
       "title": "Return of Palestine Marathon attracts thousands of runners",
       "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
@@ -440,17 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-08T17:23:28+00:00"
-    },
-    {
-      "id": "bc47d6a015efc196a83df15d",
-      "title": "Slay the Spire 2 Patch Rips Act 3 Boss Doormaker Out the Game, Developer Explains Decision",
-      "summary": "Slay the Spire 2 developer Mega Crit has released a new major patch for the roguelike deckbuilder sequel that pulls an Act 3 boss out of the game.",
-      "url": "https://www.ign.com/articles/slay-the-spire-2-patch-rips-act-3-boss-doormaker-out-the-game-developer-explains-decision",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-08T16:59:58+00:00"
     },
     {
       "id": "551655a40fb9230ce9df5812",
@@ -935,17 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-06T07:10:16+00:00"
-    },
-    {
-      "id": "a8186dd5cc6d2844ea1c3a85",
-      "title": "IA : Apple accepte de payer 250 millions de dollars après des plaintes l’accusant d’avoir trompé des millions d’acheteurs d’iPhone sur ses capacités",
-      "summary": "Les plaignants reprochaient au géant californien d’avoir « promu des capacités d’IA qui n’existaient pas au moment des faits, n’existent pas aujourd’hui, et n’existeront pas avant deux ans ou plus », selon un document d’accord soumis à la justice.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/06/ia-apple-accepte-de-payer-250-millions-de-dollars-apres-des-plaintes-l-accusant-d-avoir-trompe-des-millions-d-acheteurs-d-iphone-sur-ses-capacites_6685977_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-06T07:04:03+00:00"
     },
     {
       "id": "1415d0e84acd48107ebb7480",
