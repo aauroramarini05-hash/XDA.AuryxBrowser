@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T11:42:18.259239+00:00",
+  "updatedAt": "2026-05-09T12:56:46.454390+00:00",
   "items": [
     {
       "id": "e879358eb9a99fe42b7c16cc",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-09T11:15:40+00:00"
+      "publishedAt": "2026-05-09T12:18:58+00:00"
+    },
+    {
+      "id": "6da8a8dae21102e9bf3d7d7c",
+      "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
+      "summary": "The BBC's Russia editor reports from Moscow, where the annual Victory Day display was quieter than usual.",
+      "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-09T12:12:50+00:00"
     },
     {
       "id": "c23855f880fdf66d1f034a1d",
