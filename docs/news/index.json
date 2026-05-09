@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T16:42:19.860938+00:00",
+  "updatedAt": "2026-05-09T17:42:01.338317+00:00",
   "items": [
     {
       "id": "039866467ca4d195626900d3",
@@ -10,7 +10,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-09T16:21:48+00:00"
+      "publishedAt": "2026-05-09T17:28:59+00:00"
+    },
+    {
+      "id": "b3ea97616ce9a3f06e934771",
+      "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
+      "summary": "The BBC's Russia editor reports from a Red Square with none of the military hardware which the Kremlin normally showcases to project power internationally.",
+      "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-09T17:25:53+00:00"
+    },
+    {
+      "id": "86f5dbfa866fce4341e41d27",
+      "title": "« Je passe mon temps à consulter machinalement mon portable, je suis dépendante et ça me rend triste » : pour vivre heureux, ils vivent « offline »",
+      "summary": "Et si on débranchait tout ? Clubs de marche, de lecture et expériences d’ascèse low-tech se multiplient pour socialiser dans la « vraie vie ». Bienvenue dans le monde « offline », entre fantasme d’une existence analogique et nostalgie d’un monde pré-Internet censément plus simple.",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/05/09/je-passe-mon-temps-a-consulter-machinalement-mon-portable-je-suis-dependante-et-ca-me-rend-triste-pour-vivre-heureux-ils-vivent-offline_6687486_4497916.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-09T17:00:15+00:00"
     },
     {
       "id": "b4852bf319c64fdad679780c",
@@ -90,8 +112,8 @@
       "publishedAt": "2026-05-09T14:03:11+00:00"
     },
     {
-      "id": "e879358eb9a99fe42b7c16cc",
-      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "id": "1f632ad594cbabea3bcd4f29",
+      "title": "Putin denounces Nato at scaled-back Victory Day parade",
       "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
       "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -695,17 +717,6 @@
       "publishedAt": "2026-05-07T23:11:35+00:00"
     },
     {
-      "id": "a3a048dd120d2a8adbf304ea",
-      "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
-      "summary": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
-      "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-07T22:20:56+00:00"
-    },
-    {
       "id": "0c77aa9c88f1715d21fb063b",
       "title": "Crowds cheer China's new snooker star on return from championship win",
       "summary": "Wu Yize, 22, receives a rock star's welcome after becoming second-youngest player to win a world title.",
@@ -759,17 +770,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-07T16:30:55+00:00"
-    },
-    {
-      "id": "f034bf069aad81fb2b63a65a",
-      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-      "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
-      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-07T16:00:05+00:00"
     },
     {
       "id": "5c8503e07898a17c9f08a91b",
@@ -957,17 +957,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-06T10:00:07+00:00"
-    },
-    {
-      "id": "23e733e678e125a1ffc8fa5d",
-      "title": "Cryptomonnaies : « La tech américaine veut sauver le monde grâce à l’IA et… en équipe réduite »",
-      "summary": "Admiratif face aux promesses de l’intelligence artificielle en termes de productivité, Brian Armstrong, patron de Coinbase, plateforme américaine d’échange de cryptomonnaies, prévoit de supprimer 700 postes. C’est sa leçon de management à ses salariés, explique Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/06/cryptomonnaies-la-tech-americaine-veut-sauver-le-monde-grace-a-l-ia-et-en-equipe-reduite_6686097_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-06T09:32:59+00:00"
     },
     {
       "id": "3a8ed2ee0ca1e802ea410f78",
