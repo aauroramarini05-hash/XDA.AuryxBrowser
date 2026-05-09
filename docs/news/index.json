@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-05-08T23:48:00.652993+00:00",
+  "updatedAt": "2026-05-09T02:04:26.100861+00:00",
   "items": [
+    {
+      "id": "0e4c650629596880ef762993",
+      "title": "International cyber attack disrupts swathe of universities and schools",
+      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-09T01:17:55+00:00"
+    },
+    {
+      "id": "1fb87f6aaa1fca2325f34527",
+      "title": "Tech Now",
+      "summary": "Andrew Rogers explores new tech trials helping people stay underwater for longer.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-09T01:00:00+00:00"
+    },
+    {
+      "id": "8ea1dec1ae8afd10dec6c0e6",
+      "title": "Hungary's new PM to be sworn in during 'regime change' party",
+      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-09T00:46:16+00:00"
+    },
+    {
+      "id": "12b5f9902ab6490a7f5503a5",
+      "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+      "summary": "Some on the Spanish island worry that the imminent arrival of the MV Hondius could pose a health risk.",
+      "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-09T00:15:58+00:00"
+    },
+    {
+      "id": "2b955f826447d4173d4e599c",
+      "title": "Anti-work anthems, Boy George and controversial lyrics: A guide to all 35 Eurovision songs",
+      "summary": "From dancefloor bangers to heartfelt ballads, here are the highlights and low points of Eurovision.",
+      "url": "https://www.bbc.com/news/articles/ce8pmrv2p1mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-08T23:01:55+00:00"
+    },
     {
       "id": "b29e315ab182edca54c750e2",
       "title": "Is hojicha the next matcha? The Japanese tea creeping onto menus",
@@ -321,17 +376,6 @@
       "publishedAt": "2026-05-08T16:11:06+00:00"
     },
     {
-      "id": "0e4c650629596880ef762993",
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T16:04:01+00:00"
-    },
-    {
       "id": "551655a40fb9230ce9df5812",
       "title": "US jet fuel could be used in Europe to ease possible shortages",
       "summary": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
@@ -517,17 +561,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-08T01:31:55+00:00"
-    },
-    {
-      "id": "367c6f014ccfdfdf3eccadaf",
-      "title": "'I'd rather live in hiding in the US than return to Somalia'",
-      "summary": "Fear and uncertainty linger for Somali migrants in Minnesota despite a legal reprieve.",
-      "url": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-07T23:54:06+00:00"
     },
     {
       "id": "47583c06d4b86d4c64a58d6c",
@@ -1089,17 +1122,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-03-28T01:00:09+00:00"
-    },
-    {
-      "id": "eb100c3df5b05efd170a0cb2",
-      "title": "Tech Now",
-      "summary": "Alasdair Keane visits the underground insect farm turning food waste into animal feed.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002t71c?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-03-21T01:00:17+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
