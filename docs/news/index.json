@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-05-10T02:04:50.180182+00:00",
+  "updatedAt": "2026-05-10T05:56:14.978439+00:00",
   "items": [
     {
-      "id": "cf4a0a21338f94f3696afdc2",
-      "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
-      "summary": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+      "id": "3d64c0e7d204c26559c3a249",
+      "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
+      "summary": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has docked, after a deadly hantavirus outbreak.",
       "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-10T01:08:51+00:00"
+      "publishedAt": "2026-05-10T05:47:12+00:00"
+    },
+    {
+      "id": "26fd7c43632a3c36eb1bbb25",
+      "title": "Suspected boat explosion injures 11 in Miami",
+      "summary": "Officials are investigating what caused the explosion at a popular marina in southern Florida.",
+      "url": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-10T03:24:44+00:00"
+    },
+    {
+      "id": "a2df6336ab317bb78ea72a66",
+      "title": "Complotisme et désinformation : six livres pour réfléchir au faux sous toutes ses formes",
+      "summary": "Ce printemps, une demi-douzaine de sorties en librairie s’interrogent sur le poids de la désinformation et de la tromperie. Le service des Décodeurs du « Monde » les a lus.",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/10/complotisme-et-desinformation-six-livres-pour-reflechir-au-faux-sous-toutes-ses-formes_6687666_4355770.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-10T03:15:02+00:00"
+    },
+    {
+      "id": "3e175d465d5331d862a416a1",
+      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
+      "summary": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world.",
+      "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-10T03:09:45+00:00"
+    },
+    {
+      "id": "96a9c5b5a20280e95e7c87d1",
+      "title": "How could extreme weather affect World Cup 2026?",
+      "summary": "With almost a month to go until the start of the World Cup Simon King looks ahead to the weather's potential to disrupt the tournament this summer.",
+      "url": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-10T02:56:30+00:00"
     },
     {
       "id": "7de03ae8e4116319ebf17ae7",
@@ -354,17 +398,6 @@
       "publishedAt": "2026-05-09T01:00:00+00:00"
     },
     {
-      "id": "609a3b2945c679a2354113a7",
-      "title": "From trusted aide to biggest rival: Suvendu Adhikari becomes West Bengal chief minister",
-      "summary": "A former ally of Mamata Banerjee, the BJP leader will be West Bengal’s next chief minister.",
-      "url": "https://www.bbc.com/news/articles/cwy2gp1wewjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T23:47:39+00:00"
-    },
-    {
       "id": "2b955f826447d4173d4e599c",
       "title": "Anti-work anthems, Boy George and controversial lyrics: A guide to all 35 Eurovision songs",
       "summary": "From dancefloor bangers to heartfelt ballads, here are the highlights and low points of Eurovision.",
@@ -431,17 +464,6 @@
       "publishedAt": "2026-05-08T22:05:00+00:00"
     },
     {
-      "id": "58dd83161cfa075d91472235",
-      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-      "summary": "The US has published transcripts, video clips and audio recordings about unidentified flying objects.",
-      "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T22:04:55+00:00"
-    },
-    {
       "id": "ace2d886e2024d8425b774b5",
       "title": "Get a 5-Pack of 60W USB Type-C Cables for $7.50 (Averages Out to a Mere $1.50 Per Cable)",
       "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, Apple iPhone 17, or Samsung Galaxy.",
@@ -484,17 +506,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-08T21:35:00+00:00"
-    },
-    {
-      "id": "10ed0fec75551f95f7b16ebe",
-      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
-      "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
-      "url": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T21:02:52+00:00"
     },
     {
       "id": "fd074aa2dbd0f38a64e28fdc",
@@ -574,17 +585,6 @@
       "publishedAt": "2026-05-08T18:55:00+00:00"
     },
     {
-      "id": "b9c3dc05ab232c8583cc2ed3",
-      "title": "Greece examines mystery naval drone found in Ionian Sea",
-      "summary": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
-      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T17:53:25+00:00"
-    },
-    {
       "id": "eb1b6f3ab0210dfc4c533679",
       "title": "Return of Palestine Marathon attracts thousands of runners",
       "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
@@ -594,17 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-08T17:23:28+00:00"
-    },
-    {
-      "id": "551655a40fb9230ce9df5812",
-      "title": "US jet fuel could be used in Europe to ease possible shortages",
-      "summary": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
-      "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T14:42:13+00:00"
     },
     {
       "id": "b2dbae717d6c655511000617",
@@ -618,17 +607,6 @@
       "publishedAt": "2026-05-08T14:25:45+00:00"
     },
     {
-      "id": "9d3338a292d0e3857c2c0e9c",
-      "title": "South Africa president faces call to resign after court ruling",
-      "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
-      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T13:35:56+00:00"
-    },
-    {
       "id": "6ca40efb49b25ce1f5c8ca95",
       "title": "Huge plumes of ash rise as Indonesia's Mount Dukono erupts",
       "summary": "Officials said the group had been hiking up the active volcano despite a climbing ban.",
@@ -640,28 +618,6 @@
       "publishedAt": "2026-05-08T13:15:14+00:00"
     },
     {
-      "id": "5e87ca4f4925b300f41de732",
-      "title": "Three dead after volcano erupts on Indonesian island",
-      "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
-      "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T11:54:14+00:00"
-    },
-    {
-      "id": "6fdbd5e81b5494f85b05960d",
-      "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
-      "summary": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave.",
-      "url": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T11:14:17+00:00"
-    },
-    {
       "id": "cae375578d43514afaf80816",
       "title": "TikTok scales back AI-generated video descriptions after absurd errors",
       "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely.",
@@ -671,28 +627,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-08T09:20:40+00:00"
-    },
-    {
-      "id": "eed77aa6cd538c36bbb8e7e1",
-      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
-      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T08:43:55+00:00"
-    },
-    {
-      "id": "d961792b1e25525acc0629ea",
-      "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
-      "summary": "The Bridesmaids star claims an actress retracted a complaint about sexual harassment by a producer.",
-      "url": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T06:33:35+00:00"
     },
     {
       "id": "6d83b8e473d15ba20563346b",
@@ -946,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-06T11:59:44+00:00"
-    },
-    {
-      "id": "76b605922afaf5294314212c",
-      "title": "« L’extension du vote électronique aux scrutins nationaux doit être envisagée »",
-      "summary": "Dans une tribune au « Monde », Adrien Baborier, président d’un groupe de travail au sein de la Fédération des tiers de confiance du numérique, présente les avantages du vote par Internet qu’il considère comme un levier de revitalisation démocratique majeur face à des taux d’abstention record.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/06/l-extension-du-vote-electronique-aux-scrutins-nationaux-doit-etre-envisagee_6686102_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-06T10:00:07+00:00"
     },
     {
       "id": "3a8ed2ee0ca1e802ea410f78",
