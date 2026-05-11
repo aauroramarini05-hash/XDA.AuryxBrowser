@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-05-11T20:27:46.051452+00:00",
+  "updatedAt": "2026-05-11T21:58:42.999286+00:00",
   "items": [
+    {
+      "id": "99f65f8d8ec403b049f4dd9a",
+      "title": "South African president says he will not step down after impeachment call",
+      "summary": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
+      "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-11T21:44:20+00:00"
+    },
+    {
+      "id": "cb12b87bde852ddebab91cac",
+      "title": "Universal Invites Audiences on a Digital Odyssey for Christopher Nolan’s The Odyssey via Discord",
+      "summary": "Universal Pictures is inviting audiences to embark on a “digital odyssey” for director Christopher Nolan’s The Odyssey by joining the movie’s official Discord server.",
+      "url": "https://www.ign.com/articles/universal-invites-audiences-on-a-digital-odyssey-for-christopher-nolans-the-odyssey-via-discord",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-11T21:32:23+00:00"
+    },
+    {
+      "id": "e32d577abee28864638e3430",
+      "title": "The New Dungeon Crawler Carl Book Releases Tomorrow on All Formats",
+      "summary": "It's off to the races in the eighth Dungeon Crawler Carl novel.",
+      "url": "https://www.ign.com/articles/dungeon-crawler-carl-a-parade-of-horribles-release-date-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-11T21:24:57+00:00"
+    },
+    {
+      "id": "57293bc0908965afa032cc17",
+      "title": "The 77\" LG Evo C5 4K OLED TV Drops to the Lowest Price Ever for My Best Buy Plus Members",
+      "summary": "Coincidentally, MyBestBuy Plus membership is 40% off (now just $29.99).",
+      "url": "https://www.ign.com/articles/best-lg-evo-c5-4k-oled-tv-deal-for-my-best-buy-plus-members",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-11T21:15:00+00:00"
+    },
+    {
+      "id": "0c4eba2631f014b35fcfb0ff",
+      "title": "Watch: Alaska town sees its last sunset until August",
+      "summary": "Residents of Utqiagvik, the United States' northernmost city, will experience 84 days of midnight sun and uninterrupted daylight.",
+      "url": "https://www.bbc.com/news/videos/cgjpg20xgy5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-11T21:05:29+00:00"
+    },
+    {
+      "id": "a49a7c481afa232097876f46",
+      "title": "007 First Light Will Run at 60fps on PS5 Pro",
+      "summary": "007 First Light have addressed the frame rate concerns for the game an confirmed the game can hit 60 FPS with certain settings/hardware.",
+      "url": "https://www.ign.com/articles/007-first-light-will-run-at-60fps-on-ps5-pro",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-11T21:01:56+00:00"
+    },
+    {
+      "id": "99d28cc734d3662fa5fcc355",
+      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+      "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-11T20:49:14+00:00"
+    },
+    {
+      "id": "51434599008a6b66696167b1",
+      "title": "Fast & Furious Has 4 TV Shows Coming to Peacock, According to Vin Diesel",
+      "summary": "The Fast & Furious universe is getting not one, but a whopping *four* shows at Peacock.",
+      "url": "https://www.ign.com/articles/fast-furious-has-4-tv-shows-coming-to-peacock-according-to-vin-diesel",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-11T20:31:00+00:00"
+    },
+    {
+      "id": "4ca0b1065d50c7e6138b1db6",
+      "title": "Gamble With Your Friends Dev Celebrates 1 Million Sales, Says 'Friendslop' Is No Longer a Derogatory Term",
+      "summary": "Gamble With Your Friends has reached 1 million copies sold just one week after its launch on PC, so we checked in with developer TENSTACK to talk about why it's not treating its 'friendslop' game as a \"live service.\"",
+      "url": "https://www.ign.com/articles/gamble-with-your-friends-dev-celebrates-1-million-sales-says-friendslop-is-no-longer-a-derogatory-term",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-11T20:18:23+00:00"
+    },
+    {
+      "id": "ef4cc3910848f04ddf02a6e7",
+      "title": "The Tiny Firebat AM02 Ryzen 5 6600H Mini PC Is a Complete Windows 11 System for Just $225",
+      "summary": "A complete kit preinstalled with the Radeon 660M iGPU, 16GB of DDR5 RAM, 512GB SSD, and Windows 11.",
+      "url": "https://www.ign.com/articles/firebat-am02-mini-pc-deal-may-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-11T20:00:00+00:00"
+    },
+    {
+      "id": "0e459adecc87259f420e68e8",
+      "title": "The Crunchyroll Store Is Having a Massive Manga Sale This Week",
+      "summary": "It's like a double BOGO deal.",
+      "url": "https://www.ign.com/articles/crunchyroll-manga-sale-ani-may-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-11T19:51:10+00:00"
+    },
     {
       "id": "30f808df9f378343d6423a75",
       "title": "Get a Flame Thrower Style Propane Torch Gun for $30",
@@ -233,28 +354,6 @@
       "publishedAt": "2026-05-11T15:50:04+00:00"
     },
     {
-      "id": "93ccad991be8e3c0fdd70fd1",
-      "title": "Star Wars Icons: Darth Vader Now Up for Preorder With a Price Cut on Amazon",
-      "summary": "Star Wars Icons: Darth Vader, a premium book offering a detailed history of the galaxy's greatest villain, is now available to preorder for $162.75 (28% off its original list price of $225). It's set to be released on August 25.",
-      "url": "https://www.ign.com/articles/star-wars-icons-darth-vader-is-up-for-preorder-and-on-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T15:31:27+00:00"
-    },
-    {
-      "id": "83ad5b72ced36e59e0f065eb",
-      "title": "WWE Teaser Might Have Revealed the Gears of War: E-Day Release Date",
-      "summary": "Fans think Gears of War: E-Day could be coming as soon as September, because of a WWE teaser.",
-      "url": "https://www.ign.com/articles/wwe-teaser-might-have-revealed-the-gears-of-war-e-day-release-date",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T15:20:39+00:00"
-    },
-    {
       "id": "741c9bd4734e8e90d98b1992",
       "title": "« L’éducation nationale, empêtrée dans une succession de réformes, peine à suivre le rythme des innovations numériques »",
       "summary": "Dans une tribune au « Monde », l’ingénieur Philippe Bihouix appelle à ne s’appuyer sur le numérique dans le contexte scolaire uniquement lorsqu’il présente des avantages pédagogiques indéniables et éprouvés.",
@@ -264,17 +363,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-11T15:00:11+00:00"
-    },
-    {
-      "id": "b2774af428497da69c2f238e",
-      "title": "Battlestar Galactica: Scattered Hopes Review",
-      "summary": "A tense game of whack-a-mole against endless waves of Cylon attacks, political crises, and ethical dilemmas.",
-      "url": "https://www.ign.com/articles/battlestar-galactica-scattered-hopes-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T15:00:00+00:00"
     },
     {
       "id": "2d8121d320dfc861972913d1",
@@ -299,50 +387,6 @@
       "publishedAt": "2026-05-11T14:22:07+00:00"
     },
     {
-      "id": "75d3794d34cce8bf9ce2b5cc",
-      "title": "Directive 8020 Review",
-      "summary": "The Dark Pictures Anthology's second season is off to a chilling and impressive start.",
-      "url": "https://www.ign.com/articles/directive-8020-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T14:00:00+00:00"
-    },
-    {
-      "id": "56d075d39eed19f229b0755a",
-      "title": "Xbox Game Pass for Discord Nitro Subscribers Officially Announced",
-      "summary": "Xbox and Discord have now officially unveiled the new starter edition of Xbox Game Pass available to Discord Nitro subscribers at no extra cost.",
-      "url": "https://www.ign.com/articles/xbox-game-pass-for-discord-nitro-subscribers-officially-announced",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T13:52:04+00:00"
-    },
-    {
-      "id": "51207e8679d8a149a52c3871",
-      "title": "Stellar Blade 2 Won't Be Published by Sony, Potentially Hinting at Multiplatform Launch",
-      "summary": "The sequel to Stellar Blade will not be published by PlayStation, developer Shift Up has confirmed — something that may point to a multiplatform launch for the forthcoming game.",
-      "url": "https://www.ign.com/articles/stellar-blade-2-wont-be-published-by-sony-potentially-hinting-at-multiplatform-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T13:28:25+00:00"
-    },
-    {
-      "id": "caf195f2346d6b01f8bab213",
-      "title": "Michael Pennington, Who Played Star Wars: Episode VI – Return of the Jedi's Moff Tiaan Jerjerrod, Has Died Aged 82",
-      "summary": "Michael Pennington — better known to Star Wars fans as Return of the Jedi's Moff Tiaan Jerjerrod — has died aged 82.",
-      "url": "https://www.ign.com/articles/michael-pennington-who-played-star-wars-episode-vi-return-of-the-jedis-moff-tiaan-jerjerrod-has-died-aged-82",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T13:18:46+00:00"
-    },
-    {
       "id": "e61c3f4c358c2ccf00668234",
       "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
       "summary": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
@@ -354,17 +398,6 @@
       "publishedAt": "2026-05-11T13:14:30+00:00"
     },
     {
-      "id": "25cf485105854fc1d957494d",
-      "title": "US and French nationals test positive for hantavirus after leaving ship",
-      "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T13:13:22+00:00"
-    },
-    {
       "id": "b8e66d0973d7aa76ea55c771",
       "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
       "summary": "A specialist team helped supply critical medical support to Tristan da Cunha in the South Atlantic.",
@@ -374,17 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-11T12:39:59+00:00"
-    },
-    {
-      "id": "549bd6733a32133baf792e37",
-      "title": "Mouse: P.I. For Hire Sales Update",
-      "summary": "Mouse: P.I. For Hire, the stylish first-person shooter dressed up as a 1930s cartoon, has topped 730,000 sales since its launch in April.",
-      "url": "https://www.ign.com/articles/mouse-pi-for-hire-sales-update",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T11:00:51+00:00"
     },
     {
       "id": "7b4a8e6442c58a1d772b460a",
