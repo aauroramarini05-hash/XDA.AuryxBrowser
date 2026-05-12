@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-05-12T08:42:35.620849+00:00",
+  "updatedAt": "2026-05-12T11:13:22.904401+00:00",
   "items": [
+    {
+      "id": "8bfd2d76e5c8e9c38bf0e4ed",
+      "title": "EU needs to delay social media access for children - von der Leyen",
+      "summary": "She told an EU summit that an expert panel was due to come up with steps on how to protect minors online by July.",
+      "url": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T11:00:34+00:00"
+    },
+    {
+      "id": "4988513b89881784f29978ec",
+      "title": "IA : pas de proposition de loi sur le droit d’auteur à l’ordre du jour de l’Assemblée nationale",
+      "summary": "Le texte, porté par la sénatrice Laure Darcos, visait à aider les industries culturelles et médiatiques à négocier avec les entreprises d’intelligence artificielle des rémunérations pour l’utilisation de leurs contenus.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/12/ia-pas-de-proposition-de-loi-sur-le-droit-d-auteur-a-l-ordre-du-jour-de-l-assemblee-nationale_6688236_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-12T10:42:45+00:00"
+    },
+    {
+      "id": "fcd5a67d2640b77c385945b0",
+      "title": "eBay Rejects GameStop CEO Ryan Cohen's $56 Billion Offer to Buy the Company, Calls It 'Neither Credible nor Attractive'",
+      "summary": "eBay has officially rejected GameStop CEO Ryan Cohen’s $56 billion offer to buy the company.",
+      "url": "https://www.ign.com/articles/ebay-rejects-gamestop-ceo-ryan-cohens-56-billion-offer-to-buy-the-company-calls-it-neither-credible-nor-attractive",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T10:41:16+00:00"
+    },
+    {
+      "id": "937be0c4ac61c13fa0d184a9",
+      "title": "Canvas hack: company pays criminals to delete students' stolen data",
+      "summary": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
+      "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-12T10:31:23+00:00"
+    },
+    {
+      "id": "a02f708478b11d398c549313",
+      "title": "Crimson Desert Dev Pearl Abyss Confirms Plans to 'Broaden the Game to the Next Level' — Including DLC",
+      "summary": "Crimson Desert developer and publisher Pearl Abyss has issued its latest financial results, revealing just how much money the breakout hit adventure game has made for the company, while also confirming plans to explore DLC.",
+      "url": "https://www.ign.com/articles/crimson-desert-dev-pearl-abyss-confirms-plans-to-broaden-the-game-to-the-next-level-including-dlc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T10:28:10+00:00"
+    },
+    {
+      "id": "ce00be1d246139cf75c29968",
+      "title": "Texas accuses Netflix of spying on users, including children",
+      "summary": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
+      "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-12T10:01:54+00:00"
+    },
+    {
+      "id": "8864954c8c3ab4ea6b30988a",
+      "title": "Nintendo Confirms The Legend of Zelda Amiibo Due Later This Year, Featuring Tears of the Kingdom Character",
+      "summary": "As expectation mounts of an Ocarina of Time Switch 2 remake later this year, Nintendo has announced the release date of a new Legend of Zelda amiibo, due to arrive on September 17, priced $34.99.",
+      "url": "https://www.ign.com/articles/nintendo-confirms-the-legend-of-zelda-amiibo-due-later-this-year-featuring-tears-of-the-kingdom-character",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T09:51:32+00:00"
+    },
+    {
+      "id": "e0e05f5be1663e56c9607eb4",
+      "title": "US passengers of hantavirus cruise ship being monitored in Nebraska",
+      "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T09:50:05+00:00"
+    },
+    {
+      "id": "fdcdc76c8451aa11662a3ddd",
+      "title": "No sign of larger hantavirus outbreak, says UN health agency",
+      "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+      "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T09:35:32+00:00"
+    },
+    {
+      "id": "098527d89885506a40f3f7dd",
+      "title": "US in closely guarded talks to open new bases in Greenland",
+      "summary": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
+      "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T09:31:45+00:00"
+    },
+    {
+      "id": "c40aaef7adf244ee1e9b151e",
+      "title": "Reacher Renewed for Fifth Season Ahead of Season Four Premiere",
+      "summary": "You do not mess with the special investigators.",
+      "url": "https://www.ign.com/articles/reacher-renewed-for-fifth-season-ahead-of-season-four-premiere",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T09:08:38+00:00"
+    },
+    {
+      "id": "82943cb265b0f41cace5a5a5",
+      "title": "Lord of the Rings Star Ian McKellen Says Obi-Wan Actor Alec Guinness Told Him to Drop Support for Gay Rights Charity",
+      "summary": "Years before his starring roles in The Lord of the Rings and X-Men, Ian McKellen met with Star Wars' original Obi-Wan actor Alec Guinness, who advised him to drop support for a gay rights charity.",
+      "url": "https://www.ign.com/articles/lord-of-the-rings-star-ian-mckellen-says-obi-wan-actor-alec-guinness-told-him-to-drop-support-for-gay-rights-charity",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T08:59:08+00:00"
+    },
+    {
+      "id": "8d58e02e6b6787f3001ed8ed",
+      "title": "Lies of P Sequel 'Enters Full Production Phase'",
+      "summary": "Neowiz and Round8's Lies of P sequel has now \"entered full production phase.\"",
+      "url": "https://www.ign.com/articles/lies-of-p-sequel-enters-full-production-phase",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T08:52:04+00:00"
+    },
+    {
+      "id": "8204064ca7af227f1883471f",
+      "title": "Sega Cancels Mysterious 'Super Game' 5 Years After It Was Announced, Amid Pull Back From Underperforming Free-to-Play",
+      "summary": "Sega has confirmed it has canceled its mysterious \"Super Game\" as part of a company-wide pull back from free-to-play following weak sales.",
+      "url": "https://www.ign.com/articles/sega-cancels-mysterious-super-game-5-years-after-it-was-announced-amid-pull-back-from-underperforming-free-to-play",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T08:47:48+00:00"
+    },
     {
       "id": "5365c85154e36315e4b268e7",
       "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
@@ -13,6 +167,17 @@
       "publishedAt": "2026-05-12T08:30:52+00:00"
     },
     {
+      "id": "070e2de686d43fe9fca2039d",
+      "title": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+      "summary": "The effective closure of the Strait of Hormuz has severely disrupted global supplies of energy and petrochemicals.",
+      "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T07:46:47+00:00"
+    },
+    {
       "id": "b0080b338f96e803863f3077",
       "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
       "summary": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
@@ -22,6 +187,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-12T07:38:59+00:00"
+    },
+    {
+      "id": "2f059bc066ab4cab086f5992",
+      "title": "The Kabul rehab centre hit by deadly Pakistani strike",
+      "summary": "Pakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.",
+      "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T07:36:36+00:00"
     },
     {
       "id": "9bd24b58d02a4761d895fc26",
@@ -55,17 +231,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-12T06:52:56+00:00"
-    },
-    {
-      "id": "99d28cc734d3662fa5fcc355",
-      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
-      "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-12T05:40:53+00:00"
     },
     {
       "id": "59b0d30b1a166c4871dea0f7",
@@ -121,28 +286,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-12T00:59:12+00:00"
-    },
-    {
-      "id": "098527d89885506a40f3f7dd",
-      "title": "US in closely guarded talks to open new bases in Greenland",
-      "summary": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
-      "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T23:56:11+00:00"
-    },
-    {
-      "id": "18594f952c688304b6667282",
-      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-      "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
-      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T23:31:37+00:00"
     },
     {
       "id": "baeab77ba1401fd805edd75a",
@@ -332,28 +475,6 @@
       "publishedAt": "2026-05-11T20:18:23+00:00"
     },
     {
-      "id": "ef4cc3910848f04ddf02a6e7",
-      "title": "The Tiny Firebat AM02 Ryzen 5 6600H Mini PC Is a Complete Windows 11 System for Just $225",
-      "summary": "A complete kit preinstalled with the Radeon 660M iGPU, 16GB of DDR5 RAM, 512GB SSD, and Windows 11.",
-      "url": "https://www.ign.com/articles/firebat-am02-mini-pc-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T20:00:00+00:00"
-    },
-    {
-      "id": "0e459adecc87259f420e68e8",
-      "title": "The Crunchyroll Store Is Having a Massive Manga Sale This Week",
-      "summary": "It's like a double BOGO deal.",
-      "url": "https://www.ign.com/articles/crunchyroll-manga-sale-ani-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T19:51:10+00:00"
-    },
-    {
       "id": "6553838e5bdc50118c6b22ce",
       "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
       "summary": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
@@ -363,61 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-11T19:37:17+00:00"
-    },
-    {
-      "id": "30f808df9f378343d6423a75",
-      "title": "Get a Flame Thrower Style Propane Torch Gun for $30",
-      "summary": "Make cooking fun again",
-      "url": "https://www.ign.com/articles/flame-thrower-style-propane-torch-gun-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T19:10:00+00:00"
-    },
-    {
-      "id": "90ad8a3f6f6fa13c35e98eb1",
-      "title": "Wordle Game Show Hosted by Savannah Guthrie Gets the Green Light at NBC",
-      "summary": "NBC has greenlit a Wordle game show hosted by Today anchor Savannah Guthrie.",
-      "url": "https://www.ign.com/articles/wordle-game-show-hosted-by-savannah-guthrie-gets-the-green-light-at-nbc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T18:38:48+00:00"
-    },
-    {
-      "id": "e253758f2d5f73d404faed14",
-      "title": "Fallout Season 3 Adds Breaking Bad Star Aaron Paul to Cast",
-      "summary": "Breaking Bad star Aaron Paul has been tapped to join the next season of the highly successful video game adaptation in an undisclosed role.",
-      "url": "https://www.ign.com/articles/fallout-season-3-adds-breaking-bad-star-aaron-paul-to-cast",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T18:34:41+00:00"
-    },
-    {
-      "id": "4181f3fefd9f7215735061e2",
-      "title": "The Powerful Lenovo Legion RTX 5090 Gaming PC Drops to the Lowest Price of the Year",
-      "summary": "The best-in-class RTX 5090 GPU is paired with an Intel Core Ultra 9 CPU and a whopping 64GB of RAM.",
-      "url": "https://www.ign.com/articles/lenovo-legion-tower-7-rtx-5090-gaming-pc-deal-may-2026-new-price-drop",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T18:30:00+00:00"
-    },
-    {
-      "id": "97eb0c000c41acfc155a899c",
-      "title": "Friday the 13th Prequel Series Crystal Lake Gets Release Date",
-      "summary": "",
-      "url": "https://www.ign.com/articles/friday-the-13th-prequel-series-crystal-lake-gets-release-date",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T18:27:42+00:00"
     },
     {
       "id": "6ae151c56201deea9b1cd432",
@@ -451,17 +517,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-11T17:00:09+00:00"
-    },
-    {
-      "id": "3a3afd75dd2c49455d1b8192",
-      "title": "Oil price predicted to remain above $100 for rest of year",
-      "summary": "Investment bank JP Morgan expects oil to remain in the \"low $100s\" even if the Strait of Hormuz were to reopen next month.",
-      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T16:57:15+00:00"
     },
     {
       "id": "01cea9fb39717fc315624e40",
@@ -530,17 +585,6 @@
       "publishedAt": "2026-05-11T14:22:07+00:00"
     },
     {
-      "id": "e61c3f4c358c2ccf00668234",
-      "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
-      "summary": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
-      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T13:14:30+00:00"
-    },
-    {
       "id": "b8e66d0973d7aa76ea55c771",
       "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
       "summary": "A specialist team helped supply critical medical support to Tristan da Cunha in the South Atlantic.",
@@ -550,28 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-11T12:39:59+00:00"
-    },
-    {
-      "id": "7b4a8e6442c58a1d772b460a",
-      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
-      "summary": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
-      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T10:16:50+00:00"
-    },
-    {
-      "id": "6693c74de74ea7eb114cd861",
-      "title": "Police find body believed to be of fugitive Australian shooter",
-      "summary": "A body found in New South Wales is thought to be that of a man wanted over a triple murder.",
-      "url": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T09:44:29+00:00"
     },
     {
       "id": "3139e3aa7fb8f7edb8f433be",
@@ -684,17 +706,6 @@
       "publishedAt": "2026-05-10T21:13:47+00:00"
     },
     {
-      "id": "685cf8b2f05b819473ca5b40",
-      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
-      "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
-      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-10T21:01:17+00:00"
-    },
-    {
       "id": "acd65c1bdb919970c44567a5",
       "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
       "summary": "The BBC reports from the city of Ushuaia, where experts have been sent to investigate the origins of the outbreak.",
@@ -704,17 +715,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-10T20:05:53+00:00"
-    },
-    {
-      "id": "5d8abf9edfca1b636fa9a2c0",
-      "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
-      "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
-      "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-10T19:56:45+00:00"
     },
     {
       "id": "86158b112421372b7a92ba96",
@@ -959,17 +959,6 @@
       "publishedAt": "2026-05-08T19:21:12+00:00"
     },
     {
-      "id": "eb1b6f3ab0210dfc4c533679",
-      "title": "Return of Palestine Marathon attracts thousands of runners",
-      "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
-      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-08T17:23:28+00:00"
-    },
-    {
       "id": "b2dbae717d6c655511000617",
       "title": "En Virginie, la capitale mondiale des data centers confrontée à la contestation croissante des habitants",
       "summary": "Cet Etat de la Côte est des Etats-Unis concentre 12 % des capacités mondiales des centres de données géants essentiels à l’intelligence artificielle, qu’elle a attirés notamment grâce à des exemptions fiscales. Un essor de plus en plus contesté par les riverains, notamment inquiets de leur impact écologique.",
@@ -1036,17 +1025,6 @@
       "publishedAt": "2026-05-07T14:50:37+00:00"
     },
     {
-      "id": "d0de84bc74490f4535ab0944",
-      "title": "Un projet de loi sur les créateurs et l’IA en ballottage à l’Assemblée nationale",
-      "summary": "Un lobbying intense des acteurs de l’intelligence artificielle tente d’empêcher l’examen du projet de loi Darcos par les députés, malgré une pétition de 25 000 créateurs et le soutien de 81 organisations de la culture et des médias.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/07/un-projet-de-loi-sur-les-createurs-et-l-ia-en-ballottage-a-l-assemblee-nationale_6686563_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-07T13:45:12+00:00"
-    },
-    {
       "id": "717fa1601f34587e2ac1210d",
       "title": "Watch: Drone delivers first Amazon parcels in UK",
       "summary": "The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.",
@@ -1089,28 +1067,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-06T11:59:44+00:00"
-    },
-    {
-      "id": "3a8ed2ee0ca1e802ea410f78",
-      "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
-      "summary": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
-      "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-06T07:10:16+00:00"
-    },
-    {
-      "id": "1415d0e84acd48107ebb7480",
-      "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-      "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
-      "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-06T00:15:14+00:00"
     },
     {
       "id": "65ce3ef66629148dad806001",
