@@ -1,16 +1,49 @@
 {
-  "updatedAt": "2026-05-12T13:58:02.342852+00:00",
+  "updatedAt": "2026-05-12T16:18:23.878337+00:00",
   "items": [
     {
-      "id": "a709e792c0acbf3718a94b7c",
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "id": "c241b667499b397d49df15d7",
+      "title": "Majorité numérique : après avoir tergiversé, la Commission européenne prépare une loi",
+      "summary": "Sous pression de dix Etats membres, au premier rang desquels la France, l’exécutif communautaire veut désormais introduire un âge minimal d’accès aux réseaux sociaux. Et évoque un projet de loi pour l’été 2026.",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/12/majorite-numerique-apres-avoir-tergiverse-la-commission-europeenne-prepare-une-loi_6688274_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-12T16:07:43+00:00"
+    },
+    {
+      "id": "fc4bddccd2f5b9c0f2f901db",
+      "title": "Dali ship operator charged over deadly Baltimore bridge collapse",
+      "summary": "Six construction workers were killed and several vehicles plunged into the river after the cargo ship crashed into the bridge.",
+      "url": "https://www.bbc.com/news/articles/cnvpm67ner6o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-12T13:32:32+00:00"
+      "publishedAt": "2026-05-12T15:56:26+00:00"
+    },
+    {
+      "id": "35b7e78810cab4eba6410bac",
+      "title": "Former Tekken Lead Katsuhiro Harada Sets Up Own Company, VS Studio",
+      "summary": "Former Tekken director, Katsuhiro Harada, has established his own game development company, VS Studio.",
+      "url": "https://www.ign.com/articles/former-tekken-lead-katsuhiro-harada-sets-up-own-company-vs-studio",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T15:44:37+00:00"
+    },
+    {
+      "id": "29d3e86550bd0ac044e62d55",
+      "title": "Attend an Exclusive London Screening of Prime Video’s Spider-Noir with IGN",
+      "summary": "",
+      "url": "https://www.ign.com/articles/attend-an-exclusive-london-screening-of-prime-videos-spider-noir-with-ign",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T15:31:36+00:00"
     },
     {
       "id": "9bd083505b28c91c2eb532da",
@@ -21,7 +54,106 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-12T13:19:47+00:00"
+      "publishedAt": "2026-05-12T14:58:18+00:00"
+    },
+    {
+      "id": "5b257581bfd8b8b11351d2d7",
+      "title": "As GTA 6 Trailer 3 Hype Intensifies, Rockstar Tweets About Red Dead Online — And The Internet's Reaction is Exactly as You'd Expect",
+      "summary": "Fans expecting Rockstar to drop Grand Theft Auto 6 Trailer 3 today have reacted in dismay at a new social post from the company — advertising a new event in Red Dead Online.",
+      "url": "https://www.ign.com/articles/as-gta-6-trailer-3-hype-intensifies-rockstar-tweets-about-red-dead-online-and-the-internets-reaction-is-exactly-as-youd-expect",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T14:47:06+00:00"
+    },
+    {
+      "id": "8da811e574f02b7ab42c5790",
+      "title": "GTA VI: The Billion-Dollar Behemoth That Could Crash the Industry",
+      "summary": "",
+      "url": "https://www.ign.com/articles/gta-vi-the-billion-dollar-behemoth-that-could-crash-the-industry",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T14:30:00+00:00"
+    },
+    {
+      "id": "a459e54a2e11477c3e6e43d2",
+      "title": "Une plateforme de LFI visée par une cyberattaque",
+      "summary": "Un pirate a revendiqué, jeudi 7 mai, le vol de données issues de la plateforme Action populaire, lancée à l’occasion de la campagne présidentielle de 2022. La France insoumise dément, mais reconnaît avoir été récemment la cible de « plusieurs attaques cybercriminelles ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/12/une-plateforme-de-lfi-visee-par-une-cyberattaque_6688259_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-12T14:26:21+00:00"
+    },
+    {
+      "id": "5adf52090763a29901ca9c3f",
+      "title": "New Nintendo Switch 2 Bundles Will Let You Beat the Console's Price Rise and Get a Cheaper Game",
+      "summary": "Nintendo has announced a new \"Choose Your Game\" Switch 2 console bundle, which will launch in early June, priced at $499.99.",
+      "url": "https://www.ign.com/articles/new-nintendo-switch-2-bundles-will-let-you-beat-the-consoles-price-rise-and-get-a-cheaper-game",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T14:10:57+00:00"
+    },
+    {
+      "id": "5394de37cc73a224b75d6974",
+      "title": "eBay rejects $55.5bn offer from GameStop",
+      "summary": "The online auction giant said it doubted how the video game retailer would finance its offer.",
+      "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T14:07:18+00:00"
+    },
+    {
+      "id": "a709e792c0acbf3718a94b7c",
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T14:06:08+00:00"
+    },
+    {
+      "id": "0e05724277880aab6f2927e3",
+      "title": "Nothing Phone 4a Pro Review",
+      "summary": "While otherwise fairly modest, the Nothing Phone 4a Pro excels with its photography, competing in another league from $499 devices.",
+      "url": "https://www.ign.com/articles/nothing-phone-4a-pro-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T14:00:00+00:00"
+    },
+    {
+      "id": "ffccea855c2ce230025b3a49",
+      "title": "The Sinking City 2 Preview: A Promising but Inconsistent Eldritch Horror Adventure",
+      "summary": "The Sinking City 2 has made big changes in the hopes of capitalizing on the untapped potential left to float in the void in the first game. A better, more interesting protagonist; a revamped and easier to parse investigation system; and better-paced missions might help this eldritch sequel rise above clever curiosity for fans of tentacle-tinged hor",
+      "url": "https://www.ign.com/articles/the-sinking-city-2-preview-a-promising-but-inconsistent-eldritch-horror-adventure",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T14:00:00+00:00"
+    },
+    {
+      "id": "fb043fb7e80251ac7600ad69",
+      "title": "Project Hail Mary Lands on Digital After Massive Box Office Run",
+      "summary": "Journey among the stars from the comfort of your own couch.",
+      "url": "https://www.ign.com/articles/project-hail-mary-streaming",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-12T13:47:58+00:00"
     },
     {
       "id": "768bb63320064ac653075aa4",
@@ -156,8 +288,8 @@
       "publishedAt": "2026-05-12T11:13:54+00:00"
     },
     {
-      "id": "488e8006cc75f9d3b731c345",
-      "title": "The Lord of the Rings Star Ian McKellen Sounds as Surprised as Anybody That The Hunt for Gollum is Being Made",
+      "id": "f50f089768eb611663ffc4eb",
+      "title": "The Lord of the Rings Star Ian McKellen Sounds as Surprised as Anybody That The Hunt for Gollum Is Being Made",
       "summary": "Lord of the Rings actor Ian McKellen has spoken of his surprise at new Middle-earth movies being made, as he prepares to return to his role as legendary wizard Gandalf in The Hunt for Gollum.",
       "url": "https://www.ign.com/articles/the-lord-of-the-rings-star-ian-mckellen-sounds-as-surprised-as-anybody-that-the-hunt-for-gollum-is-being-made",
       "imageUrl": null,
@@ -176,6 +308,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-12T11:00:34+00:00"
+    },
+    {
+      "id": "6b384c107ab8190c6b332e9a",
+      "title": "Mexico cancels plans to end school year early for World Cup",
+      "summary": "Parents were angry at a proposal to end classes on 5 June instead of 15 July due to the tournament and expected extreme heat.",
+      "url": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T10:52:14+00:00"
     },
     {
       "id": "4988513b89881784f29978ec",
@@ -233,17 +376,6 @@
       "publishedAt": "2026-05-12T10:01:54+00:00"
     },
     {
-      "id": "8864954c8c3ab4ea6b30988a",
-      "title": "Nintendo Confirms The Legend of Zelda Amiibo Due Later This Year, Featuring Tears of the Kingdom Character",
-      "summary": "As expectation mounts of an Ocarina of Time Switch 2 remake later this year, Nintendo has announced the release date of a new Legend of Zelda amiibo, due to arrive on September 17, priced $34.99.",
-      "url": "https://www.ign.com/articles/nintendo-confirms-the-legend-of-zelda-amiibo-due-later-this-year-featuring-tears-of-the-kingdom-character",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-12T09:51:32+00:00"
-    },
-    {
       "id": "e0e05f5be1663e56c9607eb4",
       "title": "US passengers of hantavirus cruise ship being monitored in Nebraska",
       "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
@@ -264,50 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-12T09:35:32+00:00"
-    },
-    {
-      "id": "c40aaef7adf244ee1e9b151e",
-      "title": "Reacher Renewed for Fifth Season Ahead of Season Four Premiere",
-      "summary": "You do not mess with the special investigators.",
-      "url": "https://www.ign.com/articles/reacher-renewed-for-fifth-season-ahead-of-season-four-premiere",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-12T09:08:38+00:00"
-    },
-    {
-      "id": "82943cb265b0f41cace5a5a5",
-      "title": "Lord of the Rings Star Ian McKellen Says Obi-Wan Actor Alec Guinness Told Him to Drop Support for Gay Rights Charity",
-      "summary": "Years before his starring roles in The Lord of the Rings and X-Men, Ian McKellen met with Star Wars' original Obi-Wan actor Alec Guinness, who advised him to drop support for a gay rights charity.",
-      "url": "https://www.ign.com/articles/lord-of-the-rings-star-ian-mckellen-says-obi-wan-actor-alec-guinness-told-him-to-drop-support-for-gay-rights-charity",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-12T08:59:08+00:00"
-    },
-    {
-      "id": "8d58e02e6b6787f3001ed8ed",
-      "title": "Lies of P Sequel 'Enters Full Production Phase'",
-      "summary": "Neowiz and Round8's Lies of P sequel has now \"entered full production phase.\"",
-      "url": "https://www.ign.com/articles/lies-of-p-sequel-enters-full-production-phase",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-12T08:52:04+00:00"
-    },
-    {
-      "id": "8204064ca7af227f1883471f",
-      "title": "Sega Cancels Mysterious 'Super Game' 5 Years After It Was Announced, Amid Pull Back From Underperforming Free-to-Play",
-      "summary": "Sega has confirmed it has canceled its mysterious \"Super Game\" as part of a company-wide pull back from free-to-play following weak sales.",
-      "url": "https://www.ign.com/articles/sega-cancels-mysterious-super-game-5-years-after-it-was-announced-amid-pull-back-from-underperforming-free-to-play",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-12T08:47:48+00:00"
     },
     {
       "id": "5365c85154e36315e4b268e7",
@@ -365,17 +453,6 @@
       "publishedAt": "2026-05-12T07:31:14+00:00"
     },
     {
-      "id": "0775d3837119c70688d04bd2",
-      "title": "Devil May Cry Season 2 Review",
-      "summary": "In Netflix's Devil May Cry Season 2, Vergil proves that two human-demon hybrids are better than one.",
-      "url": "https://www.ign.com/articles/devil-may-cry-season-2-review-netflix",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-12T07:01:00+00:00"
-    },
-    {
       "id": "59b0d30b1a166c4871dea0f7",
       "title": "Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest",
       "summary": "Senator Ronald \"Bato\" Dela Rosa, a former national police chief, has sought refuge in the senate.",
@@ -409,17 +486,6 @@
       "publishedAt": "2026-05-12T03:09:22+00:00"
     },
     {
-      "id": "02255a8af6e5fac297a8d6cb",
-      "title": "The X-Files Reboot Adds Steve Buscemi, Amy Madigan, Ben Foster, and More to Its Cast",
-      "summary": "Ryan Coogler's The X-Files reboot show has reportedly added Steve Buscemi, Amy Madigan, Ben Foster, and more actors to its cast.",
-      "url": "https://www.ign.com/articles/the-x-files-reboot-adds-steve-buscemi-amy-madigan-ben-foster-and-more-to-its-cast",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-12T01:24:33+00:00"
-    },
-    {
       "id": "a91d8cb42ad30b9817a20107",
       "title": "Trump says Iran ceasefire is on 'massive life support'",
       "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
@@ -429,17 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-12T00:59:12+00:00"
-    },
-    {
-      "id": "baeab77ba1401fd805edd75a",
-      "title": "Highly-Recommended Wolfbox Cordless Electric Air Dusters Start at Just $35 Shipped at AliExpress",
-      "summary": "Sold through Wolfbox's official storefront with full warranty and ships from the United States.",
-      "url": "https://www.ign.com/articles/wolfbox-cordless-electric-air-duster-deals-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-11T23:30:00+00:00"
     },
     {
       "id": "b6c31c70ff3328b8ae3ec201",
@@ -552,17 +607,6 @@
       "publishedAt": "2026-05-11T17:00:09+00:00"
     },
     {
-      "id": "01cea9fb39717fc315624e40",
-      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
-      "summary": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee.",
-      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T16:30:04+00:00"
-    },
-    {
       "id": "6a37325829500a1fc61a0c93",
       "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
       "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to be heard.",
@@ -629,17 +673,6 @@
       "publishedAt": "2026-05-11T12:39:59+00:00"
     },
     {
-      "id": "3139e3aa7fb8f7edb8f433be",
-      "title": "Philippine VP Sara Duterte impeached for a second time",
-      "summary": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
-      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T09:28:53+00:00"
-    },
-    {
       "id": "0fa1216ed6eeddf9f04be624",
       "title": "Trump's China visit set to test fragile truce",
       "summary": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
@@ -704,17 +737,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-11T04:00:16+00:00"
-    },
-    {
-      "id": "8b4db3dd4c022de86ae2c58f",
-      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-      "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T01:55:13+00:00"
     },
     {
       "id": "82f71d2c6515d66127d1ecad",
@@ -992,17 +1014,6 @@
       "publishedAt": "2026-05-08T19:21:12+00:00"
     },
     {
-      "id": "b2dbae717d6c655511000617",
-      "title": "En Virginie, la capitale mondiale des data centers confrontée à la contestation croissante des habitants",
-      "summary": "Cet Etat de la Côte est des Etats-Unis concentre 12 % des capacités mondiales des centres de données géants essentiels à l’intelligence artificielle, qu’elle a attirés notamment grâce à des exemptions fiscales. Un essor de plus en plus contesté par les riverains, notamment inquiets de leur impact écologique.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/08/en-virginie-la-capitale-mondiale-des-data-centers-confrontee-a-la-contestation-croissante-des-habitants_6687065_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-08T14:25:45+00:00"
-    },
-    {
       "id": "cae375578d43514afaf80816",
       "title": "TikTok scales back AI-generated video descriptions after absurd errors",
       "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely.",
@@ -1012,17 +1023,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-08T09:20:40+00:00"
-    },
-    {
-      "id": "6d83b8e473d15ba20563346b",
-      "title": "OpenAI : Quels sont les enjeux du procès qui oppose Elon Musk à Sam Altman ? Comprendre en trois minutes",
-      "summary": "Le patron de Tesla et de SpaceX poursuit en justice Sam Altman, qu’il accuse d’avoir trahi la promesse initiale d’OpenAI, la fondation qu’ils avaient créée ensemble en 2015.",
-      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/05/08/openai-quels-sont-les-enjeux-du-proces-qui-oppose-elon-musk-a-sam-altman-comprendre-en-trois-minutes_6686891_6176282.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-08T04:00:15+00:00"
     },
     {
       "id": "32635d7e70e49e280ff57e1e",
