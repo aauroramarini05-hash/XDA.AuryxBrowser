@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-05-12T02:09:35.210844+00:00",
+  "updatedAt": "2026-05-12T05:58:57.390987+00:00",
   "items": [
+    {
+      "id": "99d28cc734d3662fa5fcc355",
+      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+      "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T05:40:53+00:00"
+    },
+    {
+      "id": "59b0d30b1a166c4871dea0f7",
+      "title": "Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest",
+      "summary": "Senator Ronald \"Bato\" Dela Rosa, a former national police chief, has sought refuge in the senate.",
+      "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T04:37:03+00:00"
+    },
+    {
+      "id": "8afc6041acfae8422939ecae",
+      "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+      "summary": "Israel passes a law that permits the death penalty and public trials for those involved in the unprecedented Hamas-led attacks.",
+      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T04:11:42+00:00"
+    },
+    {
+      "id": "5365c85154e36315e4b268e7",
+      "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
+      "summary": "David Malpass also said that Beijing's claim to be a developing nation is no longer credible.",
+      "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-12T03:40:29+00:00"
+    },
+    {
+      "id": "5b64362332a2b692353156c0",
+      "title": "Au procès OpenAI, le récit du pari réussi de Microsoft, « très fier » d’avoir investi alors que « personne d’autre n’était prêt »",
+      "summary": "Satya Nadella, le PDG du géant de la tech, a comparu lundi devant le tribunal d’Oakland dans le cadre du procès civil intenté par Elon Musk contre son entreprise et contre Sam Altman, accusés d’avoir détourné de son objet un projet conçu comme une organisation à but non lucratif.",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/12/au-proces-openai-le-recit-du-pari-reussi-de-microsoft-tres-fier-d-avoir-investi-alors-que-personne-d-autre-n-etait-pret_6688180_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-12T03:09:22+00:00"
+    },
     {
       "id": "02255a8af6e5fac297a8d6cb",
       "title": "The X-Files Reboot Adds Steve Buscemi, Amy Madigan, Ben Foster, and More to Its Cast",
@@ -13,17 +68,6 @@
       "publishedAt": "2026-05-12T01:24:33+00:00"
     },
     {
-      "id": "42a185f4d8db0d1a65f69efc",
-      "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
-      "summary": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
-      "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-12T01:15:03+00:00"
-    },
-    {
       "id": "a91d8cb42ad30b9817a20107",
       "title": "Trump says Iran ceasefire is on 'massive life support'",
       "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
@@ -33,17 +77,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-12T00:59:12+00:00"
-    },
-    {
-      "id": "5365c85154e36315e4b268e7",
-      "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
-      "summary": "David Malpass' comments come as US President Donald Trump and China's Xi Jinping are due to meet in Beijing.",
-      "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-12T00:02:58+00:00"
     },
     {
       "id": "56fabafe5af40f75cfdd0978",
@@ -231,17 +264,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-11T21:01:56+00:00"
-    },
-    {
-      "id": "99d28cc734d3662fa5fcc355",
-      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
-      "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T20:49:14+00:00"
     },
     {
       "id": "51434599008a6b66696167b1",
@@ -728,17 +750,6 @@
       "publishedAt": "2026-05-10T15:59:27+00:00"
     },
     {
-      "id": "dc82a1404d92ec9d538bf27b",
-      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-10T14:37:16+00:00"
-    },
-    {
       "id": "a2df6336ab317bb78ea72a66",
       "title": "Complotisme et désinformation : six livres pour réfléchir au faux sous toutes ses formes",
       "summary": "Ce printemps, une demi-douzaine de sorties en librairie s’interrogent sur le poids de la désinformation et de la tromperie. Le service des Décodeurs du « Monde » les a lus.",
@@ -1034,17 +1045,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-07T13:45:12+00:00"
-    },
-    {
-      "id": "c8ca8651248192c115ff160e",
-      "title": "Revers judiciaire dans une procédure pour l’accessibilité numérique d’un site d’e-commerce : les associations « surprises » et « en colère »",
-      "summary": "Le tribunal judiciaire de Lille a débouté ApiDV et Droit pluriel, qui mettaient en demeure Auchan de rendre son site Internet et son application utilisables par les personnes malvoyantes.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/07/revers-judiciaire-dans-une-procedure-pour-l-accessibilite-numerique-d-un-site-d-e-commerce-les-associations-surprises-et-en-colere_6686562_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-07T13:30:03+00:00"
     },
     {
       "id": "717fa1601f34587e2ac1210d",
