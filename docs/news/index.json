@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-13T23:57:25.083203+00:00",
+  "updatedAt": "2026-05-14T02:53:34.749014+00:00",
   "items": [
+    {
+      "id": "13eeb7b23440604cab14d1c4",
+      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-14T00:38:56+00:00"
+    },
     {
       "id": "c4c8a03c358af372fdc7f431",
       "title": "Why big tech is betting on cute mascots",
@@ -310,20 +321,9 @@
       "publishedAt": "2026-05-13T16:34:31+00:00"
     },
     {
-      "id": "13eeb7b23440604cab14d1c4",
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
-      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-13T15:36:38+00:00"
-    },
-    {
-      "id": "bf95fb817b1877aa39f915f9",
-      "title": "Lockdown in Philippine Senate after gunshots fired",
-      "summary": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge.",
+      "id": "723537f20a0cef8cb19fb27e",
+      "title": "Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up",
+      "summary": "Senator Ronald dela Rosa, a former police chief, enforced former President Rodrigo Duterte's deadly drug war.",
       "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
