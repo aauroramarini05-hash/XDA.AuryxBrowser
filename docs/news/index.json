@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-05-14T13:48:21.885993+00:00",
+  "updatedAt": "2026-05-14T16:05:38.270831+00:00",
   "items": [
     {
-      "id": "71716f75518f4061c92ea2f5",
-      "title": "'Floating armoury' ship reportedly hijacked by Iran",
-      "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
-      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "id": "5e3e91d8d77958f53eb874d2",
+      "title": "Cuba considers $100m US aid offer as energy crisis worsens",
+      "summary": "Cuba says it is unclear if the US aid offer would be in cash or assistance in-kind as shortages hit.",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-14T13:33:20+00:00"
+      "publishedAt": "2026-05-14T16:05:04+00:00"
+    },
+    {
+      "id": "1d94dbdd42630eb62c80f991",
+      "title": "Fortnite Nerfs Lethal Fall Damage in Big Gameplay Shakeup as Overwatch Update Arrives",
+      "summary": "Fortnite's big Overwatch update is here, bringing Tracer, Genji and the gang to Epic Games' battle royale Island. But the changes only begin there — with a major shakeup to gameplay, in Zero Build mode in particular.",
+      "url": "https://www.ign.com/articles/fortnite-nerfs-lethal-fall-damage-in-big-gameplay-shakeup-as-overwatch-update-arrives",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-14T15:20:02+00:00"
+    },
+    {
+      "id": "5ab29028ea65935a8485cc82",
+      "title": "Subnautica 2 Early Access Review",
+      "summary": "This sequel is still in the shallows when it comes to content, but what’s there is well worth the dive.",
+      "url": "https://www.ign.com/articles/subnautica-2-review-early-access",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-14T15:00:00+00:00"
     },
     {
       "id": "6497d05f7184d7ac3c203463",
@@ -21,12 +43,67 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-14T13:18:24+00:00"
+      "publishedAt": "2026-05-14T14:55:44+00:00"
+    },
+    {
+      "id": "555012e3dad39a7955b1d60c",
+      "title": "Spider-Man: Brand New Day Behind the Scenes Footage Shows Off Movie's Practical Effects",
+      "summary": "Sony and Marvel have today revealed just a little bit more of Spider-Man: Brand New Day, with just over two months left to go until the movie's arrival in theaters.",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-behind-the-scenes-footage-shows-off-movies-practical-effects",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-14T14:16:32+00:00"
+    },
+    {
+      "id": "53f30738b8deee21a2900eb6",
+      "title": "« Avec l’IA générative, l’homme a forgé une créature qui le singe dans ce qui constitue son essence même : la capacité à penser, à créer, à décider »",
+      "summary": "L’intelligence artificielle générative a déjà des effets concrets sur le marché du travail : intensification des tâches, capitulation cognitive et destructions d’emplois.",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/14/avec-l-ia-generative-l-homme-a-forge-une-creature-qui-le-singe-dans-ce-qui-constitue-son-essence-meme-la-capacite-a-penser-a-creer-a-decider_6689100_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-14T14:00:06+00:00"
+    },
+    {
+      "id": "478fa27d8b1e7e5c9de25062",
+      "title": "Rock, Paper, Severed Announced for PC",
+      "summary": "Introducing Rock, Paper, Severed – a dark new horror game for 1-4 players that takes the classic game Rock, Paper, Scissors and dials it up to deadly levels. It's all presided over by the mysterious Entity. It's in development for PC and due out later this year.",
+      "url": "https://www.ign.com/articles/rock-paper-severed-announced-for-pc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-14T14:00:00+00:00"
+    },
+    {
+      "id": "a9cdc1831a23defdbca76667",
+      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "summary": "As El Niño develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains.",
+      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-14T13:56:57+00:00"
+    },
+    {
+      "id": "ad30f96d1bdc40199d3b1815",
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-14T13:33:20+00:00"
     },
     {
       "id": "482ae524df3f28206bb79224",
       "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "summary": "A girl is among at least seven killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
+      "summary": "A girl is among at least eight killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
       "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -200,17 +277,6 @@
       "publishedAt": "2026-05-14T09:28:36+00:00"
     },
     {
-      "id": "03c5aeccc0a4bfec6d511d32",
-      "title": "Cuba has run out of diesel and oil, energy minister says",
-      "summary": "The minister says the situation in Cuba is \"extremely tense\", as a US-led blockade of oil to the country causes widespread power cuts.",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-14T09:06:23+00:00"
-    },
-    {
       "id": "81cc6c19251e11beea96242e",
       "title": "What to know as Trump visits Xi in China",
       "summary": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
@@ -354,39 +420,6 @@
       "publishedAt": "2026-05-13T23:22:07+00:00"
     },
     {
-      "id": "bbf69397dbe364dcaeadbcdc",
-      "title": "This Week's Episode of The Boys Features a Foul-Mouthed Marvel Studios Actor Cameo",
-      "summary": "Prime Video's The Boys is coming to a close soon, and in this week's episode, \"The Frenchman, the Female and the Man Called Mother's Milk,\" Chace Crawford's The Deep runs into a very familiar character, judging by the voice at least...",
-      "url": "https://www.ign.com/articles/this-weeks-episode-of-the-boys-features-a-foul-mouthed-marvel-studios-actor-cameo",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-13T22:55:31+00:00"
-    },
-    {
-      "id": "4181f3fefd9f7215735061e2",
-      "title": "The Powerful Lenovo Legion RTX 5090 Gaming PC Drops to the Lowest Price of the Year",
-      "summary": "The best-in-class RTX 5090 GPU is paired with an Intel Core Ultra 9 CPU and a whopping 64GB of RAM.",
-      "url": "https://www.ign.com/articles/lenovo-legion-tower-7-rtx-5090-gaming-pc-deal-may-2026-new-price-drop",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-13T22:40:00+00:00"
-    },
-    {
-      "id": "aecd128a63bf5dc927d10cfd",
-      "title": "Humble's $10 Indie Showcase Bundle Is Absolutely Stacked for PC and Steam Deck Gamers",
-      "summary": "Includes Celeste and The Witness, both IGN Rated 10/10 Masterpiece Games, among others.",
-      "url": "https://www.ign.com/articles/humbles-10-indie-showcase-bundle-is-absolutely-stacked-for-pc-and-steam-deck-gamers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-13T22:20:00+00:00"
-    },
-    {
       "id": "85f7fd4c748a7bdb2c723173",
       "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
       "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut.",
@@ -396,17 +429,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-13T21:14:45+00:00"
-    },
-    {
-      "id": "074f144db73d8f8266d47b3d",
-      "title": "Teenage Sex and Death at Camp Miasma Review",
-      "summary": "I Saw the TV Glow director Jane Schoenbrun’s latest, Teenage Sex and Death at Camp Miasma, is a sexy, silly, sweet, sincere, and stellar horror gem.",
-      "url": "https://www.ign.com/articles/teenage-sex-and-death-at-camp-miasma-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-13T21:00:11+00:00"
     },
     {
       "id": "9cfcc6417c0a6ffc789919ea",
@@ -957,17 +979,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-11T04:00:18+00:00"
-    },
-    {
-      "id": "5684cb6a2a1e54baa78a6df4",
-      "title": "« La promotion de l’e-sport en milieu scolaire voulue par le premier ministre est une aberration »",
-      "summary": "Dans une tribune au « Monde », les coprésidents de la commission Enfants et écrans, Amine Benyamina, psychiatre et addictologue, et Servane Mouton, neurologue, s’indignent du projet de Matignon d’intégrer les jeux vidéo aux parcours scolaires et éducatifs.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/11/la-promotion-de-l-e-sport-en-milieu-scolaire-voulue-par-le-premier-ministre-est-une-aberration_6687945_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-11T04:00:16+00:00"
     },
     {
       "id": "82f71d2c6515d66127d1ecad",
