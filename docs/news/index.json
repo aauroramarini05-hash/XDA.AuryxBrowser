@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-05-14T23:47:16.852434+00:00",
+  "updatedAt": "2026-05-15T02:25:05.411981+00:00",
   "items": [
+    {
+      "id": "4bb3bd0918819dc288db300e",
+      "title": "Xbox Elite 3 Controller Leaks Online",
+      "summary": "Xbox's Elite 3 controller has leaked ahead of its summer showcase event.",
+      "url": "https://www.ign.com/articles/xbox-elite-3-controller-leaks-online",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-15T01:04:47+00:00"
+    },
+    {
+      "id": "2c31a7e252fc7f7d5aa65d77",
+      "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
+      "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-15T01:04:20+00:00"
+    },
+    {
+      "id": "7cb2763cb638fb6310e3b333",
+      "title": "The Batman Part II: Matt Reeves Reveals Full Cast Including Scarlett Johansson and Sebastian Stan",
+      "summary": "Director Matt Reeves has revealed the full cast for The Batman Part II, confirming several rumored actors and announcing surprise additions like Brian Tyree Henry.",
+      "url": "https://www.ign.com/articles/the-batman-part-ii-cast-scarlett-johansson-sebastian-stan",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-14T23:28:26+00:00"
+    },
+    {
+      "id": "ef8687afb1bb2e6b6451ad86",
+      "title": "The UrLife E20 1,000W Peak 48V Adult Electric Bike Drops to $315 with Free Delivery",
+      "summary": "This electric assisted bike can go up to 28mph with an impressive 80 miles max range.",
+      "url": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-may-2026-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-14T23:05:00+00:00"
+    },
     {
       "id": "ba8590f16f4fb69bd4b01f43",
       "title": "Inside the secretive and lucrative world of orchid breeding",
@@ -11,6 +55,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-14T23:03:16+00:00"
+    },
+    {
+      "id": "c8880b3112b9243d5851d76f",
+      "title": "Marathon Reveals New PVE Mode and Big Plans for the Future",
+      "summary": "Marathon is attempting to broaden its playerbase with new offerings, such as a PVE-only mode.",
+      "url": "https://www.ign.com/articles/marathon-reveals-new-pve-mode-and-big-plans-for-the-future",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-14T23:02:39+00:00"
     },
     {
       "id": "92bc8277f0797b60459aff6a",
@@ -44,17 +99,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-14T22:00:00+00:00"
-    },
-    {
-      "id": "2c31a7e252fc7f7d5aa65d77",
-      "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
-      "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-14T21:39:10+00:00"
     },
     {
       "id": "73709cbcd6cf9c97c5df40cf",
@@ -297,50 +341,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-14T16:45:00+00:00"
-    },
-    {
-      "id": "4181f3fefd9f7215735061e2",
-      "title": "The Powerful Lenovo Legion RTX 5090 Gaming PC Drops to the Lowest Price of the Year",
-      "summary": "The best-in-class RTX 5090 GPU is paired with an Intel Core Ultra 9 CPU and a whopping 64GB of RAM.",
-      "url": "https://www.ign.com/articles/lenovo-legion-tower-7-rtx-5090-gaming-pc-deal-may-2026-new-price-drop",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-14T16:45:00+00:00"
-    },
-    {
-      "id": "b816e96a56255ad60cd1575c",
-      "title": "Doctor Who Lands New AMC+ Streaming Home Following Collapse of Disney Deal",
-      "summary": "Veteran British sci-fi series Doctor Who will have a new streaming home on AMC+ from next month onwards.",
-      "url": "https://www.ign.com/articles/doctor-who-lands-new-amc-streaming-home-following-collapse-of-disney-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-14T16:20:50+00:00"
-    },
-    {
-      "id": "62a486d2ac60a6be90268400",
-      "title": "EC Comics Explores the Horrors of War in New Shellshock Anthology",
-      "summary": "Oni Press and EC Comics are teaming up again for Shellshock, a chilling new anthology book that explores the horrors of war.",
-      "url": "https://www.ign.com/articles/ec-comics-explores-the-horrors-of-war-in-new-shellshock-anthology",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-14T16:03:57+00:00"
-    },
-    {
-      "id": "d5064348cc173fe3e28aacef",
-      "title": "Aliens: Fireteam Elite 2 – Full-Mission Gameplay (Prologue) | IGN First",
-      "summary": "Get your first look at work-in-progress gameplay from Aliens: Fireteam Elite 2, the upcoming four-player PvE Xenomorph-hunting third-person shooter sequel, showcasing the entire Prologue mission from the first campaign.",
-      "url": "https://www.ign.com/articles/aliens-fireteam-elite-2-full-mission-gameplay-prologue-ign-first",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-14T16:00:00+00:00"
     },
     {
       "id": "7fc290b3d5d6b001223d70e9",
@@ -1157,10 +1157,10 @@
       "publishedAt": "2026-05-09T12:12:50+00:00"
     },
     {
-      "id": "c298791cad4488a93e1cd15f",
+      "id": "1fb87f6aaa1fca2325f34527",
       "title": "Tech Now",
       "summary": "Andrew Rogers explores new tech trials helping people stay underwater for longer.",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
