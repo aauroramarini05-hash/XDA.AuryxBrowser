@@ -1,16 +1,104 @@
 {
-  "updatedAt": "2026-05-15T11:48:32.666096+00:00",
+  "updatedAt": "2026-05-15T13:45:00.259920+00:00",
   "items": [
     {
-      "id": "9ead7148962c75816dde223a",
-      "title": "Trump and Xi conclude 'very successful' talks but no deals announced",
+      "id": "615fd68b03183dd12261efa3",
+      "title": "Le réseau social X s’engage à traiter les contenus « haineux et terroristes » sous vingt-quatre heures au Royaume-Uni",
+      "summary": "Le régulateur des médias britannique estime que, si les engagements de X sont respectés, le Royaume-Uni disposera de l’un des niveaux de protection les plus élevés de la plateforme dans le monde.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/15/le-reseau-social-x-s-engage-a-traiter-les-contenus-haineux-et-terroristes-sous-vingt-quatre-heures-au-royaume-uni_6689450_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-15T13:31:56+00:00"
+    },
+    {
+      "id": "6b52d0f0795318e12e945d77",
+      "title": "Watch: What did we learn from Trump's visit to China?",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-15T13:25:23+00:00"
+    },
+    {
+      "id": "40cd8c28e03169a0a3f52ce6",
+      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "summary": "Africa's top health agency says around 246 cases have been reported.",
+      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-15T13:23:53+00:00"
+    },
+    {
+      "id": "94173588e2bb5d767337c9fd",
+      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
       "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
       "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-15T11:18:32+00:00"
+      "publishedAt": "2026-05-15T13:00:24+00:00"
+    },
+    {
+      "id": "1f65c6f758c22b98cae47266",
+      "title": "X pledges quicker action on hate and terror content in the UK",
+      "summary": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK.",
+      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-15T12:57:30+00:00"
+    },
+    {
+      "id": "d99e89bdd815c9cb5193df4d",
+      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
+      "summary": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved.",
+      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-15T12:33:56+00:00"
+    },
+    {
+      "id": "5cdbaa1e42ad6cd9a9252f5b",
+      "title": "Forza Horizon 6’s First Festival Playlist Rewards Revealed, Begins May 21",
+      "summary": "Includes the 2008 Mazda Furai.",
+      "url": "https://www.ign.com/articles/forza-horizon-6s-first-festival-playlist-rewards-revealed-begins-may-21",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-15T12:01:56+00:00"
+    },
+    {
+      "id": "67c2a4bf326ec32f3ba2dba7",
+      "title": "Avengers: Infinity War Star Reveals How Marvel Hid the Movie's Mass Character Deaths From Its Actors",
+      "summary": "Marvel star Paul Bettany has said the cast of Avengers: Infinity War only discovered the movie's heart-breaking ending as it was shot, and their beloved MCU characters were turned to dust.",
+      "url": "https://www.ign.com/articles/avengers-infinity-war-star-reveals-how-marvel-hid-the-movies-mass-character-deaths-from-its-actors",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-15T12:00:03+00:00"
+    },
+    {
+      "id": "c207062481fbddb7152517ee",
+      "title": "Expendabelles, the All-Female Spinoff of The Expendables, Is Officially Back On",
+      "summary": "Expendabelles, the “female-driven” spinoff of The Expendables, is officially back on a decade after the first attempt to get it off the ground crashed and burned.",
+      "url": "https://www.ign.com/articles/expendabelles-the-all-female-spinoff-of-the-expendables-is-officially-back-on",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-15T11:58:29+00:00"
     },
     {
       "id": "7c12e6a3ca75cd37c4478359",
@@ -33,17 +121,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-15T10:39:33+00:00"
-    },
-    {
-      "id": "40cd8c28e03169a0a3f52ce6",
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-      "summary": "Africa's top health agency says around 246 cases have been reported.",
-      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-15T10:28:28+00:00"
     },
     {
       "id": "70e936aed11a01abaa5b505b",
@@ -385,39 +462,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-14T19:25:00+00:00"
-    },
-    {
-      "id": "e7bbf2432a7798e7c4aa655b",
-      "title": "We Build LEGO Jurassic Park Jeep Wrangler, the Most Intricate Set I’ve Ever Built",
-      "summary": "The iconic Jurassic Park Jeep Wrangler gets a worthy LEGO set, complete with a Dennis Nedry minifigure.",
-      "url": "https://www.ign.com/articles/we-build-lego-jurassic-park-jeep-wrangler-77984",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-14T19:24:54+00:00"
-    },
-    {
-      "id": "0e9588305a92d1508c702d1f",
-      "title": "LEGO Confirms the First Legend of Zelda Set Is Already Scheduled to Retire",
-      "summary": "Goodbye, sweet Deku Tree.",
-      "url": "https://www.ign.com/articles/lego-confirms-the-first-legend-of-zelda-set-is-already-scheduled-to-retire",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-14T19:15:34+00:00"
-    },
-    {
-      "id": "f4b1ac2dd61271f2d5d3c382",
-      "title": "Brandon Sanderson Confirms a Connection Between Apple TV's Murderbot and His Stormlight Archive Series",
-      "summary": "The Cosmere author confirms that an exec that worked on Murderbot is part of the Stormlight Archive adaptation.",
-      "url": "https://www.ign.com/articles/brandon-sanderson-confirms-a-connection-between-apple-tvs-murderbot-and-his-stormlight-archive-series",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-14T18:39:01+00:00"
     },
     {
       "id": "6ff37bd580d852b92358e2e0",
@@ -816,17 +860,6 @@
       "publishedAt": "2026-05-12T10:31:23+00:00"
     },
     {
-      "id": "ce00be1d246139cf75c29968",
-      "title": "Texas accuses Netflix of spying on users, including children",
-      "summary": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
-      "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-12T10:01:54+00:00"
-    },
-    {
       "id": "2f059bc066ab4cab086f5992",
       "title": "The Kabul rehab centre hit by deadly Pakistani strike",
       "summary": "Pakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.",
@@ -871,17 +904,6 @@
       "publishedAt": "2026-05-11T16:10:18+00:00"
     },
     {
-      "id": "741c9bd4734e8e90d98b1992",
-      "title": "« L’éducation nationale, empêtrée dans une succession de réformes, peine à suivre le rythme des innovations numériques »",
-      "summary": "Dans une tribune au « Monde », l’ingénieur Philippe Bihouix appelle à ne s’appuyer sur le numérique dans le contexte scolaire uniquement lorsqu’il présente des avantages pédagogiques indéniables et éprouvés.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/11/l-education-nationale-empetree-dans-une-succession-de-reformes-peine-a-suivre-le-rythme-des-innovations-numeriques_6688134_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-11T15:00:11+00:00"
-    },
-    {
       "id": "b8e66d0973d7aa76ea55c771",
       "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
       "summary": "A specialist team helped supply critical medical support to Tristan da Cunha in the South Atlantic.",
@@ -891,39 +913,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-11T12:39:59+00:00"
-    },
-    {
-      "id": "88892950729482b29b91299c",
-      "title": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
-      "summary": "Will Grant visited one of the pitches where England captain Harry Kane and his team will call home ahead of the tournament.",
-      "url": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-11T07:53:53+00:00"
-    },
-    {
-      "id": "0b1cf4d76f21e7e8e5343228",
-      "title": "BBC speaks with civilians inside Iran struggling with impact of war",
-      "summary": "Iranian authorities have imposed an internet ban but using trusted sources, special correspondent Fergal Keane hears from those traumatised by conflict and government repression.",
-      "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-10T21:13:47+00:00"
-    },
-    {
-      "id": "6da8a8dae21102e9bf3d7d7c",
-      "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
-      "summary": "The BBC's Russia editor reports from Moscow, where the annual Victory Day display was quieter than usual.",
-      "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-09T12:12:50+00:00"
     },
     {
       "id": "1fb87f6aaa1fca2325f34527",
