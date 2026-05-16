@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-16T10:55:46.923696+00:00",
+  "updatedAt": "2026-05-16T11:44:22.126581+00:00",
   "items": [
+    {
+      "id": "43cdd1170f23bd8d1cb1a2a7",
+      "title": "Freight train and bus crash kills at least eight in Bangkok",
+      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-16T11:21:21+00:00"
+    },
     {
       "id": "a0303c2842a0adbe787c8e7d",
       "title": "Senior IS leader killed in joint operation, US and Nigeria say",
@@ -10,7 +21,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-16T10:42:21+00:00"
+      "publishedAt": "2026-05-16T11:04:36+00:00"
+    },
+    {
+      "id": "b4482c41007294f15e51dd6e",
+      "title": "Cinéma : « L’IA est l’occasion de retrouver une part d’audace »",
+      "summary": "Dans une tribune au « Monde », l’avocat Christophe Bettati, par ailleurs diplômé de la Fémis, estime que « les nouveaux outils n’ont jamais tué les arts » et que l’intelligence artificielle pourrait permettre des expérimentations aujourd’hui impossibles à financer.",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/16/cinema-l-ia-est-l-occasion-de-retrouver-une-part-d-audace_6689879_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-16T11:00:02+00:00"
     },
     {
       "id": "99b4ec253278b1f68ea5ad1a",
@@ -420,17 +442,6 @@
       "publishedAt": "2026-05-15T17:50:00+00:00"
     },
     {
-      "id": "7b1420807bc59f43fa9e321f",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-15T17:47:19+00:00"
-    },
-    {
       "id": "198581d4dd954d9a6f731cd7",
       "title": "Fuite de données chez Pierre et Vacances-Center Parcs : 1,6 million de réservations concernées",
       "summary": "Les données potentiellement exposées concernent le numéro de réservation, les dates et lieu de séjour, les noms des occupants de l’hébergement, leur numéro de téléphone et leur date de naissance.",
@@ -451,17 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-15T16:30:31+00:00"
-    },
-    {
-      "id": "e17f79e3871fd99635554eff",
-      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
-      "summary": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.",
-      "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-15T14:26:27+00:00"
     },
     {
       "id": "615fd68b03183dd12261efa3",
@@ -891,17 +891,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-12T07:36:36+00:00"
-    },
-    {
-      "id": "55cfa34db0a0427203af0448",
-      "title": "Au procès d’OpenAI, le récit du pari réussi de Microsoft, « très fier » d’avoir investi, alors que « personne d’autre n’était prêt »",
-      "summary": "Satya Nadella, le PDG du géant de la tech, a comparu, lundi, devant le tribunal d’Oakland dans le cadre du procès civil intenté par Elon Musk contre son entreprise et contre Sam Altman, accusés d’avoir détourné de son objet un projet conçu comme une organisation à but non lucratif",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/12/au-proces-openai-le-recit-du-pari-reussi-de-microsoft-tres-fier-d-avoir-investi-alors-que-personne-d-autre-n-etait-pret_6688180_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-12T03:09:22+00:00"
     },
     {
       "id": "6a37325829500a1fc61a0c93",
