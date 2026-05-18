@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-05-18T19:26:04.983127+00:00",
+  "updatedAt": "2026-05-18T21:02:54.817887+00:00",
   "items": [
+    {
+      "id": "1aaa585b9f2dca682bd33493",
+      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-18T20:59:57+00:00"
+    },
+    {
+      "id": "4215e33769c4132d50ca5abc",
+      "title": "Save $1,250 Off the Lenovo Legion Pro RTX 5070 Ti Gaming Laptop During the Best Buy Memorial Day Sale",
+      "summary": "Upgrade for Forza Horizon 6.",
+      "url": "https://www.ign.com/articles/lenovo-legion-pro-rtx-5070-ti-gaming-laptop-best-buy-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T20:45:00+00:00"
+    },
     {
       "id": "0c70013589a1037ad2aed98f",
       "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
@@ -10,18 +32,95 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-05-18T19:24:05+00:00"
+      "publishedAt": "2026-05-18T20:44:57+00:00"
     },
     {
-      "id": "6026350c030b0f5f6d49ae10",
-      "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
-      "summary": "Jurors spent nearly a month hearing and viewing evidence in the high-profile trial, where Musk had accused Altman of \"stealing a charity\".",
-      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "id": "8c392b4be62cd94d9f55d3f6",
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T20:25:42+00:00"
+    },
+    {
+      "id": "8ea912b7802059d934ef9d54",
+      "title": "Hope Review",
+      "summary": "Hope review: The Wailing director Na Hong-jin returns with a blast of an alien action thriller.",
+      "url": "https://www.ign.com/articles/hope-review-na-hong-jin",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T20:12:15+00:00"
+    },
+    {
+      "id": "aea3ce870ae89bb678980de8",
+      "title": "Marie-Laure Denis, présidente de la CNIL : « L’Etat a une responsabilité particulière à l’égard des données des Français »",
+      "summary": "« Données personnelles, la grande fuite » (2/9). Face à l’explosion du nombre de violations de données, la présidente de l’autorité administrative annonce, dans un entretien au « Monde », l’intensification des contrôles et des sanctions afin de renforcer la cybersécurité.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/18/marie-laure-denis-presidente-de-la-cnil-l-etat-a-une-responsabilite-particuliere-a-l-egard-des-donnees-des-francais_6691073_4408997.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-18T19:18:58+00:00"
+      "publishedAt": "2026-05-18T20:02:42+00:00"
+    },
+    {
+      "id": "7e1b52ceee4aaca448105721",
+      "title": "Get a 36V 500W Adult Electric Bike for Just $233 Shipped During the AliExpress Memorial Day Sale",
+      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "url": "https://www.ign.com/articles/best-5th-wheel-electric-bike-deal-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T19:55:00+00:00"
+    },
+    {
+      "id": "497d750400fdeacc5906d868",
+      "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
+      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T19:31:18+00:00"
+    },
+    {
+      "id": "6c6c6c6f298d3ddca85a6df7",
+      "title": "Fuites de données : face au tsunami, des Français vulnérables et des autorités impuissantes",
+      "summary": "« Données personnelles, la grande fuite » (1/9). Les chiffres que s’apprête à dévoiler la CNIL, mardi, confirment que le pays subit un nombre record de vols de données. Malgré les dégâts causés par ces piratages, le niveau de sécurité informatique des entreprises et des administrations reste insuffisant.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/18/fuites-de-donnees-face-au-tsunami-des-francais-vulnerables-et-des-autorites-impuissantes_6691074_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-18T19:30:10+00:00"
+    },
+    {
+      "id": "c32db5846c6df6f170c70a72",
+      "title": "The New 2026 Apple iPad Air with M4 Chip Drops to a New All-Time Low Price Ahead of Memorial Day",
+      "summary": "Save $80 off compared to buying it from the Apple Store.",
+      "url": "https://www.ign.com/articles/new-2026-apple-ipad-air-deal-amazon-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T19:05:00+00:00"
+    },
+    {
+      "id": "e768a426e4a531cdd3c57ec8",
+      "title": "Forza Horizon 6 Dev Explains Why Shrines, Temples, and Cherry Blossom Trees Are Indestructible",
+      "summary": "Forza Horizon 6 makes cherry blossom trees and shrines indestructible — here's why.",
+      "url": "https://www.ign.com/articles/forza-horizon-6-dev-explains-why-shrines-temples-and-cherry-blossom-trees-are-indestructible",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T19:00:00+00:00"
     },
     {
       "id": "2c985ab215b17c775e49d190",
@@ -189,17 +288,6 @@
       "publishedAt": "2026-05-18T16:34:39+00:00"
     },
     {
-      "id": "46aaef68f453842536726da4",
-      "title": "At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed",
-      "summary": "One of the six Americans is experiencing symptoms, according to media reports. One province in Congo reports 390 cases.",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T16:20:30+00:00"
-    },
-    {
       "id": "ef58de971bdf9fc8e227133e",
       "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
       "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
@@ -332,17 +420,6 @@
       "publishedAt": "2026-05-18T15:00:00+00:00"
     },
     {
-      "id": "dcc2cca5188f68b2888f6067",
-      "title": "Spider-Noir Star Nicolas Cage Hopes the Show Will Inspire Teens to Seek Out the Great Black and White Films of American Cinema",
-      "summary": "Spider-Noir star Nicolas Cage has said he pushed for the Prime Video superhero series to be shot in color as well as black and white in a bid to appeal to teenagers, who he hopes will be inspired to seek out the great black and white films of American cinema.",
-      "url": "https://www.ign.com/articles/spider-noir-star-nicolas-cage-hopes-the-show-will-inspire-teens-to-seek-out-the-great-black-and-white-films-of-american-cinema",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T14:57:31+00:00"
-    },
-    {
       "id": "2f57fff7e4984bd7334fcf83",
       "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
       "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
@@ -352,50 +429,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-18T14:51:53+00:00"
-    },
-    {
-      "id": "49c2d9d5d4dda5f092c1b6c7",
-      "title": "Warhammer 40,000 Confirms Ready-Painted Terrain for 11th Edition, but Games Workshop Rules Out Ready-Painted Miniatures",
-      "summary": "Games Workshop has shocked Warhammer 40,000 fans by confirming a leak of plans to sell ready-painted terrain for the upcoming 11th Edition of the tabletop wargame, dubbed Armageddon. But after a significant amount of speculation that the company was also set to sell ready-painted miniatures, Games Workshop has now ruled that out.",
-      "url": "https://www.ign.com/articles/warhammer-40000-confirms-ready-painted-terrain-for-11th-edition-but-games-workshop-rules-out-ready-painted-miniatures",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T14:16:34+00:00"
-    },
-    {
-      "id": "1e251073a2d9b4c70585d5cd",
-      "title": "The Hunt for Ben Solo Fan Campaign Takes the Fight to The Mandalorian and Grogu Premiere in Hollywood",
-      "summary": "The Hunt For Ben Solo fan campaign is still going, and its latest stunt saw a truck circle the Mandalorian and Grogu premiere in Hollywood.",
-      "url": "https://www.ign.com/articles/the-hunt-for-ben-solo-fan-campaign-takes-the-fight-to-the-mandalorian-and-grogu-premiere-in-hollywood",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T13:28:21+00:00"
-    },
-    {
-      "id": "aba8c5ce1d1580f4b7ddb0f3",
-      "title": "10 Anime Worth Watching This Spring",
-      "summary": "Highlights from the Spring 2026 anime season.",
-      "url": "https://www.ign.com/articles/best-new-anime-to-watch-spring-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T13:00:00+00:00"
-    },
-    {
-      "id": "c8098d7f9b6c310f15089c86",
-      "title": "GTA 6 Pre-Order Rumor Looks Like a Bust",
-      "summary": "GTA 6 pre-orders were rumored to go live today, May 18, but it looks like those reports were inaccurate.",
-      "url": "https://www.ign.com/articles/gta-6-pre-order-rumor-looks-like-a-bust",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T12:43:58+00:00"
     },
     {
       "id": "b780d800dfe62ca292976d35",
@@ -957,28 +990,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-13T11:52:58+00:00"
-    },
-    {
-      "id": "a651cc6a8180c82ad8b04b2e",
-      "title": "Pédocriminalité : une enquête ouverte sur le forum legarçon.net",
-      "summary": "La section de lutte contre la cybercriminalité du parquet de Paris soupçonne le forum « d’être destiné aux hommes attirés par les mineurs », après qu’il a été signalé par le Haut-Commissariat à l’enfance.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/13/pedocriminalite-une-enquete-ouverte-sur-le-forum-legarcon-net_6688682_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-13T11:13:25+00:00"
-    },
-    {
-      "id": "d0536fce2bba659e417ae35e",
-      "title": "IA : les « ingénieurs missionnés chez les clients », nouveau front de la bataille entre OpenAI, Anthropic ou Mistral",
-      "summary": "Les entreprises d’intelligence artificielle misent sur ces profils pour adapter leurs outils aux cas réels des entreprises.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/13/ia-les-ingenieurs-missionnes-chez-les-clients-nouveau-front-de-la-bataille-entre-openai-anthropic-ou-mistral_6688673_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-13T10:00:06+00:00"
     },
     {
       "id": "654aef75a62a7857a2de5851",
