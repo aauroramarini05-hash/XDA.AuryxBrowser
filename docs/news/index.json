@@ -1,16 +1,126 @@
 {
-  "updatedAt": "2026-05-18T17:26:10.163962+00:00",
+  "updatedAt": "2026-05-18T19:26:04.983127+00:00",
   "items": [
     {
-      "id": "609e16ef51cb9d527da4d8c7",
-      "title": "L’écrivain Abel Quentin propose de créer des espaces sans IA générative",
-      "summary": "Dans son essai « Sanctuaires », l’auteur présente l’intelligence artificielle comme un danger qui pourrait compromettre notre capacité à penser. Pour nous en protéger, il imagine la mise en place d’écoles, de commerces ou d’œuvres ou lieux 100 % humains.",
+      "id": "0c70013589a1037ad2aed98f",
+      "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+      "summary": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-18T19:24:05+00:00"
+    },
+    {
+      "id": "6026350c030b0f5f6d49ae10",
+      "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
+      "summary": "Jurors spent nearly a month hearing and viewing evidence in the high-profile trial, where Musk had accused Altman of \"stealing a charity\".",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-18T19:18:58+00:00"
+    },
+    {
+      "id": "2c985ab215b17c775e49d190",
+      "title": "Stranger Things Creators Say Controversial Season 2 Episode Spin-Off Rumors Are 'Bulls**t'",
+      "summary": "Stranger Things creators the Duffer Brothers have said they would love to redo the show's notorious Season 2 episode \"The Lost Sister\" but the rumors that it was supposed to be a backdoor pilot for a spin-off are \"bulls**t.\"",
+      "url": "https://www.ign.com/articles/stranger-things-creators-controversial-season-2-episode-spin-off-rumors",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T18:44:41+00:00"
+    },
+    {
+      "id": "b29f021d0891267ebca8d5e4",
+      "title": "Actor Tom Kane, Voice of Yoda in Star Wars: The Clone Wars, Has Died at 64",
+      "summary": "Prolific voice actor Tom Kane has died at age 64.",
+      "url": "https://www.ign.com/articles/actor-tom-kane-voice-of-yoda-in-star-wars-the-clone-wars-dead-at-64",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T18:31:43+00:00"
+    },
+    {
+      "id": "84831d930d5dddb0c2432e06",
+      "title": "OpenAI : Elon Musk débouté de ses poursuites contre Sam Altman et Microsoft pour cause de prescription",
+      "summary": "Le PDG de Tesla accusait Sam Altman, à la tête d’OpenAI, et son partenaire Microsoft d’avoir détourné la fondation à but non lucratif afin d’en faire une entreprise commerciale.",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/18/elon-musk-deboute-de-ses-poursuites-contre-openai-pour-cause-de-prescription_6691066_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-18T18:25:53+00:00"
+    },
+    {
+      "id": "a6005b8b666c29b05b5f6b07",
+      "title": "Today’s Top Deals: Radeon RX 9070 XT GPU, ASUS ROG Xbox Ally, Alan Wake 2 for PS5, and More",
+      "summary": "Plus, save on Forza Horizon 6 and a racing wheel ahead of its release tomorrow.",
+      "url": "https://www.ign.com/articles/best-deals-for-may-18-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T18:10:00+00:00"
+    },
+    {
+      "id": "fffc1469dc9bb77db7091c58",
+      "title": "Best Buy Is Giving You a Whole Week to Shop Its Memorial Day Sale",
+      "summary": "We highlight some of our favorite deals in Best Buy's Memorial Day sale 2026, including video games, TVs, and more.",
+      "url": "https://www.ign.com/articles/best-buy-memorial-day-sale-live-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T18:00:06+00:00"
+    },
+    {
+      "id": "8a04470021d52c4e68631a82",
+      "title": "Don't Miss This Phenomenal Price Drop on the FlashForge AD5X Multi-Color 3D Printer at AliExpress",
+      "summary": "You won't find a better built and more feature-rich multi-material 3D printer for well under $250.",
+      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-aliexpress-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T17:40:00+00:00"
+    },
+    {
+      "id": "d752bf9c60cdb8ab05abfb99",
+      "title": "The AMD Radeon 9070 XT Graphics Card Creeps Ever Closer to MSRP During Amazon's Memorial Day Sale",
+      "summary": "Nearly matches the performance of Nvidia's now-$1,000 GeForce RTX 5070 Ti",
+      "url": "https://www.ign.com/articles/gigabyte-amd-radeon-9070-xt-graphics-card-deal-amazon-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T17:20:00+00:00"
+    },
+    {
+      "id": "266bdefe1e81aa015d0da6d9",
+      "title": "Stranger Things Creators Promise They'll Reveal Eleven's Fate in 20 Years",
+      "summary": "Don't worry, the Duffer Brothers will be happy to tell you what happened to Eleven in the Stranger Things finale…if you're willing to wait 20 years.",
+      "url": "https://www.ign.com/articles/stranger-things-creators-promise-say-theyll-reveal-elevens-fate-in-20-years",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T17:10:17+00:00"
+    },
+    {
+      "id": "924eec6629e39204d8e4390b",
+      "title": "L’écrivain Abel Quentin propose de créer des espaces sans IA générative pour préserver notre capacité à penser",
+      "summary": "Dans son essai « Sanctuaires », l’auteur souligne les dangers existentiels que représente l’intelligence artificielle générative, susceptible de compromettre notre capacité à penser et de détruire des millions d’emplois. Pour nous en protéger, il imagine notamment la mise en place d’écoles, de commerces ou d’œuvres ou lieux 100 % humains.",
       "url": "https://www.lemonde.fr/idees/article/2026/05/18/l-ecrivain-abel-quentin-propose-de-creer-des-espaces-sans-ia-generative_6691022_3232.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-18T17:00:01+00:00"
+      "publishedAt": "2026-05-18T17:00:00+00:00"
     },
     {
       "id": "9ca9455d6dc741855fa4dae6",
@@ -288,61 +398,6 @@
       "publishedAt": "2026-05-18T12:43:58+00:00"
     },
     {
-      "id": "3553086719b9d84ed51336cd",
-      "title": "LEGO Batman: Legacy of the Dark Knight Early Access and Full Release Times Confirmed",
-      "summary": "Warner Bros. Games has confirmed the LEGO Batman: Legacy of the Dark Knight early access and full release times globally. Here's when you'll be able to play in your timezone.",
-      "url": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-early-access-and-full-release-times-confirmed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T12:10:55+00:00"
-    },
-    {
-      "id": "24d5fd76596e6a3d9afbcfbd",
-      "title": "Forza Horizon 6 Global Release Times and Preload Details Confirmed",
-      "summary": "Forza Horizon 6 developer Playground has confirmed the global release times for the full launch of the hotly anticipated racing game.",
-      "url": "https://www.ign.com/articles/forza-horizon-6-global-release-times-early-access-and-preload-details-confirmed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T12:00:00+00:00"
-    },
-    {
-      "id": "e7d1a87b4c98f901af12cb05",
-      "title": "Lego Batman: Legacy of the Dark Knight Review",
-      "summary": "A strong open-world Gotham and trademark slapstick humour powers a fantastic plastic parody of the Caped Crusader's greatest hits. Our review of Lego Batman: Legacy of the Dark Knight.",
-      "url": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T12:00:00+00:00"
-    },
-    {
-      "id": "b5b7c8e2ef5e3a16dd7ce3df",
-      "title": "Subnautica 2 Dev Gives Players Hope Amid the Game's First Hot Topic Following Launch",
-      "summary": "Fresh from its huge early access launch, underwater survival and crafting adventure game Subnautica 2 has sparked a significant debate among fans: to kill or not to kill the fish.",
-      "url": "https://www.ign.com/articles/subnautica-2-dev-gives-players-hope-amid-the-games-first-hot-topic-following-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T11:37:57+00:00"
-    },
-    {
-      "id": "aed057670cb97a11532536e1",
-      "title": "Take-Two Boss Says Borderlands' Last-Minute Art Style Change Cost $50 Million, but Without It the Game Would Have Flopped",
-      "summary": "Borderlands’ well-documented 11th hour art style change cost Take-Two an extra $50 million in development costs and delayed the game by a year, but without it the now successful franchise would have flopped straight out the gate.",
-      "url": "https://www.ign.com/articles/take-two-boss-says-borderlands-last-minute-art-style-change-cost-50-million-but-without-it-the-game-would-have-flopped",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T10:39:59+00:00"
-    },
-    {
       "id": "b780d800dfe62ca292976d35",
       "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
       "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
@@ -354,17 +409,6 @@
       "publishedAt": "2026-05-18T09:58:35+00:00"
     },
     {
-      "id": "1f58986e30a5c7d9d4d24b1b",
-      "title": "Terraria Marks 15 Years and 70 Million Players With a Promise to Continue Updates Beyond 1.4.6 and Crossplay Patch",
-      "summary": "Terraria developer Re-Logic has confirmed that updates will continue \"beyond\" the 1.4.6 update and the upcoming crossplay patch, and will share \"other plans and ideas [...] when the time is right.\"",
-      "url": "https://www.ign.com/articles/terraria-marks-15-years-and-70-million-players-with-a-promise-to-continue-updates-beyond-146-and-crossplay-patch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T09:42:03+00:00"
-    },
-    {
       "id": "525358e16e4276bdaae3df95",
       "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
       "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
@@ -374,17 +418,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-18T09:33:53+00:00"
-    },
-    {
-      "id": "64df26977517e6a4c21d648e",
-      "title": "GTA 6 Release Date About 18 Months Behind Original Target, Take-Two Boss Reveals, Suggesting Spring 2025 Was Once the Goal Internally",
-      "summary": "Take-Two CEO Strauss Zelnick has said GTA 6 is about 18 months behind its original release date, suggesting spring 2025 was once the internal target.",
-      "url": "https://www.ign.com/articles/gta-6-release-date-about-18-months-behind-original-target-take-two-boss-reveals-suggesting-spring-2025-was-once-the-goal-internally",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T08:58:00+00:00"
     },
     {
       "id": "7d30ade14fe9ac0dcea0d477",
@@ -948,17 +981,6 @@
       "publishedAt": "2026-05-13T10:00:06+00:00"
     },
     {
-      "id": "5876ed5f11a70da8102277f2",
-      "title": "Le marché des idées, ou l’illusion de la libre concurrence entre les opinions",
-      "summary": "Née aux Etats-Unis au début du XXᵉ siècle, l’expression suggère que c’est par la confrontation vertueuse avec d’autres que les meilleures idées, comme les meilleurs produits, s’imposent. Cette conception justifie aujourd’hui le refus de toute régulation de l’espace public.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/13/le-marche-des-idees-ou-l-illusion-de-la-libre-concurrence-entre-les-opinions_6688654_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-13T08:00:03+00:00"
-    },
-    {
       "id": "654aef75a62a7857a2de5851",
       "title": "More than 70 million warnings sent to people seeking child abuse material",
       "summary": "The messages highlight the illegality of what people are searching for online and direct them towards help.",
@@ -970,17 +992,6 @@
       "publishedAt": "2026-05-13T06:04:14+00:00"
     },
     {
-      "id": "642c1d82c4729d5b4cb8d9b9",
-      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-      "summary": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns.",
-      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-13T05:01:07+00:00"
-    },
-    {
       "id": "daf25b04d4db7e95a38587f3",
       "title": "Tech Life",
       "summary": "Crumbling roads and other hazards - can AI make our streets safer?",
@@ -990,17 +1001,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-12T19:45:00+00:00"
-    },
-    {
-      "id": "5a16483164326b0069a09b0c",
-      "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-      "summary": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
-      "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-12T18:51:56+00:00"
     },
     {
       "id": "1fb87f6aaa1fca2325f34527",
