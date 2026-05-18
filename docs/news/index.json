@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-05-18T02:32:17.770200+00:00",
+  "updatedAt": "2026-05-18T06:46:52.967853+00:00",
   "items": [
+    {
+      "id": "193e4fccc575709951541a58",
+      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T06:15:40+00:00"
+    },
+    {
+      "id": "76c8ea63162648b38bc50da7",
+      "title": "Iron Lung Will Be Available to Watch on YouTube This Month",
+      "summary": "The horror game adaptation grossed over $50 million at cinemas earlier this year.",
+      "url": "https://www.ign.com/articles/iron-lung-will-be-available-to-watch-on-youtube-this-month",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T05:28:19+00:00"
+    },
+    {
+      "id": "525358e16e4276bdaae3df95",
+      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+      "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
+      "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-18T05:19:27+00:00"
+    },
+    {
+      "id": "b780d800dfe62ca292976d35",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T03:53:36+00:00"
+    },
+    {
+      "id": "fbb25ebc065c1b22829f89e2",
+      "title": "'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak",
+      "summary": "Kami Rita Sherpa and Lakpa Sherpa summited Everest for the 32nd and 11th time, respectively.",
+      "url": "https://www.bbc.com/news/articles/c3927ejpj4eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T03:51:59+00:00"
+    },
+    {
+      "id": "5daafceea1e7d50ba7693ce9",
+      "title": "Aussies: Take the IGN 30 \"Generations in Play\" Survey and Tell Your Story",
+      "summary": "",
+      "url": "https://www.ign.com/articles/aussies-take-the-ign-30-generations-in-play-survey-and-tell-your-story",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-18T03:24:04+00:00"
+    },
+    {
+      "id": "18fc4d8cc340f49b876845eb",
+      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
+      "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
+      "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T03:08:13+00:00"
+    },
     {
       "id": "4dcd3eacf2be6d151f0f9d93",
       "title": "Gîtes de France annonce à son tour avoir été visé par une cyberattaque, après les groupes Pierre et Vacances-Center Parcs et Belambra",
@@ -11,17 +88,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-18T01:17:53+00:00"
-    },
-    {
-      "id": "193e4fccc575709951541a58",
-      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T01:10:06+00:00"
     },
     {
       "id": "a80bf5079f723b62be468223",
@@ -132,17 +198,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-17T19:33:15+00:00"
-    },
-    {
-      "id": "b780d800dfe62ca292976d35",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-17T19:23:20+00:00"
     },
     {
       "id": "bdd0a4543e849c86b623dfa6",
@@ -376,17 +431,6 @@
       "publishedAt": "2026-05-16T17:01:53+00:00"
     },
     {
-      "id": "e51a13327fbe8f3d90fcdd56",
-      "title": "Whale found dead near Danish island after German rescue operation",
-      "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress.",
-      "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-16T17:01:28+00:00"
-    },
-    {
       "id": "090a60a0cf8e380501e76ee6",
       "title": "John Rambo Prequel Movie Casts James Franco in Small Role",
       "summary": "Upcoming action movie prequel John Rambo has reportedly added James Franco to its cast.",
@@ -475,17 +519,6 @@
       "publishedAt": "2026-05-16T13:00:00+00:00"
     },
     {
-      "id": "a0303c2842a0adbe787c8e7d",
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-16T11:44:54+00:00"
-    },
-    {
       "id": "b4482c41007294f15e51dd6e",
       "title": "Cinéma : « L’IA est l’occasion de retrouver une part d’audace »",
       "summary": "Dans une tribune au « Monde », l’avocat Christophe Bettati, par ailleurs diplômé de la Fémis, estime que « les nouveaux outils n’ont jamais tué les arts » et que l’intelligence artificielle pourrait permettre des expérimentations aujourd’hui impossibles à financer.",
@@ -517,28 +550,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-15T22:00:00+00:00"
-    },
-    {
-      "id": "4218da74a5ef7b44773961e2",
-      "title": "Sam Raimi Set to Direct Magic Remake With Script from Send Help Writers",
-      "summary": "Sam Raimi has been tapped as director for a modern adaptation of the 1978 puppet horror movie, Magic, and some of the crew behind Send Help is coming with him.",
-      "url": "https://www.ign.com/articles/sam-raimi-directing-magic-remake-with-send-help-writers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-15T21:52:47+00:00"
-    },
-    {
-      "id": "0329ab34a8c7553767a21994",
-      "title": "Hyrule Warriors: Age of Imprisonment for Nintendo Switch 2 Is $20 Off at Best Buy",
-      "summary": "Save $30 if you're a My Best Buy Plus member.",
-      "url": "https://www.ign.com/articles/hyrule-warriors-age-of-imprisonment-deal-for-nintendo-switch-2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-15T21:50:00+00:00"
     },
     {
       "id": "198581d4dd954d9a6f731cd7",
@@ -891,17 +902,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-12T16:07:42+00:00"
-    },
-    {
-      "id": "40183a55c42fef2f69f11c9d",
-      "title": "Canvas hack: Company pays criminals to delete students' stolen data",
-      "summary": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
-      "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-12T10:31:23+00:00"
     },
     {
       "id": "1fb87f6aaa1fca2325f34527",
