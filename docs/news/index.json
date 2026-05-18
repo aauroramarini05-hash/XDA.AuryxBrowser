@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-05-17T23:51:01.402435+00:00",
+  "updatedAt": "2026-05-18T02:32:17.770200+00:00",
   "items": [
+    {
+      "id": "4dcd3eacf2be6d151f0f9d93",
+      "title": "Gîtes de France annonce à son tour avoir été visé par une cyberattaque, après les groupes Pierre et Vacances-Center Parcs et Belambra",
+      "summary": "Un hackeur a revendiqué avoir dérobé des données de réservations du réseau d’hébergement s’étalant sur plus de trente ans, de 1995 à 2026. « Aucune donnée bancaire n’a pu être collectée », assure Gîtes de France.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/18/gites-de-france-annonce-a-son-tour-avoir-ete-vise-par-une-cyberattaque-apres-les-groupes-pierre-et-vacances-center-parcs-et-belambra_6690376_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-18T01:17:53+00:00"
+    },
+    {
+      "id": "193e4fccc575709951541a58",
+      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T01:10:06+00:00"
+    },
+    {
+      "id": "a80bf5079f723b62be468223",
+      "title": "Moment two fighter jets collide mid-air at US air show",
+      "summary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
+      "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T00:49:25+00:00"
+    },
     {
       "id": "2e4570376bff80d3c4d6d175",
       "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
@@ -44,17 +77,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-17T21:48:13+00:00"
-    },
-    {
-      "id": "193e4fccc575709951541a58",
-      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-17T21:14:27+00:00"
     },
     {
       "id": "1de2e6642968e675265c0b7a",
@@ -475,17 +497,6 @@
       "publishedAt": "2026-05-16T11:00:02+00:00"
     },
     {
-      "id": "52fb221849b24952bbcec999",
-      "title": "US planning to charge ex-Cuban leader Raúl Castro",
-      "summary": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
-      "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-16T01:37:27+00:00"
-    },
-    {
       "id": "37934ce515c62d0000c36b20",
       "title": "Tech Now",
       "summary": "Adrienne Murray explores how new 3D imaging is supporting heart procedures.",
@@ -495,17 +506,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-16T01:00:00+00:00"
-    },
-    {
-      "id": "e38153773e980f2e70b1921d",
-      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-      "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
-      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-15T23:04:33+00:00"
     },
     {
       "id": "468486c271a3044cbd8a6fcf",
@@ -891,17 +891,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-12T16:07:42+00:00"
-    },
-    {
-      "id": "a459e54a2e11477c3e6e43d2",
-      "title": "Une plateforme de LFI visée par une cyberattaque",
-      "summary": "Un pirate a revendiqué, jeudi 7 mai, le vol de données issues de la plateforme Action populaire, lancée à l’occasion de la campagne présidentielle de 2022. La France insoumise dément, mais reconnaît avoir été récemment la cible de « plusieurs attaques cybercriminelles ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/12/une-plateforme-de-lfi-visee-par-une-cyberattaque_6688259_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-12T14:26:21+00:00"
     },
     {
       "id": "40183a55c42fef2f69f11c9d",
