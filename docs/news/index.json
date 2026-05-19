@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-05-19T10:33:25.655809+00:00",
+  "updatedAt": "2026-05-19T13:51:41.281856+00:00",
   "items": [
     {
-      "id": "64cb9eb194df43ac40ca9a78",
-      "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+      "id": "abe20cb40289fab3bdc490a7",
+      "title": "Son of Mango boss arrested over father's fatal fall from cliff",
+      "summary": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona.",
+      "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T12:32:33+00:00"
+    },
+    {
+      "id": "b7b7d4d53f2937073a1859d7",
+      "title": "Father-of-8 killed in San Diego mosque shooting hailed as a hero",
+      "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\".",
+      "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T12:30:48+00:00"
+    },
+    {
+      "id": "ae5c52dce217b6af6c95c043",
+      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+      "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
+      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T12:24:50+00:00"
+    },
+    {
+      "id": "c3f58b1dd975c86263b515c0",
+      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
       "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
       "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-19T10:15:46+00:00"
+      "publishedAt": "2026-05-19T12:24:07+00:00"
+    },
+    {
+      "id": "5365534260bfa02a7b931030",
+      "title": "The 10 Best Fantasy Anime Series of All Time",
+      "summary": "The 10 best fantasy anime series of all time: Let’s go on an adventure.",
+      "url": "https://www.ign.com/articles/best-fantasy-anime-series-of-all-time",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T12:00:00+00:00"
+    },
+    {
+      "id": "44d4093c04f32fd79419b907",
+      "title": "Steam Adds, Edits, and Removes Dozens of Store Tags",
+      "summary": "Steam has changed the official tags you'll find attached to games on Valve's digital storefront.",
+      "url": "https://www.ign.com/articles/steam-adds-edits-and-removes-dozens-of-store-tags",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T11:57:34+00:00"
+    },
+    {
+      "id": "9b64e53c9c06466263fa7673",
+      "title": "Fortnite Is Back on the App Store Across the World",
+      "summary": "Fortnite is back on the App Store, with Epic boss Tim Sweeney declaring \"the beginning of the end of the Apple Tax worldwide.\"",
+      "url": "https://www.ign.com/articles/fortnite-is-back-on-the-app-store-across-the-world",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T11:52:51+00:00"
+    },
+    {
+      "id": "614147a4dfc724205c1c155f",
+      "title": "Anti-government demonstrators and police clash in Bolivia",
+      "summary": "Protesters have been calling for the president to resign after weeks-long unrest.",
+      "url": "https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T11:37:51+00:00"
+    },
+    {
+      "id": "288a76b6ff2e9708ed1b333a",
+      "title": "PC Gamers React to Sony Making Its Narrative Single-Player Games PlayStation Exclusive",
+      "summary": "PC gamers are reacting to Sony making its narrative single-player games PlayStation exclusive.",
+      "url": "https://www.ign.com/articles/pc-gamers-react-to-sony-making-its-narrative-single-player-games-playstation-exclusive",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T11:34:48+00:00"
+    },
+    {
+      "id": "4110bb914e64a2fda2ae2b8e",
+      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
+      "summary": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
+      "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-19T11:05:09+00:00"
+    },
+    {
+      "id": "b3a836cfbb6b7c186aa70bf6",
+      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+      "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
+      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T10:58:23+00:00"
+    },
+    {
+      "id": "90dfaf0bf594db425d45c7b9",
+      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+      "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T10:46:50+00:00"
     },
     {
       "id": "932b091c85efe53f15f5da05",
@@ -21,7 +142,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-19T10:04:58+00:00"
+      "publishedAt": "2026-05-19T10:37:43+00:00"
+    },
+    {
+      "id": "dd3948a807002fa3ed82cbe0",
+      "title": "Doom Soundtrack Inducted Into the National Recording Registry",
+      "summary": "The soundtrack of the original 1993 Doom has been inducted into the National Recording Registry.",
+      "url": "https://www.ign.com/articles/doom-soundtrack-inducted-into-the-national-recording-registry",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T10:21:34+00:00"
+    },
+    {
+      "id": "4f319a62a354b168e957a815",
+      "title": "Games Workshop Had a Cheeky Response to One of the Most-Asked Warhammer 40,000 Lore Questions From Fans",
+      "summary": "One of the biggest — if not biggest — questions from fans of Warhammer 40,000 lore is: who will be the next returning loyalist primarch? In a rare Q&A video, Games Workshop actually addressed the question — but failed to provide a meaningful answer.",
+      "url": "https://www.ign.com/articles/games-workshop-had-a-cheeky-response-to-one-of-the-most-asked-warhammer-40000-lore-questions-from-fans",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T10:19:04+00:00"
     },
     {
       "id": "e3ae1cc1ae2ad8d17d5e3667",
@@ -55,17 +198,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-19T09:52:32+00:00"
-    },
-    {
-      "id": "c07d0c64e585f29d158f4da7",
-      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
-      "summary": "The Global Sumud Flotilla says commandos have intercepted more than 40 boats trying to breach the Gaza maritime blockade since Tuesday.",
-      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T09:38:27+00:00"
     },
     {
       "id": "90c37e729a8dcd3e806c80b0",
@@ -110,17 +242,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-19T07:17:15+00:00"
-    },
-    {
-      "id": "e2adbc2ba46db81810f6dbfe",
-      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-      "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
-      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T07:07:55+00:00"
     },
     {
       "id": "7792aef242fe0e0e6e6b3df9",
@@ -376,17 +497,6 @@
       "publishedAt": "2026-05-18T21:14:12+00:00"
     },
     {
-      "id": "90dfaf0bf594db425d45c7b9",
-      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
-      "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
-      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T21:09:07+00:00"
-    },
-    {
       "id": "4215e33769c4132d50ca5abc",
       "title": "Save $1,250 Off the Lenovo Legion Pro RTX 5070 Ti Gaming Laptop During the Best Buy Memorial Day Sale",
       "summary": "Upgrade for Forza Horizon 6.",
@@ -420,17 +530,6 @@
       "publishedAt": "2026-05-18T20:02:42+00:00"
     },
     {
-      "id": "7e1b52ceee4aaca448105721",
-      "title": "Get a 36V 500W Adult Electric Bike for Just $233 Shipped During the AliExpress Memorial Day Sale",
-      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "url": "https://www.ign.com/articles/best-5th-wheel-electric-bike-deal-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T19:55:00+00:00"
-    },
-    {
       "id": "6171b6d8ba0a9b2b88bc5ef4",
       "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
       "summary": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
@@ -453,50 +552,6 @@
       "publishedAt": "2026-05-18T19:30:02+00:00"
     },
     {
-      "id": "c32db5846c6df6f170c70a72",
-      "title": "The New 2026 Apple iPad Air with M4 Chip Drops to a New All-Time Low Price Ahead of Memorial Day",
-      "summary": "Save $80 off compared to buying it from the Apple Store.",
-      "url": "https://www.ign.com/articles/new-2026-apple-ipad-air-deal-amazon-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T19:05:00+00:00"
-    },
-    {
-      "id": "e768a426e4a531cdd3c57ec8",
-      "title": "Forza Horizon 6 Dev Explains Why Shrines, Temples, and Cherry Blossom Trees Are Indestructible",
-      "summary": "Forza Horizon 6 makes cherry blossom trees and shrines indestructible — here's why.",
-      "url": "https://www.ign.com/articles/forza-horizon-6-dev-explains-why-shrines-temples-and-cherry-blossom-trees-are-indestructible",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T19:00:00+00:00"
-    },
-    {
-      "id": "2c985ab215b17c775e49d190",
-      "title": "Stranger Things Creators Say Controversial Season 2 Episode Spin-Off Rumors Are 'Bulls**t'",
-      "summary": "Stranger Things creators the Duffer Brothers have said they would love to redo the show's notorious Season 2 episode \"The Lost Sister\" but the rumors that it was supposed to be a backdoor pilot for a spin-off are \"bulls**t.\"",
-      "url": "https://www.ign.com/articles/stranger-things-creators-controversial-season-2-episode-spin-off-rumors",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T18:44:41+00:00"
-    },
-    {
-      "id": "b29f021d0891267ebca8d5e4",
-      "title": "Actor Tom Kane, Voice of Yoda in Star Wars: The Clone Wars, Has Died at 64",
-      "summary": "Prolific voice actor Tom Kane has died at age 64.",
-      "url": "https://www.ign.com/articles/actor-tom-kane-voice-of-yoda-in-star-wars-the-clone-wars-dead-at-64",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T18:31:43+00:00"
-    },
-    {
       "id": "84831d930d5dddb0c2432e06",
       "title": "OpenAI : Elon Musk débouté de ses poursuites contre Sam Altman et Microsoft pour cause de prescription",
       "summary": "Le PDG de Tesla accusait le patron d’OpenAI et son partenaire d’avoir détourné la fondation à but non lucratif afin d’en faire une entreprise commerciale. Il a dénoncé, à l’issue de la décision, une « juge activiste ».",
@@ -508,17 +563,6 @@
       "publishedAt": "2026-05-18T18:25:53+00:00"
     },
     {
-      "id": "a6005b8b666c29b05b5f6b07",
-      "title": "Today’s Top Deals: Radeon RX 9070 XT GPU, ASUS ROG Xbox Ally, Alan Wake 2 for PS5, and More",
-      "summary": "Plus, save on Forza Horizon 6 and a racing wheel ahead of its release tomorrow.",
-      "url": "https://www.ign.com/articles/best-deals-for-may-18-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T18:10:00+00:00"
-    },
-    {
       "id": "924eec6629e39204d8e4390b",
       "title": "L’écrivain Abel Quentin propose de créer des espaces sans IA générative pour préserver notre capacité à penser",
       "summary": "Dans son essai « Sanctuaires », l’auteur souligne les dangers existentiels que représente l’intelligence artificielle générative, susceptible de compromettre notre capacité à penser et de détruire des millions d’emplois. Pour nous en protéger, il imagine notamment la mise en place d’écoles, de commerces ou d’œuvres ou lieux 100 % humains.",
@@ -528,17 +572,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-18T17:00:00+00:00"
-    },
-    {
-      "id": "9ca9455d6dc741855fa4dae6",
-      "title": "Bodies of missing Italian divers found in Maldives",
-      "summary": "The bodies of all five Italian divers who died in the Maldives last week have now been found, officials tell the BBC.",
-      "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T16:51:09+00:00"
     },
     {
       "id": "0631b442860716c4011bbd84",
@@ -574,39 +607,6 @@
       "publishedAt": "2026-05-18T16:16:38+00:00"
     },
     {
-      "id": "e1180404ead355b1a2ecd3d7",
-      "title": "Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial",
-      "summary": "Other items found with Mangione at a Pennsylvania McDonald's will not be allowed to be presented in court, the judge ruled.",
-      "url": "https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T16:00:17+00:00"
-    },
-    {
-      "id": "3873e6dc94a264a12d0426e4",
-      "title": "What is Ebola and why is stopping this outbreak so difficult?",
-      "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
-      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T15:52:38+00:00"
-    },
-    {
-      "id": "1aeb6c1802b772facab3bf87",
-      "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
-      "summary": "The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers.",
-      "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T15:16:00+00:00"
-    },
-    {
       "id": "a35ac8dba93c1c82548fb4aa",
       "title": "Chris Claremont, auteur des X-Men : « La haine reste la haine. Et c’est contre cela que je m’élève dans mes albums »",
       "summary": "« Dans ma bulle ». Véritable géant de Marvel, le scénariste et artisan du succès des super-héros mutants revient sur son île fictive de Madripoor, où se déroulent les nouvelles aventures ultra-vitaminées de Logan, Black Widow et Captain America.",
@@ -640,17 +640,6 @@
       "publishedAt": "2026-05-18T14:51:53+00:00"
     },
     {
-      "id": "b780d800dfe62ca292976d35",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T09:58:35+00:00"
-    },
-    {
       "id": "525358e16e4276bdaae3df95",
       "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
       "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
@@ -671,39 +660,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-18T08:30:03+00:00"
-    },
-    {
-      "id": "909efcd40463b3cc6994ded2",
-      "title": "Escaped tiger shot by German police after attacking man",
-      "summary": "The tiger escaped a facility owned by local trainer Carmen Zander, also known as Germany's \"Tiger Queen\", according to local media reports.",
-      "url": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T08:12:30+00:00"
-    },
-    {
-      "id": "ea37ba6f9d9d29650a145a2f",
-      "title": "Driver of crashed train tested positive for drugs, Thai police say",
-      "summary": "The freight train collided with a bus in Bangkok, killing eight people and injuring dozens of others.",
-      "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T07:03:56+00:00"
-    },
-    {
-      "id": "fbb25ebc065c1b22829f89e2",
-      "title": "'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak",
-      "summary": "Kami Rita Sherpa and Lakpa Sherpa summited Everest for the 32nd and 11th time, respectively.",
-      "url": "https://www.bbc.com/news/articles/c3927ejpj4eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T03:51:59+00:00"
     },
     {
       "id": "4dcd3eacf2be6d151f0f9d93",
@@ -728,17 +684,6 @@
       "publishedAt": "2026-05-18T00:49:25+00:00"
     },
     {
-      "id": "2e4570376bff80d3c4d6d175",
-      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
-      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-17T23:02:56+00:00"
-    },
-    {
       "id": "90f4c9903e22f1c131c82bf4",
       "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
       "summary": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
@@ -761,17 +706,6 @@
       "publishedAt": "2026-05-17T23:01:51+00:00"
     },
     {
-      "id": "1de2e6642968e675265c0b7a",
-      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
-      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
-      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-17T20:53:45+00:00"
-    },
-    {
       "id": "547de0a9fef6a145a31615c2",
       "title": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
       "summary": "The 27-year-old's tune Bangaranga won Bulgaria its first ever title in the song contest.",
@@ -783,17 +717,6 @@
       "publishedAt": "2026-05-17T18:10:32+00:00"
     },
     {
-      "id": "a7e68ba1a34034085a0369bb",
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-17T14:18:23+00:00"
-    },
-    {
       "id": "b7b9bd0ddc79ba3f76b811b0",
       "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
       "summary": "Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.",
@@ -803,17 +726,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-17T02:00:44+00:00"
-    },
-    {
-      "id": "4a5d4daa4277d1d69179437f",
-      "title": "Foreign tourists are falling out of love with Goa - here's why",
-      "summary": "Foreign visitors to Goa have nearly halved from their pre-Covid peak even as domestic tourism is booming.",
-      "url": "https://www.bbc.com/news/articles/cy827p9lg03o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-16T23:08:06+00:00"
     },
     {
       "id": "096863a4b176f4343ab85c44",
@@ -880,17 +792,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-15T13:31:56+00:00"
-    },
-    {
-      "id": "6b52d0f0795318e12e945d77",
-      "title": "Watch: What did we learn from Trump's visit to China?",
-      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
-      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-15T13:25:23+00:00"
     },
     {
       "id": "1f65c6f758c22b98cae47266",
@@ -1001,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-13T14:40:20+00:00"
-    },
-    {
-      "id": "201cca6e67a8dbb2dec67bed",
-      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
-      "summary": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong.",
-      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-13T14:00:58+00:00"
     },
     {
       "id": "daf25b04d4db7e95a38587f3",
