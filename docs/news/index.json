@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-05-19T02:55:33.937340+00:00",
+  "updatedAt": "2026-05-19T06:42:20.603977+00:00",
   "items": [
     {
-      "id": "5ea72f79c3c72dff5c5d5f24",
-      "title": "Standard Chartered to cut thousands of roles as AI use increases",
-      "summary": "The UK-headquartered banking giant aims to move some of the effected workers to other roles in the business.",
-      "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss",
+      "id": "7792aef242fe0e0e6e6b3df9",
+      "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
+      "summary": "Starbucks withdrew the campaign for its drink tumblers after many said it referenced a bloody crackdown.",
+      "url": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T06:03:52+00:00"
+    },
+    {
+      "id": "a157a85df886105c2b6a30ac",
+      "title": "At least 131 dead in Ebola outbreak in DR Congo, official says",
+      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T05:23:57+00:00"
+    },
+    {
+      "id": "a9bcb575b1c398dc1364eac4",
+      "title": "Les bons réflexes à avoir en cas de fuite de données",
+      "summary": "« Données personnelles, la grande fuite » (4/9). Impossible d’empêcher les fuites lorsque l’on confie ses données à des administrations ou à des entreprises. Mais quelques réflexes avant et après la fuite sont cependant bénéfiques.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/19/les-bons-reflexes-a-avoir-en-cas-de-fuite-de-donnees_6691437_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-19T02:50:55+00:00"
+      "publishedAt": "2026-05-19T05:00:06+00:00"
+    },
+    {
+      "id": "057d7d30331c6eead6c7561f",
+      "title": "« Infostealers » : comment vos mots de passe sont vendus quotidiennement pour quelques euros",
+      "summary": "« Données personnelles, la grande fuite » (3/9). Ces logiciels malveillants, que l’on télécharge sans s’en rendre compte, alimentent un gigantesque marché d’identifiants et de mots de passe volés. Ces derniers sont ensuite réutilisés par des pirates pour des arnaques ou des usurpations d’identité.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/19/infostealers-comment-vos-mots-de-passe-sont-vendus-quotidiennement-pour-quelques-euros_6691434_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-19T04:30:19+00:00"
+    },
+    {
+      "id": "28b73853759affeb065db9aa",
+      "title": "Tasmanian government apologises over stolen body parts scandal",
+      "summary": "An investigation found that 177 human specimens from dozens of bodies were secretly kept by a museum.",
+      "url": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T04:19:37+00:00"
     },
     {
       "id": "fd2046e5b3449716bf2db2cb",
@@ -189,8 +233,8 @@
       "publishedAt": "2026-05-18T22:03:54+00:00"
     },
     {
-      "id": "74a38abb5c5a239910c6c4ef",
-      "title": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+      "id": "4666cbe0e39362894b631852",
+      "title": "The Republican who stood up to Trump is hoping for a big win against president",
       "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
       "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -310,17 +354,6 @@
       "publishedAt": "2026-05-18T19:53:31+00:00"
     },
     {
-      "id": "497d750400fdeacc5906d868",
-      "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
-      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T19:31:18+00:00"
-    },
-    {
       "id": "6c6c6c6f298d3ddca85a6df7",
       "title": "Fuites de données : face au tsunami, des Français vulnérables et des autorités impuissantes",
       "summary": "« Données personnelles, la grande fuite » (1/9). Les chiffres que s’apprête à dévoiler la CNIL, mardi, confirment que le pays subit un nombre record de vols de données. Malgré les dégâts causés par ces piratages, le niveau de sécurité informatique des entreprises et des administrations reste insuffisant.",
@@ -329,7 +362,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-18T19:30:10+00:00"
+      "publishedAt": "2026-05-18T19:30:02+00:00"
     },
     {
       "id": "c32db5846c6df6f170c70a72",
@@ -706,17 +739,6 @@
       "publishedAt": "2026-05-17T14:18:23+00:00"
     },
     {
-      "id": "3c29e2e4b172a01e1a77268d",
-      "title": "Man drives car into pedestrians in Italy, injuring eight",
-      "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
-      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-17T13:57:56+00:00"
-    },
-    {
       "id": "b7b9bd0ddc79ba3f76b811b0",
       "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
       "summary": "Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.",
@@ -726,17 +748,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-17T02:00:44+00:00"
-    },
-    {
-      "id": "d2014f8fe0742785e36ad0d9",
-      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-      "summary": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
-      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-16T23:10:19+00:00"
     },
     {
       "id": "4a5d4daa4277d1d69179437f",
@@ -759,17 +770,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-16T19:00:07+00:00"
-    },
-    {
-      "id": "1786acc02e26151cb6876998",
-      "title": "Taiwan insists it is independent after Trump warning",
-      "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
-      "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-16T17:01:53+00:00"
     },
     {
       "id": "bf9c41374646b1e6bfa2ca49",
@@ -948,17 +948,6 @@
       "publishedAt": "2026-05-14T12:00:12+00:00"
     },
     {
-      "id": "6d897030e1b773b9860c0dfd",
-      "title": "Le jeu « Subnautica 2 » finalement disponible à l’issue d’un bras de fer entre ses développeurs et leur éditeur",
-      "summary": "Depuis un an, l’éditeur Krafton retenait la publication de ce titre très attendu. La justice américaine a déterminé que l’entreprise sud-coréenne, s’appuyant sur les conseils de ChatGPT, cherchait ainsi à nuire au studio américain Unknown Worlds, qui développe le jeu.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/14/le-jeu-subnautica-2-finalement-disponible-a-l-issue-d-un-bras-de-fer-entre-ses-developpeurs-et-leur-editeur_6689049_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-14T08:00:05+00:00"
-    },
-    {
       "id": "bcce4548539feade7c479a56",
       "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
       "summary": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors.",
@@ -970,17 +959,6 @@
       "publishedAt": "2026-05-14T05:10:45+00:00"
     },
     {
-      "id": "36c4251ccd5b5b2638853f7c",
-      "title": "Quatre-vingt-quatre emplois menacés au sein du studio de jeux vidéo Kylotonn, filiale de Nacon",
-      "summary": "Le studio français, spécialiste des jeux de course, fait face à un plan de sauvegarde de l’emploi qui vise à supprimer 68 % de ses effectifs.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/13/quatre-vingt-quatre-emplois-menaces-au-sein-du-studio-de-jeux-video-kylotonn-filiale-de-nacon_6688756_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-13T20:24:20+00:00"
-    },
-    {
       "id": "5dc2789c8101b9252736cea4",
       "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
       "summary": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas.",
@@ -990,6 +968,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-13T14:40:20+00:00"
+    },
+    {
+      "id": "201cca6e67a8dbb2dec67bed",
+      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+      "summary": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong.",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-13T14:00:58+00:00"
     },
     {
       "id": "daf25b04d4db7e95a38587f3",
