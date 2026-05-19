@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-05-19T06:42:20.603977+00:00",
+  "updatedAt": "2026-05-19T10:33:25.655809+00:00",
   "items": [
+    {
+      "id": "64cb9eb194df43ac40ca9a78",
+      "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+      "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T10:15:46+00:00"
+    },
+    {
+      "id": "932b091c85efe53f15f5da05",
+      "title": "Two bodies of missing Italians recovered from inside Maldives cave",
+      "summary": "The two were among four divers located in the furthest chamber in the cave and their bodies were recovered by specialist divers.",
+      "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T10:04:58+00:00"
+    },
+    {
+      "id": "e3ae1cc1ae2ad8d17d5e3667",
+      "title": "Les services secrets allemands se tournent vers le français ChapsVision pour leur logiciel d’analyse de données, afin d’éviter Palantir",
+      "summary": "L’administration allemande prend conscience du risque que représente une dépendance excessive aux services informatiques américains.",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/19/les-services-secrets-allemands-se-tournent-vers-le-francais-chapsvision-pour-leur-logiciel-d-analyse-de-donnees-afin-d-eviter-palantir_6691466_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-19T10:00:09+00:00"
+    },
+    {
+      "id": "df3998aefaaae6ee5016cb58",
+      "title": "Jackson Pollock painting sells for record $181m at auction",
+      "summary": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction.",
+      "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T09:59:58+00:00"
+    },
+    {
+      "id": "3bf60ec08372bb8d33b33f7e",
+      "title": "PlayStation ne souhaite plus publier ses jeux vidéo narratifs sur PC",
+      "summary": "La division jeux vidéo de Sony a aussi annoncé l’augmentation du prix de son abonnement PlayStation Plus.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/19/playstation-ne-souhaite-plus-publier-ses-jeux-video-narratifs-sur-pc_6691464_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-19T09:52:32+00:00"
+    },
+    {
+      "id": "c07d0c64e585f29d158f4da7",
+      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+      "summary": "The Global Sumud Flotilla says commandos have intercepted more than 40 boats trying to breach the Gaza maritime blockade since Tuesday.",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T09:38:27+00:00"
+    },
+    {
+      "id": "90c37e729a8dcd3e806c80b0",
+      "title": "Nintendo Announces Pictonico, a New Mobile Game That Turns Photos Into Mini-Games",
+      "summary": "Surprise! Nintendo has announced free-to-start Pictonico, a new mobile game that uses your phone's photo library to generate mini-games.",
+      "url": "https://www.ign.com/articles/nintendo-announces-pictonico-a-new-mobile-game-that-turns-photos-into-mini-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T09:18:43+00:00"
+    },
+    {
+      "id": "11c32120391f4746cc020fe8",
+      "title": "Microsoft Launches Xbox Player Voice to Gather Feedback, Fans Immediately Demand a Return to Exclusives",
+      "summary": "Microsoft is continuing its drive to revamp brand Xbox with the launch of a feedback platform that gives fans the chance to vote on community requests. Predictably, the request with the most votes is a return to exclusives.",
+      "url": "https://www.ign.com/articles/microsoft-launches-xbox-player-voice-to-gather-feedback-fans-immediately-demand-a-return-to-exclusives",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T08:48:05+00:00"
+    },
+    {
+      "id": "84efc17a04206d4e7250fae2",
+      "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+      "summary": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-19T08:45:23+00:00"
+    },
+    {
+      "id": "e170aef06f5e397ad08d6e1a",
+      "title": "Two dead in Spain shooting, with babies reportedly among injured",
+      "summary": "Police say a 25-year-old man is suspected of killing his parents and injuring four others in southern Spain.",
+      "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T07:17:15+00:00"
+    },
+    {
+      "id": "e2adbc2ba46db81810f6dbfe",
+      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+      "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T07:07:55+00:00"
+    },
     {
       "id": "7792aef242fe0e0e6e6b3df9",
       "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
@@ -13,17 +134,6 @@
       "publishedAt": "2026-05-19T06:03:52+00:00"
     },
     {
-      "id": "a157a85df886105c2b6a30ac",
-      "title": "At least 131 dead in Ebola outbreak in DR Congo, official says",
-      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T05:23:57+00:00"
-    },
-    {
       "id": "a9bcb575b1c398dc1364eac4",
       "title": "Les bons réflexes à avoir en cas de fuite de données",
       "summary": "« Données personnelles, la grande fuite » (4/9). Impossible d’empêcher les fuites lorsque l’on confie ses données à des administrations ou à des entreprises. Mais quelques réflexes avant et après la fuite sont cependant bénéfiques.",
@@ -32,7 +142,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-19T05:00:06+00:00"
+      "publishedAt": "2026-05-19T05:00:00+00:00"
     },
     {
       "id": "057d7d30331c6eead6c7561f",
@@ -43,7 +153,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-19T04:30:19+00:00"
+      "publishedAt": "2026-05-19T04:30:14+00:00"
     },
     {
       "id": "28b73853759affeb065db9aa",
@@ -68,17 +178,6 @@
       "publishedAt": "2026-05-19T02:41:57+00:00"
     },
     {
-      "id": "c07d0c64e585f29d158f4da7",
-      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
-      "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
-      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T02:40:57+00:00"
-    },
-    {
       "id": "fab5492c6987d701634cac20",
       "title": "First F1 25: 2026 Season DLC Details Coming This Week",
       "summary": "The current 2026 F1 season is coming to last year’s F1 25 as a new update.",
@@ -88,17 +187,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-19T02:37:19+00:00"
-    },
-    {
-      "id": "e2adbc2ba46db81810f6dbfe",
-      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-      "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
-      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T01:35:30+00:00"
     },
     {
       "id": "66d41147b4b447a3bca43497",
@@ -145,6 +233,17 @@
       "publishedAt": "2026-05-18T23:10:00+00:00"
     },
     {
+      "id": "f360768473ce17f28b04b735",
+      "title": "What really holds China and Russia together",
+      "summary": "The relationship endures despite a power imbalance, with both sides recognising that it is too important to fail.",
+      "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-18T23:06:55+00:00"
+    },
+    {
       "id": "1b24f772520c95ef3ec9107f",
       "title": "Robo-top: The machines that could make your next t-shirt",
       "summary": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
@@ -169,7 +268,7 @@
     {
       "id": "8c392b4be62cd94d9f55d3f6",
       "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+      "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
       "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -235,7 +334,7 @@
     {
       "id": "4666cbe0e39362894b631852",
       "title": "The Republican who stood up to Trump is hoping for a big win against president",
-      "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
+      "summary": "Kentucky Congressman Thomas Massie, who has crossed Trump on federal spending and the Epstein files, faces Republican voters.",
       "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -297,17 +396,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-18T20:45:00+00:00"
-    },
-    {
-      "id": "0c70013589a1037ad2aed98f",
-      "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-      "summary": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
-      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-18T20:44:57+00:00"
     },
     {
       "id": "8ea912b7802059d934ef9d54",
@@ -429,28 +517,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-18T18:10:00+00:00"
-    },
-    {
-      "id": "fffc1469dc9bb77db7091c58",
-      "title": "Best Buy Is Giving You a Whole Week to Shop Its Memorial Day Sale",
-      "summary": "We highlight some of our favorite deals in Best Buy's Memorial Day sale 2026, including video games, TVs, and more.",
-      "url": "https://www.ign.com/articles/best-buy-memorial-day-sale-live-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T18:00:06+00:00"
-    },
-    {
-      "id": "8a04470021d52c4e68631a82",
-      "title": "Don't Miss This Phenomenal Price Drop on the FlashForge AD5X Multi-Color 3D Printer at AliExpress",
-      "summary": "You won't find a better built and more feature-rich multi-material 3D printer for well under $250.",
-      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-aliexpress-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-18T17:40:00+00:00"
     },
     {
       "id": "924eec6629e39204d8e4390b",
@@ -638,17 +704,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-18T03:51:59+00:00"
-    },
-    {
-      "id": "18fc4d8cc340f49b876845eb",
-      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
-      "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
-      "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T03:08:13+00:00"
     },
     {
       "id": "4dcd3eacf2be6d151f0f9d93",
@@ -924,28 +979,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-14T17:44:41+00:00"
-    },
-    {
-      "id": "53f30738b8deee21a2900eb6",
-      "title": "« Avec l’IA générative, l’homme a forgé une créature qui le singe dans ce qui constitue son essence même : la capacité à penser, à créer, à décider »",
-      "summary": "L’intelligence artificielle générative a déjà des effets concrets sur le marché du travail : intensification des tâches, capitulation cognitive et destructions d’emplois.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/14/avec-l-ia-generative-l-homme-a-forge-une-creature-qui-le-singe-dans-ce-qui-constitue-son-essence-meme-la-capacite-a-penser-a-creer-a-decider_6689100_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-14T14:00:06+00:00"
-    },
-    {
-      "id": "b9d5dbce321e6417f50c8a58",
-      "title": "On a testé… « Forza Horizon 6 », le road trip japonais qui en met plein la vue",
-      "summary": "Entre virées dans un Tokyo plus vrai que nature et dérapages sous des cerisiers en fleurs, le jeu de course s’impose comme une prouesse visuelle doublée d’une ode au Japon.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/14/on-a-teste-forza-horizon-6-le-road-trip-japonais-qui-en-met-plein-la-vue_6689078_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-14T12:00:12+00:00"
     },
     {
       "id": "bcce4548539feade7c479a56",
