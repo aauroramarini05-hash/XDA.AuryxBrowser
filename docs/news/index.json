@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-05-19T18:54:17.217179+00:00",
+  "updatedAt": "2026-05-19T20:25:09.412274+00:00",
   "items": [
+    {
+      "id": "a3de97d05ca138da9a8e446a",
+      "title": "Tech Life",
+      "summary": "We talk to an expert about the risks from AI hackers.",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-19T20:00:00+00:00"
+    },
+    {
+      "id": "bac6060995cca47cc7e052e5",
+      "title": "Emmanuel Macron appelle à réguler les cryptomonnaies, afin de ne pas se rendre « complices d’activités terroristes » ou « de criminalités organisées »",
+      "summary": "Le chef de l’Etat a appelé, mardi, en marge de la réunion des ministres des finances du G7, à ne pas laisser s’installer un nouveau Far West financier.",
+      "url": "https://www.lemonde.fr/international/article/2026/05/19/emmanuel-macron-appelle-a-reguler-les-cryptomonnaies-afin-de-ne-pas-se-rendre-complices-d-activites-terroristes-ou-de-criminalites-organisees_6691542_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-19T19:39:28+00:00"
+    },
+    {
+      "id": "c3f58b1dd975c86263b515c0",
+      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+      "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T19:32:22+00:00"
+    },
+    {
+      "id": "45834b8e86b106c7559dad2a",
+      "title": "VITURE XR Glasses Are 10% Off with This Exclusive Promo Code",
+      "summary": "Use this exclusive promo code to save 10% off VITURE XR Glasses, including the Beast and Luma Ultra.",
+      "url": "https://www.ign.com/articles/viture-xr-glasses-10-off-promo-code",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-19T18:59:45+00:00"
+    },
     {
       "id": "a4a66ecd964e69e68507b5ac",
       "title": "Today Only, Save $900 Off the Asus ROG Flow Z13 Gaming Ultra-Portable Laptop and Tablet Hybrid",
@@ -66,17 +110,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-19T18:20:18+00:00"
-    },
-    {
-      "id": "c3f58b1dd975c86263b515c0",
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-      "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
-      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T18:17:41+00:00"
     },
     {
       "id": "d346ca7cc2577c9798b9ea7c",
@@ -264,17 +297,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-19T15:43:58+00:00"
-    },
-    {
-      "id": "d6fc978cdd3152bce75dd89f",
-      "title": "The Super Mario Galaxy Movie Hits Digital After Dominating the 2026 Box Office",
-      "summary": "The Super Mario Galaxy Movie, which currently stands as the highest-grossing movie of 2026, is now available on digital with a slew of bonus features.",
-      "url": "https://www.ign.com/articles/the-super-mario-galaxy-movie-streaming",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-19T15:34:32+00:00"
     },
     {
       "id": "abe20cb40289fab3bdc490a7",
@@ -904,17 +926,6 @@
       "publishedAt": "2026-05-14T21:09:02+00:00"
     },
     {
-      "id": "dce494cafc4d0dae79cc3af6",
-      "title": "Face aux data centers, la contestation cherche à se faire entendre : « C’est difficile de s’opposer, la force de propagande des promoteurs est très importante »",
-      "summary": "Partout en France, les projets de centres de données se multiplient, dopés par les promesses de l’IA. Dans le même temps, les populations locales tentent d’empêcher la construction de ces infrastructures géantes et gourmandes en ressources.",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/14/face-aux-data-centers-la-contestation-cherche-a-se-faire-entendre-c-est-difficile-de-s-opposer-la-force-de-propagande-des-promoteurs-est-tres-importante_6689132_3244.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-14T18:00:02+00:00"
-    },
-    {
       "id": "bcce4548539feade7c479a56",
       "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
       "summary": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors.",
@@ -990,17 +1001,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-04-28T19:32:00+00:00"
-    },
-    {
-      "id": "cf6b0ccf988cbec094e0984b",
-      "title": "Tech Life",
-      "summary": "How to say goodbye and pay tribute to a loved one - with a hologram.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxr?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-04-21T20:15:00+00:00"
     },
     {
       "id": "5d837e7b69bfa849db16a801",
