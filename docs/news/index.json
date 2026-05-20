@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-05-20T06:41:19.278566+00:00",
+  "updatedAt": "2026-05-20T10:19:56.404662+00:00",
   "items": [
+    {
+      "id": "7a68e61ea969fc65431f12d6",
+      "title": "Trump tightens grip on Republican Party with Massie defeat",
+      "summary": "The defeat of a Republican rebel by a Trump-backed challenger in Kentucky shows the strength of the president, writes Anthony Zurcher.",
+      "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-20T09:49:33+00:00"
+    },
+    {
+      "id": "5ad200f96e52799dc8bfd9db",
+      "title": "Fuites de données : l’Etat, mauvais élève de la sécurité",
+      "summary": "La multiplication des vols de données, notamment ceux touchant le secteur public, sape le contrat social et la confiance dans l’administration. Il est urgent que les pouvoirs publics adoptent les mesures de prudence numérique élémentaires et déploient des moyens à la hauteur des enjeux.",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/20/fuites-de-donnees-l-etat-mauvais-eleve-de-la-securite_6691697_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-20T09:35:00+00:00"
+    },
+    {
+      "id": "e69a7d61519bc4151f417414",
+      "title": "Open-World Lord of Rings RPG and New Kingdom Come Game Confirmed in Development at Warhorse Studios",
+      "summary": "Warhorse Studios has revealed what it’s working on: a Lord of the Rings role-playing game and a new Kingdom Come game.",
+      "url": "https://www.ign.com/articles/open-world-lord-of-rings-rpg-and-new-kingdom-come-game-confirmed-in-development-at-warhorse-studios",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-20T09:30:36+00:00"
+    },
+    {
+      "id": "88f1a586a8b849d9e955a1fc",
+      "title": "Embracer 'Actively Exploring' External Partnerships for the Likes of Saints Row, Deus Ex, TimeSplitters, and More",
+      "summary": "Embracer Group is spinning off Fellowship Entertainment, a new business unit designed to expand The Lord of the Rings and Tomb Raider, as well as breathe new life into some of the company’s dormant video game franchises.",
+      "url": "https://www.ign.com/articles/embracer-actively-exploring-external-partnerships-for-the-likes-of-saints-row-deus-ex-timesplitters-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-20T08:33:53+00:00"
+    },
+    {
+      "id": "ae5c52dce217b6af6c95c043",
+      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+      "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
+      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-20T08:15:48+00:00"
+    },
+    {
+      "id": "bb8c2b430126930399c95e09",
+      "title": "Nigeria arrests former minister in hiding after corruption conviction",
+      "summary": "The former power minister was sentenced to 75 years in jail in absentia earlier this month.",
+      "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-20T08:04:03+00:00"
+    },
+    {
+      "id": "b7a5863fd7c3509c4239f1d9",
+      "title": "La communauté internationale dépassée par la créativité financière des réseaux terroristes",
+      "summary": "Réunis mardi à Paris à l’occasion du sommet No Money for Terror, une cinquantaine de pays ont partagé leurs difficultés à démanteler les circuits de financement terroristes, qui intègrent de manière croissante les cryptomonnaies.",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/20/la-communaute-internationale-depassee-par-la-creativite-financiere-des-reseaux-terroristes_6691684_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-20T07:30:42+00:00"
+    },
     {
       "id": "eff7bb85692cba5a10ff85e5",
       "title": "ShinyHunters : enquête sur l’insaisissable nébuleuse de pirates née en France",
@@ -10,7 +87,51 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-20T04:30:15+00:00"
+      "publishedAt": "2026-05-20T04:30:09+00:00"
+    },
+    {
+      "id": "612b0a5028db67cd452dbe4d",
+      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+      "summary": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
+      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-20T03:49:24+00:00"
+    },
+    {
+      "id": "464fa76a66872d0b8478b6e4",
+      "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+      "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say.",
+      "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-20T01:52:24+00:00"
+    },
+    {
+      "id": "9fe516efb7a25f6bb889417d",
+      "title": "Woman dies after falling into uncovered New York City manhole",
+      "summary": "It's believed the manhole cover on the city's Fifth Avenue was dislodged by a truck minutes before incident.",
+      "url": "https://www.bbc.com/news/articles/cy02pzxejyno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-20T00:11:27+00:00"
+    },
+    {
+      "id": "48adb8e54a6fcc071e59776f",
+      "title": "Trump endorses Paxton in Texas, gambling on a challenger with baggage in a crucial race",
+      "summary": "Trump's move dismayed Senate Republicans, many of whom have served with the Texan for decades.",
+      "url": "https://www.bbc.com/news/articles/cy72v488g4go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-20T00:03:04+00:00"
     },
     {
       "id": "2a96a8adc72345ffad2bf093",
@@ -92,7 +213,7 @@
     {
       "id": "16ee3f7b7fd5bb3d75a00d61",
       "title": "Conférence Google I/O : des IA autonomes et des lunettes connectées annoncées",
-      "summary": "Le géant du numérique a présenté, mardi, de nouveaux outils d’intelligence artificielle destinés aux professionnels et au grand public, censés prendre en charge de nombreuses tâches automatiquement. Il entend aussi concurrencer les Ray-Ban de Meta.",
+      "summary": "L’un des groupes majeurs du numérique a présenté, mardi, de nouveaux outils d’intelligence artificielle destinés aux professionnels et au grand public, censés prendre en charge de nombreuses tâches automatiquement. Il entend aussi concurrencer les Ray-Ban de Meta.",
       "url": "https://www.lemonde.fr/pixels/article/2026/05/19/conference-google-i-o-des-ia-autonomes-et-des-lunettes-connectees-annoncees_6691548_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -110,6 +231,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-19T21:05:00+00:00"
+    },
+    {
+      "id": "d15edb517c2cf8c43ab35e0a",
+      "title": "What we know about the San Diego mosque attack suspects",
+      "summary": "Authorities say the teenage suspects shared a \"broad hatred\" of multiple religions and racial groups.",
+      "url": "https://www.bbc.com/news/articles/cg4pnp0gdlko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-19T21:02:47+00:00"
     },
     {
       "id": "fb5b2d90f62a01daa4cd499c",
@@ -310,28 +442,6 @@
       "publishedAt": "2026-05-19T17:35:00+00:00"
     },
     {
-      "id": "e05d1c62264ba8c78d6d2dfd",
-      "title": "Broken Sword Movie in the Works, Creator Charles Cecil Will Produce",
-      "summary": "Broken Sword is coming to the big screen, courtesy of Story Kitchen.",
-      "url": "https://www.ign.com/articles/broken-sword-movie-in-the-works-creator-charles-cecil-will-produce",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-19T17:31:50+00:00"
-    },
-    {
-      "id": "9d9d283a269044bfa9ec63c9",
-      "title": "Final Fantasy Creator Hironobu Sakaguchi Addresses Backlash for Sharing AI Final Fantasy 6 Remake Video",
-      "summary": "Final Fantasy series creator Hironobu Sakaguchi has addressed the backlash against his positive reaction to an unofficial, AI-generated video for a Final Fantasy 6 remake.",
-      "url": "https://www.ign.com/articles/final-fantasy-creator-hironobu-sakaguchi-addresses-backlash-for-sharing-ai-final-fantasy-6-remake-video",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-19T17:20:27+00:00"
-    },
-    {
       "id": "b4679135bccd9deade972928",
       "title": "Key people smuggler arrested after BBC uncovered identity",
       "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
@@ -396,17 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-19T13:39:45+00:00"
-    },
-    {
-      "id": "ae5c52dce217b6af6c95c043",
-      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
-      "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
-      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T12:24:50+00:00"
     },
     {
       "id": "614147a4dfc724205c1c155f",
@@ -552,17 +651,6 @@
       "publishedAt": "2026-05-19T04:19:37+00:00"
     },
     {
-      "id": "fd2046e5b3449716bf2db2cb",
-      "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
-      "summary": "Taiwan independence is the reddest of red lines for China, which claims the island as its own.",
-      "url": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T02:41:57+00:00"
-    },
-    {
       "id": "f360768473ce17f28b04b735",
       "title": "What really holds China and Russia together",
       "summary": "The relationship endures despite a power imbalance, with both sides recognising that it is too important to fail.",
@@ -596,17 +684,6 @@
       "publishedAt": "2026-05-18T23:04:03+00:00"
     },
     {
-      "id": "8c392b4be62cd94d9f55d3f6",
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
-      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T22:30:58+00:00"
-    },
-    {
       "id": "1aaa585b9f2dca682bd33493",
       "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
       "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
@@ -616,28 +693,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-18T22:08:37+00:00"
-    },
-    {
-      "id": "9617c22fc2234125deedb340",
-      "title": "'FedEx says your parcel has drugs': The scam that trapped an Indian comedian",
-      "summary": "Ankita Shrivastav is among millions of Indians who fall prey to cybercrimes every year.",
-      "url": "https://www.bbc.com/news/articles/cevp1lvzd8ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T22:03:54+00:00"
-    },
-    {
-      "id": "4666cbe0e39362894b631852",
-      "title": "The Republican who stood up to Trump is hoping for a big win against president",
-      "summary": "Kentucky Congressman Thomas Massie, who has crossed Trump on federal spending and the Epstein files, faces Republican voters.",
-      "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T21:39:45+00:00"
     },
     {
       "id": "4e77d30d826bd1bc735666e8",
@@ -706,17 +761,6 @@
       "publishedAt": "2026-05-18T17:00:00+00:00"
     },
     {
-      "id": "0631b442860716c4011bbd84",
-      "title": "Four killed in protests during Kenyan strikes over high fuel prices",
-      "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
-      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T16:49:45+00:00"
-    },
-    {
       "id": "121b354dcb1ae554d85906f9",
       "title": "'I sold it for over £1k': Swatch launch sparks 'chaotic' scenes",
       "summary": "Some shoppers have been trying to resell a new line of watches priced at £335 each for up to £16,000.",
@@ -728,17 +772,6 @@
       "publishedAt": "2026-05-18T16:48:03+00:00"
     },
     {
-      "id": "ef58de971bdf9fc8e227133e",
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
-      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T16:16:38+00:00"
-    },
-    {
       "id": "a35ac8dba93c1c82548fb4aa",
       "title": "Chris Claremont, auteur des X-Men : « La haine reste la haine. Et c’est contre cela que je m’élève dans mes albums »",
       "summary": "« Dans ma bulle ». Véritable géant de Marvel, le scénariste et artisan du succès des super-héros mutants revient sur son île fictive de Madripoor, où se déroulent les nouvelles aventures ultra-vitaminées de Logan, Black Widow et Captain America.",
@@ -748,28 +781,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-18T15:13:19+00:00"
-    },
-    {
-      "id": "74236af938ac366d07b9f695",
-      "title": "Shakira wins £50m tax refund from Spanish government",
-      "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
-      "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T15:08:40+00:00"
-    },
-    {
-      "id": "2f57fff7e4984bd7334fcf83",
-      "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
-      "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
-      "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-18T14:51:53+00:00"
     },
     {
       "id": "525358e16e4276bdaae3df95",
@@ -816,28 +827,6 @@
       "publishedAt": "2026-05-18T00:49:25+00:00"
     },
     {
-      "id": "90f4c9903e22f1c131c82bf4",
-      "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
-      "summary": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
-      "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-17T23:02:15+00:00"
-    },
-    {
-      "id": "caec402863cef712a0191a26",
-      "title": "From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady",
-      "summary": "The private world of one of Africa's most powerful political women is revealed in a BBC World Service exclusive.",
-      "url": "https://www.bbc.com/news/articles/cvgzpz7zyd4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-17T23:01:51+00:00"
-    },
-    {
       "id": "547de0a9fef6a145a31615c2",
       "title": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
       "summary": "The 27-year-old's tune Bangaranga won Bulgaria its first ever title in the song contest.",
@@ -882,17 +871,6 @@
       "publishedAt": "2026-05-16T14:00:13+00:00"
     },
     {
-      "id": "b4482c41007294f15e51dd6e",
-      "title": "Cinéma : « L’IA est l’occasion de retrouver une part d’audace »",
-      "summary": "Dans une tribune au « Monde », l’avocat Christophe Bettati, par ailleurs diplômé de la Fémis, estime que « les nouveaux outils n’ont jamais tué les arts » et que l’intelligence artificielle pourrait permettre des expérimentations aujourd’hui impossibles à financer.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/16/cinema-l-ia-est-l-occasion-de-retrouver-une-part-d-audace_6689879_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-16T11:00:02+00:00"
-    },
-    {
       "id": "37934ce515c62d0000c36b20",
       "title": "Tech Now",
       "summary": "Adrienne Murray explores how new 3D imaging is supporting heart procedures.",
@@ -902,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-16T01:00:00+00:00"
-    },
-    {
-      "id": "198581d4dd954d9a6f731cd7",
-      "title": "Fuite de données chez Pierre et Vacances-Center Parcs : 1,6 million de réservations concernées",
-      "summary": "Les données potentiellement exposées concernent le numéro de réservation, les dates et lieu de séjour, les noms des occupants de l’hébergement, leur numéro de téléphone et leur date de naissance.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/15/fuite-de-donnees-chez-pierre-et-vacances-center-parcs-1-6-million-de-reservations-concernees_6689486_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-15T17:32:38+00:00"
     },
     {
       "id": "1f65c6f758c22b98cae47266",
