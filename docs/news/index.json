@@ -1,9 +1,240 @@
 {
-  "updatedAt": "2026-05-21T16:36:45.092506+00:00",
+  "updatedAt": "2026-05-21T18:53:46.865238+00:00",
   "items": [
     {
-      "id": "6bdc50f89fc5182471bbc018",
-      "title": "Charges dismissed against official at school where 6-year-old shot teacher",
+      "id": "49a679aab3a9daa390b76f9f",
+      "title": "Pair arrested after boys abandoned by road in Portugal",
+      "summary": "The children were carrying backpacks with food and water but no identity documents when they were found by a driver.",
+      "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-21T18:32:30+00:00"
+    },
+    {
+      "id": "7a189f941c6da05c97f5c599",
+      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
+      "summary": "The retail giant said it expects customers to cut back in the coming months due to higher pump prices.",
+      "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-21T18:08:17+00:00"
+    },
+    {
+      "id": "1bf2163a73dec3f991e95851",
+      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
+      "summary": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far.",
+      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-21T17:54:40+00:00"
+    },
+    {
+      "id": "ae5c52dce217b6af6c95c043",
+      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+      "summary": "An outbreak of Ebola in DR Congo involves a rare species of the virus and is in an area affected by conflict.",
+      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-21T17:52:03+00:00"
+    },
+    {
+      "id": "64e689ecf4b28f7a37c7ab14",
+      "title": "Samsung's Highest End 55\" 4K OLED TV (S95F) Drops to $899 During the Best Buy Memorial Day Sale",
+      "summary": "Currently $1,600 at Amazon.",
+      "url": "https://www.ign.com/articles/samsung-s95f-4k-oled-smart-tv-deal-best-buy-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T17:30:00+00:00"
+    },
+    {
+      "id": "0532b208b3a69daec1de74e1",
+      "title": "This Iniu 20,000 Power Bank Quadruples Your Nintendo Switch 2 Play Time For $17",
+      "summary": "You can also play and charge at the same time without ever running out of juice.",
+      "url": "https://www.ign.com/articles/iniu-20000mah-power-bank-deal-amazon-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T17:30:00+00:00"
+    },
+    {
+      "id": "1801ebc4d14ce20b5186d99e",
+      "title": "Bungie Walks Away From Destiny 2, Final Content Update Coming in June",
+      "summary": "Bungie has announced the end of content updates for live service shooter Destiny 2, nearly nine years after launch.",
+      "url": "https://www.ign.com/articles/bungie-walks-away-from-destiny-2-final-content-update-coming-in-june",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T17:19:37+00:00"
+    },
+    {
+      "id": "3e11797768891a82e70f8f31",
+      "title": "Brandon Sanderson's Skyward Adaptation Would Be Perfect as a Netflix Series",
+      "summary": "Apple TV may seem like the obvious choice, considering they are already working on Cosmere adaptations with Sanderson, but personally I'd love to see this adaptation come to Netflix.",
+      "url": "https://www.ign.com/articles/brandon-sandersons-skyward-adaptation-would-be-perfect-as-a-netflix-series",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T17:12:00+00:00"
+    },
+    {
+      "id": "28df1fc6c0de4fa9e3dd1996",
+      "title": "Russia and China condemn US over indictment of former Cuban leader",
+      "summary": "It comes after the US charged Raúl Castro with murder, the latest move putting pressure on the regime.",
+      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-21T17:11:26+00:00"
+    },
+    {
+      "id": "c99f147308141533126b4033",
+      "title": "Warhammer 40,000 Boltgun 2 Takes the Ultraviolent ‘90s FPS to the Great Outdoors | IGN Preview",
+      "summary": "I've only played a couple hours of Warhammer 40,000: Boltgun 2, blasting through the 45-minute demo as both playable characters, but I've had a rousing time with it. Both characters feel different and exciting with punchy and satisfying weapons. The new level designs – particularly the icy one – have me intrigued to see what else they've cooked up.",
+      "url": "https://www.ign.com/articles/warhammer-40000-boltgun-2-preview-fps-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T17:05:24+00:00"
+    },
+    {
+      "id": "bcf46ea1d4421a47b6ae89a0",
+      "title": "The Big Warhammer 40,000: Dawn of War IV Interview: Year 1 Roadmap, New Playable Factions, and More",
+      "summary": "IGN interviews the developer of Warhammer 40,000: Dawn of War IV to find out more about its post-launch plans and DLC.",
+      "url": "https://www.ign.com/articles/the-big-warhammer-40000-dawn-of-war-iv-interview-year-1-roadmap-new-playable-factions-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T17:00:10+00:00"
+    },
+    {
+      "id": "5b124d9f47bd0c183557b0d6",
+      "title": "The Benefits of NVIDIA GeForce NOW for Budget-Conscious Gamers",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-benefits-of-nvidia-geforce-now-for-budget-conscious-gamers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T17:00:00+00:00"
+    },
+    {
+      "id": "7d9113e153882b475e8daa15",
+      "title": "Today’s Top Deals: Borderlands 4 for PS5, LOTR Illustrated Box Set, Steelcase Gesture Office Chair",
+      "summary": "Plus, save on a sneaker-shaped PC case, Pokémon TCG preorders, Sony WH-1000XM6 headphones, and more.",
+      "url": "https://www.ign.com/articles/best-deals-for-may-21-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T17:00:00+00:00"
+    },
+    {
+      "id": "cbd9ea726c607fa292ecb34f",
+      "title": "Warhammer 40,000: Chaos Gate – Deathwatch Announced at Warhammer Skulls 2026",
+      "summary": "Fresh from Warhammer Skulls comes confirmation that the well received strategy game Warhammer 40,000: Chaos Gate – Daemonhunters is getting a sequel all about the Deathwatch.",
+      "url": "https://www.ign.com/articles/warhammer-40000-chaos-gate-deathwatch-announced-at-warhammer-skulls-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:58:23+00:00"
+    },
+    {
+      "id": "61601c0574a81dbc54b7415f",
+      "title": "Helldivers 2 Is Getting a Warhammer 40,000 Legendary Warbond",
+      "summary": "Helldivers 2 is getting a Warhammer 40,000 Legendary Warbond later this year, which finally makes one of its most-requested crossovers a reality.",
+      "url": "https://www.ign.com/articles/helldivers-2-is-getting-a-warhammer-40000-legendary-warbond",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:56:25+00:00"
+    },
+    {
+      "id": "6e081e6931cc06e251666133",
+      "title": "Everything Announced at Warhammer Skulls 2026",
+      "summary": "Check out all the game announcements, updates, trailers, and reveals from Warhammer Skulls 2026.",
+      "url": "https://www.ign.com/articles/everything-announced-at-warhammer-skulls-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:53:20+00:00"
+    },
+    {
+      "id": "2c3fc5a036bfa65740139713",
+      "title": "Warhammer 40,000: Space Marine 2 Shadowdrops Purgation Update, Patch 13 Adds New PvE Mission and a Lot More",
+      "summary": "Warhammer 40,000: Space Marine 2 Purgation Update out now, check out the patch notes.",
+      "url": "https://www.ign.com/articles/warhammer-40000-space-marine-2-shadowdrops-purgation-update-patch-13-adds-new-pve-mission-and-a-lot-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:50:55+00:00"
+    },
+    {
+      "id": "350940854c2b67bb27b622ac",
+      "title": "The Gamesir G7 Pro Is My Favorite Gaming Controller for PC, and It's on Sale for Memorial Day",
+      "summary": "AliExpress has it for $20 less than everyone else.",
+      "url": "https://www.ign.com/articles/gamesir-g7-pro-pc-gaming-controller-aliexpress-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:45:00+00:00"
+    },
+    {
+      "id": "c32db5846c6df6f170c70a72",
+      "title": "The New 2026 Apple iPad Air with M4 Chip Drops to a New All-Time Low Price Ahead of Memorial Day",
+      "summary": "Save $80 off compared to buying it from the Apple Store.",
+      "url": "https://www.ign.com/articles/new-2026-apple-ipad-air-deal-amazon-memorial-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:40:00+00:00"
+    },
+    {
+      "id": "1cadaeb8ef60078519cc70f4",
+      "title": "This $1,800 Power Lift Recliner and Massage Chair Is Just $380 During the Wayfair Memorial Day Sale",
+      "summary": "I'm thinking of getting one for dad for Father's Day.",
+      "url": "https://www.ign.com/articles/wayfair-memorial-day-sale-power-lift-recliner-and-massage-chair-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:40:00+00:00"
+    },
+    {
+      "id": "79e7cb337063316fb1c2a5b5",
+      "title": "Avatar: Fire and Ash’s 4K Is Already 50% Off at Amazon",
+      "summary": "Avatar: Fire And Ash's 4K is already 50% off at Amazon just two days after its release. Pick it up now for just $25.",
+      "url": "https://www.ign.com/articles/avatar-fire-and-ashs-4k-is-already-50-off-at-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:29:46+00:00"
+    },
+    {
+      "id": "dd16bb3c19b6c0c1ab13ed0a",
+      "title": "Charges dismissed against official at school where six-year-old shot teacher",
       "summary": "The child fired a single shot at a teacher, who had to have surgery after the incident in 2023.",
       "url": "https://www.bbc.com/news/articles/cy82y34y101o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -13,9 +244,31 @@
       "publishedAt": "2026-05-21T16:20:36+00:00"
     },
     {
+      "id": "2358a1035e19292f64711ad7",
+      "title": "New ‘Paradox Drive’ Expansion Coming to Pokémon TCG Pocket",
+      "summary": "The next Pokémon TCG Pocket expansion is all about the Scarlet and Violet generation.",
+      "url": "https://www.ign.com/articles/pokemon-tcg-pocket-announces-new-paradox-drive-expansion",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:12:45+00:00"
+    },
+    {
+      "id": "bb3d382188719b3f780ed733",
+      "title": "Bubsy 4D Review",
+      "summary": "This notorious video game mascot makes a stylish, if brief, comeback in his best outing yet.",
+      "url": "https://www.ign.com/articles/bubsy-4d-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:10:59+00:00"
+    },
+    {
       "id": "0b7dffca75c6f8e2e58fbfc2",
       "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
-      "summary": "On Thursday, the UK confirmed it had summoned Israel's top diplomat in Britain to express its \"condemnation\" of the incident.",
+      "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
       "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -35,6 +288,28 @@
       "publishedAt": "2026-05-21T16:00:10+00:00"
     },
     {
+      "id": "2c00378445b542933ac3a046",
+      "title": "Assassin’s Creed: Black Flag Resynced Is Much More Than a Facelift | IGN Preview",
+      "summary": "Many of Black Flag Resynced’s best parts come courtesy of the Ubisoft Anvil engine, last seen in AC Shadows. It’s been used to recreate Black Flag from the ground up, and that allows it to be every bit as beautiful as more recent Assassin’s Creed games. But it's also got a few head-scratching omissions.",
+      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-is-much-more-than-a-facelift-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:00:00+00:00"
+    },
+    {
+      "id": "d5ccbfb2c5cd786a3abf6ae5",
+      "title": "New Call of Duty Studio Heads on Redefining Infinity Ward’s DNA in 2026, Mourning Vince Zampella",
+      "summary": "Infinity Ward was the studio that created Call of Duty, and its new studio heads aim to keep the franchise fresh for the foreseeable future.",
+      "url": "https://www.ign.com/articles/new-call-of-duty-studio-heads-redefining-infinity-ward-dna-in-2026-mourning-vince-zampella",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-21T16:00:00+00:00"
+    },
+    {
       "id": "2370e20e43ba1961a873be23",
       "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
       "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
@@ -44,17 +319,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-21T15:58:46+00:00"
-    },
-    {
-      "id": "7a189f941c6da05c97f5c599",
-      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
-      "summary": "The retail giant said it expects customers to cut back in the coming months due to higher gas prices.",
-      "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T15:42:00+00:00"
     },
     {
       "id": "fc59ef72cca76c27ea678644",
@@ -68,50 +332,6 @@
       "publishedAt": "2026-05-21T15:40:03+00:00"
     },
     {
-      "id": "7e37808a568ee64bd9217c85",
-      "title": "Warhammer Skulls 2026 Live Updates: All the Biggest Game Reveals",
-      "summary": "Warhammer Skulls is back! The showcase event for all things Warhammer video games promises to deliver big news on everything from Space Marine 2 to Darktide, and we'll be reporting live on all the announcements, reveals, and updates.",
-      "url": "https://www.ign.com/articles/warhammer-skulls-2026-live-updates-reveals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T15:30:59+00:00"
-    },
-    {
-      "id": "33d3b2f10621f591896d2f1e",
-      "title": "48 Brilliant Details in Lego Batman: Legacy of the Dark Knight",
-      "summary": "From a Joaquin Phoenix minifig to deep DC Comics cuts and internet memes, here are 48 brilliant little details we spotted in Lego Batman: Legacy of the Dark Knight.",
-      "url": "https://www.ign.com/articles/48-brilliant-details-in-lego-batman-legacy-of-the-dark-knight",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T15:30:00+00:00"
-    },
-    {
-      "id": "32c02c390dd87eafb2441418",
-      "title": "Blizzard Admits It Messed Up Overwatch’s 10th Anniversary Event, but Insists It’s ‘Happy With Where the Game Is Today’",
-      "summary": "Blizzard responds to Overwatch 10th Anniversary event backlash.",
-      "url": "https://www.ign.com/articles/blizzard-admits-it-messed-up-overwatchs-10th-anniversary-event-but-insists-its-happy-with-where-the-game-is-today",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T14:46:13+00:00"
-    },
-    {
-      "id": "ae5c52dce217b6af6c95c043",
-      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
-      "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
-      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T14:40:25+00:00"
-    },
-    {
       "id": "5913f25541425d2f6fac662f",
       "title": "Iran steps up claim to control Strait of Hormuz",
       "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
@@ -123,17 +343,6 @@
       "publishedAt": "2026-05-21T14:37:29+00:00"
     },
     {
-      "id": "1bf2163a73dec3f991e95851",
-      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
-      "summary": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far.",
-      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T14:26:28+00:00"
-    },
-    {
       "id": "4d10b27fc3a035c0cd6d44d0",
       "title": "Le transhumaniste suédois Nick Bostrom redoute un « retour de balancier trop fort contre l’IA »",
       "summary": "Le futurologue met en garde contre la menace que fait peser l’intelligence artificielle sur les cols blancs et la crise existentielle inédite qu’elle pourrait provoquer dans la population, tout en reconnaissant son apport dans la recherche ou la santé.",
@@ -143,28 +352,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-21T14:00:12+00:00"
-    },
-    {
-      "id": "221a622a45d6d19b9a93629b",
-      "title": "Fallout 4 on Consoles Will Soon Let You Add More Mods",
-      "summary": "Fallout 4 maker Bethesda has confirmed that an increase in storage for mods on the console versions is on the way, giving players more space to download and use Creations.",
-      "url": "https://www.ign.com/articles/fallout-4-on-consoles-will-soon-let-you-add-more-mods",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T13:52:10+00:00"
-    },
-    {
-      "id": "357a6ffb198a034ad7a48770",
-      "title": "The Pokémon Company Considers Government ID Check to Combat Trading Card Scalping in Japan",
-      "summary": "The Pokémon Company announced today that it is considering introducing an ID verification system in Japan to tackle scalping and cheating related to Pokémon Trading Card Game products and events. The system will utilize Japan’s “My Number” card, a government-issued social security card.",
-      "url": "https://www.ign.com/articles/the-pokmon-company-considers-government-id-check-to-combat-trading-card-scalping-in-japan",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T13:44:05+00:00"
     },
     {
       "id": "9838c04d5d77c178673dbf3f",
@@ -200,28 +387,6 @@
       "publishedAt": "2026-05-21T13:00:11+00:00"
     },
     {
-      "id": "dd3063018da18d62a078dc20",
-      "title": "Avatar: The Last Airbender Season 2 Trailer Shows Toph Mentoring Aang",
-      "summary": "Netflix has released the official trailer for Season 2 of Avatar: The Last Airbender, which premieres June 25, 2026. The streamer also unveiled five new photos from their live-action reimagining of the acclaimed Nickelodeon animated series.",
-      "url": "https://www.ign.com/articles/avatar-the-last-airbender-season-2-trailer-shows-toph-mentoring-aang",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T13:00:00+00:00"
-    },
-    {
-      "id": "dcef60836bfb120c1105b17d",
-      "title": "The 10 Best Sci-Fi Anime Series of All Time",
-      "summary": "The 10 best sci-fi anime series of all time: Nothing but bangers here.",
-      "url": "https://www.ign.com/articles/best-sci-fi-anime-series-of-all-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T13:00:00+00:00"
-    },
-    {
       "id": "ecf2179aa5d2caf370c95657",
       "title": "Gonorrhoea and syphilis hit record levels in Europe",
       "summary": "STIs have surged thanks to record cases and gaps in testing and prevention, a health agency reports.",
@@ -231,28 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-21T12:19:15+00:00"
-    },
-    {
-      "id": "0cef069b55d875a59d0c50f3",
-      "title": "Former Splinter Cell Creative Director Says Realistic Graphics Are Causing Problems for Modern Stealth Games",
-      "summary": "The former creative director of one of gaming's most influential stealth franchises, Splinter Cell, has suggested that advancements in lighting and shadow have made it more difficult than ever for the fans — and creators — of the genre.",
-      "url": "https://www.ign.com/articles/former-splinter-cell-creative-director-says-realistic-graphics-are-causing-problems-for-modern-stealth-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T11:38:17+00:00"
-    },
-    {
-      "id": "857682f94fada851f88c9926",
-      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
-      "summary": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime.",
-      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T11:22:18+00:00"
     },
     {
       "id": "db5c0e6fd2aeb07860d06c8d",
@@ -266,17 +409,6 @@
       "publishedAt": "2026-05-21T11:05:18+00:00"
     },
     {
-      "id": "b40944761c1414d9ff11d39b",
-      "title": "Bose QuietComfort Ultra Earbuds' Deep Discount Makes Them Finally Worth the Price",
-      "summary": "With a new version out, the first-gen Bose QC Ultra Earbuds can be found on deep discount, making them an excellent choice for anyone looking for quality ANC and fantastic sound without paying full price.",
-      "url": "https://www.ign.com/articles/bose-quietcomfort-ultra-earbuds-deep-discount-makes-them-finally-worth-the-price",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T11:00:00+00:00"
-    },
-    {
       "id": "79ccf545751be03e5f918059",
       "title": "Arnaques financières en ligne : des associations de consommateurs exigent des actions",
       "summary": "Face à l’ampleur des arnaques aux paiements sur les réseaux sociaux, le Bureau européen des unions de consommateurs et 13 associations nationales demandent aux grandes plateformes d’assumer leurs responsabilités en matière de protection des consommateurs.",
@@ -286,17 +418,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-21T10:23:30+00:00"
-    },
-    {
-      "id": "300f56e817c96747dd9c6e1d",
-      "title": "The Boys Showrunner Explains Queen Maeve No-Show in Series Finale",
-      "summary": "The Boys showrunner Eric Kripke has said he wanted a Queen Maeve cameo in Season 5, but actress Dominique McElligott turned him down.",
-      "url": "https://www.ign.com/articles/the-boys-showrunner-explains-queen-maeve-no-show-in-series-finale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T10:11:06+00:00"
     },
     {
       "id": "05558b17034c968a3c0861c0",
@@ -321,17 +442,6 @@
       "publishedAt": "2026-05-21T10:00:06+00:00"
     },
     {
-      "id": "f695f3d78163678aaec124b1",
-      "title": "Splitgate Dev Announces Titanfall-Inspired Shooter Empulse",
-      "summary": "Splitgate developer 1047 Games has announced Empluse, a \"Titanfall-inspired movement shooter\" expected to release into early access later this year.",
-      "url": "https://www.ign.com/articles/splitgate-dev-announces-titanfall-inspired-shooter-empulse",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T09:54:24+00:00"
-    },
-    {
       "id": "d7660b86273124019663de67",
       "title": "Watch: 'Everybody back up!' Moment car explodes in NYC",
       "summary": "Viral footage circulating online shows flames and thick black smoke enveloping the street in New York.",
@@ -352,17 +462,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-21T09:41:40+00:00"
-    },
-    {
-      "id": "e9056f2957323a89db5f3448",
-      "title": "Sony Quietly Increased the Price of PlayStation Plus Extra and Premium Subscriptions, Too",
-      "summary": "Sony has quietly increased the price of the PlayStation Plus Extra and Premium subscription tiers as well as the Essential tier, having suggested only the Essential tier would get more expensive.",
-      "url": "https://www.ign.com/articles/sony-quietly-increased-the-price-of-playstation-plus-extra-and-premium-subscriptions-too",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T08:40:38+00:00"
     },
     {
       "id": "23196afed5276a9249abf514",
@@ -387,17 +486,6 @@
       "publishedAt": "2026-05-21T08:14:52+00:00"
     },
     {
-      "id": "36c40517367a9e4034f4d59d",
-      "title": "Schwarzenegger Reveals King Conan Will Shoot in 2027",
-      "summary": "",
-      "url": "https://www.ign.com/articles/schwarzenegger-reveals-king-conan-will-shoot-in-2027",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T08:00:18+00:00"
-    },
-    {
       "id": "76014b47c8c86471efd57d29",
       "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
       "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
@@ -407,17 +495,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-21T07:10:42+00:00"
-    },
-    {
-      "id": "100f61b15adb52e253c96a78",
-      "title": "The Boroughs Episode 1 Review",
-      "summary": "The Boroughs Episode 1 review: Alfred Molina moves into a mysterious retirement community.",
-      "url": "https://www.ign.com/articles/the-boroughs-episode-1-review-netflix-alfred-molina-geena-davis",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T07:00:00+00:00"
     },
     {
       "id": "6b75245ccfac9494e1ca5da5",
@@ -497,39 +574,6 @@
       "publishedAt": "2026-05-21T03:00:02+00:00"
     },
     {
-      "id": "db7313f36afbc680a056a5d3",
-      "title": "Here's What Time You Can Play 007 First Light",
-      "summary": "IO Interactive has confirmed the exact second you can start playing 007 First Light next week.",
-      "url": "https://www.ign.com/articles/heres-what-time-you-can-play-007-first-light",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T02:00:36+00:00"
-    },
-    {
-      "id": "57a14a9f58cb8f8c220c2197",
-      "title": "The Expanse: Osiris Reborn Is Recasting its Protagonist After Negative Fan Feedback",
-      "summary": "The Expanse: Osiris Reborn will be recasting its male protagonist and his twin brother, according to developer Owlcat Games.",
-      "url": "https://www.ign.com/articles/the-expanse-osiris-reborn-is-recasting-its-protagonist-after-negative-fan-feedback",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T01:22:44+00:00"
-    },
-    {
-      "id": "f6a02df7947cc04fccea2f96",
-      "title": "Forza Horizon 6 Players Are Using Exploits to Farm Easy Credits and Unlock Every Car",
-      "summary": "Forza Horizon 6 players are exploiting certain parts of the game so that they can quickly and easily unlock every vehicle in the game.",
-      "url": "https://www.ign.com/articles/forza-horizon-6-players-are-using-exploits-to-farm-easy-credits-and-unlock-every-car",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T01:19:15+00:00"
-    },
-    {
       "id": "0f5eec4bf6a8996511c80b82",
       "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
       "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
@@ -539,39 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-20T23:47:01+00:00"
-    },
-    {
-      "id": "8ce8d5b9dd5bf13b70c1e545",
-      "title": "Who Died (and Who Lived) in The Boys Finale",
-      "summary": "After five seasons, The Boys wrapped up this week with the series finale, “Blood and Bone.” And as you might expect, not everyone made it out alive after the climactic showdown between Homelander (Antony Starr) and Billy Butcher (Karl Urban).",
-      "url": "https://www.ign.com/articles/who-died-and-who-lived-in-the-boys-finale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-20T23:32:19+00:00"
-    },
-    {
-      "id": "ba70ecbc076cc6b64a127569",
-      "title": "The Powerful MSI Vector 16\" RTX 5070 Ti Gaming Laptop Drops to $1399 for Memorial Day",
-      "summary": "I haven't seen this kind of pricing since Black Friday.",
-      "url": "https://www.ign.com/articles/msi-vector-rtx-5070-ti-gaming-laptop-deal-walmart-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-20T22:50:00+00:00"
-    },
-    {
-      "id": "76c43c616abd03825a27443a",
-      "title": "Brandon Sanderson Says He'll Start Working on His Mistborn Era 3 Book Again in July",
-      "summary": "Ghostbloods is due to release in December 2028.",
-      "url": "https://www.ign.com/articles/brandon-sanderson-says-hell-start-working-on-his-mistborn-era-3-book-again-in-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-20T21:47:58+00:00"
     },
     {
       "id": "3ef5f44a52b4afa22113aa7b",
@@ -902,17 +913,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-19T20:00:00+00:00"
-    },
-    {
-      "id": "19a442b1d93352311dc80895",
-      "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
-      "summary": "Many visitors who have been exempt for 60 days will soon have to apply for a visa after 30 days.",
-      "url": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-19T16:34:21+00:00"
     },
     {
       "id": "4110bb914e64a2fda2ae2b8e",
