@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-05-22T10:17:55.837371+00:00",
+  "updatedAt": "2026-05-22T13:24:26.370207+00:00",
   "items": [
+    {
+      "id": "8e265850a32751dc75bdc6a2",
+      "title": "UK scientists developing new Ebola vaccine that could be ready in months",
+      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T12:56:06+00:00"
+    },
+    {
+      "id": "be39c0aedab764038ccd8586",
+      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
+      "summary": "Bungie said the online shooter will get its final update on 9 June but will still be playable.",
+      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-22T12:16:35+00:00"
+    },
+    {
+      "id": "c70740bd95bf0a4849f03542",
+      "title": "Netflix's The Boroughs Showrunners Explain the End of Season 1, and What May Happen in Season 2",
+      "summary": "Netflix's The Boroughs showrunners explain the ending of Season 1, including Mother, that weird tree, and their plans for the future of the show. Plus, what was their 'loving homage to Stranger Things'?",
+      "url": "https://www.ign.com/articles/netflix-the-boroughs-ending-explained-season-1-2",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-22T12:00:00+00:00"
+    },
+    {
+      "id": "0f22160dd00873d9e17bd41b",
+      "title": "These LEGO Batman Sets Unlock DLC Vehicles in LEGO Batman: Legacy of the Dark Knight",
+      "summary": "Buy these physical LEGO Batman sets, and you'll unlock gold variant skins of Batmobiles or Batman himself, in the new game LEGO Batman: Legacy of the Dark Knight.",
+      "url": "https://www.ign.com/articles/lego-batman-sets-dlc-vehicles-lego-legacy-of-the-dark-knight",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-22T12:00:00+00:00"
+    },
+    {
+      "id": "521bc7b0ed6671e8ef774505",
+      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
+      "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T11:45:38+00:00"
+    },
+    {
+      "id": "2c9f146a153dfa1c387a9a4f",
+      "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
+      "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead.",
+      "url": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T11:41:23+00:00"
+    },
     {
       "id": "dab727cfca08f181fb628911",
       "title": "Nato chief welcomes US sending 5,000 troops to Poland",
@@ -10,7 +76,84 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-22T09:43:39+00:00"
+      "publishedAt": "2026-05-22T11:39:14+00:00"
+    },
+    {
+      "id": "8e4af0a3575ac49f27ad45ef",
+      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
+      "summary": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power.",
+      "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T11:34:48+00:00"
+    },
+    {
+      "id": "62befc776d21a3bf9f484e4f",
+      "title": "30 Years Ago the Mission: Impossible Franchise Kicked Off With a Massive Fan Betrayal (But a Very Cool Movie)",
+      "summary": "On May 22, 1996, Tom Cruise's first Mission: Impossible movie opened, and it included a twist that would've driven most fans crazy if it happened today.",
+      "url": "https://www.ign.com/articles/30-years-ago-the-mission-impossible-franchise-kicked-off-with-a-massive-fan-betrayal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-22T11:00:00+00:00"
+    },
+    {
+      "id": "a96000719809f8217fcf86b5",
+      "title": "Why Ubisoft Returned to Black Flag: ‘There’s Great Value With the Classic Assassin’s Creed Experience’",
+      "summary": "Black Flag's director believes there's \"great value\" in the classic Assassin's Creed formula, but it required completely new ground, naval, and underwater tools to recreate on modern hardware.",
+      "url": "https://www.ign.com/articles/why-ubisoft-returned-to-black-flag-theres-great-value-with-the-classic-assassins-creed-experience",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-22T11:00:00+00:00"
+    },
+    {
+      "id": "e9cc628dd975c896c47c3b30",
+      "title": "AI used to fake evidence that ended Korean actor's career, say police",
+      "summary": "Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.",
+      "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T10:50:24+00:00"
+    },
+    {
+      "id": "7f7bcdff50d81fff11f907b5",
+      "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
+      "summary": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
+      "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T10:45:38+00:00"
+    },
+    {
+      "id": "6a1d82b28db5413c968ed837",
+      "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+      "summary": "The monumental structure was created by Parisan artist JR - often dubbed the French Banksy",
+      "url": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T10:45:27+00:00"
+    },
+    {
+      "id": "05c21b334fd6065568d725e5",
+      "title": "Slow Food founder Carlo Petrini dies aged 76",
+      "summary": "Petrini's movement rejected fast food to promote sustainable production and traditional cooking.",
+      "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T10:22:21+00:00"
     },
     {
       "id": "e5ec8c8bb85db75f0da6e2e9",
@@ -22,17 +165,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-22T09:32:42+00:00"
-    },
-    {
-      "id": "521bc7b0ed6671e8ef774505",
-      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
-      "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T08:21:13+00:00"
     },
     {
       "id": "8e984b43e85c047bfdaa641e",
@@ -114,13 +246,13 @@
     {
       "id": "9dc51903a6a4dbe118178e03",
       "title": "A Los Angeles, des spots politiques conçus grâce à une IA déstabilisent la campagne municipale",
-      "summary": "Ancienne star de la téléréalité, Spencer Pratt, républicain revendiqué et candidat à l’élection, diffuse des vidéos alliant populisme et science fiction pour s’en prendre à la maire sortante, Karen Bass, et à d’autres figures démocrates.",
+      "summary": "Ancienne star de la téléréalité, Spencer Pratt, républicain revendiqué et candidat à l’élection, diffuse des vidéos alliant populisme et science-fiction pour s’en prendre à la maire sortante, Karen Bass, et à d’autres figures démocrates.",
       "url": "https://www.lemonde.fr/international/article/2026/05/22/a-los-angeles-des-spots-politiques-concus-grace-a-une-ia-destabilisent-la-campagne-municipale_6692154_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-22T03:43:38+00:00"
+      "publishedAt": "2026-05-22T03:43:36+00:00"
     },
     {
       "id": "09a4235dfc0b31f4bdec8242",
@@ -288,17 +420,6 @@
       "publishedAt": "2026-05-21T23:00:00+00:00"
     },
     {
-      "id": "2c9f146a153dfa1c387a9a4f",
-      "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
-      "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead.",
-      "url": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T22:52:09+00:00"
-    },
-    {
       "id": "d0324f9cee9cba047bdc3d4f",
       "title": "Tennessee execution called off after failed lethal injection",
       "summary": "Tony Carruthers was granted a one-year reprieve from death after his executioners failed to find a vein for lethal injection.",
@@ -363,6 +484,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-21T20:57:01+00:00"
+    },
+    {
+      "id": "c2cbd0c18ef627ee8a885b44",
+      "title": "How Cuban-Americans feel about Raúl Castro's indictment",
+      "summary": "The DOJ charged the former leader of Cuba with murder and other crimes for his alleged role in the downing of two civilian aircraft in 1996.",
+      "url": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-21T20:52:52+00:00"
     },
     {
       "id": "8c14de8f8317a7fb1b7c61c7",
@@ -431,17 +563,6 @@
       "publishedAt": "2026-05-21T20:07:36+00:00"
     },
     {
-      "id": "872e0abd96d224ca28be35e7",
-      "title": "Viture Beast XR Glasses",
-      "summary": "",
-      "url": "https://www.ign.com/articles/viture-beast-xr-glasses",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T19:10:19+00:00"
-    },
-    {
       "id": "57749cb77f4b1bb607c90295",
       "title": "Will US invade? Three ways Cuba crisis could play out now",
       "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
@@ -453,17 +574,6 @@
       "publishedAt": "2026-05-21T18:40:12+00:00"
     },
     {
-      "id": "bbb1b93fabed918e7ce34b6d",
-      "title": "Save 50% Off the Wolfbox X3 Pro 2.5K Dashcam Bundle During Amazon's Memorial Day Sale",
-      "summary": "Equipped with the highly rated Sony STARVIS 2 IMX675 sensor for low-light video recording",
-      "url": "https://www.ign.com/articles/wolfbox-x3-pro-25k-front-and-rear-dashcam-deal-amazon-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T18:35:00+00:00"
-    },
-    {
       "id": "49a679aab3a9daa390b76f9f",
       "title": "Pair arrested after boys abandoned by road in Portugal",
       "summary": "The children were carrying backpacks with food and water but no identity documents when they were found by a driver.",
@@ -473,28 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-21T18:32:30+00:00"
-    },
-    {
-      "id": "7cf62d7a255b24be16059233",
-      "title": "Expand Your Home Gym With This Yoleo Weight Bench for Just $39 During Amazon's Memorial Day Sale",
-      "summary": "30% cheaper than the best deal I saw during the previous Amazon Spring Sale.",
-      "url": "https://www.ign.com/articles/yoleo-weight-bench-deal-amazon-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T18:30:00+00:00"
-    },
-    {
-      "id": "2b03bd1c35582d8f25d85425",
-      "title": "Stream as Fox McCloud in Star Fox With the Nintendo Switch 2 Camera, Now 45% Off for Memorial Day",
-      "summary": "Let's rock and roll!",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-camera-deal-with-star-fox-update-best-buy-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T18:30:00+00:00"
     },
     {
       "id": "7a189f941c6da05c97f5c599",
@@ -651,17 +739,6 @@
       "publishedAt": "2026-05-21T09:41:40+00:00"
     },
     {
-      "id": "23196afed5276a9249abf514",
-      "title": "Sacred hall housing 'eternal flame' in Japan destroyed by fire",
-      "summary": "The temple has moved the flame to a different location and authorities said the fire may have been caused by it, according to Japan Times.",
-      "url": "https://www.bbc.com/news/videos/ckgpxp9wlqpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T08:38:55+00:00"
-    },
-    {
       "id": "b9ed2ef126b2f817c7b0c4f9",
       "title": "Chez Google, James Manyika déplore les tergiversations sur l’IA : « C’est une situation désastreuse pour les utilisateurs français »",
       "summary": "Le vice-président senior technologie et société de Google regrette que les innovations de son groupe ne soient pas déployées en France, pays qu’il juge trop réfractaire. Il se veut rassurant sur les risques que représente l’intelligence artificielle sur l’emploi.",
@@ -739,17 +816,6 @@
       "publishedAt": "2026-05-21T03:30:08+00:00"
     },
     {
-      "id": "c944e23d38af500bc2feaa23",
-      "title": "Watch: Why is the US going after Cuba's Raúl Castro 30 years on?",
-      "summary": "BBC correspondent Will Grant reports from Havana, hours after the US charged former Cuban leader with conspiracy to kill US nationals and other crimes.",
-      "url": "https://www.bbc.com/news/videos/cy529g5lnleo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T03:07:46+00:00"
-    },
-    {
       "id": "d905407cab279a43a6dc205e",
       "title": "Arnaques téléphoniques : radioscopie d’un fléau social",
       "summary": "Alors qu’un nombre record de fuites de données a marqué l’année 2025, les réseaux cybercriminels multiplient les techniques d’escroqueries. Dans ce podcast, décryptage de ce phénomène de société à l’aide de témoignages et de l’analyse de deux journalistes au service Pixels du « Monde », Florian Reynaud et Martin Untersinger.",
@@ -759,28 +825,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-21T03:00:02+00:00"
-    },
-    {
-      "id": "3ef5f44a52b4afa22113aa7b",
-      "title": "Why Russian jets intercepting an RAF spy plane is 'serious incident'",
-      "summary": "The BBC's Frank Gardner explained how the incident highlighted tense relations between Russia and Nato.",
-      "url": "https://www.bbc.com/news/videos/cx21y59q35wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-20T21:46:32+00:00"
-    },
-    {
-      "id": "e81d9deedbd647f79f82ffb2",
-      "title": "New video captures engine ripping off cargo plane in deadly Kentucky crash",
-      "summary": "As part of the ongoing investigation into the crash that killed 14 people, officials released footage showing the engine detaching during takeoff.",
-      "url": "https://www.bbc.com/news/videos/crmplvm3vreo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-20T18:27:37+00:00"
     },
     {
       "id": "4f2194325327a8e28d3584ad",
@@ -968,17 +1012,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-18T23:04:03+00:00"
-    },
-    {
-      "id": "1aaa585b9f2dca682bd33493",
-      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
-      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-18T22:08:37+00:00"
     },
     {
       "id": "37934ce515c62d0000c36b20",
