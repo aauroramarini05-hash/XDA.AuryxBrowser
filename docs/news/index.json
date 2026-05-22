@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-05-22T06:41:07.263026+00:00",
+  "updatedAt": "2026-05-22T10:17:55.837371+00:00",
   "items": [
+    {
+      "id": "dab727cfca08f181fb628911",
+      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
+      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T09:43:39+00:00"
+    },
+    {
+      "id": "e5ec8c8bb85db75f0da6e2e9",
+      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+      "summary": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T09:32:42+00:00"
+    },
+    {
+      "id": "521bc7b0ed6671e8ef774505",
+      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
+      "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T08:21:13+00:00"
+    },
+    {
+      "id": "8e984b43e85c047bfdaa641e",
+      "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
+      "summary": "The sanctions come amid growing scrutiny of Tanzania’s human rights record in recent years.",
+      "url": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T08:15:21+00:00"
+    },
+    {
+      "id": "fcd7861539c8785a77e1ce1d",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T08:13:13+00:00"
+    },
+    {
+      "id": "8ed2ece3fb30d10fd71fdb5b",
+      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T08:12:47+00:00"
+    },
+    {
+      "id": "fbae26bf0a59d9486c2b61d2",
+      "title": "Africa summit in India postponed over Ebola outbreak fears",
+      "summary": "The India-Africa summit was set to be held next week in Delhi after more than a decade.",
+      "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-22T07:56:53+00:00"
+    },
+    {
+      "id": "7af26773558f7492cbdf2bb4",
+      "title": "For All Mankind Season 5, Episode 9 Review — \"Sons and Daughters\"",
+      "summary": "“Sons and Daughters” delivers a messy penultimate episode in an overall rocky season of For All Mankind.",
+      "url": "https://www.ign.com/articles/for-all-mankind-season-5-episode-9-review-sons-and-daughters",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-22T07:00:00+00:00"
+    },
     {
       "id": "d7f50d0e9660b7ecfc92b010",
       "title": "Australian man dies after falling down ravine on hike to Machu Picchu",
@@ -33,17 +121,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-22T03:43:38+00:00"
-    },
-    {
-      "id": "e62a8237a347c8920eabe4f7",
-      "title": "US to send 5,000 more troops to Poland, Trump says",
-      "summary": "The announcement comes a week after the Pentagon cancelled a planned deployment of 4,000 troops to the country.",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T03:25:48+00:00"
     },
     {
       "id": "09a4235dfc0b31f4bdec8242",
@@ -121,28 +198,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-22T00:21:24+00:00"
-    },
-    {
-      "id": "fcd7861539c8785a77e1ce1d",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
-      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T00:10:44+00:00"
-    },
-    {
-      "id": "5368ce4af84e6c0d7041fed6",
-      "title": "'I didn't know where DR Congo was': Latin Americans deported by US tell BBC of their shock",
-      "summary": "The 15 deportees describe the uncertainty they face in a country they had never seen before.",
-      "url": "https://www.bbc.com/news/articles/c78qw88jjd4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T00:10:07+00:00"
     },
     {
       "id": "56597a7e34a3e9d7a25dcad1",
@@ -365,17 +420,6 @@
       "publishedAt": "2026-05-21T20:17:16+00:00"
     },
     {
-      "id": "521bc7b0ed6671e8ef774505",
-      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
-      "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T20:12:25+00:00"
-    },
-    {
       "id": "911d6181334283d89c7c1446",
       "title": "Lupita Nyong’o Responds to Backlash Over Helen of Troy Casting in The Odyssey",
       "summary": "",
@@ -398,8 +442,8 @@
       "publishedAt": "2026-05-21T19:10:19+00:00"
     },
     {
-      "id": "175e7ff913b735cc0051cbc8",
-      "title": "Three ways Cuba crisis could play out after US indictment of Raúl Castro",
+      "id": "57749cb77f4b1bb607c90295",
+      "title": "Will US invade? Three ways Cuba crisis could play out now",
       "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
       "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -473,17 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-21T17:52:03+00:00"
-    },
-    {
-      "id": "64e689ecf4b28f7a37c7ab14",
-      "title": "Samsung's Highest End 55\" 4K OLED TV (S95F) Drops to $899 During the Best Buy Memorial Day Sale",
-      "summary": "Currently $1,600 at Amazon.",
-      "url": "https://www.ign.com/articles/samsung-s95f-4k-oled-smart-tv-deal-best-buy-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-21T17:30:00+00:00"
     },
     {
       "id": "c99f16d19b5a50ad612be0ca",
