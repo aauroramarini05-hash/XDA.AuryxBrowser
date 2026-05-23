@@ -1,16 +1,71 @@
 {
-  "updatedAt": "2026-05-23T13:04:27.431336+00:00",
+  "updatedAt": "2026-05-23T14:54:01.113638+00:00",
   "items": [
     {
-      "id": "2714a72349a18d5ebb1a3480",
-      "title": "French pair held until trial after boys abandoned by road in Portugal",
-      "summary": "The couple, who allegedly left two young boys on a roadside in the south of Portugal, will remain in custody, a court rules.",
+      "id": "ff80d52e33f4cfc6b9a9d2a6",
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
       "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-23T12:39:10+00:00"
+      "publishedAt": "2026-05-23T14:24:48+00:00"
+    },
+    {
+      "id": "d0e41f22b12565d20c5b6b99",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-23T14:06:12+00:00"
+    },
+    {
+      "id": "c99276b2a3fb79e0001a1f99",
+      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-23T13:40:31+00:00"
+    },
+    {
+      "id": "602ee26fc9816b109f10f275",
+      "title": "Watch: Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
+      "summary": "BBC's Brandon Livesay toured the Columbia Park Training Facility in Morris Township, New Jersey that will host the team in the coming weeks.",
+      "url": "https://www.bbc.com/news/videos/c2l2rgeyjnwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-23T13:31:38+00:00"
+    },
+    {
+      "id": "447b3f3b52a208a79fc2dbfb",
+      "title": "The Mandalorian and Grogu: Did the New Republic Commit War Crimes?",
+      "summary": "For most of the running time of The Mandalorian and Grogu, the first Star Wars movie to hit theaters in seven years, it’s a romp with the titular characters… right up until the New Republic maybe commits a massive war crime.",
+      "url": "https://www.ign.com/articles/the-mandalorian-and-grogu-movie-hutts-did-the-new-republic-commit-war-crimes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-23T13:00:00+00:00"
+    },
+    {
+      "id": "7c94a2cb52bbc4f13602be2e",
+      "title": "Warhammer 40,000 Is an Accessibility Battle",
+      "summary": "The world of Warhammer 40k offers many ways to play, but getting into the tabletop hobby poses many challenges for disabled players, from rolling dice to painting miniatures.",
+      "url": "https://www.ign.com/articles/warhammer-40000-is-an-accessibility-battle",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-23T13:00:00+00:00"
     },
     {
       "id": "ddd9d1020e8282aa7463d392",
@@ -46,17 +101,6 @@
       "publishedAt": "2026-05-23T11:36:09+00:00"
     },
     {
-      "id": "c99276b2a3fb79e0001a1f99",
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
-      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T11:23:10+00:00"
-    },
-    {
       "id": "ab90866532d84455363e0d9a",
       "title": "Take-Two Boss Believes in the Pull of GTA 6 Even Amid Rising Cost of Console Gaming",
       "summary": "Take-Two boss Strauss Zelnick acknowledges \"economic challenges\" people are facing amid the rising cost of console gaming, but insists fans will still come out for GTA 6.",
@@ -88,17 +132,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-23T08:07:56+00:00"
-    },
-    {
-      "id": "d0e41f22b12565d20c5b6b99",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T07:44:14+00:00"
     },
     {
       "id": "aaf78ace87d2dd8d74dcf6b1",
@@ -462,28 +495,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-22T17:43:53+00:00"
-    },
-    {
-      "id": "ed8da17b3e866e31be52aa87",
-      "title": "Today’s Top Deals: Logitech G920 Racing Wheel, LEGO The Starry Night, and a MacBook Air",
-      "summary": "Plus, save on Warhammer 40K: Space Marine 2, a Sonos Bluetooth speaker, a Ryzen CPU, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-may-22-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-22T17:15:00+00:00"
-    },
-    {
-      "id": "b9cab71a49d1cb6a2e4e3441",
-      "title": "Save 20% Off the Apple AirPods Pro 3 Earbuds During the Amazon Memorial Day Sale",
-      "summary": "The best noise canceling earbuds for iPhone.",
-      "url": "https://www.ign.com/articles/apple-airpods-pro-3-earbuds-deal-amazon-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-22T17:10:00+00:00"
     },
     {
       "id": "8463dd1b000f5d8e34373ba3",
