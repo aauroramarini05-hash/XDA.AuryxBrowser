@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-05-24T06:29:15.347922+00:00",
+  "updatedAt": "2026-05-24T09:14:37.488728+00:00",
   "items": [
+    {
+      "id": "85caff8c4d61d9ae7e1052d3",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, according to Volodymyr Zelensky.",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T08:22:58+00:00"
+    },
+    {
+      "id": "a8f39fbb09ec200dc1d41d9d",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T07:12:37+00:00"
+    },
     {
       "id": "883f0a31fa0d2934ca5e9f91",
       "title": "Suspect killed after opening fire on Secret Service near White House",
@@ -13,26 +35,15 @@
       "publishedAt": "2026-05-24T06:15:32+00:00"
     },
     {
-      "id": "edc28d9aac0c796b21188795",
-      "title": "Têtes de cochon, « synagogues vertes »…. Dans les coulisses des opérations de désinformation russes visant la France",
+      "id": "1ca75af7bfafea229ea1b8bc",
+      "title": "Têtes de cochon, « synagogues vertes »… Dans les coulisses des opérations de désinformation russes visant la France",
       "summary": "Des documents internes aux entreprises chargées de mener des campagnes de désinformation pour le compte du Kremlin illustrent l’évolution de la stratégie russe vers les opérations « hybrides ».",
       "url": "https://www.lemonde.fr/pixels/article/2026/05/24/tetes-de-cochon-synagogues-vertes-dans-les-coulisses-des-operations-de-desinformation-russes-visant-la-france_6693205_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-24T06:00:14+00:00"
-    },
-    {
-      "id": "a2a460401fd74377a7ad7043",
-      "title": "One dead, multiple injured after Russia launches wave of strikes on Ukraine",
-      "summary": "Twenty-one people have been injured, including a 15-year-old boy, with damage reported across all districts of Kyiv.",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T04:54:07+00:00"
+      "publishedAt": "2026-05-24T06:00:07+00:00"
     },
     {
       "id": "f9002e777e8ffc82f88b7b57",
