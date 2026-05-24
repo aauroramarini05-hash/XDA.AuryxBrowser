@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-05-24T14:56:02.708333+00:00",
+  "updatedAt": "2026-05-24T15:57:19.169690+00:00",
   "items": [
+    {
+      "id": "a8f39fbb09ec200dc1d41d9d",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T15:29:08+00:00"
+    },
+    {
+      "id": "883f0a31fa0d2934ca5e9f91",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T15:24:11+00:00"
+    },
+    {
+      "id": "85812ec19a6b0eea48d521bc",
+      "title": "Turkish police storm opposition offices after leaders ousted",
+      "summary": "Officers stormed the building days after the party vowed to defy a court ruling removing its leaders.",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T15:20:35+00:00"
+    },
+    {
+      "id": "e5720a8cdccbad6e0650ca1c",
+      "title": "IA : le risque d’un décrochage européen face aux Américains et aux Chinois",
+      "summary": "A l’image de l’audition parlementaire remarquée du cofondateur de Mistral AI Arthur Mensch, les acteurs de l’intelligence artificielle mêlent les appels au volontarisme à un ton très alarmiste.",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/24/ia-le-risque-d-un-decrochage-europeen-face-aux-americains-et-aux-chinois_6693246_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-24T15:00:12+00:00"
+    },
     {
       "id": "23ab98b281c9c773e5f7bf5a",
       "title": "One killed and many feared trapped under collapsed building in Philippines",
@@ -22,6 +66,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-24T14:10:12+00:00"
+    },
+    {
+      "id": "8ead71a7246268b0e7a09b6e",
+      "title": "How to Read The Sun Eater Books and Novellas in Order",
+      "summary": "",
+      "url": "https://www.ign.com/articles/how-to-read-the-sun-eater-books-in-order",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-24T14:02:00+00:00"
     },
     {
       "id": "85caff8c4d61d9ae7e1052d3",
@@ -132,28 +187,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-24T10:34:52+00:00"
-    },
-    {
-      "id": "a8f39fbb09ec200dc1d41d9d",
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T07:12:37+00:00"
-    },
-    {
-      "id": "883f0a31fa0d2934ca5e9f91",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T06:15:32+00:00"
     },
     {
       "id": "1ca75af7bfafea229ea1b8bc",
@@ -618,17 +651,6 @@
       "publishedAt": "2026-05-22T22:30:00+00:00"
     },
     {
-      "id": "0fa980efe4f8a52f900694f4",
-      "title": "The iBuypower Gaming PC With AMD Ryzen 9 9950X3D CPU and 5090 GPU Drops Below $5,000",
-      "summary": "This is a decked out config with 32GB of DDR5-6000MHz RAM, massive 4TB SSD, and 3 year warranty.",
-      "url": "https://www.ign.com/articles/ibuypower-rtx-5090-gaming-pc-deal-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-22T22:30:00+00:00"
-    },
-    {
       "id": "550d317ffc465c5307ae0c81",
       "title": "AI may speed up search for drugs to treat brain conditions",
       "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
@@ -1001,17 +1023,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-20T16:30:24+00:00"
-    },
-    {
-      "id": "0a3ac016d864136d6787d29a",
-      "title": "En Inde, l’IA menace des millions d’emplois dans la sous-traitance des services informatiques",
-      "summary": "Considéré comme le « back-office » du monde, le pays voit fleurir des centres de données pour soutenir l’intelligence artificielle, dont l’essor risque de fragiliser les secteurs des centres d’appels et des services clients et administratifs.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/20/en-inde-l-ia-menace-des-millions-d-emplois-dans-la-sous-traitance-des-services-informatiques_6691751_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-20T15:30:03+00:00"
     },
     {
       "id": "fa68a4054420d8c3100bfff5",
