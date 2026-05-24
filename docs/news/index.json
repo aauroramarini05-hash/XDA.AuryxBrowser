@@ -1,10 +1,43 @@
 {
-  "updatedAt": "2026-05-24T17:57:41.023529+00:00",
+  "updatedAt": "2026-05-24T19:15:02.427774+00:00",
   "items": [
+    {
+      "id": "af306112f936a7c12d56dc2d",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T18:51:00+00:00"
+    },
+    {
+      "id": "8b27014137f5c4e46ac1e621",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "summary": "The US president said both sides \"must take their time\" to reach a deal, after saying on Saturday that an agreement had been \"largely negotiated\".",
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T18:16:16+00:00"
+    },
+    {
+      "id": "24cd0ec66908d6c37883d9e6",
+      "title": "Star Citizen Officially Crosses the $1 Billion Funding Raised Barrier as $5,000 Spaceship You Can't Fly In-Game Goes on Sale",
+      "summary": "Star Citizen has crossed the $1 billion funding raised barrier — a significant milestone for the space sim that came shortly after a new $5,000 virtual spaceship you can't fly in-game went on sale.",
+      "url": "https://www.ign.com/articles/star-citizen-officially-crosses-the-1-billion-funding-raised-barrier-as-5000-spaceship-you-cant-fly-in-game-goes-on-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-24T18:15:04+00:00"
+    },
     {
       "id": "c89583aef48264fdd8f05d1b",
       "title": "Unreal Engine 6 Revealed as Rocket League Gets a New Coat of Paint",
-      "summary": "Epic Games developer Psyonix has published a sneak peek at an updated version of Rocket League running in Unreal Engine 6.",
+      "summary": "Epic Games developer Psyonix has published a sneak peek at an updated version of Rocket League running in Unreal Engine 6, revealing a first look at its new logo.",
       "url": "https://www.ign.com/articles/unreal-engine-6-revealed-as-rocket-league-gets-a-new-coat-of-paint",
       "imageUrl": null,
       "source": "IGN All",
@@ -343,17 +376,6 @@
       "publishedAt": "2026-05-23T20:34:18+00:00"
     },
     {
-      "id": "af306112f936a7c12d56dc2d",
-      "title": "California declares emergency as fire crews race to contain toxic leak",
-      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T20:07:01+00:00"
-    },
-    {
       "id": "8300bf092b859924d19f5fb6",
       "title": "Kingdom Come Dev Confirms Next Installment Is an 'Open-World RPG' Set to Launch Next Fiscal Year",
       "summary": "Warhorse Studios has confirmed its next Kingdom Come game will be an \"open-world RPG,\" and it's expected to launch next fiscal year.",
@@ -506,17 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-23T11:36:09+00:00"
-    },
-    {
-      "id": "ab90866532d84455363e0d9a",
-      "title": "Take-Two Boss Believes in the Pull of GTA 6 Even Amid Rising Cost of Console Gaming",
-      "summary": "Take-Two boss Strauss Zelnick acknowledges \"economic challenges\" people are facing amid the rising cost of console gaming, but insists fans will still come out for GTA 6.",
-      "url": "https://www.ign.com/articles/take-two-boss-believes-in-the-pull-of-gta-6-even-amid-rising-cost-of-console-gaming",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-23T11:15:10+00:00"
     },
     {
       "id": "f2fab7e5a58457476cf7ed45",
