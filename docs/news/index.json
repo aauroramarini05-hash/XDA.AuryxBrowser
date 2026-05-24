@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T11:08:08.579175+00:00",
+  "updatedAt": "2026-05-24T13:02:48.489176+00:00",
   "items": [
     {
       "id": "85caff8c4d61d9ae7e1052d3",
@@ -10,7 +10,62 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-24T10:52:46+00:00"
+      "publishedAt": "2026-05-24T13:02:02+00:00"
+    },
+    {
+      "id": "a558df5f9b108e6326b3d735",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T12:26:09+00:00"
+    },
+    {
+      "id": "5a73ac36690acadc833e2c80",
+      "title": "People trapped under collapsed building in Philippines",
+      "summary": "A search operation has so far rescued 24 people with no deaths reported at the site, in a city near the capital Manila.",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T11:51:25+00:00"
+    },
+    {
+      "id": "62dbc2e58785fb18e15f961b",
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "summary": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T11:42:48+00:00"
+    },
+    {
+      "id": "4ab1cf91152cdbf3b7f84981",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T11:09:54+00:00"
+    },
+    {
+      "id": "dedf2eaa968ab791b3e729b2",
+      "title": "A Petition Calling on Sony to Greenlight Destiny 3 Has Over 120,000 Signatures Already — and It's Rising Fast",
+      "summary": "An online petition calling on Sony to greenlight the development of Destiny 3 has seen over 120,000 signatures, but it seems unlikely that the game will be made.",
+      "url": "https://www.ign.com/articles/a-petition-calling-on-sony-to-greenlight-destiny-3-has-over-120000-signatures-already-and-its-rising-fast",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-24T11:05:01+00:00"
     },
     {
       "id": "10a192abf439bbe547da7fbc",
@@ -24,15 +79,15 @@
       "publishedAt": "2026-05-24T10:43:46+00:00"
     },
     {
-      "id": "a558df5f9b108e6326b3d735",
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "id": "e2b6f9288485c34a85ad3c30",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-24T09:08:31+00:00"
+      "publishedAt": "2026-05-24T10:34:52+00:00"
     },
     {
       "id": "a8f39fbb09ec200dc1d41d9d",
@@ -198,17 +253,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-23T20:07:01+00:00"
-    },
-    {
-      "id": "4ab1cf91152cdbf3b7f84981",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
-      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T19:55:16+00:00"
     },
     {
       "id": "8300bf092b859924d19f5fb6",
@@ -486,17 +530,6 @@
       "publishedAt": "2026-05-23T01:00:00+00:00"
     },
     {
-      "id": "8bde7f2b3b0c84bdf38a4736",
-      "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
-      "summary": "More than 30 people, including firefighters, were hurt in the incident, which was described as \"a complex, fast-developing emergency situation\".",
-      "url": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T00:35:16+00:00"
-    },
-    {
       "id": "9db4a68b42bfcb740ef4b06d",
       "title": "The space race to create gym equipment for future astronauts",
       "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
@@ -574,17 +607,6 @@
       "publishedAt": "2026-05-22T22:16:29+00:00"
     },
     {
-      "id": "d48690cd96525f8f0e4886e2",
-      "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "summary": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
-      "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T21:47:47+00:00"
-    },
-    {
       "id": "550d317ffc465c5307ae0c81",
       "title": "AI may speed up search for drugs to treat brain conditions",
       "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
@@ -618,28 +640,6 @@
       "publishedAt": "2026-05-22T21:21:02+00:00"
     },
     {
-      "id": "c02499c7a7bf0e2f2128d371",
-      "title": "Dawn of War IV Dev Doesn't See Total War: Warhammer 40,000 as Direct Competition, Reckons Fans Will Play Both Games",
-      "summary": "Warhammer 40,000 fans will play Dawn of War IV and Total War: Warhammer 40,000, King Art tells IGN in a new interview.",
-      "url": "https://www.ign.com/articles/dawn-of-war-iv-dev-doesnt-see-total-war-warhammer-40000-as-direct-competition-reckons-fans-will-play-both-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-22T21:04:06+00:00"
-    },
-    {
-      "id": "32000df27c7b1d6f90ec357d",
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough.",
-      "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T20:59:28+00:00"
-    },
-    {
       "id": "d1b3c1be1c665cedb0c2e989",
       "title": "Tulsi Gabbard to resign as US national intelligence director",
       "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
@@ -662,17 +662,6 @@
       "publishedAt": "2026-05-22T18:33:36+00:00"
     },
     {
-      "id": "57a77f70cbc3a2f61de9e3bc",
-      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
-      "summary": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
-      "url": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T17:54:11+00:00"
-    },
-    {
       "id": "ae39ec50393b8426b59e032d",
       "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
       "summary": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
@@ -682,17 +671,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-22T16:10:21+00:00"
-    },
-    {
-      "id": "af4d9229c584b212f55fbbbc",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T15:18:30+00:00"
     },
     {
       "id": "be39c0aedab764038ccd8586",
