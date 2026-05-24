@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-05-24T09:14:37.488728+00:00",
+  "updatedAt": "2026-05-24T11:08:08.579175+00:00",
   "items": [
     {
       "id": "85caff8c4d61d9ae7e1052d3",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, according to Volodymyr Zelensky.",
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-24T08:22:58+00:00"
+      "publishedAt": "2026-05-24T10:52:46+00:00"
+    },
+    {
+      "id": "10a192abf439bbe547da7fbc",
+      "title": "Rocket League Devs Explain How Unreal Engine Powers the Paris Major",
+      "summary": "Rocket League developers at the Paris Major detail how Epic Games uses Unreal Engine to run live stadium tech and eliminate competitive match lag.",
+      "url": "https://www.ign.com/articles/rocket-league-paris-major-unreal-engine",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-24T10:43:46+00:00"
+    },
+    {
+      "id": "a558df5f9b108e6326b3d735",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-24T09:08:31+00:00"
     },
     {
       "id": "a8f39fbb09ec200dc1d41d9d",
@@ -629,17 +651,6 @@
       "publishedAt": "2026-05-22T20:30:26+00:00"
     },
     {
-      "id": "59eb9c991a20e302fc3252b8",
-      "title": "Riot Games Says It 'Would Not and Cannot' Use Vanguard Anti-Cheat to Brick PCs After Rumors Spread",
-      "summary": "Riot Games has stepped in to squash rumors that it is using its Vanguard anti-cheat to \"brick\" the PCs of players who get caught cheating in its games.",
-      "url": "https://www.ign.com/articles/riot-games-says-it-would-not-and-cannot-use-vanguard-anti-cheat-to-brick-pcs-after-rumors-spread",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-22T19:18:56+00:00"
-    },
-    {
       "id": "4264f11c9a1d8e0d9d380f1d",
       "title": "Trump is putting pressure on Cuba - why and to what end?",
       "summary": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military intervention.",
@@ -682,17 +693,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-22T15:18:30+00:00"
-    },
-    {
-      "id": "0a92ba9b56b68f5e2b0de5a7",
-      "title": "Sabalenka cuts media short as French Open players protest",
-      "summary": "Leading players, including Aryna Sabalenka, Coco Gauff and Jannik Sinner, limit their French Open media duties to 15 minutes in a row over prize money.",
-      "url": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T14:59:34+00:00"
     },
     {
       "id": "be39c0aedab764038ccd8586",
