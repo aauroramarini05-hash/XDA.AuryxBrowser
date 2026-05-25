@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-05-25T14:36:42.365463+00:00",
+  "updatedAt": "2026-05-25T17:00:15.613811+00:00",
   "items": [
+    {
+      "id": "f0f84ebbb0a901c612daec25",
+      "title": "Tout ce que l’IA a déjà révolutionné dans la recherche scientifique",
+      "summary": "Réflexion, planification stratégique, analyse des données, génération d’hypothèses de travail, enseignement universitaire… La montée en puissance des outils d’intelligence artificielle, en particulier des « modèles de fondation », bouleverse le travail des chercheurs. Focus sur la biochimie, la météorologie et les mathématiques.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/25/ce-que-l-ia-a-deja-revolutionne-dans-la-recherche-scientifique_6693676_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-25T16:00:00+00:00"
+    },
+    {
+      "id": "66f615e0c69e95c0f2991c3b",
+      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
+      "summary": "The suspect previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.",
+      "url": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T15:45:27+00:00"
+    },
+    {
+      "id": "fdaf45ac794eee86fd1d1b1b",
+      "title": "Face à l’intelligence artificielle, « le métier de chercheur est à repenser avec des changements radicaux dans les pratiques »",
+      "summary": "Sans nier les questions énergétiques et environnementales liées à l’usage de l’IA, le professeur Jalal Fadili, qui dirige le centre du CNRS Aissai, plaide dans un entretien au « Monde » pour une approche « bénéfice-risque ».",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/25/face-a-l-intelligence-artificielle-le-metier-de-chercheur-est-a-repenser-avec-des-changements-radicaux-dans-les-pratiques_6693674_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-25T15:45:07+00:00"
+    },
+    {
+      "id": "d1e85d772f3bfdf4cbd14f98",
+      "title": "Les « agents », ces IA qui prennent des décisions de chercheurs",
+      "summary": "Qualifiés de « laboratoires autodirigés » ou de « coscientifiques », ces outils doivent permettre d’accélérer la recherche, en libérant du temps pour que les scientifiques puissent se consacrer à des missions plus créatives.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/25/les-agents-ces-ia-qui-prennent-des-decisions-de-chercheurs_6693673_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-25T15:30:09+00:00"
+    },
+    {
+      "id": "124c9587efeef26c1f23b0c2",
+      "title": "'Blistering heat': Indians warned to stay indoors as temperatures soar",
+      "summary": "The BBC's Sumedha Pal described how difficult it was to be standing in the streets of Delhi as temperatures rose to 45C .",
+      "url": "https://www.bbc.com/news/videos/ckgppxw9239o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T15:17:10+00:00"
+    },
+    {
+      "id": "d21bb199c98d91ebe27aecfb",
+      "title": "VIDEO « Un risque réel que l’IA remplace la main-d’œuvre humaine » : le patron d’Anthropic alerte sur les dangers de sa technologie",
+      "summary": "Chris Olah, le cofondateur d’Anthropic, à l’origine du logiciel Claude, a alerté sur les risques liés à l’intelligence artificielle. Il était l’invité du pape Léon XIV ce 25 mai 2026, au Vatican.",
+      "url": "https://www.lemonde.fr/economie/video/2026/05/25/en-images-il-y-a-un-risque-reel-que-l-ia-remplace-la-main-d-uvre-humaine-le-patron-d-anthropic-alerte-sur-les-dangers-de-sa-technologie_6693670_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-25T15:11:43+00:00"
+    },
     {
       "id": "411bbb8e772495d48f857fc8",
       "title": "Robin Williams, Robert Duvall, Tom Selleck, and Brendan Fraser Have All Inexplicably Played the Same Role: Dwight D. Eisenhower",
@@ -11,17 +77,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-25T14:00:00+00:00"
-    },
-    {
-      "id": "883f0a31fa0d2934ca5e9f91",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T13:40:28+00:00"
     },
     {
       "id": "72d08d3195591ba06ee2b65d",
@@ -35,6 +90,17 @@
       "publishedAt": "2026-05-25T13:05:56+00:00"
     },
     {
+      "id": "3e90faebfc9b4ae5a21a86cc",
+      "title": "Three killed in Uganda after crashing into elephant",
+      "summary": "Four people were also injured in the incident inside Murchison Falls National Park, officials say.",
+      "url": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T11:54:07+00:00"
+    },
+    {
       "id": "4fb102f687dd38937a1f41c0",
       "title": "Deal with US not imminent, Iran says",
       "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
@@ -44,17 +110,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-25T11:17:49+00:00"
-    },
-    {
-      "id": "275095ea23d92471d1caf69a",
-      "title": "Currently no active leak from failing chemical tank, California officials say",
-      "summary": "The tank, which contains a highly volatile and flammable substance, has been at risk of either a major spillage or an explosion.",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T11:15:29+00:00"
     },
     {
       "id": "de0d8fc8918af6de154542f2",
@@ -158,13 +213,13 @@
     {
       "id": "5db66440257e9669aec04beb",
       "title": "« Cette musique m’emporte vers un autre monde, un état de béatitude, de guérison » : les commentaires de clips sur YouTube, véritable journal intime",
-      "summary": "La plateforme de streaming offre, sous les vidéos, un espace où la singularité d’une plume, l’affect d’un mélomane, la sensibilité d’un nostalgique peuvent s’exprimer sans faux-semblant. Une pratique à rebours des autres réseaux sociaux, et un visage « doux » du Web.",
+      "summary": "La plateforme de streaming offre, sous les vidéos, un espace où la singularité d’une plume, l’affect d’un mélomane, la sensibilité d’un nostalgique peuvent s’exprimer sans faux-semblant. Une pratique à rebours des autres réseaux sociaux, et un visage « doux » du Web",
       "url": "https://www.lemonde.fr/m-perso/article/2026/05/25/cette-musique-m-emporte-vers-un-autre-monde-un-etat-de-beatitude-de-guerison-les-commentaires-de-clips-sur-youtube-veritable-journal-intime_6693599_4497916.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-25T04:00:42+00:00"
+      "publishedAt": "2026-05-25T04:00:35+00:00"
     },
     {
       "id": "3c554ccb959ad9f088dd4c79",
@@ -508,17 +563,6 @@
       "publishedAt": "2026-05-24T06:00:07+00:00"
     },
     {
-      "id": "f9002e777e8ffc82f88b7b57",
-      "title": "It's like the Olympics - except steroids are allowed",
-      "summary": "The first ever Enhanced Games are taking place this weekend in Las Vegas, with big names, big money and much controversy.",
-      "url": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T04:46:07+00:00"
-    },
-    {
       "id": "63e20b702b9447699d89de99",
       "title": "Ranking the Star Wars Movies From Worst to Best",
       "summary": "We've ranked the entire catalog of live-action Star Wars movies from best to worst, including The Mandalorian and Grogu.",
@@ -770,50 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-21T10:23:30+00:00"
-    },
-    {
-      "id": "05558b17034c968a3c0861c0",
-      "title": "Un cadre sur deux utilise l’IA au travail une fois par semaine",
-      "summary": "L’intelligence artificielle sert majoritairement à chercher des idées ou à alimenter des réflexions, à rédiger des rapports ou documents écrits, ou à obtenir une analyse sur un problème spécifique, explique, dans sa chronique, le journaliste du « Monde » Jules Thomas",
-      "url": "https://www.lemonde.fr/emploi/article/2026/05/21/un-cadre-sur-deux-utilise-l-ia-au-travail-une-fois-par-semaine_6691864_1698637.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-21T10:00:10+00:00"
-    },
-    {
-      "id": "d6f589fe525ebd5fd61f1f62",
-      "title": "« Les promesses de gains de productivité massifs associés à l’IA exposent le cynisme des patrons »",
-      "summary": "Au sujet de la suppression de 8 000 postes, le PDG de la banque Standard Chartered a parlé de « capital humain de moindre valeur ». Des propos qui font craindre que les entreprises ne jouent pas leur rôle d’amortisseur social face au tsunami de l’IA, estime Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/21/les-promesses-de-gains-de-productivite-massifs-associes-a-l-ia-exposent-le-cynisme-des-patrons_6691863_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-21T10:00:06+00:00"
-    },
-    {
-      "id": "eb2e7bb4b9c428d9e6f7d798",
-      "title": "La Coupe du monde d’e-sport délocalisée de l’Arabie saoudite à la France",
-      "summary": "L’Esports World Cup, compétition de jeu vidéo créée en 2024 par l’Arabie saoudite, ne se tiendra pas cette année à Riyad en raison de l’instabilité géopolitique. C’est donc dans la capitale française que s’affronteront cet été plus de 200 clubs d’e-sport sur une vingtaine de jeux.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/21/la-coupe-du-monde-d-e-sport-delocalisee-de-l-arabie-saoudite-a-la-france_6691859_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-21T09:41:40+00:00"
-    },
-    {
-      "id": "b9ed2ef126b2f817c7b0c4f9",
-      "title": "Chez Google, James Manyika déplore les tergiversations sur l’IA : « C’est une situation désastreuse pour les utilisateurs français »",
-      "summary": "Le vice-président senior technologie et société de Google regrette que les innovations de son groupe ne soient pas déployées en France, pays qu’il juge trop réfractaire. Il se veut rassurant sur les risques que représente l’intelligence artificielle sur l’emploi.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/21/chez-google-james-manyika-deplore-les-tergiversations-sur-l-ia-c-est-une-situation-desastreuse-pour-les-utilisateurs-francais_6691841_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-21T08:14:52+00:00"
     },
     {
       "id": "76014b47c8c86471efd57d29",
