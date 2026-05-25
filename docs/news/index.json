@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-05-25T07:04:38.469082+00:00",
+  "updatedAt": "2026-05-25T11:44:25.641911+00:00",
   "items": [
+    {
+      "id": "4fb102f687dd38937a1f41c0",
+      "title": "Deal with US not imminent, Iran says",
+      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T11:17:49+00:00"
+    },
+    {
+      "id": "275095ea23d92471d1caf69a",
+      "title": "Currently no active leak from failing chemical tank, California officials say",
+      "summary": "The tank, which contains a highly volatile and flammable substance, has been at risk of either a major spillage or an explosion.",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T11:15:29+00:00"
+    },
+    {
+      "id": "de0d8fc8918af6de154542f2",
+      "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
+      "summary": "The prisoners insisted their protest was peaceful but that security forces deployed to quell it opened fire.",
+      "url": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T11:13:45+00:00"
+    },
+    {
+      "id": "b58f301635ae8078a85719e6",
+      "title": "Senegal's leadership row mounts as parliament speaker resigns",
+      "summary": "Some speculate that El Malick Ndiaye stepped down so that ousted-PM Ousmane Sonko can take his place.",
+      "url": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T11:12:43+00:00"
+    },
+    {
+      "id": "6e19ae713a6332e277a8dba0",
+      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
+      "summary": "Police say a man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre.",
+      "url": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T11:08:05+00:00"
+    },
+    {
+      "id": "72d08d3195591ba06ee2b65d",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T10:39:18+00:00"
+    },
+    {
+      "id": "8bf07ea116cd7c382b2e0986",
+      "title": "Moment of gas explosion at China coal mine",
+      "summary": "At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
+      "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T10:20:57+00:00"
+    },
+    {
+      "id": "0239b2b24289ff932c1990ac",
+      "title": "Le pape Léon XIV appelle à « désarmer l’intelligence artificielle » alors que « le pouvoir technologique prend un visage inédit »",
+      "summary": "Dans sa première encyclique, intitulée « Magnifica humanitas », le pape alerte sur l’impact d’une technologie considérée comme un défi anthropologique à l’humanité, s’inscrivant de plain-pied dans les débats en cours sur l’utilisation de l’IA.",
+      "url": "https://www.lemonde.fr/international/article/2026/05/25/le-pape-leon-xiv-appelle-a-desarmer-l-intelligence-artificielle_6693635_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-25T09:30:04+00:00"
+    },
+    {
+      "id": "894c8b7c3314c6fdf95b60d6",
+      "title": "Anger grows after China's deadliest coal mining disaster in years",
+      "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
+      "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T08:00:35+00:00"
+    },
     {
       "id": "1f3ae07ae7fe565cb420e03d",
       "title": "Pourquoi l’autrice de manga Rumiko Takahashi est l’une des plus lues au monde ?",
@@ -13,26 +112,15 @@
       "publishedAt": "2026-05-25T07:00:04+00:00"
     },
     {
-      "id": "ccd4b63ede7edb1fa2e3fdd1",
-      "title": "Rubio says 'solid' Iran deal may come on Monday",
-      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, US media reports.",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "id": "af8eab917d4cf54cd6d213a0",
+      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
+      "summary": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
+      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-25T06:41:43+00:00"
-    },
-    {
-      "id": "72d08d3195591ba06ee2b65d",
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T06:01:59+00:00"
+      "publishedAt": "2026-05-25T06:52:59+00:00"
     },
     {
       "id": "85caff8c4d61d9ae7e1052d3",
@@ -134,17 +222,6 @@
       "publishedAt": "2026-05-24T22:11:51+00:00"
     },
     {
-      "id": "ee599d4477d991b1d0337002",
-      "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
-      "summary": "Pilots on board had to use a different navigation system while the plane's GPS was disabled.",
-      "url": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T21:30:13+00:00"
-    },
-    {
       "id": "434b5936d0164eedf255edc1",
       "title": "Sebastian Stan Reveals He Plays \"Many Roles\" in The Batman: Part II",
       "summary": "Sebastian Stan obliquely addressed his casting in The Batman: Part II while at the Cannes Film Festival this weekend. Although neither Stan nor director Matt Reeves have directly confirmed that his role is that of District Attorney Harvey Dent, Stan told the press at Cannes that he plays “many roles in this one,” which suggests that Dent will indee",
@@ -169,7 +246,7 @@
     {
       "id": "e4d0df17e0542f3d9ee31685",
       "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "summary": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
+      "summary": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
       "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -231,17 +308,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-24T19:06:43+00:00"
-    },
-    {
-      "id": "af306112f936a7c12d56dc2d",
-      "title": "California declares emergency as fire crews race to contain toxic leak",
-      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T18:51:00+00:00"
     },
     {
       "id": "24cd0ec66908d6c37883d9e6",
@@ -318,7 +384,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-24T15:00:12+00:00"
+      "publishedAt": "2026-05-24T15:00:03+00:00"
     },
     {
       "id": "23ab98b281c9c773e5f7bf5a",
@@ -330,17 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-24T14:25:00+00:00"
-    },
-    {
-      "id": "e4f846c341f1b0464a4a1c8a",
-      "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
-      "summary": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
-      "url": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T14:10:12+00:00"
     },
     {
       "id": "8ead71a7246268b0e7a09b6e",
@@ -396,17 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-24T11:42:48+00:00"
-    },
-    {
-      "id": "4ab1cf91152cdbf3b7f84981",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
-      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T11:09:54+00:00"
     },
     {
       "id": "dedf2eaa968ab791b3e729b2",
@@ -475,50 +519,6 @@
       "publishedAt": "2026-05-24T03:58:37+00:00"
     },
     {
-      "id": "c820ee8ee10cc506d381c15c",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T03:18:38+00:00"
-    },
-    {
-      "id": "b1a2f1d48325785775f295dd",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T01:18:31+00:00"
-    },
-    {
-      "id": "79d88a5b42378eddb06b8145",
-      "title": "East Africa wants to curb imports of used clothes. But it's not easy",
-      "summary": "Kenya, Uganda and Tanzania are major importers of used garments from the West and China.",
-      "url": "https://www.bbc.com/news/articles/c2l2k5pxrgdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T23:55:13+00:00"
-    },
-    {
-      "id": "5bf8aa2db6b29c56a18efc41",
-      "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
-      "summary": "An amendment to Japan's Civil Code looks set to allow shared parenting for the first time.",
-      "url": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T23:44:22+00:00"
-    },
-    {
       "id": "1b93007481ceeebf866f5d98",
       "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
       "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
@@ -528,17 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-23T23:34:33+00:00"
-    },
-    {
-      "id": "ab3ea06e12e4e2835f246673",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T23:24:03+00:00"
     },
     {
       "id": "15739f2d5656dcb0d28644f3",
@@ -563,39 +552,6 @@
       "publishedAt": "2026-05-23T20:56:26+00:00"
     },
     {
-      "id": "940c2776c4188ed75050672f",
-      "title": "F1 great Prost 'injured as masked gang raid home'",
-      "summary": "Four-time Formula 1 world champion Alain Prost was injured when a masked gang raided his home near Geneva, Swiss media reports.",
-      "url": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T15:33:20+00:00"
-    },
-    {
-      "id": "ff80d52e33f4cfc6b9a9d2a6",
-      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
-      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T14:24:48+00:00"
-    },
-    {
-      "id": "d0e41f22b12565d20c5b6b99",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T14:06:12+00:00"
-    },
-    {
       "id": "602ee26fc9816b109f10f275",
       "title": "Watch: Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
       "summary": "BBC's Brandon Livesay toured the Columbia Park Training Facility in Morris Township, New Jersey that will host the team in the coming weeks.",
@@ -605,28 +561,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-23T13:31:38+00:00"
-    },
-    {
-      "id": "57013fd6fd276bdeb03bdba9",
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T11:55:39+00:00"
-    },
-    {
-      "id": "35f9e36bc9a378539dae49e7",
-      "title": "Senegal's president sacks PM and former ally after months-long feud",
-      "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
-      "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-23T11:36:09+00:00"
     },
     {
       "id": "dc40e019670c888c4655e1b9",
@@ -684,39 +618,6 @@
       "publishedAt": "2026-05-23T01:00:00+00:00"
     },
     {
-      "id": "9db4a68b42bfcb740ef4b06d",
-      "title": "The space race to create gym equipment for future astronauts",
-      "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
-      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T23:42:07+00:00"
-    },
-    {
-      "id": "25185f3dc5f6043560d58706",
-      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-      "summary": "Latest polls suggest the centre-right figure is the only candidate who can defeat Marine Le Pen or Jean-Luc Mélenchon.",
-      "url": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T23:07:55+00:00"
-    },
-    {
-      "id": "582d8f2394ece2d0e6a183eb",
-      "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
-      "summary": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
-      "url": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T23:07:41+00:00"
-    },
-    {
       "id": "550d317ffc465c5307ae0c81",
       "title": "AI may speed up search for drugs to treat brain conditions",
       "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
@@ -726,17 +627,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-22T21:30:06+00:00"
-    },
-    {
-      "id": "4264f11c9a1d8e0d9d380f1d",
-      "title": "Trump is putting pressure on Cuba - why and to what end?",
-      "summary": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military intervention.",
-      "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T18:33:36+00:00"
     },
     {
       "id": "ae39ec50393b8426b59e032d",
@@ -759,39 +649,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-22T12:16:35+00:00"
-    },
-    {
-      "id": "2c9f146a153dfa1c387a9a4f",
-      "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
-      "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead.",
-      "url": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T11:41:23+00:00"
-    },
-    {
-      "id": "7f7bcdff50d81fff11f907b5",
-      "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
-      "summary": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
-      "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T10:45:38+00:00"
-    },
-    {
-      "id": "6a1d82b28db5413c968ed837",
-      "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
-      "summary": "The monumental structure was created by Parisan artist JR - often dubbed the French Banksy",
-      "url": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T10:45:27+00:00"
     },
     {
       "id": "056725f4d3166395081260e7",
@@ -827,28 +684,6 @@
       "publishedAt": "2026-05-22T02:57:12+00:00"
     },
     {
-      "id": "7ec3731af53a547d7fca852e",
-      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-      "summary": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
-      "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T01:37:02+00:00"
-    },
-    {
-      "id": "e4bd0ee511d4aed61f77cfb8",
-      "title": "Fans react to Stephen Colbert’s final show",
-      "summary": "The late-night host will appear behind his CBS desk for the final time after the network announced last summer that the show would end after 11 seasons.",
-      "url": "https://www.bbc.com/news/videos/cvgz36rx755o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-22T00:52:53+00:00"
-    },
-    {
       "id": "01948bfc271d48c326ecad9e",
       "title": "Love factually: Dating start-ups promise to cut the cheats",
       "summary": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
@@ -869,17 +704,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-21T23:07:54+00:00"
-    },
-    {
-      "id": "c2cbd0c18ef627ee8a885b44",
-      "title": "How Cuban-Americans feel about Raúl Castro's indictment",
-      "summary": "The DOJ charged the former leader of Cuba with murder and other crimes for his alleged role in the downing of two civilian aircraft in 1996.",
-      "url": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T20:52:52+00:00"
     },
     {
       "id": "faff94a0da8ec0c3a5490656",
@@ -913,17 +737,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-21T15:40:03+00:00"
-    },
-    {
-      "id": "5913f25541425d2f6fac662f",
-      "title": "Iran steps up claim to control Strait of Hormuz",
-      "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
-      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T14:37:29+00:00"
     },
     {
       "id": "4d10b27fc3a035c0cd6d44d0",
@@ -981,17 +794,6 @@
       "publishedAt": "2026-05-21T10:00:06+00:00"
     },
     {
-      "id": "d7660b86273124019663de67",
-      "title": "Watch: 'Everybody back up!' Moment car explodes in NYC",
-      "summary": "Viral footage circulating online shows flames and thick black smoke enveloping the street in New York.",
-      "url": "https://www.bbc.com/news/videos/cj3pvglp3vzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-21T09:44:23+00:00"
-    },
-    {
       "id": "eb2e7bb4b9c428d9e6f7d798",
       "title": "La Coupe du monde d’e-sport délocalisée de l’Arabie saoudite à la France",
       "summary": "L’Esports World Cup, compétition de jeu vidéo créée en 2024 par l’Arabie saoudite, ne se tiendra pas cette année à Riyad en raison de l’instabilité géopolitique. C’est donc dans la capitale française que s’affronteront cet été plus de 200 clubs d’e-sport sur une vingtaine de jeux.",
@@ -1034,17 +836,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-21T06:00:32+00:00"
-    },
-    {
-      "id": "05cd47289ab3596bab372c04",
-      "title": "« J’étais seul dans ma chambre et j’ai dérapé » : le parcours d’« HexDex », jeune maraîcher vendéen devenu hackeur « pour faire le buzz »",
-      "summary": "« Données personnelles, la grande fuite » (6/9). Le 23 avril, Faouzi C., 21 ans, a été mis en examen et placé en détention provisoire à l’issue d’une enquête de cinq mois. Le jeune homme, qui dit s’être inventé un « personnage », est soupçonné d’avoir dérobé les bases de données de plus 90 organismes publics et privés.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/21/j-etais-seul-dans-ma-chambre-et-j-ai-derape-la-derive-du-hackeur-hexdex-jeune-maraicher-vendeen-en-quete-de-reconnaissance_6691824_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-21T04:30:01+00:00"
     },
     {
       "id": "fa68a4054420d8c3100bfff5",
