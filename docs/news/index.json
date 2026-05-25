@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-05-25T22:05:25.343509+00:00",
+  "updatedAt": "2026-05-25T23:57:37.916393+00:00",
   "items": [
+    {
+      "id": "7a2683be840edefec37b90cd",
+      "title": "Government vows to bring in under-16 social media restrictions by end of year",
+      "summary": "Tech minister Liz Kendall told the BBC the government would publish a response to the consultation in the summer.",
+      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-25T23:28:20+00:00"
+    },
+    {
+      "id": "c0f038f727fab4efece6a3fd",
+      "title": "The rise of the fruit that tastes like custard",
+      "summary": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
+      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-25T23:27:04+00:00"
+    },
+    {
+      "id": "02f645850b780d081e00ccb2",
+      "title": "Tekken Director Katsuhiro Harada Finally Takes a Trip to Waffle House",
+      "summary": "Tekken director Katsuhiro Harada finally found the time to take a trip to Waffle House.",
+      "url": "https://www.ign.com/articles/tekken-director-katsuhiro-harada-finally-takes-a-trip-to-waffle-house",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-25T22:29:50+00:00"
+    },
+    {
+      "id": "42c381490cad345ebf5db488",
+      "title": "Trump to undergo annual medical exam ahead of 80th birthday",
+      "summary": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
+      "url": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T22:18:43+00:00"
+    },
+    {
+      "id": "4fb102f687dd38937a1f41c0",
+      "title": "Deal with US not imminent, Iran says",
+      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T22:05:29+00:00"
+    },
+    {
+      "id": "f586e84bd00f593d3595d5a9",
+      "title": "LittleBigPlanet Developer Media Molecule's Next Game Reportedly Features 'Open-World Content'",
+      "summary": "Sony's first-party studio, Media Molecule, is reportedly working on a brand-new game with open-world elements.",
+      "url": "https://www.ign.com/articles/littlebigplanet-developer-media-molecules-next-game-reportedly-features-open-world-content",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-25T22:01:50+00:00"
+    },
     {
       "id": "b6bf43e4c2bcb9af9fd81f6f",
       "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
@@ -354,17 +420,6 @@
       "publishedAt": "2026-05-25T11:54:07+00:00"
     },
     {
-      "id": "4fb102f687dd38937a1f41c0",
-      "title": "Deal with US not imminent, Iran says",
-      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T11:17:49+00:00"
-    },
-    {
       "id": "de0d8fc8918af6de154542f2",
       "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
       "summary": "The prisoners insisted their protest was peaceful but that security forces deployed to quell it opened fire.",
@@ -475,17 +530,6 @@
       "publishedAt": "2026-05-25T04:00:35+00:00"
     },
     {
-      "id": "d7413934ef83cdbb36d672b6",
-      "title": "Rick and Morty Season 9 Premiere Review: \"There's Something About Morty\"",
-      "summary": "Rick and Morty Season 9 kicks off with a fun, bombastic, and action-heavy first episode, but one character feels badly mishandled here. Read our full review.",
-      "url": "https://www.ign.com/articles/rick-and-morty-season-9-premiere-review-recap",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-25T03:00:00+00:00"
-    },
-    {
       "id": "3fd74623e850ee8f42f7fb3f",
       "title": "How Saudi Arabia's spending spree reached the end of the line",
       "summary": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
@@ -517,17 +561,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-24T23:01:09+00:00"
-    },
-    {
-      "id": "c7a234cffe9972fdecbf9ae9",
-      "title": "Nicolas Cage Says Christopher Nolan Won't 'Call Me Back' After Turning Down Insomnia Role",
-      "summary": "Nicolas Cage has said that The Odyssey director Christopher Nolan is on the list of filmmakers who \"don't call me back\" after he turned him down for a movie.",
-      "url": "https://www.ign.com/articles/nicolas-cage-says-christopher-nolan-wont-call-me-back-after-turning-down-insomnia-role",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-24T22:32:38+00:00"
     },
     {
       "id": "a558df5f9b108e6326b3d735",
@@ -616,17 +649,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-24T11:42:48+00:00"
-    },
-    {
-      "id": "e2b6f9288485c34a85ad3c30",
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
-      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T10:34:52+00:00"
     },
     {
       "id": "5201a63be77a5a65c820b076",
@@ -902,28 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-19T20:00:00+00:00"
-    },
-    {
-      "id": "4110bb914e64a2fda2ae2b8e",
-      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-      "summary": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
-      "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-19T11:05:09+00:00"
-    },
-    {
-      "id": "84efc17a04206d4e7250fae2",
-      "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
-      "summary": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.",
-      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-19T08:45:23+00:00"
     },
     {
       "id": "37934ce515c62d0000c36b20",
