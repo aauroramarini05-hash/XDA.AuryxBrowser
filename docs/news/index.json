@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-05-25T23:57:37.916393+00:00",
+  "updatedAt": "2026-05-26T02:57:53.109537+00:00",
   "items": [
     {
-      "id": "7a2683be840edefec37b90cd",
-      "title": "Government vows to bring in under-16 social media restrictions by end of year",
-      "summary": "Tech minister Liz Kendall told the BBC the government would publish a response to the consultation in the summer.",
+      "id": "27fba72b0016bcbca59970fc",
+      "title": "US military says it has launched new strikes on southern Iran",
+      "summary": "The strikes on Iranian missile launch sites and boats were taken in \"self-defence\", US Central Command says.",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-26T02:44:19+00:00"
+    },
+    {
+      "id": "80bd959dfb9f27006a80bf8e",
+      "title": "Destiny 2 Changes Reportedly Kept from Most Bungie Staff Ahead of Public Announcement",
+      "summary": "The \"vast majority\" of Bungie staff was reportedly unaware of the plans to discontinue support for Destiny 2 until the announcement was made public last week.",
+      "url": "https://www.ign.com/articles/destiny-2-changes-reportedly-kept-from-most-bungie-staff-ahead-of-public-announcement",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-26T01:31:43+00:00"
+    },
+    {
+      "id": "4004e969728cc9b426410d23",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-26T01:17:46+00:00"
+    },
+    {
+      "id": "f211a929571b43ccdb7d0051",
+      "title": "Social media as bad for young people as smoking, top doctors say",
+      "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
       "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-05-25T23:28:20+00:00"
+      "publishedAt": "2026-05-26T01:13:57+00:00"
+    },
+    {
+      "id": "e0703b1a31cfdbc49efd115c",
+      "title": "The New 2026 Apple iPad Air with M4 Chip Drops to a New All-Time Low Price for Memorial Day",
+      "summary": "Save $80 off compared to buying it from the Apple Store.",
+      "url": "https://www.ign.com/articles/new-2026-apple-ipad-air-deal-amazon-memorial-day-sale-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-25T23:35:00+00:00"
     },
     {
       "id": "c0f038f727fab4efece6a3fd",
@@ -77,17 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-25T21:24:34+00:00"
-    },
-    {
-      "id": "4004e969728cc9b426410d23",
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T20:40:15+00:00"
     },
     {
       "id": "5afbb5cb53d4198a0d884bba",
@@ -299,17 +332,6 @@
       "publishedAt": "2026-05-25T16:20:00+00:00"
     },
     {
-      "id": "a0418ea2f666ded4a0762990",
-      "title": "Today’s Best Deals: Split Fiction, Samsung Galaxy Buds 4 Pro, 77\" LG G5 4K TV",
-      "summary": "Plus, check out plenty of other epic Memorial Day deals before they expire.",
-      "url": "https://www.ign.com/articles/best-deals-for-may-25-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-25T16:15:00+00:00"
-    },
-    {
       "id": "f0f84ebbb0a901c612daec25",
       "title": "Tout ce que l’IA a déjà révolutionné dans la recherche scientifique",
       "summary": "Réflexion, planification stratégique, analyse des données, génération d’hypothèses de travail, enseignement universitaire… La montée en puissance des outils d’intelligence artificielle, en particulier des « modèles de fondation », bouleverse le travail des chercheurs. Focus sur la biochimie, la météorologie et les mathématiques.",
@@ -374,17 +396,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-25T15:11:43+00:00"
-    },
-    {
-      "id": "411bbb8e772495d48f857fc8",
-      "title": "Robin Williams, Robert Duvall, Tom Selleck, and Brendan Fraser Have All Inexplicably Played the Same Role: Dwight D. Eisenhower",
-      "summary": "Usually, multiple actors who’ve played the same character possess something in common – a physical resemblance, or a similar personality, especially if the role is a historical figure. But I can’t find anything that Robin Williams, Robert Duvall, Tom Selleck, and Brendan Fraser remotely have in common as either actors or people, except that they’ve",
-      "url": "https://www.ign.com/articles/actors-who-played-dwight-eisenhower-williams-fraser",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-25T14:00:00+00:00"
     },
     {
       "id": "72d08d3195591ba06ee2b65d",
@@ -638,17 +649,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-24T14:25:00+00:00"
-    },
-    {
-      "id": "62dbc2e58785fb18e15f961b",
-      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
-      "summary": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
-      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T11:42:48+00:00"
     },
     {
       "id": "5201a63be77a5a65c820b076",
