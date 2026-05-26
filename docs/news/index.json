@@ -1,16 +1,49 @@
 {
-  "updatedAt": "2026-05-26T02:57:53.109537+00:00",
+  "updatedAt": "2026-05-26T06:45:58.828346+00:00",
   "items": [
     {
-      "id": "27fba72b0016bcbca59970fc",
-      "title": "US military says it has launched new strikes on southern Iran",
-      "summary": "The strikes on Iranian missile launch sites and boats were taken in \"self-defence\", US Central Command says.",
+      "id": "85434b3d5d17f616078a8391",
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "summary": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators are in Qatar for talks to end the war.",
       "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-26T02:44:19+00:00"
+      "publishedAt": "2026-05-26T05:45:58+00:00"
+    },
+    {
+      "id": "7ece654ed7a5eb3945e0913e",
+      "title": "Jazz legend Sonny Rollins dies aged 95",
+      "summary": "Known as the \"saxophone colossus\", Rollins had a lauded career spanning decades.",
+      "url": "https://www.bbc.com/news/articles/c1e224dwz18o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-26T05:13:27+00:00"
+    },
+    {
+      "id": "b6bf43e4c2bcb9af9fd81f6f",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-26T03:06:06+00:00"
+    },
+    {
+      "id": "a3ef216d05cfd7eb63bb9e73",
+      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
+      "summary": "A team of experts who helped free a teen football team from a Thai cave in 2018 are among the rescuers.",
+      "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-26T01:48:34+00:00"
     },
     {
       "id": "80bd959dfb9f27006a80bf8e",
@@ -68,6 +101,28 @@
       "publishedAt": "2026-05-25T23:27:04+00:00"
     },
     {
+      "id": "3e15be6789d1df19498ad596",
+      "title": "Delhi's most exclusive club is under threat of shutdown - can it survive?",
+      "summary": "The British-era Gymkhana Club is facing eviction, triggering a legal battle and a wave of nostalgia.",
+      "url": "https://www.bbc.com/news/articles/ce8pp0n5znko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T23:17:04+00:00"
+    },
+    {
+      "id": "cf1850f3a5f4df6a6732607c",
+      "title": "Wave of child abuse cases shakes schools in Paris",
+      "summary": "A school assistant goes on trial accused of sexual mistreatment of children in his care, in the latest case to rock the Paris school system.",
+      "url": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-25T23:01:57+00:00"
+    },
+    {
       "id": "02f645850b780d081e00ccb2",
       "title": "Tekken Director Katsuhiro Harada Finally Takes a Trip to Waffle House",
       "summary": "Tekken director Katsuhiro Harada finally found the time to take a trip to Waffle House.",
@@ -79,8 +134,8 @@
       "publishedAt": "2026-05-25T22:29:50+00:00"
     },
     {
-      "id": "42c381490cad345ebf5db488",
-      "title": "Trump to undergo annual medical exam ahead of 80th birthday",
+      "id": "3177009f8338c9a020d11722",
+      "title": "Watch: Why US presidents get medical check ups",
       "summary": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
       "url": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -112,17 +167,6 @@
       "publishedAt": "2026-05-25T22:01:50+00:00"
     },
     {
-      "id": "b6bf43e4c2bcb9af9fd81f6f",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
-      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T21:24:34+00:00"
-    },
-    {
       "id": "5afbb5cb53d4198a0d884bba",
       "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
       "summary": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
@@ -143,17 +187,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-25T19:40:00+00:00"
-    },
-    {
-      "id": "5a623ca7530d8bdfad8aee7c",
-      "title": "'Blistering heat' in Delhi as temperatures reach 45C",
-      "summary": "The BBC's Sumedha Pal describes how difficult it is to be standing in the streets of Delhi as temperatures rise to 45C .",
-      "url": "https://www.bbc.com/news/videos/c4g002jvv8wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T19:36:00+00:00"
     },
     {
       "id": "c43374b027258e8b37610139",
@@ -398,17 +431,6 @@
       "publishedAt": "2026-05-25T15:11:43+00:00"
     },
     {
-      "id": "72d08d3195591ba06ee2b65d",
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T13:05:56+00:00"
-    },
-    {
       "id": "ff1e5caee7816815d451baa6",
       "title": "Cambodia's former opposition leader receives royal pardon for 27-year sentence",
       "summary": "Kem Sokha was serving a 27-year sentence on treason charges, which were widely derided as politically motivated.",
@@ -477,7 +499,7 @@
     {
       "id": "e6ba9196ca329b35f8e2d01f",
       "title": "Le pape Léon XIV appelle à « désarmer l’intelligence artificielle », alors que « le pouvoir technologique prend un visage inédit »",
-      "summary": "Dans sa première encyclique, intitulée « Magnifica humanitas », le pape alerte sur l’impact d’une technologie considérée comme un défi anthropologique à l’humanité, s’inscrivant de plain-pied dans les débats en cours sur l’utilisation de l’IA",
+      "summary": "Dans sa première encyclique, intitulée « Magnifica humanitas », le pape alerte sur l’impact d’une technologie qui pose un défi anthropologique à l’humanité, s’inscrivant de plain-pied dans les débats en cours sur l’utilisation de l’IA.",
       "url": "https://www.lemonde.fr/international/article/2026/05/25/le-pape-leon-xiv-appelle-a-desarmer-l-intelligence-artificielle_6693635_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -506,17 +528,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-25T07:00:03+00:00"
-    },
-    {
-      "id": "af8eab917d4cf54cd6d213a0",
-      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
-      "summary": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
-      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T06:52:59+00:00"
     },
     {
       "id": "3c554ccb959ad9f088dd4c79",
@@ -574,17 +585,6 @@
       "publishedAt": "2026-05-24T23:01:09+00:00"
     },
     {
-      "id": "a558df5f9b108e6326b3d735",
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T22:11:51+00:00"
-    },
-    {
       "id": "e4d0df17e0542f3d9ee31685",
       "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
       "summary": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
@@ -607,28 +607,6 @@
       "publishedAt": "2026-05-24T19:49:39+00:00"
     },
     {
-      "id": "0a0b8fc94a13a5d770de2c3c",
-      "title": "Ebola outbreak poses massive challenges, warns nurse",
-      "summary": "Kate White says she is \"extremely concerned about the inability to get resources\" to the Democratic Republic of Congo.",
-      "url": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T17:46:14+00:00"
-    },
-    {
-      "id": "a8f39fbb09ec200dc1d41d9d",
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T15:29:08+00:00"
-    },
-    {
       "id": "e5720a8cdccbad6e0650ca1c",
       "title": "IA : le risque d’un décrochage européen face aux Américains et aux Chinois",
       "summary": "A l’image de l’audition parlementaire remarquée du cofondateur de Mistral AI Arthur Mensch, les acteurs de l’intelligence artificielle mêlent les appels au volontarisme à un ton très alarmiste.",
@@ -638,17 +616,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-24T15:00:03+00:00"
-    },
-    {
-      "id": "23ab98b281c9c773e5f7bf5a",
-      "title": "One killed and many feared trapped under collapsed building in Philippines",
-      "summary": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
-      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T14:25:00+00:00"
     },
     {
       "id": "5201a63be77a5a65c820b076",
