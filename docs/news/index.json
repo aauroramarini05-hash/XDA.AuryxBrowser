@@ -1,21 +1,131 @@
 {
-  "updatedAt": "2026-05-27T06:56:10.486920+00:00",
+  "updatedAt": "2026-05-27T10:52:21.068977+00:00",
   "items": [
     {
-      "id": "2edd2cda38d8d2dfad1dea01",
-      "title": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
-      "summary": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place.",
+      "id": "dde90025cf2aa2e312244b7c",
+      "title": "Porn company fined £600,000 by Ofcom over age check failings",
+      "summary": "Ofcom said Youngtek Solutions Ltd did not have checks between July and September 2025, but has since brought in verification.",
+      "url": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-27T10:33:46+00:00"
+    },
+    {
+      "id": "6e5b443b48b6e86a5c0c8cde",
+      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
+      "summary": "Klette was finally caught in a flat in Berlin in 2024 after more than 30 years on the run and put on trial last year.",
+      "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T10:27:59+00:00"
+    },
+    {
+      "id": "640ea8cb474750af788be9da",
+      "title": "Backrooms Movie Review",
+      "summary": "Review: In the Backrooms movie, Chiwetel Ejiofor discovers the liminal horror of a mysterious and terrifying hidden world.",
+      "url": "https://www.ign.com/articles/backrooms-movie-review-chiwetel-ejiofor",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-27T10:00:00+00:00"
+    },
+    {
+      "id": "b2cd6531f22c128345ad87ac",
+      "title": "The Simpsons Writer Who Predicted President Trump Launches His Own 2028 Campaign for the White House",
+      "summary": "The Simpsons writer Dan Greaney has announced a 2028 presidential run, after famously previously predicting a Donald Trump presidency back in 2000.",
+      "url": "https://www.ign.com/articles/the-simpsons-writer-who-predicted-president-trump-launches-his-own-2028-campaign-for-the-white-house",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-27T09:58:20+00:00"
+    },
+    {
+      "id": "dad7c6b7767a201331c9eae1",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "summary": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
       "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-27T06:24:43+00:00"
+      "publishedAt": "2026-05-27T09:55:11+00:00"
     },
     {
-      "id": "1092a8d613b506c56af159ef",
-      "title": "Attorney General Ken Paxton routs veteran incumbent Cornyn in Texas Senate primary",
-      "summary": "The race will help determine whether Democrats can win back control of the US Senate for the last half of the Trump presidency.",
+      "id": "1453cc387f845553f11bc54d",
+      "title": "The Fantastic Four: First Steps Star Paul Walter Hauser Reveals His Marvel Paycheck — And How Much He Actually Got After Taxes",
+      "summary": "Paul Walter Hauser has discussed how much money he made from appearing as Mole Man in Marvel movie The Fantastic Four: First Steps — and how much of his paycheck he actually saw after taxes and other deductions.",
+      "url": "https://www.ign.com/articles/the-fantastic-four-first-steps-star-paul-walter-hauser-reveals-his-marvel-paycheck-and-how-much-he-actually-got-after-taxes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-27T09:29:36+00:00"
+    },
+    {
+      "id": "3bf93d2b0ec7364fa8aaa6a4",
+      "title": "How Trump is transforming Washington - by adding his face everywhere",
+      "summary": "Sarah Smith visits places across the US capital where the president has hung banners, renamed a site or is rebuilding something.",
+      "url": "https://www.bbc.com/news/videos/ce8pp9r03z7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T09:17:42+00:00"
+    },
+    {
+      "id": "821cd54d90460301b11fff63",
+      "title": "The Witcher 3: Wild Hunt - Songs of the Past Expansion DLC Announced, First Details Confirmed",
+      "summary": "CD Projekt has announced a third expansion to The Witcher 3, called Songs of the Past.",
+      "url": "https://www.ign.com/articles/the-witcher-3-wild-hunt-songs-of-the-past-expansion-dlc-announced-first-details-confirmed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-27T09:08:21+00:00"
+    },
+    {
+      "id": "84ef64d0533f8745e9ab53a2",
+      "title": "Kingdom Come: Deliverance Developer Teases Its Lord of the Rings Open World RPG",
+      "summary": "Warhorse Studios, the team behind Kingdom Come: Deliverance, has teased its upcoming Lord of the Rings game, and it sounds very exciting indeed.",
+      "url": "https://www.ign.com/articles/kingdom-come-deliverance-developer-teases-its-lord-of-the-rings-open-world-rpg",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-27T08:59:49+00:00"
+    },
+    {
+      "id": "2a872aae6e0bd2c35ce1300d",
+      "title": "Take-Two Forces GTA 5 Multiplayer Platform Rage:MP to Shut Down and Migrate to FiveM",
+      "summary": "Take-Two Interactive, the parent company of Rockstar Games, has ordered the GTA 5 modding platform Rage: MP to cease operations.",
+      "url": "https://www.ign.com/articles/take-two-forces-gta-5-multiplayer-platform-ragemp-to-shut-down-and-migrate-to-fivem",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-27T08:28:02+00:00"
+    },
+    {
+      "id": "05b714886bbd600c35a4bb5c",
+      "title": "Major film union in India calls for boycott of superstar Ranveer Singh",
+      "summary": "Singh is facing industry backlash over his decision to exit from the upcoming Bollywood film Don 3.",
+      "url": "https://www.bbc.com/news/articles/c0q2y01jqk9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T06:58:08+00:00"
+    },
+    {
+      "id": "a72aeb1536889f3ba6a6c2b0",
+      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
+      "summary": "The result sets up what will be a closely watched contest in November with Paxton's Democratic opponent.",
       "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -26,7 +136,7 @@
     {
       "id": "72c1246f4ed692652354016a",
       "title": "First Ghanaians set to be repatriated from South Africa over anti-immigrant protests",
-      "summary": "It follows recent protests against illegal immigration that have led to fears there could be a resurgence in xenophobic violence.",
+      "summary": "It follows recent protests that have led to fears there could be a resurgence in xenophobic violence.",
       "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -66,6 +176,28 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-27T03:00:26+00:00"
+    },
+    {
+      "id": "b850f6ca129018a183908d35",
+      "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
+      "summary": "The YouTuber allegedly made false claims that fuelled a career-ending scandal for Kim Soo-hyun.",
+      "url": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T02:54:19+00:00"
+    },
+    {
+      "id": "7bf11a7dc5475df481b103cf",
+      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+      "summary": "The Italian Supreme Court rejected a tourist's claim that her consumer rights were breached when she was only offered €7 bottled mineral water.",
+      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T02:52:49+00:00"
     },
     {
       "id": "ce0dba1809501135565c21d0",
@@ -211,6 +343,17 @@
       "publishedAt": "2026-05-26T23:14:19+00:00"
     },
     {
+      "id": "5e1a7b45d7d248a7af67e611",
+      "title": "India's communists once ruled millions. What happened to them?",
+      "summary": "The story of the rise and decline of India’s communists - from ruling states to struggling for relevance.",
+      "url": "https://www.bbc.com/news/articles/cwy2gr1rpnqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-26T23:12:59+00:00"
+    },
+    {
       "id": "6f5d67fe080eda464972913a",
       "title": "Save $2,400 Off the Alienware 16X Aurora RTX 5070 Gaming Laptop Loaded With 64GB of RAM and 4TB SSD",
       "summary": "Premium build quality and strong gaming performance at a discounted price",
@@ -354,50 +497,6 @@
       "publishedAt": "2026-05-26T17:57:28+00:00"
     },
     {
-      "id": "c32db5846c6df6f170c70a72",
-      "title": "The New 2026 Apple iPad Air with M4 Chip Drops to a New All-Time Low Price Ahead of Memorial Day",
-      "summary": "Save $80 off compared to buying it from the Apple Store.",
-      "url": "https://www.ign.com/articles/new-2026-apple-ipad-air-deal-amazon-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-26T17:50:00+00:00"
-    },
-    {
-      "id": "1cadaeb8ef60078519cc70f4",
-      "title": "This $1,800 Power Lift Recliner and Massage Chair Is Just $380 During the Wayfair Memorial Day Sale",
-      "summary": "I'm thinking of getting one for dad for Father's Day.",
-      "url": "https://www.ign.com/articles/wayfair-memorial-day-sale-power-lift-recliner-and-massage-chair-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-26T17:50:00+00:00"
-    },
-    {
-      "id": "b02ef0c32970438718d64fd4",
-      "title": "The Baseus 20,000mAh 45W Power Bank With Dual USB-C Cables Drops to $21 After Coupon",
-      "summary": "Charge and play on the Nintendo Switch 2 or Steam Deck at the same time.",
-      "url": "https://www.ign.com/articles/baseus-20000mah-45w-power-bank-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-26T17:25:00+00:00"
-    },
-    {
-      "id": "691efd6ed4943fe1dd3c6d11",
-      "title": "The $17 Iniu 20,000 Power Bank Deal Is Back, Quadruples Your Nintendo Switch 2 Play Time",
-      "summary": "You can also play and charge at the same time without ever running out of juice.",
-      "url": "https://www.ign.com/articles/iniu-20000mah-power-bank-deal-amazon-memorial-day-sale-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-26T17:15:00+00:00"
-    },
-    {
       "id": "fdf64405c388abd3bb4d0fab",
       "title": "Four killed as school minibus collides with train in Belgium",
       "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
@@ -407,28 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-26T17:11:24+00:00"
-    },
-    {
-      "id": "2c1844d1fd30a61e9779dfb3",
-      "title": "Doctor Who Christmas Special Could Be Delayed, Report Suggests, Amid Hunt for New Series Star",
-      "summary": "Doctor Who may no longer return this Christmas as previously announced, according to a new report.",
-      "url": "https://www.ign.com/articles/doctor-who-christmas-special-could-be-delayed-report-suggests-amid-hunt-for-new-series-star",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-26T17:05:45+00:00"
-    },
-    {
-      "id": "7e5bbe475851cbfbe9f54011",
-      "title": "The Sonos Arc Ultra Soundbar Just Dropped to the Lowest Price Ever During the Memorial Day Sale",
-      "summary": "Certified refurbished with the same 1-year Sonos warranty as buying brand new means big savings this weekend on a new soundbar.",
-      "url": "https://www.ign.com/articles/sonos-arc-ultra-soundbar-deal-refurbished-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-26T16:55:00+00:00"
     },
     {
       "id": "df03688c7681e470bf9c5d76",
@@ -473,17 +550,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-26T12:00:07+00:00"
-    },
-    {
-      "id": "3e15be6789d1df19498ad596",
-      "title": "Delhi's most exclusive club is under threat of shutdown - can it survive?",
-      "summary": "The British-era Gymkhana Club is facing eviction, triggering a legal battle and a wave of nostalgia.",
-      "url": "https://www.bbc.com/news/articles/ce8pp0n5znko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-26T10:31:24+00:00"
     },
     {
       "id": "f52050373c77aa42409a08a0",
@@ -627,17 +693,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-25T04:00:35+00:00"
-    },
-    {
-      "id": "3fd74623e850ee8f42f7fb3f",
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "summary": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
-      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-25T01:08:39+00:00"
     },
     {
       "id": "e5720a8cdccbad6e0650ca1c",
@@ -825,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-21T07:10:42+00:00"
-    },
-    {
-      "id": "31bd270d2de7d9b718acf9c3",
-      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
-      "summary": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
-      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-21T06:00:32+00:00"
     },
     {
       "id": "a3de97d05ca138da9a8e446a",
