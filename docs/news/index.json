@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-05-27T02:37:17.613751+00:00",
+  "updatedAt": "2026-05-27T06:56:10.486920+00:00",
   "items": [
+    {
+      "id": "2edd2cda38d8d2dfad1dea01",
+      "title": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
+      "summary": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place.",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T06:24:43+00:00"
+    },
+    {
+      "id": "1092a8d613b506c56af159ef",
+      "title": "Attorney General Ken Paxton routs veteran incumbent Cornyn in Texas Senate primary",
+      "summary": "The race will help determine whether Democrats can win back control of the US Senate for the last half of the Trump presidency.",
+      "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T06:18:51+00:00"
+    },
+    {
+      "id": "72c1246f4ed692652354016a",
+      "title": "First Ghanaians set to be repatriated from South Africa over anti-immigrant protests",
+      "summary": "It follows recent protests against illegal immigration that have led to fears there could be a resurgence in xenophobic violence.",
+      "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T05:13:21+00:00"
+    },
+    {
+      "id": "ca072e07ae80eb1e2c7c7661",
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T04:07:27+00:00"
+    },
+    {
+      "id": "b948bac71dfae559bf5096a6",
+      "title": "One killed and nine missing after chemical explosion at US paper mill",
+      "summary": "Nine others were injured and another nine are missing after a tank ruptured at a paper mill in Longview, Washington.",
+      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-27T03:02:27+00:00"
+    },
+    {
+      "id": "dcdada20d98f9b0df6c19285",
+      "title": "D’un rapt en France à un « wallet » de cryptomonnaies au Venezuela : voyage dans le circuit de blanchiment d’une rançon",
+      "summary": "L’enquête sur l’enlèvement du père d’un entrepreneur en cryptomonnaies révèle un arrière-plan inattendu, qui illustre la complexité des circuits financiers.",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/27/d-un-rapt-en-france-a-un-wallet-de-cryptomonnaies-au-venezuela-voyage-dans-le-circuit-de-blanchiment-d-une-rancon_6694138_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-27T03:00:26+00:00"
+    },
+    {
+      "id": "ce0dba1809501135565c21d0",
+      "title": "En Corée du Sud, des employés de Samsung vont toucher une prime record de 290 000 euros en moyenne",
+      "summary": "Après avoir menacé d’un mouvement de grève, les salariés syndiqués du géant des puces mémoire ont approuvé un accord prévoyant de colossales primes annuelles liées aux profits générés par l’intelligence artificielle. Au risque d’aviver les revendications dans d’autres branches de ce conglomérat et dans d’autres entreprises.",
+      "url": "https://www.lemonde.fr/international/article/2026/05/27/en-coree-du-sud-des-employes-de-samsung-vont-toucher-une-prime-record-de-290-000-euros-chacun-en-moyenne_6694100_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-27T02:44:47+00:00"
+    },
     {
       "id": "edfaf9ae1a680308aa81282c",
       "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
@@ -35,8 +112,8 @@
       "publishedAt": "2026-05-27T00:45:00+00:00"
     },
     {
-      "id": "fb9aaf80529110d85b9c6ab6",
-      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "id": "f63b1c88ec8ce34d405924e3",
+      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
       "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -77,17 +154,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-27T00:17:31+00:00"
-    },
-    {
-      "id": "ca072e07ae80eb1e2c7c7661",
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-27T00:10:03+00:00"
     },
     {
       "id": "1295ba6265f90edae66b98f4",
@@ -143,28 +209,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-26T23:14:19+00:00"
-    },
-    {
-      "id": "307f5409df2130b30ad63a33",
-      "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
-      "summary": "Israel says it was targeting a Hamas commander whose predecessor was killed in a similar strike earlier in May.",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-26T22:50:46+00:00"
-    },
-    {
-      "id": "30b00e55427a8786376adb73",
-      "title": "Multiple people killed and others missing after chemical explosion at US paper mill",
-      "summary": "Ten people were injured and an unknown number are missing after a tank ruptured at a paper mill in Longview, Washington.",
-      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-26T22:07:20+00:00"
     },
     {
       "id": "6f5d67fe080eda464972913a",
@@ -475,17 +519,6 @@
       "publishedAt": "2026-05-26T07:11:50+00:00"
     },
     {
-      "id": "b6bf43e4c2bcb9af9fd81f6f",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
-      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-26T03:06:06+00:00"
-    },
-    {
       "id": "c0f038f727fab4efece6a3fd",
       "title": "The rise of the fruit that tastes like custard",
       "summary": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
@@ -605,17 +638,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-25T01:08:39+00:00"
-    },
-    {
-      "id": "f9d4f8a663b7f8625a76c676",
-      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
-      "summary": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
-      "url": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-24T23:13:50+00:00"
     },
     {
       "id": "e5720a8cdccbad6e0650ca1c",
@@ -792,28 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-21T16:00:05+00:00"
-    },
-    {
-      "id": "fc59ef72cca76c27ea678644",
-      "title": "En France, l’inquiétante envolée des émissions de CO₂ des data centers",
-      "summary": "De plus en plus voraces en énergie, les data centers ont vu leurs émissions de gaz à effet de serre croître de 23 % en 2024 en France, selon une étude. Cette tendance devrait aller crescendo alors que le pays investit massivement dans ces installations, essentielles à l’essor fulgurant de l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/21/en-france-l-inquietante-envolee-des-emissions-de-co-des-data-centers_6691905_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-21T15:40:03+00:00"
-    },
-    {
-      "id": "4d10b27fc3a035c0cd6d44d0",
-      "title": "Le transhumaniste suédois Nick Bostrom redoute un « retour de balancier trop fort contre l’IA »",
-      "summary": "Le futurologue met en garde contre la menace que fait peser l’intelligence artificielle sur les cols blancs et la crise existentielle inédite qu’elle pourrait provoquer dans la population, tout en reconnaissant son apport dans la recherche ou la santé.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/21/le-transhumaniste-suedois-nick-bostrom-redoute-un-retour-de-balancier-trop-fort-contre-l-ia_6691896_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-21T14:00:05+00:00"
     },
     {
       "id": "76014b47c8c86471efd57d29",
