@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-05-28T10:46:00.557062+00:00",
+  "updatedAt": "2026-05-28T14:29:56.961378+00:00",
   "items": [
+    {
+      "id": "1086f0bfd1b32c605fb826c0",
+      "title": "Données de santé : la CNIL inflige une amende de 5 millions d’euros à l’entreprise Iqvia",
+      "summary": "Un reportage de « Cash Investigation » diffusé en mai 2021 avait relevé des manquements de cette société partenaire de milliers de pharmacies en France.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/28/donnees-de-sante-la-cnil-inflige-une-amende-de-5-millions-d-euros-a-l-entreprise-iqvia_6694483_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-28T14:13:27+00:00"
+    },
+    {
+      "id": "b20be4aa6cf937044b9b60ee",
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
+      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T13:21:50+00:00"
+    },
+    {
+      "id": "3a8afe1871289cebb3e98fe2",
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
+      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T13:20:45+00:00"
+    },
+    {
+      "id": "0431232e2d6eee7922882d3f",
+      "title": "Intel's New Handheld Gaming PC Chips Are Here At Computex 2026",
+      "summary": "Ever since Intel Panther Lake launched back at CES 2026, we've known that Team Blue's latest mobile chips were coming to handhelds. And, ahead of Computex 2026, Intel has announced the Intel G3 and G3 Extreme, which should be powering some of the best handheld gaming PCs this year.",
+      "url": "https://www.ign.com/articles/intels-new-handheld-gaming-pc-chips-are-here-at-computex-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T13:06:53+00:00"
+    },
+    {
+      "id": "a7f92f09eb026f2ce7b1e7ed",
+      "title": "Planet Zoo 2 Coming This Year, Featuring Flying and Aquatic Animals",
+      "summary": "Frontier Developments has announced Planet Zoo 2, which will include the ability to add flying and aquatic animals in aviaries and aquariums for the first time.",
+      "url": "https://www.ign.com/articles/planet-zoo-2-coming-this-year-featuring-flying-and-aquatic-animals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T13:00:43+00:00"
+    },
+    {
+      "id": "3885ec674902de563bb634e8",
+      "title": "The Steam Deck Is Sold Out Again, Even After the Huge Price Rise",
+      "summary": "Valve recently raised the price on the Steam Deck, making the handheld gaming PC cost up to $949 for the 1TB OLED model. While that's a massive $300 increase over its original price, the Steam Deck is once again sold out.",
+      "url": "https://www.ign.com/articles/the-steam-deck-is-sold-out-again-even-after-the-huge-price-rise",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T12:57:23+00:00"
+    },
+    {
+      "id": "256140a9ddb0fd298b5435af",
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
+      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T12:24:11+00:00"
+    },
+    {
+      "id": "b0ca285c264aadf676a3ed67",
+      "title": "Take-Two Boss Says 'Former Rockstar Employees' Have Tried to Match GTA's Success and Failed — and We All Know Which Game He's Talking About",
+      "summary": "Strauss Zelnick, boss of GTA 6 publisher Take-Two Interactive, has discussed the difficulties of developing a hit video game — and dropped what sounds like a obvious nod to a high-profile flop made by former Rockstar employees.",
+      "url": "https://www.ign.com/articles/take-two-boss-says-former-rockstar-employees-have-tried-to-match-gtas-success-and-failed-and-we-all-know-which-game-hes-talking-about",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T12:15:46+00:00"
+    },
+    {
+      "id": "7c81a1239b8566cb2f949ed0",
+      "title": "« Pour le secteur de l’IA, l’explosion de la facture des tokens est un signe de succès mais aussi un défi »",
+      "summary": "Le coût de la gestion des tokens, des bouts de mot ou d’image générés par les modèles d’intelligence artificielle, est en hausse dans les entreprises, relève, dans sa chronique, Alexandre Piquard, journaliste au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/28/pour-le-secteur-de-l-ia-l-explosion-de-la-facture-des-tokens-est-un-signe-de-succes-mais-aussi-un-defi_6694467_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-28T12:03:50+00:00"
+    },
+    {
+      "id": "267e4b7701e3c170be5c19fa",
+      "title": "33 Brilliant James Bond Details in 007 First Light",
+      "summary": "From GoldenEye keys to actual gold fingers, here's every James Bond reference we've spotted in 007 First Light so far.",
+      "url": "https://www.ign.com/articles/33-brilliant-james-bond-details-in-007-first-light",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "60c683f889f19e437f327db2",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T11:52:10+00:00"
+    },
+    {
+      "id": "a3f284316c204c7ca785faa2",
+      "title": "The Witcher 3 Songs of the Past Is an Expansion, Not DLC, CD Projekt Insists While Using IGN Interview With Idris Elba to Make the Point",
+      "summary": "In the wake of the announcement of The Witcher 3 Songs of the Past, CD Projekt staff have taken to social media to insist it should be considered an expansion, rather than DLC — even using an IGN interview with Cyberpunk star Idris Elba to hammer home the point.",
+      "url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-is-an-expansion-not-dlc-cd-projekt-insists-while-using-ign-interview-with-idris-elba-to-make-the-point",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T11:46:53+00:00"
+    },
+    {
+      "id": "d438099167f74a089155485b",
+      "title": "EU fines Temu €200m for allowing sale of illegal products",
+      "summary": "The European Commission says the Chinese-owned online retailer failed to take account of risks from baby toys and faulty chargers sold on its platform.",
+      "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T11:39:38+00:00"
+    },
+    {
+      "id": "e368bb889e619ddae5c9e92b",
+      "title": "Developer of Steam Hit Life Sim Paralives Explains How It Can Manage Without Selling Paid DLC",
+      "summary": "The development team behind The Sims-like Paralives has answered various community questions in a Reddit Ask Me Anything (AMA), revealing more about its priority fixes, expanding the team, and why there will never be paid DLC.",
+      "url": "https://www.ign.com/articles/developer-of-steam-hit-life-sim-paralives-explains-how-it-can-manage-without-selling-paid-dlc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T10:58:36+00:00"
+    },
+    {
+      "id": "acc1240507753b7c2d08832c",
+      "title": "Man arrested after three injured in stabbing at Swiss train station",
+      "summary": "The suspect, a 31-year-old Swiss man, has been arrested, police say, as areas around the station are cordoned off.",
+      "url": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T10:52:21+00:00"
+    },
+    {
+      "id": "b564927d3a124c329ce9c227",
+      "title": "The Lord of the Rings: The Rings of Power Season 4 Pre-Production Set to Begin Before Season 3 Airs",
+      "summary": "Amazon will begin pre-production on The Lord of the Rings: The Rings of Power Season 4 this fall — before the show's third season airs.",
+      "url": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-season-4-pre-production-set-to-begin-before-season-3-airs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T10:48:02+00:00"
+    },
+    {
+      "id": "2a422337295e803e8a6d3c83",
+      "title": "Activision Teases Imminent Call of Duty Modern Warfare Reveal With Video Showing Korean Setting",
+      "summary": "Activision has teased an imminent reveal of the next Call of Duty Modern Warfare game with a YouTube video that suggests Korea as a setting.",
+      "url": "https://www.ign.com/articles/activision-teases-imminent-call-of-duty-modern-warfare-reveal-with-video-showing-korean-setting",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T10:40:07+00:00"
+    },
     {
       "id": "cae99bddbb49f002244736dd",
       "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
@@ -13,15 +200,15 @@
       "publishedAt": "2026-05-28T10:22:55+00:00"
     },
     {
-      "id": "3a8afe1871289cebb3e98fe2",
-      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
-      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
-      "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "id": "142605b3e080027b908b845b",
+      "title": "Five Things To Know About Gaming on the Samsung Galaxy S26",
+      "summary": "",
+      "url": "https://www.ign.com/articles/five-things-to-know-about-gaming-on-the-samsung-galaxy-s26",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-28T10:15:03+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T10:15:29+00:00"
     },
     {
       "id": "66bfb32443ae021930a0cf78",
@@ -33,28 +220,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-28T10:00:00+00:00"
-    },
-    {
-      "id": "60c683f889f19e437f327db2",
-      "title": "Iran says it targeted American base after fresh US strikes",
-      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-28T09:58:49+00:00"
-    },
-    {
-      "id": "256140a9ddb0fd298b5435af",
-      "title": "Sixteen pupils killed in Kenya school fire",
-      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
-      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-28T09:57:26+00:00"
     },
     {
       "id": "a8e08fce8041b843659fdf18",
@@ -101,17 +266,6 @@
       "publishedAt": "2026-05-28T08:51:53+00:00"
     },
     {
-      "id": "c94b1b4948c5e828663fa333",
-      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
-      "summary": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-28T08:45:44+00:00"
-    },
-    {
       "id": "b51258176afccca47ab01130",
       "title": "Mistral AI veut être présent « sur toute la chaîne de valeur », des data centers aux applications chez les entreprises, pour contrer la domination américaine",
       "summary": "Le leader français de l’intelligence artificielle poursuit le déploiement de ses centres de données et met en avant des partenariats avec de grands groupes industriels européens pour tenter de combler l’écart avec les grands acteurs américains du secteur.",
@@ -120,7 +274,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-28T08:45:03+00:00"
+      "publishedAt": "2026-05-28T08:45:01+00:00"
     },
     {
       "id": "b878302d5ae5c6408f8a6c41",
@@ -352,116 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-27T22:11:08+00:00"
-    },
-    {
-      "id": "249474da5d9afc8b380a19df",
-      "title": "Opinion: With A $949 Steam Deck, The Steam Machine Will Probably Be Very Expensive",
-      "summary": "In the six months since Valve announced the Steam Machine, PC gaming hardware has continued to get more expensive, and now that the Steam Deck has an official price increase, anyone hoping to get a Steam Machine for less than a thousand bucks is probably going to be disappointed.",
-      "url": "https://www.ign.com/articles/opinion-with-a-949-steam-deck-the-steam-machine-will-probably-be-very-expensive",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T22:03:12+00:00"
-    },
-    {
-      "id": "3a242ff782409dd8db65f3b3",
-      "title": "Ditch the Bubble Level, The Fanttik D2 Pocket 2-Axis Osram Green Laser Level Is Priced Under $30",
-      "summary": "Give up the crooked life.",
-      "url": "https://www.ign.com/articles/fanttik-d2-pocket-green-laser-level-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T21:50:00+00:00"
-    },
-    {
-      "id": "ace2d886e2024d8425b774b5",
-      "title": "Get a 5-Pack of 60W USB Type-C Cables for $7.50 (Averages Out to a Mere $1.50 Per Cable)",
-      "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, Apple iPhone 17, or Samsung Galaxy.",
-      "url": "https://www.ign.com/articles/best-usb-cable-deals-in-april-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T21:50:00+00:00"
-    },
-    {
-      "id": "b02ef0c32970438718d64fd4",
-      "title": "The Baseus 20,000mAh 45W Power Bank With Dual USB-C Cables Drops to $21 After Coupon",
-      "summary": "Charge and play on the Nintendo Switch 2 or Steam Deck at the same time.",
-      "url": "https://www.ign.com/articles/baseus-20000mah-45w-power-bank-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T21:50:00+00:00"
-    },
-    {
-      "id": "ee48f72980e5c241bf39e069",
-      "title": "The Sonos Arc Ultra Soundbar Just Drops to the Lowest Price Ever During the Memorial Day Refurb Sale",
-      "summary": "Certified refurbished with the same 1-year Sonos warranty as buying brand new.",
-      "url": "https://www.ign.com/articles/sonos-arc-ultra-soundbar-deal-refurbished-memorial-day-sale-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T21:45:00+00:00"
-    },
-    {
-      "id": "4df4e347bbd6e0e8fee97785",
-      "title": "Spider-Noir: Every (Kinda, Sorta) Easter Egg and Comics Reference That We Found",
-      "summary": "Spider-Noir, the first live-action Spider-Man (well, The Spider) series in nearly half a century, is now available to stream. And while it isn't quite chock-full of Easter eggs in the way that an MCU movie or show might be, it does have some interesting riffs on the comics classics that it presents.",
-      "url": "https://www.ign.com/articles/spider-noir-every-kinda-sorta-easter-egg-and-comics-reference-that-we-found",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T21:35:31+00:00"
-    },
-    {
-      "id": "c725b3ccbd13716320bdb033",
-      "title": "The First Wheel of Time Board Game Adaptation Has Already Blown Past Its Goals on Kickstarter",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-first-wheel-of-time-board-game-adaptation-has-already-blown-past-its-goals-on-kickstarter",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T20:45:00+00:00"
-    },
-    {
-      "id": "3ce26d850c7a4d434d2dc008",
-      "title": "The Sabrent Voltik 8-Port 252W USB Desktop Charging Station Drops Below $60 With Amazon Coupon",
-      "summary": "Juicy",
-      "url": "https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T20:40:00+00:00"
-    },
-    {
-      "id": "f53fc237731ba2bad2cb7dbf",
-      "title": "5 Burning Questions We Have About X-Men '97 Season 2",
-      "summary": "Who is the real villain here? Why is Wolverine's adamantium back? We break down the biggest burning questions from the X-Men '97 Season 2 trailer.",
-      "url": "https://www.ign.com/articles/x-men-97-season-2-burning-questions-apocalypse-wolverine",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T20:19:18+00:00"
-    },
-    {
-      "id": "1cadaeb8ef60078519cc70f4",
-      "title": "This $1,800 Power Lift Recliner and Massage Chair Is Just $380 During the Wayfair Memorial Day Sale",
-      "summary": "I'm thinking of getting one for dad for Father's Day.",
-      "url": "https://www.ign.com/articles/wayfair-memorial-day-sale-power-lift-recliner-and-massage-chair-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T20:15:00+00:00"
     },
     {
       "id": "265a9c2bea9bc0df6e1cf950",
@@ -825,28 +869,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-25T07:00:03+00:00"
-    },
-    {
-      "id": "3c554ccb959ad9f088dd4c79",
-      "title": "Olivier Blanchard, économiste : « Il y a une fenêtre d’opportunité pour faire de l’Europe une puissance capable de se mesurer à la Chine ou aux Etats-Unis »",
-      "summary": "L’ancien économiste en chef du Fonds monétaire international analyse, dans un entretien au « Monde », les implications de la crise actuelle. Favorable à des aides ciblées aux personnes ou aux entreprises, il n’est pas hostile à la taxation des superprofits, mais souligne qu’il est temps d’accepter enfin la vérité budgétaire.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/25/olivier-blanchard-economiste-il-y-a-une-fenetre-d-opportunite-pour-faire-de-l-europe-une-puissance-capable-de-se-mesurer-a-la-chine-ou-aux-etats-unis_6693598_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-25T04:00:35+00:00"
-    },
-    {
-      "id": "5db66440257e9669aec04beb",
-      "title": "« Cette musique m’emporte vers un autre monde, un état de béatitude, de guérison » : les commentaires de clips sur YouTube, véritable journal intime",
-      "summary": "La plateforme de streaming offre, sous les vidéos, un espace où la singularité d’une plume, l’affect d’un mélomane, la sensibilité d’un nostalgique peuvent s’exprimer sans faux-semblant. Une pratique à rebours des autres réseaux sociaux, et un visage « doux » du Web",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/05/25/cette-musique-m-emporte-vers-un-autre-monde-un-etat-de-beatitude-de-guerison-les-commentaires-de-clips-sur-youtube-veritable-journal-intime_6693599_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-25T04:00:35+00:00"
     },
     {
       "id": "e113ead1f9d2d44bbb69a1dd",
