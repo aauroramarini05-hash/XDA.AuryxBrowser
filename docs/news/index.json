@@ -1,16 +1,159 @@
 {
-  "updatedAt": "2026-05-28T06:44:39.648946+00:00",
+  "updatedAt": "2026-05-28T10:46:00.557062+00:00",
   "items": [
     {
-      "id": "548c3ee9bbf35f6439c73d1c",
-      "title": "Israel strikes southern Lebanon after evacuation orders",
-      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
+      "id": "cae99bddbb49f002244736dd",
+      "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
+      "summary": "The gaming giant said the handheld had not changed but the rise reflected \"the current state of component costs\"",
+      "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-28T10:22:55+00:00"
+    },
+    {
+      "id": "3a8afe1871289cebb3e98fe2",
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
+      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T10:15:03+00:00"
+    },
+    {
+      "id": "66bfb32443ae021930a0cf78",
+      "title": "The Backrooms Explained: Exploring the Liminal Horror Legend as the Movie Version Arrives",
+      "summary": "What are the Backrooms? We explore the endless lore and mysterious spaces of the liminal horror legend.",
+      "url": "https://www.ign.com/articles/the-backrooms-movie-explained-exploring-the-liminal-horror-legend",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T10:00:00+00:00"
+    },
+    {
+      "id": "60c683f889f19e437f327db2",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T09:58:49+00:00"
+    },
+    {
+      "id": "256140a9ddb0fd298b5435af",
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
+      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-28T09:57:26+00:00"
+    },
+    {
+      "id": "a8e08fce8041b843659fdf18",
+      "title": "LEGO Smart Play Headed to Pokémon Sets This Summer, Leaks Reveal",
+      "summary": "Several upcoming Pokémon LEGO sets have leaked online, each with Smart Play elements included.",
+      "url": "https://www.ign.com/articles/lego-smart-play-headed-to-pokemon-sets-this-summer-leaks-reveal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T09:53:57+00:00"
+    },
+    {
+      "id": "e52292f05e93df07e06de80f",
+      "title": "Subnautica 2 Has Sold So Well That Krafton Has to Pay That $250 Million Earnout to the Devs",
+      "summary": "Subnautica 2 has sold so well that publisher Krafton has reportedly agreed to pay a $250 million earnout to the developers — a bonus that was at the heart of its high-profile legal dispute with the fired Unknown Worlds leadership.",
+      "url": "https://www.ign.com/articles/subnautica-2-has-sold-so-well-that-krafton-has-to-pay-that-250-million-earnout-to-the-devs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T09:02:59+00:00"
+    },
+    {
+      "id": "7d412cbd10fa4315d778d7bb",
+      "title": "« Léon XIV refuse la relégation de la foi dans la sphère de l’intime, en en appelant à une Eglise à la fois modeste et visible »",
+      "summary": "Selon le spécialiste du catholicisme Philippe Portier, dans une tribune au « Monde », l’encyclique du souverain pontife prolonge, à propos de l’IA, de précédentes préoccupations papales sur les conséquences du progrès technique. Non sans subtilité sur le positionnement de l’Eglise face au tumulte séculier.",
+      "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/05/28/leon-xiv-refuse-la-relegation-de-la-foi-dans-la-sphere-de-l-intime-en-en-appelant-a-une-eglise-a-la-fois-modeste-et-visible_6694445_6038514.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-28T09:00:14+00:00"
+    },
+    {
+      "id": "0c741c64b2a46f93661ab262",
+      "title": "Donkey Kong 64 Confirmed for Nintendo Switch Online",
+      "summary": "Donkey Kong 64 is coming to Nintendo Switch Online next week, Nintendo has confirmed.",
+      "url": "https://www.ign.com/articles/donkey-kong-64-confirmed-for-nintendo-switch-online",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-28T08:51:53+00:00"
+    },
+    {
+      "id": "c94b1b4948c5e828663fa333",
+      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+      "summary": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
       "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-05-28T06:26:41+00:00"
+      "publishedAt": "2026-05-28T08:45:44+00:00"
+    },
+    {
+      "id": "b51258176afccca47ab01130",
+      "title": "Mistral AI veut être présent « sur toute la chaîne de valeur », des data centers aux applications chez les entreprises, pour contrer la domination américaine",
+      "summary": "Le leader français de l’intelligence artificielle poursuit le déploiement de ses centres de données et met en avant des partenariats avec de grands groupes industriels européens pour tenter de combler l’écart avec les grands acteurs américains du secteur.",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/28/mistral-ai-veut-etre-present-sur-toute-la-chaine-de-valeur-des-data-centers-aux-applications-chez-les-entreprises-pour-contrer-la-domination-americaine_6694441_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-28T08:45:03+00:00"
+    },
+    {
+      "id": "b878302d5ae5c6408f8a6c41",
+      "title": "King's College team wins access to cutting-edge Google quantum chip",
+      "summary": "King's College London researchers hope the chip will help answer previously unanswerable questions about the most important natural processes.",
+      "url": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-28T08:41:28+00:00"
+    },
+    {
+      "id": "c26b81ec6f335b052511f9b4",
+      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+      "summary": "The BBC has been contacted by hundreds of users who claimed they had been wrongly banned from the sites.",
+      "url": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-28T08:28:43+00:00"
+    },
+    {
+      "id": "425f1c139217b84126b80b73",
+      "title": "Appel à témoignages : vous refusez les injonctions de votre employeur à utiliser l’IA au travail ? Racontez-nous",
+      "summary": "Votre employeur encourage l’adoption d’outils d’intelligence artificielle et vous y êtes réticent·e. Partagez votre expérience avec nous.",
+      "url": "https://www.lemonde.fr/emploi/appel-temoignages/2026/05/28/appel-a-temoignages-vous-refusez-les-injonctions-de-votre-employeur-a-utiliser-l-ia-au-travail-racontez-nous_6694437_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-28T08:02:29+00:00"
     },
     {
       "id": "7f316ea9e79d38dee2d11a0c",
@@ -77,17 +220,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-28T05:03:58+00:00"
-    },
-    {
-      "id": "ad6e78c99317d28199559b6a",
-      "title": "US strikes Iran targets for second time in three days",
-      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-28T04:59:02+00:00"
     },
     {
       "id": "2888bbac768f4095b8f85ab2",
@@ -332,17 +464,6 @@
       "publishedAt": "2026-05-27T20:15:00+00:00"
     },
     {
-      "id": "5aa485de95d6155af98af798",
-      "title": "The TSA-Approved AsperX 20,000mAh 165W Power Bank Drops to Just $39.99 After a $50 Off Coupon",
-      "summary": "Features a unibody aluminum alloy shell and a retractable USB-C cable.",
-      "url": "https://www.ign.com/articles/asperx-20000mah-165w-power-bank-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T20:10:00+00:00"
-    },
-    {
       "id": "265a9c2bea9bc0df6e1cf950",
       "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
       "summary": "Kenneth Iwamasa, who pleaded guilty last year to one count of conspiracy to distribute ketamine causing death, said he \"will forever regret\" his actions.",
@@ -352,39 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-27T20:09:33+00:00"
-    },
-    {
-      "id": "6f5d67fe080eda464972913a",
-      "title": "Save $2,400 Off the Alienware 16X Aurora RTX 5070 Gaming Laptop Loaded With 64GB of RAM and 4TB SSD",
-      "summary": "Premium build quality and strong gaming performance at a discounted price",
-      "url": "https://www.ign.com/articles/alienware-16x-aurora-rtx-5070-gaming-laptop-deal-dell-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T19:35:00+00:00"
-    },
-    {
-      "id": "e4d1a2a6480fd2dd1b28a6ed",
-      "title": "The New 2026 Apple iPad Air with M4 Chip Drops to a New All-Time Low Price in May",
-      "summary": "Save $80 off compared to buying it from the Apple Store.",
-      "url": "https://www.ign.com/articles/new-2026-apple-ipad-air-deal-amazon-memorial-day-sale-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T19:10:00+00:00"
-    },
-    {
-      "id": "4b35acdd7886fcb39f8e89c0",
-      "title": "Dragon Quest 12: Beyond Dreams Update",
-      "summary": "Square Enix issued a significant update on Dragon Quest 12 today, giving fans a quick look at the long-awaited RPG sequel. The Japanese company also dropped the bombshell that the game’s development was restarted from scratch. As a result, Dragon Quest 12's original subtitle, The Flames of Fate, was ditched in favor of Dragon Quest 12: Beyond Dream",
-      "url": "https://www.ign.com/articles/dragon-quest-12-beyond-dreams-update",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-27T19:02:25+00:00"
     },
     {
       "id": "8907fbd67a0206431afdd1c6",
@@ -761,39 +849,6 @@
       "publishedAt": "2026-05-25T04:00:35+00:00"
     },
     {
-      "id": "e5720a8cdccbad6e0650ca1c",
-      "title": "IA : le risque d’un décrochage européen face aux Américains et aux Chinois",
-      "summary": "A l’image de l’audition parlementaire remarquée du cofondateur de Mistral AI Arthur Mensch, les acteurs de l’intelligence artificielle mêlent les appels au volontarisme à un ton très alarmiste.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/24/ia-le-risque-d-un-decrochage-europeen-face-aux-americains-et-aux-chinois_6693246_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-24T15:00:03+00:00"
-    },
-    {
-      "id": "5201a63be77a5a65c820b076",
-      "title": "Têtes de cochon, « synagogues vertes »… Les dessous des opérations de désinformation russes visant la France",
-      "summary": "Des documents internes aux entreprises chargées de mener des campagnes de désinformation pour le compte du Kremlin illustrent l’évolution de la stratégie russe vers les opérations « hybrides ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/24/tetes-de-cochon-synagogues-vertes-dans-les-coulisses-des-operations-de-desinformation-russes-visant-la-france_6693205_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-24T06:00:07+00:00"
-    },
-    {
-      "id": "dc40e019670c888c4655e1b9",
-      "title": "Eléonore Laloux, conseillère municipale d’Arras et seule élue avec une trisomie 21, porte plainte après une vidéo moquant son handicap",
-      "summary": "La ministre déléguée chargée de l’autonomie et des personnes handicapées, Camille Galliard-Minier, et le président du conseil régional des Hauts-de-France, Xavier Bertrand, ont apporté vendredi leur soutien à la conseillère municipale d’Arras.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/23/arras-eleonore-laloux-seule-elue-avec-une-trisomie-21-porte-plainte-apres-une-video-moquant-son-handicap_6692726_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-23T08:07:56+00:00"
-    },
-    {
       "id": "e113ead1f9d2d44bbb69a1dd",
       "title": "Tech Now",
       "summary": "Shiona McCallum meets a medical expert testing out the future of prosthetics.",
@@ -847,39 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-22T02:57:12+00:00"
-    },
-    {
-      "id": "01948bfc271d48c326ecad9e",
-      "title": "Love factually: Dating start-ups promise to cut the cheats",
-      "summary": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
-      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-21T23:14:18+00:00"
-    },
-    {
-      "id": "49afde5ac3462bd7aaf7a583",
-      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
-      "summary": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
-      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-21T23:07:54+00:00"
-    },
-    {
-      "id": "faff94a0da8ec0c3a5490656",
-      "title": "Meta settles social media addiction case with US school district",
-      "summary": "The trial had been set as a test case for 1200 other school districts making similar claims.",
-      "url": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-21T20:34:59+00:00"
     },
     {
       "id": "a3de97d05ca138da9a8e446a",
