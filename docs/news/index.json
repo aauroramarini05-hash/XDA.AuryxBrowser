@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-05-29T09:37:20.900426+00:00",
+  "updatedAt": "2026-05-29T12:41:56.825159+00:00",
   "items": [
+    {
+      "id": "90ca7526bdb1b65564304fc8",
+      "title": "Helldivers 2 Patch Brings Long-Awaited Upscaling Support and Latency-Reduction Features",
+      "summary": "As the fight for Managed Democracy rages on, Arrowhead has just dropped a new Helldivers 2 patch that makes some long-awaited improvements to performance.",
+      "url": "https://www.ign.com/articles/helldivers-2-patch-brings-long-awaited-upscaling-support-and-latency-reduction-features",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T12:02:27+00:00"
+    },
+    {
+      "id": "6cdf5201960ea7752dce6ce0",
+      "title": "007 First Light Sells 1.5 Million Copies in First 24 Hours, Faster Than Any Hitman Game From IO Interactive",
+      "summary": "007 First Light has got off to a strong start, selling 1.5 million copies in its first 24 hours.",
+      "url": "https://www.ign.com/articles/007-first-light-sells-15-million-copies-in-first-24-hours-faster-than-any-hitman-game-from-io-interactive",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T11:44:17+00:00"
+    },
+    {
+      "id": "ba14519becb470168ca24517",
+      "title": "Rayman Legends Remake Leaks Reveal Release Date, Price, and a Clair Obscur Crossover",
+      "summary": "Ubisoft is cooking up a fresh version of its brilliant platformer Rayman Legends for launch later this year, leaks suggest.",
+      "url": "https://www.ign.com/articles/rayman-legends-remake-leaks-reveal-release-date-price-and-a-clair-obscur-crossover",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T11:32:04+00:00"
+    },
+    {
+      "id": "fdce0818f06ed04d9d9b53d7",
+      "title": "MTG Marvel Super Heroes Booster Boxes Drop to a New Low at Amazon",
+      "summary": "Amazon has slashed the MTG Marvel Super Heroes Play Booster Box to a new all-time low of $139.99. Lock in this massive $70 preorder discount before the set launches in June.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-marvel-super-heroes-booster-box-price-drop",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T11:29:24+00:00"
+    },
+    {
+      "id": "f01a1256dd9c87292cca4438",
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
+      "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-29T11:22:10+00:00"
+    },
+    {
+      "id": "ac6ad9ff2f15a313c6940f00",
+      "title": "The Witcher 3: Songs of the Past Expansion 'Is, in a Way, a Prologue' for the Series' Future",
+      "summary": "CD Projekt's newly-revealed The Witcher 3 expansion Songs of the Past will help set the stage for the upcoming The Witcher 4, the developer has suggested.",
+      "url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-is-in-a-way-a-prologue-for-the-series-future",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T11:13:02+00:00"
+    },
+    {
+      "id": "c57088b8d95050fe898fcc54",
+      "title": "New Xbox Boss Asham Sharma Reportedly Warns Staff 'Hard Choices' Are Ahead, but Insists Recent Game Pass Changes Are Helping",
+      "summary": "Asha Sharma, the new boss of Xbox, has reportedly warned staff that “hard choices” are ahead as Microsoft works to rebuild its gaming brand in the eyes of core fans while growing revenue.",
+      "url": "https://www.ign.com/articles/new-xbox-boss-asham-sharma-reportedly-warns-staff-hard-choices-are-ahead-but-insists-recent-game-pass-changes-are-helping",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T10:49:12+00:00"
+    },
+    {
+      "id": "19d5902be7491b5568fc290e",
+      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+      "summary": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
+      "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-29T10:38:46+00:00"
+    },
+    {
+      "id": "18f02f587799ce81a0101cdb",
+      "title": "Intelligence artificielle : comment Anthropic a dépassé OpenAI en valorisation",
+      "summary": "La nouvelle levée de capitaux d’Anthropic valorise le concepteur de Claude à 965 milliards de dollars, alors qu’Open AI ne vaut « que » 852 milliards. L’écart récompense des choix stratégiques ciblés et une politique commerciale ciblant d’abord les entreprises.",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/29/intelligence-artificielle-comment-anthropic-a-depasse-openai-en-valorisation_6694730_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-29T10:03:41+00:00"
+    },
+    {
+      "id": "1cd841a541ed5cddd9f03744",
+      "title": "Magic: The Gathering's Marvel Super Heroes Jumpstart Booster Boxes Are Already 31% Off",
+      "summary": "Save a chunk on Jumpstart packs from the new set by preordering before they go on sale.",
+      "url": "https://www.ign.com/articles/mtg-marvel-jumpstart-box-amazon-preorder-discount",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T10:00:00+00:00"
+    },
+    {
+      "id": "4631ca1295674b10b3ca88ac",
+      "title": "How 007 First Light Sets Up a Sequel",
+      "summary": "007 First Light is finally here, and it's clear that IO Interactive is already planting the seeds for Bond's future.",
+      "url": "https://www.ign.com/articles/how-007-first-light-sets-up-a-sequel",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T09:48:02+00:00"
+    },
+    {
+      "id": "533780771f2fa9b56da679eb",
+      "title": "Microsoft Responds to The Outer Worlds 'Free' Upgrade Confusion",
+      "summary": "The Outer Worlds developer, Obsidian, has apologized for any \"confusion\" after players complained that the studio reneged on a prior update stating that anyone with the base game in their libraries before May 27 could upgrade to the Spacer's Choice Edition for free.",
+      "url": "https://www.ign.com/articles/microsoft-responds-to-the-outer-worlds-free-upgrade-confusion",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T09:43:29+00:00"
+    },
+    {
+      "id": "6d99953915ebddfdabe51c84",
+      "title": "Path of Exile 2: Return of the Ancients 0.5.0 Guides for Getting Started",
+      "summary": "Everything you need to know about PoE2 Return of the Ancients, including updated build guides and an ascendancy tier list.",
+      "url": "https://www.ign.com/articles/poe2-return-of-the-ancients-tier-list-build-guides",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T09:43:28+00:00"
+    },
+    {
+      "id": "6a76c396e2bc0ba956382ec3",
+      "title": "Tom Holland Talks MCU Spider-Man Future, Teases 'Setting Up the Next Chapter' for Miles Morales",
+      "summary": "Spider-Man star Tom Holland has discussed his Marvel future, and says he wants to help set up a new era for the franchise — potentially starring Miles Morales.",
+      "url": "https://www.ign.com/articles/tom-holland-talks-mcu-spider-man-future-teases-setting-up-the-next-chapter-for-miles-morales",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T09:39:11+00:00"
+    },
     {
       "id": "3f365a73949a9f2e8155cfe9",
       "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
@@ -11,6 +165,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-29T09:17:35+00:00"
+    },
+    {
+      "id": "9ed4664bd4ce1c3160a2c733",
+      "title": "Pokémon TCG's New Chaos Rising ETBs Scores a Surprising Price Drop on Amazon",
+      "summary": "Snag the newest Pokémon TCG: Chaos Rising Elite Trainer Box for a surprisingly low price on Amazon just one week after launch.",
+      "url": "https://www.ign.com/articles/pokemon-tcg-chaos-rising-elite-trainer-box-amazon-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T09:15:09+00:00"
     },
     {
       "id": "56f34c4bafb88a8ad1227268",
@@ -211,83 +376,6 @@
       "publishedAt": "2026-05-28T22:45:00+00:00"
     },
     {
-      "id": "1cadaeb8ef60078519cc70f4",
-      "title": "This $1,800 Power Lift Recliner and Massage Chair Is Just $380 During the Wayfair Memorial Day Sale",
-      "summary": "I'm thinking of getting one for dad for Father's Day.",
-      "url": "https://www.ign.com/articles/wayfair-memorial-day-sale-power-lift-recliner-and-massage-chair-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T22:45:00+00:00"
-    },
-    {
-      "id": "2498c2fd2e700a1364daad7c",
-      "title": "Rambo Prequel Gets Summer 2027 Release Date",
-      "summary": "John Rambo, a new prequel film about the titular character, has a release date.",
-      "url": "https://www.ign.com/articles/rambo-prequel-gets-summer-2027-release-date",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T22:41:34+00:00"
-    },
-    {
-      "id": "7a1e17a572fefc4ee311c97f",
-      "title": "Call of Duty: Modern Warfare 4 Will Fix Two Major Franchise Issues",
-      "summary": "Call of Duty: Modern Warfare 4 will address two of the franchise's most annoying issues.",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-will-fix-two-major-franchise-issues",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T22:32:39+00:00"
-    },
-    {
-      "id": "28302e11a2cdcdda9e335336",
-      "title": "Call of Duty: Modern Warfare 4 Team Is Evaluating Skill-Based Matchmaking Following Black Ops 7",
-      "summary": "Infinity Ward appears to be taking a careful approach to Call of Duty: Modern Warfare 4's skill-based matchmaking after Black Ops 7.",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-team-is-evaluating-skill-based-matchmaking-following-black-ops-7",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T22:24:45+00:00"
-    },
-    {
-      "id": "0006e6326fbacacc9e8f2b00",
-      "title": "Save 40% Off a Popular Magnetic Rower Exercise Machine on Amazon, Now Under $150",
-      "summary": "Cardiovascular and full-body resistance training in a compact, affordable package.",
-      "url": "https://www.ign.com/articles/magnetic-rower-exercise-machine-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T22:10:00+00:00"
-    },
-    {
-      "id": "b02ef0c32970438718d64fd4",
-      "title": "The Baseus 20,000mAh 45W Power Bank With Dual USB-C Cables Drops to $21 After Coupon",
-      "summary": "Charge and play on the Nintendo Switch 2 or Steam Deck at the same time.",
-      "url": "https://www.ign.com/articles/baseus-20000mah-45w-power-bank-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T22:00:00+00:00"
-    },
-    {
-      "id": "1e42afdb65a22d712c764196",
-      "title": "Save $1,000 Off the Powerful Lenovo Legion Pro 7 RTX 5080 Gaming Laptop With 16\" OLED Display",
-      "summary": "It's well-equipped with 32GB of DDR5 RAM and 2TB of SSD storage.",
-      "url": "https://www.ign.com/articles/lenovo-legion-gaming-laptop-deals-at-bh-photo",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T21:10:00+00:00"
-    },
-    {
       "id": "e06fd7cea2db6c61aaa953ea",
       "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
       "summary": "A 21-year-old Austrian man is found guilty of planning the attack and other terrorism-related offences.",
@@ -310,39 +398,6 @@
       "publishedAt": "2026-05-28T19:48:22+00:00"
     },
     {
-      "id": "74c8e397311dfe90cd3c1456",
-      "title": "There's Finally a Decent 512GB Nintendo Switch 2 Memory Card Deal After Months of Price Hikes",
-      "summary": "You better get it soon, though, because this deal might not last very long.",
-      "url": "https://www.ign.com/articles/best-nintendo-switch-2-microsd-express-memory-card-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T19:45:00+00:00"
-    },
-    {
-      "id": "c7b333087fca5c92a7e97d49",
-      "title": "Save 23% Off the Ecoflow River 3 Plus Power Station With a Second Battery That Triples the Total Capacity",
-      "summary": "A portable 10lb power station that also doubles as a bigger battery backup when you need it.",
-      "url": "https://www.ign.com/articles/ecoflow-river-3-plus-power-station-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T19:35:00+00:00"
-    },
-    {
-      "id": "f1e33225cc27cb7301e06ff8",
-      "title": "Expand Your Home Gym With This Yoleo Weight Bench for Less Than $39 Shipped",
-      "summary": "Comes 95% pre-assembled",
-      "url": "https://www.ign.com/articles/expand-your-home-gym-with-this-yoleo-weight-bench-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T18:30:00+00:00"
-    },
-    {
       "id": "3203bb3b352cdb82873f8c09",
       "title": "California Attorney General sues 23andMe successor for 2023 data breach",
       "summary": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
@@ -354,17 +409,6 @@
       "publishedAt": "2026-05-28T18:28:42+00:00"
     },
     {
-      "id": "789b3cee453fb190ea6c5f94",
-      "title": "The Pelsee P1 Pro 4K Front and Rear Dashcam Bundle Drops to Just $49.99 on Amazon",
-      "summary": "Equipped with the highly-rated Sony STARVIS 2 IMX675 sensor for low-light video recording",
-      "url": "https://www.ign.com/articles/pelsee-p1-pro-4k-front-and-rear-dashcam-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T17:40:00+00:00"
-    },
-    {
       "id": "b20be4aa6cf937044b9b60ee",
       "title": "Israel hits Lebanese capital in 'targeted strike'",
       "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
@@ -374,28 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-28T17:39:16+00:00"
-    },
-    {
-      "id": "ce55e77c6427be8a7a068376",
-      "title": "The Book of Life Director Sparks Significant Backlash Over New AI Amazon Animated Series, Vows to Report Death Threats",
-      "summary": "El Tigre and The Book of Life creator Jorge R. Gutierrez has sparked a significant backlash for signing up to make an AI animated series for Amazon.",
-      "url": "https://www.ign.com/articles/the-book-of-life-director-sparks-significant-backlash-over-new-ai-amazon-animated-series-vows-to-report-death-threats",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-28T17:32:15+00:00"
-    },
-    {
-      "id": "6ed67ed79cbcfd4765b2933a",
-      "title": "Are US and Iran close to peace or sliding back to war?",
-      "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
-      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-28T16:56:19+00:00"
     },
     {
       "id": "b232756aa6c86d21ff793397",
@@ -725,7 +747,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-27T13:00:22+00:00"
+      "publishedAt": "2026-05-27T13:00:13+00:00"
     },
     {
       "id": "d222e631706536b46b4ab1c0",
@@ -858,17 +880,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-25T16:00:00+00:00"
-    },
-    {
-      "id": "fdaf45ac794eee86fd1d1b1b",
-      "title": "Face à l’intelligence artificielle, « le métier de chercheur est à repenser avec des changements radicaux dans les pratiques »",
-      "summary": "Sans nier les questions énergétiques et environnementales liées à l’usage de l’IA, le professeur Jalal Fadili, qui dirige le centre du CNRS Aissai, plaide dans un entretien au « Monde » pour une approche « bénéfice-risque ».",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/25/face-a-l-intelligence-artificielle-le-metier-de-chercheur-est-a-repenser-avec-des-changements-radicaux-dans-les-pratiques_6693674_1650684.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-25T15:45:07+00:00"
     },
     {
       "id": "e113ead1f9d2d44bbb69a1dd",
