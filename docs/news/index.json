@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-05-29T23:04:56.033077+00:00",
+  "updatedAt": "2026-05-30T02:13:15.875824+00:00",
   "items": [
+    {
+      "id": "d0db42616146505b6c94e05e",
+      "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
+      "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
+      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-30T01:49:39+00:00"
+    },
+    {
+      "id": "1a013bb90f3beb98d710716c",
+      "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+      "summary": "BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.",
+      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-30T01:34:38+00:00"
+    },
+    {
+      "id": "0ac65e5c8f4284758b833244",
+      "title": "Tech Now",
+      "summary": "Shiona McCallum visits Fifa HQ in Zurich to see new tech being used in the World Cup.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-05-30T01:00:00+00:00"
+    },
+    {
+      "id": "2892fe1358b4229e89a2ab97",
+      "title": "Ghana parliament passes anti-LGBTQ+ bill",
+      "summary": "Same-sex acts are punishable by jail terms under Ghana's new bill targeting those identifying as gay, lesbian or transgender.",
+      "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-30T00:51:49+00:00"
+    },
+    {
+      "id": "c0fe10e3135a18c0b68c1e53",
+      "title": "Marcia Lucas, Oscar-Winning Star Wars and Return of the Jedi Editor, Dies at 80",
+      "summary": "Marcia Lucas, the film editor who won an Academy Award for Best Film Editing for Star Wars and was the ex-wife of Star Wars creator George Lucas, has died at age 80.",
+      "url": "https://www.ign.com/articles/marcia-lucas-star-wars-editor-dies-80",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-30T00:41:20+00:00"
+    },
+    {
+      "id": "53f3acf7a60da6297c4a0b1a",
+      "title": "No Spacesuits? No Problem! The For All Mankind Spin-Off Star City is a Very Different Kind of Space Exploration Show",
+      "summary": "Star City lead Rhys Ifans and showrunners Matt Wolpert and Ben Nedivi explain why it's time to tell the Russians' side of the alt-history story.",
+      "url": "https://www.ign.com/articles/star-city-for-all-mankind-spin-off-rhys-ifans-different-kind-of-space-exploration-show",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-30T00:21:17+00:00"
+    },
+    {
+      "id": "13876ac6c316f55e0c08f99c",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-29T23:30:33+00:00"
+    },
+    {
+      "id": "aadb6b24dda51726bd39cf6c",
+      "title": "Toy Story 5 Has \"One of the Most Heartbreaking Scenes\" in the Franchise, Tom Hanks Says",
+      "summary": "Longtime Woody actor Tom Hanks has said Toy Story 5 has \"one of the most heartbreaking scenes\" the Pixar movie franchise has seen in its 30-year history.",
+      "url": "https://www.ign.com/articles/toy-story-5-heartbreaking-scene-tom-hanks",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T23:26:23+00:00"
+    },
+    {
+      "id": "4790e2b869e0ba24910e1ede",
+      "title": "Spider-Man: Brand New Day's Punisher Is \"Authentic to the Frank Castle We Know,\" Tom Holland Says",
+      "summary": "Tom Holland has seen the concern that Spider-Man: Brand New Day will pull its punches, but he says its version of the Punisher will be \"authentic to the Frank Castle we know.\"",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-punisher-tom-holland",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-29T23:18:31+00:00"
+    },
+    {
+      "id": "10fe333943ab7e4cf684f51e",
+      "title": "Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing",
+      "summary": "Dabbawalas, who deliver home-cooked meals, are leaving the trade as remote work and rising costs threaten their future.",
+      "url": "https://www.bbc.com/news/articles/c202d0l92weo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-29T23:04:40+00:00"
+    },
     {
       "id": "b968e0235ae3e2a42f74edbe",
       "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
@@ -90,17 +200,6 @@
       "publishedAt": "2026-05-29T20:31:23+00:00"
     },
     {
-      "id": "49b986ab6c73e9f22b7b70d4",
-      "title": "Trump holds meeting to make 'final determination' on Iran deal",
-      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-29T19:32:24+00:00"
-    },
-    {
       "id": "f999cd007f5e37fd9106637e",
       "title": "Vote for Your Favorite Pokémon Featured in the Pokémon x Target Collection",
       "summary": "",
@@ -110,6 +209,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-29T19:00:00+00:00"
+    },
+    {
+      "id": "a98c44878b4aff5526949f53",
+      "title": "Israel put on UN sexual violence in warzones blacklist for first time",
+      "summary": "Israel says it rejects allegations in a new report by the office of the UN secretary general.",
+      "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-29T18:41:36+00:00"
     },
     {
       "id": "ef39634f2f9f803732bfcf80",
@@ -154,17 +264,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-29T18:21:11+00:00"
-    },
-    {
-      "id": "d0db42616146505b6c94e05e",
-      "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
-      "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
-      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-29T17:45:06+00:00"
     },
     {
       "id": "fe5ea39d9167ef31356cdfbb",
@@ -264,50 +363,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-29T16:38:12+00:00"
-    },
-    {
-      "id": "789b3cee453fb190ea6c5f94",
-      "title": "The Pelsee P1 Pro 4K Front and Rear Dashcam Bundle Drops to Just $49.99 on Amazon",
-      "summary": "Equipped with the highly-rated Sony STARVIS 2 IMX675 sensor for low-light video recording",
-      "url": "https://www.ign.com/articles/pelsee-p1-pro-4k-front-and-rear-dashcam-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-29T16:30:00+00:00"
-    },
-    {
-      "id": "e3c98986dcd32153bf66c556",
-      "title": "The Remarkable Paper Pure Is The Best Way to Take Digital Notes",
-      "summary": "Once you've tried the convenience of digital note-taking, there's no turning back.",
-      "url": "https://www.ign.com/articles/remarkable-paper-pure-note-taking",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-29T16:30:00+00:00"
-    },
-    {
-      "id": "74c8e397311dfe90cd3c1456",
-      "title": "There's Finally a Decent 512GB Nintendo Switch 2 Memory Card Deal After Months of Price Hikes",
-      "summary": "You better get it soon, though, because this deal might not last very long.",
-      "url": "https://www.ign.com/articles/best-nintendo-switch-2-microsd-express-memory-card-deal-may-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-29T16:20:00+00:00"
-    },
-    {
-      "id": "6f5d67fe080eda464972913a",
-      "title": "Save $2,400 Off the Alienware 16X Aurora RTX 5070 Gaming Laptop Loaded With 64GB of RAM and 4TB SSD",
-      "summary": "Premium build quality and strong gaming performance at a discounted price",
-      "url": "https://www.ign.com/articles/alienware-16x-aurora-rtx-5070-gaming-laptop-deal-dell-memorial-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-29T16:05:00+00:00"
     },
     {
       "id": "b0d95b3afdd46d39fec8d9f2",
@@ -728,17 +783,6 @@
       "publishedAt": "2026-05-28T08:02:29+00:00"
     },
     {
-      "id": "5ab81e3aa3bd9aecca5ba787",
-      "title": "Duterte ICC trial to start on 30 November: What you need to know",
-      "summary": "Duterte is facing charges relating to a long and bloody war on drugs in which thousands were killed.",
-      "url": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-28T03:14:56+00:00"
-    },
-    {
       "id": "2f898a6e62c92b896b1a26bf",
       "title": "Google worker charged with using internal data to make $1.2m on bets",
       "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
@@ -990,17 +1034,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-05T19:30:00+00:00"
-    },
-    {
-      "id": "6737ab5b5834dd62cdc1ec86",
-      "title": "Tech Now",
-      "summary": "Harriet Bradshaw finds out how AI is being used to help solve an art history mystery.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-02T01:00:00+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
