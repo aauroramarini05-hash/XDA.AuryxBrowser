@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-05-30T16:06:18.342811+00:00",
+  "updatedAt": "2026-05-30T17:57:39.386676+00:00",
   "items": [
+    {
+      "id": "a33b1884a90c2332e875d35d",
+      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+      "summary": "People have just begun returning to check on their homes in the block that was hit early on Friday morning.",
+      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-30T17:34:30+00:00"
+    },
+    {
+      "id": "147fd417be529d9f14e54909",
+      "title": "Everything Coming to Disney+ in June 2026",
+      "summary": "While Disney+ hasn’t announced anything new from the worlds of the MCU or Star Wars, there are still plenty of big additions coming to the service in June.",
+      "url": "https://www.ign.com/articles/whats-new-on-disney-plus-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-30T17:02:00+00:00"
+    },
+    {
+      "id": "39934518503de9b4d66a8fb4",
+      "title": "Anne Alombert, philosophe : « Léon XIV, à partir de l’IA, se livre à un véritable plaidoyer pour l’action publique »",
+      "summary": "La philosophe analyse, dans un entretien au « Monde », « Magnifica humanitas », l’encyclique que le pape vient de publier, où il se focalise particulièrement sur l’enjeu de l’IA, dont Anne Alombert est spécialiste. Selon elle, si ce texte souligne les dangers de cette industrie, il évite la facilité de considérer les technologies numériques comme u",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/30/anne-alombert-philosophe-leon-xiv-a-partir-de-l-ia-se-livre-a-un-veritable-plaidoyer-pour-l-action-publique_6695281_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-30T17:00:10+00:00"
+    },
+    {
+      "id": "7218fc35de2b7b5a3a588109",
+      "title": "Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area",
+      "summary": "Médicins Sans Frontières says that never before has an Ebola outbreak recorded so many cases so soon after its declaration.",
+      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-30T16:58:56+00:00"
+    },
+    {
+      "id": "c9a9f0bb03d4da2a94120147",
+      "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
+      "summary": "A Russian drone hit a block of flats in Romania on Friday, causing a fire and injuring two people, Romanian officials say.",
+      "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-30T16:21:28+00:00"
+    },
+    {
+      "id": "460152d0688a288b67df0e03",
+      "title": "A Minecraft Movie 2 Gets Official Title Ahead of July 2027 Premiere",
+      "summary": "The cast from A Minecraft Movie 2 teamed up to release a video confirming that the sequel now has an official title: A Minecraft Movie Squared.",
+      "url": "https://www.ign.com/articles/a-minecraft-movie-2-gets-official-title-ahead-of-july-2027-premiere",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-30T16:10:14+00:00"
+    },
     {
       "id": "a294e18eddd51acd6ded34cb",
       "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
@@ -26,7 +92,7 @@
     {
       "id": "815f70bd59e31554fa7db8c6",
       "title": "Minecraft Live May 2026: Everything Announced",
-      "summary": "Mojang Studios is back for a May 2026 installment of Minecraft Live, and we're here to gather all of the highlights.",
+      "summary": "Mojang Studios showed up for its Minecraft Live May 2026 presentation with reveals for A Minecraft Movie 2, Minecraft Dungeons 2, and more, and we were there to gather all of the highlights.",
       "url": "https://www.ign.com/articles/minecraft-live-may-2026-everything-announced",
       "imageUrl": null,
       "source": "IGN All",
@@ -143,6 +209,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-30T11:30:00+00:00"
+    },
+    {
+      "id": "4ecb24a9961d5a885686faf7",
+      "title": "How did tattoo artists become legal in South Korea?",
+      "summary": "The BBC is in Seoul, where tattooist from all over the country have gathered to celebrate their art, following decades of underground work.",
+      "url": "https://www.bbc.com/news/videos/c9we0ln71llo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-30T10:35:31+00:00"
     },
     {
       "id": "bdb65768effb158b8ebde74c",
@@ -409,17 +486,6 @@
       "publishedAt": "2026-05-29T20:35:40+00:00"
     },
     {
-      "id": "cc8e9099003c8f0058815483",
-      "title": "A New Book Promises to Tell the Story of Steven Spielberg’s Abandoned Alien Horror Movie That Morphed Into E.T.",
-      "summary": "The upcoming book Stranded on Earth: How Night Skies Became E.T. the Extra-Terrestrial will tell the story of Steven Spielberg’s abandoned alien horror movie, a film that eventually morphed into E.T.",
-      "url": "https://www.ign.com/articles/stranded-on-earth-book-story-of-steven-spielberg-alien-horror-movie-et",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-29T20:31:51+00:00"
-    },
-    {
       "id": "c55b1408baf17ad5071573d2",
       "title": "G7 numérique : la France se félicite de l’adoption de déclarations sur l’IA, notamment sur la protection de l’enfance",
       "summary": "La réunion des ministres du numérique du G7, vendredi à Paris, a abouti à une déclaration commune sur les enjeux du secteur, comportant des avancées sur la protection des mineurs et une timide reconnaissance de la voracité énergétique de l’intelligence artificielle.",
@@ -429,17 +495,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-29T20:31:23+00:00"
-    },
-    {
-      "id": "f999cd007f5e37fd9106637e",
-      "title": "Vote for Your Favorite Pokémon Featured in the Pokémon x Target Collection",
-      "summary": "",
-      "url": "https://www.ign.com/articles/vote-for-your-favorite-pokmon-featured-in-the-pokmon-x-target-collection",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-29T19:00:00+00:00"
     },
     {
       "id": "a98c44878b4aff5526949f53",
@@ -585,17 +640,6 @@
       "publishedAt": "2026-05-29T04:00:29+00:00"
     },
     {
-      "id": "1e403fed971e56f9aeef8aea",
-      "title": "Moment Blue Origin rocket explodes during test in Florida",
-      "summary": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
-      "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-29T03:02:48+00:00"
-    },
-    {
       "id": "3c9f519e25a0fff297b2c8bf",
       "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
       "summary": "The expansion in control by Israel would contradict the terms of the ceasefire Israel and Hamas agreed to in October 2025.",
@@ -638,17 +682,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-28T23:36:45+00:00"
-    },
-    {
-      "id": "c0a8fb29518ea23829ba538a",
-      "title": "How did this novel about food win a Booker Prize this year?",
-      "summary": "Taiwan Travelogue is the first novel translated from Mandarin Chinese to win the prestigious award.",
-      "url": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-28T22:48:45+00:00"
     },
     {
       "id": "3146167a3ee3ca23ebe85489",
@@ -858,17 +891,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-27T23:14:30+00:00"
-    },
-    {
-      "id": "7715f12b359a479dfc0423a3",
-      "title": "« Transformer une idée en langage manuscrit requiert un ensemble complexe d’événements dans notre boîte crânienne »",
-      "summary": "Dans un entretien au « Monde », Marieke Longcamp, spécialiste en neurosciences cognitives, rappelle que l’écriture à la main favorise la mémorisation et l’apprentissage et craint que ces compétences puissent s’amenuiser avec l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/27/transformer-une-idee-en-langage-manuscrit-requiert-un-ensemble-complexe-d-evenements-dans-notre-boite-cranienne_6694233_1650684.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-27T15:00:12+00:00"
     },
     {
       "id": "c0f038f727fab4efece6a3fd",
