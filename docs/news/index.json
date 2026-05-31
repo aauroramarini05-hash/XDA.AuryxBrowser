@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-05-31T21:51:40.902345+00:00",
+  "updatedAt": "2026-05-31T22:51:28.596028+00:00",
   "items": [
+    {
+      "id": "460e05c77ade399548b51a31",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "summary": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-31T22:39:12+00:00"
+    },
+    {
+      "id": "54816c66f56485a4d6130b94",
+      "title": "Nicaraguan indigenous leader dies after three years in prison",
+      "summary": "Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.",
+      "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-31T21:52:38+00:00"
+    },
+    {
+      "id": "48f9dc05b06da5ee4656354e",
+      "title": "Masters of the Universe Gets Last-Minute Imax Confirmation as Star Wars Makes Room",
+      "summary": "Masters of the Universe has added last-minute Imax screens to its theatrical rollout after Star Wars: The Mandalorian and Grogu opened up room for the large-screen format earlier than expected.",
+      "url": "https://www.ign.com/articles/masters-of-the-universe-gets-last-minute-imax-confirmation-as-star-wars-makes-room",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-05-31T21:21:23+00:00"
+    },
     {
       "id": "30adc2892398dc7ee5e37152",
       "title": "Polls close in Colombia presidential election that may reshape relations with US",
@@ -22,17 +55,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-31T20:38:19+00:00"
-    },
-    {
-      "id": "460e05c77ade399548b51a31",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T20:26:11+00:00"
     },
     {
       "id": "090af08a52f846b101395a5e",
@@ -497,17 +519,6 @@
       "publishedAt": "2026-05-30T13:00:00+00:00"
     },
     {
-      "id": "1107f33569738899bef5a1ae",
-      "title": "The Wandering Inn Interview: Pirateaba Talks LitRPG Success and Inspiration",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-wandering-inn-interview-pirateaba-books",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-05-30T12:30:00+00:00"
-    },
-    {
       "id": "56def1a7cc139405a47bd8f5",
       "title": "US, UK and Australia to develop underwater drone technology",
       "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
@@ -926,10 +937,10 @@
       "publishedAt": "2026-05-26T23:33:40+00:00"
     },
     {
-      "id": "6eb5c7cb80d2a42bcf80b191",
+      "id": "8a09ed40ecc3b699c5a575be",
       "title": "Tech Life",
       "summary": "What is the role of a teacher once AI arrives in the school classroom?",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
