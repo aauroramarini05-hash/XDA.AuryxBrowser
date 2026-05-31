@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-05-31T06:51:38.408648+00:00",
+  "updatedAt": "2026-05-31T09:43:10.492764+00:00",
   "items": [
+    {
+      "id": "b1743c8dfd8beacfbf671b4a",
+      "title": "Colombia votes in presidential election that could redefine relations with US",
+      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
+      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-31T08:47:46+00:00"
+    },
+    {
+      "id": "29dd7ea314a000b9785b407d",
+      "title": "« Astrée, l’IA du ministère de l’intérieur pour les procédures d’immigration, n’est que la phase émergée d’un iceberg »",
+      "summary": "L’intelligence artificielle s’immisce dans tout le droit, mais particulièrement dans les contentieux des étrangers en situation irrégulière. Dans une tribune au « Monde », Serge Slama, professeur de droit public, fait l’état des lieux de cette vague de fond, observable dans tout l’Occident, où des destins humains deviennent des données parmi d’autr",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/31/astree-l-ia-du-ministere-de-l-interieur-pour-les-procedures-d-immigration-n-est-que-la-phase-emergee-d-un-iceberg_6695560_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-05-31T07:30:07+00:00"
+    },
     {
       "id": "1c4676b9fe1c051be8831001",
       "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
@@ -24,8 +46,8 @@
       "publishedAt": "2026-05-31T06:41:02+00:00"
     },
     {
-      "id": "829c904d51562e63ac1dd5a6",
-      "title": "Japan defence minister denies militarism, criticises China's 'huge arsenal'",
+      "id": "c9f2a6211291c1c9749d1b21",
+      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
       "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
       "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -121,17 +143,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-05-30T20:47:03+00:00"
-    },
-    {
-      "id": "04698055c248472014b9a914",
-      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-      "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
-      "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-30T20:40:07+00:00"
     },
     {
       "id": "73f924cfa76fecac363d6223",
@@ -431,15 +442,15 @@
       "publishedAt": "2026-05-30T09:43:12+00:00"
     },
     {
-      "id": "76110696f55a0dfff1dc2883",
-      "title": "Pourquoi l’armée opaque des petits robots arpenteurs d’Internet et nourrisseurs d’IA héritent des angles morts et des biais du web",
+      "id": "e3ad14481472260dcdecb1b0",
+      "title": "Pourquoi les intelligences artificielles héritent des angles morts et des biais du Web",
       "summary": "Profondément dépendants d’Internet, qui leur fournit la masse de données nécessaires à leur entraînement, les robots d’intelligence artificielle tels que ChatGPT ne peuvent prétendre à l’exhaustivité : de nombreuses pages leur restent inaccessibles et les informations collectées représentent mal la diversité des cultures humaines.",
       "url": "https://www.lemonde.fr/idees/article/2026/05/30/pourquoi-l-ia-herite-des-angles-morts-et-des-biais-du-web_6695202_3232.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-05-30T04:30:05+00:00"
+      "publishedAt": "2026-05-30T04:30:01+00:00"
     },
     {
       "id": "3029cf1bde5e5171f752fd2c",
@@ -803,17 +814,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-28T08:28:43+00:00"
-    },
-    {
-      "id": "425f1c139217b84126b80b73",
-      "title": "Appel à témoignages : vous refusez les injonctions de votre employeur à utiliser l’IA au travail ? Racontez-nous",
-      "summary": "Votre employeur encourage l’adoption d’outils d’intelligence artificielle et vous y êtes réticent·e. Partagez votre expérience avec nous.",
-      "url": "https://www.lemonde.fr/emploi/appel-temoignages/2026/05/28/appel-a-temoignages-vous-refusez-les-injonctions-de-votre-employeur-a-utiliser-l-ia-au-travail-racontez-nous_6694437_1698637.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-28T08:02:29+00:00"
     },
     {
       "id": "2f898a6e62c92b896b1a26bf",
