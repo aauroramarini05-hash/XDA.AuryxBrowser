@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-31T20:50:24.809079+00:00",
+  "updatedAt": "2026-05-31T21:51:40.902345+00:00",
   "items": [
+    {
+      "id": "30adc2892398dc7ee5e37152",
+      "title": "Polls close in Colombia presidential election that may reshape relations with US",
+      "summary": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
+      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-05-31T21:08:21+00:00"
+    },
     {
       "id": "53cc9f56ce6b4766bded353b",
       "title": "Between celebration and confrontation: Paris after PSG victory",
@@ -154,17 +165,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-31T15:52:42+00:00"
-    },
-    {
-      "id": "b1743c8dfd8beacfbf671b4a",
-      "title": "Colombia votes in presidential election that could redefine relations with US",
-      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T15:08:38+00:00"
     },
     {
       "id": "4d2eeacd2d87a96d0f46a0fb",
@@ -926,10 +926,10 @@
       "publishedAt": "2026-05-26T23:33:40+00:00"
     },
     {
-      "id": "8a09ed40ecc3b699c5a575be",
+      "id": "6eb5c7cb80d2a42bcf80b191",
       "title": "Tech Life",
       "summary": "What is the role of a teacher once AI arrives in the school classroom?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
