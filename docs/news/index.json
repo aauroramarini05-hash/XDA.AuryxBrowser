@@ -1,38 +1,192 @@
 {
-  "updatedAt": "2026-06-02T05:23:45.022842+00:00",
+  "updatedAt": "2026-06-02T10:05:58.543886+00:00",
   "items": [
     {
-      "id": "b96d491c777483dd03d62102",
-      "title": "Massive Russian attack on cities across Ukraine kills at least ten people",
-      "summary": "Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble.",
+      "id": "37ada36039134767f0569da6",
+      "title": "Fabrice Fries, président de l’Agence France-Presse : « Avec l’IA, la machine devient un public du journalisme, et même son premier lecteur »",
+      "summary": "Prenant acte des aubaines et des dangers que représente l’intelligence artificielle pour la profession, le patron de l’AFP recense, dans une tribune au « Monde », les défis que les journalistes devront relever au cours des années à venir pour garantir une information de qualité.",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/02/fabrice-fries-president-de-l-agence-france-presse-avec-l-ia-la-machine-devient-un-public-du-journalisme-et-meme-son-premier-lecteur_6696374_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-02T10:00:10+00:00"
+    },
+    {
+      "id": "93cdcaab9ef99eec71a28c83",
+      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "summary": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
+      "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T09:55:21+00:00"
+    },
+    {
+      "id": "c389298bfadc6bf082a88c9c",
+      "title": "Massive Russian attack on cities across Ukraine kills at least 16 people",
+      "summary": "An eight-year-old boy and a woman pulled from the rubble of an apartment block are among those killed, officials say.",
       "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-02T05:04:16+00:00"
+      "publishedAt": "2026-06-02T09:41:49+00:00"
     },
     {
-      "id": "d28a7e9ee2927148ea1da9ff",
-      "title": "Pourquoi les prix des matériels électroniques grand public explosent",
-      "summary": "Les tarifs des composants ont bondi ces derniers mois, sous la pression combinée de la course à l’intelligence artificielle et de la guerre en Iran. Le phénomène se répercute désormais sur les produits grand public, sans accalmie prévue à court terme.",
+      "id": "63f6737b981b59593380f399",
+      "title": "Choose France : derrière les milliards de l’IA, l’enjeu crucial de l’énergie",
+      "summary": "Ce qui attire les géants mondiaux qui ont annoncé, lundi, lors du neuvième sommet Choose France, 93 milliards d’investissements, dont une grande part pour l’intelligence artificielle, c’est notre électricité, décarbonée et structurellement excédentaire, à l’heure où les data centers dévorent l’énergie.",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/02/choose-france-derriere-les-milliards-de-l-ia-l-enjeu-crucial-de-l-energie_6696372_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-02T09:30:04+00:00"
+    },
+    {
+      "id": "7f8f1af6f6b7cbcdab35ea41",
+      "title": "Spliiit : Netflix, Disney et Apple font condamner l’entreprise française qui permet de partager des abonnements",
+      "summary": "L’entreprise française a été condamnée pour « complicité de violation des conditions générales d’utilisation » des abonnements à Netflix, Disney et Apple, « concurrence déloyale » et « contrefaçon de marque ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/02/spliiit-netflix-disney-et-apple-font-condamner-l-entreprise-francaise-qui-permet-de-partager-des-abonnements_6696371_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-02T09:23:19+00:00"
+    },
+    {
+      "id": "a5a37074bd3e5e87f7b51bda",
+      "title": "Nintendo Music Launches Web Player, With Over 4 Hours of Mario Kart World Tunes",
+      "summary": "Nintendo Music has added its most-requested soundtrack to date — the toe-tapping tunes of Switch 2 exclusive Mario Kart World — and launched a new web player.",
+      "url": "https://www.ign.com/articles/nintendo-music-launches-web-player-with-over-4-hours-of-mario-kart-world-tunes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-02T08:57:31+00:00"
+    },
+    {
+      "id": "cb68d39c8761b6ab1d67280d",
+      "title": "Resident Evil Series May Finally Set Future Game in Japan, Producer Says",
+      "summary": "The Resident Evil series may set a future installment in Japan — a setting no mainline game has visited to date.",
+      "url": "https://www.ign.com/articles/resident-evil-series-may-finally-set-future-game-in-japan-producer-says",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-02T08:35:44+00:00"
+    },
+    {
+      "id": "8f8924dbdd4a4e89585eb02b",
+      "title": "Why Myanmar president's India visit is being closely watched",
+      "summary": "Myanmar is seeking to broaden diplomatic engagement after years of international criticism and isolation.",
+      "url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T08:29:20+00:00"
+    },
+    {
+      "id": "e0b00d10ec76f6108d991bfb",
+      "title": "Watch: Explosion at fireworks factory in Malta",
+      "summary": "Two men were injured in the explosion and were taken to hospital with minor injuries.",
+      "url": "https://www.bbc.com/news/videos/c5y0n0qvkkxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T08:06:20+00:00"
+    },
+    {
+      "id": "bf14f153c4638724d9e95a4a",
+      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+      "summary": "The thousands of \"ghost kitchens\" - online shops that don't actually exist - have spooked Chinese consumers.",
+      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T07:52:47+00:00"
+    },
+    {
+      "id": "54b012e5a515d3f1cfb3afd1",
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+      "summary": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T07:31:10+00:00"
+    },
+    {
+      "id": "f5ae0a89efbad4114795f8dc",
+      "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+      "summary": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T07:00:21+00:00"
+    },
+    {
+      "id": "4788b40fddcda0a1c0ae112b",
+      "title": "Face à l’envolée des prix de l’informatique, des consommateurs « paumés »",
+      "summary": "Alors que le coût de la RAM (mémoire vive) et des disques durs SSD s’envolent, les discussions et la recherche de compromis pour s’équiper de matériel récent sont abondantes dans les communautés de passionnés.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/02/face-a-l-envolee-des-prix-de-l-informatique-des-consommateurs-paumes_6696352_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-02T06:30:05+00:00"
+    },
+    {
+      "id": "265fd17ccbb2b6f4d8c398d7",
+      "title": "How Cornish miners brought football to Mexico",
+      "summary": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
+      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T05:28:25+00:00"
+    },
+    {
+      "id": "55ec0309b6d2fa08801cede7",
+      "title": "Influencers sought to sell Cambridge homes in China",
+      "summary": "An estate agent is looking for tech-savvy students to help find buyers in China and Hong Kong.",
+      "url": "https://www.bbc.com/news/articles/cx211kq758go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T05:22:33+00:00"
+    },
+    {
+      "id": "b8dd6370ca2acd2ef4a64a69",
+      "title": "Pourquoi les prix des PC et des consoles explosent",
+      "summary": "Les tarifs des composants comme la RAM et le stockage de type SSD ont bondi ces derniers mois, sous la pression combinée de la course à l’IA et de la guerre contre l’Iran. Le phénomène se répercute désormais sur les produits grand public, sans accalmie prévue à court terme.",
       "url": "https://www.lemonde.fr/pixels/article/2026/06/02/pourquoi-les-prix-des-materiels-electroniques-grand-public-explosent_6696344_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-02T04:30:16+00:00"
+      "publishedAt": "2026-06-02T04:30:09+00:00"
     },
     {
-      "id": "e1bd9d905ea96bc56677bfd5",
-      "title": "Ces enseignants qui expérimentent l’intelligence artificielle en classe : « Je me sens comme un prof augmenté »",
-      "summary": "D’abord peu intéressés, de plus en plus d’enseignants cherchent ce que peut apporter à leurs enseignements l’intelligence artificielle. Ils racontent, exemples à l’appui, comment elle agit comme un moteur pour revisiter leur pédagogie et rendre les élèves plus actifs.",
+      "id": "e3b1eda10b4b7e579a803995",
+      "title": "Ces enseignants qui expérimentent l’IA en classe : « Je me sens comme un prof augmenté »",
+      "summary": "Des professeurs racontent, exemples à l’appui, comment l’intelligence artificielle agit comme un moteur pour revisiter leur pédagogie et rendre les élèves plus actifs.",
       "url": "https://www.lemonde.fr/societe/article/2026/06/02/ces-enseignants-qui-experimentent-l-intelligence-artificielle-en-classe-je-me-sens-comme-un-prof-augmente_6696335_3224.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-02T04:00:30+00:00"
+      "publishedAt": "2026-06-02T04:00:18+00:00"
     },
     {
       "id": "bba5cf156b71610bf8ac05d3",
@@ -92,13 +246,13 @@
     {
       "id": "e80fce1b93c951909dde6a5e",
       "title": "Alphabet, la maison mère de Google, veut lever 80 milliards de dollars pour financer son IA",
-      "summary": "Malgré des profits records, le groupe fait appel au marché pour suivre le rythme et financer l’expansion de ses capacités dans l’intelligence artificielle.",
+      "summary": "Malgré des profits record, le groupe fait appel au marché pour suivre le rythme et financer l’expansion de ses capacités dans l’intelligence artificielle.",
       "url": "https://www.lemonde.fr/economie/article/2026/06/02/alphabet-la-maison-mere-de-google-veut-lever-80-milliards-de-dollars-pour-financer-son-ia_6696161_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-02T00:29:17+00:00"
+      "publishedAt": "2026-06-02T00:29:16+00:00"
     },
     {
       "id": "cf8a4075aa1bc251f143806a",
@@ -121,17 +275,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-02T00:00:00+00:00"
-    },
-    {
-      "id": "7e68a3098a48ae462acee63d",
-      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-      "summary": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon.",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T23:50:03+00:00"
     },
     {
       "id": "789b3cee453fb190ea6c5f94",
@@ -233,17 +376,6 @@
       "publishedAt": "2026-06-01T22:45:00+00:00"
     },
     {
-      "id": "b7dcdb14fa334a1733e39163",
-      "title": "'Mornings and nights no longer exist' at 47C: A day in the hottest place in India",
-      "summary": "What a day in India's hottest district reveals about life on the frontline of extreme heat.",
-      "url": "https://www.bbc.com/news/articles/crmp0krp98ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T22:31:42+00:00"
-    },
-    {
       "id": "cdf1338eec4f0f7c159c9f01",
       "title": "This 307-Piece LEGO Lord of the Rings Set Is Attached to a $650 Price Tag",
       "summary": "",
@@ -275,17 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-01T21:40:19+00:00"
-    },
-    {
-      "id": "1d3eb443be2b6d72eccd8954",
-      "title": "No, Trump's name hasn't been removed from the Kennedy Center",
-      "summary": "An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online.",
-      "url": "https://www.bbc.com/news/videos/c759pqn255zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T21:35:30+00:00"
     },
     {
       "id": "3d848fc7e904efb8cfe4866b",
@@ -420,39 +541,6 @@
       "publishedAt": "2026-06-01T18:58:26+00:00"
     },
     {
-      "id": "c523b7a4bb312e09a835d8cb",
-      "title": "AI giant Anthropic says it plans to list on US stock market",
-      "summary": "The AI company behind Claude is set to offer the public shares of stock sometime this year.",
-      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T18:50:13+00:00"
-    },
-    {
-      "id": "f74baf9f284473e02faeb685",
-      "title": "Star City Episode 1 and 2 Review",
-      "summary": "The first two episodes of the For All Mankind spin-off wind back the clock on the space race to watch it unfold from the Soviet perspective.",
-      "url": "https://www.ign.com/articles/star-city-episode-1-and-2-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-01T18:47:26+00:00"
-    },
-    {
-      "id": "69e778b876208be6e6b3091b",
-      "title": "The ABS Eurus Ruby GeForce RTX 5070 Ti Gaming PC Drops Below $2,000 and Has All-Around Great Specs",
-      "summary": "The 4K capable GPU is paired with an AMD Ryzen X3D CPU, 32GB of DDR5-6400MHz RAM, and a fast 2TB SSD.",
-      "url": "https://www.ign.com/articles/abs-eurus-ruby-geforce-rtx-5070-ti-gaming-pc-deal-at-walmart",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-01T18:40:00+00:00"
-    },
-    {
       "id": "5bd9947140dde85524a28a3b",
       "title": "Williams, 44, to return to action in Queen's doubles",
       "summary": "Serena Williams will return to competitive tennis for the first time in nearly four years when she plays in the women's doubles at Queen's.",
@@ -530,17 +618,6 @@
       "publishedAt": "2026-06-01T15:40:58+00:00"
     },
     {
-      "id": "cf06fccb26fc853e10053c8e",
-      "title": "Voting suspended in parts of Ethiopia over security concerns",
-      "summary": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote.",
-      "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T14:35:36+00:00"
-    },
-    {
       "id": "2eaa27e1d486a58a7901f58d",
       "title": "Three Ebola vaccines in development amid growing outbreak fears",
       "summary": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
@@ -572,17 +649,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-01T11:34:19+00:00"
-    },
-    {
-      "id": "1293927b0423ad043c2319c7",
-      "title": "Nigeria police warn against reprisal attacks against South Africans",
-      "summary": "Tensions have been rising in South Africa in recent weeks following several anti-migrant protests.",
-      "url": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T10:02:49+00:00"
     },
     {
       "id": "016efaee36ee5afaec40d13a",
@@ -629,17 +695,6 @@
       "publishedAt": "2026-06-01T06:23:59+00:00"
     },
     {
-      "id": "f5ed7efedaf587bc78aef5db",
-      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
-      "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
-      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T05:33:18+00:00"
-    },
-    {
       "id": "27614808afa8c68ccf433970",
       "title": "« Il faut poser les bases d’un véritable “new deal” européen de l’information associant médias, plateformes et régulateurs »",
       "summary": "Alors que s’ouvre, lundi à Marseille, le Congrès mondial des médias, Jean-Christophe Tortora, directeur général délégué de CMA Media, explique, dans une tribune au « Monde », à quel point l’intelligence artificielle représente une menace existentielle pour le secteur.",
@@ -684,83 +739,6 @@
       "publishedAt": "2026-06-01T03:45:07+00:00"
     },
     {
-      "id": "18d70e41ec1aa15cfe809c92",
-      "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
-      "summary": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
-      "url": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T03:19:57+00:00"
-    },
-    {
-      "id": "44d099fa4de6dcd424e8b706",
-      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-      "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
-      "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T01:53:03+00:00"
-    },
-    {
-      "id": "bb515c32718ec9b88e213f8e",
-      "title": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
-      "summary": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
-      "url": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T01:32:07+00:00"
-    },
-    {
-      "id": "1b8e4ad9b996fead7dd2d817",
-      "title": "A year of grief after Air India crash: What remains when a plane falls from the sky",
-      "summary": "A mother still speaks about her son who died in the crash in the present tense and a brother waits for answers.",
-      "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-01T00:24:47+00:00"
-    },
-    {
-      "id": "72663aed08edb950edce2657",
-      "title": "The drivers risking death on Ukraine's most dangerous bus routes",
-      "summary": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
-      "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T23:40:57+00:00"
-    },
-    {
-      "id": "ce94aab4d44eb916522b3bcc",
-      "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
-      "summary": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
-      "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T23:32:04+00:00"
-    },
-    {
-      "id": "ba611c784f1c4162857f264b",
-      "title": "Caribbean hot sauce producers warn of shortages and higher prices",
-      "summary": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
-      "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T23:19:32+00:00"
-    },
-    {
       "id": "53cc9f56ce6b4766bded353b",
       "title": "Between celebration and confrontation: Paris after PSG victory",
       "summary": "Nearly 800 people were arrested after clashes with police following the Champions League final.",
@@ -772,39 +750,6 @@
       "publishedAt": "2026-05-31T20:38:19+00:00"
     },
     {
-      "id": "4226a798815591d90528753c",
-      "title": "Dead whale towed ashore in Denmark ahead of autopsy",
-      "summary": "\"Timmy\" was found dead off the coast of Anholt despite multiple attempts to rescue it.",
-      "url": "https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T19:05:42+00:00"
-    },
-    {
-      "id": "27e8520fdf6af4f4aa5e7136",
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T18:13:39+00:00"
-    },
-    {
-      "id": "31ef43122a829f33e4de2859",
-      "title": "South Africa made to look like fools over World Cup visa issues, says minister",
-      "summary": "After a day of uncertainty, the government confirms the team will depart for Mexico on Monday.",
-      "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T17:27:18+00:00"
-    },
-    {
       "id": "29dd7ea314a000b9785b407d",
       "title": "« Astrée, l’IA du ministère de l’intérieur pour les procédures d’immigration, n’est que la phase émergée d’un iceberg »",
       "summary": "L’intelligence artificielle s’immisce dans tout le droit, mais particulièrement dans les contentieux des étrangers en situation irrégulière. Dans une tribune au « Monde », Serge Slama, professeur de droit public, fait l’état des lieux de cette vague de fond, observable dans tout l’Occident, où des destins humains deviennent des données parmi d’autr",
@@ -814,50 +759,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-31T07:30:03+00:00"
-    },
-    {
-      "id": "bb477857ee1cc79e516b12db",
-      "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
-      "summary": "Will Grant spoke to a 70-year-old widow who says the inability to use her building's elevator during a power outage trapped her and her husband when he needed medical care.",
-      "url": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T00:11:56+00:00"
-    },
-    {
-      "id": "3dcf43e7b563b44e6f69552c",
-      "title": "How Putin became master of the image",
-      "summary": "From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly reinvented his image, and himself.",
-      "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-30T23:17:26+00:00"
-    },
-    {
-      "id": "8d65a77741ee2d494813fb86",
-      "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-      "summary": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
-      "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-30T22:23:32+00:00"
-    },
-    {
-      "id": "66d6c3224a6d10406ca1b3d7",
-      "title": "'It's like a decaying body': Australian farmers battle mouse plague",
-      "summary": "Farmers report thousands of mice per hectare destroying crops and invading homes.",
-      "url": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-30T20:58:05+00:00"
     },
     {
       "id": "c090e9cd7d9412a6945f086a",
@@ -882,28 +783,6 @@
       "publishedAt": "2026-05-30T17:00:10+00:00"
     },
     {
-      "id": "c9a9f0bb03d4da2a94120147",
-      "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
-      "summary": "A Russian drone hit a block of flats in Romania on Friday, causing a fire and injuring two people, Romanian officials say.",
-      "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-30T16:21:28+00:00"
-    },
-    {
-      "id": "9cce32949f39c3c0bb087859",
-      "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
-      "summary": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as it is about health.",
-      "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-30T15:06:01+00:00"
-    },
-    {
       "id": "07b8da6f8b56253c4371fc59",
       "title": "A Châteauroux, la contestation contre le projet de data center de Google s’organise",
       "summary": "Le géant américain de la tech ambitionne d’implanter dans l’Indre un gigantesque centre de données, le premier qu’il détiendrait en nom propre sur le territoire français. Et s’attire les critiques d’un collectif qui tente d’empêcher sa construction.",
@@ -926,17 +805,6 @@
       "publishedAt": "2026-05-30T04:30:01+00:00"
     },
     {
-      "id": "3029cf1bde5e5171f752fd2c",
-      "title": "Notre sélection de onze BD, mangas et comics de mai : « Mona », « Umami », « La Fin de la fiction »…",
-      "summary": "Chaque mois, La Matinale vous propose des ouvrages récemment parus, chroniqués par la rédaction. A l’honneur notamment ce mois-ci, l’ébullition artistique du Cabaret Voltaire.",
-      "url": "https://www.lemonde.fr/culture/article/2026/05/30/notre-selection-de-onze-bd-mangas-et-comics-de-mai-mona-umami-la-fin-de-la-fiction_6695163_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-30T04:00:12+00:00"
-    },
-    {
       "id": "0ac65e5c8f4284758b833244",
       "title": "Tech Now",
       "summary": "Shiona McCallum visits Fifa HQ in Zurich to see new tech being used in the World Cup.",
@@ -946,39 +814,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-30T01:00:00+00:00"
-    },
-    {
-      "id": "c55b1408baf17ad5071573d2",
-      "title": "G7 numérique : la France se félicite de l’adoption de déclarations sur l’IA, notamment sur la protection de l’enfance",
-      "summary": "La réunion des ministres du numérique du G7, vendredi à Paris, a abouti à une déclaration commune sur les enjeux du secteur, comportant des avancées sur la protection des mineurs et une timide reconnaissance de la voracité énergétique de l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/29/g7-numerique-la-france-se-felicite-de-l-adoption-de-declarations-sur-l-ia-notamment-sur-la-protection-de-l-enfance_6694823_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-29T20:31:23+00:00"
-    },
-    {
-      "id": "894a798e89e84f5aefd06f01",
-      "title": "Les musiques du jeu vidéo « Clair Obscur. Expedition 33 » dans un concert impressionniste",
-      "summary": "Au succès fulgurant de ce jeu vidéo français, multiprimé aux Game Awards, succède celui du spectacle mettant à l’honneur sa bande originale. La tournée européenne, dont la majorité des concerts se jouent à guichets fermés, fait escale pour trois jours à La Seine musicale, à Boulogne-Billancourt.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/05/29/les-musiques-du-jeu-video-clair-obscur-expedition-33-dans-un-concert-impressionniste_6694796_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-29T17:00:11+00:00"
-    },
-    {
-      "id": "b0d95b3afdd46d39fec8d9f2",
-      "title": "« Post-vérité », ou l’art de rendre « indifférent au souci de savoir si c’est vrai ou si c’est faux »",
-      "summary": "La revue semestrielle « Approches » passe au crible cette notion popularisée en 2016, au moment du Brexit et de la première élection de Donald Trump à la présidence des Etats-Unis, tout en analysant ses nouveaux développements.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/29/post-verite-ou-l-art-de-rendre-indifferent-au-souci-de-savoir-si-c-est-vrai-ou-si-c-est-faux_6694788_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-29T16:00:11+00:00"
     },
     {
       "id": "470fd0f3f6d349b640f4c727",
