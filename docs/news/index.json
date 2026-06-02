@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-06-02T00:09:27.948325+00:00",
+  "updatedAt": "2026-06-02T05:23:45.022842+00:00",
   "items": [
+    {
+      "id": "b96d491c777483dd03d62102",
+      "title": "Massive Russian attack on cities across Ukraine kills at least ten people",
+      "summary": "Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble.",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T05:04:16+00:00"
+    },
+    {
+      "id": "d28a7e9ee2927148ea1da9ff",
+      "title": "Pourquoi les prix des matériels électroniques grand public explosent",
+      "summary": "Les tarifs des composants ont bondi ces derniers mois, sous la pression combinée de la course à l’intelligence artificielle et de la guerre en Iran. Le phénomène se répercute désormais sur les produits grand public, sans accalmie prévue à court terme.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/02/pourquoi-les-prix-des-materiels-electroniques-grand-public-explosent_6696344_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-02T04:30:16+00:00"
+    },
+    {
+      "id": "e1bd9d905ea96bc56677bfd5",
+      "title": "Ces enseignants qui expérimentent l’intelligence artificielle en classe : « Je me sens comme un prof augmenté »",
+      "summary": "D’abord peu intéressés, de plus en plus d’enseignants cherchent ce que peut apporter à leurs enseignements l’intelligence artificielle. Ils racontent, exemples à l’appui, comment elle agit comme un moteur pour revisiter leur pédagogie et rendre les élèves plus actifs.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/02/ces-enseignants-qui-experimentent-l-intelligence-artificielle-en-classe-je-me-sens-comme-un-prof-augmente_6696335_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-02T04:00:30+00:00"
+    },
+    {
+      "id": "bba5cf156b71610bf8ac05d3",
+      "title": "Six people killed in Iowa domestic dispute, police say",
+      "summary": "The suspected shooter was found dead near a bridge with a self-inflicted gunshot wound, authorities say.",
+      "url": "https://www.bbc.com/news/articles/cg4p7e6301do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T03:50:34+00:00"
+    },
+    {
+      "id": "a82407be739a8e8654b73347",
+      "title": "Maverick Games’ New Open-World Driving Game Will Be Revealed in Under 12 Hours",
+      "summary": "Debut details imminent on Maverick Games' first project, a AAA open-world action-driving game led by former Forza Horizon 5 creative director Mike Brown.",
+      "url": "https://www.ign.com/articles/maverick-games-new-open-world-driving-game-will-be-revealed-in-under-12-hours",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-02T02:14:03+00:00"
+    },
+    {
+      "id": "a77bc4c676c9b457f8b3c800",
+      "title": "Missing lab worker found dead in New Mexico nearly a year after disappearing",
+      "summary": "Melissa Casias' case was part of debunked speculations about recent deaths and disappearances in the US scientific community.",
+      "url": "https://www.bbc.com/news/articles/c0723mr8j3po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T02:07:28+00:00"
+    },
+    {
+      "id": "179d2a6233bff59bdbea8268",
+      "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
+      "summary": "Inquiry will look at whether Australia will receive the submarines and whether it will make the country safer.",
+      "url": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T02:06:34+00:00"
+    },
+    {
+      "id": "6dd322aef8e27fad70d4a9a9",
+      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
+      "summary": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
+      "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-02T01:19:15+00:00"
+    },
+    {
+      "id": "e80fce1b93c951909dde6a5e",
+      "title": "Alphabet, la maison mère de Google, veut lever 80 milliards de dollars pour financer son IA",
+      "summary": "Malgré des profits records, le groupe fait appel au marché pour suivre le rythme et financer l’expansion de ses capacités dans l’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/02/alphabet-la-maison-mere-de-google-veut-lever-80-milliards-de-dollars-pour-financer-son-ia_6696161_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-02T00:29:17+00:00"
+    },
     {
       "id": "cf8a4075aa1bc251f143806a",
       "title": "PlayStation 'Shovelware' Crackdown Continues as Major Publisher Warns Its Games Will Soon Be Pulled",
@@ -26,7 +125,7 @@
     {
       "id": "7e68a3098a48ae462acee63d",
       "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-      "summary": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal.",
+      "summary": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon.",
       "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -57,6 +156,17 @@
       "publishedAt": "2026-06-01T23:25:00+00:00"
     },
     {
+      "id": "8b5afba25410f08afb5baad0",
+      "title": "How health workers in DR Congo are treating Ebola and staying safe",
+      "summary": "There are currently no approved drugs that target Bundibugyo - the species of Ebola responsible for this outbreak.",
+      "url": "https://www.bbc.com/news/articles/cgepl7ler5eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-01T23:20:13+00:00"
+    },
+    {
       "id": "57b8fc479b83253b34cf26f0",
       "title": "This Flashforge Adventurer 5M Is an Excellent Entry Level 3D Printer for Less Than $150",
       "summary": "You won't find a more reliable or moddable 3D printer at this price point.",
@@ -66,6 +176,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-01T23:10:00+00:00"
+    },
+    {
+      "id": "1d9e1c18e19a848d40d1d2b3",
+      "title": "Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
+      "summary": "The latest film sees Woody, Buzz and the other toys compete with a new tablet for children's attention.",
+      "url": "https://www.bbc.com/news/articles/cy5222wn410o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-01T23:08:08+00:00"
     },
     {
       "id": "fe6492b722f367a1f919dc22",
@@ -79,6 +200,28 @@
       "publishedAt": "2026-06-01T23:05:11+00:00"
     },
     {
+      "id": "c04c85534fe7c3d8669f6c89",
+      "title": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+      "summary": "The justice department says it \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
+      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-01T23:03:39+00:00"
+    },
+    {
+      "id": "6506ddc4af5d4965354c8e27",
+      "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
+      "summary": "Instead of a uniting event, America's Independence Day celebrations are becoming yet another partisan battleground.",
+      "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-01T22:56:39+00:00"
+    },
+    {
       "id": "19da8a3f4890a98b4298e7a5",
       "title": "Expand Your Home Gym With This Adjustable Weight Bench for Just $41 Shipped on Amazon",
       "summary": "The perfect complement to your dumbbells.",
@@ -88,6 +231,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-01T22:45:00+00:00"
+    },
+    {
+      "id": "b7dcdb14fa334a1733e39163",
+      "title": "'Mornings and nights no longer exist' at 47C: A day in the hottest place in India",
+      "summary": "What a day in India's hottest district reveals about life on the frontline of extreme heat.",
+      "url": "https://www.bbc.com/news/articles/crmp0krp98ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-01T22:31:42+00:00"
     },
     {
       "id": "cdf1338eec4f0f7c159c9f01",
@@ -121,6 +275,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-01T21:40:19+00:00"
+    },
+    {
+      "id": "1d3eb443be2b6d72eccd8954",
+      "title": "No, Trump's name hasn't been removed from the Kennedy Center",
+      "summary": "An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online.",
+      "url": "https://www.bbc.com/news/videos/c759pqn255zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-01T21:35:30+00:00"
     },
     {
       "id": "3d848fc7e904efb8cfe4866b",
@@ -310,17 +475,6 @@
       "publishedAt": "2026-06-01T18:18:06+00:00"
     },
     {
-      "id": "1313d07589b3797975716cc7",
-      "title": "The Excellent SteelSeries Arctis Nova Pro Wireless Gaming Headset Drops to the Lowest Price of the Year",
-      "summary": "We love this headset because it features swappable rechargeable batteries.",
-      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-wireless-gaming-headset-deal-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-01T18:10:00+00:00"
-    },
-    {
       "id": "57751f1f8884c4f4cbc94d15",
       "title": "« Un vol sans scrupule » : le patron du « New York Times » accuse les entreprises d’IA de piller les médias",
       "summary": "Selon Arthur Gregg Sulzberger, le risque de la passivité des médias à l’égard des entreprises d’intelligence artificielle est d’aller « vers un avenir où il y aura de moins en moins de journalistes ». Le Congrès mondial des médias se tient jusqu’à mercredi, à Marseille.",
@@ -409,9 +563,9 @@
       "publishedAt": "2026-06-01T11:53:26+00:00"
     },
     {
-      "id": "0aaf89f7c71a06e68a946a81",
-      "title": "Watch: Fans break glass door trying to see TV star",
-      "summary": "Huge crowds formed outside a shopping centre in China to see Pursuit of Jade's Zhang Linghe.",
+      "id": "9ef46b7b7f6647115990f459",
+      "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
+      "summary": "Huge crowds formed outside a shopping centre in China to see actor Zhang Linghe.",
       "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -607,28 +761,6 @@
       "publishedAt": "2026-05-31T23:19:32+00:00"
     },
     {
-      "id": "93b31209f75d85c9ceb3d789",
-      "title": "Trump seeking edits to US-Iran deal, US media report",
-      "summary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
-      "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T22:54:20+00:00"
-    },
-    {
-      "id": "54816c66f56485a4d6130b94",
-      "title": "Nicaraguan indigenous leader dies after three years in prison",
-      "summary": "Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.",
-      "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T21:52:38+00:00"
-    },
-    {
       "id": "53cc9f56ce6b4766bded353b",
       "title": "Between celebration and confrontation: Paris after PSG victory",
       "summary": "Nearly 800 people were arrested after clashes with police following the Champions League final.",
@@ -638,17 +770,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-05-31T20:38:19+00:00"
-    },
-    {
-      "id": "f97e0f09c3902e44a6961363",
-      "title": "Brazil monitors two patients for possible Ebola infection",
-      "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
-      "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T19:07:47+00:00"
     },
     {
       "id": "4226a798815591d90528753c",
@@ -673,17 +794,6 @@
       "publishedAt": "2026-05-31T18:13:39+00:00"
     },
     {
-      "id": "63f9ec91d749ca9ef90e9bb5",
-      "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
-      "summary": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
-      "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T17:40:58+00:00"
-    },
-    {
       "id": "31ef43122a829f33e4de2859",
       "title": "South Africa made to look like fools over World Cup visa issues, says minister",
       "summary": "After a day of uncertainty, the government confirms the team will depart for Mexico on Monday.",
@@ -695,17 +805,6 @@
       "publishedAt": "2026-05-31T17:27:18+00:00"
     },
     {
-      "id": "e05d3dac13941f03809a99c3",
-      "title": "Laos cave survivors help with plan to find last two missing men",
-      "summary": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
-      "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T15:52:42+00:00"
-    },
-    {
       "id": "29dd7ea314a000b9785b407d",
       "title": "« Astrée, l’IA du ministère de l’intérieur pour les procédures d’immigration, n’est que la phase émergée d’un iceberg »",
       "summary": "L’intelligence artificielle s’immisce dans tout le droit, mais particulièrement dans les contentieux des étrangers en situation irrégulière. Dans une tribune au « Monde », Serge Slama, professeur de droit public, fait l’état des lieux de cette vague de fond, observable dans tout l’Occident, où des destins humains deviennent des données parmi d’autr",
@@ -715,17 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-05-31T07:30:03+00:00"
-    },
-    {
-      "id": "c9f2a6211291c1c9749d1b21",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-05-31T06:34:04+00:00"
     },
     {
       "id": "bb477857ee1cc79e516b12db",
@@ -893,28 +981,6 @@
       "publishedAt": "2026-05-29T16:00:11+00:00"
     },
     {
-      "id": "5185dab3c4f28923280612ba",
-      "title": "Encadrement de l’IA : « Il est temps de passer de la confiance à une conception institutionnelle réellement contraignante »",
-      "summary": "Dans une tribune au « Monde », Alejandro Agafonow, professeur à l’ESSCA School of Management, s’interroge sur les enjeux éthiques et judiciaires qu’a mis en lumière le procès opposant Elon Musk à Sam Altman et OpenAI.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/29/encadrement-de-l-ia-il-est-temps-de-passer-de-la-confiance-a-une-conception-institutionnelle-reellement-contraignante_6694770_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-29T15:00:06+00:00"
-    },
-    {
-      "id": "91415c575f321d2a4a454ce7",
-      "title": "Comment l’UE veut favoriser les constellations de satellites européennes face à Starlink et à Amazon Leo",
-      "summary": "Bruxelles entend réserver des fréquences permettant les communications directes entre les satellites et les smartphones à des acteurs européens.",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/29/dans-le-spatial-le-plan-de-la-commission-pour-favoriser-les-constellations-de-satellites-europeennes-face-a-starlink-et-a-amazon-leo_6694761_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-29T14:00:02+00:00"
-    },
-    {
       "id": "470fd0f3f6d349b640f4c727",
       "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
       "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
@@ -924,17 +990,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-29T13:55:04+00:00"
-    },
-    {
-      "id": "5797fb4df7b32d09d7c819ae",
-      "title": "Comment Anthropic a dépassé OpenAI en valorisation",
-      "summary": "La nouvelle levée de capitaux d’Anthropic valorise la société américaine d’intelligence artificielle à 965 milliards de dollars, alors qu’OpenAI ne vaut « que » 852 milliards. L’écart récompense des choix stratégiques ciblés et une politique commerciale ciblant d’abord les entreprises",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/29/intelligence-artificielle-comment-anthropic-a-depasse-openai-en-valorisation_6694730_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-05-29T10:03:39+00:00"
     },
     {
       "id": "cab8e91cbbce66bfc31d98c9",
