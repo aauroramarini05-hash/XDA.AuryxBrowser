@@ -1,9 +1,185 @@
 {
-  "updatedAt": "2026-06-04T07:16:43.583613+00:00",
+  "updatedAt": "2026-06-04T10:55:26.318608+00:00",
   "items": [
     {
-      "id": "da2241ab7ecb80374cf687a5",
-      "title": "Robodogs and Black Hawks - How one Mexican city is preparing for the World Cup",
+      "id": "0be2589c265327389e5df459",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "summary": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics.",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-04T10:25:06+00:00"
+    },
+    {
+      "id": "c055f0e304768725e30d8bb2",
+      "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
+      "summary": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
+      "url": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-04T10:18:49+00:00"
+    },
+    {
+      "id": "ecd27cf42caac889521db660",
+      "title": "Exams watchdog warns of rise in high-tech cheating",
+      "summary": "Ofqual chief says invigilators are being trained to detect devices like smart glasses and hidden earpieces.",
+      "url": "https://www.bbc.com/news/articles/cvgz22w4g9zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-04T10:13:35+00:00"
+    },
+    {
+      "id": "07eea1230fb619c52fc0dfb7",
+      "title": "Stargate SG-1 Star Michael Shanks Rallies Fans After Amazon Axes Revival, Says 'Now Is the Time to Say Something'",
+      "summary": "Stargate SG-1 actor Michael Shanks is rallying fans to protest Amazon's shock cancellation of its previously-announced franchise revival.",
+      "url": "https://www.ign.com/articles/stargate-sg-1-star-michael-shanks-rallies-fans-after-amazon-axes-revival-says-now-is-the-time-to-say-something",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-04T09:52:05+00:00"
+    },
+    {
+      "id": "6a9f0198d413c0828d1f9b62",
+      "title": "Ukraine accused of killing four in occupied Crimea",
+      "summary": "At least 10 people have been injured in the attacks, according to Russian-backed officials.",
+      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-04T09:07:06+00:00"
+    },
+    {
+      "id": "501472641a4bd0a1d6afe6ea",
+      "title": "Au Vietnam, la folle envolée de la vente en ligne",
+      "summary": "L’e-commerce a progressé de 25 % en 2025 dans le pays, générant 26 milliards d’euros de chiffre d’affaires. Notamment grâce à TikTok Shop.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/04/au-vietnam-la-folle-envolee-de-la-vente-en-ligne_6697334_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-04T09:00:11+00:00"
+    },
+    {
+      "id": "629e027b03bda14ebb76fb40",
+      "title": "XCOM-Like Star Wars Zero Company Release Date Leaks — and It's Coming Sooner Than You Might Think",
+      "summary": "Turn-based strategy title Star Wars Zero Company will launch in just a couple of months, a new leak has revealed.",
+      "url": "https://www.ign.com/articles/xcom-like-star-wars-zero-company-release-date-leaks-and-its-coming-sooner-than-you-might-think",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-04T08:59:58+00:00"
+    },
+    {
+      "id": "e4eecda51dfe7edb6cb18a88",
+      "title": "Avatar Legends: The Fighting Game Delayed by 3 Weeks",
+      "summary": "Avatar Legends: The Fighting Game is delayed by three weeks so the developers can add new content it hadn't planned for launch.",
+      "url": "https://www.ign.com/articles/avatar-legends-the-fighting-game-delayed-by-3-weeks",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-04T08:53:33+00:00"
+    },
+    {
+      "id": "906c56c45d1cd33747fa042f",
+      "title": "Uneasy neighbours: Can three World Cup hosts put differences aside for a month?",
+      "summary": "The tournament comes after a period of fractious relations between the US, Canada and Mexico.",
+      "url": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-04T08:46:23+00:00"
+    },
+    {
+      "id": "fab966bb980074441a0a496b",
+      "title": "Trump to nominate Blanche for attorney general on permanent basis",
+      "summary": "If confirmed by the Senate, Trump's former personal lawyer would become the administration's number one prosecutor.",
+      "url": "https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-04T08:11:25+00:00"
+    },
+    {
+      "id": "f26808ad2bac2a68c7a9b606",
+      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "summary": "The opposition has called for protests after the president's term in office was extended by a year.",
+      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-04T08:05:33+00:00"
+    },
+    {
+      "id": "6692146be085180d3b43663e",
+      "title": "The Mound: Omen of Cthulhu Brings Insanity Effects to its Lovecraftian Multiplayer Horror | IGN Preview",
+      "summary": "The Mound: Omen of Cthulhu is a cooperative pirate-era trek where keeping a hold of your sanity is only the start of your struggle. And after traipsing through the jungle and second-guessing reality a couple of times, I’m eager to get back in and discover what secrets there are to discover, even if it may cost me my mind.",
+      "url": "https://www.ign.com/articles/the-mound-omen-of-cthulhu-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-04T08:00:00+00:00"
+    },
+    {
+      "id": "04c29d2d6332d9f387e4cb33",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-04T07:49:33+00:00"
+    },
+    {
+      "id": "e0d62d179e6e68d7d7adfcef",
+      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
+      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-04T07:23:41+00:00"
+    },
+    {
+      "id": "fa173b5b0835935d1f27e239",
+      "title": "All Free Monopoly GO Dice Links (June 2026)",
+      "summary": "Earn free dice with these active and working Monopoly GO dice roll links!",
+      "url": "https://www.ign.com/articles/free-monopoly-go-dice-links",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-04T07:00:00+00:00"
+    },
+    {
+      "id": "5aec0a0209fda4c6f8291c45",
+      "title": "Indian film union drops boycott call against Bollywood star Ranveer Singh",
+      "summary": "The producers of Don 3 had earlier complained that Singh's alleged exit from the film had caused major financial losses.",
+      "url": "https://www.bbc.com/news/articles/c3r2g0013xpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-04T06:28:42+00:00"
+    },
+    {
+      "id": "eb33ad88b5b4b9729f453536",
+      "title": "Black Hawks and robodogs - how one Mexican city is preparing for the World Cup",
       "summary": "BBC’s Will Grant got a first-hand look at security preparations in Monterrey, as the city gets ready to host four matches.",
       "url": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -68,17 +244,6 @@
       "publishedAt": "2026-06-04T04:30:06+00:00"
     },
     {
-      "id": "7f7a8b1b52eabf2c4d4482fd",
-      "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
-      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-04T03:36:10+00:00"
-    },
-    {
       "id": "f517fb2a09788422e0965681",
       "title": "This $1,800 Power Lift Recliner and Massage Chair Is Just $385 Shipped at Wayfair After an 80% Off Discount",
       "summary": "I'm thinking of getting one for dad for Father's Day.",
@@ -132,17 +297,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-04T01:02:24+00:00"
-    },
-    {
-      "id": "04c29d2d6332d9f387e4cb33",
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-04T00:16:44+00:00"
     },
     {
       "id": "d6e59f7fa1ba67845bc47db8",
@@ -343,61 +497,6 @@
       "publishedAt": "2026-06-03T19:05:17+00:00"
     },
     {
-      "id": "e1aaa55528eca1b95f6ce1bd",
-      "title": "Rayman Legends Retold Is Now Available To Preorder, Out in October",
-      "summary": "Rayman Legends Retold is releasing later this year on October 1. Here's where you can preorder a copy and what it comes with.",
-      "url": "https://www.ign.com/articles/rayman-legends-retold-where-to-preorder",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-03T19:00:00+00:00"
-    },
-    {
-      "id": "012c1feb6c6f6dd0643b699c",
-      "title": "Euphoria Season 3 Finale Review",
-      "summary": "Euphoria Season 3 may end in a shoot-out, but the season itself feels more like it's been firing blanks.",
-      "url": "https://www.ign.com/articles/euphoria-season-3-finale-review-rue",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-03T18:11:58+00:00"
-    },
-    {
-      "id": "19dadb84ec1e3dd20036f8a4",
-      "title": "This Aovopro ES80 36V 350W Adult Electric Scooter Drops Below $115 With Free Shipping",
-      "summary": "This budget-friendly e-scooter boasts an impressive 18-mile maximum range and 19mph top speed.",
-      "url": "https://www.ign.com/articles/aovopro-es80-electric-scooter-deal-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-03T18:10:00+00:00"
-    },
-    {
-      "id": "bf5824c7199303a7e8e37af0",
-      "title": "How Powerful Is Wolverine's Healing Factor Anyway?",
-      "summary": "We break down the rules of Wolverine's healing factor and how the new Marvel's Wolverine game draws on decades of Marvel Comics lore.",
-      "url": "https://www.ign.com/articles/wolverine-healing-factor-powers-regeneration-death",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-03T18:07:53+00:00"
-    },
-    {
-      "id": "b9a080558339a399f8f4f78c",
-      "title": "The Boss of Patreon Just Publicly Shamed a LEGO Reseller Embroiled in One of the Wildest Internet Dramas in Years",
-      "summary": "The CEO and co-founder of Patreon has intervened in one of the wildest internet dramas in years — which all centers on a \"stolen\" collection of Star Wars LEGO worth more than $200,000.",
-      "url": "https://www.ign.com/articles/the-boss-of-patreon-just-publicly-shamed-a-lego-reseller-embroiled-in-one-of-the-wildest-internet-dramas-in-years",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-03T17:55:58+00:00"
-    },
-    {
       "id": "033eb5ce471da2e5bc140b6c",
       "title": "Microsoft lance ses propres modèles pour s’émanciper davantage d’OpenAI",
       "summary": "La firme de Redmond a annoncé, mardi, lancer sept modèles d’intelligence artificielle afin d’être moins dépendante de son partenariat avec la maison mère de ChatGPT.",
@@ -420,28 +519,6 @@
       "publishedAt": "2026-06-03T17:02:13+00:00"
     },
     {
-      "id": "781782c9990e4818c6b036a1",
-      "title": "Four sentenced to death for killing worshippers at Catholic church in Nigeria",
-      "summary": "A fifth man was discharged and acquitted by the court due to insufficient evidence against him.",
-      "url": "https://www.bbc.com/news/articles/cj0p57q1m36o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T16:12:05+00:00"
-    },
-    {
-      "id": "0291ca6ecab5fdca87b5caf7",
-      "title": "Man shot dead by FBI after taking hostages at California bank",
-      "summary": "Two hostages were released on Tuesday, and the remaining hostages released on Wednesday were unharmed, police said.",
-      "url": "https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T16:04:05+00:00"
-    },
-    {
       "id": "c5da961037628b4ec095530f",
       "title": "Face aux Big Tech, les médias d’information se regroupent dans une coalition mondiale",
       "summary": "Une trentaine de médias ont rejoint, mercredi 3 juin, la jeune coalition SPUR (Standards for Publisher Usage Rights) afin de répondre aux plateformes d’intelligence artificielle à l’échelle internationale. L’annonce vient conclure le Congrès mondial des médias d’information, qui s’est tenu en France, à Marseille, pour la première fois depuis plus d",
@@ -455,7 +532,7 @@
     {
       "id": "576d0a6805b47ee0f9f85387",
       "title": "Pourquoi les investissements dans les réseaux télécoms obsèdent les opérateurs et les pouvoirs publics",
-      "summary": "Essentiels pour apporter la fibre optique, la 5G, ou permettre le développement de l’intelligence artificielle, les investissements dans les réseaux constituent une préoccupation récurrente des groupes de télécoms comme du gouvernement. Ils figurent au cœur des débats liés à une possible disparition de SFR.",
+      "summary": "Essentiels pour apporter la fibre optique, la 5G ou permettre le développement de l’intelligence artificielle, les investissements dans les réseaux constituent une préoccupation récurrente des groupes de télécoms comme du gouvernement. Ils figurent au cœur des débats liés à une possible disparition de SFR.",
       "url": "https://www.lemonde.fr/economie/article/2026/06/03/pourquoi-les-investissements-dans-les-reseaux-telecoms-obsedent-les-operateurs-et-les-pouvoirs-publics_6696630_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -486,39 +563,6 @@
       "publishedAt": "2026-06-03T15:30:20+00:00"
     },
     {
-      "id": "9f6ffe6f3a013d08d8e186b3",
-      "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
-      "summary": "The bus was hit in the eastern Donetsk region, an official says.",
-      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T15:18:28+00:00"
-    },
-    {
-      "id": "7776f3c1f132bfe4546e686a",
-      "title": "CBS News fires correspondent Scott Pelley from 60 Minutes",
-      "summary": "The veteran host had accused leadership of \"murdering\" the news show in a confrontation at a staff meeting this week.",
-      "url": "https://www.bbc.com/news/articles/c62rpdkem0mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T15:15:48+00:00"
-    },
-    {
-      "id": "e39cd51e2020f1d4a7f79c03",
-      "title": "US announces new tariffs over forced labour concerns",
-      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
-      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T15:12:28+00:00"
-    },
-    {
       "id": "3e1133d0da2080120ac142cd",
       "title": "Phone signal on trains not good enough most of the time, research says",
       "summary": "Ofcom found the major phone networks were not providing good signal on trains, and train companies were slowing down wi-fi.",
@@ -539,28 +583,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-03T14:16:52+00:00"
-    },
-    {
-      "id": "b25ebfa72a699754d675df6d",
-      "title": "Trump-backed candidate in Iowa loses primary",
-      "summary": "Randy Feenstra's defeat could prove to be a case of the president's political instincts being off.",
-      "url": "https://www.bbc.com/news/articles/c4g8nd48jxro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T13:35:04+00:00"
-    },
-    {
-      "id": "27c47e93ae240ccc358c66a9",
-      "title": "Norwegian teen was in UK to 'undertake a hit', court hears",
-      "summary": "Johannes Natland was due to carry out a shooting on behalf of a Swedish criminal group, trial hears.",
-      "url": "https://www.bbc.com/news/articles/cm2pjk8ggrdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T12:55:45+00:00"
     },
     {
       "id": "91dc26192cff9ff049f23038",
@@ -596,17 +618,6 @@
       "publishedAt": "2026-06-03T10:46:30+00:00"
     },
     {
-      "id": "f2285d7f60f87f2cd40da624",
-      "title": "She watched a wildfire destroy her town, so she's building fire-proof bunkers",
-      "summary": "Linda Cantey - and other US entrepreneurs - are channelling trauma into efforts to mitigate the damage of wildfires.",
-      "url": "https://www.bbc.com/news/articles/c78qgdpwx6eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T09:47:19+00:00"
-    },
-    {
       "id": "db33f4d559f4db8e00b602c5",
       "title": "« Je n’écris plus de lignes de code » : comment l’IA bouleverse le métier de développeur",
       "summary": "En quelques mois, les assistants d’intelligence artificielle sont passés du statut de simples aides à celui d’« agents autonomes », capables de coder des projets entiers. Si cette révolution technologique promet des gains de productivité spectaculaires aux entreprises, elle donne aussi aux professionnels du secteur un profond vertige.",
@@ -616,17 +627,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-03T09:00:01+00:00"
-    },
-    {
-      "id": "2a8039c7bdca62940c457659",
-      "title": "Celine Dion 'heartbroken' by death of Beauty and the Beast singer Peabo Bryson",
-      "summary": "Bryson was best known as the voice behind Disney songs like A Whole New World and Beauty and the Beast.",
-      "url": "https://www.bbc.com/news/articles/cy826nlp158o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T08:39:43+00:00"
     },
     {
       "id": "88492c9b24d5e336d2a198a0",
@@ -651,17 +651,6 @@
       "publishedAt": "2026-06-03T05:18:00+00:00"
     },
     {
-      "id": "7c034013515e64364257c0e6",
-      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-      "summary": "The oil giant says the documents ignore the critical context of the complex operating environment at the time.",
-      "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T05:13:02+00:00"
-    },
-    {
       "id": "f4961dc4e76ddbb2355934ab",
       "title": "Régulation de l’IA : Donald Trump trouve un compromis pour satisfaire à la fois sa base MAGA et les entreprises de la tech",
       "summary": "Un décret donne trente jours à l’Etat fédéral pour évaluer les nouveaux modèles d’intelligence artificielle avant leur mise sur le marché. Le président américain cède ainsi à ses partisans, qui lui demandaient de réguler le secteur, mais sur un temps bien plus court que les quatre-vingt-dix jours prévus par un précédent texte.",
@@ -671,28 +660,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-03T01:58:55+00:00"
-    },
-    {
-      "id": "5fb42ef2973fcf8a35935d0f",
-      "title": "Watch: Man attacked by bear at steel works in Japan",
-      "summary": "The bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.",
-      "url": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-03T01:13:45+00:00"
-    },
-    {
-      "id": "69a3d887c46a70e28070fcab",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-02T23:33:34+00:00"
     },
     {
       "id": "f0c15b3025f71ca4a3209368",
@@ -871,17 +838,6 @@
       "publishedAt": "2026-06-02T04:00:18+00:00"
     },
     {
-      "id": "e80fce1b93c951909dde6a5e",
-      "title": "Alphabet, la maison mère de Google, veut lever 80 milliards de dollars pour financer son IA",
-      "summary": "Malgré des profits record, le groupe fait appel au marché pour suivre le rythme et financer l’expansion de ses capacités dans l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/02/alphabet-la-maison-mere-de-google-veut-lever-80-milliards-de-dollars-pour-financer-son-ia_6696161_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-02T00:29:16+00:00"
-    },
-    {
       "id": "fe6492b722f367a1f919dc22",
       "title": "How 'confused' AI rollout hurts firms and baffles staff",
       "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
@@ -935,28 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-30T01:00:00+00:00"
-    },
-    {
-      "id": "470fd0f3f6d349b640f4c727",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
-      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-29T13:55:04+00:00"
-    },
-    {
-      "id": "cab8e91cbbce66bfc31d98c9",
-      "title": "Humanoid robots 'the future' of car making, says BMW",
-      "summary": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-28T23:36:45+00:00"
     },
     {
       "id": "8a09ed40ecc3b699c5a575be",
