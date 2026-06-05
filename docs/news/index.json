@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-06-05T02:36:01.859569+00:00",
+  "updatedAt": "2026-06-05T06:59:38.018480+00:00",
   "items": [
+    {
+      "id": "29db691e828469406e814ba6",
+      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+      "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-05T05:44:44+00:00"
+    },
+    {
+      "id": "e75bca48f47c27787efb04d5",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-05T05:20:57+00:00"
+    },
+    {
+      "id": "a5d7b617032fb691c285db5c",
+      "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
+      "summary": "Xi will be in North Korea from 8 to 9 June, in a rare visit to the isolated regime",
+      "url": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-05T05:17:13+00:00"
+    },
+    {
+      "id": "6275206ae460564ffdfacc90",
+      "title": "De la réticence au refus, ces cadres qui vivent mal l’injonction d’utiliser l’IA",
+      "summary": "Un cadre sur deux dit utiliser l’intelligence artificielle au moins une fois par semaine, selon l’Association pour l’emploi des cadres. Mais certains mettent en cause l’intérêt de l’IA ou son impact sur le travail et l’environnement, au point, parfois, de la refuser en bloc.",
+      "url": "https://www.lemonde.fr/emploi/article/2026/06/05/de-la-reticence-au-refus-ces-cadres-qui-vivent-mal-l-injonction-d-utiliser-l-ia_6697853_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-05T03:30:11+00:00"
+    },
     {
       "id": "a61b3b7c7863980337b0df74",
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
@@ -114,24 +158,13 @@
     {
       "id": "d2bf489fe5b5665a9a6833fb",
       "title": "Anthropic propose un moratoire mondial concerté du développement de l’IA",
-      "summary": "L’entreprise américaine plaide en faveur d’un système permettant aux acteurs de cette technologie de se mettre d’accord pour en ralentir ou suspendre le développement. Elle souligne le risque de « perte de contrôle », et un besoin pour les structures sociétales d’être à même de pouvoir « suivre le rythme des progrès de la technologie ».",
+      "summary": "L’entreprise américaine plaide en faveur d’un système permettant aux acteurs de cette technologie de se mettre d’accord pour en ralentir ou en suspendre le développement. Elle souligne le risque de « perte de contrôle », et le besoin pour les structures sociétales d’être à même de pouvoir « suivre le rythme des progrès de la technologie ».",
       "url": "https://www.lemonde.fr/pixels/article/2026/06/05/anthropic-propose-un-moratoire-mondial-concerte-du-developpement-de-l-ia_6697679_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-04T23:47:12+00:00"
-    },
-    {
-      "id": "e75bca48f47c27787efb04d5",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-04T23:32:35+00:00"
     },
     {
       "id": "f712ec7b89e10c71f0a3bc6e",
@@ -231,17 +264,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-04T21:53:25+00:00"
-    },
-    {
-      "id": "29db691e828469406e814ba6",
-      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
-      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-04T21:34:49+00:00"
     },
     {
       "id": "bf31bfdabed64cf7f8bfe29b",
@@ -968,17 +990,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-02T09:23:17+00:00"
-    },
-    {
-      "id": "4788b40fddcda0a1c0ae112b",
-      "title": "Face à l’envolée des prix de l’informatique, des consommateurs « paumés »",
-      "summary": "Alors que le coût de la RAM (mémoire vive) et des disques durs SSD s’envolent, les discussions et la recherche de compromis pour s’équiper de matériel récent sont abondantes dans les communautés de passionnés.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/02/face-a-l-envolee-des-prix-de-l-informatique-des-consommateurs-paumes_6696352_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-02T06:30:05+00:00"
     },
     {
       "id": "0ac65e5c8f4284758b833244",
