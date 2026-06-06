@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-06-06T20:54:38.682504+00:00",
+  "updatedAt": "2026-06-06T21:57:41.393680+00:00",
   "items": [
+    {
+      "id": "33a5eb6efc3222cff3057aea",
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-06T21:31:16+00:00"
+    },
+    {
+      "id": "7fc4c9ef51c3a570bf806bca",
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-06T21:23:03+00:00"
+    },
+    {
+      "id": "ad499c9b9f7a2b97189b5f08",
+      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-06T21:14:00+00:00"
+    },
+    {
+      "id": "cfd901345b3f3e29d34dd33d",
+      "title": "Control: Resonant Creative Director on the Sequel Shifting to an Action RPG | IGN Live 2026",
+      "summary": "We got more insight into Control Resonant at IGN Live, as Creative Director Mikael Kasurinen showed off some of the game while explaining the approach to the sequel to 2019's Control.",
+      "url": "https://www.ign.com/articles/control-resonant-creative-director-on-the-sequel-shifting-to-an-action-rpg-ign-live-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-06T20:54:52+00:00"
+    },
     {
       "id": "3a8aea2fa6827110eb3865a0",
       "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
@@ -13,26 +57,15 @@
       "publishedAt": "2026-06-06T20:50:40+00:00"
     },
     {
-      "id": "ad499c9b9f7a2b97189b5f08",
-      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
-      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "id": "82b05fa4d8360a01ee7033ad",
+      "title": "Final Fantasy 7 Revelation Tweaks Mini-Games But Square Enix Says It Would Never Reduce Them",
+      "summary": "Square Enix has confirmed it tweaked its approach to mini-games for Final Fantasy 7 Revelation, but there are some things it won't change \"no matter how much feedback we receive.\"",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-tweaks-mini-games-but-square-enix-says-it-would-never-reduce-them",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-06T20:32:08+00:00"
-    },
-    {
-      "id": "33a5eb6efc3222cff3057aea",
-      "title": "Iran says staff blocked from entering US after players given World Cup visas",
-      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
-      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-06T20:15:52+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-06T20:12:53+00:00"
     },
     {
       "id": "fdfdea88890be7061d2ec4c8",
@@ -110,17 +143,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-06T18:16:42+00:00"
-    },
-    {
-      "id": "7fc4c9ef51c3a570bf806bca",
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-06T17:12:39+00:00"
     },
     {
       "id": "2773ef4753f2c1db4e77f9af",
@@ -429,28 +451,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-06T00:01:10+00:00"
-    },
-    {
-      "id": "02a1c18c84acbc2a3de1d57b",
-      "title": "The Wolf Among Us 2 Now Due in 2027, Following Remaster of Telltale's Original Game",
-      "summary": "Telltale Games will finally launch The Wolf Among Us 2 in 2027, after a remaster of the beloved original game arrives later this year.",
-      "url": "https://www.ign.com/articles/the-wolf-among-us-2-now-due-in-2027-following-remaster-of-telltales-original-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-06T00:01:05+00:00"
-    },
-    {
-      "id": "c3cbe9a9e00a70453c4d6b6b",
-      "title": "Super Yooka-Laylee Kart Announced, With SNES Mario Kart Vibes",
-      "summary": "Playtonic Games has announced Super Yooka-Laylee Kart, a retro arcade racer fuelled by a new revenge mechanic, as well as SNES vibes.",
-      "url": "https://www.ign.com/articles/super-yooka-laylee-kart-announced-with-snes-mario-kart-vibes",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-06T00:00:41+00:00"
     },
     {
       "id": "b86eb9fa6636641051f8f75f",
