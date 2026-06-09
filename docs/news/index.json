@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-06-09T10:52:20.210008+00:00",
+  "updatedAt": "2026-06-09T13:38:28.509985+00:00",
   "items": [
+    {
+      "id": "5f2891d6e7c80d166e974444",
+      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+      "summary": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
+      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T13:15:59+00:00"
+    },
+    {
+      "id": "011c3af79068dddc6903782b",
+      "title": "The Wolf Among Us 2: The First Preview",
+      "summary": "Unreal Engine 5 rides to the rescue as one of Telltale's best adventures gets resurrected. We've seen The Wolf Among Us 2 running, and we're thrilled that it's finally on the right track.",
+      "url": "https://www.ign.com/articles/the-wolf-among-us-2-the-first-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T13:00:00+00:00"
+    },
+    {
+      "id": "d08659f9cba743dc74f27f1e",
+      "title": "Who You Gonna Brawl? Chew Creators John Layman and Rob Guillory Reunite for Ghostbrawler",
+      "summary": "Chew creators John Layman and Rob Guillory have finally reunited for a quirky supernatural comedy series called Ghostbrawler.",
+      "url": "https://www.ign.com/articles/who-you-gonna-brawl-chew-creators-john-layman-and-rob-guillory-reunite-for-ghostbrawler",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T13:00:00+00:00"
+    },
+    {
+      "id": "e008e30be7618e9214cf5dce",
+      "title": "L’influenceur Jeremstar obtient la relaxe après une opération anti-corrida à Nimes en 2025",
+      "summary": "Le blogueur de 39 ans était jugé avec quatre autres activités anti-corrida pour avoir surgi au milieu des arènes de Nîmes en septembre 2025, en brandissant un tissu portant l’inscription « F*CK la CORRIDA ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/09/l-influenceur-jeremstar-obtient-la-relaxe-apres-une-operation-anti-corrida-a-nimes-en-2025_6700157_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-09T12:54:32+00:00"
+    },
+    {
+      "id": "1d24e155d8c49370b4e9787f",
+      "title": "ArenaNet Boss Says MMOs Have 'Stagnated' and Guild Wars 3 Will Offer the Genre Something Genuinely New",
+      "summary": "Guild Wars 3 developer ArenaNet believes its upcoming MMO will offer something genuinely new in the genre, which it believes has become “stagnated.”",
+      "url": "https://www.ign.com/articles/arenanet-boss-says-mmos-have-stagnated-and-guild-wars-3-will-offer-the-genre-something-genuinely-new",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T12:02:33+00:00"
+    },
+    {
+      "id": "66581e1ac62d7f46cb70e37f",
+      "title": "Somali referee Artan barred from entering US",
+      "summary": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
+      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T12:00:58+00:00"
+    },
+    {
+      "id": "59d80d954137c08edf0ce006",
+      "title": "Nintendo Direct June 2026 Live Updates: Every Game Announcement",
+      "summary": "Every game, reveal, and surprise from Nintendo Direct June 2026.",
+      "url": "https://www.ign.com/articles/nintendo-direct-june-2026-live-updates-every-game-announcement",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T12:00:33+00:00"
+    },
+    {
+      "id": "b846a47c511a5a4f69dd2696",
+      "title": "Where the Hell is Naughty Dog?",
+      "summary": "Sony's best first-party studio hasn't published a new game for almost a decade, and that's a problem.",
+      "url": "https://www.ign.com/articles/naughty-dog-no-new-uncharted",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T11:00:00+00:00"
+    },
+    {
+      "id": "5b04f5b27b17b3ee5acb8804",
+      "title": "Ariana Grande and Ethan Slater split after three years",
+      "summary": "The pair met on the set of the first Wicked movie, for which Grande received an Oscar nomination.",
+      "url": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T10:37:43+00:00"
+    },
     {
       "id": "0285450eca468a71bf01d1cd",
       "title": "« L’avenir de la chirurgie dépendra de notre capacité à articuler intelligemment puissance algorithmique et intelligence charnelle »",
@@ -11,6 +110,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-09T10:30:11+00:00"
+    },
+    {
+      "id": "2f9b34e520c080a80903bbf6",
+      "title": "Shift Up CEO Explains Design of Stellar Blade: Blood Rain's New Main Character",
+      "summary": "The boss of Stellar Blade: Blood Rain developer Shift Up has discussed the design of new main character Evie, highlighting the differences between her and the protagonist of the first game, Eve.",
+      "url": "https://www.ign.com/articles/shift-up-ceo-explains-design-of-stellar-blade-blood-rains-new-main-character",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T10:22:02+00:00"
     },
     {
       "id": "339d1496476669430040c81b",
@@ -88,17 +198,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-09T08:51:47+00:00"
-    },
-    {
-      "id": "66581e1ac62d7f46cb70e37f",
-      "title": "Somali referee Artan barred from entering US",
-      "summary": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
-      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T08:50:40+00:00"
     },
     {
       "id": "a698d6f81f617bdf8f600722",
@@ -189,6 +288,17 @@
       "publishedAt": "2026-06-09T05:07:44+00:00"
     },
     {
+      "id": "669b00dc5865f2747f746f3b",
+      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+      "summary": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T05:00:06+00:00"
+    },
+    {
       "id": "59adcb42c22fac302e7c0c49",
       "title": "Un syndicat peut-il publier des informations confidentielles discutées en CSE ?",
       "summary": "La Cour de cassation a récemment validé le retrait d’informations confidentielles publiées sur le site du syndicat d’une entreprise d’intérim, explique le juriste Jean-Emmanuel Ray dans sa chronique.",
@@ -264,6 +374,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-09T01:07:42+00:00"
+    },
+    {
+      "id": "575762fc8f686b13c4907b76",
+      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
+      "summary": "Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies.",
+      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-08T23:23:15+00:00"
     },
     {
       "id": "274dd8c9c115437c517f2a7d",
@@ -398,39 +519,6 @@
       "publishedAt": "2026-06-08T20:50:00+00:00"
     },
     {
-      "id": "313c1a1bc679ee4f5bad563c",
-      "title": "Save $1,000 Off an Open Box Asus ROG Flow Z13 Ultra-Portable Gaming Laptop at Best Buy",
-      "summary": "This tiny 2.65lb convertible with 64GB of RAM is more powerful than many full-sized gaming laptops.",
-      "url": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-best-buy-open-box-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-08T20:40:00+00:00"
-    },
-    {
-      "id": "31a0c107de5b1e6d221d3408",
-      "title": "The FlashForge AD5X Multi-Color Mixed Material 3D Printer Nearly Hits the $200 Price Point at AliExpress",
-      "summary": "Still $340 on Amazon",
-      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-early-fathers-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-08T19:50:00+00:00"
-    },
-    {
-      "id": "a2bb3dd9aa8fe471539b8eb3",
-      "title": "Here Are the Five Best Budget-Friendly Exercise Equipment Deals for Father's Day",
-      "summary": "Delivers by June 21.",
-      "url": "https://www.ign.com/articles/best-fitness-exercise-equipment-deals-for-fathers-day",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-08T19:45:00+00:00"
-    },
-    {
       "id": "927cd9d749965ebcf6ddf01f",
       "title": "Has Trump lost control of the Iran war?",
       "summary": "For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes.",
@@ -440,39 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-08T19:44:06+00:00"
-    },
-    {
-      "id": "e24d721182557091fe5385ca",
-      "title": "Xbox Game Pass Shed 'Millions of Subscribers' Following October 2025 Price Hike",
-      "summary": "Microsoft says Xbox Game Pass lost \"millions of subscribers\" after it increased prices by 50% with a price hike in October 2025.",
-      "url": "https://www.ign.com/articles/xbox-game-pass-shed-millions-of-subscribers-following-october-2025-price-hike",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-08T19:23:26+00:00"
-    },
-    {
-      "id": "d46ee4d1324da9595307679a",
-      "title": "See a New Preview of TMNT: The Last Ronin - Training Day #1",
-      "summary": "With the Ronin-Verse hotter than ever, IGN can exclusively debut a new preview of TMNT: The Last Ronin - Training Day#1.",
-      "url": "https://www.ign.com/articles/see-a-new-preview-of-tmnt-the-last-ronin-training-day-1",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-08T19:21:28+00:00"
-    },
-    {
-      "id": "e06f3c52a5599502a4b435e5",
-      "title": "Save 56% Off the Logitech G29 Racing Wheel and Pedal Set, Perfect for Forza Horizon 6 on PC",
-      "summary": "Refurbished direct from Logitech with 1 year warranty",
-      "url": "https://www.ign.com/articles/logitech-g29-racing-wheel-and-pedals-deal-for-forza-horizon-6",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-08T19:15:00+00:00"
     },
     {
       "id": "ed6c288901723688c891327b",
@@ -814,17 +869,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-06T04:00:18+00:00"
-    },
-    {
-      "id": "3d25ad3eac17663a64be6223",
-      "title": "Philippe Van Parijs, philosophe : « Pour éviter que l’IA ne crée de l’exclusion, il faut associer revenu universel et formation tout au long de la vie »",
-      "summary": "Dans un entretien au « Monde », le chercheur spécialiste de la question du revenu inconditionnel explique pourquoi la révolution de l’intelligence artificielle mène presque mécaniquement au revenu universel.",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/06/philippe-van-parijs-philosophe-pour-eviter-que-l-ia-ne-cree-de-l-exclusion-il-faut-associer-revenu-universel-et-formation-tout-au-long-de-la-vie_6698078_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-06T04:00:06+00:00"
     },
     {
       "id": "9cdae2aefe881ce424b9c2d9",
