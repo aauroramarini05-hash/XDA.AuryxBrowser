@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-06-09T21:41:39.070803+00:00",
+  "updatedAt": "2026-06-09T23:12:40.198578+00:00",
   "items": [
+    {
+      "id": "5c34abf2a17a2ca785d93e72",
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "summary": "After issues with insider trading, the prediction betting platform is adding new rules.",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-09T22:32:31+00:00"
+    },
+    {
+      "id": "6f4ab8ef1d38761ef948565a",
+      "title": "Save 20% Off the Possibly Soon-to-be-Retired LEGO Super Mario World: Mario & Yoshi Building Set",
+      "summary": "This set may be discontinued on July 31.",
+      "url": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-possibly-retiring-soon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T22:15:00+00:00"
+    },
+    {
+      "id": "99040f6598abcd050ba49389",
+      "title": "Gruv Just Brought Back Its '3 for $33' 4K Sale Ahead of Father's Day",
+      "summary": "Over 180 movies to choose from.",
+      "url": "https://www.ign.com/articles/gruv-3-for-33-4k-bluray-sale-fathers-day-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T22:14:46+00:00"
+    },
+    {
+      "id": "45395bcc8c77a7fa0a2384c6",
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-09T22:00:24+00:00"
+    },
+    {
+      "id": "2106b567a7384c3844bc4739",
+      "title": "US striking Iran in response to downing of helicopter, military says",
+      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T21:43:25+00:00"
+    },
+    {
+      "id": "5ee51e583469c6b05012c34d",
+      "title": "Deltarune Chapter 5 Release Date Revealed as Toby Fox Offers Promising Update for the Future",
+      "summary": "Deltarune Chapter 5 finally has a release date, and Undertale mastermind Toby Fox has used the opportunity to give fans a progress update on Chapter 6.",
+      "url": "https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T21:42:10+00:00"
+    },
+    {
+      "id": "a98c0cacfa315479ee80c792",
+      "title": "YouTuber Reckless Ben Says He Will Go to Jail If He Continues to Talk About LEGO Reseller Bricks & Minifigs",
+      "summary": "Reckless Ben claims he is now legally forbidden from investigating LEGO reseller Bricks & Minifigs, or else he will go to jail.",
+      "url": "https://www.ign.com/articles/youtuber-reckless-ben-says-he-will-go-to-jail-if-he-continues-to-talk-about-lego-reseller-bricks-minifigs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T21:39:25+00:00"
+    },
     {
       "id": "44f387ef68531f5eae71e75a",
       "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
@@ -24,8 +101,8 @@
       "publishedAt": "2026-06-09T21:04:20+00:00"
     },
     {
-      "id": "4434528d17a529b001b80f3b",
-      "title": "Nintendo Switch Sports Resort Physical Editions Are up for Preorder at Amazon",
+      "id": "124b0ce938b0e68aa92a7caf",
+      "title": "Nintendo Switch Sports Resort Physical Editions Are Up for Preorder at Amazon",
       "summary": "Switch Sports Resort features almost all of the same games as Switch Sports, but with some notable additions.",
       "url": "https://www.ign.com/articles/nintendo-switch-sports-preorders-where-to-buy",
       "imageUrl": null,
@@ -88,17 +165,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-09T20:25:00+00:00"
-    },
-    {
-      "id": "e587211948db256bc6bf28e7",
-      "title": "Trump says Iran shot down US helicopter and vows to respond",
-      "summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
-      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T20:24:01+00:00"
     },
     {
       "id": "45516fb27011fcb3dbd98411",
@@ -319,50 +385,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-09T17:05:00+00:00"
-    },
-    {
-      "id": "81f51552954dcc612bd98e67",
-      "title": "Secretlab Atlas Premium Review",
-      "summary": "The Secretlab Atlas brings the worlds of productivity and gaming together. It’s the gaming chair all grown up.",
-      "url": "https://www.ign.com/articles/secretlab-atlas-premium-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T17:00:00+00:00"
-    },
-    {
-      "id": "4e7e1d6336632ce84c2d1771",
-      "title": "Grab an Alienware Aurora RTX 5080 Gaming PC With 64GB of RAM for $2,575 Before It Goes Out of Stock",
-      "summary": "Dell Outlet include the same 1 year warranty as buying brand new from Dell.com.",
-      "url": "https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-with-64gb-ram-at-dell-outlet-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T16:55:00+00:00"
-    },
-    {
-      "id": "62975cc955b5e3b17e620ee0",
-      "title": "Preorders Are Live for Persona 4 Revival – Here’s What Comes in Each Edition",
-      "summary": "Persona 4 Revival preorders are live. Ahead of its release on February 18, 2027, we've gathered up information on each edition available to preorder, including how much they cost and what's included with them.",
-      "url": "https://www.ign.com/articles/persona-4-revival-where-to-preorder",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T16:51:29+00:00"
-    },
-    {
-      "id": "2d3fd330c0817dac35eb4973",
-      "title": "Neverlanders: Get Lost Continues the Smash Hit Peter Pan Reboot",
-      "summary": "The hit Peter Pan graphic novel Neverlanders is back with a sequel called Get Lost, and we've got an exclusive preview.",
-      "url": "https://www.ign.com/articles/neverlanders-get-lost-peter-pan-comic-sequel-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T16:47:58+00:00"
     },
     {
       "id": "b4aa91ffe2d0ddf1f327cde6",
@@ -1023,28 +1045,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-05T12:27:52+00:00"
-    },
-    {
-      "id": "a2788ea9fd521728c6468dd7",
-      "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
-      "summary": "As the price of Bitcoin sinks once more, here's a guide to some of the trickiest crypto terms.",
-      "url": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-05T09:56:27+00:00"
-    },
-    {
-      "id": "1608decf48e913f583b7f38c",
-      "title": "We need to stop AI developing without humans, says Anthropic co-founder",
-      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
-      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-05T07:17:39+00:00"
     },
     {
       "id": "6e8ee69d712d5679a4f15504",
