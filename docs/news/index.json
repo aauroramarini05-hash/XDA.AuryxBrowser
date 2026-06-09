@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-06-09T03:26:02.163675+00:00",
+  "updatedAt": "2026-06-09T07:38:09.128161+00:00",
   "items": [
+    {
+      "id": "5702c08f338ac3ff0e129d86",
+      "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+      "summary": "Xi has wrapped up a two-day visit to Pyongyang, his first official trip to North Korea since 2019.",
+      "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T07:08:52+00:00"
+    },
+    {
+      "id": "a698d6f81f617bdf8f600722",
+      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+      "summary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.",
+      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T06:33:11+00:00"
+    },
+    {
+      "id": "ec9c938779ac0d834ce574eb",
+      "title": "OpenAI plans stock market debut, intensifying investment race with Anthropic",
+      "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-09T06:22:22+00:00"
+    },
+    {
+      "id": "e85e0760122adf9394cd9f22",
+      "title": "Final Fantasy 7 Revelation Players Can Shape Its Story But the Trilogy Will Have a 'Singular Ending' for Everyone",
+      "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi has confirmed the remake trilogy's finale will feature \"one singular ending\" for everyone, but players will have a lot of freedom to shape Cloud's final chapter.",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-players-can-shape-its-story-but-the-trilogy-will-have-a-singular-ending-for-everyone",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T06:17:26+00:00"
+    },
+    {
+      "id": "0baebc7385519cace9387890",
+      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+      "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T05:07:44+00:00"
+    },
+    {
+      "id": "59adcb42c22fac302e7c0c49",
+      "title": "Un syndicat peut-il publier des informations confidentielles discutées en CSE ?",
+      "summary": "La Cour de cassation a récemment validé le retrait d’informations confidentielles publiées sur le site du syndicat d’une entreprise d’intérim, explique le juriste Jean-Emmanuel Ray dans sa chronique.",
+      "url": "https://www.lemonde.fr/emploi/article/2026/06/09/un-syndicat-peut-il-publier-des-informations-confidentielles-discutees-en-cse_6700093_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-09T04:00:29+00:00"
+    },
     {
       "id": "8ebbd19a22dcae85c77ba25b",
       "title": "Call of Duty: Black Ops 1 and 2 Ports Have Apparently Leaked",
@@ -46,15 +112,15 @@
       "publishedAt": "2026-06-09T01:34:21+00:00"
     },
     {
-      "id": "524c130169411daf15d1fe83",
-      "title": "OpenAI se positionne pour une entrée en bourse",
-      "summary": "L’entreprise américaine d’intelligence artificielle a annoncé, lundi, avoir déposé un dossier pour rejoindre Wall Street, sans fixer de calendrier. Son rival et voisin californien Anthropic a effectué la même démarche, il y a une semaine.",
+      "id": "f4424fd5754d817fb4694d21",
+      "title": "OpenAI a déposé son projet d’introduction en Bourse, une semaine après Anthropic",
+      "summary": "L’entreprise américaine d’intelligence artificielle a annoncé, lundi, avoir déposé un dossier pour rejoindre Wall Street, sans fixer de calendrier.",
       "url": "https://www.lemonde.fr/pixels/article/2026/06/09/openai-se-positionne-pour-une-entree-en-bourse_6699918_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-09T01:17:46+00:00"
+      "publishedAt": "2026-06-09T01:17:42+00:00"
     },
     {
       "id": "ec99a3344a58b965d66db0cf",
@@ -79,28 +145,6 @@
       "publishedAt": "2026-06-09T00:03:38+00:00"
     },
     {
-      "id": "0baebc7385519cace9387890",
-      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-      "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
-      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-08T23:50:59+00:00"
-    },
-    {
-      "id": "eb99ce099f0ff4784a49885b",
-      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-      "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-08T23:37:21+00:00"
-    },
-    {
       "id": "274dd8c9c115437c517f2a7d",
       "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
       "summary": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
@@ -123,17 +167,6 @@
       "publishedAt": "2026-06-08T23:06:30+00:00"
     },
     {
-      "id": "ea4957922d86aaf977cd43ba",
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
-      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-08T22:47:29+00:00"
-    },
-    {
       "id": "e88d9ba180c7ce12933c42af",
       "title": "How one of India's most successful female politicians is losing her party",
       "summary": "Mamata Banerjee's once-dominant Trinamool Congress party is unravelling, weeks after losing power in West Bengal.",
@@ -145,8 +178,8 @@
       "publishedAt": "2026-06-08T22:44:28+00:00"
     },
     {
-      "id": "472b85a9875cf6b06b8e7323",
-      "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+      "id": "bc78d1fb6c516386efe4ceab",
+      "title": "Trump tells BBC Netanyahu did not defy him",
       "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
       "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -156,8 +189,8 @@
       "publishedAt": "2026-06-08T22:34:25+00:00"
     },
     {
-      "id": "f5fc21ba56c10ea63891a26d",
-      "title": "Somali referee Artan barred from entering USA",
+      "id": "66581e1ac62d7f46cb70e37f",
+      "title": "Somali referee Artan barred from entering US",
       "summary": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
       "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -175,7 +208,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-08T21:24:29+00:00"
+      "publishedAt": "2026-06-08T21:24:27+00:00"
     },
     {
       "id": "ec75966391a4e641a3b46940",
@@ -387,17 +420,6 @@
       "publishedAt": "2026-06-08T18:03:00+00:00"
     },
     {
-      "id": "57b8fc479b83253b34cf26f0",
-      "title": "This Flashforge Adventurer 5M Is an Excellent Entry Level 3D Printer for Less Than $150",
-      "summary": "You won't find a more reliable or moddable 3D printer at this price point.",
-      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-08T17:55:00+00:00"
-    },
-    {
       "id": "8ec95f95877cbe78a198b546",
       "title": "At least 35 dead after major earthquake strikes southern Philippines",
       "summary": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
@@ -418,6 +440,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-08T17:18:21+00:00"
+    },
+    {
+      "id": "13c7efab73a81fd0939dea42",
+      "title": "Truck carrying fireworks catches fire, sparking spectacular display",
+      "summary": "No one was harmed in the incident, which saw motorists treated to an early Fourth of July show.",
+      "url": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-08T17:08:31+00:00"
     },
     {
       "id": "d867fd0ecec52c512277e3ed",
@@ -825,17 +858,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-05T18:59:50+00:00"
-    },
-    {
-      "id": "48a355d8f63837628e2118b7",
-      "title": "Anthropic alerte sur la menace d’« IA capables de se fabriquer elles-mêmes » et appelle à une pause dans la course à l’intelligence artificielle",
-      "summary": "L’entreprise américaine dirigée par Dario Amodei publie un nouvel essai alertant sur les dangers de l’intelligence artificielle, pointant la possibilité, à terme, de modèles qui « s’auto-améliorent ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/05/anthropic-alerte-sur-la-menace-d-ia-capables-de-se-fabriquer-elles-memes-et-appelle-a-une-pause-dans-la-course-a-l-intelligence-artificielle_6698015_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-05T17:26:24+00:00"
     },
     {
       "id": "3bb4e86553dc07599d3120d1",
