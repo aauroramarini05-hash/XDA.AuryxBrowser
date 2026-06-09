@@ -1,16 +1,236 @@
 {
-  "updatedAt": "2026-06-09T16:26:05.348321+00:00",
+  "updatedAt": "2026-06-09T19:08:15.910152+00:00",
   "items": [
+    {
+      "id": "15fccd1be5b885ff70a1837f",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-09T18:35:59+00:00"
+    },
+    {
+      "id": "a3d8002d2c09e6e88ccd90f9",
+      "title": "Intelligence artificielle : Anthropic sort une version bridée de son modèle Mythos, adaptée au grand public",
+      "summary": "La start-up américaine annonce avoir mis en place des « garde-fous » pour limiter les requêtes en matière de cybersécurité sur son modèle rendu accessible en avril à un groupe restreint de partenaires.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/09/intelligence-artificielle-anthropic-sort-une-version-bridee-de-son-modele-mythos-adaptee-au-grand-public_6700212_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-09T18:21:46+00:00"
+    },
+    {
+      "id": "e587211948db256bc6bf28e7",
+      "title": "Trump says Iran shot down US helicopter and vows to respond",
+      "summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T18:18:27+00:00"
+    },
+    {
+      "id": "d8b5fee1ba35ace07dd5ca12",
+      "title": "IGN Live May Be Over, But the Rewards Keep Going",
+      "summary": "",
+      "url": "https://www.ign.com/articles/ign-live-may-be-over-but-the-rewards-keep-going",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T18:12:00+00:00"
+    },
+    {
+      "id": "c764e031fdbc66676157c4cd",
+      "title": "NBA The Run Review",
+      "summary": "A quick-match basketball game that plays more like a distant descendant of NBA Street than a true successor.",
+      "url": "https://www.ign.com/articles/nba-the-run-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T18:10:50+00:00"
+    },
+    {
+      "id": "ee18ad3aa98db4634125532e",
+      "title": "Walmart Has the Least Expensive GeForce RTX 5070 Ti Prebuilt Gaming PC Ahead of Prime Day",
+      "summary": "The MSI Codez Z2 prebuilt is priced under $1,750.",
+      "url": "https://www.ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T17:55:00+00:00"
+    },
+    {
+      "id": "6cfb6738961d06ec47122a3c",
+      "title": "Fifa working to resolve revoked Iran tickets",
+      "summary": "Fifa has said it is working to \"maximise opportunities for Iranian supporters to attend matches\" after the country's World Cup group-stage ticket allocation was revoked just days before the tournament.",
+      "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T17:50:37+00:00"
+    },
+    {
+      "id": "6b0eca1b450e062dbacd6e81",
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T17:47:41+00:00"
+    },
+    {
+      "id": "58280a95d8ed5fc54886abbf",
+      "title": "Mortal Kombat II Lands on Digital Just 1 Month After Releasing in Theaters",
+      "summary": "The latest video game adaptation has already hit PVOD platforms after a disappointing run at the box office.",
+      "url": "https://www.ign.com/articles/mortal-kombat-2-movie-streaming",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T17:20:15+00:00"
+    },
+    {
+      "id": "313c1a1bc679ee4f5bad563c",
+      "title": "Save $1,000 Off an Open Box Asus ROG Flow Z13 Ultra-Portable Gaming Laptop at Best Buy",
+      "summary": "This tiny 2.65lb convertible with 64GB of RAM is more powerful than many full-sized gaming laptops.",
+      "url": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-best-buy-open-box-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T17:10:00+00:00"
+    },
+    {
+      "id": "4af24ddc5f3f0a8e25f0c895",
+      "title": "Today’s Best Deals: 8BitDo Retro R8 Gaming Mouse, Tales of Graces f Remastered, LEGO Pyramid of Giza",
+      "summary": "Plus, it’s your last chance to score incredible discounts during PlayStation’s Days of Play Sale",
+      "url": "https://www.ign.com/articles/best-deals-for-june-9-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T17:05:00+00:00"
+    },
+    {
+      "id": "81f51552954dcc612bd98e67",
+      "title": "Secretlab Atlas Premium Review",
+      "summary": "The Secretlab Atlas brings the worlds of productivity and gaming together. It’s the gaming chair all grown up.",
+      "url": "https://www.ign.com/articles/secretlab-atlas-premium-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T17:00:00+00:00"
+    },
+    {
+      "id": "4e7e1d6336632ce84c2d1771",
+      "title": "Grab an Alienware Aurora RTX 5080 Gaming PC With 64GB of RAM for $2,575 Before It Goes Out of Stock",
+      "summary": "Dell Outlet include the same 1 year warranty as buying brand new from Dell.com.",
+      "url": "https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-with-64gb-ram-at-dell-outlet-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T16:55:00+00:00"
+    },
+    {
+      "id": "62975cc955b5e3b17e620ee0",
+      "title": "Preorders Are Live for Persona 4 Revival – Here’s What Comes in Each Edition",
+      "summary": "Persona 4 Revival preorders are live. Ahead of its release on February 18, 2027, we've gathered up information on each edition available to preorder, including how much they cost and what's included with them.",
+      "url": "https://www.ign.com/articles/persona-4-revival-where-to-preorder",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T16:51:29+00:00"
+    },
+    {
+      "id": "2d3fd330c0817dac35eb4973",
+      "title": "Neverlanders: Get Lost Continues the Smash Hit Peter Pan Reboot",
+      "summary": "The hit Peter Pan graphic novel Neverlanders is back with a sequel called Get Lost, and we've got an exclusive preview.",
+      "url": "https://www.ign.com/articles/neverlanders-get-lost-peter-pan-comic-sequel-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T16:47:58+00:00"
+    },
+    {
+      "id": "b4aa91ffe2d0ddf1f327cde6",
+      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+      "summary": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them.",
+      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-09T16:45:12+00:00"
+    },
+    {
+      "id": "c8d0ee9cab2e02896602bcfa",
+      "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
+      "summary": "The demonstration, in the western city of Herat, was broken up after police are alleged to have opened fire.",
+      "url": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T16:44:23+00:00"
+    },
+    {
+      "id": "3b3da4db0833c7394cfb4122",
+      "title": "Nintendo annonce un remake de « The Legend of Zelda : Ocarina of Time » pour muscler le catalogue de la Switch 2",
+      "summary": "Un an après la sortie de sa dernière console, le constructeur japonais continue de miser sur des valeurs sûres, comme cette nouvelle version d’un jeu vidéo culte.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/09/nintendo-annonce-un-remake-de-the-legend-of-zelda-ocarina-of-time-pour-muscler-le-catalogue-de-la-switch-2_6700200_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-09T16:43:44+00:00"
+    },
+    {
+      "id": "ee2d7ae30075bcc86ee94433",
+      "title": "Blood Dungeon Preview: Nidhogg Developer's Frenetic Take on Roguelites",
+      "summary": "As a rabid consumer of roguelikes and having just recently beat Vampire Crawlers, I’m always on the look out for my next “number go up” fix. Blood Dungeon, from Messhof, is described as a survival platforming autoshooter that seems like it’ll scratch that itch.",
+      "url": "https://www.ign.com/articles/blood-dungeon-preview-nidhogg-developers-frenetic-take-on-roguelites",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T16:30:00+00:00"
+    },
+    {
+      "id": "31a0c107de5b1e6d221d3408",
+      "title": "The FlashForge AD5X Multi-Color Mixed Material 3D Printer Nearly Hits the $200 Price Point at AliExpress",
+      "summary": "Still $340 on Amazon",
+      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-early-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T16:25:00+00:00"
+    },
     {
       "id": "195b18ef7e47ed4a19ed4099",
       "title": "Apple, Google et Meta s’opposent à la régulation européenne qui leur impose de s’ouvrir aux assistants IA concurrents",
-      "summary": "Le fabricant de l’iPhone reporte le lancement dans l’UE de son assistant Siri AI. La Commission européenne assume, elle, d’interdire aux grandes plates-formes de favoriser leurs propres services.",
+      "summary": "Le fabricant de l’iPhone reporte le lancement dans l’Union européenne de son assistant Siri AI. La Commission européenne assume, elle, d’interdire aux grandes plateformes de favoriser leurs propres services.",
       "url": "https://www.lemonde.fr/economie/article/2026/06/09/apple-google-et-meta-s-opposent-a-la-regulation-europeenne-qui-leur-impose-de-s-ouvrir-aux-assistants-ia-concurrents_6700196_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-09T16:22:52+00:00"
+      "publishedAt": "2026-06-09T16:22:50+00:00"
     },
     {
       "id": "46531d7083151e1a631a9ccc",
@@ -22,6 +242,28 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-09T16:16:12+00:00"
+    },
+    {
+      "id": "a7250768bb3f8111f7845ebd",
+      "title": "Amazon's June Audible Deal Is Now Live: Get 3 Months for Just $0.99 Per Month",
+      "summary": "Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.",
+      "url": "https://www.ign.com/articles/amazon-audible-deal-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T16:15:00+00:00"
+    },
+    {
+      "id": "cbc552512737f618cf9564ff",
+      "title": "The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC with 24GB of DDR5 RAM and USB 4 Ports Drops Below $300",
+      "summary": "A Mac Mini-sized PC that's more powerful than the Raspberry Pi for nearly the same cost.",
+      "url": "https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-09T16:15:00+00:00"
     },
     {
       "id": "d38fa4d73afa4850f0824109",
@@ -68,17 +310,6 @@
       "publishedAt": "2026-06-09T16:00:00+00:00"
     },
     {
-      "id": "6b0eca1b450e062dbacd6e81",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T15:15:29+00:00"
-    },
-    {
       "id": "59e5a32d6a002fb6ba7cf875",
       "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
       "summary": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
@@ -123,125 +354,26 @@
       "publishedAt": "2026-06-09T15:00:00+00:00"
     },
     {
-      "id": "98c5d86e554308accaee000d",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Revealed for Nintendo Switch 2",
-      "summary": "The rumors were true: Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is real.",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2",
+      "id": "5ed9ffc5a8a8b19299357e60",
+      "title": "Scrapping of Franco-German fighter jet leaves allies at odds on defence future",
+      "summary": "The flagship partnership project became a glaring example of discord between the two nations.",
+      "url": "https://www.bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:54:46+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T14:54:36+00:00"
     },
     {
-      "id": "32451f808834e93698a245e1",
-      "title": "The Duskbloods Trailer Reveals Closed Network Test for Summer 2026",
-      "summary": "FromSoftware re-emerged at the June 2026 Nintendo Direct to reveal a quick look at its new multiplayer game, The Duskbloods, promising to launch a closed network test this summer.",
-      "url": "https://www.ign.com/articles/the-duskbloods-trailer-reveals-closed-network-test-for-summer-2026",
+      "id": "ddb0f5aa2447d39f2831d16b",
+      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
+      "summary": "Protesters are angry that the suspect had already been reported to police last August in a separate case.",
+      "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:50:06+00:00"
-    },
-    {
-      "id": "0b7caca3c26d52b79a6c1d30",
-      "title": "Xenoblade Genesis Revealed for Nintendo Switch 2 With 2027 Release Window",
-      "summary": "Nintendo has revealed that the next Xenoblade game is called Xenoblade Genesis, and it’s coming to Nintendo Switch 2 in 2027.",
-      "url": "https://www.ign.com/articles/xenoblade-genesis-revealed-for-nintendo-switch-2-with-2027-release-window",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:42:11+00:00"
-    },
-    {
-      "id": "7bfc623bc04a6936a451c406",
-      "title": "Star Fox Demo Available Later Today",
-      "summary": "A demo for the new Star Fox remake will soon be available.",
-      "url": "https://www.ign.com/articles/star-fox-demo-announced",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:41:01+00:00"
-    },
-    {
-      "id": "d728d5403d7d1371f1835322",
-      "title": "Final Fantasy Resonance Revealed, A New HD-2D Turn-Based RPG Coming This Year",
-      "summary": "The first HD-2D entry for Final Fantasy brings back turn-based combat and is coming in October this year.",
-      "url": "https://www.ign.com/articles/final-fantasy-resonance-revealed-a-new-hd-2d-turn-based-rpg-coming-this-year",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:40:57+00:00"
-    },
-    {
-      "id": "14b151dead61715738ed50bf",
-      "title": "Nintendo Switch Sports Resort Announced, Releasing This October",
-      "summary": "Nintendo Switch Sports Resort is coming to Nintendo Switch 2 this October.",
-      "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-announced-releasing-this-october",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:38:09+00:00"
-    },
-    {
-      "id": "d9937f133e94a3770a877da4",
-      "title": "Pokémon Pokopia Free Update and 3-Part Expansion Pass DLC Revealed",
-      "summary": "Pokémon Pokopia is getting loads of new content, both in the form of a free update and a paid, three-part expansion pass.",
-      "url": "https://www.ign.com/articles/pokemon-pokopia-free-update-and-3-part-expansion-pass-dlc-revealed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:26:33+00:00"
-    },
-    {
-      "id": "52e39c923cbc226c113a3ddf",
-      "title": "Nintendo Confirms Fire Emblem: Fortune's Weave Switch 2 Release Date",
-      "summary": "Nintendo has shown off more of the upcoming Fire Emblem: Fortune's Weave, and finally given the game a release date.",
-      "url": "https://www.ign.com/articles/nintendo-confirms-fire-emblem-fortunes-weave-switch-2-release-date",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:17:38+00:00"
-    },
-    {
-      "id": "10416cc5d72542e37953614f",
-      "title": "Dragon’s Dogma 2: Dark Arisen Announced For Nintendo Switch 2",
-      "summary": "Dragon's Dogma 2 is coming to Nintendo Switch 2 with brand new Dark Arisen content, including the new snowy region of Norgan.",
-      "url": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-announced-for-nintendo-switch-2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:13:54+00:00"
-    },
-    {
-      "id": "7106e8499e8f09a03c0f40db",
-      "title": "Star Wars Zero Company Is Up for Preorder – Here’s What Comes in Each Edition",
-      "summary": "Preorders have dropped for Star Wars Zero Company, which is set to be released on August 27. We've broken down what comes in each edition and how much they cost.",
-      "url": "https://www.ign.com/articles/star-wars-zero-company-where-to-preorder",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T14:08:28+00:00"
-    },
-    {
-      "id": "8a17360b3429d2bdd3871873",
-      "title": "MTG Teenage Mutant Ninja Turtles Booster Box Hits Lowest Price Ever at Amazon",
-      "summary": "Get the Magic: The Gathering Teenage Mutant Ninja Turtles Play Booster Box for its lowest-ever price on Amazon, saving nearly 50% on a full box of 30 packs.",
-      "url": "https://www.ign.com/articles/mtg-teenage-mutant-ninja-turtles-booster-box-hits-lowest-price-ever-at-amazon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T13:48:26+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T14:27:37+00:00"
     },
     {
       "id": "93624e5e4b30222577ff0fe3",
@@ -255,39 +387,6 @@
       "publishedAt": "2026-06-09T13:42:26+00:00"
     },
     {
-      "id": "5f2891d6e7c80d166e974444",
-      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-      "summary": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
-      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T13:15:59+00:00"
-    },
-    {
-      "id": "011c3af79068dddc6903782b",
-      "title": "The Wolf Among Us 2: The First Preview",
-      "summary": "Unreal Engine 5 rides to the rescue as one of Telltale's best adventures gets resurrected. We've seen The Wolf Among Us 2 running, and we're thrilled that it's finally on the right track.",
-      "url": "https://www.ign.com/articles/the-wolf-among-us-2-the-first-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T13:00:00+00:00"
-    },
-    {
-      "id": "d08659f9cba743dc74f27f1e",
-      "title": "Who You Gonna Brawl? Chew Creators John Layman and Rob Guillory Reunite for Ghostbrawler",
-      "summary": "Chew creators John Layman and Rob Guillory have finally reunited for a quirky supernatural comedy series called Ghostbrawler.",
-      "url": "https://www.ign.com/articles/who-you-gonna-brawl-chew-creators-john-layman-and-rob-guillory-reunite-for-ghostbrawler",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T13:00:00+00:00"
-    },
-    {
       "id": "03755c615d702b51e33ed2f9",
       "title": "L’influenceur Jeremstar obtient la relaxe après une opération anticorrida à Nîmes en 2025",
       "summary": "Le blogueur de 39 ans était jugé avec quatre autres activistes anticorrida pour avoir surgi au milieu des arènes de Nîmes en septembre 2025, en brandissant un tissu portant l’inscription « F*CK la CORRIDA ».",
@@ -297,28 +396,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-09T12:54:31+00:00"
-    },
-    {
-      "id": "1d24e155d8c49370b4e9787f",
-      "title": "ArenaNet Boss Says MMOs Have 'Stagnated' and Guild Wars 3 Will Offer the Genre Something Genuinely New",
-      "summary": "Guild Wars 3 developer ArenaNet believes its upcoming MMO will offer something genuinely new in the genre, which it believes has become “stagnated.”",
-      "url": "https://www.ign.com/articles/arenanet-boss-says-mmos-have-stagnated-and-guild-wars-3-will-offer-the-genre-something-genuinely-new",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-09T12:02:33+00:00"
-    },
-    {
-      "id": "66581e1ac62d7f46cb70e37f",
-      "title": "Somali referee Artan barred from entering US",
-      "summary": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
-      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T12:00:58+00:00"
     },
     {
       "id": "5b04f5b27b17b3ee5acb8804",
@@ -341,17 +418,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-09T10:30:11+00:00"
-    },
-    {
-      "id": "339d1496476669430040c81b",
-      "title": "Tickets for Iran fans revoked, says federation",
-      "summary": "Iran's football federation says its allocation of tickets for the group stage of the World Cup has been revoked just days before the tournament.",
-      "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T10:15:49+00:00"
     },
     {
       "id": "9fbff341a7ddddaacf84c4f1",
@@ -440,17 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-09T05:07:44+00:00"
-    },
-    {
-      "id": "669b00dc5865f2747f746f3b",
-      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-      "summary": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
-      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T05:00:06+00:00"
     },
     {
       "id": "59adcb42c22fac302e7c0c49",
@@ -616,17 +671,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-08T16:55:15+00:00"
-    },
-    {
-      "id": "5d5ab76d4f168dd6ad932a67",
-      "title": "Eriksen at home and 'doing well' after collapse",
-      "summary": "Christian Eriksen says he is \"doing well\" and is at home with his family following his collapse in Sunday's game against Ukraine.",
-      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-08T16:29:19+00:00"
     },
     {
       "id": "32386ffdcac508d0c90c5e15",
@@ -860,28 +904,6 @@
       "publishedAt": "2026-06-06T08:30:21+00:00"
     },
     {
-      "id": "2bf683356a9428fb0d30e16a",
-      "title": "Chez SOS-Amitié, recourir à l’IA n’est « pas envisagé, ni envisageable »",
-      "summary": "L’association tient un congrès à Annecy pour faire le point, avec ses bénévoles, sur les tendances de fond liées au mal-être exprimé sur ses lignes d’écoute. Il intervient alors que de plus en plus de Français choisissent de se confier à des applications d’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/06/chez-sos-amitie-recourir-a-l-ia-n-est-pas-envisage-ni-envisageable_6698103_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-06T08:30:18+00:00"
-    },
-    {
-      "id": "f5bccc8951ce286cbee6e331",
-      "title": "Les ados sur Strava : « J’ai arrêté d’activer l’appli pour aller au lycée à vélo, j’arrivais tout en sueur »",
-      "summary": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, l’application qui transforme la pratique sportive des adolescents en compétition permanente.",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/06/06/les-ados-sur-strava-j-ai-arrete-d-activer-l-appli-pour-aller-au-lycee-a-velo-j-arrivais-tout-en-sueur_6698101_4500055.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-06T08:00:09+00:00"
-    },
-    {
       "id": "9cdae2aefe881ce424b9c2d9",
       "title": "Trump to meet AI leaders to discuss US investment in their companies",
       "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
@@ -924,28 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-05T07:17:39+00:00"
-    },
-    {
-      "id": "c2514e03acc1fb6969d971c9",
-      "title": "The ancient trick making food waste useful and tasty",
-      "summary": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
-      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-04T23:10:26+00:00"
-    },
-    {
-      "id": "c3bf389889402b318c91d837",
-      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-      "summary": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
-      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-04T23:05:39+00:00"
     },
     {
       "id": "6e8ee69d712d5679a4f15504",
