@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-06-10T17:52:30.726636+00:00",
+  "updatedAt": "2026-06-10T20:13:45.311049+00:00",
   "items": [
+    {
+      "id": "5b47672253ca05c8182f6750",
+      "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
+      "summary": "The Microsoft co-founder spent hours talking to lawmakers behind closed doors, where he also said Epstein used his marital infidelities to pressure him.",
+      "url": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-10T19:31:24+00:00"
+    },
+    {
+      "id": "ae3157007a2d8c089128834c",
+      "title": "Ridley Scott and Glenn Close to Receive Honorary Oscars at 2026 Governors Awards",
+      "summary": "Director Ridley Scott and actress Glenn Close are among the artists who will finally receive their long overdue Oscars, the Academy of Motion Pictures Arts and Sciences announced Wednesday. Disney animator Floyd Norman will also be recognized, while Killer Films' producers will receive the Thalberg Award.",
+      "url": "https://www.ign.com/articles/glenn-close-ridley-scott-honorary-oscars-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-10T19:15:34+00:00"
+    },
+    {
+      "id": "cbc552512737f618cf9564ff",
+      "title": "The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC with 24GB of DDR5 RAM and USB 4 Ports Drops Below $300",
+      "summary": "A Mac Mini-sized PC that's more powerful than the Raspberry Pi for nearly the same cost.",
+      "url": "https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-10T18:30:00+00:00"
+    },
+    {
+      "id": "b7cc4d5811b596173616fc1e",
+      "title": "Whale graveyard dating back five million years discovered",
+      "summary": "The Indian Ocean site is \"far beyond anything we had imagined\", one researcher says.",
+      "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-10T18:24:09+00:00"
+    },
+    {
+      "id": "3aa322083f6d93ae54c33201",
+      "title": "Save 40% Off the Jackery Explorer 240D 80,000mAh Power Bank: Massive Capacity, Compact Size",
+      "summary": "Miniature power station or super high-capacity power bank?",
+      "url": "https://www.ign.com/articles/jackery-explorer-240d-80000mah-power-bank-deal-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-10T18:15:00+00:00"
+    },
+    {
+      "id": "7080b7732890a53f6ce7ef87",
+      "title": "This Aovopro ES80 36V 350W Adult Electric Scooter Drops to $113 With Free Delivery by Father's Day",
+      "summary": "This budget-friendly e-scooter boasts an impressive 18-mile maximum range and 19mph top speed.",
+      "url": "https://www.ign.com/articles/aovopro-es80-electric-scooter-deal-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-10T18:15:00+00:00"
+    },
+    {
+      "id": "31a0c107de5b1e6d221d3408",
+      "title": "The FlashForge AD5X Multi-Color Mixed Material 3D Printer Nearly Hits the $200 Price Point at AliExpress",
+      "summary": "Still $340 on Amazon",
+      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-early-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-10T18:10:00+00:00"
+    },
     {
       "id": "1d07d91748a84a3c67ada9cb",
       "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
@@ -11,6 +88,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-10T17:48:54+00:00"
+    },
+    {
+      "id": "6f4ab8ef1d38761ef948565a",
+      "title": "Save 20% Off the Possibly Soon-to-be-Retired LEGO Super Mario World: Mario & Yoshi Building Set",
+      "summary": "This set may be discontinued on July 31.",
+      "url": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-possibly-retiring-soon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-10T17:35:00+00:00"
     },
     {
       "id": "92a4dfbbab7a71d64ef8ed28",
@@ -222,72 +310,6 @@
       "publishedAt": "2026-06-10T15:00:00+00:00"
     },
     {
-      "id": "a067e6a47c209be347eb30fb",
-      "title": "Fable Let Me Choose Whether a Talking Pig Should Live or Become Lunch | IGN Preview",
-      "summary": "After a 30-minute demo of Fable's life-sim elements specifically, I'm pretty sold on its \"game within a game,\" which was an important part of what made the original trilogy unique and special and is, thus, important for this Fable to get right.",
-      "url": "https://www.ign.com/articles/fable-let-me-choose-whether-a-talking-pig-should-live-or-become-lunch-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T15:00:00+00:00"
-    },
-    {
-      "id": "96d637f68d37832fdb9cf31c",
-      "title": "Gears of War: E-Day Devs on Respecting the Lore, Game Length, New Movement Mechanics, and More",
-      "summary": "IGN interviews The Coalition to find out more on Xbox console exclusive Gears of War: E-Day.",
-      "url": "https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T15:00:00+00:00"
-    },
-    {
-      "id": "56822186aa228d320d89f255",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered Is Up for Preorder at Select Retailers, Out in November",
-      "summary": "Godzilla: Destroy All Monsters Melee Remastered is up for preorder at select retailers. We've broken down where you can secure a copy ahead of its release on November 3.",
-      "url": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-where-to-preorder",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T15:00:00+00:00"
-    },
-    {
-      "id": "ae338b0715f53926e0993641",
-      "title": "Halo: Campaign Evolved – The Final Preview",
-      "summary": "",
-      "url": "https://www.ign.com/articles/halo-campaign-evolved-the-final-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T15:00:00+00:00"
-    },
-    {
-      "id": "56be1ed41b6fbd99d0e72df9",
-      "title": "How Will Capcom Address Alfred Ashford's Storyline in Resident Evil Veronica?",
-      "summary": "Capcom discusses how it will address Alfred Ashford's storyline in Resident Evil Veronica.",
-      "url": "https://www.ign.com/articles/how-will-capcom-address-alfred-ashfords-storyline-in-resident-evil-veronica",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T15:00:00+00:00"
-    },
-    {
-      "id": "eb7829fdacf6a99a5f467c6c",
-      "title": "Resident Evil Veronica Is a Third-Person Game, Capcom Confirms",
-      "summary": "The teaser for Resident Evil Veronica at Summer Game Fest may well have been presented in first-person, but the game itself will be played in third-person, Capcom has confirmed.",
-      "url": "https://www.ign.com/articles/resident-evil-veronica-is-a-third-person-game-capcom-confirms",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T15:00:00+00:00"
-    },
-    {
       "id": "487269d06c9d0c96b09c6739",
       "title": "Israeli strikes in southern Lebanon kill 17, reports say",
       "summary": "Nine of them were killed in a series of attacks in the town of Tayr Debba, according to Lebanon's state news agency.",
@@ -299,9 +321,9 @@
       "publishedAt": "2026-06-10T14:44:49+00:00"
     },
     {
-      "id": "4862687fb9d5d6b25e6f2a0f",
-      "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
-      "summary": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US.",
+      "id": "4766222cfea057942687de3d",
+      "title": "US official claims banned referee had links with 'terror organisations'",
+      "summary": "Somali referee Omar Artan was denied entry to the United States because of his \"association with suspected members of terror organisations,\" says a US official.",
       "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -748,28 +770,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-09T08:02:43+00:00"
-    },
-    {
-      "id": "94622e17dcf3944f3200bad7",
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-      "summary": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
-      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T07:36:15+00:00"
-    },
-    {
-      "id": "9cdda2d9a4cf475f8333ac53",
-      "title": "ICC suspends top prosecutor after investigating misconduct allegations",
-      "summary": "Karim Khan denies all allegations of sexual misconduct and his lawyers say he rejects the decision in the strongest terms.",
-      "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T07:29:55+00:00"
     },
     {
       "id": "0baebc7385519cace9387890",
