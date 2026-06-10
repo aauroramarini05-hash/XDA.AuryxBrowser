@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-06-10T02:36:19.265526+00:00",
+  "updatedAt": "2026-06-10T07:00:15.815778+00:00",
   "items": [
+    {
+      "id": "773da5b86e70bc20c4601ec2",
+      "title": "Twelve killed in mass shooting in Johannesburg, police say",
+      "summary": "Another nine people were injured at an informal settlement in Cleveland late on Tuesday.",
+      "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-10T06:33:31+00:00"
+    },
+    {
+      "id": "155cb70f652a0b0e058b8dd8",
+      "title": "US strikes Iran in response to downing of military helicopter",
+      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-10T05:29:47+00:00"
+    },
+    {
+      "id": "b9d38cdb20b674679159b7c4",
+      "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
+      "summary": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
+      "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-10T05:02:46+00:00"
+    },
+    {
+      "id": "b1cafb3c373cae5ff80609c0",
+      "title": "« Ghost in the Shell » - Comment ce récit du courant cyberpunk a-t-il marqué la science-fiction ?",
+      "summary": "Née en 1989, le manga de Masamune Shirow met en scène une femme cyborg agent de police qui traque des cybercriminels. Une œuvre qui ne cesse d’interroger le rapport des humains aux machines.",
+      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/06/10/ghost-in-the-shell-comment-ce-recit-du-courant-cyberpunk-a-t-il-marque-la-science-fiction_6700406_6176282.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-10T05:00:14+00:00"
+    },
+    {
+      "id": "a658d1cef6926cc2a0c29e1a",
+      "title": "En Australie, une interdiction des réseaux sociaux difficile à appliquer, mais pas sans effets",
+      "summary": "Six mois après son entrée en vigueur, la loi peine encore à être respectée et une enquête a été ouverte contre cinq plateformes, dont Instagram, YouTube et Snapchat. Ce qui n’empêche pas certains enfants, surtout parmi les plus jeunes, de s’en détourner.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/10/en-australie-une-interdiction-des-reseaux-sociaux-difficile-a-appliquer-mais-pas-sans-effets_6700405_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-10T04:30:10+00:00"
+    },
+    {
+      "id": "b9605a700bf542b5d099430b",
+      "title": "Cryptomonnaies : des cours percutés par le contexte géopolitique et l’essor de l’IA",
+      "summary": "Le bitcoin et d’autres cryptoactifs ont perdu plus de 30 % de leur valeur depuis le début de l’année, et les conditions d’un éventuel rebond ne sont pas là.",
+      "url": "https://www.lemonde.fr/argent/article/2026/06/10/cryptomonnaies-des-cours-percutes-par-le-contexte-geopolitique-et-l-essor-de-l-ia_6700399_1657007.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-10T04:00:24+00:00"
+    },
     {
       "id": "391dde4ef0ff2c9ca45dd937",
       "title": "Fire Emblem: Fortune's Weave Sets Standard Physical Price at $80",
@@ -22,17 +88,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-10T00:48:25+00:00"
-    },
-    {
-      "id": "53fb42cadf93cdfbeb3f4fd7",
-      "title": "US strikes Iran in response to downing of helicopter, military says",
-      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
-      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-10T00:33:25+00:00"
     },
     {
       "id": "f98eb083ad60bbe85fc9c9dc",
@@ -156,8 +211,8 @@
       "publishedAt": "2026-06-09T21:13:17+00:00"
     },
     {
-      "id": "d9b24720c2c60e8f2d2da8dd",
-      "title": "The rebels at the front line of Myanmar's civil war",
+      "id": "4ebb505d2ef200392c888e32",
+      "title": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
       "summary": "The BBC’s Quentin Sommerville travels to Myanmar - without the permission of the authorities - to meet a group of rebel fighters.",
       "url": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -209,17 +264,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-09T20:41:05+00:00"
-    },
-    {
-      "id": "1af7821f356aa4fe5d98206d",
-      "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
-      "summary": "France will also bar far-right Israeli Minister Bezalel Smotrich from entry as part of the measures, which Israel condemns as \"disgraceful\".",
-      "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T20:38:55+00:00"
     },
     {
       "id": "61f3260858e6f45dd4dcf846",
@@ -334,13 +378,13 @@
     {
       "id": "a3d8002d2c09e6e88ccd90f9",
       "title": "Intelligence artificielle : Anthropic sort une version bridée de son modèle Mythos, adaptée au grand public",
-      "summary": "La start-up américaine annonce avoir mis en place des « garde-fous » pour limiter les requêtes en matière de cybersécurité sur son modèle rendu accessible en avril à un groupe restreint de partenaires.",
+      "summary": "La start-up américaine annonce avoir mis en place des garde-fous pour limiter les requêtes en matière de cybersécurité sur son modèle rendu accessible en avril à un groupe restreint de partenaires.",
       "url": "https://www.lemonde.fr/economie/article/2026/06/09/intelligence-artificielle-anthropic-sort-une-version-bridee-de-son-modele-mythos-adaptee-au-grand-public_6700212_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-09T18:21:46+00:00"
+      "publishedAt": "2026-06-09T18:21:44+00:00"
     },
     {
       "id": "ac912a980ee813eff4a07b59",
@@ -411,7 +455,7 @@
     {
       "id": "3b3da4db0833c7394cfb4122",
       "title": "Nintendo annonce un remake de « The Legend of Zelda : Ocarina of Time » pour muscler le catalogue de la Switch 2",
-      "summary": "Un an après la sortie de sa dernière console, le constructeur japonais continue de miser sur des valeurs sûres, comme cette nouvelle version d’un jeu vidéo culte.",
+      "summary": "Un an après la sortie de sa dernière console, le constructeur japonais continue de miser sur des valeurs sûres, comme cette nouvelle version du jeu vidéo culte.",
       "url": "https://www.lemonde.fr/pixels/article/2026/06/09/nintendo-annonce-un-remake-de-the-legend-of-zelda-ocarina-of-time-pour-muscler-le-catalogue-de-la-switch-2_6700200_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -990,39 +1034,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-06T23:25:51+00:00"
-    },
-    {
-      "id": "336beb0599cdb3ffc8c33758",
-      "title": "VIDEO. Le Real Madrid, la paix dans le monde et l’IA au menu de la première journée de visite de Leon XIV en Espagne",
-      "summary": "Attendu à Madrid et aux îles Canaries pour un voyage centré sur les « droits humains », Léon XIV a dès son premier discours auprès de la famille royale espagnole appelée les dirigeants mondiaux à la paix.",
-      "url": "https://www.lemonde.fr/videos/video/2026/06/06/leon-xiv-le-pape-est-pour-toutes-les-equipes-mais-prevost-est-pour-le-real-madrid_6698142_1669089.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-06T15:57:06+00:00"
-    },
-    {
-      "id": "d1fdd32649c581f677975ea4",
-      "title": "Luke Turnock, sociologue : « Les peptides, ces molécules supposément réparatrices, sont le fer de lance d’un vaste mouvement d’autoexpérimentation »",
-      "summary": "La « folk pharmacology », conceptualisée par le sociologue britannique, décrit la manière dont des communautés, notamment dans le milieu de la musculation, produisent leurs propres savoirs sur de nouvelles substances en dehors du cadre médical et souvent sans évoquer les risques.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/06/06/luke-turnock-sociologue-les-peptides-ces-molecules-supposement-reparatrices-sont-le-fer-de-lance-d-un-vaste-mouvement-d-autoexperimentation_6698133_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-06T14:05:10+00:00"
-    },
-    {
-      "id": "560fdc3dc94b0acbffbec0ed",
-      "title": "« Aller à contre-courant de l’IA pour reprendre le contrôle de son temps et de sa pensée devient un nouveau symbole de statut social »",
-      "summary": "Aux Etats-Unis et en Europe, des étudiants commencent à rejeter l’intelligence artificielle et à s’extraire de l’addiction aux écrans. Ces comportements annoncent que la vague de l’IA commence à refluer, juge l’entrepreneur de la Silicon Valley Guy Halfteck, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/06/aller-a-contre-courant-de-l-ia-pour-reprendre-le-controle-de-son-temps-et-de-sa-pensee-devient-un-nouveau-symbole-de-statut-social_6698104_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-06T08:30:21+00:00"
     },
     {
       "id": "9cdae2aefe881ce424b9c2d9",
