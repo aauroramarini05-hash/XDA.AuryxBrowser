@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-06-11T21:13:00.234457+00:00",
+  "updatedAt": "2026-06-11T23:15:20.035524+00:00",
   "items": [
     {
-      "id": "5829208dcef27b5246ae5b5d",
-      "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-      "summary": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
+      "id": "4d099971f6c902ced9328977",
+      "title": "World Cup kicks off in Mexico with Shakira, vibrant fans, and protests",
+      "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters at points around the Azteca stadium.",
       "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-11T20:26:06+00:00"
+      "publishedAt": "2026-06-11T23:08:31+00:00"
+    },
+    {
+      "id": "e365f8ec3a360ea02a68a725",
+      "title": "India's 'blue gold' starts a new drinks industry",
+      "summary": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
+      "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-11T23:01:48+00:00"
+    },
+    {
+      "id": "8883fdd7757db15b01798010",
+      "title": "Save Nearly 40% Off the Sony WH-1000XM6 Noise Canceling Headphones for Father's Day",
+      "summary": "These are refurbished units that are indistinguishable from new and include a 2 year warranty.",
+      "url": "https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-refurb-from-ebay",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-11T22:00:00+00:00"
+    },
+    {
+      "id": "b9c1e78e39e95059c4d21928",
+      "title": "The Death of Robin Hood Review",
+      "summary": "The brooding pace and relative silence that characterize writer-director Michael Sarnoski’s The Death of Robin Hood is more evocative of his standout debut film Pig than it is his far more mainstream A Quiet Place: Day One, making this elegiac but brutal period piece his most niche and least accessible film yet. Still, its heady mix of mournful dra",
+      "url": "https://www.ign.com/articles/the-death-of-robin-hood-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-11T21:00:00+00:00"
+    },
+    {
+      "id": "2d85aa67b1ab1c5e41655494",
+      "title": "Amazon's 3 for $33 4K Movie Sale Has a Bunch of Classic Dad Flicks for Father's Day",
+      "summary": "Amazon has brought back its popular 3 for $33 4K Blu-ray sale and it's filled with films aimed at dads. There are a total of 39 movies included in this promotion, so check out the list with Father's Day gifts in mind.",
+      "url": "https://www.ign.com/articles/amazon-3-for-33-4k-blu-ray-movie-sale-for-fathers-day-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-11T20:52:51+00:00"
     },
     {
       "id": "a519114a6204351eda9853df",
@@ -299,28 +343,6 @@
       "publishedAt": "2026-06-11T15:25:00+00:00"
     },
     {
-      "id": "fd199c107083672b84166a51",
-      "title": "The Apple AirPods Pro 3 Earbuds Drops to the Lowest Price Ever Ahead of Father's Day",
-      "summary": "$70 less on Amazon compared to buying directly from the Apple Store",
-      "url": "https://www.ign.com/articles/apple-airpods-pro-3-earbuds-deal-new-amazon-fathers-day-sale-price-drop",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-11T15:25:00+00:00"
-    },
-    {
-      "id": "d38fa4d73afa4850f0824109",
-      "title": "The Ultra-Slim Baseus Blade 20,000mAh 100W Power Bank Drops to $39.49 Ahead of Amazon Prime Day",
-      "summary": "This 0.7\" thin power bank boasts a generous capacity and higher output for handheld gaming PCs and laptops.",
-      "url": "https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-early-amazon-prime-day-sale-nintendo-switch-xbox-ally-steam-deck",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-11T15:25:00+00:00"
-    },
-    {
       "id": "b4530d435b65cceb9ff302f6",
       "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
       "summary": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study.",
@@ -330,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-11T15:02:34+00:00"
-    },
-    {
-      "id": "bc8ae51a958ff8bbde65af1f",
-      "title": "Xbox Boss Asha Sharma Asked Her Chief Strategy Officer if The Brand Was 'Fixable' — Here's His Response",
-      "summary": "Xbox's new chief strategy officer Matthew Ball says he was asked a direct question about the brand's future by recently-installed CEO Asha Sharma: \"Is it fixable?\"",
-      "url": "https://www.ign.com/articles/xbox-boss-asha-sharma-asked-her-chief-strategy-officer-if-the-brand-was-fixable-heres-his-response",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-11T15:01:48+00:00"
     },
     {
       "id": "182a61ef8138068ca51f6057",
@@ -957,17 +968,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-06T23:25:51+00:00"
-    },
-    {
-      "id": "9cdae2aefe881ce424b9c2d9",
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
-      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-05T19:36:30+00:00"
     },
     {
       "id": "6e8ee69d712d5679a4f15504",
