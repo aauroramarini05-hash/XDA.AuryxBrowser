@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-06-11T05:22:05.422200+00:00",
+  "updatedAt": "2026-06-11T10:08:08.411292+00:00",
   "items": [
     {
       "id": "357e6337173ed9cecabe716a",
       "title": "US and Iran exchange strikes across Middle East for second day in a row",
-      "summary": "The US carries out strikes on military targets in southern Iran. Tehran responds by targeting US military assets in Kuwait, Bahrain and Jordan.",
+      "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
       "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-11T05:15:45+00:00"
+      "publishedAt": "2026-06-11T10:07:25+00:00"
+    },
+    {
+      "id": "8c4c4fd6f1bf726954badbd6",
+      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+      "summary": "During his trip, the Pope will appeal for a humane approach and respectful welcome for migrants seeking a better life.",
+      "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-11T10:03:25+00:00"
+    },
+    {
+      "id": "47947afb944e52fabd713e0c",
+      "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
+      "summary": "The US president later said he had meant that he actually loved that inflation was not higher.",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-11T09:14:13+00:00"
+    },
+    {
+      "id": "34116fa96c57c52b3ff64e8d",
+      "title": "Pokémon Go Adds Virtual Item That Helps Play the Game For You",
+      "summary": "Pokémon Go has begun testing a virtual item that helps play the game for you, throwing Pokéballs to catch creatures, and spinning PokéStops.",
+      "url": "https://www.ign.com/articles/pokemon-go-adds-virtual-item-that-helps-play-the-game-for-you",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-11T09:01:50+00:00"
+    },
+    {
+      "id": "cb8c418e4bfc026538bcad23",
+      "title": "Crimson Desert Hits New Huge Sales Milestone Less Than 3 Months After Launch",
+      "summary": "Crimson Desert has now sold over 6 million copies worldwide, Pearl Abyss has announced. The impressive milestone was achieved less than three months after the game went on sale.",
+      "url": "https://www.ign.com/articles/crimson-desert-hits-new-huge-sales-milestone-less-than-3-months-after-launch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-11T08:37:52+00:00"
+    },
+    {
+      "id": "757ee8c22bb169b76246613f",
+      "title": "French singer Patrick Bruel under formal investigation for rape",
+      "summary": "Bruel was released from custody under judicial supervision while an examining magistrate looks more deeply into the case.",
+      "url": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-11T08:29:57+00:00"
+    },
+    {
+      "id": "b2f67c7c963f959eab3ce51b",
+      "title": "Mario Kart World 'Forgotten,' as Nintendo Switch 2 Launch Title Goes a Year Without Major DLC",
+      "summary": "Nintendo fans have reacted in despair at the lack of updates to Mario Kart World, following this week's big Nintendo Direct broadcast.",
+      "url": "https://www.ign.com/articles/mario-kart-world-forgotten-as-nintendo-switch-2-launch-title-goes-a-year-without-major-dlc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-11T08:13:46+00:00"
+    },
+    {
+      "id": "8bbd9e984a9bb4f00dfa1a77",
+      "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
+      "summary": "The BBC's Will Grant got access inside the renovated venue ahead of the first game of the tournament.",
+      "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-11T08:08:57+00:00"
+    },
+    {
+      "id": "5583979dd4b1dfcd7dad7a00",
+      "title": "Three Indian sailors killed in US strike on oil tanker",
+      "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-11T08:07:34+00:00"
+    },
+    {
+      "id": "1a7c1b16eebea50357315a5b",
+      "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+      "summary": "Twenty people died and 120 others were injured in the explosion at the Erawan shrine 11 years ago.",
+      "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-11T06:45:10+00:00"
+    },
+    {
+      "id": "cc127543637b06a33d09b7a9",
+      "title": "24 Jump Street in the Works with Channing Tatum and Jonah Hill",
+      "summary": "A third Jump Street movie, ironically titled 24 Jump Street, is reportedly in development with Channing Tatum, Jonah Hill, and Ice Cube.",
+      "url": "https://www.ign.com/articles/24-jump-street-in-the-works-with-channing-tatum-and-jonah-hill",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-11T06:40:45+00:00"
+    },
+    {
+      "id": "8c2fec48a05cb53cca894845",
+      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+      "summary": "Wednesday's result means the team are now just one win away from a famous Finals win.",
+      "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-11T06:04:33+00:00"
     },
     {
       "id": "a9c20b680129421fff4a5e77",
@@ -22,6 +143,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-11T05:02:29+00:00"
+    },
+    {
+      "id": "87525bfb1c64960e71bbb847",
+      "title": "Family of British toddler criticises police as Australian inquiry into cold case murders begins",
+      "summary": "NSW inquiry will also examine whether notorious serial killer Ivan Milat was responsible for more murders.",
+      "url": "https://www.bbc.com/news/articles/c0rygl7y1l0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-11T04:13:58+00:00"
     },
     {
       "id": "2afdc1c83f75ea9acc80cdaa",
@@ -37,7 +169,7 @@
     {
       "id": "6679757444b99d7e7c4c9a34",
       "title": "Le Canada veut interdire à son tour les réseaux sociaux aux moins de 16 ans",
-      "summary": "Dans le sillage d’autres pays ayant déjà mis en place des interdictions, comme l’Australie, le gouvernement canadien met en avant les effets nocifs sur la santé mentale des mineurs des réseaux sociaux, « source d’anxiété, d’isolement, de dépression ».",
+      "summary": "Dans le sillage d’autres pays, comme l’Australie, ayant déjà mis en place des interdictions, le gouvernement canadien met en avant les effets nocifs des réseaux sociaux sur la santé mentale des mineurs, « source d’anxiété, d’isolement, de dépression ».",
       "url": "https://www.lemonde.fr/international/article/2026/06/11/une-source-d-anxiete-d-isolement-de-depression-le-canada-veut-a-son-tour-interdire-les-reseaux-sociaux-aux-moins-de-16-ans_6700616_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -46,20 +178,20 @@
       "publishedAt": "2026-06-11T00:14:59+00:00"
     },
     {
-      "id": "272251ecb5e02e173c06f643",
-      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
-      "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "id": "338824a8782180f5b92536db",
+      "title": "What we learned from Bill Gates' deposition on Epstein",
+      "summary": "The billionaire testified to Congress about his relationship with the late convicted sex offender.",
+      "url": "https://www.bbc.com/news/videos/cly828v3l24o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-11T00:02:45+00:00"
+      "publishedAt": "2026-06-11T00:07:41+00:00"
     },
     {
       "id": "f5455b643f8a1eb09f19c4bb",
       "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
-      "summary": "After more than a centaury of sharing the main entrance, Canadians were barred from using the library's US-side door by the Trump administration in 2025.",
+      "summary": "After more than a century of sharing the main entrance, Canadians were barred from using the library's US-side door by the Trump administration in 2025.",
       "url": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -189,17 +321,6 @@
       "publishedAt": "2026-06-10T21:25:00+00:00"
     },
     {
-      "id": "aed40f4bd769ac0c4acefa89",
-      "title": "French singer Patrick Bruel faces rape charges",
-      "summary": "Bruel has been placed under judicial investigation, which means an examining magistrate will look more deeply into the case.",
-      "url": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-10T21:07:01+00:00"
-    },
-    {
       "id": "0831e418ddf2e29d28630db0",
       "title": "The Tiny Firebat AM6 Ryzen 7 7735HS Mini PC Is a Complete Windows 11 System for Just $285",
       "summary": "A complete kit preinstalled with the Radeon 680M iGPU, 16GB of DDR5 RAM, 512GB SSD, and Windows 11.",
@@ -321,50 +442,6 @@
       "publishedAt": "2026-06-10T18:15:00+00:00"
     },
     {
-      "id": "7080b7732890a53f6ce7ef87",
-      "title": "This Aovopro ES80 36V 350W Adult Electric Scooter Drops to $113 With Free Delivery by Father's Day",
-      "summary": "This budget-friendly e-scooter boasts an impressive 18-mile maximum range and 19mph top speed.",
-      "url": "https://www.ign.com/articles/aovopro-es80-electric-scooter-deal-fathers-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T18:15:00+00:00"
-    },
-    {
-      "id": "31a0c107de5b1e6d221d3408",
-      "title": "The FlashForge AD5X Multi-Color Mixed Material 3D Printer Nearly Hits the $200 Price Point at AliExpress",
-      "summary": "Still $340 on Amazon",
-      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-early-fathers-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T18:10:00+00:00"
-    },
-    {
-      "id": "1d07d91748a84a3c67ada9cb",
-      "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
-      "summary": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
-      "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-10T17:48:54+00:00"
-    },
-    {
-      "id": "6f4ab8ef1d38761ef948565a",
-      "title": "Save 20% Off the Possibly Soon-to-be-Retired LEGO Super Mario World: Mario & Yoshi Building Set",
-      "summary": "This set may be discontinued on July 31.",
-      "url": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-possibly-retiring-soon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T17:35:00+00:00"
-    },
-    {
       "id": "844fbf7f81ef82e3d945482d",
       "title": "IA et droits d’auteur : les industries culturelles s’indignent contre l’absence de débat sur la loi Darcos à l’Assemblée",
       "summary": "Les acteurs de la création reprochent aux députés de la majorité de faire obstruction contre ce texte visant à les aider à négocier une rémunération avec les fabricants d’intelligence artificielle.",
@@ -374,17 +451,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-10T17:28:54+00:00"
-    },
-    {
-      "id": "542634196c610da3543cbd89",
-      "title": "Ubisoft Closing 2 More Studios Amid Further Cuts and Job Losses",
-      "summary": "Ubisoft will shut a further two studios as a result of continued cost cutting measures, IGN understands.",
-      "url": "https://www.ign.com/articles/ubisoft-closing-2-more-studios-amid-further-cuts-and-job-losses",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-10T17:00:00+00:00"
     },
     {
       "id": "e0cf4df8ffdae6442f0af034",
@@ -607,17 +673,6 @@
       "publishedAt": "2026-06-09T22:32:31+00:00"
     },
     {
-      "id": "70e33798875ff7a3d327b5dc",
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
-      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T22:00:24+00:00"
-    },
-    {
       "id": "44f387ef68531f5eae71e75a",
       "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
       "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
@@ -728,17 +783,6 @@
       "publishedAt": "2026-06-09T16:45:12+00:00"
     },
     {
-      "id": "c8d0ee9cab2e02896602bcfa",
-      "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
-      "summary": "The demonstration, in the western city of Herat, was broken up after police are alleged to have opened fire.",
-      "url": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T16:44:23+00:00"
-    },
-    {
       "id": "3b3da4db0833c7394cfb4122",
       "title": "Nintendo annonce un remake de « The Legend of Zelda : Ocarina of Time » pour muscler le catalogue de la Switch 2",
       "summary": "Un an après la sortie de sa dernière console, le constructeur japonais continue de miser sur des valeurs sûres, comme cette nouvelle version du jeu vidéo culte.",
@@ -783,6 +827,17 @@
       "publishedAt": "2026-06-09T16:00:27+00:00"
     },
     {
+      "id": "f2fc135e949125e7632fa21d",
+      "title": "Who is the Somali referee barred from entering the US for the World Cup?",
+      "summary": "Omar Artan was set to become the first Somali to referee a game at the World Cup finals, but his place in history has been denied by US immigration authorities.",
+      "url": "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-09T15:09:23+00:00"
+    },
+    {
       "id": "59e5a32d6a002fb6ba7cf875",
       "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
       "summary": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
@@ -792,28 +847,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-09T15:08:50+00:00"
-    },
-    {
-      "id": "ddb0f5aa2447d39f2831d16b",
-      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
-      "summary": "Protesters are angry that the suspect had already been reported to police last August in a separate case.",
-      "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T14:27:37+00:00"
-    },
-    {
-      "id": "9368753c9c1f3961a30a76c7",
-      "title": "I have right papers and visa - barred referee Artan",
-      "summary": "Somali referee Omar Artan says he was subjected to an 11-hour immigration interview before being denied entry to the United States for the World Cup despite holding the \"right papers\" and \"right visa\".",
-      "url": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-09T13:43:54+00:00"
     },
     {
       "id": "03755c615d702b51e33ed2f9",
@@ -948,28 +981,6 @@
       "publishedAt": "2026-06-08T21:08:49+00:00"
     },
     {
-      "id": "927cd9d749965ebcf6ddf01f",
-      "title": "Has Trump lost control of the Iran war?",
-      "summary": "For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes.",
-      "url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-08T19:44:06+00:00"
-    },
-    {
-      "id": "ed6c288901723688c891327b",
-      "title": "Watch: Southern Lights timelapse filmed from space",
-      "summary": "This occurrence of aurora australis, or Southern Lights, was captured by Nasa astronaut Jessica Meir.",
-      "url": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-08T18:58:57+00:00"
-    },
-    {
       "id": "6de2373b3b5997d361915126",
       "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
       "summary": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
@@ -979,17 +990,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-08T17:18:21+00:00"
-    },
-    {
-      "id": "979abb8c234564b94bd11180",
-      "title": "US truck carrying fireworks catches fire, sparking spectacular display",
-      "summary": "No one was harmed in the incident, which saw motorists treated to an early Fourth of July show.",
-      "url": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-08T17:08:31+00:00"
     },
     {
       "id": "d867fd0ecec52c512277e3ed",
@@ -1034,17 +1034,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-08T14:11:22+00:00"
-    },
-    {
-      "id": "f32e7f92c237c61223777244",
-      "title": "Schoolchildren run from collapsing roof as ground shakes in Philippines quake",
-      "summary": "Pupils could be heard screaming as the earthquake struck the city of Digos, but the school said nobody was injured in the incident.",
-      "url": "https://www.bbc.com/news/videos/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-08T12:19:11+00:00"
     },
     {
       "id": "bae55dbb06736453c2542bf2",
