@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-06-12T21:25:10.591331+00:00",
+  "updatedAt": "2026-06-12T23:08:20.240429+00:00",
   "items": [
+    {
+      "id": "fbd9a3d4d89ab065985324cd",
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "summary": "The BBC breaks down how the tech mogul's fortune has grown.",
+      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-12T23:05:39+00:00"
+    },
     {
       "id": "535d85930615ebada9fe3960",
       "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich lis, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
       "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-12T21:20:55+00:00"
+      "publishedAt": "2026-06-12T22:00:52+00:00"
     },
     {
       "id": "1af4d2abc402ec463545441b",
@@ -33,6 +44,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-12T21:00:00+00:00"
+    },
+    {
+      "id": "35c4aafaa3cfb01a20d6e0d1",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-12T20:26:23+00:00"
     },
     {
       "id": "5a70c8b5922779363b1c3156",
@@ -290,7 +312,7 @@
     {
       "id": "a8875cd554d5773e05ac2faf",
       "title": "'The Only Way to Keep Bungie Alive Is to Support Marathon,' Ex-Destiny Community Manager Says",
-      "summary": "As Destiny 2 fans mourn the game's final update, Bungie's former community manager has blasted players fixated on comparing its player count with fledgling extraction shooter Marathon — and said that the company's current issues began long before its arrival, as well as Sony's acquisition.",
+      "summary": "As Destiny 2 fans mourn the game's final update, Bungie's former community manager has said its player count shouldn't be compared with that of fledgling extraction shooter Marathon — insisting the company's current issues began long before its arrival, as well as Sony's acquisition.",
       "url": "https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says",
       "imageUrl": null,
       "source": "IGN All",
@@ -363,17 +385,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-12T12:00:25+00:00"
-    },
-    {
-      "id": "740d9149b9c106c782f30adb",
-      "title": "Indonesian students protest against state spending, fuel price hike",
-      "summary": "The protesters warn wasteful government spending risks driving the country into bankruptcy.",
-      "url": "https://www.bbc.com/news/articles/cqx18d47pzjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T11:15:32+00:00"
     },
     {
       "id": "6447fcddb7c9fec78be6788e",
@@ -464,17 +475,6 @@
       "publishedAt": "2026-06-12T05:01:48+00:00"
     },
     {
-      "id": "817efe6211c46e3e90c6092b",
-      "title": "US Supreme Court denies Alabama's request to carry out nitrogen gas execution",
-      "summary": "Jeffery Lee, 49, was scheduled to be executed on Thursday. The state can still seek to have him put to death using another method.",
-      "url": "https://www.bbc.com/news/articles/cn4dx72lwn7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T03:15:46+00:00"
-    },
-    {
       "id": "c73fd3b0e18ed1c7011c81e9",
       "title": "Comment faire un tri efficace dans nos photos : « La tâche oscille entre plaisir et torture »",
       "summary": "Des petits cœurs, qui simplifient le tri, aux étiquettes, qui l’enrichissent, les conseils des lecteurs du « Monde » pour mettre de l’ordre dans nos photos.",
@@ -484,17 +484,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-12T02:30:01+00:00"
-    },
-    {
-      "id": "1456a6b39f3cce4b36f4aaf6",
-      "title": "Do not use my music, Ariana Grande tells White House",
-      "summary": "Grande called a White House video using her song Bye \"heinous nonsense\", joining multiple artists demanding Trump's team not use their music.",
-      "url": "https://www.bbc.com/news/articles/c9328k7j2n4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T01:53:30+00:00"
     },
     {
       "id": "ce852e6b0421f582f2e2968d",
@@ -594,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-11T16:00:23+00:00"
-    },
-    {
-      "id": "182a61ef8138068ca51f6057",
-      "title": "Artan to referee Uefa Super Cup after losing World Cup role",
-      "summary": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-11T14:24:58+00:00"
     },
     {
       "id": "8bbd9e984a9bb4f00dfa1a77",
@@ -869,17 +847,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-06T23:25:51+00:00"
-    },
-    {
-      "id": "9cdae2aefe881ce424b9c2d9",
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
-      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-05T19:36:30+00:00"
     },
     {
       "id": "6e8ee69d712d5679a4f15504",
