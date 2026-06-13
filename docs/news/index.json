@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-06-12T23:08:20.240429+00:00",
+  "updatedAt": "2026-06-13T02:34:50.595907+00:00",
   "items": [
+    {
+      "id": "f3d57775e8a48625d0d04a3f",
+      "title": "Anthropic « désactive brutalement » ses deux modèles d’IA les plus puissants, faute de pouvoir se conformer aux ordres de l’administration Trump",
+      "summary": "Invoquant des questions de « sécurité nationale », Washington exige que la start-up américaine d’intelligence artificielle restreigne l’accès de Claude Fable 5 et Mythos 5 aux seuls ressortissants américains. Une demande impossible à mettre en œuvre, selon Anthropic.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/13/anthropic-desactive-brutalement-ses-deux-modeles-d-ia-les-plus-puissants-faute-de-pouvoir-se-conformer-aux-ordres-de-l-administration-trump_6701235_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-13T02:13:56+00:00"
+    },
+    {
+      "id": "7002c2973ab074d01e0d21d0",
+      "title": "Le rôle « déterminant » d’Elon Musk dans l’amplification des discours xénophobes liés aux émeutes à Belfast",
+      "summary": "« En tant que propriétaire de X et utilisateur le plus suivi, [Elon] Musk dispose d’un pouvoir sans équivalent pour façonner ce que voient les internautes », relèvent les chercheurs de l’ONG Center for Countering Digital Hate. Le milliardaire avait appelé ses abonnés à protester et reposté des messages de leaders d’extrême droite.",
+      "url": "https://www.lemonde.fr/international/article/2026/06/13/le-role-determinant-d-elon-musk-dans-l-amplification-des-discours-xenophobes-lies-aux-emeutes-a-belfast_6701202_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-13T01:45:41+00:00"
+    },
+    {
+      "id": "1af4d2abc402ec463545441b",
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T00:51:20+00:00"
+    },
+    {
+      "id": "4d7e282075a2693a9a619089",
+      "title": "Gothic 1 Remake Review",
+      "summary": "A remake that pulls this RPG classic into the modern era visually and doesn’t touch much else.",
+      "url": "https://www.ign.com/articles/gothic-1-remake-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-12T23:50:50+00:00"
+    },
     {
       "id": "fbd9a3d4d89ab065985324cd",
       "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -13,6 +57,28 @@
       "publishedAt": "2026-06-12T23:05:39+00:00"
     },
     {
+      "id": "f1158a2fb560a82eae56c737",
+      "title": "The Batman Part 2 Officially Begins Filming as Matt Reeves Shares First Set Image",
+      "summary": "After years of waiting and one big delay, director Matt Reeves has confirmed The Batman Part 2 has officially started filming by posting the first image from the set.",
+      "url": "https://www.ign.com/articles/the-batman-part-2-filming-begins-set-image",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-12T22:49:00+00:00"
+    },
+    {
+      "id": "c02879f7136ce83794517331",
+      "title": "Project Hail Mary 4K and Blu-ray Preorders Are Finally Available on Amazon",
+      "summary": "",
+      "url": "https://www.ign.com/articles/project-hail-mary-4k-blu-ray-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-12T22:26:44+00:00"
+    },
+    {
       "id": "535d85930615ebada9fe3960",
       "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
@@ -22,17 +88,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-12T22:00:52+00:00"
-    },
-    {
-      "id": "1af4d2abc402ec463545441b",
-      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T21:04:05+00:00"
     },
     {
       "id": "a7bbd9ed099cdda35fcb997a",
@@ -297,39 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-12T15:55:46+00:00"
-    },
-    {
-      "id": "13eab1ff215af8bee0048ec1",
-      "title": "Save Nearly 60% Off the Logitech G29 Racing Wheel and Pedal Set, Perfect for Forza Horizon 6 on PC",
-      "summary": "Refurbished direct from Logitech with 1 year warranty",
-      "url": "https://www.ign.com/articles/logitech-g29-racing-wheel-and-pedals-deal-for-forza-horizon-6-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-12T15:55:00+00:00"
-    },
-    {
-      "id": "a8875cd554d5773e05ac2faf",
-      "title": "'The Only Way to Keep Bungie Alive Is to Support Marathon,' Ex-Destiny Community Manager Says",
-      "summary": "As Destiny 2 fans mourn the game's final update, Bungie's former community manager has said its player count shouldn't be compared with that of fledgling extraction shooter Marathon — insisting the company's current issues began long before its arrival, as well as Sony's acquisition.",
-      "url": "https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-12T15:52:43+00:00"
-    },
-    {
-      "id": "8883fdd7757db15b01798010",
-      "title": "Save Nearly 40% Off the Sony WH-1000XM6 Noise Canceling Headphones for Father's Day",
-      "summary": "These are refurbished units that are indistinguishable from new and include a 2 year warranty.",
-      "url": "https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-refurb-from-ebay",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-12T15:50:00+00:00"
     },
     {
       "id": "6fe39a540f9c33104664896c",
@@ -706,17 +728,6 @@
       "publishedAt": "2026-06-10T04:30:10+00:00"
     },
     {
-      "id": "b9605a700bf542b5d099430b",
-      "title": "Cryptomonnaies : des cours percutés par le contexte géopolitique et l’essor de l’IA",
-      "summary": "Le bitcoin et d’autres cryptoactifs ont perdu plus de 30 % de leur valeur depuis le début de l’année, et les conditions d’un éventuel rebond ne sont pas là.",
-      "url": "https://www.lemonde.fr/argent/article/2026/06/10/cryptomonnaies-des-cours-percutes-par-le-contexte-geopolitique-et-l-essor-de-l-ia_6700399_1657007.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-10T04:00:19+00:00"
-    },
-    {
       "id": "5c34abf2a17a2ca785d93e72",
       "title": "Kalshi to make some users reveal job details to tackle insider trading",
       "summary": "After issues with insider trading, the prediction betting platform is adding new rules.",
@@ -748,17 +759,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-09T18:35:59+00:00"
-    },
-    {
-      "id": "c76d5c73d2c5827a1fd8b9ea",
-      "title": "IA : Anthropic sort une version bridée de son modèle Mythos, adaptée au grand public",
-      "summary": "La start-up américaine annonce avoir mis en place des garde-fous pour limiter les requêtes en matière de cybersécurité sur son modèle rendu accessible en avril à un groupe restreint de partenaires.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/09/intelligence-artificielle-anthropic-sort-une-version-bridee-de-son-modele-mythos-adaptee-au-grand-public_6700212_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-09T18:21:44+00:00"
     },
     {
       "id": "b4aa91ffe2d0ddf1f327cde6",
