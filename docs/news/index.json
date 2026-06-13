@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-06-13T21:03:34.906974+00:00",
+  "updatedAt": "2026-06-13T22:55:21.002827+00:00",
   "items": [
+    {
+      "id": "9f718bfb5921d3b94e487adf",
+      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+      "summary": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
+      "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T22:17:08+00:00"
+    },
+    {
+      "id": "2a4401248ba6a006e72e0a55",
+      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "summary": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
+      "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T22:05:24+00:00"
+    },
+    {
+      "id": "8b86cdbd94afb6a3a9dbff82",
+      "title": "« La guerre de l’IA a commencé » : le blocage du dernier modèle d’Anthropic par les Etats-Unis inquiète en France et en Europe",
+      "summary": "La start-up américaine a désactivé son dernier modèle d’IA, Mythos 5, à la demande de Washington. Une décision vue d’Europe comme l’illustration de la puissance américaine sur le secteur et de la volonté de contrôle de l’administration Trump.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/13/la-guerre-de-l-ia-a-commence-le-blocage-du-dernier-modele-d-anthropic-par-les-etats-unis-inquiete-en-france-et-en-europe_6702060_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-13T21:45:17+00:00"
+    },
+    {
+      "id": "4fad7d3972523d0fb0dc4474",
+      "title": "George Miller Reportedly Wants to Make One More Mad Max Movie and a TV Show Before Selling the Franchise",
+      "summary": "Mad Max mastermind George Miller has reportedly begun seeking out Hollywood studios in hopes of making one last Mad Max movie, as well as a TV show, before he sells the rights to his universe to someone else.",
+      "url": "https://www.ign.com/articles/george-miller-reportedly-wants-to-make-one-more-mad-max-movie-and-a-tv-show-before-selling-the-franchise",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-13T21:12:46+00:00"
+    },
     {
       "id": "7bcc4fdf0361c4f17e56cbab",
       "title": "X-Men '97 Season 2, Episodes 1-4 Review (Spoiler-Free)",
@@ -398,17 +442,6 @@
       "publishedAt": "2026-06-12T19:40:00+00:00"
     },
     {
-      "id": "c13053c99c52e07e65512492",
-      "title": "King leads tributes to 'giant of the art world' David Hockney",
-      "summary": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says.",
-      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T19:10:14+00:00"
-    },
-    {
       "id": "8a1785c8d7b2b75a35ed717d",
       "title": "Batman/Superman/Weird Al: World’s Weirdest Is the Superhero Crossover We Didn't Know We Needed",
       "summary": "The Dark Knight and the Man of Steel are gaining a powerful new ally, as DC reveals the epic crossover Batman/Superman/Weird Al: World’s Weirdest.",
@@ -451,17 +484,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-12T18:09:09+00:00"
-    },
-    {
-      "id": "1b8707929bcbff4ed38c293f",
-      "title": "There Are No Ghosts at the Grand Announces Tony-Nominated Actor as Lead, Wins Top Award at the Tribeca Games Festival",
-      "summary": "IGN met the head of the studio Friday Sundae to talk about the musical inclinations behind their anticipated upcoming debut, There Are No Ghosts at the Grand.",
-      "url": "https://www.ign.com/articles/there-are-no-ghosts-at-the-grand-announces-tony-nominated-actor-as-lead-wins-top-award-at-the-tribeca-games-festival",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-12T18:00:11+00:00"
     },
     {
       "id": "34221f5f9a73d8ee07342211",
@@ -539,17 +561,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-12T12:00:25+00:00"
-    },
-    {
-      "id": "aebb071f5e4306862375aca6",
-      "title": "South Africa trolled by African fans in wake of World Cup loss",
-      "summary": "The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa.",
-      "url": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T10:52:42+00:00"
     },
     {
       "id": "010bdd4aed905817937125b2",
@@ -726,17 +737,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-10T10:27:33+00:00"
-    },
-    {
-      "id": "8e7797cac37fe5b0c677a8dc",
-      "title": "« Test cedric » : une notification envoyée par erreur par le Crédit agricole perturbe son application bancaire en ligne",
-      "summary": "Dans la foulée de ce message reçu par les utilisateurs mardi en milieu d’après-midi, « l’affluence inhabituellement élevée générée par cet envoi a entraîné des difficultés d’accès à l’application ainsi qu’à certains services », a expliqué la banque. L’application était à nouveau accessible à 19 heures.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/10/test-cedric-une-notification-envoyee-par-erreur-par-le-credit-agricole-perturbe-son-application-bancaire-en-ligne_6700429_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-10T08:17:14+00:00"
     },
     {
       "id": "5c34abf2a17a2ca785d93e72",
