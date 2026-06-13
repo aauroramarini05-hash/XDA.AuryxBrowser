@@ -1,10 +1,32 @@
 {
-  "updatedAt": "2026-06-13T02:34:50.595907+00:00",
+  "updatedAt": "2026-06-13T06:51:13.249292+00:00",
   "items": [
+    {
+      "id": "6f8350da87ad11bc353c1515",
+      "title": "The costs and challenges facing the 2026 World Cup",
+      "summary": "The World Cup officially kicked off this week - but alongside the football, there are questions around heat, cost, the environmental impact and travel restrictions.",
+      "url": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T06:21:43+00:00"
+    },
+    {
+      "id": "9267e7d504682489089511f7",
+      "title": "Sur la piste des faux messages WhatsApp de Booking, cette nouvelle arnaque estivale en vogue",
+      "summary": "Les escroqueries usurpant l’identité de Booking, Airbnb ou Expedia se multiplient depuis un an. Des données de réservation authentiques, dérobées auprès des gîtes et des hôtels, sont utilisées pour les rendre particulièrement crédibles.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/13/sur-la-piste-des-faux-messages-whatsapp-de-booking-cette-nouvelle-arnaque-estivale-en-vogue_6701316_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-13T04:00:35+00:00"
+    },
     {
       "id": "f3d57775e8a48625d0d04a3f",
       "title": "Anthropic « désactive brutalement » ses deux modèles d’IA les plus puissants, faute de pouvoir se conformer aux ordres de l’administration Trump",
-      "summary": "Invoquant des questions de « sécurité nationale », Washington exige que la start-up américaine d’intelligence artificielle restreigne l’accès de Claude Fable 5 et Mythos 5 aux seuls ressortissants américains. Une demande impossible à mettre en œuvre, selon Anthropic.",
+      "summary": "Invoquant des questions de « sécurité nationale », Washington exige que la start-up américaine d’intelligence artificielle restreigne l’accès de Claude Fable 5 et de Mythos 5 aux seuls ressortissants américains. Une demande impossible à mettre en œuvre, selon Anthropic.",
       "url": "https://www.lemonde.fr/pixels/article/2026/06/13/anthropic-desactive-brutalement-ses-deux-modeles-d-ia-les-plus-puissants-faute-de-pouvoir-se-conformer-aux-ordres-de-l-administration-trump_6701235_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -22,6 +44,28 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-13T01:45:41+00:00"
+    },
+    {
+      "id": "bcc75af5bbf478ff2f5a8614",
+      "title": "Niagara Falls: Is there a better spot to watch a World Cup game?",
+      "summary": "Football fans gathered at a FIFA World Cup watch party at Niagara Falls for the Canadian and USA teams' opening matches.",
+      "url": "https://www.bbc.com/news/videos/c62132n53exo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T01:13:22+00:00"
+    },
+    {
+      "id": "d8926e34278c50d0ab8364ce",
+      "title": "Watch: Why is Trump not at the World Cup?",
+      "summary": "All three leaders of the North America host nations have missed the tournament opening matches.",
+      "url": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T00:56:37+00:00"
     },
     {
       "id": "1af4d2abc402ec463545441b",
@@ -453,28 +497,6 @@
       "publishedAt": "2026-06-12T08:52:36+00:00"
     },
     {
-      "id": "619706e99b0c3d88827f79af",
-      "title": "Watch: Three things to know about SpaceX's stock market debut",
-      "summary": "The BBC's Samira Hussain explains everything you need to know about SpaceX's historic IPO.",
-      "url": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T08:39:37+00:00"
-    },
-    {
-      "id": "bb72c8bff499d423c54970e8",
-      "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
-      "summary": "The BBC's Michelle Fleury spoke to Tom Mueller, who was one of the company's founders alongside Elon Musk in 2002.",
-      "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T06:25:10+00:00"
-    },
-    {
       "id": "4ddf533f9a8cc2fffcef21a2",
       "title": "What do Puerto Ricans think of the viral song about their homeland?",
       "summary": "People from Puerto Rico reflect on how the catchy tune has attracted attention to where they live.",
@@ -607,17 +629,6 @@
       "publishedAt": "2026-06-11T16:00:23+00:00"
     },
     {
-      "id": "8bbd9e984a9bb4f00dfa1a77",
-      "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
-      "summary": "The BBC's Will Grant got access inside the renovated venue ahead of the first game of the tournament.",
-      "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-11T08:08:57+00:00"
-    },
-    {
       "id": "a9c20b680129421fff4a5e77",
       "title": "Social media on trial: Four important cases to watch",
       "summary": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
@@ -638,17 +649,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-11T00:14:59+00:00"
-    },
-    {
-      "id": "338824a8782180f5b92536db",
-      "title": "What we learned from Bill Gates' deposition on Epstein",
-      "summary": "The billionaire testified to Congress about his relationship with the late convicted sex offender.",
-      "url": "https://www.bbc.com/news/videos/cly828v3l24o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-11T00:07:41+00:00"
     },
     {
       "id": "844fbf7f81ef82e3d945482d",
@@ -715,17 +715,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-10T05:00:14+00:00"
-    },
-    {
-      "id": "a658d1cef6926cc2a0c29e1a",
-      "title": "En Australie, une interdiction des réseaux sociaux difficile à appliquer, mais pas sans effets",
-      "summary": "Six mois après son entrée en vigueur, la loi peine encore à être respectée et une enquête a été ouverte contre cinq plateformes, dont Instagram, YouTube et Snapchat. Ce qui n’empêche pas certains enfants, surtout parmi les plus jeunes, de s’en détourner.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/10/en-australie-une-interdiction-des-reseaux-sociaux-difficile-a-appliquer-mais-pas-sans-effets_6700405_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-10T04:30:10+00:00"
     },
     {
       "id": "5c34abf2a17a2ca785d93e72",
