@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-06-13T15:26:21.683362+00:00",
+  "updatedAt": "2026-06-13T17:13:11.530072+00:00",
   "items": [
     {
-      "id": "deeb1a03c1af8f78dfa0479d",
-      "title": "Xbox Reportedly Speeding Up New Elder Scrolls, Fallout, and Halo Games as Microsoft Leaves Spinning Off the Business on the Table",
-      "summary": "A new report has claimed Xbox CEO Asha Sharma is speeding up development on new Halo, The Elder Scrolls, and Fallout games as Microsoft considers restructuring or spinning off its gaming branch.",
-      "url": "https://www.ign.com/articles/xbox-reportedly-speeding-up-new-elder-scrolls-fallout-and-halo-games-as-microsoft-leaves-spinning-off-the-business-on-the-table",
+      "id": "3b8b500af0532812941b2e36",
+      "title": "Trump's name removed from Kennedy Center after court order",
+      "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+      "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T14:47:36+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T17:00:23+00:00"
+    },
+    {
+      "id": "c0dc719e3a774ccf223723c3",
+      "title": "« L’IA prétend stocker tous les écrits du monde, et fait de la mise en mots un automatisme imbécile »",
+      "summary": "Le linguiste Alain Bentolila redoute, dans une tribune au « Monde », que les agents conversationnels nous fassent perdre le goût de l’écriture et participent d’une uniformisation dommageable de la langue. Il plaide pour des politiques éducatives ambitieuses en la matière.",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/13/l-ia-pretend-stocker-tous-les-ecrits-du-monde-et-fait-de-la-mise-en-mots-un-automatisme-imbecile_6701921_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-13T17:00:15+00:00"
     },
     {
       "id": "cace6bf380a68b583797d112",
@@ -21,7 +32,40 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-13T14:36:03+00:00"
+      "publishedAt": "2026-06-13T16:28:38+00:00"
+    },
+    {
+      "id": "dff192adfb4a9020f5b476c3",
+      "title": "Kidnapped Nigerian retired general dies in captivity",
+      "summary": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
+      "url": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T15:25:09+00:00"
+    },
+    {
+      "id": "23936e67334d85365c868be7",
+      "title": "Woman seriously injured in shark attack at Sydney beach",
+      "summary": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say.",
+      "url": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-13T15:24:25+00:00"
+    },
+    {
+      "id": "deeb1a03c1af8f78dfa0479d",
+      "title": "Xbox Reportedly Speeding Up New Elder Scrolls, Fallout, and Halo Games as Microsoft Leaves Spinning Off the Business on the Table",
+      "summary": "A new report has claimed Xbox CEO Asha Sharma is speeding up development on new Halo, The Elder Scrolls, and Fallout games as Microsoft considers restructuring or spinning off its gaming branch.",
+      "url": "https://www.ign.com/articles/xbox-reportedly-speeding-up-new-elder-scrolls-fallout-and-halo-games-as-microsoft-leaves-spinning-off-the-business-on-the-table",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-13T14:47:36+00:00"
     },
     {
       "id": "185148bd382ee0b0ffd51f15",
@@ -442,17 +486,6 @@
       "publishedAt": "2026-06-12T16:44:29+00:00"
     },
     {
-      "id": "0aa0ca8ea91d10eb09ff75ac",
-      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-      "summary": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
-      "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T16:41:53+00:00"
-    },
-    {
       "id": "96e64eb0dd3cb5ce999cc961",
       "title": "French town buries murdered child as questions mount over police failings",
       "summary": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
@@ -462,28 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-12T16:19:12+00:00"
-    },
-    {
-      "id": "13cfb779e625d60fc5e14324",
-      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "summary": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
-      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T15:55:46+00:00"
-    },
-    {
-      "id": "6fe39a540f9c33104664896c",
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "summary": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
-      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T15:09:40+00:00"
     },
     {
       "id": "cf3a81b8f95f041dcb1cd676",
@@ -541,17 +552,6 @@
       "publishedAt": "2026-06-12T10:52:42+00:00"
     },
     {
-      "id": "5eab46ae5d8f45acc1dee618",
-      "title": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
-      "summary": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
-      "url": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-12T09:52:22+00:00"
-    },
-    {
       "id": "010bdd4aed905817937125b2",
       "title": "'I will come home safely': Indian sailor's last words to wife before a US strike killed him",
       "summary": "Patnala Suresh and his wife were looking forward to celebrating their 15th wedding anniversary this month.",
@@ -583,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-12T02:30:01+00:00"
-    },
-    {
-      "id": "1d5c36b05ea94c785ce55988",
-      "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
-      "summary": "Bases across Iran have been hit by US strikes, with experts identifying damage to jets and warships.",
-      "url": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-11T23:37:15+00:00"
     },
     {
       "id": "0b8eb66da3c520ded1ce402e",
@@ -748,17 +737,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-10T08:17:14+00:00"
-    },
-    {
-      "id": "b1cafb3c373cae5ff80609c0",
-      "title": "« Ghost in the Shell » - Comment ce récit du courant cyberpunk a-t-il marqué la science-fiction ?",
-      "summary": "Née en 1989, le manga de Masamune Shirow met en scène une femme cyborg agent de police qui traque des cybercriminels. Une œuvre qui ne cesse d’interroger le rapport des humains aux machines.",
-      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/06/10/ghost-in-the-shell-comment-ce-recit-du-courant-cyberpunk-a-t-il-marque-la-science-fiction_6700406_6176282.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-10T05:00:14+00:00"
     },
     {
       "id": "5c34abf2a17a2ca785d93e72",
