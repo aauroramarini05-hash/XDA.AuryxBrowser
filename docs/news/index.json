@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-06-14T17:10:37.037464+00:00",
+  "updatedAt": "2026-06-14T19:10:36.784277+00:00",
   "items": [
+    {
+      "id": "b907c4f2869bf71a7f799f42",
+      "title": "Swiss voters reject 10 million population cap",
+      "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
+      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-14T18:23:52+00:00"
+    },
+    {
+      "id": "4e42c794e48ce4f064392078",
+      "title": "Encadrement de l’IA militaire : un chemin semé d’embûches discuté à Genève, en marge du G7",
+      "summary": "Alors que les patrons de la tech mondiale se retrouvent à Evian du 15 au 17 juin, des négociations s’ouvrent simultanément sous l’égide de l’ONU pour tenter d’encadrer l’usage de l’intelligence artificielle dans les conflits armés.",
+      "url": "https://www.lemonde.fr/international/article/2026/06/14/encadrement-de-l-ia-militaire-un-chemin-seme-d-embuches-discute-a-geneve-en-marge-du-g7_6702891_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-14T18:20:29+00:00"
+    },
+    {
+      "id": "126271720052b331379ebc04",
+      "title": "Israeli military says Hezbollah targets struck in Beirut",
+      "summary": "Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-14T17:52:36+00:00"
+    },
+    {
+      "id": "a82facf80f8e9b003fe6f283",
+      "title": "Timothée Chalamet Takes Shot at the Oscars After Knicks Win NBA Championship",
+      "summary": "A clip of Dune star Timothée Chalamet has gone viral after he celebrated the New York Knicks' NBA Championship win by taking a shot at the Oscars.",
+      "url": "https://www.ign.com/articles/timothee-chalamet-takes-shot-at-the-oscars-after-knicks-win-nba-championship",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-14T17:23:28+00:00"
+    },
     {
       "id": "34953369c2532b8a491c8fba",
       "title": "Super Mario Bros. Copy Sells for Record-Breaking $3 Million at Auction",
@@ -11,17 +55,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-14T15:43:33+00:00"
-    },
-    {
-      "id": "675f2fb723bfbade2904ed48",
-      "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
-      "summary": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
-      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T15:34:32+00:00"
     },
     {
       "id": "2b448064b4c8f388ae22cda7",
@@ -77,17 +110,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-14T12:04:54+00:00"
-    },
-    {
-      "id": "68abc1693f07095270020659",
-      "title": "Swiss voters reject 10 million population cap, early projections say",
-      "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
-      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T11:31:32+00:00"
     },
     {
       "id": "bee34cfb12e40c8cb9f16cf2",
@@ -530,17 +552,6 @@
       "publishedAt": "2026-06-12T19:40:00+00:00"
     },
     {
-      "id": "8a1785c8d7b2b75a35ed717d",
-      "title": "Batman/Superman/Weird Al: World’s Weirdest Is the Superhero Crossover We Didn't Know We Needed",
-      "summary": "The Dark Knight and the Man of Steel are gaining a powerful new ally, as DC reveals the epic crossover Batman/Superman/Weird Al: World’s Weirdest.",
-      "url": "https://www.ign.com/articles/batmansupermanweird-al-worlds-weirdest-is-the-superhero-crossover-we-didnt-know-we-needed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-12T19:00:00+00:00"
-    },
-    {
       "id": "34221f5f9a73d8ee07342211",
       "title": "Le fondateur de FTX, Sam Bankman-Fried, voit sa peine de vingt-cinq ans de prison confirmée en appel",
       "summary": "Agé de 34 ans et actuellement en détention, celui qui a longtemps été considéré comme un petit génie des cryptomonnaies a été reconnu coupable de fraude, d’association de malfaiteurs et de blanchiment d’argent.",
@@ -704,17 +715,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-11T00:14:59+00:00"
-    },
-    {
-      "id": "844fbf7f81ef82e3d945482d",
-      "title": "IA et droits d’auteur : les industries culturelles s’indignent contre l’absence de débat sur la loi Darcos à l’Assemblée",
-      "summary": "Les acteurs de la création reprochent aux députés de la majorité de faire obstruction contre ce texte visant à les aider à négocier une rémunération avec les fabricants d’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/10/ia-et-droit-d-auteur-les-industries-culturelles-s-indignent-contre-l-absence-de-debat-sur-la-loi-darcos-a-l-assemblee_6700529_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-10T17:28:54+00:00"
     },
     {
       "id": "5c34abf2a17a2ca785d93e72",
