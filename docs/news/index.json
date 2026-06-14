@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-06-14T13:41:15.053556+00:00",
+  "updatedAt": "2026-06-14T15:43:09.883981+00:00",
   "items": [
+    {
+      "id": "675f2fb723bfbade2904ed48",
+      "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+      "summary": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-14T15:34:32+00:00"
+    },
+    {
+      "id": "2b448064b4c8f388ae22cda7",
+      "title": "UK and Japan agree £18bn investment deal",
+      "summary": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-14T15:25:33+00:00"
+    },
+    {
+      "id": "77db0a57f5b2e552f58b54e6",
+      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+      "summary": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss.",
+      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-14T14:52:35+00:00"
+    },
+    {
+      "id": "9495ca3c66cec8946a9786a7",
+      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+      "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-14T14:08:03+00:00"
+    },
+    {
+      "id": "892c8d8df49672571b27728f",
+      "title": "Les questionnements des maires sur les réseaux sociaux : « Il y a une forme d’injonction à la visibilité permanente »",
+      "summary": "Alors que Facebook, TikTok et Instagram sont devenus des « agoras » de la politique locale, les maires élus les 15 et 22 mars ont rapidement dû apprendre à composer avec ces plateformes en ligne.",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/14/les-maires-en-terrain-mine-sur-les-reseaux-sociaux-il-y-a-une-forme-d-injonction-a-la-visibilite-permanente_6702636_823448.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-14T13:55:52+00:00"
+    },
     {
       "id": "4183ecf3e819965f492d4415",
       "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
@@ -55,17 +110,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-14T08:07:55+00:00"
-    },
-    {
-      "id": "c6333cbe1c893ed405ce0cd7",
-      "title": "New York Knicks win NBA championship for first time in over 50 years",
-      "summary": "The Knicks clinched the title against the San Antonio Spurs, 94-90, in the fifth game of the best-of-seven series.",
-      "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T07:21:26+00:00"
     },
     {
       "id": "31828231a691cb63c244d0b5",
@@ -255,17 +299,6 @@
       "publishedAt": "2026-06-13T17:14:51+00:00"
     },
     {
-      "id": "3b8b500af0532812941b2e36",
-      "title": "Trump's name removed from Kennedy Center after court order",
-      "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
-      "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-13T17:00:23+00:00"
-    },
-    {
       "id": "c0dc719e3a774ccf223723c3",
       "title": "« L’IA prétend stocker tous les écrits du monde, et fait de la mise en mots un automatisme imbécile »",
       "summary": "Le linguiste Alain Bentolila redoute, dans une tribune au « Monde », que les agents conversationnels nous fassent perdre le goût de l’écriture et participent d’une uniformisation dommageable de la langue. Il plaide pour des politiques éducatives ambitieuses en la matière.",
@@ -275,28 +308,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-13T17:00:15+00:00"
-    },
-    {
-      "id": "cace6bf380a68b583797d112",
-      "title": "Anthropic suspends new AI tools over US government security concerns",
-      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
-      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-13T16:28:38+00:00"
-    },
-    {
-      "id": "dff192adfb4a9020f5b476c3",
-      "title": "Kidnapped Nigerian retired general dies in captivity",
-      "summary": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
-      "url": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-13T15:25:09+00:00"
     },
     {
       "id": "deeb1a03c1af8f78dfa0479d",
@@ -715,17 +726,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-10T17:28:54+00:00"
-    },
-    {
-      "id": "3bcd16e08d10c68d5e304f12",
-      "title": "Ces lycéens qui révisent le bac sur TikTok et Instagram : « C’est la seule aide disponible les derniers jours avant l’examen »",
-      "summary": "Les influenceurs « révision » proposent conseils méthodologiques et astuces. S’ils reconnaissent que bon nombre de ces contenus peuvent aider dans la dernière ligne droite, les professeurs restent partagés.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/10/ces-jeunes-qui-revisent-le-bac-sur-tiktok-et-instagram-c-est-la-seule-aide-disponible-les-derniers-jours-avant-l-examen_6700504_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-10T15:30:00+00:00"
     },
     {
       "id": "5c34abf2a17a2ca785d93e72",
