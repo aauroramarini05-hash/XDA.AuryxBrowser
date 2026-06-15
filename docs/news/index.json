@@ -1,49 +1,258 @@
 {
-  "updatedAt": "2026-06-15T06:15:38.057515+00:00",
+  "updatedAt": "2026-06-15T12:58:42.880071+00:00",
   "items": [
     {
-      "id": "100b69d98aa07514865ea633",
-      "title": "L’intelligence artificielle, locomotive de la Bourse",
-      "summary": "Après quelques sueurs froides au sujet d’un possible éclatement de la bulle IA, force est de constater que le secteur reste aujourd’hui le moteur de la Bourse américaine. Une révolution qui résiste, pour l’instant, aux pronostics les plus pessimistes.",
-      "url": "https://www.lemonde.fr/argent/article/2026/06/15/l-intelligence-artificielle-locomotive-de-la-bourse_6703155_1657007.html",
+      "id": "69fa169d874824e51aa4dcdf",
+      "title": "Social media ban - bold and blunt, but no silver bullet",
+      "summary": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
+      "url": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-15T12:41:43+00:00"
+    },
+    {
+      "id": "d5bc6afcd0d13e57979e6ef8",
+      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+      "summary": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
+      "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-15T12:37:27+00:00"
+    },
+    {
+      "id": "7535f681a361fa58d7044cfc",
+      "title": "EA Sports FC, Madden NFL Publisher Announces EA Advertising",
+      "summary": "EA announces EA Advertising, enabling deeper brand integration for its portfolio of sports titles, such as Madden NFL and EA Sports FC.",
+      "url": "https://www.ign.com/articles/ea-sports-fc-madden-nfl-publisher-announces-ea-advertising",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-15T12:17:44+00:00"
+    },
+    {
+      "id": "6c7721cfa13ac49f5635ecbf",
+      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
+      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-15T12:07:36+00:00"
+    },
+    {
+      "id": "bba7e8e39bc95c5efe9e7686",
+      "title": "Trump and thousands of others watch UFC fight on White House lawn",
+      "summary": "Justin Gaethje beat Ilia Topuria to win the lightweight championship in the main event.",
+      "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-15T12:02:22+00:00"
+    },
+    {
+      "id": "1b8deeff7beb4394cd6b8bf8",
+      "title": "La justice française saisie contre plusieurs « lookups », moteurs de recherche alimentés par des millions de données personnelles volées",
+      "summary": "Plusieurs responsables politiques dénoncent depuis vendredi l’existence de sites permettant de chercher frauduleusement des informations personnelles. Des enquêtes avaient déjà été ouvertes concernant des services de ce type.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/15/la-justice-francaise-saisie-contre-plusieurs-lookups-moteurs-de-recherche-alimentes-par-des-millions-de-donnees-personnelles-volees_6703202_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-15T06:00:09+00:00"
+      "publishedAt": "2026-06-15T11:56:20+00:00"
     },
     {
-      "id": "925b73ce74eaaed0c22d0fea",
-      "title": "Oil prices slide after US-Iran deal announced",
+      "id": "dd1fb5df569a2f616eaa917c",
+      "title": "Oil prices fall and shares jump after US-Iran deal announced",
       "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
       "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-15T05:56:11+00:00"
+      "publishedAt": "2026-06-15T11:54:26+00:00"
     },
     {
-      "id": "da94736010e9ea9c1e76308c",
-      "title": "Trump hosts UFC cage fight on the White House lawn",
-      "summary": "Thousands were expected to attend the mixed martial arts fight, which coincides with Trump's 80th birthday.",
-      "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
+      "id": "d78c48097224e8617213c277",
+      "title": "Capcom Pulls Dragon's Dogma 2 Microtransactions Ahead of Dark Arisen Expansion Release",
+      "summary": "Capcom has announced plans to pull Dragon’s Dogma 2 microtransactions from sale ahead of the release of the Dark Arisen expansion.",
+      "url": "https://www.ign.com/articles/capcom-pulls-dragons-dogma-2-microtransactions-ahead-of-dark-arisen-expansion-release",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-15T11:25:50+00:00"
+    },
+    {
+      "id": "a5c64a9508c402021bd67b44",
+      "title": "When will social media ban start, and which apps will be affected?",
+      "summary": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
+      "url": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-15T11:09:42+00:00"
+    },
+    {
+      "id": "38e25bbfec2e25ba5f380f63",
+      "title": "Norwegian crown princess's son found guilty of two counts of rape",
+      "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+      "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-15T05:43:54+00:00"
+      "publishedAt": "2026-06-15T11:09:03+00:00"
     },
     {
-      "id": "c8a203c7e4b163c44c5006fc",
-      "title": "Russian strikes kill nine in Ukraine and damage historic cathedral, officials say",
-      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people and wounded three others.",
-      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "id": "91865b26e7900f2cb5337995",
+      "title": "Fortnite Fans Are Obsessing Over Its New Pokémon-Like Sprite Creature Collecting",
+      "summary": "Fortnite fans are forking out real money on eBay for rare species of Sprite — the game's cute new, Pokémon-like creatures that can be collected and traded.",
+      "url": "https://www.ign.com/articles/fortnite-fans-are-obsessing-over-its-new-pokemon-like-sprite-creature-collecting-with-rare-species-being-sold-for-real-money-on-ebay",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-15T10:58:37+00:00"
+    },
+    {
+      "id": "cbeb6a53a446d9b5865dc920",
+      "title": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
+      "summary": "Northern Ireland's contribution to the World Cup song includes tournaments in Mexico, Spain and Italy.",
+      "url": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-15T04:08:58+00:00"
+      "publishedAt": "2026-06-15T10:58:23+00:00"
+    },
+    {
+      "id": "28664efe4f549b3c7319752c",
+      "title": "How to clear your gaming backlog before GTA 6 with GeForce NOW",
+      "summary": "Skip the aggravation of lengthy downloads and get through as many games as possible before November rolls around with Nvidia GeForce NOW streaming.",
+      "url": "https://www.ign.com/articles/how-to-clear-your-gaming-backlog-before-gta-6-with-geforce-now",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-15T10:56:06+00:00"
+    },
+    {
+      "id": "11230693fac706fadcdf966f",
+      "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+      "summary": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
+      "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-15T10:24:09+00:00"
+    },
+    {
+      "id": "0a2fdd4c7bddb5a33fe36d5c",
+      "title": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+      "summary": "Molemo \"Jub Jub\" Maarohanye is accused of trapping a taxi driver in a car and firing a gun in the man's direction.",
+      "url": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-15T10:21:10+00:00"
+    },
+    {
+      "id": "5c94b257c902d81727b9031c",
+      "title": "The Office Star Rainn Wilson Says The Series is Too 'Politically Incorrect' to Be Made Today and He Does 'Kind of Miss That'",
+      "summary": "The Office would now be \"too hard\" to make due its \"politically incorrect\" humor, Dwight Schrute actor Rainn Wilson has said.",
+      "url": "https://www.ign.com/articles/the-office-star-rainn-wilson-says-the-series-is-too-politically-incorrect-to-be-made-today-and-he-does-kind-of-miss-that",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-15T09:56:42+00:00"
+    },
+    {
+      "id": "dc0d8d38ccc9eb4133cdb9de",
+      "title": "Under-16s to Be Banned From Social Media, UK Prime Minister Keir Starmer Says",
+      "summary": "UK Prime Minister Keir Starmer has announced plans for a social media ban for under-16s. Starmer said the government hopes to pass regulation before Christmas, with the ban coming into effect by spring 2027.",
+      "url": "https://www.ign.com/articles/under-16s-to-be-banned-from-social-media-uk-prime-minister-keir-starmer-says",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-15T09:28:39+00:00"
+    },
+    {
+      "id": "c6fcd224c262bbe754cfd88b",
+      "title": "Nintendo Removes Hidden The Legend of Zelda: Ocarina of Time Switch 2 Description That Suggested It's a Faithful Remake",
+      "summary": "Nintendo has removed a hidden description for its new The Legend of Zelda: Ocarina of Time Switch 2 remake, that fans say pointed to a faithful update of the N64 original.",
+      "url": "https://www.ign.com/articles/nintendo-removes-hidden-the-legend-of-zelda-ocarina-of-time-switch-2-description-that-suggested-its-a-faithful-remake",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-15T09:00:11+00:00"
+    },
+    {
+      "id": "45c3d8b0838bb073e92e2331",
+      "title": "IA : « Il faudra désormais se méfier des sauts de puces »",
+      "summary": "Avec l’essor de l’intelligence artificielle, la hiérarchie industrielle se trouve bouleversée. Ainsi, sur les marchés boursiers du monde entier, les fabricants de semi-conducteurs et d’infrastructures technologiques voient leurs cours s’envoler, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/15/ia-il-faudra-desormais-se-mefier-des-sauts-de-puces_6703175_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-15T08:56:33+00:00"
+    },
+    {
+      "id": "cafa436b7456815cd4445f0a",
+      "title": "Royaume-Uni : le gouvernement va interdire les réseaux sociaux aux moins de 16 ans",
+      "summary": "« Les réseaux sociaux rendent les enfants malheureux. Ils facilitent le harcèlement et les abus », a déclaré le chef du gouvernement, défendant une « étape importante » pour le pays et les familles.",
+      "url": "https://www.lemonde.fr/international/article/2026/06/15/royaume-uni-le-gouvernement-va-interdire-les-reseaux-sociaux-aux-moins-de-16-ans_6703168_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-15T08:11:51+00:00"
+    },
+    {
+      "id": "773d131b7f06f14945c0d92b",
+      "title": "China detains two leaders of influential underground church",
+      "summary": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
+      "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-15T07:56:43+00:00"
+    },
+    {
+      "id": "2da81a0bfe7f304912c467b0",
+      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
+      "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
+      "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-15T06:47:23+00:00"
+    },
+    {
+      "id": "0cfcd34d777d7571547b6465",
+      "title": "L’IA, locomotive de la Bourse",
+      "summary": "Après quelques sueurs froides au sujet d’un possible éclatement de la bulle IA, force est de constater que le secteur de l’intelligence artificielle résiste, pour l’instant, aux pronostics les plus pessimistes.",
+      "url": "https://www.lemonde.fr/argent/article/2026/06/15/l-intelligence-artificielle-locomotive-de-la-bourse_6703155_1657007.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-15T06:00:07+00:00"
     },
     {
       "id": "389b884779def7188e78b141",
@@ -54,7 +263,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-15T04:00:10+00:00"
+      "publishedAt": "2026-06-15T04:00:08+00:00"
     },
     {
       "id": "8df09e4d125bed36cf8dd85b",
@@ -156,9 +365,9 @@
       "publishedAt": "2026-06-15T01:37:47+00:00"
     },
     {
-      "id": "0eb33b1e5e0a2dfd065fd2fc",
-      "title": "As more US business owners retire many are selling up to their staff",
-      "summary": "Some six million bosses of American firms will be entering retirement between now and 2035.",
+      "id": "0d21db4656b616805a2290dd",
+      "title": "Why I sold my business to my staff",
+      "summary": "As more US company owners reach retirement age many are selling up to their employees.",
       "url": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -176,17 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-14T23:25:00+00:00"
-    },
-    {
-      "id": "cbeb6a53a446d9b5865dc920",
-      "title": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
-      "summary": "Northern Ireland's contribution to the World Cup song includes tournaments in Mexico, Spain and Italy.",
-      "url": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T23:03:55+00:00"
     },
     {
       "id": "fc006b960bd57f1cdbd9b8f9",
@@ -244,8 +442,8 @@
       "publishedAt": "2026-06-14T20:29:15+00:00"
     },
     {
-      "id": "ef4ba432be9571499d897bb9",
-      "title": "Protesters clash with police ahead of G7 summit in Geneva",
+      "id": "a7fff704fe9007b1b5092f04",
+      "title": "Protesters clash with police ahead of G7 summit in France",
       "summary": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
       "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -266,8 +464,8 @@
       "publishedAt": "2026-06-14T18:23:52+00:00"
     },
     {
-      "id": "4e42c794e48ce4f064392078",
-      "title": "Encadrement de l’IA militaire : un chemin semé d’embûches discuté à Genève, en marge du G7",
+      "id": "e67a551752c76074080de461",
+      "title": "En marge du G7, un chemin semé d’embûches pour encadrer l’usage de l’IA militaire",
       "summary": "Alors que les patrons de la tech mondiale se retrouvent à Evian du 15 au 17 juin, des négociations s’ouvrent simultanément sous l’égide de l’ONU pour tenter d’encadrer l’usage de l’intelligence artificielle dans les conflits armés.",
       "url": "https://www.lemonde.fr/international/article/2026/06/14/encadrement-de-l-ia-militaire-un-chemin-seme-d-embuches-discute-a-geneve-en-marge-du-g7_6702891_3210.html",
       "imageUrl": null,
@@ -297,17 +495,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-14T15:43:33+00:00"
-    },
-    {
-      "id": "77db0a57f5b2e552f58b54e6",
-      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-      "summary": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss.",
-      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T14:52:35+00:00"
     },
     {
       "id": "9495ca3c66cec8946a9786a7",
@@ -354,26 +541,15 @@
       "publishedAt": "2026-06-14T09:00:08+00:00"
     },
     {
-      "id": "7c6a7618411866af6348f639",
-      "title": "Armed men kidnap high-ranking security official in Haiti",
-      "summary": "James Boyard's abduction is the highest-ranking abduction in the violence-wracked country in recent years, according to reports.",
-      "url": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss",
+      "id": "8ccf05932c1f1f9cf25691bb",
+      "title": "Adopt Me! Codes (June 2026)",
+      "summary": "Redeem these codes to earn more bucks to care for your pets in Adopt Me!",
+      "url": "https://www.ign.com/articles/adopt-me-codes",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T08:07:55+00:00"
-    },
-    {
-      "id": "31828231a691cb63c244d0b5",
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
-      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T06:39:29+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-14T07:30:00+00:00"
     },
     {
       "id": "1942dac13c19e32c3f423e0e",
@@ -420,17 +596,6 @@
       "publishedAt": "2026-06-14T03:00:11+00:00"
     },
     {
-      "id": "83c04959879757da46de4df6",
-      "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
-      "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
-      "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T01:08:20+00:00"
-    },
-    {
       "id": "3ac3b9527c06b91c18fd2bb4",
       "title": "Rockstar Co-Founder Dan Houser Says There’s No Right Way to Play an Open-World Game",
       "summary": "Absurd Ventures co-founders Dan Houser and Lazlow spoke on a panel at the 2026 Tribeca Festival about making open-world video games and interconnected multimedia universes.",
@@ -440,17 +605,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-14T01:00:16+00:00"
-    },
-    {
-      "id": "0eabb7d1316a191519ed49e2",
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-13T23:19:52+00:00"
     },
     {
       "id": "0581132ea22c29b421318dfd",
@@ -464,15 +618,15 @@
       "publishedAt": "2026-06-13T23:11:28+00:00"
     },
     {
-      "id": "68ff952e1291662a63da2f18",
-      "title": "Microsoft CEO Says 'There's More Monetization of Xbox Games Happening on YouTube Than at Microsoft'",
-      "summary": "Microsoft CEO Satya Nadella said he believes \"there's more monetization of Xbox games happening on YouTube\" than at its own company, following Xbox boss Asha Sharma's recent commitment to \"reset\" the gaming branch.",
-      "url": "https://www.ign.com/articles/microsoft-ceo-says-theres-more-monetization-of-xbox-games-happening-on-youtube-than-at-microsoft",
+      "id": "1e2dd175441ac4f9c67885cc",
+      "title": "Driving Empire Codes (June 2026)",
+      "summary": "",
+      "url": "https://www.ign.com/articles/driving-empire-codes",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
-      "publishedAt": "2026-06-13T22:41:21+00:00"
+      "publishedAt": "2026-06-13T23:00:00+00:00"
     },
     {
       "id": "2a4401248ba6a006e72e0a55",
@@ -497,50 +651,6 @@
       "publishedAt": "2026-06-13T21:45:17+00:00"
     },
     {
-      "id": "4fad7d3972523d0fb0dc4474",
-      "title": "George Miller Reportedly Wants to Make One More Mad Max Movie and a TV Show Before Selling the Franchise",
-      "summary": "Mad Max mastermind George Miller has reportedly begun seeking out Hollywood studios in hopes of making one last Mad Max movie, as well as a TV show, before he sells the rights to his universe to someone else.",
-      "url": "https://www.ign.com/articles/george-miller-reportedly-wants-to-make-one-more-mad-max-movie-and-a-tv-show-before-selling-the-franchise",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T21:12:46+00:00"
-    },
-    {
-      "id": "7bcc4fdf0361c4f17e56cbab",
-      "title": "X-Men '97 Season 2, Episodes 1-4 Review (Spoiler-Free)",
-      "summary": "X-Men ‘97 remains as thrilling as ever in the first four episodes of Season 2, delivering more of that winning blend of Marvel nostalgia and deep character drama. Read our spoiler-free review.",
-      "url": "https://www.ign.com/articles/x-men-97-season-2-episodes-1-4-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T20:00:00+00:00"
-    },
-    {
-      "id": "7be2cc81536a449183f9540d",
-      "title": "Milly Alcock Says Her Supergirl Cape Was Made With Material from Christopher Reeve's Superman Suit",
-      "summary": "When Milly Alcock makes her standalone debut as Kara Zor-El in Supergirl later this month, she'll do so while wearing portions of the material used to make the cape Christopher Reeve wore in Superman.",
-      "url": "https://www.ign.com/articles/milly-alcock-says-her-supergirl-cape-was-made-with-material-from-christopher-reeves-superman-suit",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T19:15:21+00:00"
-    },
-    {
-      "id": "187083e455816ba14824f4f4",
-      "title": "Jesse Eisenberg Turned Down The Social Reckoning Because He 'Has His Problems With' Mark Zuckerberg, Aaron Sorkin Says",
-      "summary": "The Social Reckoning writer and director Aaron Sorkin spent three days trying to convince Jesse Eisenberg to reprise his role as Facebook CEO Mark Zuckerberg before he ultimately turned him down.",
-      "url": "https://www.ign.com/articles/jesse-eisenberg-turned-down-the-social-reckoning-because-he-has-his-problems-with-mark-zuckerberg-aaron-sorkin-says",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T17:14:51+00:00"
-    },
-    {
       "id": "c0dc719e3a774ccf223723c3",
       "title": "« L’IA prétend stocker tous les écrits du monde, et fait de la mise en mots un automatisme imbécile »",
       "summary": "Le linguiste Alain Bentolila redoute, dans une tribune au « Monde », que les agents conversationnels nous fassent perdre le goût de l’écriture et participent d’une uniformisation dommageable de la langue. Il plaide pour des politiques éducatives ambitieuses en la matière.",
@@ -550,50 +660,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-13T17:00:15+00:00"
-    },
-    {
-      "id": "deeb1a03c1af8f78dfa0479d",
-      "title": "Xbox Reportedly Speeding Up New Elder Scrolls, Fallout, and Halo Games as Microsoft Leaves Spinning Off the Business on the Table",
-      "summary": "A new report has claimed Xbox CEO Asha Sharma is speeding up development on new Halo, The Elder Scrolls, and Fallout games as Microsoft considers restructuring or spinning off its gaming branch.",
-      "url": "https://www.ign.com/articles/xbox-reportedly-speeding-up-new-elder-scrolls-fallout-and-halo-games-as-microsoft-leaves-spinning-off-the-business-on-the-table",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T14:47:36+00:00"
-    },
-    {
-      "id": "185148bd382ee0b0ffd51f15",
-      "title": "Assassin's Creed: Black Flag Resynced New Content Detailed in Developer Deep Dive",
-      "summary": "Ubisoft has published a new Assassin's Creed: Black Flag Resynced deep dive, promising loads of new content that wasn't present in the original release.",
-      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-new-content-detailed-in-developer-deep-dive",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T14:31:37+00:00"
-    },
-    {
-      "id": "13df1b30feec3bc700413328",
-      "title": "Every Pokémon Switch 2 Controller You Can Buy",
-      "summary": "",
-      "url": "https://www.ign.com/articles/all-pokemon-nintendo-switch-2-controllers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T13:30:00+00:00"
-    },
-    {
-      "id": "3e88002ea189a85e8e1ee63d",
-      "title": "How Close Does Steven Spielberg’s New Movie Come to the Real Disclosure Day Protocols?",
-      "summary": "Game, SETI, Match: The real Disclosure Day protocols — how close does Steven Spielberg’s Disclosure Day come to the truth? Just listen…",
-      "url": "https://www.ign.com/articles/steven-spielberg-new-movie-real-disclosure-day-protocols-seti-aliens",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-13T13:00:00+00:00"
     },
     {
       "id": "6f8350da87ad11bc353c1515",
@@ -761,39 +827,6 @@
       "publishedAt": "2026-06-12T02:30:01+00:00"
     },
     {
-      "id": "eebf45f3ee794223081257ab",
-      "title": "Une société israélienne « probablement à l’origine » de la campagne de désinformation ayant visé LFI pendant les municipales, selon Viginum",
-      "summary": "L’organe gouvernemental de veille sur la désinformation est revenu, jeudi, sur l’opération d’ingérence ayant visé La France insoumise, révélée en mars par « Le Monde ». Pour le premier ministre, Sébastien Lecornu, elle préfigure « des menaces lourdes sur l’élection présidentielle ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/11/une-societe-israelienne-probablement-a-l-origine-de-la-campagne-de-desinformation-ayant-vise-lfi-pendant-les-municipales-selon-viginum_6700797_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-11T19:30:44+00:00"
-    },
-    {
-      "id": "a10eeb73b381d12272e200c5",
-      "title": "Cybersécurité : Orange et Crédit agricole en discussion pour avoir accès à Mythos, le modèle d’IA d’Anthropic",
-      "summary": "Selon nos informations, aucun service de l’Etat français n’a, à ce stade, la possibilité d’utiliser ce logiciel d’intelligence artificielle de la start-up américaine, particulièrement efficace pour détecter des failles informatiques.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/11/cybersecurite-orange-et-credit-agricole-en-discussions-pour-avoir-acces-a-mythos-le-modele-d-ia-d-anthropic_6700795_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-11T19:05:56+00:00"
-    },
-    {
-      "id": "a561f0412fd70e659f4e1ad6",
-      "title": "Sébastien Lecornu alerte sur des « menaces lourdes » en matière d’ingérence étrangère pour la présidentielle et promet un projet de loi pour durcir les peines",
-      "summary": "Le risque d’ingérence « a été significatif sur les municipales, sans effet majeur », ce qui « laisse à entrevoir les perspectives de menaces lourdes sur l’élection présidentielle », a affirmé le premier ministre lors d’une conférence de presse.",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/11/sebastien-lecornu-alerte-sur-des-menaces-lourdes-en-matiere-d-ingerence-etrangere-pour-la-presidentielle-et-promet-un-projet-de-loi-pour-durcir-les-peines_6700759_823449.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-11T18:26:40+00:00"
-    },
-    {
       "id": "a9c20b680129421fff4a5e77",
       "title": "Social media on trial: Four important cases to watch",
       "summary": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
@@ -902,28 +935,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-08T17:18:21+00:00"
-    },
-    {
-      "id": "32386ffdcac508d0c90c5e15",
-      "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-      "summary": "Firms will be expected to activate built-in features to stop children accessing sexually explicit images.",
-      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-08T15:30:43+00:00"
-    },
-    {
-      "id": "05cb89b5a477a878df3f81b3",
-      "title": "The gamers taking on the industry to stop it switching off games",
-      "summary": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable.",
-      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-06T23:25:51+00:00"
     },
     {
       "id": "6e8ee69d712d5679a4f15504",
