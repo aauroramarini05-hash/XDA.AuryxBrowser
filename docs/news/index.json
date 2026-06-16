@@ -1,27 +1,214 @@
 {
-  "updatedAt": "2026-06-16T06:25:25.637447+00:00",
+  "updatedAt": "2026-06-16T12:04:39.918568+00:00",
   "items": [
     {
-      "id": "fb88e4399d4c2c215bce0d60",
-      "title": "Trump may release US-Iran deal before Friday, Vance says",
-      "summary": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
-      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "id": "81e5e9d5d57e857838cd58aa",
+      "title": "Bourse : quelles sont les dynamiques pour le second semestre de 2026 ?",
+      "summary": "Avec des indices américains au sommet, boostés par l’omniprésence de l’intelligence artificielle et la perspective d’une fin de crise dans le Golfe, la seconde partie de l’année se jouera sur un fil.",
+      "url": "https://www.lemonde.fr/argent/article/2026/06/16/bourse-quelles-sont-les-dynamiques-pour-le-second-semestre-de-2026_6703546_1657007.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-16T12:00:07+00:00"
+    },
+    {
+      "id": "e177a44b5de400d725d20255",
+      "title": "SpaceX rachète Cursor, éditeur de logiciel de code assisté par IA valorisé à 60 milliards de dollars",
+      "summary": "Le rachat annoncé de la société survient alors qu’une course est engagée dans la Silicon Valley pour capter les développeurs professionnels, devenus le principal moteur de croissance de l’industrie de l’IA.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/16/spacex-rachete-cursor-editeur-de-logiciel-de-code-assiste-par-ia-valorise-a-60-milliards-de-dollars_6703540_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-16T11:27:17+00:00"
+    },
+    {
+      "id": "850f23223d38b5247974e8e0",
+      "title": "Cuba tourism collapses as US pressure campaign bites",
+      "summary": "The number of foreign visitors is down by 58% compared to last year, Cuban officials say, amid sanctions and an effective oil blockade.",
+      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-16T06:16:09+00:00"
+      "publishedAt": "2026-06-16T11:16:59+00:00"
     },
     {
-      "id": "d08ddb7056eb1bc7399bd942",
-      "title": "Japan raises interest rate to highest since 1995",
+      "id": "98659898f568a945f463682e",
+      "title": "Psychonauts Developer Double Fine Responds to Closure Reports With a Single Emoji",
+      "summary": "Psychonauts developer Double Fine has responded to the reports of its potential closure with a single emoji.",
+      "url": "https://www.ign.com/articles/psychonauts-developer-double-fine-responds-to-closure-reports-with-a-single-emoji",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-16T11:13:51+00:00"
+    },
+    {
+      "id": "a5c64a9508c402021bd67b44",
+      "title": "When will social media ban start, and which apps will be affected?",
+      "summary": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
+      "url": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-16T10:58:25+00:00"
+    },
+    {
+      "id": "046378e184a204b40afded99",
+      "title": "Fortnite Maker Confirms How It Uses Generative AI to Help Create Concept Art and Designs for New Skins",
+      "summary": "Fortnite maker Epic Games has offered a rare glimpse behind the scenes at how it designs new character skins and in-game locations — and shown how certain stages involve the use of generative AI tools.",
+      "url": "https://www.ign.com/articles/fortnite-maker-confirms-how-it-uses-generative-ai-to-help-create-concept-art-and-designs-for-new-skins",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-16T10:47:01+00:00"
+    },
+    {
+      "id": "25a7a93d33b8f7e08d51ca43",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-16T10:37:16+00:00"
+    },
+    {
+      "id": "9bc98ebcfddb366fb2271fe8",
+      "title": "James Gunn Describes Jimmy Olsen HBO Series as 'Both a Jimmy Olsen and a Gorilla Grodd Show'",
+      "summary": "The upcoming DC Universe HBO TV series starring Jimmy Olsen from last year's Superman movie is “both a Jimmy Olsen AND a Gorilla Grodd show,” James Gunn has clarified.",
+      "url": "https://www.ign.com/articles/james-gunn-describes-jimmy-olsen-hbo-series-as-both-a-jimmy-olsen-and-a-gorilla-grodd-show",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-16T10:19:56+00:00"
+    },
+    {
+      "id": "f1327343acfccf71b322a5f6",
+      "title": "IA : les Européens doivent réagir face au contrôle américain",
+      "summary": "A l’heure où l’administration Trump contraint la start-up américaine Anthropic à désactiver son dernier modèle d’intelligence artificielle, l’Europe doit tracer sa propre voie : investir dans ses capacités, soutenir et coordonner ses champions, maîtriser ses infrastructures.",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/16/ia-les-europeens-doivent-reagir-face-au-controle-americain_6703528_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-16T10:00:06+00:00"
+    },
+    {
+      "id": "e07ab8ec3364bf4bbdd84070",
+      "title": "Life is Strange Creator Don't Nod Warned It Will Run Out of Funds This Year",
+      "summary": "Life is Strange creator Don't Nod will run out of cash this November, unless a new funding source is found.",
+      "url": "https://www.ign.com/articles/life-is-strange-creator-dont-nod-warned-it-will-run-out-of-funds-this-year",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-16T09:46:17+00:00"
+    },
+    {
+      "id": "1547cdb524a63ec6da945cf1",
+      "title": "Bank Balances Rolled Back for Forza Horizon 6 Players Who Used Exploit to Amass a Billion Credits",
+      "summary": "In response to an arcane but incredibly lucrative exploit discovered by Forza Horizon 6 players, Playground Games has confirmed most of those credits gained will be removed.",
+      "url": "https://www.ign.com/articles/bank-balances-rolled-back-for-forza-horizon-6-players-who-used-exploit-to-amass-a-billion-credits",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-16T09:42:36+00:00"
+    },
+    {
+      "id": "42ea14d2532ee372ead4c108",
+      "title": "Major Helldivers 2 Patch Adds New Galactic Campaigns, New Control Center Terminal, and a Lot More",
+      "summary": "Arrowhead has released a significant update for Helldivers 2, adding new Galactic campaigns, a new biome, a new Control Center terminal, and a lot more. The update — patch 6.3.0 — also makes changes to weapon, stratagem, and enemy balancing, including reductions to enemy durable damage and a decreased exosuit cooldown.",
+      "url": "https://www.ign.com/articles/major-helldivers-2-patch-adds-new-galactic-campaigns-new-control-center-terminal-and-a-lot-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-16T09:40:48+00:00"
+    },
+    {
+      "id": "060ac32b72034cf7762e7a12",
+      "title": "Watch: California wildfires rage near passing vehicles",
+      "summary": "The fires in Riverside County cover over 2,000 acres, say authorities.",
+      "url": "https://www.bbc.com/news/videos/cn8q909jld2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-16T09:30:13+00:00"
+    },
+    {
+      "id": "28903505c8b61c0da87e1c25",
+      "title": "India temporarily bans Telegram over exam paper leak concerns",
+      "summary": "The NEET exam had earlier been scrapped over allegations of a paper leak, sparking massive protests.",
+      "url": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-16T09:23:06+00:00"
+    },
+    {
+      "id": "653a0b59b2264c2e26a804df",
+      "title": "Nigerian army frees widow of ex-general who died in captivity",
+      "summary": "Maj Gen Rabe Abubakar and his wife Amina were abducted in north-west Nigeria at the end of last month.",
+      "url": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-16T09:06:57+00:00"
+    },
+    {
+      "id": "03b86696406848c2d35c12ce",
+      "title": "Nintendo Switch 2 System Update 22.5.0 Available — Here Are the Patch Notes",
+      "summary": "Nintendo has issued a fresh system software update for the Switch and Switch 2, bringing both consoles' firmware up to Version 22.0.5.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-system-update-2250-available-here-are-the-patch-notes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-16T08:51:58+00:00"
+    },
+    {
+      "id": "4011fa93b9818275062d62e4",
+      "title": "Japan raises interest rate to highest for 31 years",
       "summary": "The Bank of Japan has been raising rates from near-zero since 2024.",
       "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-16T05:35:57+00:00"
+      "publishedAt": "2026-06-16T08:26:30+00:00"
+    },
+    {
+      "id": "a9a842ea8946b51253d3b62b",
+      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
+      "summary": "A picture in a new school textbook had covered up the naked torso of the famous figurine with dark shading.",
+      "url": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-16T07:05:54+00:00"
+    },
+    {
+      "id": "167c6af51f72bca3856abed6",
+      "title": "Tunisia sack head coach just one game into World Cup",
+      "summary": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
+      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-16T06:43:19+00:00"
     },
     {
       "id": "65e2f149d575853bd286e980",
@@ -123,6 +310,17 @@
       "publishedAt": "2026-06-16T01:34:03+00:00"
     },
     {
+      "id": "e56f09f56ed68f092a5a6617",
+      "title": "Blox Fruits Codes (June 2026)",
+      "summary": "The full list of new and working Blox Fruits codes that you can redeem for free rewards.",
+      "url": "https://www.ign.com/articles/blox-fruits-codes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-16T01:00:00+00:00"
+    },
+    {
       "id": "1e0452ff257273733dc3ff84",
       "title": "Grab an Alienware RTX 5080 Gaming PC With 32GB of RAM and 2TB SSD for $2,579 Before It Sells Out",
       "summary": "Dell Outlet include the same 1 year warranty as buying brand new from Dell.com.",
@@ -211,8 +409,8 @@
       "publishedAt": "2026-06-15T23:40:31+00:00"
     },
     {
-      "id": "66c51f92683c237d9282ed50",
-      "title": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
+      "id": "87a9dc4a211c08c96815942f",
+      "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
       "summary": "There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170.",
       "url": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -332,94 +530,6 @@
       "publishedAt": "2026-06-15T22:30:00+00:00"
     },
     {
-      "id": "c3473fe0065dcd31b5e07026",
-      "title": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
-      "summary": "Video assistant referee Shaun Evans has denied \"intentionally\" making a hand gesture \"to communicate a message, affiliation, game or belief of any kind\" and claimed it was a \"an involuntary, subconscious twitch\" that he was \"unaware\" of.",
-      "url": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-15T22:29:29+00:00"
-    },
-    {
-      "id": "00fa5de854521bd646b9f126",
-      "title": "The Tiny Firebat A6 Ryzen 7 7735HS Mini PC Is a Complete Windows 11 System for Under $300",
-      "summary": "A complete kit preinstalled with the Radeon 680M iGPU, 16GB of DDR5 RAM, 512GB SSD, and Windows 11",
-      "url": "https://www.ign.com/articles/firebat-a6-mini-pc-deal-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-15T21:50:00+00:00"
-    },
-    {
-      "id": "b703ec19d4afd858ff8af60d",
-      "title": "The Baseus 20,000mAh 100W Power Bank With Dual USB-C Cables Drops to Just $38.99",
-      "summary": "High capacity and high output at an affordable price.",
-      "url": "https://www.ign.com/articles/baseus-20000mah-100w-power-bank-deal-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-15T21:20:00+00:00"
-    },
-    {
-      "id": "ca10867c962d9c65153bd8ab",
-      "title": "The Lord of the Rings: The Hunt for Gollum Adds Anya Taylor-Joy to Its Cast",
-      "summary": "The Queen's Gambit star Anya Taylor-Joy has joined the cast of The Lord of the Rings: The Hunt for Gollum as a new elf character named Seren.",
-      "url": "https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-adds-anya-taylor-joy-to-cast",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-15T20:59:37+00:00"
-    },
-    {
-      "id": "7352816e892bc26e821545b1",
-      "title": "Treyarch Head Mark Gordon Steps Down from Call of Duty Studio",
-      "summary": "Treyarch studio head Mark Gordon will be leaving the studio after 22 years.",
-      "url": "https://www.ign.com/articles/treyarch-head-mark-gordon-steps-down-from-call-of-duty-studio",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-15T20:49:55+00:00"
-    },
-    {
-      "id": "7be5f271563f37849377fd63",
-      "title": "Ninja Theory and Double Fine Also Reportedly Under Threat of Closure as Xbox Studios Fight for Survival",
-      "summary": "Hellblade developer Ninja Theory and Psychonauts developer Double Fine are reportedly among the studios fighting to avoid closure as Microsoft makes significant cuts to its Xbox business.",
-      "url": "https://www.ign.com/articles/ninja-theory-and-double-fine-also-reportedly-under-threat-of-closure-as-xbox-studios-fight-for-survival",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-15T20:45:13+00:00"
-    },
-    {
-      "id": "d1f795d42e0a6d3eae915d81",
-      "title": "Meccha Chameleon, the New Hide-and-Seek Paint Game, Reaches 2 Million Copies Sold",
-      "summary": "Viral hide-and-seek paint game Meccha Chameleon is celebrating 2 million copies sold with the launch of a new map later this week.",
-      "url": "https://www.ign.com/articles/meccha-chameleon-the-new-hide-and-seek-paint-game-reaches-2-million-copies-sold",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-15T20:44:23+00:00"
-    },
-    {
-      "id": "e3ea2ea3ce36dcfd96230810",
-      "title": "The LEGO Leonardo da Vinci Flying Machine Set Drops to Its Lowest Price Ever",
-      "summary": "Both Amazon and Target are currently offering the LEGO version of da Vinci's Flying Machine for $39.99, its lowest price ever.",
-      "url": "https://www.ign.com/articles/the-lego-leonardo-da-vinci-flying-machine-set-deal-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-15T20:02:23+00:00"
-    },
-    {
       "id": "69fa169d874824e51aa4dcdf",
       "title": "Social media ban - bold and blunt, but no silver bullet",
       "summary": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
@@ -429,17 +539,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-15T19:48:25+00:00"
-    },
-    {
-      "id": "9de938437a5db45eb5bd1dc0",
-      "title": "Save $950 Off the Powerful Lenovo Legion Pro 7 RTX 5090 Gaming Laptop and Get 007: First Light for Free",
-      "summary": "Equipped with a gorgeous 16\" 2500x1600 240Hz OLED display",
-      "url": "https://www.ign.com/articles/lenovo-legion-pro-7-rtx-5090-gaming-laptop-deal-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-15T19:10:00+00:00"
     },
     {
       "id": "8e0c6aa0fd1cdb080d2fd230",
@@ -508,39 +607,6 @@
       "publishedAt": "2026-06-15T13:50:39+00:00"
     },
     {
-      "id": "4457c4d7940b2b6da2ab51bb",
-      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
-      "summary": "Al-Qaqa Ibn Antar had been attempting to climb its walls without safety equipment when he fell in, local authorities say.",
-      "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-15T13:07:18+00:00"
-    },
-    {
-      "id": "d5bc6afcd0d13e57979e6ef8",
-      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
-      "summary": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
-      "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-15T12:37:27+00:00"
-    },
-    {
-      "id": "6c7721cfa13ac49f5635ecbf",
-      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
-      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-15T12:07:36+00:00"
-    },
-    {
       "id": "1b8deeff7beb4394cd6b8bf8",
       "title": "La justice française saisie contre plusieurs « lookups », moteurs de recherche alimentés par des millions de données personnelles volées",
       "summary": "Plusieurs responsables politiques dénoncent depuis vendredi l’existence de sites permettant de chercher frauduleusement des informations personnelles. Des enquêtes avaient déjà été ouvertes concernant des services de ce type.",
@@ -550,28 +616,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-15T11:56:20+00:00"
-    },
-    {
-      "id": "a5c64a9508c402021bd67b44",
-      "title": "When will social media ban start, and which apps will be affected?",
-      "summary": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
-      "url": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-15T11:09:42+00:00"
-    },
-    {
-      "id": "cbeb6a53a446d9b5865dc920",
-      "title": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
-      "summary": "Northern Ireland's contribution to the World Cup song includes tournaments in Mexico, Spain and Italy.",
-      "url": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-15T10:58:23+00:00"
     },
     {
       "id": "11230693fac706fadcdf966f",
@@ -607,17 +651,6 @@
       "publishedAt": "2026-06-15T08:11:51+00:00"
     },
     {
-      "id": "2da81a0bfe7f304912c467b0",
-      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
-      "summary": "The singer-songwriter is among six people presumed dead in an air crash over Rio de Janeiro on Sunday.",
-      "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-15T06:47:23+00:00"
-    },
-    {
       "id": "0cfcd34d777d7571547b6465",
       "title": "L’IA, locomotive de la Bourse",
       "summary": "Après quelques sueurs froides au sujet d’un possible éclatement de la bulle IA, force est de constater que le secteur de l’intelligence artificielle résiste, pour l’instant, aux pronostics les plus pessimistes.",
@@ -648,51 +681,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-15T03:00:30+00:00"
-    },
-    {
-      "id": "effe3df8f9824aebeea2e6a3",
-      "title": "Unclear if US-Iran agreement will provide respite to Lebanon",
-      "summary": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
-      "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-15T01:37:47+00:00"
-    },
-    {
-      "id": "0d21db4656b616805a2290dd",
-      "title": "Why I sold my business to my staff",
-      "summary": "As more US company owners reach retirement age many are selling up to their employees.",
-      "url": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T23:26:01+00:00"
-    },
-    {
-      "id": "5146888ed1ed2522e3f9f098",
-      "title": "Is the convertible heading into the sunset?",
-      "summary": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
-      "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T23:25:00+00:00"
-    },
-    {
-      "id": "a7fff704fe9007b1b5092f04",
-      "title": "Protesters clash with police ahead of G7 summit in France",
-      "summary": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
-      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-14T19:46:36+00:00"
+      "publishedAt": "2026-06-15T03:00:17+00:00"
     },
     {
       "id": "e67a551752c76074080de461",
@@ -739,17 +728,6 @@
       "publishedAt": "2026-06-14T03:00:11+00:00"
     },
     {
-      "id": "2a4401248ba6a006e72e0a55",
-      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
-      "summary": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
-      "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-13T22:05:24+00:00"
-    },
-    {
       "id": "8b86cdbd94afb6a3a9dbff82",
       "title": "« La guerre de l’IA a commencé » : le blocage du dernier modèle d’Anthropic par les Etats-Unis inquiète en France et en Europe",
       "summary": "La start-up américaine a désactivé son dernier modèle d’IA, Mythos 5, à la demande de Washington. Une décision vue d’Europe comme l’illustration de la puissance américaine sur le secteur et de la volonté de contrôle de l’administration Trump.",
@@ -794,17 +772,6 @@
       "publishedAt": "2026-06-13T02:13:56+00:00"
     },
     {
-      "id": "7002c2973ab074d01e0d21d0",
-      "title": "Le rôle « déterminant » d’Elon Musk dans l’amplification des discours xénophobes liés aux émeutes à Belfast",
-      "summary": "« En tant que propriétaire de X et utilisateur le plus suivi, [Elon] Musk dispose d’un pouvoir sans équivalent pour façonner ce que voient les internautes », relèvent les chercheurs de l’ONG Center for Countering Digital Hate. Le milliardaire avait appelé ses abonnés à protester et reposté des messages de leaders d’extrême droite.",
-      "url": "https://www.lemonde.fr/international/article/2026/06/13/le-role-determinant-d-elon-musk-dans-l-amplification-des-discours-xenophobes-lies-aux-emeutes-a-belfast_6701202_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-13T01:45:41+00:00"
-    },
-    {
       "id": "fbd9a3d4d89ab065985324cd",
       "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
       "summary": "The BBC breaks down how the tech mogul's fortune has grown.",
@@ -816,17 +783,6 @@
       "publishedAt": "2026-06-12T23:05:39+00:00"
     },
     {
-      "id": "34221f5f9a73d8ee07342211",
-      "title": "Le fondateur de FTX, Sam Bankman-Fried, voit sa peine de vingt-cinq ans de prison confirmée en appel",
-      "summary": "Agé de 34 ans et actuellement en détention, celui qui a longtemps été considéré comme un petit génie des cryptomonnaies a été reconnu coupable de fraude, d’association de malfaiteurs et de blanchiment d’argent.",
-      "url": "https://www.lemonde.fr/international/article/2026/06/12/le-fondateur-de-ftx-sam-bankman-fried-voit-sa-peine-de-vingt-cinq-ans-de-prison-confirmee-en-appel_6701147_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-12T17:10:07+00:00"
-    },
-    {
       "id": "0be2589c265327389e5df459",
       "title": "Who is Elon Musk and what is his net worth?",
       "summary": "The boss of X, Tesla and SpaceX, already the world's richest person, is now also its first trillionaire.",
@@ -836,17 +792,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-12T16:44:29+00:00"
-    },
-    {
-      "id": "8c175a169772a8be0accd340",
-      "title": "Derrière l’opération d’ingérence contre LFI lors des municipales, un insaisissable commanditaire",
-      "summary": "Les autorités françaises ont publié des informations accréditant l’implication d’une officine israélienne, Blackcore. Selon les informations du « Monde », d’autres sociétés pourraient avoir joué un rôle. Un maquis de sous-traitants qui complique l’identification du donneur d’ordres.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/12/derriere-l-operation-d-ingerence-contre-lfi-lors-des-municipales-un-insaisissable-commanditaire_6701119_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-12T14:30:08+00:00"
     },
     {
       "id": "a9c20b680129421fff4a5e77",
