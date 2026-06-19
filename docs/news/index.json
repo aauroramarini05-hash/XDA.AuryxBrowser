@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-06-19T08:59:24.411029+00:00",
+  "updatedAt": "2026-06-19T12:49:32.490292+00:00",
   "items": [
+    {
+      "id": "1a37b9b3492c390a8d181be1",
+      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+      "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
+      "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-19T12:45:06+00:00"
+    },
+    {
+      "id": "ee04931970ad79aa70950dea",
+      "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+      "summary": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
+      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-19T12:07:32+00:00"
+    },
+    {
+      "id": "b9b7abdf96b924de838e8a4b",
+      "title": "Sony Ditches Mention of PC Releases From Business Strategy Document, as PlayStation's Single-Player Games Now Expected to Be Fully Exclusive",
+      "summary": "Analysis of a new PlayStation business document has highlighted an official change to Sony's multiplatform release strategy, with PC no longer described as part of the company's first-party launch focus.",
+      "url": "https://www.ign.com/articles/sony-ditches-mention-of-pc-releases-from-business-strategy-document-as-playstations-single-player-games-now-expected-to-be-fully-exclusive",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-19T11:24:28+00:00"
+    },
+    {
+      "id": "ec72a8c1da391eb1b76ca7aa",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
+      "url": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-19T11:21:09+00:00"
+    },
+    {
+      "id": "7ee691e1a3942e6072bb552f",
+      "title": "Tom Holland Tries to Avoid Spoiling if Spider-Man is in Avengers: Doomsday or Secret Wars — and Essentially Confirms He Is",
+      "summary": "Spider-Man star Tom Holland has been asked about his involvement in Avengers: Doomsday and Avengers: Secret Wars — and suggested he will be involved at some point.",
+      "url": "https://www.ign.com/articles/tom-holland-tries-to-avoid-spoiling-if-spider-man-is-in-avengers-doomsday-or-secret-wars-and-essentially-confirms-he-is",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-19T10:42:11+00:00"
+    },
+    {
+      "id": "281d8d6257f6a58f9399c75e",
+      "title": "Obama moved to tears by wife Michelle's speech",
+      "summary": "The couple were opening a site in Chicago, which the former president described as a \"celebration of community\".",
+      "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-19T10:35:08+00:00"
+    },
+    {
+      "id": "3925e8c9dd343e1566192b0f",
+      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
+      "summary": "India's largest telecom operator is expected to raise around $4bn (£3.02bn), according to media reports.",
+      "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-19T10:13:41+00:00"
+    },
+    {
+      "id": "5ca1d9f0d035f13b7e5ed5f0",
+      "title": "Darth Maul Voice Actor Slams Star Wars: The Phantom Menace as 'The Biggest Disappointment of My Life' and Says His Pay Was 'S***'",
+      "summary": "Peter Serafinowicz, the voice of Darth Maul in Star Wars: The Phantom Menace, has branded George Lucas' divisive first prequel movie as \"the biggest disappointment\" of his life.",
+      "url": "https://www.ign.com/articles/darth-maul-voice-actor-slams-star-wars-the-phantom-menace-as-the-biggest-disappointment-of-my-life-and-says-his-pay-was-s",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-19T09:58:07+00:00"
+    },
+    {
+      "id": "678ad384590a46d1b1dc47e1",
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-19T09:43:30+00:00"
+    },
+    {
+      "id": "104f6285d20c04518d2e86c6",
+      "title": "US-Iran talks in Switzerland postponed as fighting in Lebanon intensifies",
+      "summary": "The White House says Vice-President JD Vance will not travel to Switzerland on Friday for a new round of direct talks with Iran.",
+      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-19T09:38:44+00:00"
+    },
+    {
+      "id": "d1e5a9ff9de83be7b328d0ec",
+      "title": "Fallout Season 3 Adds Star Wars and The Good Place Star Manny Jacinto",
+      "summary": "The next season of Prime Video's hit Fallout TV series will add Star Wars: The Acolyte's Manny Jacinto to its cast.",
+      "url": "https://www.ign.com/articles/fallout-season-3-adds-star-wars-and-the-good-place-star-manny-jacinto",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-19T09:00:13+00:00"
+    },
     {
       "id": "d5fc26fece148ffc33657213",
       "title": "Zimbabwe MPs pass bill to extend president's time in power",
@@ -11,17 +132,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-19T08:03:32+00:00"
-    },
-    {
-      "id": "31c15b5e304ed73cd4f65385",
-      "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
-      "summary": "Eighteen people and four IDF soldiers are also killed in clashes in Lebanon, officials say, despite a truce meant to be in place in the country.",
-      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-19T07:38:16+00:00"
     },
     {
       "id": "c629036a11d713c94d912b2b",
@@ -90,17 +200,6 @@
       "publishedAt": "2026-06-19T02:15:05+00:00"
     },
     {
-      "id": "f49bdd31c4a192a6948d5521",
-      "title": "Obamas host star-studded opening of Chicago presidential centre",
-      "summary": "George W Bush, Bill Clinton and Joe Biden attended, but Donald Trump was not invited.",
-      "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-19T00:01:27+00:00"
-    },
-    {
       "id": "3924c9366a643fcfc956d6fd",
       "title": "New Queer Movies I'm Watching In Theaters This Weekend",
       "summary": "It's a new Barbenheimer-type matchup for LGBTQIA+ folks this weekend!",
@@ -165,17 +264,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-18T21:50:00+00:00"
-    },
-    {
-      "id": "678ad384590a46d1b1dc47e1",
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T21:47:25+00:00"
     },
     {
       "id": "240783d58c7f71847374c214",
@@ -288,50 +376,6 @@
       "publishedAt": "2026-06-18T20:00:00+00:00"
     },
     {
-      "id": "d76d025c461ce9cef97b9e34",
-      "title": "Marvel Comics Unveils First-Look Preview of Amazing Spider-Man #1000",
-      "summary": "The Amazing Spider-Man is about to become the first Marvel series to reach 1000 issues, and Marvel is teasing this massive book with a gorgeous lineup of artwork.",
-      "url": "https://www.ign.com/articles/marvel-amazing-spider-man-1000-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-18T19:12:54+00:00"
-    },
-    {
-      "id": "f1e3d43bd7832bb336078cf1",
-      "title": "The Top-Tier Skytech Gaming PC With AMD Ryzen 9 9950X3D CPU and 5090 GPU Drops Below $5,000",
-      "summary": "It's also equipped with 64GB of DDR5-6000MHz RAM and a generous 4TB SSD.",
-      "url": "https://www.ign.com/articles/skytech-rtx-5090-gaming-pc-early-amazon-prime-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-18T19:10:00+00:00"
-    },
-    {
-      "id": "a7ed0d731a8d0623549e18fd",
-      "title": "Save 62% the Wolfbox 4,000A Cordless Jump Starter, Tire Inflator, and 24,000mAh Power Bank in One",
-      "summary": "A super practical gift for dad that can be delivered before Father's Day for Amazon Prime members",
-      "url": "https://www.ign.com/articles/wolfbox-air-cordless-car-jump-starter-tire-inflator-deal-amazon-fathers-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-18T18:55:00+00:00"
-    },
-    {
-      "id": "788c47361ac8eb743527d6a1",
-      "title": "Assassin’s Creed Black Flag Resynced: Here’s What the Remake Looks (and Plays) Like Compared to the Original – IGN First",
-      "summary": "After playing through a few missions of Assassin's Creed Black Flag Resynced recently, I now have a better understanding of what to expect from this ambitious remake, which included narrative additions, new options for carrying out my assassinations, and other bits and baubles along the way that have increased my interest in replaying through Kenwa",
-      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-heres-what-the-remake-looks-and-plays-like-compared-to-the-original-ign-first",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-18T18:44:40+00:00"
-    },
-    {
       "id": "6c21acf95b80b387dd95f009",
       "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
       "summary": "The boy was 13 when he killed eight girls, a boy and a school guard at Vladislav Ribnikar school in Belgrade in 2023.",
@@ -378,7 +422,7 @@
     {
       "id": "70b05d62557ea1a7d4393092",
       "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-      "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+      "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones were launched towards an area to the south-east of the Russian capital.",
       "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -640,17 +684,6 @@
       "publishedAt": "2026-06-17T22:36:13+00:00"
     },
     {
-      "id": "2e677c6b20b3679715ffc05f",
-      "title": "UN experts demand Iranians free Foremans",
-      "summary": "They said proceedings against Lindsay and Craig Foreman had been marked by grave irregularities.",
-      "url": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-17T19:21:36+00:00"
-    },
-    {
       "id": "bf7010005916d5bc6df6b796",
       "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
       "summary": "In fiery exchange, judge sentenced him to three life sentences plus 25 years to life on four other charges, all running consecutively.",
@@ -759,17 +792,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-17T10:30:23+00:00"
-    },
-    {
-      "id": "ec5ee8a88aa1004234f7cf49",
-      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
-      "summary": "Crown Princess Mette-Marit, who suffered from pulmonary fibrosis, will now spend several weeks recovering in hospital.",
-      "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-17T10:15:08+00:00"
     },
     {
       "id": "9e01aa4d04fb127d80d93596",
@@ -1012,28 +1034,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-12T23:05:39+00:00"
-    },
-    {
-      "id": "0be2589c265327389e5df459",
-      "title": "Who is Elon Musk and what is his net worth?",
-      "summary": "The boss of X, Tesla and SpaceX, already the world's richest person, is now also its first trillionaire.",
-      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-12T16:44:29+00:00"
-    },
-    {
-      "id": "a9c20b680129421fff4a5e77",
-      "title": "Social media on trial: Four important cases to watch",
-      "summary": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
-      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-11T05:02:29+00:00"
     },
     {
       "id": "22ab6e16798f9c3061a49ae8",
