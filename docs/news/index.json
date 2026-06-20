@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-06-20T00:01:30.294136+00:00",
+  "updatedAt": "2026-06-20T05:04:29.153630+00:00",
   "items": [
+    {
+      "id": "6ee89cf521e7eddf6b4606c5",
+      "title": "Comment l’essor inédit des compétences de l’IA inquiète autant qu’il enthousiasme le monde de la cybersécurité",
+      "summary": "Même si Mythos, le dernier modèle d’IA d’Anthropic, s’avère extrêmement puissant pour détecter les vulnérabilités dans les logiciels, nombre d’experts y voient, plutôt qu’un danger, un moyen de résoudre une des problématiques majeures de la cybersécurité.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/20/comment-l-essor-inedit-des-competences-de-l-ia-inquiete-autant-qu-il-enthousiasme-le-monde-de-la-cybersecurite_6705262_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-20T03:45:03+00:00"
+    },
+    {
+      "id": "b19055e1c0d1fe44cdbd1b66",
+      "title": "Fanny Rebillard, musicologue : « La musique de jeu vidéo a très tôt fait l’objet d’une appropriation collective “par le bas” »",
+      "summary": "La cocommissaire de l’exposition « Video Games & Music », à la Philharmonie de Paris, décrit, dans un entretien au « Monde », la spécificité de ce genre musical, par essence « conditionné par l’action des joueurs et des joueuses ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/20/fanny-rebillard-musicologue-la-musique-de-jeu-video-a-tres-tot-fait-l-objet-d-une-appropriation-collective-par-le-bas_6705257_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-20T03:30:05+00:00"
+    },
+    {
+      "id": "5645b8f59ddf7086a30062ca",
+      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
+      "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
+      "url": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T03:13:18+00:00"
+    },
+    {
+      "id": "1a868c1da82016a3b2b1d3fe",
+      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+      "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
+      "url": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T03:12:47+00:00"
+    },
+    {
+      "id": "1f620cb2f9f07d5c1d22317b",
+      "title": "Présidentielle 2027, le grand contournement : quand les candidats préfèrent se passer des journalistes",
+      "summary": "Le développement des réseaux sociaux et des plateformes numériques offre aux candidats à l’Elysée de nouveaux canaux de communication pour s’adresser aux Français. Au détriment des médias, qui doivent davantage se soumettre aux conditions des politiques.",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/20/presidentielle-2027-le-grand-contournement-quand-les-candidats-preferent-se-passer-des-journalistes_6705223_823448.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-20T03:00:15+00:00"
+    },
+    {
+      "id": "b7513161735f88555664e423",
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
+      "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T02:33:30+00:00"
+    },
+    {
+      "id": "43a9bea5643f0b1e09147456",
+      "title": "New video game console aims to get kids moving",
+      "summary": "The cube-shaped console will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
+      "url": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-20T01:10:51+00:00"
+    },
+    {
+      "id": "0ab73696ba7ab313208ec582",
+      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
+      "summary": "Best-known as co-creator of sitcom Cheers, Burrows directed more than 1,000 episodes of other classics including the Big Bang Theory and Will and Grace.",
+      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T00:23:46+00:00"
+    },
     {
       "id": "539a99631e1c7cd783248083",
       "title": "US to stop funding HIV programmes in South Africa",
@@ -618,17 +706,6 @@
       "publishedAt": "2026-06-18T14:06:48+00:00"
     },
     {
-      "id": "2cc7441b80c928c3dcbf820c",
-      "title": "Apple to raise prices as AI boom pushes up chip costs",
-      "summary": "The firm's outgoing boss Tim Cook did not say when prices would rise or which products would be affected.",
-      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T14:03:27+00:00"
-    },
-    {
       "id": "cc709fc8c1c9fdb15b8388b5",
       "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
       "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
@@ -673,17 +750,6 @@
       "publishedAt": "2026-06-18T10:52:38+00:00"
     },
     {
-      "id": "16e68e7a1f5f2472d3476147",
-      "title": "Lawyer in high-profile Ugandan treason case charged with related offence",
-      "summary": "Uganda's military chief had boasted of \"the hurt and pain\" he would inflict on Erias Lukwago, who was arrested earlier this week.",
-      "url": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T09:35:29+00:00"
-    },
-    {
       "id": "97cb3a5a45a98d42bd473733",
       "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
       "summary": "The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.",
@@ -715,17 +781,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-18T06:47:34+00:00"
-    },
-    {
-      "id": "d638a238e4f2c4aa59510741",
-      "title": "Bird flu kills more than 75% of baby seals on remote Australian island, study finds",
-      "summary": "Scientists say 13,000 southern elephant seal pups on Heard Island have died of the H5N1 strain.",
-      "url": "https://www.bbc.com/news/articles/cr5jdy92gyeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T03:20:52+00:00"
     },
     {
       "id": "319d4ab3ffe32c9b471dc88e",
@@ -781,17 +836,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-17T23:02:05+00:00"
-    },
-    {
-      "id": "2850962acafb4520ec103921",
-      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-      "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
-      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-17T22:36:13+00:00"
     },
     {
       "id": "ad73a2885c022bd9e5582cd9",
@@ -926,39 +970,6 @@
       "publishedAt": "2026-06-17T04:20:09+00:00"
     },
     {
-      "id": "5bb1a75a3300aa0ff1df05b4",
-      "title": "Des mathématiciens lancent un appel pour reprendre la main sur l’IA",
-      "summary": "La déclaration dite « de Leyde », signée par plus de 2 300 professionnels, rappelle les valeurs de leur discipline. Elle identifie cinq menaces, notamment sur l’autonomie et le processus d’évaluation.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/17/des-mathematiciens-lancent-un-appel-pour-reprendre-la-main-sur-l-ia_6704159_1650684.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-17T04:00:12+00:00"
-    },
-    {
-      "id": "2105e86751319cf686e4322d",
-      "title": "Grok, l’IA d’Elon Musk, a servi dans les frappes en Iran, révèle le Pentagone",
-      "summary": "Un modèle dérivé, le Grok Gov Model, est utilisé dans un programme de ciblage assisté par intelligence artificielle de l’armée américaine, selon le ministère de la défense.",
-      "url": "https://www.lemonde.fr/international/article/2026/06/17/grok-l-ia-d-elon-musk-a-servi-dans-les-frappes-en-iran-revele-le-pentagone_6704083_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-17T02:12:07+00:00"
-    },
-    {
-      "id": "87ec9f859e3859de7d09b6fd",
-      "title": "Droits voisins : le Sénat renforce le cadre permettant la rémunération de la presse par les plateformes numériques",
-      "summary": "Ces droits permettent aux journaux, magazines ou agences de presse de se faire payer lorsque leurs contenus sont utilisés par les géants du numérique qui captent la majorité des recettes publicitaires. Le vote du Sénat, qui succède à celui de l’Assemblée nationale, permet de mieux gérer cette rémunération.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/17/droits-voisins-le-senat-renforce-le-cadre-de-remuneration-de-la-presse-par-les-plateformes-numeriques_6704050_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-17T01:50:13+00:00"
-    },
-    {
       "id": "7d8282ac59d307b07b5d4883",
       "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
       "summary": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
@@ -1045,17 +1056,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-15T17:10:03+00:00"
-    },
-    {
-      "id": "fbd9a3d4d89ab065985324cd",
-      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "summary": "The BBC breaks down how the tech mogul's fortune has grown.",
-      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-12T23:05:39+00:00"
     },
     {
       "id": "22ab6e16798f9c3061a49ae8",
