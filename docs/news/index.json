@@ -1,9 +1,64 @@
 {
-  "updatedAt": "2026-06-20T11:08:52.972300+00:00",
+  "updatedAt": "2026-06-20T13:30:15.340771+00:00",
   "items": [
     {
-      "id": "e22d142deaadbd2a9c396632",
-      "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "id": "38a4298eee5fd12e3b03b4e7",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T13:23:40+00:00"
+    },
+    {
+      "id": "44836ee8ce46e06a5a57c396",
+      "title": "The 5 Coolest Handheld Gaming PC Accessories You Can Get This Month",
+      "summary": "From XR glasses to supercharged gaming docks, you don't want to miss out on these cool peripherals.",
+      "url": "https://www.ign.com/articles/the-5-coolest-handheld-gaming-pc-accessories-you-can-get-this-month",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T13:00:00+00:00"
+    },
+    {
+      "id": "c68a9ac99ffc6375a0367d24",
+      "title": "Claude Guillemot, cofondateur d’Ubisoft, est mort dans un crash d’avion à La Baule selon le géant français des jeux vidéo",
+      "summary": "L’homme de 69 ans était à bord d’un petit avion bimoteur qui s’est écrasé dans un champ près de l’aérodrome de La Baule, vendredi, faisant deux morts.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/06/20/claude-guillemot-cofondateur-d-ubisoft-est-mort-dans-un-crash-d-avion-a-la-baule-selon-le-geant-francais-des-jeux-video_6705306_3382.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-20T12:59:19+00:00"
+    },
+    {
+      "id": "c53b697112adac07af273d4e",
+      "title": "Lost Art: How CG Killed Hand-Drawn Animation at Disney",
+      "summary": "While blockbuster CG-animated films like Toy Story 5 dominate the big screen today, let's take a look back at how hand-drawn animation succumbed to this new form.",
+      "url": "https://www.ign.com/articles/lost-art-how-cg-killed-hand-drawn-animation-at-disney",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T12:00:00+00:00"
+    },
+    {
+      "id": "94bdd2dd828f7e2b50238a22",
+      "title": "What Xbox Games Are Being Cancelled?",
+      "summary": "Xbox is in the process of a reset, with multiple studios reportedly in danger of closure. What does this mean for the games they're making? We look at which Xbox games could be cancelled, and which are safe.",
+      "url": "https://www.ign.com/articles/what-xbox-games-are-being-cancelled",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T12:00:00+00:00"
+    },
+    {
+      "id": "5c7e1212799e71f81406723d",
+      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
       "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
       "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -11,17 +66,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-20T10:19:34+00:00"
-    },
-    {
-      "id": "9f5fcc9d18350c4c0e5eb136",
-      "title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
-      "summary": "The IDF said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in southern Lebanon.",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-20T08:53:53+00:00"
     },
     {
       "id": "2d8777ce8112ea2e9a3337d7",
@@ -43,11 +87,11 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-20T06:30:07+00:00"
+      "publishedAt": "2026-06-20T06:30:05+00:00"
     },
     {
-      "id": "6ee89cf521e7eddf6b4606c5",
-      "title": "Comment l’essor inédit des compétences de l’IA inquiète autant qu’il enthousiasme le monde de la cybersécurité",
+      "id": "45ba4a3149bec28afe471b82",
+      "title": "Pourquoi la puissance inédite de l’IA inquiète autant qu’elle enthousiasme le monde de la cybersécurité",
       "summary": "Même si Mythos, le dernier modèle d’IA d’Anthropic, s’avère extrêmement puissant pour détecter les vulnérabilités dans les logiciels, nombre d’experts y voient, plutôt qu’un danger, un moyen de résoudre une des problématiques majeures de la cybersécurité.",
       "url": "https://www.lemonde.fr/pixels/article/2026/06/20/comment-l-essor-inedit-des-competences-de-l-ia-inquiete-autant-qu-il-enthousiasme-le-monde-de-la-cybersecurite_6705262_4408996.html",
       "imageUrl": null,
@@ -396,39 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-19T17:30:24+00:00"
-    },
-    {
-      "id": "d56847253f3940fb688a8a8c",
-      "title": "The Complete Calvin and Hobbes Hardcover Book Set Is Already on Sale Ahead of Amazon Prime Day",
-      "summary": "The most comprehensive Calvin and Hobbes collection",
-      "url": "https://www.ign.com/articles/complete-calvin-and-hobbes-hardcover-book-deal-amazon-fathers-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T17:30:00+00:00"
-    },
-    {
-      "id": "0c0e50835dcf96a661ce8965",
-      "title": "The Popular Flashforge Adventurer 5M 3D Printer Drops to the Lowest Price of the Year, Now Just $133",
-      "summary": "This is the best price I've ever seen for a reliable and very moddable 3D printer.",
-      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-june-2026-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T17:30:00+00:00"
-    },
-    {
-      "id": "9c6de9768595e899bdf4f05f",
-      "title": "The Amazon June Audible Deal Just Got Better Ahead of Prime Day: Pay $1 Per Month Plus $20 Audible Credit",
-      "summary": "Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.",
-      "url": "https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T17:25:00+00:00"
     },
     {
       "id": "006744e63d659d65281eca0e",
@@ -979,17 +990,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-17T09:44:50+00:00"
-    },
-    {
-      "id": "12542606f4ad833605b610e1",
-      "title": "L’IA au menu du G7 avant un dîner Trump-Macron sous les ors de Versailles",
-      "summary": "Les pays du G7 aborderont aujourd’hui l’épineuse question de la taxation du numérique et de la régulation du secteur. La France a invité plusieurs « leaders de la tech mondiale », dont les Américains Sam Altman et Dario Amodei ou encore le Français Arthur Mensch.",
-      "url": "https://www.lemonde.fr/international/article/2026/06/17/l-ia-au-menu-du-g7-avant-un-diner-trump-macron-sous-les-ors-de-versailles_6704172_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-17T06:04:51+00:00"
     },
     {
       "id": "7d8282ac59d307b07b5d4883",
