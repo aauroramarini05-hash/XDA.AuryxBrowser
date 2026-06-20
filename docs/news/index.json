@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-06-20T05:04:29.153630+00:00",
+  "updatedAt": "2026-06-20T08:41:39.290600+00:00",
   "items": [
+    {
+      "id": "51173d72e664ac5871604ead",
+      "title": "Les entreprises face au bond spectaculaire de leur facture d’IA : « On sort de l’ère du repas gratuit »",
+      "summary": "Pour assurer une diffusion rapide de l’intelligence artificielle et gagner des parts de marché, les fabricants ont jusqu’ici « subventionné » l’utilisation de cette technologie. Maintenant que la demande explose, ils font évoluer leur mode de facturation, entraînant une envolée des coûts chez leurs clients.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/20/les-entreprises-face-au-bond-spectaculaire-de-leur-facture-d-ia-on-sort-de-l-ere-du-repas-gratuit_6705279_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-20T06:30:07+00:00"
+    },
     {
       "id": "6ee89cf521e7eddf6b4606c5",
       "title": "Comment l’essor inédit des compétences de l’IA inquiète autant qu’il enthousiasme le monde de la cybersécurité",
@@ -959,17 +970,6 @@
       "publishedAt": "2026-06-17T06:04:51+00:00"
     },
     {
-      "id": "249b6994d7e7c61eec9b6bca",
-      "title": "ChapsVision, société française, remplace Palantir à la DGSI, un choix de souveraineté au long cours et complexe",
-      "summary": "Utilisé depuis les attentats de 2015, le logiciel d’analyse de données de la société américaine controversée doit progressivement laisser la place à celui de l’éditeur français. Une décision espérée de longue date, mais aussi, un défi technologique.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/17/renseignement-le-remplacement-de-palantir-par-le-francais-chapsvision-a-la-dgsi-un-choix-de-souverainete-au-long-cours-et-complexe_6704166_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-17T04:20:09+00:00"
-    },
-    {
       "id": "7d8282ac59d307b07b5d4883",
       "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
       "summary": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
@@ -981,10 +981,10 @@
       "publishedAt": "2026-06-16T22:01:34+00:00"
     },
     {
-      "id": "2bb4264ea4310312df95884e",
+      "id": "dd9b2d88b9de92c1c3bb4dce",
       "title": "Tech Life",
       "summary": "The prompt that made ChatGPT generate disturbing images. What does this tell us about AI?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
