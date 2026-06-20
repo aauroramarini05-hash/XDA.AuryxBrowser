@@ -1,16 +1,170 @@
 {
-  "updatedAt": "2026-06-20T21:05:24.390613+00:00",
+  "updatedAt": "2026-06-20T22:58:47.372028+00:00",
   "items": [
     {
-      "id": "cb4b7ff32be859b285791fd6",
-      "title": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
-      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "id": "55de88081cd8d9a6a3e126a8",
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T21:57:36+00:00"
+    },
+    {
+      "id": "fd8c1582e1eb33dfdfb2e35f",
+      "title": "Epic Games Store Roadmap Promises 5x Faster Boot Times, User Reviews, and More",
+      "summary": "The Epic Games Store will soon receive many long-requested features and a major launcher redesign if a newly revealed roadmap pans out accordingly.",
+      "url": "https://www.ign.com/articles/epic-games-store-roadmap-promises-5x-faster-boot-times-user-reviews-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:38:14+00:00"
+    },
+    {
+      "id": "2fdb0b92d023c526c40b5ccf",
+      "title": "The GTPLAYER Big and Tall Gaming Chair Drops to Less Than $160 Ahead of Amazon Prime Day",
+      "summary": "This is an awesome gift for big and tall dads, as long as he's okay with slightly belated delivery.",
+      "url": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:30:00+00:00"
+    },
+    {
+      "id": "1e2287f0a29767d3b988b964",
+      "title": "Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day",
+      "summary": "There's no better time to upgrade your 3D printer obsession.",
+      "url": "https://www.ign.com/articles/bambu-lab-3d-printer-deals-best-buy-prime-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "id": "fe8858fdc00a1bba9ef8e245",
+      "title": "Save 50% Off a 12-Month Walmart+ Membership for Prime Day and Stream the 2026 FIFA World Cup",
+      "summary": "First dibs on Walmart's best deals, free shipping and free returns, Paramount+, and more",
+      "url": "https://www.ign.com/articles/walmart-plus-membership-prime-day-deal-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "id": "a7ed0d731a8d0623549e18fd",
+      "title": "Save 62% the Wolfbox 4,000A Cordless Jump Starter, Tire Inflator, and 24,000mAh Power Bank in One",
+      "summary": "A super practical gift for dad that can be delivered before Father's Day for Amazon Prime members",
+      "url": "https://www.ign.com/articles/wolfbox-air-cordless-car-jump-starter-tire-inflator-deal-amazon-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "id": "79acf4de29b6aea111aa0eb4",
+      "title": "Save $800 Off a Brand New Asus ROG Flow Z13 Ultra-Portable Gaming Laptop at Best Buy",
+      "summary": "This tiny 2.65lb convertible with 64GB of RAM is more powerful than many full-sized gaming laptops.",
+      "url": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-best-buy-new-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "id": "9c6de9768595e899bdf4f05f",
+      "title": "The Amazon June Audible Deal Just Got Better Ahead of Prime Day: Pay $1 Per Month Plus $20 Audible Credit",
+      "summary": "Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.",
+      "url": "https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "id": "d56847253f3940fb688a8a8c",
+      "title": "The Complete Calvin and Hobbes Hardcover Book Set Is Already on Sale Ahead of Amazon Prime Day",
+      "summary": "The most comprehensive Calvin and Hobbes collection",
+      "url": "https://www.ign.com/articles/complete-calvin-and-hobbes-hardcover-book-deal-amazon-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "id": "0c0e50835dcf96a661ce8965",
+      "title": "The Popular Flashforge Adventurer 5M 3D Printer Drops to the Lowest Price of the Year, Now Just $133",
+      "summary": "This is the best price I've ever seen for a reliable and very moddable 3D printer.",
+      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-june-2026-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "id": "bdbf6805847a625e0031b2d2",
+      "title": "The Rugged, Waterproof DJI Osmo Action 4 4K 120fps Action Camera Drops to $169",
+      "summary": "Comparable to the GoPro Hero 13 Black at a fraction of the cost",
+      "url": "https://www.ign.com/articles/best-action-camera-deal-in-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "id": "da2e7907023fb0d48069847b",
+      "title": "Beat the Summer Heat With This $8 Portable Turbo Fan",
+      "summary": "Stay frosty.",
+      "url": "https://www.ign.com/articles/portable-fan-deals-amazon-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:20:00+00:00"
+    },
+    {
+      "id": "150daa48ae78a53646f7e2ea",
+      "title": "Save $100 Off a Pair of BowFlex Results Series SelectTech Dumbbells Ahead of Amazon Prime Day",
+      "summary": "There's still time to get it delivered by Father's Day even if you choose free shipping.",
+      "url": "https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:20:00+00:00"
+    },
+    {
+      "id": "6b4cea652614d92278ecf972",
+      "title": "The Jackery Explorer 240D 80,000mAh Power Bank Drops to a New Price Low, Just $102 at AliExpress",
+      "summary": "Miniature power station or super high-capacity power bank?",
+      "url": "https://www.ign.com/articles/jackery-explorer-240d-80000mah-power-bank-deal-june-2026-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T21:20:00+00:00"
+    },
+    {
+      "id": "76930e70039b434b4ba25e0f",
+      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+      "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
       "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-20T20:49:03+00:00"
+      "publishedAt": "2026-06-20T21:11:57+00:00"
     },
     {
       "id": "7558ac90a8a157fa07ec2df1",
@@ -178,28 +332,6 @@
       "publishedAt": "2026-06-20T12:59:19+00:00"
     },
     {
-      "id": "c53b697112adac07af273d4e",
-      "title": "Lost Art: How CG Killed Hand-Drawn Animation at Disney",
-      "summary": "While blockbuster CG-animated films like Toy Story 5 dominate the big screen today, let's take a look back at how hand-drawn animation succumbed to this new form.",
-      "url": "https://www.ign.com/articles/lost-art-how-cg-killed-hand-drawn-animation-at-disney",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-20T12:00:00+00:00"
-    },
-    {
-      "id": "94bdd2dd828f7e2b50238a22",
-      "title": "What Xbox Games Are Being Cancelled?",
-      "summary": "Xbox is in the process of a reset, with multiple studios reportedly in danger of closure. What does this mean for the games they're making? We look at which Xbox games could be cancelled, and which are safe.",
-      "url": "https://www.ign.com/articles/what-xbox-games-are-being-cancelled",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-20T12:00:00+00:00"
-    },
-    {
       "id": "5c7e1212799e71f81406723d",
       "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
       "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
@@ -321,50 +453,6 @@
       "publishedAt": "2026-06-19T23:35:07+00:00"
     },
     {
-      "id": "7cc1cf17c312f53541a11e62",
-      "title": "George Lucas Cast in Minions & Monsters After Revealing Massive Fandom",
-      "summary": "Star Wars creator George Lucas has been cast in Minions & Monsters, and he's already talked to Illumination about appearing in more Minions movies.",
-      "url": "https://www.ign.com/articles/george-lucas-cast-minions-monsters-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T22:30:35+00:00"
-    },
-    {
-      "id": "2d3eb23976f00aa1080d55a9",
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
-      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-19T21:46:07+00:00"
-    },
-    {
-      "id": "9db1e747c4b9cbe9dc97042b",
-      "title": "CD Projekt Red Co-CEO Hopes Witcher 4 Wins Back Players After 'Heartbreaking' Cyberpunk 2077 Launch",
-      "summary": "CD Projekt Red co-CEO Michał Nowakowski thinks the studio has yet to complete a \"full redemption arc\" after the \"heartbreaking\" launch of Cyberpunk 2077, but he's hoping it can win back some fans with The Witcher 4.",
-      "url": "https://www.ign.com/articles/cd-projekt-red-co-ceo-hopes-witcher-4-wins-back-players-after-heartbreaking-cyberpunk-2077-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T21:44:22+00:00"
-    },
-    {
-      "id": "4c9d3301606771ec99dc350e",
-      "title": "Amazon Walks Away from Nearly Complete Sam Altman Movie Just Months After OpenAI Deal",
-      "summary": "Amazon is walking away from Artificial, a nearly complete movie about Sam Altman, just months after striking a deal with ChatGPT company OpenAI.",
-      "url": "https://www.ign.com/articles/amazon-walks-away-from-nearly-complete-sam-altman-movie-just-months-after-openai-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T21:16:04+00:00"
-    },
-    {
       "id": "1a37b9b3492c390a8d181be1",
       "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
       "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
@@ -385,94 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-19T18:47:31+00:00"
-    },
-    {
-      "id": "da2e7907023fb0d48069847b",
-      "title": "Beat the Summer Heat With This $8 Portable Turbo Fan",
-      "summary": "Stay frosty.",
-      "url": "https://www.ign.com/articles/portable-fan-deals-amazon-fathers-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T18:40:00+00:00"
-    },
-    {
-      "id": "150daa48ae78a53646f7e2ea",
-      "title": "Save $100 Off a Pair of BowFlex Results Series SelectTech Dumbbells Ahead of Amazon Prime Day",
-      "summary": "There's still time to get it delivered by Father's Day even if you choose free shipping.",
-      "url": "https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-fathers-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T18:35:00+00:00"
-    },
-    {
-      "id": "fe8858fdc00a1bba9ef8e245",
-      "title": "Save 50% Off a 12-Month Walmart+ Membership for Prime Day and Stream the 2026 FIFA World Cup",
-      "summary": "First dibs on Walmart's best deals, free shipping and free returns, Paramount+, and more",
-      "url": "https://www.ign.com/articles/walmart-plus-membership-prime-day-deal-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T18:35:00+00:00"
-    },
-    {
-      "id": "13eab1ff215af8bee0048ec1",
-      "title": "Save Nearly 60% Off the Logitech G29 Racing Wheel and Pedal Set, Perfect for Forza Horizon 6 on PC",
-      "summary": "Refurbished direct from Logitech with 1 year warranty",
-      "url": "https://www.ign.com/articles/logitech-g29-racing-wheel-and-pedals-deal-for-forza-horizon-6-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T18:35:00+00:00"
-    },
-    {
-      "id": "6b4cea652614d92278ecf972",
-      "title": "The Jackery Explorer 240D 80,000mAh Power Bank Drops to a New Price Low, Just $102 at AliExpress",
-      "summary": "Miniature power station or super high-capacity power bank?",
-      "url": "https://www.ign.com/articles/jackery-explorer-240d-80000mah-power-bank-deal-june-2026-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T18:35:00+00:00"
-    },
-    {
-      "id": "34be6a6fcd2edd3260339fb6",
-      "title": "Nioh 3 for PS5 Has Hit a New Low Price at Amazon Ahead of Prime Day",
-      "summary": "Ahead of its Prime Day sale, Amazon has dropped the price of Nioh 3 for PS5 from $69.99 to $49.99. This marks its lowest price point so far at the retailer.",
-      "url": "https://www.ign.com/articles/nioh-3-for-ps5-has-hit-a-new-low-price-at-amazon-ahead-of-prime-day",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T18:30:00+00:00"
-    },
-    {
-      "id": "e50971a306f565d84c327472",
-      "title": "Today’s Top Deals: GameSir Super Nova Wireless Controller, DoorDash Gift Card, and TMNT: The Ultimate Collection",
-      "summary": "Plus, save on a Walmart+ membership, Nioh 3, last-minute Father’s Day gifts, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-june-19-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T17:55:00+00:00"
-    },
-    {
-      "id": "d7baed8e85233def5d6148d1",
-      "title": "Score Up to 29% Off Dreame Robot Vacuums for Amazon Prime Day",
-      "summary": "Clean smarter, not harder, this summer",
-      "url": "https://www.ign.com/articles/dreame-robot-vacuums-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T17:50:00+00:00"
     },
     {
       "id": "19ce32a1084e828ce08958de",
