@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-06-20T15:28:56.101930+00:00",
+  "updatedAt": "2026-06-20T17:16:32.024634+00:00",
   "items": [
+    {
+      "id": "5e9c20e3bf3581d617e3cf5a",
+      "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
+      "summary": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
+      "url": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T16:37:03+00:00"
+    },
+    {
+      "id": "80dfd13288e198125801b283",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T16:34:15+00:00"
+    },
+    {
+      "id": "44e7c3b557da289537a6193c",
+      "title": "La mort de Claude Guillemot, le discret et diplomate cofondateur d’Ubisoft",
+      "summary": "L’aîné de la fratrie Guillemot, qui avait cofondé le géant français du jeu vidéo avec ses quatre frères en 1986, a péri, vendredi 19 juin, dans un accident d’avion. Il avait 69 ans.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/06/20/la-mort-de-claude-guillemot-le-discret-et-diplomate-cofondateur-d-ubisoft_6705325_3382.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-20T16:28:57+00:00"
+    },
+    {
+      "id": "b8add190b1be369e25acadec",
+      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T16:07:44+00:00"
+    },
+    {
+      "id": "e43f10e5654245305589d5be",
+      "title": "Ubisoft Co-Founder Claude Guillemot Dead at 69 After Plane Crash in France",
+      "summary": "Claude Guillemot, one of five co-founders behind Assassin's Creed publisher Ubisoft, has died in a plane crash.",
+      "url": "https://www.ign.com/articles/ubisoft-co-founder-claude-guillemot-dead-at-69-after-plane-crash-in-france",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-20T15:56:27+00:00"
+    },
+    {
+      "id": "fd0d98b20790807b45124ea4",
+      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
+      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T15:31:12+00:00"
+    },
+    {
+      "id": "876e1309888380fcf23ac80b",
+      "title": "Bolivian president declares state of emergency",
+      "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
+      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T15:27:09+00:00"
+    },
     {
       "id": "b4e6d7af7a669e771e352756",
       "title": "Out of Words Is an Artistic, Handmade Breath of Fresh Air | IGN Preview",
@@ -11,17 +88,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-20T14:30:00+00:00"
-    },
-    {
-      "id": "7d5d8b75ddc067a2ea53b250",
-      "title": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
-      "summary": "Trump said the Italian leader asked \"over and over\" for a picture at G7, after she said the US president \"made-up\" a story that she \"begged\" for a photo.",
-      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-20T14:24:35+00:00"
     },
     {
       "id": "f116b46cf0405d6900434b5d",
@@ -37,7 +103,7 @@
     {
       "id": "38a4298eee5fd12e3b03b4e7",
       "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit Hezbollah targets after the group fired over 50 projectiles at Israeli forces.",
+      "summary": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
       "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -143,17 +209,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-20T03:30:05+00:00"
-    },
-    {
-      "id": "5645b8f59ddf7086a30062ca",
-      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-      "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
-      "url": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-20T03:13:18+00:00"
     },
     {
       "id": "1a868c1da82016a3b2b1d3fe",
@@ -418,17 +473,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-19T17:45:00+00:00"
-    },
-    {
-      "id": "79acf4de29b6aea111aa0eb4",
-      "title": "Save $800 Off a Brand New Asus ROG Flow Z13 Ultra-Portable Gaming Laptop at Best Buy",
-      "summary": "This tiny 2.65lb convertible with 64GB of RAM is more powerful than many full-sized gaming laptops.",
-      "url": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-best-buy-new-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-19T17:40:00+00:00"
     },
     {
       "id": "19ce32a1084e828ce08958de",
@@ -717,17 +761,6 @@
       "publishedAt": "2026-06-18T14:45:11+00:00"
     },
     {
-      "id": "c3fce2dfac0519e425f13de4",
-      "title": "Jury fails to reach verdict in Norwegian 'hitman' trial",
-      "summary": "Johannes Natland, 19, was remanded in custody and will now face a retrial.",
-      "url": "https://www.bbc.com/news/articles/cz6v1qw7d0no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T14:36:33+00:00"
-    },
-    {
       "id": "19adef07a9332c4c5f61a4f1",
       "title": "Weapons, money and ships: How is this Iran deal different from others?",
       "summary": "BBC Verify examines how the new deal between the US and Iran affects three key areas.",
@@ -792,17 +825,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-18T10:52:38+00:00"
-    },
-    {
-      "id": "97cb3a5a45a98d42bd473733",
-      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-      "summary": "The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.",
-      "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T09:26:16+00:00"
     },
     {
       "id": "082ee98249fb76d4aa788d26",
@@ -979,17 +1001,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-17T09:45:06+00:00"
-    },
-    {
-      "id": "3ce8c5a97834b140163c1a33",
-      "title": "Au Royaume-Uni, Palantir Technologies multiplie les contrats et les critiques",
-      "summary": "Le Royaume-Uni est le deuxième marché mondial du groupe américain d’analyse de données. Mais son imbrication croissante avec les services de l’Etat suscite des craintes, notamment quant à la sécurité.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/17/au-royaume-uni-palantir-technologies-multiplie-les-contrats-et-les-critiques_6704198_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-17T09:44:50+00:00"
     },
     {
       "id": "7d8282ac59d307b07b5d4883",
