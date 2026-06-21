@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-06-21T00:07:58.869251+00:00",
+  "updatedAt": "2026-06-21T05:53:31.970296+00:00",
   "items": [
+    {
+      "id": "3dd24c23849fa7531ab5e199",
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-21T04:34:00+00:00"
+    },
+    {
+      "id": "ec4e5decfe42a02466a251b5",
+      "title": "« J’ai la boule au ventre, pas l’énergie mentale de répondre » : quand les messageries deviennent une source d’épuisement",
+      "summary": "WhatsApp, Instagram, Signal… Conçues pour nous rapprocher, les messageries instantanées occupent une place centrale dans nos vies sociales. Face à l’injonction à répondre, la multiplication des groupes et la disponibilité permanente, de plus en plus de jeunes utilisateurs cherchent à lever le pied.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/21/j-ai-la-boule-au-ventre-pas-l-energie-mentale-de-repondre-quand-les-messageries-deviennent-une-source-d-epuisement_6705439_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-21T03:15:06+00:00"
+    },
+    {
+      "id": "946dbbc492170b9f6b6eaef9",
+      "title": "Stranger Than Heaven Second-Take Preview: Stranger Than Heaven’s Combat Seems Harder Than Hell, and that’s a Good Thing",
+      "summary": "Stranger Than Heaven's flexible fighting system feels like an increase in challenge from the standard Like a Dragon brawling, but that feels like a good indication that RGG Studio isn't content to merely serve up more of the same with its new series prequel. We had another IGN editor, Tristan Ogilvie, sit down with Stranger Than Heaven after Michae",
+      "url": "https://www.ign.com/articles/stranger-than-heaven-second-take-preview-stranger-than-heavens-combat-seems-harder-than-hell-and-thats-a-good-thing",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-21T03:00:00+00:00"
+    },
+    {
+      "id": "c9c3d9774d471eeb45e00961",
+      "title": "Backstage at Gorillaz' epic, one-off stadium show: 'The vibe is ridiculous'",
+      "summary": "Damon Albarn, De La Soul and Moonchild Sannelly talk backstage as Gorillaz play their biggest show.",
+      "url": "https://www.bbc.com/news/articles/cm203gndx0lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-21T01:14:49+00:00"
+    },
+    {
+      "id": "9f27aa15a203b2f9f884c396",
+      "title": "France bans alcohol at music festival events under red heatwave alert",
+      "summary": "The annual Fête de la Musique celebrations draw millions to the streets but the most serious heatwave warnings have been issued for 35 of the country's departments.",
+      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-21T00:29:51+00:00"
+    },
+    {
+      "id": "40e599368a60a75bfda8a2b3",
+      "title": "At CrimeCon true crime obsessives come face-to-face with real loss",
+      "summary": "Victims' families say there are ways to be an ethical true-crime fan - not an exploitative one.",
+      "url": "https://www.bbc.com/news/articles/cr47z6ykp2xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T23:26:45+00:00"
+    },
     {
       "id": "a7bb12584d3c8514633ada73",
       "title": "Why an AI company cleaned my New York City apartment for free",
@@ -22,6 +88,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-20T23:18:12+00:00"
+    },
+    {
+      "id": "9e7ce8042ff83d441af2c1d5",
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "summary": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
+      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-20T23:17:51+00:00"
     },
     {
       "id": "4a989b998f5d69117aa15cd7",
@@ -189,17 +266,6 @@
       "publishedAt": "2026-06-20T21:20:00+00:00"
     },
     {
-      "id": "76930e70039b434b4ba25e0f",
-      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
-      "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-20T21:11:57+00:00"
-    },
-    {
       "id": "7558ac90a8a157fa07ec2df1",
       "title": "The Best Deals Today: Save on Donkey Kong Country Returns HD, Splatoon Raiders, Tokyo Ghoul Box Set, and More",
       "summary": "",
@@ -222,9 +288,9 @@
       "publishedAt": "2026-06-20T19:33:50+00:00"
     },
     {
-      "id": "54ec1688df8582dc9781400f",
-      "title": "Halo: Campaign Evolved Split-Screen Co-Op on PS5 Requires PlayStation Plus for Both Players",
-      "summary": "If you plan on hopping into Halo: Campaign Evolved split-screen co-op when it launches for PS5 next month, you'll need not just one but two accounts with PlayStation Plus subscriptions to play.",
+      "id": "92b8381ad4f89e8102acaf67",
+      "title": "Halo: Campaign Evolved Split-Screen Co-Op on PS5 Will Not Require PlayStation Plus, Halo Studios Clarifies",
+      "summary": "Halo Studios has clarified that a PlayStation Plus subscription will not be required for Halo: Campaign Evolved split-screen co-op on PS5 after all.",
       "url": "https://www.ign.com/articles/halo-campaign-evolved-split-screen-co-op-on-ps5-requires-playstation-plus-for-both-players",
       "imageUrl": null,
       "source": "IGN All",
@@ -330,17 +396,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-20T14:30:00+00:00"
-    },
-    {
-      "id": "f116b46cf0405d6900434b5d",
-      "title": "Sea of Remnants Is Like a Puppet-Punk Persona at Sea | IGN Preview",
-      "summary": "Sea of Remnants is a gorgeous, open-world fantasy RPG set in a world of ocean exploration and piracy. Already the vibrant colors and music create a spectacle tugging at my heartstrings. Up close, everything has a wooden puppetry aesthetic – a charming, hand crafted look that reminds me of Laiki, the studio behind modern stop motion classics like Co",
-      "url": "https://www.ign.com/articles/sea-of-remnants-is-like-a-puppet-punk-persona-at-sea-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-20T14:03:00+00:00"
     },
     {
       "id": "2a164d6dc1c56687b8a455aa",
@@ -695,17 +750,6 @@
       "publishedAt": "2026-06-18T23:11:07+00:00"
     },
     {
-      "id": "3bb2afb5c736c0843af5d1af",
-      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "summary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
-      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T20:27:31+00:00"
-    },
-    {
       "id": "87618b5ba95c0e6abc621070",
       "title": "What Iran and US get from deal and why both could struggle to keep it",
       "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
@@ -715,17 +759,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-18T20:04:40+00:00"
-    },
-    {
-      "id": "6c21acf95b80b387dd95f009",
-      "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
-      "summary": "The boy was 13 when he killed eight girls, a boy and a school guard at Vladislav Ribnikar school in Belgrade in 2023.",
-      "url": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T18:36:19+00:00"
     },
     {
       "id": "b714fe366b499cf056f40769",
@@ -805,17 +838,6 @@
       "publishedAt": "2026-06-18T14:06:48+00:00"
     },
     {
-      "id": "cc709fc8c1c9fdb15b8388b5",
-      "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
-      "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
-      "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T14:02:52+00:00"
-    },
-    {
       "id": "f70ed45da56eeaf2c506e714",
       "title": "Sur le site Classes-sans-suite.com, des milliers de témoignages anonymes de violences sexuelles",
       "summary": "Depuis son lancement le 9 juin dans le sillage de la mort de Lyhanna, la plateforme a recueilli près de 6 000 témoignages anonymes faisant état de violences sexuelles et de leur traitement par la justice.",
@@ -825,17 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-18T11:57:52+00:00"
-    },
-    {
-      "id": "be0feb1e435d1648a912bec6",
-      "title": "British man dies in paragliding accident in Spain",
-      "summary": "Authorities in Catalonia confirmed that the 63-year-old died in the Palau de Noguera area on Wednesday.",
-      "url": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T11:54:23+00:00"
     },
     {
       "id": "32f1107c0bb43995806e681e",
@@ -891,39 +902,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-18T01:29:32+00:00"
-    },
-    {
-      "id": "bd2e5f433c6c1719e8c65f87",
-      "title": "What's in the US-Iran agreement?",
-      "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
-      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-18T01:28:02+00:00"
-    },
-    {
-      "id": "40b1167222a6aaf284e4d228",
-      "title": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
-      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
-      "url": "https://www.bbc.com/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-17T23:57:36+00:00"
-    },
-    {
-      "id": "31e1d2d13d40998384acd9a9",
-      "title": "'We had to get out of the way': The backlash over delivery robots",
-      "summary": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
-      "url": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-17T23:02:05+00:00"
     },
     {
       "id": "ad73a2885c022bd9e5582cd9",
@@ -1001,28 +979,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-17T10:30:23+00:00"
-    },
-    {
-      "id": "9e01aa4d04fb127d80d93596",
-      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
-      "summary": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
-      "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-17T09:56:40+00:00"
-    },
-    {
-      "id": "0b9092bb1fa4e29d2147562e",
-      "title": "Pourquoi OpenAI veut transformer ChatGPT en plateforme « tout en un »",
-      "summary": "Nées en Asie, les « super apps », ces applications qui réunissent des dizaines de services dans une seule interface, attirent désormais les géants de la tech. Chez OpenAI, ChatGPT pourrait servir de socle à une nouvelle plateforme réunissant des agents intelligents, un outil de programmation, Codex, et des services partenaires. En Europe, la régula",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/17/pourquoi-openai-veut-transformer-chatgpt-en-plateforme-tout-en-un_6704199_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-17T09:45:06+00:00"
     },
     {
       "id": "7d8282ac59d307b07b5d4883",
