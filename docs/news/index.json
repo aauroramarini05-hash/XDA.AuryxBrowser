@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-06-22T23:12:37.872538+00:00",
+  "updatedAt": "2026-06-23T02:27:51.214988+00:00",
   "items": [
+    {
+      "id": "b0744a6755f5245300a975e9",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+      "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-23T01:59:39+00:00"
+    },
+    {
+      "id": "40f70c86dfedfaa0d8d29f5e",
+      "title": "Walmart’s Summer Sale Is Packed With Deals On Video Games, LEGO, Apple, TVs, and More",
+      "summary": "Discounts that give Amazon’s Prime Day a run for its money.",
+      "url": "https://www.ign.com/articles/walmarts-summer-sale-is-packed-with-deals-on-video-games-lego-apple-tvs-and-more-for-prime-day-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-23T00:20:00+00:00"
+    },
+    {
+      "id": "ec5e05a9ac091cd1a4318eaa",
+      "title": "How 100 Romanian hospitals switched to pen and paper to defeat a national cyber-attack",
+      "summary": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+      "url": "https://www.bbc.com/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-22T23:31:21+00:00"
+    },
     {
       "id": "429481ce7643f460c515ae22",
       "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
@@ -35,6 +68,17 @@
       "publishedAt": "2026-06-22T23:01:11+00:00"
     },
     {
+      "id": "d2a95d2a3ff519994d7880fc",
+      "title": "Save $100 Off a Pair of BowFlex Results Series SelectTech Dumbbells for Amazon Prime Day",
+      "summary": "Get swole",
+      "url": "https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-fathers-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-22T23:00:00+00:00"
+    },
+    {
       "id": "49c6c05665635982cda0c49c",
       "title": "Save $2,500 Off an Alienware Area-51 Gaming PC With GeForce RTX 5090 GPU, 64GB of RAM, and a 4TB SSD",
       "summary": "Warning: it's still expensive",
@@ -55,6 +99,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-22T22:04:41+00:00"
+    },
+    {
+      "id": "3f8e1d2d80af589242884e48",
+      "title": "A brutal gang rape in India revives painful memories of 2012 Delhi assault",
+      "summary": "The case from Begusarai in Bihar comes close in brutality to that inflicted on a woman during a sexual assault in 2012.",
+      "url": "https://www.bbc.com/news/articles/cewqyn2p1lno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-22T22:03:54+00:00"
     },
     {
       "id": "9c6de9768595e899bdf4f05f",
@@ -255,28 +310,6 @@
       "publishedAt": "2026-06-22T17:00:00+00:00"
     },
     {
-      "id": "ed9f2afb3ab06256a885b280",
-      "title": "The Steam Machine Costs $1049, Is That Too Much?",
-      "summary": "",
-      "url": "https://www.ign.com/articles/steam-machine-price",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-22T17:00:00+00:00"
-    },
-    {
-      "id": "eb00ec47151756f275c7763a",
-      "title": "The Steam Machine Was Originally Meant to Cost About $750",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-steam-machine-was-originally-meant-to-cost-about-750",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-22T17:00:00+00:00"
-    },
-    {
       "id": "23217a8dec2c5e83d26adf86",
       "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
       "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
@@ -396,6 +429,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-22T10:19:25+00:00"
+    },
+    {
+      "id": "a72b4016699b08acf24575c3",
+      "title": "'I witnessed Maradona's Hand of God' - a goal still talked about 40 years on",
+      "summary": "One BBC journalist's first football game had one of the sport's most controversial moments and also one of the most celebrated.",
+      "url": "https://www.bbc.com/news/articles/cqx1gwl7wnno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-22T10:13:28+00:00"
     },
     {
       "id": "e6262ceda9047d975a91a803",
@@ -572,17 +616,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-21T15:00:13+00:00"
-    },
-    {
-      "id": "b6edf1b0d0e3698ed284d608",
-      "title": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
-      "summary": "Vaibhav Sooryavanshi breaks the record for the fastest 50-over List A half-century in history on the same day he was not included in India's one-day international squad.",
-      "url": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-21T11:10:21+00:00"
     },
     {
       "id": "8b28ee853103a8a67f2b5005",
