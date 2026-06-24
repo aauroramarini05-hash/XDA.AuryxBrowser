@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-06-23T23:02:08.303297+00:00",
+  "updatedAt": "2026-06-24T02:29:12.625023+00:00",
   "items": [
     {
-      "id": "7b2eec056079bd270dd80154",
-      "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
-      "summary": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.",
+      "id": "dfa97512f69d409028d7fd4b",
+      "title": "Alphabet, la maison mère de Google, va rejoindre l’indice Dow Jones",
+      "summary": "La décision prendra effet le 29 juin. Le géant du numérique américain était jusqu’ici coté au Nasdaq.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/24/alphabet-la-maison-mere-de-google-va-rejoindre-l-indice-dow-jones_6710026_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-24T01:24:54+00:00"
+    },
+    {
+      "id": "2d3be11168a9075cfb3f9f0c",
+      "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+      "summary": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
+      "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T00:00:06+00:00"
+    },
+    {
+      "id": "f92614685377d910c2f7fbbc",
+      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+      "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
       "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-23T22:44:57+00:00"
+      "publishedAt": "2026-06-23T23:46:01+00:00"
     },
     {
       "id": "fd9a22fec1124409644ce0b3",
@@ -21,7 +43,106 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-06-23T22:43:09+00:00"
+      "publishedAt": "2026-06-23T23:39:55+00:00"
+    },
+    {
+      "id": "9a7853246a32f41944e72a54",
+      "title": "Pokémon Legends: Z-A Switch 2 Edition Gets Its First Major Price Cut at Amazon",
+      "summary": "",
+      "url": "https://www.ign.com/articles/pokmon-legends-z-a-switch-2-edition-gets-its-first-major-price-cut-at-amazon-for-prime-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-23T23:35:12+00:00"
+    },
+    {
+      "id": "4264db266369fcf9d6b90ab8",
+      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+      "summary": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-23T23:25:07+00:00"
+    },
+    {
+      "id": "04209c695f090b5fa85c3375",
+      "title": "Stanford was their golden ticket - could AI help or hinder that?",
+      "summary": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-23T23:16:37+00:00"
+    },
+    {
+      "id": "560f69d1a284f83f2aa357a6",
+      "title": "Get the Alienware Aurora RTX 5070 Gaming PC for $1,433 at Dell Outlet Before It Goes Out of Stock",
+      "summary": "Better than Amazon Prime Day deals.",
+      "url": "https://www.ign.com/articles/alienware-aurora-rtx-5070-gaming-pc-deal-at-dell-outlet",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-23T23:15:00+00:00"
+    },
+    {
+      "id": "f7a632096837d9791484a235",
+      "title": "Supergirl Producer Says David Ellison Is a 'Big Fan' of DC Studios As Paramount and Warner Bros Merger Looms",
+      "summary": "David Ellison, the CEO of Paramount Skydance, is a big fan of what DC Studios is cooking up.",
+      "url": "https://www.ign.com/articles/supergirl-producer-says-david-ellison-is-a-big-fan-of-dc-studios-as-paramount-and-warner-bros-merger-looms",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-23T22:55:49+00:00"
+    },
+    {
+      "id": "17679a98e6256a8fef81aa36",
+      "title": "The Popular Flashforge Adventurer 5M 3D Printer Drops to the Lowest Price of the Year, Now Just $148",
+      "summary": "This is the best price I've ever seen for a reliable and very moddable 3D printer.",
+      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-june-2026-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-23T22:55:00+00:00"
+    },
+    {
+      "id": "a4de6ddc799ad7ada9c7517c",
+      "title": "Amazon's Box Set Deals Are a Fantasy Book Collection Just Waiting to Happen",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-prime-day-book-deals-on-box-sets-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-23T22:45:00+00:00"
+    },
+    {
+      "id": "aa68a3c05b5ad91a759fe7dc",
+      "title": "The Fast and the Furious Is Getting Yet Another Limited-Edition 4K Steelbook for Its 25th Anniversary",
+      "summary": "The Fast and the Furious is getting a new 4K Ultra HD remaster this August. Here's where you can find the cheapest preorders.",
+      "url": "https://www.ign.com/articles/the-fast-and-the-furious-is-getting-yet-another-limited-edition-4k-steelbook-for-its-25th-anniversary",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-23T22:40:19+00:00"
+    },
+    {
+      "id": "c1a69db6f124893751b9df92",
+      "title": "Prime Day LEGO Deals on Sets for Adults Are Especially Good This Year",
+      "summary": "",
+      "url": "https://www.ign.com/articles/lego-prime-day-deals-for-adults-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-23T22:30:00+00:00"
     },
     {
       "id": "cd926b9830e80712147c8b2b",
@@ -209,83 +330,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-23T19:43:28+00:00"
-    },
-    {
-      "id": "509d44c37dff0013f2255fbc",
-      "title": "Ditch the Bubble Level, the Fanttik D2 Pocket Green Laser Level Is Priced Under $30 for Prime Day",
-      "summary": "Give up the crooked life.",
-      "url": "https://www.ign.com/articles/fanttik-d2-pocket-green-laser-level-deal-amazon-prime-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-23T19:40:00+00:00"
-    },
-    {
-      "id": "988c4c0daea46532aaf4cd61",
-      "title": "Don't Miss Amazon's Audible Prime Day Deal: Pay Just $1 Per Month and Get $20 Audible Credit",
-      "summary": "Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.",
-      "url": "https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-23T19:40:00+00:00"
-    },
-    {
-      "id": "c952599bfd4589d7c52d1a04",
-      "title": "These 10 LEGO Sets Are On Sale for Prime Day Before They Retire Forever",
-      "summary": "",
-      "url": "https://www.ign.com/articles/these-10-lego-sets-are-on-sale-for-prime-day-before-they-retire-forever",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-23T18:50:10+00:00"
-    },
-    {
-      "id": "8ec6cdbd5a96673cda8c5c3c",
-      "title": "Robo Rally Dice Game Review",
-      "summary": "Robo Rally Dice dials down on the crazy gameplay it wants to promote. Personally, I feel that’s a worthwhile trade-off.",
-      "url": "https://www.ign.com/articles/robo-rally-dice-game-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-23T18:43:44+00:00"
-    },
-    {
-      "id": "9793350a7278b20500eb7d22",
-      "title": "Lords of the Fallen 2 Delayed to 2027",
-      "summary": "Lords of the Fallen 2 will no longer release this year, as the game has been pushed to early 2027.",
-      "url": "https://www.ign.com/articles/lords-of-the-fallen-2-delayed-to-2027",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-23T18:40:39+00:00"
-    },
-    {
-      "id": "2e88c51128a10c920b78b05a",
-      "title": "The Apple Watch Series 11 Drops to Its Lowest Price Ever for Amazon Prime Day",
-      "summary": "The best Apple Watch model for most iPhone users.",
-      "url": "https://www.ign.com/articles/the-apple-watch-series-11-drops-to-its-lowest-price-ever-for-amazon-prime-day",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-23T18:40:00+00:00"
-    },
-    {
-      "id": "57132ee7c33711a6c08a5eb1",
-      "title": "This Official Buzz Lightyear Action Figure Is Straight Out of the Toy Story Movies",
-      "summary": "The official Buzz Lightyear action figure is pretty much straight out of the Toy Story movies.",
-      "url": "https://www.ign.com/articles/official-buzz-lightyear-action-figure-toy-story-deal-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-23T18:31:00+00:00"
     },
     {
       "id": "f4a9909f97910c2a31c3bd29",
@@ -640,17 +684,6 @@
       "publishedAt": "2026-06-22T22:03:54+00:00"
     },
     {
-      "id": "259d83c1e6eaff74b47d6cc4",
-      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
-      "summary": "Martha Karua is a lawyer representing detained Ugandan opposition leader Kizza Besigye who is on trial for treason.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-22T17:19:16+00:00"
-    },
-    {
       "id": "81072247724b99a1af630e30",
       "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
       "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
@@ -728,17 +761,6 @@
       "publishedAt": "2026-06-22T04:00:00+00:00"
     },
     {
-      "id": "13dde789cdf20782d5876cc6",
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "summary": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
-      "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-22T03:31:40+00:00"
-    },
-    {
       "id": "9201b0a391a647d30a02878f",
       "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
       "summary": "Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.",
@@ -759,17 +781,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-21T23:57:59+00:00"
-    },
-    {
-      "id": "9fa864ed0baa58406b6203f3",
-      "title": "Is Germany looking again at coal-powered electricity?",
-      "summary": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
-      "url": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-21T23:27:11+00:00"
     },
     {
       "id": "51b4f28256c3ee0554f89685",
@@ -946,17 +957,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-19T20:28:33+00:00"
-    },
-    {
-      "id": "006744e63d659d65281eca0e",
-      "title": "IA : les élèves de 2de auront une heure d’enseignement par semaine à partir de la rentrée de 2027",
-      "summary": "En février 2025, Elisabeth Borne, ministre de l’éducation, avait annoncé que collégiens et lycéens bénéficieraient d’une formation en ligne à l’IA à la rentrée suivante. Mais, de source syndicale, cette formation a été peu mise en œuvre.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/19/une-heure-hebdomadaire-d-enseignement-a-l-ia-en-2de-des-la-rentree-de-2027-annonce-sebastien-lecornu_6705010_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-19T17:03:54+00:00"
     },
     {
       "id": "29a3c0e8796dae0bb86cde5f",
