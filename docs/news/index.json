@@ -1,6 +1,226 @@
 {
-  "updatedAt": "2026-06-24T13:11:48.916042+00:00",
+  "updatedAt": "2026-06-24T16:09:23.445345+00:00",
   "items": [
+    {
+      "id": "11cdd55af132128c3fc4d7fd",
+      "title": "Colombia's left-wing presidential candidate concedes defeat",
+      "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T15:50:22+00:00"
+    },
+    {
+      "id": "6274399bcda1423d71d3fb0b",
+      "title": "Fortnite Begins Reselling Old Battle Pass Skins in Next Update",
+      "summary": "Fortnite will begin reselling content from old battle passes as part of its next update.",
+      "url": "https://www.ign.com/articles/fortnite-begins-reselling-old-battle-pass-skins-in-next-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T15:24:24+00:00"
+    },
+    {
+      "id": "69145a84f56a79281d6fa455",
+      "title": "Invincible Renewed for Season 6",
+      "summary": "Invincible Season 6 is in the works ahead of Season 5's release.",
+      "url": "https://www.ign.com/articles/invincible-renewed-for-season-6",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T15:07:36+00:00"
+    },
+    {
+      "id": "b4832da821236ec2dbe557f0",
+      "title": "The Best Amazon Prime Day Sales and Deals Today",
+      "summary": "Save big on a PS5 Pro console, AirPods and iPads, LEGOs, and more.",
+      "url": "https://www.ign.com/articles/best-amazon-prime-day-sales-and-deals-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T15:05:00+00:00"
+    },
+    {
+      "id": "820eef9aa210ee8d6d46655a",
+      "title": "GTA 6’s Physical Edition Not Including a Disc Is About Control and Secrecy",
+      "summary": "GTA 6’s physical edition not including a disc is about control and secrecy.",
+      "url": "https://www.ign.com/articles/gta-6s-physical-edition-not-including-a-disc-is-about-control-and-secrecy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T15:04:18+00:00"
+    },
+    {
+      "id": "e7491f410ddf34449f27f10b",
+      "title": "France confirms first Ebola case",
+      "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T15:00:52+00:00"
+    },
+    {
+      "id": "8d577f124369f0d8c92f95a0",
+      "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
+      "summary": "The tech giant has consistently stood by its Majorana chip research despite scepticism from some experts in the field.",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-24T15:00:34+00:00"
+    },
+    {
+      "id": "e93cdb261af20484859cfd26",
+      "title": "Mario Tennis Fever On Switch 2 Hits Its Lowest Price at Amazon for Prime Day",
+      "summary": "Mario Tennis Fever on Switch 2 has hit its lowest price so far at Amazon of $49.94 during Prime Day sales. This is just over $20 off its full price of $69.99.",
+      "url": "https://www.ign.com/articles/mario-tennis-fever-on-switch-2-hits-its-lowest-price-at-amazon-for-prime-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T15:00:00+00:00"
+    },
+    {
+      "id": "356f8be6cdec0db869b856e1",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T14:57:21+00:00"
+    },
+    {
+      "id": "0ec58bc85804e3287bf657e9",
+      "title": "The 65\" LG Evo C5 4K OLED Smart TV Drops to Its Lowest Price of the Year for Amazon Prime Day",
+      "summary": "The best TV for both gaming and movie watching in glorious 4K with HDR.",
+      "url": "https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-amazon-prime-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T14:55:00+00:00"
+    },
+    {
+      "id": "43761e30bec315d89692c835",
+      "title": "One of Our Favorite 256GB Nintendo Switch 2 Memory Cards Drops to $39.99 for Amazon Prime Day",
+      "summary": "Double your storage with this MicroSD Express card.",
+      "url": "https://www.ign.com/articles/best-nintendo-switch-2-memory-card-deal-amazon-prime-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T14:50:00+00:00"
+    },
+    {
+      "id": "0f6e78cd9ab5aa204f22035d",
+      "title": "The GTPLAYER Big and Tall Gaming Chair Drops to Less Than $160 for Amazon Prime Day",
+      "summary": "An inviting gaming chair without the high dollar price tag",
+      "url": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-prime-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T14:50:00+00:00"
+    },
+    {
+      "id": "d304fa2e67cb61d35bc7ab36",
+      "title": "The New Apple AirPods Max 2 Noise Canceling Headphones Drops to a New Price Low for Prime Day",
+      "summary": "Save $150 off compared to buying it from the Apple Store",
+      "url": "https://www.ign.com/articles/best-apple-airpods-max-2-headphone-deal-amazon-prime-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T14:50:00+00:00"
+    },
+    {
+      "id": "bf4d764740b6441e4b823ccd",
+      "title": "Walmart Just Slashed 50% Off the PlayStation PULSE Explore Planar Magnetic Wireless Gaming Earbuds",
+      "summary": "You're getting the best PS5 earbuds for under $100.",
+      "url": "https://www.ign.com/articles/playstation-pulse-explore-planar-magnetic-wireless-gaming-earbuds-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T14:50:00+00:00"
+    },
+    {
+      "id": "b71ebaedeb27cfc366ae1875",
+      "title": "Kenya to charge students with murder over deadly school fire",
+      "summary": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
+      "url": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T14:36:42+00:00"
+    },
+    {
+      "id": "1ab7cfab038966011f595131",
+      "title": "GTA 6 Story Features Distinct 'Chapters' — Could Red Dead Redemption 2 Hold the Clue to How It Works?",
+      "summary": "GTA fans are discussing how the story in Grand Theft Auto 6 will be structured, following the apparent confirmation that it will be separated into chapters, similar to Red Dead Redemption 2.",
+      "url": "https://www.ign.com/articles/gta-6-story-features-distinct-chapters-could-red-dead-redemption-2-hold-the-clue-to-how-it-works",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T13:58:08+00:00"
+    },
+    {
+      "id": "fad6ff3a5b75e463592b636a",
+      "title": "Air conditioning creates political divide after France records hottest day",
+      "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T13:51:24+00:00"
+    },
+    {
+      "id": "70436b4b58eeec8d965f4f36",
+      "title": "Power outages hit France as record heatwave set to peak",
+      "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T13:44:08+00:00"
+    },
+    {
+      "id": "20b0c985e48286e7ea735d5e",
+      "title": "GTA 6: Everything Rockstar Announced and Confirmed on Preorder Day",
+      "summary": "It’s been a big day of GTA 6 news, with Rockstar confirming fresh details for what is perhaps the most anticipated video game of all time ahead of preorders going live. IGN has plenty of coverage for you to dig into, but here we’ve rounded up everything announced and confirmed, including new screenshots, first details on the editions, and even a ne",
+      "url": "https://www.ign.com/articles/gta-6-everything-rockstar-announced-and-confirmed-on-preorder-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T13:32:51+00:00"
+    },
+    {
+      "id": "a58c1f29716116681cc2ff81",
+      "title": "« Il faudrait humaniser l’interface entre les professionnels de santé et les machines pour affronter la tempête de l’IA »",
+      "summary": "Dans une tribune au « Monde », des enseignants de la chaire IA en santé de la Fondation Université Paris-Cité plaident pour la mise en place d’opérateurs chargés des interfaces d’intelligence artificielle. Des emplois qui pourraient être financés grâce aux économies liées à l’usage de l’IA.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/24/il-faudrait-humaniser-l-interface-entre-les-professionnels-de-sante-et-les-machines-pour-affronter-la-tempete-de-l-ia_6713178_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-24T13:30:02+00:00"
+    },
     {
       "id": "8bbb4cc01080c9f833eec7bc",
       "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
@@ -11,6 +231,39 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-24T13:03:35+00:00"
+    },
+    {
+      "id": "edccfbbc8f00ab34c60ca688",
+      "title": "The Get Out Review",
+      "summary": "The Get Out review: Russell Crowe wants to \"get out\" of town, which is why the movie is called THE Get Out.",
+      "url": "https://www.ign.com/articles/the-get-out-review-russell-crowe",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T13:00:00+00:00"
+    },
+    {
+      "id": "d8465e8d1ac98995e4b8c079",
+      "title": "Tim Sweeney Interview: Epic Games CEO on AI in UE6 and Why Games Struggle to Find Success",
+      "summary": "In our interview with Epic Games CEO Tim Sweeney, he talks about why games are failing, what platforms can do to help, and how Unreal's AI tools can help \"make content more efficiently.\"",
+      "url": "https://www.ign.com/articles/tim-sweeney-interview-epic-games-ceo-on-ai-in-ue6-and-why-games-struggle-to-find-success",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T13:00:00+00:00"
+    },
+    {
+      "id": "daa667f92e6578d335541819",
+      "title": "GTA 6 Is a 'Single-Player Experience,' Rockstar Confirms — What Now for GTA Online?",
+      "summary": "GTA 6 is a “single-player experience,” Rockstar has confirmed in a note sent to IGN, as well as on storefronts where you can now preorder the game. This suggests the $80 base game does not include any new version of GTA Online, should such an experience be in the works.",
+      "url": "https://www.ign.com/articles/gta-6-is-a-single-player-experience-rockstar-confirms-what-now-for-gta-online",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-24T12:52:50+00:00"
     },
     {
       "id": "e948f97158d04ff0353c9166",
@@ -68,8 +321,8 @@
       "publishedAt": "2026-06-24T12:00:00+00:00"
     },
     {
-      "id": "4737330099b62bd7e89f45dc",
-      "title": "GTA 6's Ultimate Edition Locks Off Exclusive Mission and Shops, But How Will it Work?",
+      "id": "429bef80487fbb3984ea0a4c",
+      "title": "GTA 6's Ultimate Edition Locks Off Exclusive Mission and Shops, But How Will It Work?",
       "summary": "GTA 6's Ultimate Edition locks off an exclusive mission and multiple Vice City shops, but how will that work?",
       "url": "https://www.ign.com/articles/gta-6s-ultimate-edition-locks-off-exclusive-mission-and-shops-but-how-will-it-work",
       "imageUrl": null,
@@ -101,28 +354,6 @@
       "publishedAt": "2026-06-24T11:35:14+00:00"
     },
     {
-      "id": "70436b4b58eeec8d965f4f36",
-      "title": "Power outages hit France as record heatwave set to peak",
-      "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T11:20:58+00:00"
-    },
-    {
-      "id": "b8d83c2c9ed26e6e71282101",
-      "title": "Grand Theft Auto 6: Rockstar Releases 63 New Screenshots",
-      "summary": "Rockstar has released more than 60 new screenshots showing off Grand Theft Auto 6, its characters, world and some retro Vice City vibes.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-rockstar-releases-63-new-screenshots",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T11:11:54+00:00"
-    },
-    {
       "id": "6b408ccf4987c8136a11d0e9",
       "title": "OpenClaw, ce « stagiaire » animé par IA qui fait ses premiers pas dans les start-up françaises",
       "summary": "Le tout jeune logiciel, qui combine plusieurs intelligences artificielles pour automatiser des tâches chronophages, commence à être utilisé par certaines jeunes pousses. Mais le fantasme d’une entreprise sans employés n’est pas encore une réalité.",
@@ -134,39 +365,6 @@
       "publishedAt": "2026-06-24T11:00:02+00:00"
     },
     {
-      "id": "e7491f410ddf34449f27f10b",
-      "title": "France confirms first Ebola case",
-      "summary": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T10:40:57+00:00"
-    },
-    {
-      "id": "392ab019f022c506420447e5",
-      "title": "GTA 6 Price Finally Confirmed, Features a 'Single-Player Experience' at Launch",
-      "summary": "Rockstar Games has finally announced the price of GTA 6, while confirming it features a “single-player experience” at launch.",
-      "url": "https://www.ign.com/articles/gta-6-price-finally-confirmed-features-a-single-player-experience-at-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T10:36:05+00:00"
-    },
-    {
-      "id": "6390c71b511d9e20f61d5e85",
-      "title": "Grand Theft Auto 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",
-      "summary": "Rockstar will sell physical copies of Grand Theft Auto 6 — though you'll only get a box containing a digital download code.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T10:24:34+00:00"
-    },
-    {
       "id": "719778d2b993b870c8f25307",
       "title": "Enquête ouverte pour une cyberattaque visant la Fédération sportive de la police nationale",
       "summary": "Le site spécialisé FrenchBreaches estime notamment qu’environ « 180 000 certificats médicaux » pourraient être concernés.",
@@ -176,17 +374,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-24T10:22:34+00:00"
-    },
-    {
-      "id": "b72f03433cdfb33e29b1202c",
-      "title": "GTA 6 Preorders Kick Off Midnight Local Time on June 25, Ultimate Edition and Preorder Bonuses Confirmed",
-      "summary": "GTA 6 Preorders Kick Off Midnight Local Time on June 25, Ultimate Edition and Preorder Bonuses Confirmed.",
-      "url": "https://www.ign.com/articles/gta-6-preorders-kick-off-midnight-local-time-on-june-25-ultimate-edition-and-preorder-bonuses-confirmed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T10:07:10+00:00"
     },
     {
       "id": "4e5e0b2314d1e9f79e42555d",
@@ -211,39 +398,6 @@
       "publishedAt": "2026-06-24T09:47:35+00:00"
     },
     {
-      "id": "7921fbe5be2128210f2a56a5",
-      "title": "Daredevil: Born Again Fans React to Return of Controversial Character From Original Netflix Series",
-      "summary": "Daredevil: Born Again fans are excitedly discussing the upcoming return of a controversial character, whose role split viewers back during the original Netflix series.",
-      "url": "https://www.ign.com/articles/daredevil-born-again-fans-react-to-return-of-controversial-character-from-original-netflix-series",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T09:44:54+00:00"
-    },
-    {
-      "id": "eea8d6f74443687d694a19fc",
-      "title": "Kadokawa Should Be Making More Money From Elden Ring, Activist Investor Says as CEO Survives Shareholder Vote",
-      "summary": "The boss of Japanese company Kadokawa has survived a shareholder vote on his future amid increasing pressure from an activist investor who believes the company has failed to capitalize on Elden Ring’s enormous success.",
-      "url": "https://www.ign.com/articles/kadokawa-should-be-making-more-money-from-elden-ring-activist-investor-says-as-ceo-survives-shareholder-vote",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T09:11:56+00:00"
-    },
-    {
-      "id": "adccf073786492c1221440c0",
-      "title": "The 30 Best Nintendo Prime Day Deals — Hand-Picked by Our Deals Experts",
-      "summary": "Our resident shopping experts have curated the 30 absolute best Nintendo Switch 2 console bundles, games, and accessory deals for Prime Day 2026.",
-      "url": "https://www.ign.com/articles/best-nintendo-switch-2-prime-day-deals-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T08:40:15+00:00"
-    },
-    {
       "id": "aa15fa842d77c4893b7fa59e",
       "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
       "summary": "Yasmina alleges she was held along with her five children, and they were all cut off from the outside world.",
@@ -253,72 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-24T08:29:06+00:00"
-    },
-    {
-      "id": "427fb47991f1175145609c79",
-      "title": "The 35 Best Gaming Deals in the Prime Day Sales — Hand-Picked by Our Deals Experts",
-      "summary": "There's a surprisingly healthy amount of video game deals up for grabs in the 2026 Prime Day sales, including some killer discounts for PS5, Switch, and even Xbox owners. (I promise I haven't forgotten you.)",
-      "url": "https://www.ign.com/articles/best-video-game-deals-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T08:15:00+00:00"
-    },
-    {
-      "id": "b71ebaedeb27cfc366ae1875",
-      "title": "Kenya to charge students with murder over deadly school fire",
-      "summary": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T08:13:53+00:00"
-    },
-    {
-      "id": "9ca720c3d93bf5678c449c81",
-      "title": "New Project Motor Racing DLC Adds 9 Historic Cars, New Track",
-      "summary": "Project Motor Racing still growing as bid to make a success story out of it continues.",
-      "url": "https://www.ign.com/articles/new-project-motor-racing-dlc-adds-9-historic-cars-new-track",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T07:50:19+00:00"
-    },
-    {
-      "id": "3ba1e3caefc4411c2fda72d3",
-      "title": "Gameplay Livestream of Action-Driving Game Clutch Will Be Showcased This Week",
-      "summary": "The first live gameplay of Clutch, the new racer from ex-Forza Horizon devs, will air this Thursday.",
-      "url": "https://www.ign.com/articles/gameplay-livestream-of-action-driving-game-clutch-will-be-showcased-this-week",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T07:12:36+00:00"
-    },
-    {
-      "id": "47a0f8a16f95fc57b4a07c48",
-      "title": "Monster Fantasy Combines the Thrill of Monster Hunter with the Cosy Chill of Animal Crossing | IGN Preview",
-      "summary": "We got hands-on with a very early build of Monster Fantasy, a hybrid adventure that gives players the flexibility to choose whether they want to seek the thrilling challenge of big game beast-hunting or the laid back chilling of just catching bugs and good vibes with their fellow villagers.",
-      "url": "https://www.ign.com/articles/monster-fantasy-combines-the-thrill-of-monster-hunter-with-the-cosy-chill-of-animal-crossing-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T05:00:00+00:00"
-    },
-    {
-      "id": "2111c53bd823d48288ca3bda",
-      "title": "Read All of the Dungeon Crawler Carl Books for Free With Amazon's Prime Day Kindle Unlimited Deal",
-      "summary": "",
-      "url": "https://www.ign.com/articles/read-all-of-the-dungeon-crawler-carl-books-for-free-with-kindle-unlimited-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T04:52:59+00:00"
     },
     {
       "id": "c51332068f96be16aa5cc39b",
@@ -352,50 +440,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-24T04:00:29+00:00"
-    },
-    {
-      "id": "356f8be6cdec0db869b856e1",
-      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "summary": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T03:57:59+00:00"
-    },
-    {
-      "id": "4f6a7588ecde96907942d35e",
-      "title": "Prime Day LEGO Deals on Sets for Adults Are Selling Out Fast",
-      "summary": "",
-      "url": "https://www.ign.com/articles/lego-prime-day-deals-for-adults-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T03:50:00+00:00"
-    },
-    {
-      "id": "aa19221b4d1aa0ab108915bf",
-      "title": "The RayNeo Air 4 Pro AR Glasses Drop to a New Low Price for Prime Day",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-rayneo-air-4-pro-ar-glasses-drop-to-a-new-low-price-for-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T03:21:23+00:00"
-    },
-    {
-      "id": "04e6d078aa38c96bf04593d7",
-      "title": "Valve: RAM Companies State Prices Monthly, ‘If We Say No, Then They Never Talk to Us Again’",
-      "summary": "Valve has no bargaining power in the memory component price crisis; \"They say, ‘You can buy that many, and it’s yes or no.’ And if we say no, then they never talk to us again.”",
-      "url": "https://www.ign.com/articles/valve-ram-companies-state-prices-monthly-if-we-say-no-then-they-never-talk-to-us-again",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T03:20:52+00:00"
     },
     {
       "id": "d2c3cc4dffda6681b74685b7",
@@ -464,8 +508,8 @@
       "publishedAt": "2026-06-23T23:25:07+00:00"
     },
     {
-      "id": "04209c695f090b5fa85c3375",
-      "title": "Stanford was their golden ticket - could AI help or hinder that?",
+      "id": "9e0853a716b6c5773cd14a2e",
+      "title": "Stanford graduates rethink their futures as AI transforms tech",
       "summary": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
       "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -495,17 +539,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-23T21:46:34+00:00"
-    },
-    {
-      "id": "e8ff6261253a5de54d0e8ae5",
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
-      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-23T21:04:11+00:00"
     },
     {
       "id": "3123b7da8c6bb9f5c1b420db",
@@ -550,17 +583,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-23T17:51:30+00:00"
-    },
-    {
-      "id": "3faeef942b308b3b2ba7bcca",
-      "title": "Have World Cup changes made final group stage games unfair?",
-      "summary": "With eight teams already having nothing to play for, has the jeopardy in the group stage at the World Cup been diminished? And are concerns over the integrity of competition justified?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-23T16:44:13+00:00"
     },
     {
       "id": "c945d4266101b2e3bd87d7ac",
@@ -838,17 +860,6 @@
       "publishedAt": "2026-06-20T23:18:12+00:00"
     },
     {
-      "id": "44e7c3b557da289537a6193c",
-      "title": "La mort de Claude Guillemot, le discret et diplomate cofondateur d’Ubisoft",
-      "summary": "L’aîné de la fratrie Guillemot, qui avait cofondé le géant français du jeu vidéo avec ses quatre frères en 1986, a péri, vendredi 19 juin, dans un accident d’avion. Il avait 69 ans.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/06/20/la-mort-de-claude-guillemot-le-discret-et-diplomate-cofondateur-d-ubisoft_6705325_3382.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-20T16:28:55+00:00"
-    },
-    {
       "id": "594c61278b9469c0fcfe0d91",
       "title": "New video game console aims to get kids moving",
       "summary": "The Nex Playground will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
@@ -858,17 +869,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-20T01:10:51+00:00"
-    },
-    {
-      "id": "0689472482b503970095ff67",
-      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
-      "url": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-19T20:28:33+00:00"
     },
     {
       "id": "2bb4264ea4310312df95884e",
