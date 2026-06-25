@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-06-25T21:22:46.912926+00:00",
+  "updatedAt": "2026-06-25T23:08:45.959439+00:00",
   "items": [
+    {
+      "id": "d290ef3259f5f9dbde74b374",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "summary": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-25T23:05:05+00:00"
+    },
+    {
+      "id": "14594a2a5cc5f4841d6c8b2f",
+      "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+      "summary": "A nostalgic tale about family, hope and hardship has opened an unexpected conversation.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-25T22:19:08+00:00"
+    },
+    {
+      "id": "a4de6ddc799ad7ada9c7517c",
+      "title": "Amazon's Box Set Deals Are a Fantasy Book Collection Just Waiting to Happen",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-prime-day-book-deals-on-box-sets-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-25T22:00:00+00:00"
+    },
+    {
+      "id": "0c07a60186badd15be725529",
+      "title": "Amazon Has a Kingdom Hearts Keyblade at Its Lowest Price in 2026",
+      "summary": "",
+      "url": "https://www.ign.com/articles/amazon-has-a-kingdom-hearts-keyblade-at-its-lowest-price-for-prime-day-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-25T21:30:00+00:00"
+    },
+    {
+      "id": "628db21781f0f622d7babc1c",
+      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
+      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-25T21:27:06+00:00"
+    },
+    {
+      "id": "c0842ddbb87033d985d2e849",
+      "title": "The Nintendo Switch 2 Gaming Console Is Going for as Low as $399 for Prime Day",
+      "summary": "Brand new.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-25T21:10:00+00:00"
+    },
+    {
+      "id": "49c6c05665635982cda0c49c",
+      "title": "Save $2,500 Off an Alienware Area-51 Gaming PC With GeForce RTX 5090 GPU, 64GB of RAM, and a 4TB SSD",
+      "summary": "Warning: it's still expensive",
+      "url": "https://www.ign.com/articles/save-2500-off-an-alienware-area-51-gaming-pc-with-geforce-rtx-5090-gpu-64gb-of-ram-and-a-4tb-ssd",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-25T20:35:00+00:00"
+    },
     {
       "id": "c2d5b01678f8672a11a75e87",
       "title": "Beat the Summer Heat With This $8.49 Portable Turbo Fan Deal for Amazon Prime Day",
@@ -156,17 +233,6 @@
       "publishedAt": "2026-06-25T18:12:39+00:00"
     },
     {
-      "id": "628db21781f0f622d7babc1c",
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-25T18:12:27+00:00"
-    },
-    {
       "id": "d83e981121d8be702a002aea",
       "title": "Hopes for GTA 6 Trailer 3 Evaporate as Preorders Go Live Without a New Video From Rockstar",
       "summary": "Fan hopes for GTA 6 Trailer 3 have been dashed after preorders went live without a new official video from Rockstar.",
@@ -233,28 +299,6 @@
       "publishedAt": "2026-06-25T17:15:00+00:00"
     },
     {
-      "id": "3a4e47319ffd51e51ae798e0",
-      "title": "MSI Claw 8 EX AI+ Review",
-      "summary": "",
-      "url": "https://www.ign.com/articles/msi-claw-8-ex-ai-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-25T17:07:08+00:00"
-    },
-    {
-      "id": "8a05c3b38f3c95242dfcfc9f",
-      "title": "The Legend of Zelda: The Complete Series DVD Is Under $10 For Prime Day",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-the-complete-series-dvd-deal-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-25T17:06:09+00:00"
-    },
-    {
       "id": "9a6becfd6273be1476fc2d2c",
       "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
       "summary": "Officials confirmed someone applied for a permit to close the streets near Madison Square Garden on 4 July.",
@@ -297,28 +341,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-25T16:51:10+00:00"
-    },
-    {
-      "id": "fcf82ef16f051eeb2d39f5ca",
-      "title": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
-      "summary": "Microsoft has announced significant price rises for Xbox consoles, blaming the ongoing “components crisis.”",
-      "url": "https://www.ign.com/articles/microsoft-announces-significant-price-rises-for-xbox-series-x-and-s-2tb-model-discontinued",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-25T16:47:35+00:00"
-    },
-    {
-      "id": "988c4c0daea46532aaf4cd61",
-      "title": "Don't Miss Amazon's Audible Prime Day Deal: Pay Just $1 Per Month and Get $20 Audible Credit",
-      "summary": "Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.",
-      "url": "https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-25T16:45:00+00:00"
     },
     {
       "id": "c70e14fdd57f2578fce445e0",
@@ -550,17 +572,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-24T23:20:12+00:00"
-    },
-    {
-      "id": "2d76b037a080e633252bbf7f",
-      "title": "The woman who fought for Pakistan's disappeared men now faces life in jail",
-      "summary": "The Nobel Peace Prize nominee has spent years demanding answers about the missing in Balochistan province.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T22:14:31+00:00"
     },
     {
       "id": "b86d98b5e292eea5eaed3021",
@@ -891,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-22T15:57:46+00:00"
-    },
-    {
-      "id": "51b4f28256c3ee0554f89685",
-      "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-      "summary": "Tech companies and authorities are failing women by focusing on nudity rather than consent, says a report by Chayn.",
-      "url": "https://www.bbc.co.uk/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-21T23:21:05+00:00"
     },
     {
       "id": "2bb4264ea4310312df95884e",
