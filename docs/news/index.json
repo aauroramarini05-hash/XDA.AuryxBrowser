@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-06-25T03:52:56.989047+00:00",
+  "updatedAt": "2026-06-25T07:35:06.315447+00:00",
   "items": [
+    {
+      "id": "bb41ba645761c4cbe5e7e57b",
+      "title": "Avatar: The Last Airbender Season 2 Review",
+      "summary": "Avatar: The Last Airbender Season 2 review: A vast improvement with some big hiccups.",
+      "url": "https://www.ign.com/articles/avatar-the-last-airbender-season-2-review-netflix",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-25T07:00:00+00:00"
+    },
+    {
+      "id": "e363462a3ce8d54e2654e2bd",
+      "title": "Hundred Nights: DIFU is like Two Point Hospital… In Hell | IGN Preview",
+      "summary": "We got hands-on with the opening tutorial stages of Hundred Nights: DIFU, a cheeky, Two Point-inspired spin on Chinese mythology, and enjoyed the opportunity to fashion our own personal hellscape and punish each soul who passed through its flaming entry gates.",
+      "url": "https://www.ign.com/articles/hundred-nights-difu-is-like-two-point-hospital-in-hell-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-25T05:00:00+00:00"
+    },
+    {
+      "id": "9654592d79304cf6a3935da2",
+      "title": "Grand Theft Auto 6 Preorders Are Live",
+      "summary": "Everything you need to know to preorder Grand Theft Auto 6 for PS5 or Xbox Series X|S.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-25T04:55:00+00:00"
+    },
+    {
+      "id": "9580ce0ccf6a635225b6ea76",
+      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-25T03:12:17+00:00"
+    },
+    {
+      "id": "593ee0207a9e55f7958270d9",
+      "title": "Independent MPs launch new Australian centrist party",
+      "summary": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-25T02:41:28+00:00"
+    },
+    {
+      "id": "a12d5a99fe917e4b1db672c0",
+      "title": "The ICE raids are over, but some Minnesotans say they still live in fear",
+      "summary": "Six months after he Trump administration's immigration crackdown ended, Minneapolis is still feeling the impact.",
+      "url": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-25T02:40:13+00:00"
+    },
     {
       "id": "4f6a7588ecde96907942d35e",
       "title": "Prime Day LEGO Deals on Sets for Adults Are Selling Out Fast",
@@ -11,6 +77,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-25T02:30:00+00:00"
+    },
+    {
+      "id": "6e2cb217dba17063ce24a8cf",
+      "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+      "summary": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5.",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-25T02:27:27+00:00"
     },
     {
       "id": "3b33918adeff0ebe9feb5f45",
@@ -33,6 +110,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-25T01:20:00+00:00"
+    },
+    {
+      "id": "f058bc3ff620290164a33510",
+      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+      "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-25T00:51:28+00:00"
     },
     {
       "id": "c5db0fc3b4852b2e2812a498",
@@ -66,6 +154,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-25T00:25:00+00:00"
+    },
+    {
+      "id": "1cab432bd239e05f720048ba",
+      "title": "Moment earthquake hits Venezuela and leaves buildings collapsed",
+      "summary": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate.",
+      "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T23:40:47+00:00"
     },
     {
       "id": "38272be9625dc71133c797ba",
@@ -132,6 +231,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-24T22:25:00+00:00"
+    },
+    {
+      "id": "b86d98b5e292eea5eaed3021",
+      "title": "Philippines bans video game played by alleged high school shooter",
+      "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
+      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-24T22:14:12+00:00"
     },
     {
       "id": "5ed00931f3ae4ef4ceaa349a",
@@ -211,39 +321,6 @@
       "publishedAt": "2026-06-24T21:15:00+00:00"
     },
     {
-      "id": "032764794d851388feeb5113",
-      "title": "The Legend of Zelda Chess Set Is On Sale for the First Time During Prime Day",
-      "summary": "This Zelda-themed chess set is at its lowest price ever in Prime Day sales.",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-chess-set-is-on-sale-for-the-first-time-during-prime-day",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T21:07:52+00:00"
-    },
-    {
-      "id": "49c6c05665635982cda0c49c",
-      "title": "Save $2,500 Off an Alienware Area-51 Gaming PC With GeForce RTX 5090 GPU, 64GB of RAM, and a 4TB SSD",
-      "summary": "Warning: it's still expensive",
-      "url": "https://www.ign.com/articles/save-2500-off-an-alienware-area-51-gaming-pc-with-geforce-rtx-5090-gpu-64gb-of-ram-and-a-4tb-ssd",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T21:05:00+00:00"
-    },
-    {
-      "id": "a00754de0a4614914b0d6c4d",
-      "title": "Pick Up a Powerful and Infinitely Reusable Cordless Electric Air Duster for $20 During Amazon Prime Day",
-      "summary": "Your dusty PC thanks you for your purchase.",
-      "url": "https://www.ign.com/articles/jufinx-cordless-electric-air-duster-deal-amazon-prime-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-24T20:50:00+00:00"
-    },
-    {
       "id": "e948f97158d04ff0353c9166",
       "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
@@ -286,28 +363,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-24T15:00:34+00:00"
-    },
-    {
-      "id": "356f8be6cdec0db869b856e1",
-      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T14:57:21+00:00"
-    },
-    {
-      "id": "b71ebaedeb27cfc366ae1875",
-      "title": "Kenya to charge students with murder over deadly school fire",
-      "summary": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T14:36:42+00:00"
     },
     {
       "id": "fad6ff3a5b75e463592b636a",
@@ -409,17 +464,6 @@
       "publishedAt": "2026-06-24T08:29:06+00:00"
     },
     {
-      "id": "c51332068f96be16aa5cc39b",
-      "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
-      "summary": "Ahmed al Ahmed tackled one of the gunmen who killed 15 people at a Jewish event in December.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T04:06:51+00:00"
-    },
-    {
       "id": "a7a37bdafb04d10900f6770e",
       "title": "La « clipification », ou comment les courts formats vidéo recomposent l’espace médiatique",
       "summary": "S’il n’est pas nouveau, le principe du clip est devenu en quelques années le mode d’expression dominant sur Internet, bien au-delà du champ publicitaire. La question des effets culturels et cognitifs de ce formatage fait débat.",
@@ -475,17 +519,6 @@
       "publishedAt": "2026-06-24T00:00:06+00:00"
     },
     {
-      "id": "f92614685377d910c2f7fbbc",
-      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
-      "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
-      "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-23T23:46:01+00:00"
-    },
-    {
       "id": "fd9a22fec1124409644ce0b3",
       "title": "Google's YouTube settles social media addiction case with teen",
       "summary": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
@@ -495,17 +528,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-23T23:39:55+00:00"
-    },
-    {
-      "id": "4264db266369fcf9d6b90ab8",
-      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-      "summary": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-23T23:25:07+00:00"
     },
     {
       "id": "9e0853a716b6c5773cd14a2e",
@@ -605,28 +627,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-23T15:01:40+00:00"
-    },
-    {
-      "id": "b24f523b666917103016a84c",
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-23T14:55:31+00:00"
-    },
-    {
-      "id": "331ab7ec029a0dbd8abd3824",
-      "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
-      "summary": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-23T14:19:21+00:00"
     },
     {
       "id": "7191ffdc9fb90ff3ebbc87d7",
@@ -781,17 +781,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-21T23:21:05+00:00"
-    },
-    {
-      "id": "07ec6b09c3cb00dd69da9e6a",
-      "title": "Parisians cool off in canal amid 'red alert' heatwave",
-      "summary": "France has issued red heatwave alerts for around half the country as temperatures soar to record levels.",
-      "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-21T17:15:56+00:00"
     },
     {
       "id": "53890c348a196839a70d00da",
