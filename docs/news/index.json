@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-06-27T02:39:34.598410+00:00",
+  "updatedAt": "2026-06-27T06:22:54.228887+00:00",
   "items": [
+    {
+      "id": "0ec3771ce8b30646a4868792",
+      "title": "The 65\" LG Evo C5 4K OLED TV Drops to the Lowest Price of the Year on the Last Day of Prime Day",
+      "summary": "Amazon saved the best for last.",
+      "url": "https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-amazon-prime-day-sale-new-low-price",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-27T04:35:00+00:00"
+    },
+    {
+      "id": "cf56d8aa425854a0be8bb6dd",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T04:09:24+00:00"
+    },
+    {
+      "id": "e4b82baa28aa1b0711e74170",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T02:57:20+00:00"
+    },
+    {
+      "id": "789236ec4055f94b2943dbe0",
+      "title": "US strikes Iran after attack on cargo ship",
+      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T02:48:12+00:00"
+    },
+    {
+      "id": "875fe8761958249afe095155",
+      "title": "IA : l’administration Trump autorise Anthropic à réactiver son modèle Mythos pour un groupe restreint de partenaires américains",
+      "summary": "Le ministère du commerce avait brutalement contraint Anthropic à couper l’accès à ces deux modèles de pointe, le 12 juin, invoquant la sécurité nationale après la détection de failles.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/27/ia-l-administration-trump-autorise-anthropic-a-reactiver-son-modele-mythos-pour-un-groupe-restreint-de-partenaires-americains_6716121_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-27T02:43:40+00:00"
+    },
     {
       "id": "585909edeabbaa094ecead14",
       "title": "Just how much trouble is Canada's economy in?",
@@ -33,17 +88,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-27T01:05:30+00:00"
-    },
-    {
-      "id": "a4963a3a2e4380e52b191539",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-27T00:34:08+00:00"
     },
     {
       "id": "6b1dfdd7d13678d4a4ba17a8",
@@ -244,17 +288,6 @@
       "publishedAt": "2026-06-26T21:25:00+00:00"
     },
     {
-      "id": "b2ef6375a8d4ea3dbd2c1bf2",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
-      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-26T21:15:37+00:00"
-    },
-    {
       "id": "143421424c72fd61cd04c8ca",
       "title": "Nex Playground Drops to Its Lowest Price of the Year for Prime Day",
       "summary": "This family-friendly game console gets kids moving, learning, and playing together",
@@ -343,17 +376,6 @@
       "publishedAt": "2026-06-26T19:38:17+00:00"
     },
     {
-      "id": "3a83d9e5b5cb82bc117c7435",
-      "title": "The Highly-Rated Bambu Lab P1S Combo Multi-Color 3D Printer Drops to $499.99 for Prime Day",
-      "summary": "An excellent 3D printer for both novices and professionals.",
-      "url": "https://www.ign.com/articles/bambu-lab-p1s-combo-multi-color-3d-printer-deal-amazon-prime-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-26T19:30:00+00:00"
-    },
-    {
       "id": "2dc39ef2ce267e38a4e43ad5",
       "title": "Watch: Lightning strikes seen across UK",
       "summary": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat.",
@@ -418,17 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-26T17:05:22+00:00"
-    },
-    {
-      "id": "e4b82baa28aa1b0711e74170",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-26T16:45:21+00:00"
     },
     {
       "id": "089d3074346d52ed35aa82e3",
@@ -935,17 +946,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-24T04:00:33+00:00"
-    },
-    {
-      "id": "76f15e9b61fedd64ace39120",
-      "title": "Se reconvertir dans des métiers garantis « sans IA », une tentation pour les jeunes cols blancs américains",
-      "summary": "La révolution de l’intelligence artificielle, bien plus rapide aux Etats-Unis, bouscule les jeunes diplômés de l’université. Les emplois peu touchés par l’IA et les métiers manuels y gagnent en attractivité.",
-      "url": "https://www.lemonde.fr/emploi/article/2026/06/24/se-reconvertir-dans-des-metiers-garantis-sans-ia-une-tentation-pour-les-jeunes-cols-blancs-americains_6710204_1698637.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-24T04:00:27+00:00"
     },
     {
       "id": "fd9a22fec1124409644ce0b3",
