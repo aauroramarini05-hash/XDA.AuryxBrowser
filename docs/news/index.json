@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-06-27T06:22:54.228887+00:00",
+  "updatedAt": "2026-06-27T09:23:25.951113+00:00",
   "items": [
+    {
+      "id": "cf56d8aa425854a0be8bb6dd",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T08:56:30+00:00"
+    },
+    {
+      "id": "789236ec4055f94b2943dbe0",
+      "title": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T08:25:43+00:00"
+    },
+    {
+      "id": "c2312fa1b8a54ed4d2cc4f10",
+      "title": "Sam Barlow : l’art du récit fragmenté du créateur des jeux vidéo « Her Story » et « Immortality »",
+      "summary": "Depuis « Her Story », en 2015, le concepteur de jeux vidéo subvertit les mécaniques narratives traditionnelles, immergeant le joueur dans une profusion de fragments de vidéos et lui confiant le soin de recoller les morceaux.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/27/sam-barlow-l-art-du-recit-fragmente-du-createur-des-jeux-video-her-story-et-immortality_6716350_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-27T08:00:09+00:00"
+    },
     {
       "id": "0ec3771ce8b30646a4868792",
       "title": "The 65\" LG Evo C5 4K OLED TV Drops to the Lowest Price of the Year on the Last Day of Prime Day",
@@ -11,17 +44,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-27T04:35:00+00:00"
-    },
-    {
-      "id": "cf56d8aa425854a0be8bb6dd",
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
-      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-27T04:09:24+00:00"
     },
     {
       "id": "e4b82baa28aa1b0711e74170",
@@ -35,17 +57,6 @@
       "publishedAt": "2026-06-27T02:57:20+00:00"
     },
     {
-      "id": "789236ec4055f94b2943dbe0",
-      "title": "US strikes Iran after attack on cargo ship",
-      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-27T02:48:12+00:00"
-    },
-    {
       "id": "875fe8761958249afe095155",
       "title": "IA : l’administration Trump autorise Anthropic à réactiver son modèle Mythos pour un groupe restreint de partenaires américains",
       "summary": "Le ministère du commerce avait brutalement contraint Anthropic à couper l’accès à ces deux modèles de pointe, le 12 juin, invoquant la sécurité nationale après la détection de failles.",
@@ -54,7 +65,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-27T02:43:40+00:00"
+      "publishedAt": "2026-06-27T02:43:38+00:00"
     },
     {
       "id": "585909edeabbaa094ecead14",
@@ -134,8 +145,8 @@
       "publishedAt": "2026-06-26T23:02:23+00:00"
     },
     {
-      "id": "eecb35071543f947c1bf6438",
-      "title": "The first non-stop London to Sydney flight is coming - with challenges",
+      "id": "ca0fdc19611bbea39903890b",
+      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
       "summary": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
       "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -428,7 +439,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-26T18:00:04+00:00"
+      "publishedAt": "2026-06-26T18:00:01+00:00"
     },
     {
       "id": "e578017f321db07f1acb13d9",
@@ -530,28 +541,6 @@
       "publishedAt": "2026-06-26T10:06:11+00:00"
     },
     {
-      "id": "d1de0050cf15be0c98cf5035",
-      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-      "summary": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions.",
-      "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-26T09:42:26+00:00"
-    },
-    {
-      "id": "34c100e94fa513dcad264405",
-      "title": "Asia stock markets slide as tech shares slump",
-      "summary": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-26T07:33:10+00:00"
-    },
-    {
       "id": "397eb9fc2c2f29d3887dbda1",
       "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
       "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
@@ -618,17 +607,6 @@
       "publishedAt": "2026-06-26T03:32:56+00:00"
     },
     {
-      "id": "db0a367a3295bc225ffe9c3a",
-      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-      "summary": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-26T02:18:04+00:00"
-    },
-    {
       "id": "f37348b6795c904f9fe40c1b",
       "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
       "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
@@ -638,28 +616,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-26T02:12:07+00:00"
-    },
-    {
-      "id": "482f2781965c59a221f35c8b",
-      "title": "Row over alleged theft of donations from India's landmark Ram temple",
-      "summary": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
-      "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-26T01:02:36+00:00"
-    },
-    {
-      "id": "497818bdd00ed42d547e58f8",
-      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-      "summary": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-26T00:06:45+00:00"
     },
     {
       "id": "150a58fc4aa6bc39b95bfe10",
@@ -684,17 +640,6 @@
       "publishedAt": "2026-06-25T19:41:22+00:00"
     },
     {
-      "id": "725ed568edcc80cf6359470b",
-      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-      "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-25T18:50:12+00:00"
-    },
-    {
       "id": "215303451b4445793e579f95",
       "title": "Les dessous de « Legend », le média en ligne de Guillaume Pley qui pourrait peser dans la campagne présidentielle",
       "summary": "Le fondateur de « Legend », Guillaume Pley, se targue de proposer des vidéos d’interviews bienveillantes, neutres et qui parlent à tout le monde. Notre analyse d’une année entière d’émissions et les témoignages exclusifs recueillis auprès d’anciens salariés racontent une réalité bien différente.",
@@ -704,17 +649,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-25T17:00:00+00:00"
-    },
-    {
-      "id": "ec84df0289c6ed2b77675902",
-      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
-      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-25T16:53:51+00:00"
     },
     {
       "id": "7f76a9baaf7ddfa778a8d4f8",
@@ -747,18 +681,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-25T16:00:17+00:00"
-    },
-    {
-      "id": "5f7a219e0f71f03b2174b055",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-25T15:32:04+00:00"
+      "publishedAt": "2026-06-25T16:00:04+00:00"
     },
     {
       "id": "d93e88919c39c8a80049a0fe",
@@ -772,17 +695,6 @@
       "publishedAt": "2026-06-25T14:59:08+00:00"
     },
     {
-      "id": "264d00b7fd8621e040804d0c",
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
-      "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-25T14:00:13+00:00"
-    },
-    {
       "id": "740309b4587d515b381bd459",
       "title": "La bataille des économistes Philippe Aghion et Paul Krugman sur le décrochage de l’Europe",
       "summary": "Philippe Aghion, « Prix Nobel d’économie » 2025, constate un décrochage inquiétant de la productivité européenne comparée à celle des Etats-Unis tandis que Paul Krugman, « Prix Nobel d’économie » 2008, souligne le maintien de la prospérité du Vieux Continent. Serait-il possible qu’ils aient tous les deux raison ?, s’interroge Pascal Riché, journali",
@@ -794,17 +706,6 @@
       "publishedAt": "2026-06-25T13:00:03+00:00"
     },
     {
-      "id": "c9abfa8b383bae39d8776ff2",
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "summary": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-25T12:08:33+00:00"
-    },
-    {
       "id": "821568fd8531e2d22ba4a174",
       "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
       "summary": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
@@ -814,17 +715,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-25T10:04:43+00:00"
-    },
-    {
-      "id": "0daec6c3fc0909df417f4d9d",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-25T09:06:59+00:00"
     },
     {
       "id": "f034b4888a96fc9af38c6e42",
@@ -849,17 +739,6 @@
       "publishedAt": "2026-06-25T07:47:54+00:00"
     },
     {
-      "id": "9580ce0ccf6a635225b6ea76",
-      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-      "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-25T03:12:17+00:00"
-    },
-    {
       "id": "5fb971c3e9768d0531b29c62",
       "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
       "summary": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
@@ -869,17 +748,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-24T23:20:12+00:00"
-    },
-    {
-      "id": "b86d98b5e292eea5eaed3021",
-      "title": "Philippines bans video game played by alleged high school shooter",
-      "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
-      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-24T22:14:12+00:00"
     },
     {
       "id": "8d577f124369f0d8c92f95a0",
@@ -935,17 +803,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-24T10:22:34+00:00"
-    },
-    {
-      "id": "a7a37bdafb04d10900f6770e",
-      "title": "La « clipification », ou comment les courts formats vidéo recomposent l’espace médiatique",
-      "summary": "S’il n’est pas nouveau, le principe du clip est devenu en quelques années le mode d’expression dominant sur Internet, bien au-delà du champ publicitaire. La question des effets culturels et cognitifs de ce formatage fait débat.",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/24/la-clipification-ou-comment-les-courts-formats-video-recomposent-l-espace-mediatique_6710206_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-24T04:00:33+00:00"
     },
     {
       "id": "fd9a22fec1124409644ce0b3",
