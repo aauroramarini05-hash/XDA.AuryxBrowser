@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-06-27T09:23:25.951113+00:00",
+  "updatedAt": "2026-06-27T11:21:20.313271+00:00",
   "items": [
+    {
+      "id": "789236ec4055f94b2943dbe0",
+      "title": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T10:40:38+00:00"
+    },
     {
       "id": "cf56d8aa425854a0be8bb6dd",
       "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
@@ -11,17 +22,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-27T08:56:30+00:00"
-    },
-    {
-      "id": "789236ec4055f94b2943dbe0",
-      "title": "US strikes Iran after attack on cargo ship",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-27T08:25:43+00:00"
     },
     {
       "id": "c2312fa1b8a54ed4d2cc4f10",
@@ -46,6 +46,17 @@
       "publishedAt": "2026-06-27T04:35:00+00:00"
     },
     {
+      "id": "55b87dc1bfc7db3501ba51a6",
+      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+      "summary": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
+      "url": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T03:07:46+00:00"
+    },
+    {
       "id": "e4b82baa28aa1b0711e74170",
       "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
       "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
@@ -57,8 +68,8 @@
       "publishedAt": "2026-06-27T02:57:20+00:00"
     },
     {
-      "id": "875fe8761958249afe095155",
-      "title": "IA : l’administration Trump autorise Anthropic à réactiver son modèle Mythos pour un groupe restreint de partenaires américains",
+      "id": "a9d384f135c89f93594f39d9",
+      "title": "Mythos : les Etats-Unis autorisent Anthropic à réactiver son modèle d’IA pour un cercle restreint d’acteurs américains",
       "summary": "Le ministère du commerce avait brutalement contraint Anthropic à couper l’accès à ces deux modèles de pointe, le 12 juin, invoquant la sécurité nationale après la détection de failles.",
       "url": "https://www.lemonde.fr/pixels/article/2026/06/27/ia-l-administration-trump-autorise-anthropic-a-reactiver-son-modele-mythos-pour-un-groupe-restreint-de-partenaires-americains_6716121_4408996.html",
       "imageUrl": null,
@@ -101,6 +112,17 @@
       "publishedAt": "2026-06-27T01:05:30+00:00"
     },
     {
+      "id": "d464338614522f0558fa0df0",
+      "title": "Pete Buttigieg briefly separated from children after false police report",
+      "summary": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T00:40:44+00:00"
+    },
+    {
       "id": "6b1dfdd7d13678d4a4ba17a8",
       "title": "Religion row as Texas makes Bible stories required reading in schools",
       "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
@@ -123,8 +145,8 @@
       "publishedAt": "2026-06-26T23:56:00+00:00"
     },
     {
-      "id": "6c6fefa5d552db544da2cc97",
-      "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
+      "id": "acea2772337fcf141db780ad",
+      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
       "summary": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
       "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -418,6 +440,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-26T18:36:32+00:00"
+    },
+    {
+      "id": "21ccffe93549a65fcc77e303",
+      "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+      "summary": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that tipping fatigue has set in.",
+      "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-26T18:20:04+00:00"
     },
     {
       "id": "2a91b0506efc4fd2dc559923",
