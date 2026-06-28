@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-06-28T07:43:38.043953+00:00",
+  "updatedAt": "2026-06-28T10:20:58.706643+00:00",
   "items": [
+    {
+      "id": "82e2c8b80d9624ec862398ee",
+      "title": "Uganda's leading media outlets say they are under 'military siege'",
+      "summary": "The army chief says he does not believe in a free press and has ordered the shutdown of NTV and Daily Monitor.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-28T10:11:35+00:00"
+    },
     {
       "id": "b8db2ad54daf2259c58f1f92",
       "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
@@ -13,8 +24,8 @@
       "publishedAt": "2026-06-28T04:54:50+00:00"
     },
     {
-      "id": "3b256dd4cd5946cbbc61f3ee",
-      "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+      "id": "36f381284327b06a44e7d507",
+      "title": "Bad Bunny lights up London with history-making stadium show",
       "summary": "Pride and a party as the Puerto Rican becomes the first Latin artist to headline a UK stadium.",
       "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -55,6 +66,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-28T00:20:42+00:00"
+    },
+    {
+      "id": "95d936c6445121fc93898db0",
+      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-28T00:06:19+00:00"
     },
     {
       "id": "36065228177e8ee1a50a9fea",
@@ -110,6 +132,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-27T22:39:02+00:00"
+    },
+    {
+      "id": "1ff73d2d5ac08a3a0940da27",
+      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
+      "summary": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-27T22:34:11+00:00"
     },
     {
       "id": "35cef97903a3eabfe0b11d40",
@@ -180,7 +213,7 @@
     {
       "id": "281be7b62a6cabd885e48305",
       "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-      "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+      "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
       "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
