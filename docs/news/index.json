@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-06-28T21:55:01.652163+00:00",
+  "updatedAt": "2026-06-28T22:55:25.341287+00:00",
   "items": [
+    {
+      "id": "67452bc267ea88b1e9636bdb",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-28T21:58:45+00:00"
+    },
     {
       "id": "e59cdbd09a7617fbe176d70e",
       "title": "Spider-Man: Brand New Day Star Tom Holland Says He's Working to Bring Miles Morales Into the MCU",
@@ -55,17 +66,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-28T19:31:46+00:00"
-    },
-    {
-      "id": "67452bc267ea88b1e9636bdb",
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-28T19:21:07+00:00"
     },
     {
       "id": "926e20e27598cc186ec54084",
@@ -816,10 +816,10 @@
       "publishedAt": "2026-06-23T23:39:55+00:00"
     },
     {
-      "id": "6eb5c7cb80d2a42bcf80b191",
+      "id": "32cde5bfac14c6e1b53fb42f",
       "title": "Tech Life",
       "summary": "We're at one of Europe's biggest tech events.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy1?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
