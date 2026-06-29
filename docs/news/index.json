@@ -1,16 +1,126 @@
 {
-  "updatedAt": "2026-06-29T00:02:00.828429+00:00",
+  "updatedAt": "2026-06-29T05:23:39.157559+00:00",
   "items": [
     {
-      "id": "67452bc267ea88b1e9636bdb",
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+      "id": "206767b5c77d78278d5ee228",
+      "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+      "summary": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.",
       "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-28T21:58:45+00:00"
+      "publishedAt": "2026-06-29T05:13:11+00:00"
+    },
+    {
+      "id": "3580b0e43e67849a206a5519",
+      "title": "Pakistan launches deadly strikes along Afghan border",
+      "summary": "Pakistan says its strikes were a response to \"recent terrorist attacks against innocent people\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-29T04:39:05+00:00"
+    },
+    {
+      "id": "c7ba600398ffb07ce883ba02",
+      "title": "ChapsVision, cette entreprise de logiciels française méconnue qui va remplacer l’américain Palantir à la DGSI",
+      "summary": "La discrète société d’Olivier Dellenbach a remporté, mi-juin, un contrat-clé avec les services du renseignement intérieur français. Elle veut s’appuyer sur ce succès pour lever les doutes sur sa capacité à rivaliser avec le géant de l’analyse de données.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/29/chapsvision-cette-entreprise-de-logiciels-francaise-meconnue-qui-va-remplacer-l-americain-palantir-a-la-dgsi_6716868_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-29T04:30:05+00:00"
+    },
+    {
+      "id": "5809082606175dea8d7ba928",
+      "title": "Anger directed at Venezuela's official response to earthquake recovery",
+      "summary": "Residents in quake-affected areas have expressed anger over the state's efforts to locate survivors and help victims, the BBC's Orla Guerin reports.",
+      "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-29T03:35:09+00:00"
+    },
+    {
+      "id": "0afbf7bcee4109142c583580",
+      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
+      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-29T03:34:21+00:00"
+    },
+    {
+      "id": "e299113a1c1ff81e981938bb",
+      "title": "SNK Explains Why They Couldn’t Make Terry Bogard Explode While Fighting Kenshiro in City of the Wolves",
+      "summary": "SNK told us how they managed to pull off one of Kenshiro's most iconic moves without sacrificing their Teen ESRB rating.",
+      "url": "https://www.ign.com/articles/snk-explains-why-they-couldnt-make-terry-bogard-explode-while-fighting-kenshiro-in-city-of-the-wolves",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-29T02:34:55+00:00"
+    },
+    {
+      "id": "805e7f8bd50f166fe0294ea0",
+      "title": "House of the Dragon Season 3: Helaena’s “Strange” Comment Hints at a Major Fan Theory",
+      "summary": "“This is strange. It isn’t the season.” House of the Dragon: Season 3, Episode 2 includes that brief but notable dialogue spoken by Helaena Targaryen, lines that demand closer scrutiny given her precognitive power.",
+      "url": "https://www.ign.com/articles/house-of-the-dragon-season-3-helaena-fan-theory-caterpillar",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-29T02:15:00+00:00"
+    },
+    {
+      "id": "c1f0425c2819ddcd4c419f33",
+      "title": "House of the Dragon Season 3, Episode 2 Recap and Review",
+      "summary": "In this week's House of the Dragon, Rhaenyra’s eyes are fixed on the throne – but her one-track focus may be causing her to miss things.",
+      "url": "https://www.ign.com/articles/house-of-the-dragon-season-3-episode-2-recap-and-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-29T02:00:00+00:00"
+    },
+    {
+      "id": "668a93f979292ea6fbb31aec",
+      "title": "The Vampire Lestat Creator Says Dipping Into Queen of the Damned and the Devil’s Minion Duo Needed the ‘Same Sort of a Weirdness to Their Manifestation’ as in the Book",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-vampire-lestat-episode-3-queen-of-the-damned-devils-minion-rolin-jones",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-29T02:00:00+00:00"
+    },
+    {
+      "id": "4c7d897fc7749d1c7a336dda",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "summary": "The body of Tunchanok Donhomla, 17, was found discarded near a railway track on Saturday, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-29T01:58:29+00:00"
+    },
+    {
+      "id": "d588a423e75914eb2683eb48",
+      "title": "Five of the Hottest Games From Summer of Gaming 2026",
+      "summary": "Check out some of the best titles coming to PS5, Xbox Series X and Nintendo Switch 2.",
+      "url": "https://www.ign.com/articles/five-of-the-hottest-games-from-summer-of-gaming-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-29T01:55:47+00:00"
     },
     {
       "id": "e59cdbd09a7617fbe176d70e",
@@ -143,17 +253,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-28T15:19:53+00:00"
-    },
-    {
-      "id": "4c7d897fc7749d1c7a336dda",
-      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
-      "summary": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-28T14:30:05+00:00"
     },
     {
       "id": "b8db2ad54daf2259c58f1f92",
@@ -420,50 +519,6 @@
       "publishedAt": "2026-06-27T14:30:00+00:00"
     },
     {
-      "id": "060e3cf0a8e27f5deebcae27",
-      "title": "Five Nights at Freddy's 3 Enlists It and Annabelle Writer for Its Script",
-      "summary": "Five Nights at Freddy's 3 has reportedly tapped It and Annabelle scribe Gary Dauberman to write its script.",
-      "url": "https://www.ign.com/articles/five-nights-at-freddys-3-enlists-it-and-annabelle-writer-for-its-script",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-27T14:24:44+00:00"
-    },
-    {
-      "id": "d10e0172098712d1f0ea8904",
-      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-      "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
-      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-27T14:22:37+00:00"
-    },
-    {
-      "id": "c041fe13880b0dae66c1e720",
-      "title": "25 Years Later, Atlantis: The Lost Empire Has Become One of Disney’s Most Important Movies",
-      "summary": "",
-      "url": "https://www.ign.com/articles/atlantis-the-lost-empire-has-become-one-of-disneys-most-important-movies",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-27T14:00:00+00:00"
-    },
-    {
-      "id": "9f1ed8f9cb329252c2a28dfc",
-      "title": "The Huge $650 Pokémon LEGO Set Is Up for Preorder at Amazon",
-      "summary": "LEGO Pokémon Venusaur, Charizard and Blastoise is now available at Amazon (for, ahem, $650).",
-      "url": "https://www.ign.com/articles/the-huge-650-pokmon-lego-set-is-available-at-amazon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-27T14:00:00+00:00"
-    },
-    {
       "id": "33ae7494483096630283e8a9",
       "title": "L’Australie va doubler les amendes pour violation de l’interdiction des réseaux sociaux aux mineurs",
       "summary": "« Il est clair que les géants de la tech ne font pas assez pour se conformer à la loi ; il y a encore trop d’enfants sur les réseaux sociaux », a déclaré le premier ministre, Anthony Albanese.",
@@ -475,28 +530,6 @@
       "publishedAt": "2026-06-27T13:14:20+00:00"
     },
     {
-      "id": "4e7d2ee36284e836cc292c1b",
-      "title": "Newborn baby rescued from Venezuela earthquake rubble",
-      "summary": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
-      "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-27T12:51:25+00:00"
-    },
-    {
-      "id": "ed978df3b3aad34fb0272df6",
-      "title": "No, There Is No GTA 6 Physical Disc Coming Out at Launch or the Months After — Those Reports and Social Media Posts Are Incorrect",
-      "summary": "Viral social media posts and articles claiming a physical disc copy of GTA 6 is in the works are incorrect.",
-      "url": "https://www.ign.com/articles/no-there-is-no-gta-6-physical-disc-coming-out-at-launch-or-the-months-after-those-reports-and-social-media-posts-are-incorrect",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-27T12:12:22+00:00"
-    },
-    {
       "id": "c2312fa1b8a54ed4d2cc4f10",
       "title": "Sam Barlow : l’art du récit fragmenté du créateur des jeux vidéo « Her Story » et « Immortality »",
       "summary": "Depuis « Her Story », en 2015, le concepteur de jeux vidéo subvertit les mécaniques narratives traditionnelles, immergeant le joueur dans une profusion de fragments de vidéos et lui confiant le soin de recoller les morceaux.",
@@ -506,17 +539,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-27T08:00:09+00:00"
-    },
-    {
-      "id": "0ec3771ce8b30646a4868792",
-      "title": "The 65\" LG Evo C5 4K OLED TV Drops to the Lowest Price of the Year on the Last Day of Prime Day",
-      "summary": "Amazon saved the best for last.",
-      "url": "https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-amazon-prime-day-sale-new-low-price",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-27T04:35:00+00:00"
     },
     {
       "id": "a9d384f135c89f93594f39d9",
@@ -792,17 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-24T12:00:05+00:00"
-    },
-    {
-      "id": "6b408ccf4987c8136a11d0e9",
-      "title": "OpenClaw, ce « stagiaire » animé par IA qui fait ses premiers pas dans les start-up françaises",
-      "summary": "Le tout jeune logiciel, qui combine plusieurs intelligences artificielles pour automatiser des tâches chronophages, commence à être utilisé par certaines jeunes pousses. Mais le fantasme d’une entreprise sans employés n’est pas encore une réalité.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/24/openclaw-ce-stagiaire-anime-par-ia-qui-fait-ses-premiers-pas-dans-les-start-up-francaises_6711085_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-24T11:00:02+00:00"
     },
     {
       "id": "fd9a22fec1124409644ce0b3",
