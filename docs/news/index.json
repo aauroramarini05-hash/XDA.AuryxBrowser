@@ -1,9 +1,86 @@
 {
-  "updatedAt": "2026-06-30T22:09:47.343801+00:00",
+  "updatedAt": "2026-06-30T23:59:29.858864+00:00",
   "items": [
     {
-      "id": "a5b9a7f6f931e76f50ad796a",
-      "title": "Daigo Says 'Random' State of Street Fighter 6 is Good for Casuals, but Makes it Hard to Crown a GOAT",
+      "id": "4f0d343f3cc195b1d1c80d11",
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+      "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T23:41:11+00:00"
+    },
+    {
+      "id": "fb5d0b9b2a7b19d32276c660",
+      "title": "Ex-PlayStation Boss Defends PC Strategy as Sony Pivots Away from Multiplatform Releases",
+      "summary": "Shawn Layden, the former President and CEO of Sony Interactive Entertainment of America, has explained why PlayStation's PC strategy made sense.",
+      "url": "https://www.ign.com/articles/ex-playstation-boss-defends-pc-strategy-as-sony-pivots-away-from-multiplatform-releases",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-30T23:05:19+00:00"
+    },
+    {
+      "id": "d9ec07899161723b5a372673",
+      "title": "E-scooters being advertised for commuting despite UK road ban",
+      "summary": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
+      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-30T23:05:08+00:00"
+    },
+    {
+      "id": "c81ab92d34403fc9d7fe38ba",
+      "title": "Everything Coming to Amazon Prime Video in July",
+      "summary": "",
+      "url": "https://www.ign.com/articles/whats-new-on-amazon-prime-video-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-30T22:52:54+00:00"
+    },
+    {
+      "id": "c180d3c803041fac3dedf64c",
+      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T22:29:47+00:00"
+    },
+    {
+      "id": "afa560459257f1cf4073326c",
+      "title": "Civilization 7 Review Update",
+      "summary": "A year and a half of updates have brought meaningful improvements alongside a few steps backward.",
+      "url": "https://www.ign.com/articles/civilization-7-review-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-30T22:15:41+00:00"
+    },
+    {
+      "id": "577b66c591e22452517b22ac",
+      "title": "Everything Coming to Disney+ in July",
+      "summary": "",
+      "url": "https://www.ign.com/articles/whats-new-on-disney-plus-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-30T22:03:25+00:00"
+    },
+    {
+      "id": "0828a3afcd160dea9c5a6931",
+      "title": "Daigo Says 'Random' State of Street Fighter 6 Is Good for Casuals, but Makes It Hard to Crown a GOAT",
       "summary": "While Daigo Umehara isn’t dissatisfied with the current state of Street Fighter 6, he says the game’s “random” style makes it difficult to determine the best player in modern tournament settings.",
       "url": "https://www.ign.com/articles/daigo-says-random-state-of-street-fighter-6-is-good-for-casuals-but-makes-it-hard-to-crown-a-goat",
       "imageUrl": null,
@@ -224,7 +301,7 @@
     {
       "id": "4c1b174f3cb336a99ba81732",
       "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-      "summary": "The BBC's Katy Watson explains why troops are training in remote Australia - a country not at war, thousands of kilometres from today's major conflicts.",
+      "summary": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
       "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -242,6 +319,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-30T18:37:23+00:00"
+    },
+    {
+      "id": "9df5f7c08696d36d037db470",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T18:28:41+00:00"
     },
     {
       "id": "6b49c03ea0aefec965c01e6c",
@@ -299,17 +387,6 @@
       "publishedAt": "2026-06-30T17:33:52+00:00"
     },
     {
-      "id": "bf3bf452dfed9b9f60ba472a",
-      "title": "Netflix Using AI to Resurrect Gene Wilder's Voice for Willy Wonka Reality Series The Golden Ticket",
-      "summary": "Netflix has used AI technology to revive the voice of Gene Wilder for its new Willy Wonka reality show, Wonka's The Golden Ticket.",
-      "url": "https://www.ign.com/articles/netflix-using-ai-to-resurrect-gene-wilders-voice-for-willy-wonka-reality-series-the-golden-ticket",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-30T17:19:23+00:00"
-    },
-    {
       "id": "2094780a60fe51003c832a55",
       "title": "Polémique Guillaume Erner : le CRIF assume un soutien « matériel et moral » à « LEON le média »",
       "summary": "Principalement suivi sur Instagram, ce « média engagé » avait publié un montage trompeur de propos de Jean-Luc Mélenchon, repris à l’antenne de France Culture.",
@@ -319,17 +396,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-30T17:13:08+00:00"
-    },
-    {
-      "id": "b8c75fd6b1fc447a57d68032",
-      "title": "Microsoft Reportedly Considering Canceling Marvel's Blade and Shutting Arkane Down",
-      "summary": "Microsoft is reportedly considering canceling Marvel’s Blade and shutting its developer, Arkane, down.",
-      "url": "https://www.ign.com/articles/microsoft-reportedly-considering-canceling-marvels-blade-and-shutting-arkane-down",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-30T17:10:21+00:00"
     },
     {
       "id": "188d20e3084234b8ddcbe01c",
@@ -343,28 +409,6 @@
       "publishedAt": "2026-06-30T17:01:02+00:00"
     },
     {
-      "id": "fed57423894d9441a56fb846",
-      "title": "Love and Deepspace Cancels New Wolfy Love Interest Valko",
-      "summary": "Otome game Love and Deepspace will no longer add new love interest Valko to its roster of potential partners.",
-      "url": "https://www.ign.com/articles/love-and-deepspace-cancels-new-wolfy-love-interest-valko",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-30T16:50:27+00:00"
-    },
-    {
-      "id": "8ce23fe172a0590d0bb2f8af",
-      "title": "Corsair One A600 Review",
-      "summary": "",
-      "url": "https://www.ign.com/articles/corsair-one-a600-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-30T16:42:55+00:00"
-    },
-    {
       "id": "f3a97e7cd5daf5ad4468b256",
       "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
       "summary": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
@@ -374,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-30T16:12:25+00:00"
-    },
-    {
-      "id": "4f0d343f3cc195b1d1c80d11",
-      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-      "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T15:40:50+00:00"
     },
     {
       "id": "91e9e2a3684565bea39db204",
@@ -451,28 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-30T12:21:38+00:00"
-    },
-    {
-      "id": "163fbe4fcfa016e1c8706ca8",
-      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-      "summary": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T11:20:44+00:00"
-    },
-    {
-      "id": "aa003a69fe6e4ce12e05f01d",
-      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-      "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T11:16:20+00:00"
     },
     {
       "id": "b85d508f9142dfc1c7d4739c",
@@ -563,28 +574,6 @@
       "publishedAt": "2026-06-30T03:00:00+00:00"
     },
     {
-      "id": "e1217b166f8b6f7a582faa65",
-      "title": "Chinese tycoon sentenced to 30 years in US jail",
-      "summary": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T02:08:21+00:00"
-    },
-    {
-      "id": "c99f1f21843de0d774866d96",
-      "title": "What do we know about the shooting in Stade, Germany?",
-      "summary": "The BBC's Jessica Parker reports from the scene of the shooting that killed six people in northern Germany.",
-      "url": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T00:17:27+00:00"
-    },
-    {
       "id": "c514f88d10be1e871f395cbb",
       "title": "Why $20 durians are now being sold at half price - or given away for free",
       "summary": "As Malaysian durians are being sold at throwaway prices, farmers worry about their livelihoods.",
@@ -607,17 +596,6 @@
       "publishedAt": "2026-06-29T22:56:40+00:00"
     },
     {
-      "id": "daa5e0e91c10078fa58a4eaf",
-      "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-      "summary": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T21:21:15+00:00"
-    },
-    {
       "id": "8f1b823582354ccd80d552a3",
       "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
       "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
@@ -627,17 +605,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-29T21:19:28+00:00"
-    },
-    {
-      "id": "c581c22281aebe9b1eb2293e",
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-      "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T20:34:52+00:00"
     },
     {
       "id": "44a31cc80fe4bb34c158260a",
@@ -651,28 +618,6 @@
       "publishedAt": "2026-06-29T20:22:13+00:00"
     },
     {
-      "id": "18e1bbf559a7c8720e2ce986",
-      "title": "Six people shot dead at centre for mothers and children in Germany",
-      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T19:53:57+00:00"
-    },
-    {
-      "id": "d14fae00e1c37bbafbc1dc36",
-      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "summary": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T17:28:59+00:00"
-    },
-    {
       "id": "294d9a7de998bfcf6284edae",
       "title": "« Le rire en politique, lorsqu’il est instrumentalisé au profit du plus fort, se moque pour entretenir une domination »",
       "summary": "Au nom du droit à l’humour, l’ironie propagée par l’extrême droite sur les réseaux sociaux et dans le discours politique repousse progressivement les limites de ce qui est acceptable en politique, analyse le chercheur Denis Saint-Amand dans un entretien au « Monde ».",
@@ -684,17 +629,6 @@
       "publishedAt": "2026-06-29T17:00:15+00:00"
     },
     {
-      "id": "a065842c0d08f2aca04686d7",
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-      "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T16:51:52+00:00"
-    },
-    {
       "id": "b2d5ba39aefe1ae224eec387",
       "title": "Pourquoi le bitcoin n’en finit pas de dégringoler",
       "summary": "La chute du plus connu des cryptoactifs dépasse 50 % depuis octobre 2025. L’ensemble du marché des « cryptos » souffre de l’aversion au risque, mais aussi de la concurrence des valeurs liées à l’intelligence artificielle.",
@@ -704,28 +638,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-29T16:30:10+00:00"
-    },
-    {
-      "id": "1dca8ec0faff05d78b1cdf26",
-      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-      "summary": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T15:46:50+00:00"
-    },
-    {
-      "id": "6ed1e999f8174e4bb4965603",
-      "title": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
-      "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-      "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T14:40:58+00:00"
     },
     {
       "id": "23207757ad4fa9d06fbfc0c2",
@@ -759,17 +671,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-29T07:55:19+00:00"
-    },
-    {
-      "id": "0afbf7bcee4109142c583580",
-      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T07:18:14+00:00"
     },
     {
       "id": "c7ba600398ffb07ce883ba02",
@@ -990,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-23T20:00:00+00:00"
-    },
-    {
-      "id": "c0d5cdc931cd83d21eb98ab2",
-      "title": "Meta halts worker tracking for AI training due to privacy fears",
-      "summary": "The company had started just two months ago tracking workers’ computer usage for AI training data.",
-      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-23T17:51:30+00:00"
     },
     {
       "id": "2bb4264ea4310312df95884e",
