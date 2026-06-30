@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-06-30T02:33:32.921463+00:00",
+  "updatedAt": "2026-06-30T06:48:45.609691+00:00",
   "items": [
+    {
+      "id": "d58c781a039f4ac4d322ce8a",
+      "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
+      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T06:28:18+00:00"
+    },
+    {
+      "id": "4e0cf8e913f36f2f8acbd41e",
+      "title": "Watch: Young bald eagle takes first flight in California",
+      "summary": "A popular stream set up by the Friends of Big Bear Valley caught the moment a juvenile eagle nicknamed Luna spread its wings.",
+      "url": "https://www.bbc.co.uk/news/videos/cp3x257qkx9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T05:59:50+00:00"
+    },
+    {
+      "id": "c034d1bb26a574d4ec51f6ff",
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T04:21:58+00:00"
+    },
+    {
+      "id": "4e482b5cdf7970e68d4b83f3",
+      "title": "Angry Venezuelans accuse government of negligence and apathy",
+      "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T03:53:48+00:00"
+    },
+    {
+      "id": "cf0b97a78c4e726b889ae6ec",
+      "title": "Coup de tonnerre dans le monde des cryptomonnaies : la nouvelle réglementation exclut des centaines de plateformes du marché européen, dont la géante Binance",
+      "summary": "La plateforme d’échanges Binance doit cesser ses activités en Europe, faute d’agrément. Ses clients ont déjà retiré 400 millions d’euros d’actifs la semaine dernière.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/30/coup-de-tonnerre-dans-le-monde-des-cryptomonnaies-la-nouvelle-reglementation-exclut-des-centaines-de-plateformes-du-marche-europeen-dont-la-geante-binance_6717156_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-30T03:00:10+00:00"
+    },
+    {
+      "id": "e1217b166f8b6f7a582faa65",
+      "title": "Chinese tycoon sentenced to 30 years in US jail",
+      "summary": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T02:08:21+00:00"
+    },
     {
       "id": "c99f1f21843de0d774866d96",
       "title": "What do we know about the shooting in Stade, Germany?",
@@ -13,6 +79,28 @@
       "publishedAt": "2026-06-30T00:17:27+00:00"
     },
     {
+      "id": "47111c88f6d80a101aa5edb3",
+      "title": "What to know about the looming deadline on North American free trade",
+      "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
+      "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-29T23:32:52+00:00"
+    },
+    {
+      "id": "c514f88d10be1e871f395cbb",
+      "title": "Why $20 durians are now being sold at half price - or given away for free",
+      "summary": "As Malaysian durians are being sold at throwaway prices, farmers worry about their livelihoods.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-29T23:17:19+00:00"
+    },
+    {
       "id": "e6983b6ac67d86830f43b607",
       "title": "Google va finalement lancer ses fonctionnalités IA sur son moteur de recherche en France « cet été »",
       "summary": "Pour expliquer l’exclusion de l’Hexagone de services pourtant déjà présents dans 200 pays, l’entreprise invoquait des « obstacles réglementaires » liés aux éditeurs de presse, qu’elle a levés.",
@@ -21,7 +109,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-29T22:56:41+00:00"
+      "publishedAt": "2026-06-29T22:56:40+00:00"
     },
     {
       "id": "0944e70975c60be8288c07b0",
@@ -123,8 +211,8 @@
       "publishedAt": "2026-06-29T20:34:52+00:00"
     },
     {
-      "id": "5468fc2be4d618f17dddd19f",
-      "title": "'Hoping beyond hope': Rescue efforts continue at collapsed La Guaira building",
+      "id": "44a31cc80fe4bb34c158260a",
+      "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
       "summary": "At least 1,700 people are known to have been killed in the disaster but hope remains that others can continue to be found alive.",
       "url": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -143,17 +231,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-29T20:17:26+00:00"
-    },
-    {
-      "id": "c034d1bb26a574d4ec51f6ff",
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T20:00:44+00:00"
     },
     {
       "id": "18e1bbf559a7c8720e2ce986",
@@ -662,17 +739,6 @@
       "publishedAt": "2026-06-28T18:34:07+00:00"
     },
     {
-      "id": "6f8a80a73b9af655e792b7e8",
-      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
-      "summary": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in Caraballeda.",
-      "url": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-28T17:32:30+00:00"
-    },
-    {
       "id": "52abfc8c766bf4c24a0ef1b1",
       "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
       "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
@@ -682,17 +748,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-28T16:33:50+00:00"
-    },
-    {
-      "id": "79fc641ff409bd36734b1e3b",
-      "title": "Uganda's leading media outlets shut down by army chief",
-      "summary": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-28T15:19:53+00:00"
     },
     {
       "id": "b8db2ad54daf2259c58f1f92",
@@ -726,17 +781,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-28T00:32:07+00:00"
-    },
-    {
-      "id": "95d936c6445121fc93898db0",
-      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-      "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-28T00:06:19+00:00"
     },
     {
       "id": "1a20b30ba7272025a11b4fb9",
@@ -957,17 +1001,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-25T16:33:56+00:00"
-    },
-    {
-      "id": "096aacf782714188f9cc7ff0",
-      "title": "Qu’est-ce que le « looksmaxxing » ?",
-      "summary": "Cette pratique qui englobe plusieurs techniques censées améliorer le physique fait de plus en plus d’adeptes sur les réseaux sociaux, malgré ses nombreuses dérives.",
-      "url": "https://www.lemonde.fr/videos/video/2026/06/25/qu-est-ce-que-le-looksmaxxing_6715437_1669088.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-25T16:00:04+00:00"
     },
     {
       "id": "821568fd8531e2d22ba4a174",
