@@ -1,16 +1,115 @@
 {
-  "updatedAt": "2026-06-30T06:48:45.609691+00:00",
+  "updatedAt": "2026-06-30T10:26:20.098617+00:00",
   "items": [
     {
-      "id": "d58c781a039f4ac4d322ce8a",
-      "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
+      "id": "fe2a7d10c5f31405179214fe",
+      "title": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+      "summary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T10:14:57+00:00"
+    },
+    {
+      "id": "aa003a69fe6e4ce12e05f01d",
+      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+      "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T09:50:58+00:00"
+    },
+    {
+      "id": "5e129bed650e3ab4e753307e",
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
       "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
       "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-06-30T06:28:18+00:00"
+      "publishedAt": "2026-06-30T09:38:50+00:00"
+    },
+    {
+      "id": "b85d508f9142dfc1c7d4739c",
+      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
+      "summary": "The app's new usernames feature will be rolled out globally over the next few months.",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-30T09:16:23+00:00"
+    },
+    {
+      "id": "ed82a54434e07d789b149c95",
+      "title": "En Corée du Sud, « Samsung Electronics et SK Hynix sont les Mbappé et Dembélé des puces mémoire »",
+      "summary": "Les deux géants coréens des semi-conducteurs ont annoncé leur intention d’investir plus de 450 milliards d’euros sur dix ans pour bâtir quatre nouvelles usines de production de puces mémoire, indispensables à la croissance mondiale de l’IA.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/30/en-coree-du-sud-samsung-electronics-et-sk-hynix-sont-les-mbappe-et-dembele-des-puces-memoire_6717242_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-30T09:15:10+00:00"
+    },
+    {
+      "id": "98253423300763fc2b1bee53",
+      "title": "State of Decay 3, Which Was at Xbox Games Showcase and Is Currently Running Playtests, Reportedly at Risk of Cancelation as Buyer Sought for Undead Labs",
+      "summary": "There is fresh concern for State of Decay 3 and its developer Undead Labs this morning, after reports overnight suggested both are under threat of closure as part of impending layoffs at Xbox.",
+      "url": "https://www.ign.com/articles/state-of-decay-3-which-was-at-xbox-games-showcase-and-is-currently-running-playtests-reportedly-at-risk-of-cancelation-as-buyer-sought-for-undead-labs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-30T09:06:30+00:00"
+    },
+    {
+      "id": "33d571c11d3e9a9a82fa559c",
+      "title": "Why are South Korean fans so angry at their football coach?",
+      "summary": "Hong Myung-bo has resigned after South Korea failed to advance to the World Cup knockout stages.",
+      "url": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T08:26:11+00:00"
+    },
+    {
+      "id": "29cd8a2bfdfe469b919ef0f4",
+      "title": "Dexter: Resurrection Season 2 Is Bringing Back a Dead Villain",
+      "summary": "Dexter: Resurrection Season 2 will bring back one of Dexter's foes, much to the surprise of fans.",
+      "url": "https://www.ign.com/articles/dexter-resurrection-season-2-is-bringing-back-a-dead-villain",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-30T08:16:06+00:00"
+    },
+    {
+      "id": "bd7eb49aba82a6306798de5c",
+      "title": "Tekken 8 Roger Jr. Trailer Inspired by Viral, Kangaroo-Punching Clip Was Prompted by Former Tekken Director Katsuhiro Harada",
+      "summary": "Former Tekken director Katsuhiro Harada has confirmed that he had a hand in the kangaroo’s clever reveal.",
+      "url": "https://www.ign.com/articles/tekken-8-roger-jr-trailer-inspired-by-viral-kangaroo-punching-clip-was-prompted-by-former-tekken-director-katsuhiro-harada",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-30T08:09:11+00:00"
+    },
+    {
+      "id": "d438b7b8a79851ffd078ff66",
+      "title": "Grâce à l’IA, Blablacar donne un coup d’accélérateur à l’international",
+      "summary": "L’entreprise française de covoiturage déploie son application dans 20 nouveaux pays uniquement grâce à des outils d’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/30/grace-a-l-ia-le-coup-d-accelerateur-de-blablacar-a-l-international_6717225_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-06-30T07:00:14+00:00"
     },
     {
       "id": "4e0cf8e913f36f2f8acbd41e",
@@ -35,8 +134,8 @@
       "publishedAt": "2026-06-30T04:21:58+00:00"
     },
     {
-      "id": "4e482b5cdf7970e68d4b83f3",
-      "title": "Angry Venezuelans accuse government of negligence and apathy",
+      "id": "0953b0b94f78717e28019753",
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
       "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
       "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -46,15 +145,15 @@
       "publishedAt": "2026-06-30T03:53:48+00:00"
     },
     {
-      "id": "cf0b97a78c4e726b889ae6ec",
-      "title": "Coup de tonnerre dans le monde des cryptomonnaies : la nouvelle réglementation exclut des centaines de plateformes du marché européen, dont la géante Binance",
-      "summary": "La plateforme d’échanges Binance doit cesser ses activités en Europe, faute d’agrément. Ses clients ont déjà retiré 400 millions d’euros d’actifs la semaine dernière.",
+      "id": "1f79337b20d8413552e32728",
+      "title": "Cryptomonnaies : la nouvelle réglementation bouleverse des centaines de plateformes, dont Binance, en les excluant du marché européen",
+      "summary": "La plateforme d’échanges qui ne dispose d’aucun siège social dans le monde doit cesser ses activités en Europe, faute d’agrément. Ses clients ont déjà retiré 400 millions d’euros d’actifs la semaine du 22 juin.",
       "url": "https://www.lemonde.fr/economie/article/2026/06/30/coup-de-tonnerre-dans-le-monde-des-cryptomonnaies-la-nouvelle-reglementation-exclut-des-centaines-de-plateformes-du-marche-europeen-dont-la-geante-binance_6717156_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-06-30T03:00:10+00:00"
+      "publishedAt": "2026-06-30T03:00:00+00:00"
     },
     {
       "id": "e1217b166f8b6f7a582faa65",
@@ -255,17 +354,6 @@
       "publishedAt": "2026-06-29T19:49:57+00:00"
     },
     {
-      "id": "3d89f50bbcaadaffd6c1dab9",
-      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-      "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T19:16:34+00:00"
-    },
-    {
       "id": "a3bcb3f54c2c92f7e7742fa1",
       "title": "Today’s Best Deals: Switch 2 Memory Card, Resident Evil Requiem, MTG x Marvel, and More",
       "summary": "Plus, don’t miss Nintendo’s Summer Sale, Square Enix game deals, and 50% Criterion Collection films.",
@@ -420,17 +508,6 @@
       "publishedAt": "2026-06-29T16:01:35+00:00"
     },
     {
-      "id": "cec67b7b83db9dafff192f23",
-      "title": "WhatsApp to let people chat without swapping phone numbers",
-      "summary": "The app's new usernames feature will be rolled out globally over the next few months.",
-      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-29T16:00:12+00:00"
-    },
-    {
       "id": "1dca8ec0faff05d78b1cdf26",
       "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
       "summary": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
@@ -453,28 +530,6 @@
       "publishedAt": "2026-06-29T15:45:36+00:00"
     },
     {
-      "id": "db9a32fc41dea55070cadb4f",
-      "title": "Will PS6 Be Like a Nintendo Switch? Sony Says Its Next-Gen Console Will Enable 'A Seamless Experience That Can Be Enjoyed Naturally Beyond the Living Room'",
-      "summary": "Sony has suggested its next-gen console — widely assumed to be the PlayStation 6 — could work like the Nintendo Switch by enabling “a seamless experience that can be enjoyed naturally beyond the living room.”",
-      "url": "https://www.ign.com/articles/will-ps6-be-like-a-nintendo-switch-sony-says-its-next-gen-console-will-enable-a-seamless-experience-that-can-be-enjoyed-naturally-beyond-the-living-room",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-29T14:56:59+00:00"
-    },
-    {
-      "id": "6b107529ef7eeae070ca4701",
-      "title": "Best Buy Slashes Prices on Select Square Enix Games – Here Are Some of Our Favorite Picks",
-      "summary": "Best Buy has dropped the prices of select Square Enix games. Score big discounts on Final Fantasy 7 Rebirth, Octopath Traveler 0, and more.",
-      "url": "https://www.ign.com/articles/best-buy-has-slashed-the-prices-of-select-square-enix-games-here-are-some-of-our-favorite-picks",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-29T14:52:58+00:00"
-    },
-    {
       "id": "c801f254c18413976ddb9409",
       "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
       "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
@@ -495,17 +550,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-29T14:40:58+00:00"
-    },
-    {
-      "id": "4794cc42fcf84e86c4601189",
-      "title": "Sonic Pico Park Preview: How an Unlikely Sonic Collab Stole My Heart at Gaming’s Big Show",
-      "summary": "After playing Sonic Pico Park, I'm convinced that this co-op 2D puzzle-platformer is a match made in throwback heaven. We talked with the developers about how they created it.",
-      "url": "https://www.ign.com/articles/sonic-pico-park-preview-how-an-unlikely-sonic-collab-stole-my-heart-at-gamings-big-show",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-29T14:05:00+00:00"
     },
     {
       "id": "193e9aa0f59bc3b8cdd9c108",
@@ -673,17 +717,6 @@
       "publishedAt": "2026-06-29T04:30:03+00:00"
     },
     {
-      "id": "5809082606175dea8d7ba928",
-      "title": "Anger directed at Venezuela's official response to earthquake recovery",
-      "summary": "Residents in quake-affected areas have expressed anger over the state's efforts to locate survivors and help victims, the BBC's Orla Guerin reports.",
-      "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T03:35:09+00:00"
-    },
-    {
       "id": "4c7d897fc7749d1c7a336dda",
       "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
       "summary": "The body of Tunchanok Donhomla, 17, was found discarded near a railway track on Saturday, police say.",
@@ -748,17 +781,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-28T16:33:50+00:00"
-    },
-    {
-      "id": "b8db2ad54daf2259c58f1f92",
-      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-28T04:54:50+00:00"
     },
     {
       "id": "36f381284327b06a44e7d507",
@@ -979,28 +1001,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-25T17:00:00+00:00"
-    },
-    {
-      "id": "7f76a9baaf7ddfa778a8d4f8",
-      "title": "IA : le test d’un modèle chinois à la direction générale du Trésor interrompu à cause de « réponses orientées » ou « biaisées »",
-      "summary": "Baptisé « HéphAIstos » en référence au dieu grec, l’outil comprend un agent conversationnel pour assister les hauts fonctionnaires dans leurs tâches quotidiennes, y compris pour le traitement de données confidentielles ou sensibles. Un nouveau modèle de la start-up française Mistral AI a été installé mercredi.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/25/ia-le-test-d-un-modele-chinois-a-la-direction-generale-du-tresor-interrompu-a-cause-de-reponses-orientees-ou-biaisees_6715445_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-25T16:51:10+00:00"
-    },
-    {
-      "id": "c70e14fdd57f2578fce445e0",
-      "title": "Guillaume Pley, visage du média « Legend », entre goût du trash et interviews complaisantes",
-      "summary": "A 40 ans, Guillaume Pley, venu de la radio et passé par la case télé est devenu l’intervieweur le plus courtisé du Web, fort de millions d’abonnés et d’un ton « bienveillant » qui plaît autant aux chefs d’entreprise qu’aux politiques.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/25/guillaume-pley-visage-du-media-legend-entre-gout-du-trash-et-interviews-complaisantes_6715444_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-25T16:33:56+00:00"
     },
     {
       "id": "821568fd8531e2d22ba4a174",
