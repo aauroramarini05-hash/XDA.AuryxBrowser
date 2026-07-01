@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-06-30T23:59:29.858864+00:00",
+  "updatedAt": "2026-07-01T04:11:13.966948+00:00",
   "items": [
+    {
+      "id": "537b15fc76042fb14e02bb7b",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-01T03:39:44+00:00"
+    },
+    {
+      "id": "f523972e6a93611e713bd221",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-01T03:31:08+00:00"
+    },
+    {
+      "id": "679120cced90341d170ae47b",
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-01T01:04:16+00:00"
+    },
+    {
+      "id": "cb75f5c06e8f0b0e118276b9",
+      "title": "Reacher Season 4 Returns in August, Neagley Spin-Off Lands the Following Month",
+      "summary": "Premiere dates set for Prime’s ex-MP MVPs.",
+      "url": "https://www.ign.com/articles/reacher-season-4-returns-in-august-neagley-spin-off-lands-the-following-month",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-01T00:57:44+00:00"
+    },
+    {
+      "id": "1be3716eb8e33332bbd74fad",
+      "title": "IA : Washington lève ses restrictions sur les modèles les plus puissants d’Anthropic",
+      "summary": "L’entreprise a annoncé qu’elle rétablirait, dès mercredi 1ᵉʳ juillet, l’accès à Claude Fable 5 et Mythos 5, le gouvernement américain ayant mis fin aux limitations décidées le 12 juin au nom de la sécurité nationale.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/01/ia-washington-leve-ses-restrictions-sur-les-modeles-les-plus-puissants-d-anthropic_6717349_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-01T00:48:15+00:00"
+    },
+    {
+      "id": "da3589779b69b2643f7e4fbd",
+      "title": "The New Rick & Morty GLD Jewelry Drop Is Here and the Pickle Rick Pendant Already Sold Out",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-new-rick-morty-gld-jewelry-drop-is-here-and-the-pickle-pendant-is-already-sold",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-06-30T23:57:12+00:00"
+    },
+    {
+      "id": "f00ac84a42293d4a837530fd",
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T23:49:19+00:00"
+    },
     {
       "id": "4f0d343f3cc195b1d1c80d11",
       "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
@@ -11,6 +88,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-30T23:41:11+00:00"
+    },
+    {
+      "id": "4897835febceb96fdfb9d40c",
+      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-06-30T23:24:05+00:00"
     },
     {
       "id": "fb5d0b9b2a7b19d32276c660",
@@ -277,17 +365,6 @@
       "publishedAt": "2026-06-30T19:00:00+00:00"
     },
     {
-      "id": "679120cced90341d170ae47b",
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T18:59:19+00:00"
-    },
-    {
       "id": "2837a7e2cacef13986420f7c",
       "title": "Hideo Kojima's Xbox Horror Game, OD, Is Safe From Microsoft's 'Reset' Plan, but Other Games Are on the Chopping Block",
       "summary": "Hideo Kojima’s OD is set to survive Microsoft’s big “reset” of the Xbox business, IGN understands.",
@@ -354,17 +431,6 @@
       "publishedAt": "2026-06-30T17:58:09+00:00"
     },
     {
-      "id": "40b0a2c379b877f414c2496f",
-      "title": "007 First Light, Hitman Developer IO Interactive Announces Layoffs After 'Relationship With an External Partner' on Fantasy Project Ends",
-      "summary": "007 First Light and Hitman developer IO Interactive has announced layoffs after an unexpected setback revolving around its upcoming fantasy game, which was reportedly set to be published by Xbox.",
-      "url": "https://www.ign.com/articles/007-first-light-hitman-developer-io-interactive-announces-layoffs-after-relationship-with-an-external-partner-on-fantasy-project-ends",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-30T17:51:00+00:00"
-    },
-    {
       "id": "47111c88f6d80a101aa5edb3",
       "title": "What to know about the looming deadline on North American free trade",
       "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
@@ -376,17 +442,6 @@
       "publishedAt": "2026-06-30T17:44:15+00:00"
     },
     {
-      "id": "6e1b9ed664bfe4e3a08d88db",
-      "title": "Today’s Top Deals: LEGO Polaroid Camera, Pokémon Prismatic Evolutions ETB, Metroid Prime 4, and More",
-      "summary": "And save big on Square Enix games, a Nex Playground console, and more",
-      "url": "https://www.ign.com/articles/best-deals-for-june-30-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-30T17:33:52+00:00"
-    },
-    {
       "id": "2094780a60fe51003c832a55",
       "title": "Polémique Guillaume Erner : le CRIF assume un soutien « matériel et moral » à « LEON le média »",
       "summary": "Principalement suivi sur Instagram, ce « média engagé » avait publié un montage trompeur de propos de Jean-Luc Mélenchon, repris à l’antenne de France Culture.",
@@ -396,17 +451,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-30T17:13:08+00:00"
-    },
-    {
-      "id": "188d20e3084234b8ddcbe01c",
-      "title": "Missing US congressman explains mysterious four-month absence",
-      "summary": "New Jersey Republican Tom Kean Jr, told fellow lawmakers that depression was the reason he had been away since March.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T17:01:02+00:00"
     },
     {
       "id": "f3a97e7cd5daf5ad4468b256",
@@ -440,17 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-30T14:37:54+00:00"
-    },
-    {
-      "id": "c71398f9a6dd457ec552d576",
-      "title": "Senegalese MPs move to clip presidential powers as tensions mount",
-      "summary": "The proposed changes agreed by a majority of MPs sparked protests outside parliament.",
-      "url": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T14:35:03+00:00"
     },
     {
       "id": "fdaff046d97d779b29cfe6f1",
@@ -550,17 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-06-30T04:21:58+00:00"
-    },
-    {
-      "id": "0953b0b94f78717e28019753",
-      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
-      "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T03:53:48+00:00"
     },
     {
       "id": "db4a855a5d5d5559fa7b85ca",
@@ -792,17 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-26T05:00:08+00:00"
-    },
-    {
-      "id": "2f137bbd1deee722199f11e6",
-      "title": "IBM, avec son modèle « 0,7 nm », dévoile une nouvelle technologie qui augmente de 50 % la puissance des puces",
-      "summary": "Grâce à une nouvelle architecture en trois dimensions, le groupe américain promet de placer près de 100 milliards de transistors sur une puce de la taille d’un ongle de la main, soit le double de la densité du modèle actuel le plus avancé.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/26/avec-son-modele-0-7-nm-ibm-devoile-une-nouvelle-technologie-qui-augmente-de-50-la-puissance-des-puces_6715793_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-26T04:31:14+00:00"
     },
     {
       "id": "150a58fc4aa6bc39b95bfe10",
