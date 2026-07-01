@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-01T04:11:13.966948+00:00",
+  "updatedAt": "2026-07-01T08:44:25.526627+00:00",
   "items": [
     {
-      "id": "537b15fc76042fb14e02bb7b",
-      "title": "Anthropic says US lifts export ban on its advanced AI tools",
-      "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
-      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "id": "6a711b0a0996ef37ae72b18b",
+      "title": "Mario Kart World Surprise Update Adds New Knockout Tour Routes",
+      "summary": "Nintendo has updated Switch 2 launch title Mario Kart Tour with new routes for its Knockout Tour mode, as part of a surprise update.",
+      "url": "https://www.ign.com/articles/mario-kart-world-surprise-update-adds-new-knockout-tour-routes",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-01T03:39:44+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-01T08:32:38+00:00"
     },
     {
       "id": "f523972e6a93611e713bd221",
@@ -21,7 +21,95 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-01T03:31:08+00:00"
+      "publishedAt": "2026-07-01T07:30:53+00:00"
+    },
+    {
+      "id": "d635467177809a6b28d3f7f0",
+      "title": "Why is crucial tech vulnerable to the heat?",
+      "summary": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-01T07:23:12+00:00"
+    },
+    {
+      "id": "feb7045563d87f47b0007f96",
+      "title": "X-Men '97 Season 2, Episodes 1-3 Review & Recap (Full Spoilers)",
+      "summary": "X-Men ‘97 gets off to a very strong start in its first three episodes, as the series wastes no time in exploring the dramatic, Apocalypse-heavy fallout of Season 1.",
+      "url": "https://www.ign.com/articles/x-men-97-season-2-episodes-1-3-review-recap-full-spoilers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-01T07:00:00+00:00"
+    },
+    {
+      "id": "5c094214cd8994700ef6a92b",
+      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
+      "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-01T06:29:31+00:00"
+    },
+    {
+      "id": "08586100442db50233b6f5be",
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-01T06:03:08+00:00"
+    },
+    {
+      "id": "9df5f7c08696d36d037db470",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-01T05:32:26+00:00"
+    },
+    {
+      "id": "ad2d60fe0a0699e1883793ef",
+      "title": "Cryptomonnaies : ce que change la nouvelle réglementation européenne pour les épargnants",
+      "summary": "A partir de ce 1ᵉʳ juillet, les plateformes d’investissement qui n’ont pas obtenu leur agrément de prestataire de services sur cryptoactifs, ne peuvent plus opérer en France et doivent mettre en place un plan de cessation d’activité.",
+      "url": "https://www.lemonde.fr/argent/article/2026/07/01/cryptomonnaies-ce-que-change-la-nouvelle-reglementation-europeenne-pour-les-epargnants_6717466_1657007.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-01T05:10:44+00:00"
+    },
+    {
+      "id": "ce9c57ffd82e6f800756d58d",
+      "title": "Ce que nous enseigne la première attaque (expérimentale) d’un ver informatique mû par l’intelligence artificielle",
+      "summary": "Une équipe canadienne a développé un programme utilisant un grand modèle de langage pour orchestrer des attaques et repérer des failles de façon autonome. Si cette démonstration ne surprend pas les spécialistes, elle pourrait permettre d’élaborer des parades.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/01/ce-que-nous-enseigne-la-premiere-attaque-experimentale-d-un-ver-informatique-mu-par-l-intelligence-artificielle_6717463_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-01T04:30:03+00:00"
+    },
+    {
+      "id": "537b15fc76042fb14e02bb7b",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-01T03:39:44+00:00"
     },
     {
       "id": "679120cced90341d170ae47b",
@@ -176,17 +264,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-06-30T21:31:10+00:00"
-    },
-    {
-      "id": "08586100442db50233b6f5be",
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
-      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T21:30:52+00:00"
     },
     {
       "id": "abfa2a53d9c3943159f75485",
@@ -398,39 +475,6 @@
       "publishedAt": "2026-06-30T18:37:23+00:00"
     },
     {
-      "id": "9df5f7c08696d36d037db470",
-      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-      "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-30T18:28:41+00:00"
-    },
-    {
-      "id": "6b49c03ea0aefec965c01e6c",
-      "title": "GTA 6 Developers Ask Rockstar for Union Recognition — and They're Prepared to Go to the UK Government if Necessary",
-      "summary": "Rockstar developers have applied for voluntary recognition of the IWGB Game Workers Union in a bid to make the Grand Theft Auto 6 developer the second UK games studio with a recognized union.",
-      "url": "https://www.ign.com/articles/gta-6-developers-ask-rockstar-for-union-recognition-and-theyre-prepared-to-go-to-the-uk-government-if-necessary",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-30T17:58:14+00:00"
-    },
-    {
-      "id": "2854a32e6155a1074f4c5d52",
-      "title": "X-Men '97 Returns for Season 2 - Here's When You Can Watch New Episodes",
-      "summary": "Marvel has confirmed the full release schedule for X-Men '97 Season 2, including episode titles.",
-      "url": "https://www.ign.com/articles/x-men-97-season-2-episode-release-dates",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-06-30T17:58:09+00:00"
-    },
-    {
       "id": "47111c88f6d80a101aa5edb3",
       "title": "What to know about the looming deadline on North American free trade",
       "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
@@ -442,8 +486,8 @@
       "publishedAt": "2026-06-30T17:44:15+00:00"
     },
     {
-      "id": "2094780a60fe51003c832a55",
-      "title": "Polémique Guillaume Erner : le CRIF assume un soutien « matériel et moral » à « LEON le média »",
+      "id": "5974737255183b52cd9e5d16",
+      "title": "Polémique Guillaume Erner : le CRIF assume un soutien « matériel et moral » à « Leon le média »",
       "summary": "Principalement suivi sur Instagram, ce « média engagé » avait publié un montage trompeur de propos de Jean-Luc Mélenchon, repris à l’antenne de France Culture.",
       "url": "https://www.lemonde.fr/pixels/article/2026/06/30/polemique-guillaume-erner-le-crif-assume-un-soutien-materiel-et-moral-a-leon-le-media_6717317_4408996.html",
       "imageUrl": null,
@@ -618,17 +662,6 @@
       "publishedAt": "2026-06-29T22:56:40+00:00"
     },
     {
-      "id": "8f1b823582354ccd80d552a3",
-      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
-      "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-06-29T21:19:28+00:00"
-    },
-    {
       "id": "44a31cc80fe4bb34c158260a",
       "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
       "summary": "At least 1,700 people are known to have been killed in the disaster but hope remains that others can continue to be found alive.",
@@ -783,17 +816,6 @@
       "publishedAt": "2026-06-26T18:00:01+00:00"
     },
     {
-      "id": "9df28b8c45a244218e11d391",
-      "title": "Sony supprime plus d’un tiers des effectifs du studio Bungie, développeur de « Destiny » et « Marathon »",
-      "summary": "Le constructeur de la PlayStation avait déjà licencié, en 2024, 200 employés de ce studio acheté 3,6 milliards de dollars en 2024. Son rival Microsoft pourrait également réduire ses propres effectifs.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/26/sony-supprime-plus-d-un-tiers-des-effectifs-du-studio-bungie-developpeur-de-destiny-et-marathon_6715830_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-26T10:29:33+00:00"
-    },
-    {
       "id": "d290ef3259f5f9dbde74b374",
       "title": "The abundant but expensive energy source that's under your feet",
       "summary": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
@@ -803,17 +825,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-26T10:12:42+00:00"
-    },
-    {
-      "id": "9857adf2a51a96115181b86d",
-      "title": "A l’ère de l’IA, les universités chinoises bouleversent leurs cursus",
-      "summary": "Une refonte universitaire est en cours à travers le pays pour coller aux priorités économiques du gouvernement chinois et tenter de résorber le chômage des jeunes. Pour se maintenir, certaines spécialités comme les langues vivantes doivent s’adosser aux sciences dures.",
-      "url": "https://www.lemonde.fr/international/article/2026/06/26/a-l-ere-de-l-ia-les-universites-chinoises-bouleversent-leurs-cursus_6715795_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-26T05:00:08+00:00"
     },
     {
       "id": "150a58fc4aa6bc39b95bfe10",
@@ -880,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-24T15:00:34+00:00"
-    },
-    {
-      "id": "fd9a22fec1124409644ce0b3",
-      "title": "Google's YouTube settles social media addiction case with teen",
-      "summary": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
-      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-23T23:39:55+00:00"
     },
     {
       "id": "32cde5bfac14c6e1b53fb42f",
