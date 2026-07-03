@@ -1,16 +1,126 @@
 {
-  "updatedAt": "2026-07-03T02:04:35.260354+00:00",
+  "updatedAt": "2026-07-03T06:22:25.288300+00:00",
   "items": [
     {
-      "id": "d920b78ac4de8bfa80c852eb",
-      "title": "Les émissions de CO₂ de Google et Amazon bondissent, propulsées par l’essor de l’IA",
-      "summary": "Les émissions totales de Google ont augmenté de 82 % depuis 2019 alors que le groupe s’était alors engagé à les réduire de moitié d’ici à 2030. Celles d’Amazon ont grimpé de 58 % sur la même période, malgré une neutralité carbone promise pour 2040",
+      "id": "3eefc30f4e74d6b24604ae65",
+      "title": "Iran begins public mourning for Ayatollah killed in February",
+      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-03T05:53:56+00:00"
+    },
+    {
+      "id": "5dbe03240e88e49d7dc86785",
+      "title": "Un eurodéputé chargé d’enquêter sur Pegasus lui-même visé par le logiciel espion",
+      "summary": "Des analyses menées sur le téléphone de l’ancien élu grec Stelios Kouloglou ont révélé des traces d’infection par le logiciel de NSO Group, alors qu’il participait justement à une commission d’enquête sur ce puissant mouchard.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/03/un-eurodepute-charge-d-enqueter-sur-pegasus-lui-meme-vise-par-le-logiciel-espion_6718462_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-03T05:00:09+00:00"
+    },
+    {
+      "id": "74231fcf15b4de48a54b1977",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
+      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-03T04:41:05+00:00"
+    },
+    {
+      "id": "b472c09152bb65fe314caa3e",
+      "title": "« Sans investisseurs, ils finissent par couler » : face à Instagram ou TikTok, la difficile survie des plateformes européennes",
+      "summary": "Comment concurrencer les réseaux américains ou chinois ? De nombreuses aventures ont jusqu’ici mené à des échecs ou à des succès mineurs. Mais alors que l’on parle plus que jamais de souveraineté numérique, des initiatives continuent à voir le jour, en quête d’appui des pouvoirs publics.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/03/sans-investisseurs-ils-finissent-par-couler-face-a-instagram-ou-tiktok-la-difficile-survie-des-plateformes-europeennes_6718453_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-03T04:00:46+00:00"
+    },
+    {
+      "id": "33cf5ec2a3a2475302be1a91",
+      "title": "Numérique : pour être souverains, il faut surtout être libres",
+      "summary": "Les logiciels libres sont la clé de la « souveraineté numérique » qui fait désormais l’unanimité auprès du monde politique.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/03/numerique-pour-etre-souverains-il-faut-surtout-etre-libres_6718446_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-03T04:00:08+00:00"
+    },
+    {
+      "id": "374a9c55618aee5c896b8c76",
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-03T03:50:18+00:00"
+    },
+    {
+      "id": "83b276c1bca61c0b1dc5e5ef",
+      "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+      "summary": "Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.",
+      "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-03T02:33:40+00:00"
+    },
+    {
+      "id": "b7cff7730e5a87c2ce48205e",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park.",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-03T02:07:35+00:00"
+    },
+    {
+      "id": "22e73d1e78ba45696d14b3b4",
+      "title": "Les émissions de CO₂ de Google et d’Amazon bondissent, propulsées par l’essor de l’IA",
+      "summary": "Les émissions totales de Google ont augmenté de 82 % depuis 2019 alors que le groupe s’était engagé à les réduire de moitié d’ici à 2030. Celles d’Amazon ont grimpé de 58 % au cours de la même période, malgré une neutralité carbone promise pour 2040.",
       "url": "https://www.lemonde.fr/pixels/article/2026/07/03/les-emissions-de-co-de-google-et-amazon-bondissent-propulsees-par-l-essor-de-l-ia_6718303_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-02T23:45:54+00:00"
+    },
+    {
+      "id": "1d9f026bc2d4c106574fc288",
+      "title": "What will guests wear to Taylor Swift's wedding of the century?",
+      "summary": "Romantic, fairytale vibes could dominate Taylor Swift and Travis Kelce's reported wedding event in New York City on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/c75ykv0k1pzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-02T23:24:15+00:00"
+    },
+    {
+      "id": "8c888284b1f49e122be6a4f9",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "summary": "The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-02T23:15:22+00:00"
     },
     {
       "id": "359a4f84acbe925dd953bccc",
@@ -24,6 +134,17 @@
       "publishedAt": "2026-07-02T23:15:00+00:00"
     },
     {
+      "id": "05790c8b44760d43ad39e3b3",
+      "title": "How the American Dream has survived 250 years, but only just",
+      "summary": "The American Dream has persisted since the days of the Founding Fathers, but faith in the ideal is fading",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-02T23:14:29+00:00"
+    },
+    {
       "id": "c48968276fe06aac05befa22",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
@@ -33,6 +154,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-02T23:02:09+00:00"
+    },
+    {
+      "id": "394ac1175ecd1700df94e295",
+      "title": "A mayor in Japan announced her maternity leave - and got the whole country talking",
+      "summary": "In the face of criticism, Shoko Kawata, 35, says she loves her job and is proud to be taking time off to have a baby.",
+      "url": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-02T22:00:11+00:00"
     },
     {
       "id": "23298e883f39da6b87b55b39",
@@ -143,17 +275,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-02T20:34:52+00:00"
-    },
-    {
-      "id": "2d3cf7a15fd1036ba0034bab",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 27",
-      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-02T20:18:14+00:00"
     },
     {
       "id": "86fdb5d2815d49c565aff4b4",
@@ -308,17 +429,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-02T17:05:00+00:00"
-    },
-    {
-      "id": "b7cff7730e5a87c2ce48205e",
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-02T16:11:24+00:00"
     },
     {
       "id": "2b3917ff2cc0efd2cf498624",
@@ -869,39 +979,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-06-30T03:00:00+00:00"
-    },
-    {
-      "id": "e6983b6ac67d86830f43b607",
-      "title": "Google va finalement lancer ses fonctionnalités IA sur son moteur de recherche en France « cet été »",
-      "summary": "Pour expliquer l’exclusion de l’Hexagone de services pourtant déjà présents dans 200 pays, l’entreprise invoquait des « obstacles réglementaires » liés aux éditeurs de presse, qu’elle a levés.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/30/google-va-finalement-lancer-ses-fonctionnalites-ia-sur-son-moteur-de-recherche-en-france-cet-ete_6717014_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-29T22:56:40+00:00"
-    },
-    {
-      "id": "294d9a7de998bfcf6284edae",
-      "title": "« Le rire en politique, lorsqu’il est instrumentalisé au profit du plus fort, se moque pour entretenir une domination »",
-      "summary": "Au nom du droit à l’humour, l’ironie propagée par l’extrême droite sur les réseaux sociaux et dans le discours politique repousse progressivement les limites de ce qui est acceptable en politique, analyse le chercheur Denis Saint-Amand dans un entretien au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/29/le-rire-en-politique-lorsqu-il-est-instrumentalise-au-profit-du-plus-fort-se-moque-pour-entretenir-une-domination_6716960_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-29T17:00:15+00:00"
-    },
-    {
-      "id": "b2d5ba39aefe1ae224eec387",
-      "title": "Pourquoi le bitcoin n’en finit pas de dégringoler",
-      "summary": "La chute du plus connu des cryptoactifs dépasse 50 % depuis octobre 2025. L’ensemble du marché des « cryptos » souffre de l’aversion au risque, mais aussi de la concurrence des valeurs liées à l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/29/pourquoi-le-bitcoin-n-en-finit-pas-de-degringoler_6716956_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-06-29T16:30:10+00:00"
     },
     {
       "id": "23207757ad4fa9d06fbfc0c2",
