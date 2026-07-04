@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-07-04T13:02:15.598059+00:00",
+  "updatedAt": "2026-07-04T14:58:18.606237+00:00",
   "items": [
+    {
+      "id": "6ca2a1ecc0d66f4fb75d3b00",
+      "title": "Injury ends Williams' Wimbledon comeback",
+      "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-04T14:53:55+00:00"
+    },
     {
       "id": "67e7d5f7fcbf10ee74f9c530",
       "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
@@ -10,11 +21,22 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-04T12:34:28+00:00"
+      "publishedAt": "2026-07-04T14:07:31+00:00"
     },
     {
-      "id": "3d2b63f2be613d91e7eb381f",
-      "title": "Dior dress, Adam Sandler and a man of honour: what we know about Taylor and Travis's wedding",
+      "id": "17ee51de0a910a83f3bfaa9a",
+      "title": "Dans le sud de la Chine, l’IA donne un coup de fouet aux usines",
+      "summary": "Dans le delta de la rivière des Perles, l’écosystème industriel mise sur l’intelligence artificielle mêlée à l’automatisation pour assurer l’avenir de sa base manufacturière, menacée par le déclin démographique.",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/04/dans-le-sud-de-la-chine-l-ia-donne-un-coup-de-fouet-aux-usines_6720672_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-04T14:00:09+00:00"
+    },
+    {
+      "id": "0600caf30dd39c3ce03040ba",
+      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
       "summary": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
       "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -396,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-03T15:01:27+00:00"
-    },
-    {
-      "id": "8ac48d4dd29bd6abbadfd267",
-      "title": "German row over plan for workers to need sick note on first day of illness",
-      "summary": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-03T14:56:30+00:00"
     },
     {
       "id": "e50089855489f33cf9f6ec5d",
@@ -858,17 +869,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-01T04:30:00+00:00"
-    },
-    {
-      "id": "1be3716eb8e33332bbd74fad",
-      "title": "IA : Washington lève ses restrictions sur les modèles les plus puissants d’Anthropic",
-      "summary": "L’entreprise a annoncé qu’elle rétablirait, dès mercredi 1ᵉʳ juillet, l’accès à Claude Fable 5 et Mythos 5, le gouvernement américain ayant mis fin aux limitations décidées le 12 juin au nom de la sécurité nationale.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/01/ia-washington-leve-ses-restrictions-sur-les-modeles-les-plus-puissants-d-anthropic_6717349_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-01T00:48:15+00:00"
     },
     {
       "id": "d9ec07899161723b5a372673",
