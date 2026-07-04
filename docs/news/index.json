@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T14:58:18.606237+00:00",
+  "updatedAt": "2026-07-04T16:01:26.289263+00:00",
   "items": [
     {
       "id": "6ca2a1ecc0d66f4fb75d3b00",
@@ -10,7 +10,7 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-04T14:53:55+00:00"
+      "publishedAt": "2026-07-04T15:06:26+00:00"
     },
     {
       "id": "67e7d5f7fcbf10ee74f9c530",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-04T01:00:00+00:00"
     },
     {
+      "id": "f8e36eef499f824104289279",
+      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+      "summary": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-04T00:57:05+00:00"
+    },
+    {
       "id": "4e3ef358e788f4fe8df1f9c9",
       "title": "Row after Indian state drops eggs from school lunch menu",
       "summary": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice.",
@@ -299,28 +310,6 @@
       "publishedAt": "2026-07-03T17:41:05+00:00"
     },
     {
-      "id": "ff53b4b9c1a696c84610a96f",
-      "title": "Polish PM warns critical months ahead in face of Russian threat",
-      "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-03T16:41:00+00:00"
-    },
-    {
-      "id": "9dd5e544153dc5a340509480",
-      "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
-      "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-03T16:39:00+00:00"
-    },
-    {
       "id": "75f4725346de4a5a216035db",
       "title": "People Are Worried They’ll Only See Half of The Odyssey If They Miss Out on Imax, But Should They Be?",
       "summary": "People are worried they’ll only see half of The Odyssey if they miss out on Imax, but should they be?",
@@ -330,17 +319,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-03T16:37:37+00:00"
-    },
-    {
-      "id": "5ef9441a692a63275960b8d4",
-      "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
-      "summary": "Lam Wing-kee, who defied China by selling material critical of Beijing, passed away after suffering from lung cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-03T16:31:40+00:00"
     },
     {
       "id": "9844c9d5fb9318afed24dfec",
@@ -409,17 +387,6 @@
       "publishedAt": "2026-07-03T15:10:54+00:00"
     },
     {
-      "id": "374a9c55618aee5c896b8c76",
-      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-03T15:01:27+00:00"
-    },
-    {
       "id": "e50089855489f33cf9f6ec5d",
       "title": "Scuf Instinct Pro: Why I Still Choose This Xbox Controller After Five Years",
       "summary": "Rated 9/10 by IGN as the best competitive Xbox gamepad, the Scuf Instinct Pro is still worth the investment after five years of heavy use. Here is why.",
@@ -486,17 +453,6 @@
       "publishedAt": "2026-07-03T12:40:43+00:00"
     },
     {
-      "id": "852a7d9f75e8ca8c76240400",
-      "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
-      "summary": "Deniz Göktaş is regarded as one of Turkey's most popular comedians and is accused of \"inciting hatred and hostility\" on stage.",
-      "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-03T12:28:43+00:00"
-    },
-    {
       "id": "b1295845f9e9b8825fd6e265",
       "title": "Anne Hathaway Quit Knocked Up Because 'She Didn't Want the Crowning of the Baby to Be Visually Representative,' Seth Rogen Says",
       "summary": "Seth Rogen has confirmed the reason Anne Hathaway quit Knocked Up and was replaced by Katherine Heigl — at least how he remembers it.",
@@ -528,17 +484,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-03T10:51:14+00:00"
-    },
-    {
-      "id": "7e234721d69c503d7eba4642",
-      "title": "Nasa launches mission to save falling space telescope",
-      "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-03T10:28:17+00:00"
     },
     {
       "id": "624cb871eae57edacf6c161c",
@@ -618,28 +563,6 @@
       "publishedAt": "2026-07-02T23:45:54+00:00"
     },
     {
-      "id": "8c888284b1f49e122be6a4f9",
-      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-      "summary": "The BBC travels to the city of Bandar Abbas - the first time journalists from a UK broadcaster have been to the Iranian side of the strait.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-02T23:15:22+00:00"
-    },
-    {
-      "id": "9bcc659839623052b15abe0a",
-      "title": "After 250 years the American Dream is surviving, but only just",
-      "summary": "The American Dream has persisted since the days of the Founding Fathers, but faith in the ideal is fading",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-02T23:14:29+00:00"
-    },
-    {
       "id": "c48968276fe06aac05befa22",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
@@ -649,17 +572,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-02T23:02:09+00:00"
-    },
-    {
-      "id": "394ac1175ecd1700df94e295",
-      "title": "A mayor in Japan announced her maternity leave - and got the whole country talking",
-      "summary": "In the face of criticism, Shoko Kawata, 35, says she loves her job and is proud to be taking time off to have a baby.",
-      "url": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-02T22:00:11+00:00"
     },
     {
       "id": "76b312a26da239e487d23995",
