@@ -1,9 +1,53 @@
 {
-  "updatedAt": "2026-07-05T20:06:05.293477+00:00",
+  "updatedAt": "2026-07-05T21:52:47.601026+00:00",
   "items": [
     {
-      "id": "1cce3baa6c6658d61e622e6d",
-      "title": "Trump thanks Fifa for overturning USA striker's ban",
+      "id": "aed922ccee75b08b36fd2a97",
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-05T21:39:12+00:00"
+    },
+    {
+      "id": "06901e0ffc11287910d1a066",
+      "title": "Star Trek 4: The Voyage Home 40th Anniversary Re-Release Confirmed for the UK",
+      "summary": "Admiral Kirk and Spock are Earth-bound once more, as Star Trek 4: The Voyage Home is set to return to theaters for its 40th anniversary.",
+      "url": "https://www.ign.com/articles/star-trek-4-the-voyage-home-40th-anniversary-re-release-confirmed-for-the-uk",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-05T21:03:40+00:00"
+    },
+    {
+      "id": "e5f75d527c5a75f7a5660ea5",
+      "title": "The Best Deals Today: M2 iPad Air, Criterion Collection, Ys X: Nordics, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-july-5-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-05T20:17:01+00:00"
+    },
+    {
+      "id": "6eea7bab4e2a5d44d634592a",
+      "title": "Marvel Tokon Blocked in 132 Countries, and It Looks Like PSN Requirements Are to Blame",
+      "summary": "PlayStation and Arc System Works' Marvel Tokon: Fighting Souls has been blocked in 132 countries in what appears to be another example of Sony's PSN requirements barring players from access on Steam.",
+      "url": "https://www.ign.com/articles/marvel-tokon-blocked-in-132-countries-and-it-looks-like-psn-requirements-are-to-blame",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-05T19:47:48+00:00"
+    },
+    {
+      "id": "cec30b6e9ddf89b61f993bc1",
+      "title": "Trump thanks Fifa for spending USA striker's ban",
       "summary": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -132,17 +176,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-05T12:55:58+00:00"
-    },
-    {
-      "id": "7f70e90a7096f73d971116ec",
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
-      "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-05T09:26:56+00:00"
     },
     {
       "id": "1f2a9dde4006e06b7755d886",
@@ -519,39 +552,6 @@
       "publishedAt": "2026-07-03T15:32:28+00:00"
     },
     {
-      "id": "281657f2b03e974dfa925e5d",
-      "title": "The Complicated History of GTA Controversies",
-      "summary": "From moral panic to celebrity law suits and hidden sex minigames, this is GTA’s complicated history with controversy.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-controversies",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-03T15:30:00+00:00"
-    },
-    {
-      "id": "886e7fa638c3c70e915a29ec",
-      "title": "'Significant' Pay Rises Offered by Professor Layton Studio — if You Correctly Answer Quizzes About the Company's Games",
-      "summary": "\"Significant\" pay rises are on offer at Professor Layton developer Level-5 — if you can correctly answer questions about the company's games.",
-      "url": "https://www.ign.com/articles/significant-pay-rises-offered-by-professor-layton-studio-if-you-correctly-answer-quizzes-about-the-companys-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-03T15:13:12+00:00"
-    },
-    {
-      "id": "45eb100d860b88c5db521821",
-      "title": "Think You Know Windows 11? Here’s Why A Copilot+ PC Can Level Up Your Productivity",
-      "summary": "Unsure if you actually need a Copilot+ PC? Our Windows 11 buying guide breaks down the local NPU hardware, battery life gains, and features to help you decide if it’s worth the upgrade.",
-      "url": "https://www.ign.com/articles/copilot-pc-buying-guide-windows-11-worth-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-03T15:10:54+00:00"
-    },
-    {
       "id": "13ab72b69c3d4cefcc87de88",
       "title": "« Le remplacement des journalistes secrétaires de rédaction par une IA à “La Gazette des communes” met en péril la qualité éditoriale du titre »",
       "summary": "Un collectif de lecteurs du magazine spécialisé dans les métiers de la fonction publique territoriale, constitué d’élus, d’anciens ministres, de responsables associatifs, appelle, dans une tribune au « Monde », le groupe à renoncer au plan social afin de conserver « ce qui fait sa valeur essentielle : le discernement humain ».",
@@ -816,10 +816,10 @@
       "publishedAt": "2026-06-30T23:05:08+00:00"
     },
     {
-      "id": "a39c1701451039ad4696ed3e",
+      "id": "6eb5c7cb80d2a42bcf80b191",
       "title": "Tech Life",
       "summary": "We hear concerns that shadow banning is limiting access to health advice for women.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
