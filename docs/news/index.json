@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-07T07:29:49.522359+00:00",
+  "updatedAt": "2026-07-07T10:46:52.222130+00:00",
   "items": [
+    {
+      "id": "543230db28791b70c61e67a2",
+      "title": "Affaire Jean Pormanove : des peines de prison et un « bannissement numérique » requis contre les streameurs Naruto et Safine",
+      "summary": "Les deux streameurs sont jugés pour violences en réunion, abus de faiblesse, diffusion d’images violentes et provocation à la haine ou à la violence.",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/07/affaire-jean-pormanove-des-peines-de-prison-et-un-bannissement-numerique-requis-contre-les-streameurs-naruto-et-safine_6721458_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-07T10:16:25+00:00"
+    },
+    {
+      "id": "32b70eb961c8a78cb003c21c",
+      "title": "Zimbabwean football star survives gun attack in South Africa",
+      "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-07T10:13:21+00:00"
+    },
+    {
+      "id": "8c5ec5d752f72d8f16625687",
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-07T10:12:27+00:00"
+    },
+    {
+      "id": "89e4bb5cd285d5adbd150dd9",
+      "title": "Microsoft Expected Game Pass Would Have 77 Million Subscribers by Now but It Reportedly Only Has 30 Million, as Xbox Boss Admits the Strategy Has Failed",
+      "summary": "Xbox CEO Asha Sharma has admitted Game Pass has failed to grow as Microsoft had expected, with reports indicating it is tens of millions of subscribers short of previous targets.",
+      "url": "https://www.ign.com/articles/microsoft-expected-game-pass-would-have-77-million-subscribers-by-now-but-it-reportedly-only-has-30-million-as-xbox-boss-admits-the-strategy-has-failed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-07T09:37:41+00:00"
+    },
+    {
+      "id": "92be573b209ec64e733a2a17",
+      "title": "Nintendo Confirms Switch 1 Global Availability After Announcing European Withdrawal",
+      "summary": "Nintendo has confirmed its plans to continue selling Switch 1, after yesterday announcing that sales would be suspended in Europe.",
+      "url": "https://www.ign.com/articles/nintendo-confirms-switch-1-global-availability-after-announcing-european-withdrawal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-07T09:20:47+00:00"
+    },
+    {
+      "id": "c4bc5bb76b25119bf0e43b2f",
+      "title": "Erika Kirk comes face-to-face in court with husband's alleged killer",
+      "summary": "Charlie Kirk's widow was joined by the late US activist's family - all of whom attended court for the first time in the case.",
+      "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-07T08:25:54+00:00"
+    },
+    {
+      "id": "8b119604138450abbc302397",
+      "title": "Watch: Moment rare tornado lashes central Chinese cities",
+      "summary": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
+      "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-07T07:27:05+00:00"
+    },
     {
       "id": "ea42edb8ddefc02af2ba1dd4",
       "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
@@ -24,17 +101,6 @@
       "publishedAt": "2026-07-07T06:23:04+00:00"
     },
     {
-      "id": "28f9c4250eed20e931e228d3",
-      "title": "Fatal Typhoon Maysak floods burst dam wall in China",
-      "summary": "At least four have been killed by flooding due to Maysak, while another 480,000 have been evacuated across the southern Guangxi province.",
-      "url": "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-07T05:21:00+00:00"
-    },
-    {
       "id": "7550c9a5246fa21ebb0ca911",
       "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
       "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
@@ -44,17 +110,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-07T04:18:19+00:00"
-    },
-    {
-      "id": "dbd0bcd66d588316931262fb",
-      "title": "Erika Kirk attends hearing for suspect charged with husband's murder",
-      "summary": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
-      "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-07T02:33:18+00:00"
     },
     {
       "id": "a142e35792ca7009e9a1592b",
@@ -354,17 +409,6 @@
       "publishedAt": "2026-07-06T17:13:38+00:00"
     },
     {
-      "id": "2140470104449d762d2ecb1a",
-      "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
-      "summary": "The storm lashed the Mariana Islands, hitting Rota and prompting emergency warnings on Guam.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-06T16:44:54+00:00"
-    },
-    {
       "id": "fbc762693835f739ce37f8b5",
       "title": "'It's a very sad day' - Mexican fans react to loss to England",
       "summary": "Mexico's World Cup campaign ended with a 3-2 defeat to England in Mexico City.",
@@ -385,28 +429,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-06T16:40:23+00:00"
-    },
-    {
-      "id": "7088324ee97a28c2a7bc88c9",
-      "title": "The 65\" Samsung S90F 4K QD-OLED TV Drops to $1,208 with Free Shipping on Amazon",
-      "summary": "We picked the S90F as the best gaming TV in 2026.",
-      "url": "https://www.ign.com/articles/samsung-s90f-4k-qd-oled-smart-tv-deal-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-06T16:35:00+00:00"
-    },
-    {
-      "id": "108001c0d2bb9462b98101d0",
-      "title": "The Elder Scrolls IV: Oblivion Remastered’s Physical Switch 2 Release Comes on a Cartridge – Here’s Where You Can Preorder It",
-      "summary": "Preorders are live for The Elder Scrolls IV: Oblivion Remastered Physical Deluxe Edition on Nintendo Switch 2, which comes with the full base game on a cartridge. Here's where you can still grab a copy ahead of its August 11 release date.",
-      "url": "https://www.ign.com/articles/elder-scrolls-iv-oblivion-remastered-nintendo-switch-2-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-06T16:29:53+00:00"
     },
     {
       "id": "d7484a140f7d3fed1d6c6c22",
@@ -539,17 +561,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-06T05:04:28+00:00"
-    },
-    {
-      "id": "373ede0f84461972b9406d7f",
-      "title": "Australia space agency has found 'likely source' of mystery space balls",
-      "summary": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
-      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-06T02:49:15+00:00"
     },
     {
       "id": "5d763dc0c506d6e42c91b807",
@@ -803,17 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-02T07:00:05+00:00"
-    },
-    {
-      "id": "6ac74374a060d74351e31ce4",
-      "title": "Mark Corcoral, politiste : « Le blocage de certains modèles d’IA par Washington est un nouvel usage du droit à des fins de sécurité nationale »",
-      "summary": "La suspension, mi-juin, des derniers modèles d’intelligence artificielle d’Anthropic et d’OpenAI s’inscrit dans une longue tradition américaine d’agressivité juridique vis-à-vis de ses adversaires, selon le chercheur.",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/02/mark-corcoral-politiste-le-blocage-de-certains-modeles-d-ia-par-washington-est-un-nouvel-usage-du-droit-a-des-fins-de-securite-nationale_6717795_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-02T04:00:26+00:00"
     },
     {
       "id": "7ed52c1979664ccb62d2a4d5",
