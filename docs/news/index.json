@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-07-07T23:49:05.102052+00:00",
+  "updatedAt": "2026-07-08T01:51:37.399074+00:00",
   "items": [
     {
-      "id": "510dc2143bbc6af9f04f0511",
-      "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-      "summary": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
+      "id": "bb5fe43263c29624b3fe3a0e",
+      "title": "Expand Your Home Gym With This Yoleo Weight Bench for Less Than $38 Shipped",
+      "summary": "Comes 95% pre-assembled.",
+      "url": "https://www.ign.com/articles/expand-your-home-gym-with-this-yoleo-weight-bench-deal-july",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-08T01:20:00+00:00"
+    },
+    {
+      "id": "adf2f9bf8116bb1e0f2ff4b7",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-07T23:47:33+00:00"
+      "category": "general",
+      "publishedAt": "2026-07-07T23:53:45+00:00"
     },
     {
       "id": "fb7c2639bdfa8a98097d0a78",
@@ -33,17 +44,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-07T23:20:00+00:00"
-    },
-    {
-      "id": "adf2f9bf8116bb1e0f2ff4b7",
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-07T22:48:45+00:00"
     },
     {
       "id": "49b84fc7bea5b5bf42202a65",
@@ -374,17 +374,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-07T16:00:00+00:00"
-    },
-    {
-      "id": "98d02f963a0737f12ce85d69",
-      "title": "Assassin's Creed Black Flag Resynced Steam Pre-Orders Have Already Beaten Skull & Bones' Lifetime Sales, Analyst Claims",
-      "summary": "Launch sales projections for Ubisoft's Assassin's Creed Black Flag remake look like a huge improvement on Assassin's Creed Shadows, the franchise's most recent release.",
-      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-steam-pre-orders-have-already-beaten-skull-bones-lifetime-sales-analyst-claims",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-07T15:53:06+00:00"
     },
     {
       "id": "32b70eb961c8a78cb003c21c",
@@ -935,6 +924,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-30T09:16:23+00:00"
+    },
+    {
+      "id": "23207757ad4fa9d06fbfc0c2",
+      "title": "Ford rehires human engineers after AI fails to match quality checks",
+      "summary": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-29T11:58:01+00:00"
     },
     {
       "id": "32cde5bfac14c6e1b53fb42f",
