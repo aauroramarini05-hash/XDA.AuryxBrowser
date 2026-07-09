@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-07-09T04:42:22.581767+00:00",
+  "updatedAt": "2026-07-09T08:19:16.809741+00:00",
   "items": [
-    {
-      "id": "8e1ede0feed0f4d85838f901",
-      "title": "US launches more strikes on Iran with blasts reported in south of country",
-      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-09T03:58:23+00:00"
-    },
     {
       "id": "08af547db03b799f30baafc6",
       "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
@@ -21,11 +10,22 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-09T03:13:25+00:00"
+      "publishedAt": "2026-07-09T06:28:08+00:00"
     },
     {
-      "id": "1cc941fc6dbfdd025ace083c",
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
+      "id": "8e1ede0feed0f4d85838f901",
+      "title": "US launches more strikes on Iran with blasts reported in south of country",
+      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-09T05:21:29+00:00"
+    },
+    {
+      "id": "9edde2f1c700fb542c333cdb",
+      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
       "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
       "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -35,8 +35,8 @@
       "publishedAt": "2026-07-09T02:18:21+00:00"
     },
     {
-      "id": "bc734952499252f2bd873a7a",
-      "title": "Do bees have feelings? Study reveals the insects' 'inner life'",
+      "id": "8f81fd5376fb5dfedaa8597d",
+      "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
       "summary": "New research found bumblebees showed \"emotion-like behaviours\" previously only seen in mammals.",
       "url": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -92,7 +92,7 @@
     {
       "id": "7e49434b445f643598d486ec",
       "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
-      "summary": "The case highlights the problem of child trafficking in Indonesia and raises questions about how Singapore fails to detect it.",
+      "summary": "When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.",
       "url": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -134,14 +134,14 @@
       "publishedAt": "2026-07-08T23:15:00+00:00"
     },
     {
-      "id": "bb84e673f81a5018624bf260",
+      "id": "f15e6924946f5b98b68f9568",
       "title": "Wealthy AI workers send San Francisco house prices soaring",
       "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
       "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
+      "category": "general",
       "publishedAt": "2026-07-08T23:11:35+00:00"
     },
     {
@@ -552,17 +552,6 @@
       "publishedAt": "2026-07-08T10:56:55+00:00"
     },
     {
-      "id": "fb3b9a5ef093d30b048066fd",
-      "title": "How Esports World Cup moved from Saudi Arabia to Paris in 8 weeks",
-      "summary": "The Esports World Cup gets going in Paris after a last-minute move from Saudi Arabia. Is it any less controversial?",
-      "url": "https://www.bbc.co.uk/news/articles/ckg888l8lzjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-08T08:43:00+00:00"
-    },
-    {
       "id": "bdc1fbaa8a5bde086de070ed",
       "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
       "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
@@ -970,6 +959,17 @@
       "publishedAt": "2026-07-01T14:01:06+00:00"
     },
     {
+      "id": "d635467177809a6b28d3f7f0",
+      "title": "Why is crucial tech vulnerable to the heat?",
+      "summary": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-01T07:23:12+00:00"
+    },
+    {
       "id": "d9ec07899161723b5a372673",
       "title": "E-scooters being advertised for commuting despite UK road ban",
       "summary": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
@@ -990,6 +990,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-06-30T19:30:00+00:00"
+    },
+    {
+      "id": "b85d508f9142dfc1c7d4739c",
+      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
+      "summary": "The app's new usernames feature will be rolled out globally over the next few months.",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-06-30T09:16:23+00:00"
     },
     {
       "id": "32cde5bfac14c6e1b53fb42f",
