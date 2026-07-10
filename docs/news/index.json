@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-09T23:02:56.385057+00:00",
+  "updatedAt": "2026-07-10T02:03:13.841934+00:00",
   "items": [
+    {
+      "id": "6c864a220fa03b0fc158876b",
+      "title": "South Korean chip giant SK Hynix raises $26.5bn in US share sale",
+      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T01:45:01+00:00"
+    },
+    {
+      "id": "8a72aca624f0b2058b0783ca",
+      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-10T01:33:45+00:00"
+    },
+    {
+      "id": "c3c50193d0154e10afaca457",
+      "title": "Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System",
+      "summary": "Amazon's best selling WiFi 7 router.",
+      "url": "https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-for-july",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T01:20:00+00:00"
+    },
+    {
+      "id": "6f4e060e6433997a87ed26bb",
+      "title": "The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99",
+      "summary": "I compared it first-hand with the popular $100 Waterpik Aquarius.",
+      "url": "https://www.ign.com/articles/coslus-c20-cordless-rechargeable-water-flosser-deal-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T01:20:00+00:00"
+    },
+    {
+      "id": "ac63b08c42e8580a69d00347",
+      "title": "Factory fire kills at least 28 in China's 'shoe capital'",
+      "summary": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T01:12:40+00:00"
+    },
+    {
+      "id": "4c0dfd381f1054fc6d960493",
+      "title": "HyperMegaTech Super Pocket Rare Edition Review",
+      "summary": "The HyperMegaTech Super Pocket Rare Edition is a solid handheld with a broad cross-section of games from one of the best classic gaming developers. It brings classics from Battletoads to Banjo-Kazooie into a pocket-sized handheld retro gaming device.",
+      "url": "https://www.ign.com/articles/hypermegatech-super-pocket-rare-edition-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-09T23:44:13+00:00"
+    },
+    {
+      "id": "960b85035eade43bb290806c",
+      "title": "All the best looks from Paris Haute Couture Week 2026",
+      "summary": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-09T23:07:47+00:00"
+    },
     {
       "id": "07cfdad4e432bee6a677caac",
       "title": "US and Iran trade attacks as Khamenei is buried",
@@ -13,6 +90,17 @@
       "publishedAt": "2026-07-09T23:02:18+00:00"
     },
     {
+      "id": "9f5b66909844b3d01f2a754f",
+      "title": "'To Continue Being Produced Long Term, Games Need to Succeed, Not Just Be Beloved' — John Carmack Responds to id Software Layoffs",
+      "summary": "John Carmack has responded to the significant layoffs at Doom developer id Software, expressing sadness but not “anger or outrage.”",
+      "url": "https://www.ign.com/articles/to-continue-being-produced-long-term-games-need-to-succeed-not-just-be-beloved-john-carmack-responds-to-id-software-layoffs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-09T23:02:05+00:00"
+    },
+    {
       "id": "f2b888e4b0ad42c3a03d2d76",
       "title": "Pressure builds on Europe's biggest port to be greener",
       "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
@@ -22,6 +110,28 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-09T23:00:51+00:00"
+    },
+    {
+      "id": "cedf5b7a7252c79d54146b1d",
+      "title": "We saved £6,000 on holidays by swapping homes with strangers",
+      "summary": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-09T23:00:38+00:00"
+    },
+    {
+      "id": "ba9913ccca4940dd07cc1c7f",
+      "title": "Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side",
+      "summary": "As a society, we take mothers for granted and raising children is a thankless job, says actor Kalki Koechlin.",
+      "url": "https://www.bbc.co.uk/news/articles/c04yxnlkdxzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-09T22:41:08+00:00"
     },
     {
       "id": "133d41d08fafe30827e55605",
@@ -255,50 +365,6 @@
       "publishedAt": "2026-07-09T16:45:00+00:00"
     },
     {
-      "id": "6eee770de45155f1102cbb0f",
-      "title": "Amazon's Audible Prime Day Deal Has Been Extended: Pay Just $1 Per Month and Get $20 in Audible Credit",
-      "summary": "Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.",
-      "url": "https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-09T16:40:00+00:00"
-    },
-    {
-      "id": "b2e337ac47f1fe52532afb6f",
-      "title": "Preorder SPECS, Snap's First Ever AR Glasses",
-      "summary": "Lightweight and stylish personal wearable computer.",
-      "url": "https://www.ign.com/articles/preorder-the-specs-ar-glasses-from-snap",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-09T16:40:00+00:00"
-    },
-    {
-      "id": "ee18fdd9780c146beb12d9b1",
-      "title": "Save Nearly 60% Off the Logitech G923 Racing Wheel and Pedal Set for PlayStation and PC",
-      "summary": "Play Forza Horizon 6 the way it's meant to be played.",
-      "url": "https://www.ign.com/articles/logitech-g923-racing-wheel-deal-for-forza-horizon-6-in-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-09T16:40:00+00:00"
-    },
-    {
-      "id": "f40456edbdded10801f6a0a0",
-      "title": "Love and Deepspace Fans Continue Calls for Valko's Return After Update Excludes Him",
-      "summary": "Despite a passionate campaign from fans, the maker of the romance game Love and Deepspace appears to be – at least for now – sticking with its decision to exclude the new love interest Valko from the latest update.",
-      "url": "https://www.ign.com/articles/love-and-deepspace-fans-continue-calls-for-valkos-return-after-update-excludes-him",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-09T16:39:36+00:00"
-    },
-    {
       "id": "cc4671197aa8ded62420793f",
       "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
       "summary": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
@@ -319,17 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-09T15:21:17+00:00"
-    },
-    {
-      "id": "ac63b08c42e8580a69d00347",
-      "title": "Factory fire kills at least 28 in China's 'shoe capital'",
-      "summary": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-09T15:14:35+00:00"
     },
     {
       "id": "124cddc9fb6cee0c8b293e19",
@@ -365,6 +420,17 @@
       "publishedAt": "2026-07-09T11:29:31+00:00"
     },
     {
+      "id": "cf985a3fe57a1d0dc50cb34a",
+      "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
+      "summary": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing.",
+      "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-09T11:09:17+00:00"
+    },
+    {
       "id": "f4e68452788a9084038c785c",
       "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
       "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
@@ -374,17 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-09T08:49:45+00:00"
-    },
-    {
-      "id": "08af547db03b799f30baafc6",
-      "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
-      "summary": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
-      "url": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-09T06:28:08+00:00"
     },
     {
       "id": "7e49434b445f643598d486ec",
@@ -869,17 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-01T14:01:06+00:00"
-    },
-    {
-      "id": "d9ec07899161723b5a372673",
-      "title": "E-scooters being advertised for commuting despite UK road ban",
-      "summary": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
-      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-06-30T23:05:08+00:00"
     },
     {
       "id": "a39c1701451039ad4696ed3e",
