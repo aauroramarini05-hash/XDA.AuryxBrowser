@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-07-10T22:51:58.372234+00:00",
+  "updatedAt": "2026-07-10T23:50:54.480728+00:00",
   "items": [
+    {
+      "id": "c5803c37b265a52881af9e6b",
+      "title": "Apple attaque en justice OpenAI pour détournement d’informations confidentielles après le recrutement d’ex-salariés",
+      "summary": "La marque à la pomme accuse l’entreprise d’intelligence artificielle d’avoir élaboré une « stratégie » destinée à « extraire des informations confidentielles » provenant d’Apple, dans une plainte déposée devant un tribunal fédéral.",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/11/apple-attaque-en-justice-openai-pour-detournement-d-informations-confidentielles-apres-le-recrutement-d-ex-salaries_6722517_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-10T23:47:52+00:00"
+    },
+    {
+      "id": "8394556e2c336b097c6d4142",
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T23:03:11+00:00"
+    },
+    {
+      "id": "f668c80e60309625ba6ec189",
+      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T23:02:59+00:00"
+    },
     {
       "id": "ed4c10f5b2e1fe28e855f747",
       "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
@@ -10,7 +43,7 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-07-10T22:44:31+00:00"
+      "publishedAt": "2026-07-10T22:54:16+00:00"
     },
     {
       "id": "fafb03547e16635d1b2b2e72",
@@ -33,6 +66,28 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-10T22:16:23+00:00"
+    },
+    {
+      "id": "bb1465758a206ee421d199b4",
+      "title": "Watch: Inside the 30-hour dating retreat run by monks",
+      "summary": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
+      "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T22:02:42+00:00"
+    },
+    {
+      "id": "7c267a3e53102f69c92d8c89",
+      "title": "Twelve men and 12 women enter a Buddhist temple - will the monks help them find love?",
+      "summary": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T22:02:09+00:00"
     },
     {
       "id": "d9a6012cb0aedffd56ce24f2",
@@ -321,17 +376,6 @@
       "publishedAt": "2026-07-10T16:45:46+00:00"
     },
     {
-      "id": "75cb493dea87e47aa92d0c0a",
-      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "summary": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T16:42:35+00:00"
-    },
-    {
       "id": "5ca43119247b39000e3ff339",
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
@@ -563,17 +607,6 @@
       "publishedAt": "2026-07-09T11:29:31+00:00"
     },
     {
-      "id": "0e6407d505609f23b45ffa90",
-      "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
-      "summary": "Nato's secretary general insists there is \"unity\" among Nato members, but the BBC's security correspondent asks if that is really the case.",
-      "url": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-08T18:56:36+00:00"
-    },
-    {
       "id": "519ca89b4f10d759c290948e",
       "title": "Présidentielle et risque d’ingérences étrangères : Sébastien Lecornu propose de tripler les peines pour les producteurs de « faux contenus d’information » face à un risque « très aigu »",
       "summary": "« La période électorale a quelque chose de sacré dans une démocratie, elle mérite une protection particulière », a expliqué le chef du gouvernement.",
@@ -715,17 +748,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-07T18:04:10+00:00"
-    },
-    {
-      "id": "543230db28791b70c61e67a2",
-      "title": "Affaire Jean Pormanove : des peines de prison et un « bannissement numérique » requis contre les streameurs Naruto et Safine",
-      "summary": "Les deux streameurs sont jugés pour violences en réunion, abus de faiblesse, diffusion d’images violentes et provocation à la haine ou à la violence.",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/07/affaire-jean-pormanove-des-peines-de-prison-et-un-bannissement-numerique-requis-contre-les-streameurs-naruto-et-safine_6721458_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-07T10:16:25+00:00"
     },
     {
       "id": "09c1865b4586f80b893e5b8f",
