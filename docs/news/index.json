@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-07-10T16:15:11.862534+00:00",
+  "updatedAt": "2026-07-10T18:17:11.925876+00:00",
   "items": [
+    {
+      "id": "036a7aa2e1ef33ffecd3b5c8",
+      "title": "« Une vidéo de trente minutes, tu peux en produire 500 clips » : le nouveau business du « clipping », la fabrique artificielle de la viralité sur Internet",
+      "summary": "Née dans les franges du Web, la pratique consistant à découper des contenus en petites vidéos pour inonder les réseaux sociaux est devenue une industrie très lucrative. Labels de musique, studios de cinéma et personnalités politiques s’intéressent de près à ce moyen discret et peu coûteux d’exister en ligne.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/10/une-video-de-trente-minutes-tu-peux-en-produire-500-clips-le-nouveau-business-du-clipping-la-fabrique-artificielle-de-la-viralite-sur-internet_6722504_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-10T18:00:11+00:00"
+    },
+    {
+      "id": "5bad54635e52ce0e76b3310a",
+      "title": "Save 50% Off Anker's Newly Released SOLIX S2000 2,048Wh 2,400W LiFePO4 Power Station",
+      "summary": "Anker's lightest ever 2kWh power station with 96% efficiency, 6W power draw, and 10ms UPS switchover.",
+      "url": "https://www.ign.com/articles/new-release-anker-solix-s2000-lifepo4-power-station-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T17:30:00+00:00"
+    },
+    {
+      "id": "0389588f3b2e794b4cc77e6e",
+      "title": "'I'd Take It in a Second' — Cyberpunk 2077 Player Resurgence Has Fans Calling on CD Projekt to Change Its Mind and Release More DLC",
+      "summary": "Cyberpunk 2077 is having a moment, with impressive player numbers on Steam fueled by a recent sale, hype for upcoming Netflix anime Cyberpunk: Edgerunners 2 and its collaboration with Wuthering Waves. And while Cyberpunk 2077 is a known quantity at this point, and CD Projekt has told fans not to expect any more DLC, fans are calling on the develope",
+      "url": "https://www.ign.com/articles/id-take-it-in-a-second-cyberpunk-2077-player-resurgence-has-fans-calling-on-cd-projekt-to-change-its-mind-and-release-more-dlc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T17:12:40+00:00"
+    },
+    {
+      "id": "43e7a44a38e46b6fa2b95233",
+      "title": "Dell Outlet Has Restocked Alienware Area-51 RTX 5090 Gaming PCs With 64GB of RAM and 4TB SSD",
+      "summary": "Comes with the same warranty as buying brand new.",
+      "url": "https://www.ign.com/articles/alienware-area-51-rtx-5090-gaming-pc-deal-with-64gb-of-ram-and-4tb-ssd-at-dell-outlet-in-july",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T17:10:00+00:00"
+    },
+    {
+      "id": "b1c7ab99b4c0a5daae79aec2",
+      "title": "Get a Travel-Friendly Orico Power Strip With AC Outlets and USB Ports for Just Under $20",
+      "summary": "Packs down to the size of a smartphone, cord included.",
+      "url": "https://www.ign.com/articles/oricio-travel-friendly-power-strip-deal-in-july",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T17:10:00+00:00"
+    },
+    {
+      "id": "e799b384c077ece7f1bf72a3",
+      "title": "Une anthologie salutaire retrace quarante ans de manifestes politiques du Web",
+      "summary": "Dans « Promesses et utopies. Une anthologie des manifestes du Web », Loup Cellard, chercheur à l’université Paris-Saclay, rassemble de précieuses et inédites archives des utopies de l’Internet – et dessine des pistes pour se réapproprier les outils et les infrastructures du Web.",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/10/une-anthologie-salutaire-retrace-quarante-ans-de-manifestes-politiques-du-web_6722495_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-10T17:00:10+00:00"
+    },
+    {
+      "id": "d34f0ccb893e487c7ea79cd4",
+      "title": "Dell Outlet Has an Alienware Aurora RTX 5080 Gaming PC With 64GB of RAM and a 4TB SSD for $2,908",
+      "summary": "Comes with the same warranty as buying brand new.",
+      "url": "https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-64gb-ram-4tb-ssd-deal-at-dell-outlet-in-july",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T16:50:00+00:00"
+    },
+    {
+      "id": "da8cc0e47e56712445d56e24",
+      "title": "IA : un projet de data center près de Valence suspendu par la justice",
+      "summary": "En décembre 2025, le maire d’Alixan (Drôme) avait délivré un permis de construire sur le site de Rovaltain pour un data center d’une puissance de 40 mégawatts (MW). Mais un collectif avait saisi le tribunal administratif en invoquant des risques environnementaux et de nuisances « extrêmement élevés ».",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/10/ia-un-projet-de-data-center-pres-de-valence-suspendu-par-la-justice_6722493_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-10T16:45:46+00:00"
+    },
+    {
+      "id": "75cb493dea87e47aa92d0c0a",
+      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
+      "summary": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T16:42:35+00:00"
+    },
+    {
+      "id": "5ca43119247b39000e3ff339",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T16:42:24+00:00"
+    },
+    {
+      "id": "caa740df99c424aab129bcf9",
+      "title": "Zulu king expresses regret after video captures tirade against his wife",
+      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T16:42:11+00:00"
+    },
+    {
+      "id": "a7faa1c04065f82242a32d5b",
+      "title": "How to Play the Grand Theft Auto Games in Order",
+      "summary": "How to navigate every GTA timeline ahead of GTA 6.",
+      "url": "https://www.ign.com/articles/gta-games-in-order",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T16:32:00+00:00"
+    },
+    {
+      "id": "3912f39bd85f19c7ed4aebec",
+      "title": "Evil Dead Burn Is Getting a 4K Steelbook That's Already Up for Preorder – Here’s Where to Grab It",
+      "summary": "Preorders are now live for Evil Dead Burn’s 4K steelbook, standard 4K, Blu-ray, and a Two-Film Collection with Evil Dead Rise. Here's where you can secure them right now.",
+      "url": "https://www.ign.com/articles/evil-dead-burn-4k-steelbook-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T16:10:00+00:00"
+    },
+    {
+      "id": "597d7395f8f5cea92d6f4244",
+      "title": "Save $2,500 Off the Alienware 16X Aurora RTX 5070 Gaming Laptop Loaded With 64GB of RAM and 4TB SSD",
+      "summary": "50% off a premium all-metal gaming laptop with $1,400+ worth of RAM and SSD storage.",
+      "url": "https://www.ign.com/articles/dell-alienware-16x-aurora-rtx-5070-gaming-laptop-deal-in-july",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T16:05:00+00:00"
+    },
+    {
+      "id": "e7df4f8cd8f5eed716552869",
+      "title": "Save Nearly 40% Off the Sony's Outstanding WH-1000XM6 Wireless Noise Canceling Headphones",
+      "summary": "These are refurbished units that are indistinguishable from new and include a 2 year warranty.",
+      "url": "https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-in-july",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T16:05:00+00:00"
+    },
+    {
+      "id": "f473c379e0ffccbf623abe20",
+      "title": "The Excellent SteelSeries Arctis Nova Pro Wireless Gaming Headset Drops to a New Price Low",
+      "summary": "Hot swappable batteries for wireless freedom AND zero downtime.",
+      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-wireless-gaming-headset-deal-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T16:05:00+00:00"
+    },
+    {
+      "id": "6eee770de45155f1102cbb0f",
+      "title": "Amazon's Audible Prime Day Deal Has Been Extended: Pay Just $1 Per Month and Get $20 in Audible Credit",
+      "summary": "Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.",
+      "url": "https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T15:55:00+00:00"
+    },
     {
       "id": "c62ce97a072681efc636fadb",
       "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
@@ -35,8 +222,8 @@
       "publishedAt": "2026-07-10T15:30:00+00:00"
     },
     {
-      "id": "3b9878de64b1fb96d157da2c",
-      "title": "US declassifies even more UFO videos",
+      "id": "b07b207bd43552658c911c4c",
+      "title": "Boxy forms and odd lights: US declassifies more UFO files",
       "summary": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
       "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -77,6 +264,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-10T14:39:53+00:00"
+    },
+    {
+      "id": "3998cd8ed17b6846a65daeec",
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-10T14:08:26+00:00"
     },
     {
       "id": "bf17de2f48ffd9af33e53ae3",
@@ -123,28 +321,6 @@
       "publishedAt": "2026-07-10T12:51:46+00:00"
     },
     {
-      "id": "d0b753984da18a3e97ed0d36",
-      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T12:38:38+00:00"
-    },
-    {
-      "id": "5ca43119247b39000e3ff339",
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T12:31:08+00:00"
-    },
-    {
       "id": "8d98057d21dbb30595bf9fe7",
       "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
       "summary": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
@@ -176,17 +352,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-10T11:27:25+00:00"
-    },
-    {
-      "id": "ae811f6bc3e0dc92e6235dbb",
-      "title": "'There's a Lot of Elevating It Because It's Old' — The Odyssey Director Christopher Nolan Set Out to 'Do Away' With 'Cultural Prejudice' Around How We View the Ancient World",
-      "summary": "Christopher Nolan has discussed his approach to building the world of The Odyssey, insisting his goal was to make it feel “very fresh for modern audiences” and \"do away\" with the “cultural prejudices” we have when we think about he ancient world.",
-      "url": "https://www.ign.com/articles/theres-a-lot-of-elevating-it-because-its-old-the-odyssey-director-christopher-nolan-set-out-to-do-away-with-cultural-prejudice-around-how-we-view-the-ancient-world",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-10T10:13:58+00:00"
     },
     {
       "id": "9b6f1e2191e45bf76de5161d",
@@ -233,17 +398,6 @@
       "publishedAt": "2026-07-10T08:26:00+00:00"
     },
     {
-      "id": "7c312ba21a46a68e2ff6a51f",
-      "title": "Cape Fear Episode 7 Recap and Review – ‘Mongrel’",
-      "summary": "In our Cape Fear Episode 7 review, the Apple TV thriller finally embraces its melodramatic side with a major character death and shocking family twists.",
-      "url": "https://www.ign.com/articles/cape-fear-episode-7-recap-and-review-mongrel",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-10T07:00:00+00:00"
-    },
-    {
       "id": "65fd79c0a0e66378a6497eed",
       "title": "China lands reusable rocket for first time, state media says",
       "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
@@ -277,39 +431,6 @@
       "publishedAt": "2026-07-10T04:00:01+00:00"
     },
     {
-      "id": "69b351c09efca525518482e4",
-      "title": "Palworld Review So Far",
-      "summary": "So far the 1.0 version is looking like it’s made all the right improvements.",
-      "url": "https://www.ign.com/articles/palworld-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-10T03:30:00+00:00"
-    },
-    {
-      "id": "c159383c65cdf1bf21f542f4",
-      "title": "'We Really Had a Good Time Making It': JK Simmons Speaks Out About Canceled Batgirl Movie",
-      "summary": "JK Simmons isn't thrilled about the decision to scrap the Batgirl movie.",
-      "url": "https://www.ign.com/articles/we-really-had-a-good-time-making-it-jk-simmons-speaks-out-about-canceled-batgirl-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-10T02:45:34+00:00"
-    },
-    {
-      "id": "b58b413cf0ffb649e934c985",
-      "title": "Dead by Daylight, Control, and McDonald's Are Helping Advertise Assassin's Creed Black Flag Resynced",
-      "summary": "For whatever reason, a bunch of video game companies are helping advertise Assassin's Creed Black Flag Resynced.",
-      "url": "https://www.ign.com/articles/dead-by-daylight-control-and-mcdonalds-are-helping-advertise-assassins-creed-black-flag-resynced",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-10T02:39:30+00:00"
-    },
-    {
       "id": "8a72aca624f0b2058b0783ca",
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
@@ -319,39 +440,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-10T01:33:45+00:00"
-    },
-    {
-      "id": "c3c50193d0154e10afaca457",
-      "title": "Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System",
-      "summary": "Amazon's best selling WiFi 7 router.",
-      "url": "https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-for-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-10T01:20:00+00:00"
-    },
-    {
-      "id": "6f4e060e6433997a87ed26bb",
-      "title": "The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99",
-      "summary": "I compared it first-hand with the popular $100 Waterpik Aquarius.",
-      "url": "https://www.ign.com/articles/coslus-c20-cordless-rechargeable-water-flosser-deal-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-10T01:20:00+00:00"
-    },
-    {
-      "id": "4c0dfd381f1054fc6d960493",
-      "title": "HyperMegaTech Super Pocket Rare Edition Review",
-      "summary": "The HyperMegaTech Super Pocket Rare Edition is a solid handheld with a broad cross-section of games from one of the best classic gaming developers. It brings classics from Battletoads to Banjo-Kazooie into a pocket-sized handheld retro gaming device.",
-      "url": "https://www.ign.com/articles/hypermegatech-super-pocket-rare-edition-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-09T23:44:13+00:00"
     },
     {
       "id": "de8b37f72216ac7642b412d0",
@@ -376,17 +464,6 @@
       "publishedAt": "2026-07-09T23:07:47+00:00"
     },
     {
-      "id": "9f5b66909844b3d01f2a754f",
-      "title": "'To Continue Being Produced Long Term, Games Need to Succeed, Not Just Be Beloved' — John Carmack Responds to id Software Layoffs",
-      "summary": "John Carmack has responded to the significant layoffs at Doom developer id Software, expressing sadness but not “anger or outrage.”",
-      "url": "https://www.ign.com/articles/to-continue-being-produced-long-term-games-need-to-succeed-not-just-be-beloved-john-carmack-responds-to-id-software-layoffs",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-09T23:02:05+00:00"
-    },
-    {
       "id": "f2b888e4b0ad42c3a03d2d76",
       "title": "Pressure builds on Europe's biggest port to be greener",
       "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
@@ -407,28 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-09T22:09:57+00:00"
-    },
-    {
-      "id": "cfcb1b1476b533ecf2efae67",
-      "title": "Save Over 70% Off the Premium Harman Kardon Go + Play Portable Speaker, Now Just $129.99",
-      "summary": "One of the best sounding portable speakers under $200.",
-      "url": "https://www.ign.com/articles/harman-kardon-go-play-portable-speaker-deal-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-09T22:05:00+00:00"
-    },
-    {
-      "id": "4970e0d66c104c06dd8f701e",
-      "title": "Naruto Live-Action Movie Director, Studio Launch Worldwide Casting Search for Lead Roles",
-      "summary": "Lionsgate and live-action Naruto movie director Destin Daniel Cretton announced via social media Thursday that they will launch a global casting search for the roles of Team 7’s three young shinobi Naruto, Sasuke and Sakura.",
-      "url": "https://www.ign.com/articles/naruto-live-action-movie-global-casting-search",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-09T22:00:00+00:00"
     },
     {
       "id": "b5274bfb6160b1e11179d81f",
@@ -717,17 +772,6 @@
       "publishedAt": "2026-07-06T23:15:32+00:00"
     },
     {
-      "id": "b158a3ea5c5470200e11f53d",
-      "title": "Microsoft annonce la suppression de 4 800 postes, en partie liée à la restructuration de sa filiale de jeux vidéo Xbox",
-      "summary": "Le premier éditeur mondial de logiciels investit des sommes considérables dans les centres de données destinés à l’intelligence artificielle, ce qui entraîne des mesures d’économie dans d’autres activités.",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/06/microsoft-annonce-la-suppression-de-4-800-postes-en-partie-liee-a-la-restructuration-de-sa-filiale-de-jeux-video-xbox_6721213_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-06T15:25:05+00:00"
-    },
-    {
       "id": "b56c580b378a77692de5e4e3",
       "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
       "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
@@ -737,28 +781,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-06T15:18:53+00:00"
-    },
-    {
-      "id": "ceff96b375ced9f6d98e4da6",
-      "title": "Comment Starlink a réussi à s’imposer en Afrique",
-      "summary": "La firme du milliardaire américain Elon Musk propose désormais ses services dans 26 des 54 Etats africains. De nombreux pays, initialement réfractaires au fournisseur d’Internet par satellite, espèrent ainsi réduire leur fracture numérique dans les zones rurales enclavées.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/06/comment-starlink-a-reussi-a-s-imposer-en-afrique_6721209_3212.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-06T15:00:18+00:00"
-    },
-    {
-      "id": "34fafbd3fc0b3d1ccdaee811",
-      "title": "« André Gorz a pressenti comment le capitalisme allait s’emparer de l’IA » : entretien avec l’économiste Christophe Fourel et le mathématicien Cédric Villani",
-      "summary": "Plus de vingt ans après sa rédaction, la version augmentée par le philosophe de son texte « L’Immatériel » est enfin publiée. Les préfaciers, Christophe Fourel et Cédric Villani, expliquent dans un entretien au « Monde » combien ce livre lumineux, qui explore la mutation en cours du capitalisme, éclaire le débat sur l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/05/andre-gorz-a-pressenti-comment-le-capitalisme-allait-s-emparer-de-l-ia-entretien-avec-l-economiste-christophe-fourel-et-le-mathematicien-cedric-villani_6720828_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-05T04:00:19+00:00"
     },
     {
       "id": "167efa6ea5edc8d7bd877bbf",
