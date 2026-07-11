@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-10T23:50:54.480728+00:00",
+  "updatedAt": "2026-07-11T01:50:19.728903+00:00",
   "items": [
+    {
+      "id": "67f6cae973034d9db6e8e6aa",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-11T01:45:59+00:00"
+    },
+    {
+      "id": "5fc4fe0ebd4e0d080dd319f4",
+      "title": "Tech Now",
+      "summary": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-11T01:00:00+00:00"
+    },
+    {
+      "id": "f0a8007defeca01c74c8cfc9",
+      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "summary": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
+      "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T00:46:15+00:00"
+    },
+    {
+      "id": "305ea73939397bbccfae9f2f",
+      "title": "L’industrie musicale propose de créer un label pour les morceaux générés par IA, en plein essor sur les plateformes",
+      "summary": "Alors que l’intelligence artificielle permet désormais de créer des morceaux entiers, parfois difficiles à distinguer de productions humaines, des organisations professionnelles plaident pour davantage de transparence sur l’origine de ces titres.",
+      "url": "https://www.lemonde.fr/culture/article/2026/07/11/l-industrie-musicale-propose-de-creer-un-label-pour-les-morceaux-generes-par-ia-en-plein-essor-sur-les-plateformes_6722551_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-11T00:45:02+00:00"
+    },
+    {
+      "id": "c4c0e43f12f545cad3f5781c",
+      "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
+      "summary": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T00:17:15+00:00"
+    },
+    {
+      "id": "229356e679acb93ec227824b",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+      "summary": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-11T00:08:51+00:00"
+    },
+    {
+      "id": "0998e2fad7fcd6f6e61ccdd6",
+      "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+      "summary": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T00:00:42+00:00"
+    },
     {
       "id": "c5803c37b265a52881af9e6b",
       "title": "Apple attaque en justice OpenAI pour détournement d’informations confidentielles après le recrutement d’ex-salariés",
@@ -44,6 +121,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-10T22:54:16+00:00"
+    },
+    {
+      "id": "2f2fcb045ad5134d6bdc0cbc",
+      "title": "The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences",
+      "summary": "The Odyssey director Christopher Nolan has offered his thoughts on the \"immediate and harsh\" judgment of \"AI slop\" from younger audiences.",
+      "url": "https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-ai-slop-is-being-utterly-rejected-by-younger-audiences",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-10T22:51:09+00:00"
     },
     {
       "id": "fafb03547e16635d1b2b2e72",
@@ -233,17 +321,6 @@
       "publishedAt": "2026-07-10T18:50:00+00:00"
     },
     {
-      "id": "f1fd86604ad6701ee59baeae",
-      "title": "Superb Sinner ends Djokovic's latest bid for history",
-      "summary": "Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T18:36:13+00:00"
-    },
-    {
       "id": "68a68e78cc1d7e048e2f5f15",
       "title": "VIDEO « C’est l’arme de manipulation de masse la plus puissante » : comment le clipping bouleverse nos réseaux sociaux",
       "summary": "Cette pratique consistant à découper des extraits de vidéo pour les diffuser sur les réseaux sociaux s’industrialise et permet aujourd’hui de créer de la viralité artificielle. Trois acteurs du secteur nous dévoilent les coulisses de cette pratique en pleine expansion.",
@@ -352,17 +429,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-10T17:00:10+00:00"
-    },
-    {
-      "id": "d34f0ccb893e487c7ea79cd4",
-      "title": "Dell Outlet Has an Alienware Aurora RTX 5080 Gaming PC With 64GB of RAM and a 4TB SSD for $2,908",
-      "summary": "Comes with the same warranty as buying brand new.",
-      "url": "https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-64gb-ram-4tb-ssd-deal-at-dell-outlet-in-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-10T16:50:00+00:00"
     },
     {
       "id": "da8cc0e47e56712445d56e24",
@@ -486,17 +552,6 @@
       "publishedAt": "2026-07-10T08:48:14+00:00"
     },
     {
-      "id": "aed24c85fb7004788d4e16d1",
-      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
-      "summary": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T08:26:00+00:00"
-    },
-    {
       "id": "65fd79c0a0e66378a6497eed",
       "title": "China lands reusable rocket for first time, state media says",
       "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
@@ -541,17 +596,6 @@
       "publishedAt": "2026-07-10T01:33:45+00:00"
     },
     {
-      "id": "960b85035eade43bb290806c",
-      "title": "All the best looks from Paris Haute Couture Week 2026",
-      "summary": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-09T23:07:47+00:00"
-    },
-    {
       "id": "f2b888e4b0ad42c3a03d2d76",
       "title": "Pressure builds on Europe's biggest port to be greener",
       "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
@@ -583,17 +627,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-09T20:16:13+00:00"
-    },
-    {
-      "id": "239b0fe632469c5532245d5a",
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-09T15:21:17+00:00"
     },
     {
       "id": "55b81cada1c09ffbcf10015b",
@@ -739,17 +772,6 @@
       "publishedAt": "2026-07-07T20:00:00+00:00"
     },
     {
-      "id": "3943413658250976385f54de",
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : la France doit retravailler son texte pour se conformer au droit européen",
-      "summary": "La Commission européenne a rendu mardi 7 juillet son avis sur la proposition de loi interdisant les réseaux sociaux aux moins de 15 ans. Si elle autorise la France à établir un âge minimal d’accès à ces plateformes, elle demande à voir certains points modifiés. Le gouvernement espère faire appliquer le texte dès septembre.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/07/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-la-france-doit-retravailler-son-texte-pour-se-conformer-au-droit-europeen_6721542_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-07T18:04:10+00:00"
-    },
-    {
       "id": "09c1865b4586f80b893e5b8f",
       "title": "Robots available for rent: But what can they do?",
       "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
@@ -805,28 +827,6 @@
       "publishedAt": "2026-07-02T23:02:09+00:00"
     },
     {
-      "id": "0461fa704ae46cfe9ecea99d",
-      "title": "Meta glasses wearers hit with paywall to use built-in feature",
-      "summary": "A feature in Meta's glasses which boosts the voice of people will be capped at three hours for free use.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-02T13:42:53+00:00"
-    },
-    {
-      "id": "cb7a924feae86c042ffc2f66",
-      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
-      "summary": "A Google spokesperson said the judgement \"fails to recognise\" the firm's \"significant investment to ensure Android remains open.\"",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-02T09:46:11+00:00"
-    },
-    {
       "id": "a39c1701451039ad4696ed3e",
       "title": "Tech Life",
       "summary": "We hear concerns that shadow banning is limiting access to health advice for women.",
@@ -880,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-05-23T01:00:00+00:00"
-    },
-    {
-      "id": "37934ce515c62d0000c36b20",
-      "title": "Tech Now",
-      "summary": "Adrienne Murray explores how new 3D imaging is supporting heart procedures.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-05-16T01:00:00+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
