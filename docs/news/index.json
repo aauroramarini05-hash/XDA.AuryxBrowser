@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-11T14:20:49.108707+00:00",
+  "updatedAt": "2026-07-11T15:45:27.288716+00:00",
   "items": [
+    {
+      "id": "7991c4a989d5ab7f0ba0d7a0",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T15:03:45+00:00"
+    },
+    {
+      "id": "0cb80c57165294979301cbed",
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T14:47:47+00:00"
+    },
     {
       "id": "c6fa7e3e7bebe01203e4a60c",
       "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
@@ -44,17 +66,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-11T13:35:09+00:00"
-    },
-    {
-      "id": "0cb80c57165294979301cbed",
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-11T13:29:51+00:00"
     },
     {
       "id": "6d43d21fb1f4a9c182223e08",
@@ -101,17 +112,6 @@
       "publishedAt": "2026-07-11T11:45:55+00:00"
     },
     {
-      "id": "7991c4a989d5ab7f0ba0d7a0",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-11T09:01:15+00:00"
-    },
-    {
       "id": "3e00cf4f7250859f29d79fee",
       "title": "Newly-released video shows Peter Falconio's killer questioned",
       "summary": "Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the 25th anniversary of his murder.",
@@ -154,6 +154,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-11T08:00:27+00:00"
+    },
+    {
+      "id": "4d809631899bb2b9d0bb41cf",
+      "title": "Will Trump Accounts deliver for American children?",
+      "summary": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T07:41:18+00:00"
     },
     {
       "id": "c3c30290472e16f1f63fffea",
@@ -220,17 +231,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-11T00:45:02+00:00"
-    },
-    {
-      "id": "c4c0e43f12f545cad3f5781c",
-      "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
-      "summary": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-11T00:17:15+00:00"
     },
     {
       "id": "229356e679acb93ec227824b",
@@ -607,28 +607,6 @@
       "publishedAt": "2026-07-10T16:45:46+00:00"
     },
     {
-      "id": "5ca43119247b39000e3ff339",
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T16:42:24+00:00"
-    },
-    {
-      "id": "caa740df99c424aab129bcf9",
-      "title": "Zulu king expresses regret after video captures tirade against his wife",
-      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T16:42:11+00:00"
-    },
-    {
       "id": "b07b207bd43552658c911c4c",
       "title": "Boxy forms and odd lights: US declassifies more UFO files",
       "summary": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
@@ -638,17 +616,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-10T15:28:17+00:00"
-    },
-    {
-      "id": "bf17de2f48ffd9af33e53ae3",
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T13:53:11+00:00"
     },
     {
       "id": "8d98057d21dbb30595bf9fe7",
