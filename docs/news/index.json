@@ -1,16 +1,71 @@
 {
-  "updatedAt": "2026-07-12T01:52:53.398374+00:00",
+  "updatedAt": "2026-07-12T05:19:06.539824+00:00",
   "items": [
+    {
+      "id": "134fd21bef822d4869122590",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-12T05:00:15+00:00"
+    },
+    {
+      "id": "f85c77083cff21d9aedc2a8d",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-12T04:39:18+00:00"
+    },
+    {
+      "id": "9d8767a2923e815a0887b984",
+      "title": "Clubs de lecture, « reading parties », colos pour bouquiner... Lire est-il le nouveau chic ?",
+      "summary": "Alors que le temps consacré à la lecture recule chaque année, phagocyté par les écrans, s’afficher un livre à la main n’a jamais été aussi tendance, y compris pour la génération Z.",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/07/12/clubs-de-lecture-reading-parties-colos-pour-bouquiner-lire-est-il-le-nouveau-chic_6722865_4497916.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-12T04:00:46+00:00"
+    },
+    {
+      "id": "a4ccda9ceac96f17822ab36e",
+      "title": "Sur la piste de la Chouette d’or, l’oiseau qui rend fou : « Plus personne n’écoute personne, tout le monde est arc-bouté sur ses solutions »",
+      "summary": "« Les derniers mystères de La Chouette d’or » (1/6). Trente-trois ans après avoir été enfoui, le trésor de La Chouette d’or a été découvert dans la nuit du 2 au 3 octobre 2024. Pourtant, nombre de « chouetteurs » continuent sans relâche à chercher la statuette, « la vraie ». Car quelque chose cloche.",
+      "url": "https://www.lemonde.fr/series-d-ete/visuel/2026/07/12/sur-la-piste-de-la-chouette-d-or-l-oiseau-qui-rend-fou-plus-personne-n-ecoute-personne-tout-le-monde-est-arc-boute-sur-ses-solutions_6722863_3451060.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-12T04:00:33+00:00"
+    },
+    {
+      "id": "3be4026fe540fe3d7f6e4417",
+      "title": "Jeux vidéo : qu’achetez-vous vraiment en dématérialisé ?",
+      "summary": "Alors que seulement 11 % des jeux vidéo complets vendus en France le sont sur cartouche ou sur disque, la disparition annoncée de ces supports physiques soulève de nombreuses questions.",
+      "url": "https://www.lemonde.fr/videos/video/2026/07/12/jeux-video-qu-achetez-vous-vraiment-en-dematerialise_6722856_1669088.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-12T04:00:03+00:00"
+    },
     {
       "id": "0f6f78da263ed9b252913544",
       "title": "At least two killed in Toronto street festival shooting",
-      "summary": "Police have urged the public to stay away from the area.",
+      "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
       "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-12T01:47:58+00:00"
+      "publishedAt": "2026-07-12T03:56:02+00:00"
     },
     {
       "id": "cadf487975ff781b60b989e9",
@@ -33,17 +88,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-12T00:49:24+00:00"
-    },
-    {
-      "id": "f85c77083cff21d9aedc2a8d",
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-12T00:15:22+00:00"
     },
     {
       "id": "ea3f6ed08aaf2bccc5e4ee1c",
@@ -308,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-11T08:00:27+00:00"
-    },
-    {
-      "id": "4d809631899bb2b9d0bb41cf",
-      "title": "Will Trump Accounts deliver for American children?",
-      "summary": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-11T07:41:18+00:00"
     },
     {
       "id": "c3c30290472e16f1f63fffea",
@@ -827,28 +860,6 @@
       "publishedAt": "2026-07-08T13:19:53+00:00"
     },
     {
-      "id": "a85a2fdd38fecd2c9f6b0235",
-      "title": "L’économie mondiale résiste mieux que prévu à la crise au Moyen-Orient, selon le FMI, notamment grâce à la croissance de l’IA",
-      "summary": "L’économie mondiale devrait croître de 3 % cette année, après 3,5 % en 2025, estime le Fonds monétaire international. La croissance est notamment tirée par la production de puces destinées à l’intelligence artificielle à Taïwan, en Corée du Sud, en Thaïlande et en Malaisie.",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/08/l-economie-mondiale-resiste-mieux-que-prevu-a-la-crise-au-moyen-orient-selon-le-fmi-notamment-grace-a-la-croissance-de-l-ia_6721845_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-08T13:00:09+00:00"
-    },
-    {
-      "id": "9ec8a18081c030424c7edf65",
-      "title": "Jeux vidéo : un rapport parlementaire veut conditionner les aides à des engagements contre le sexisme et les violences sexuelles",
-      "summary": "Le secteur, première industrie culturelle mondiale, souffre d’une faible proportion de femmes dans ses effectifs, mais est aussi secoué depuis plusieurs années par de nombreux témoignages de violences dans le cadre professionnel.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/08/jeux-video-un-rapport-parlementaire-veut-conditionner-les-aides-a-des-engagements-contre-le-sexisme-et-es-violences-sexuelles_6721842_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-08T12:53:40+00:00"
-    },
-    {
       "id": "7b22b8df9c4b5e6435f17672",
       "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
       "summary": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
@@ -858,17 +869,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-08T12:28:03+00:00"
-    },
-    {
-      "id": "33247476cf30fdb62c3642f0",
-      "title": "Meta sommé par le gendarme français de la concurrence de rémunérer les médias, nouvelle étape de la bataille entre la presse et les géants de la tech",
-      "summary": "L’Autorité de la concurrence a ordonné, ​mercredi 8 juillet, au propriétaire de Facebook et d’Instagram de reprendre les négociations avec les groupes de ⁠médias hexagonaux sur la rémunération des contenus ⁠publiés.",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/08/meta-somme-par-le-gendarme-francais-de-la-concurrence-de-remunerer-les-medias-nouvelle-etape-de-la-bataille-entre-la-presse-et-les-geants-de-la-tech_6721827_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-08T11:29:51+00:00"
     },
     {
       "id": "c9f30ea59a8254d8881a87b4",
