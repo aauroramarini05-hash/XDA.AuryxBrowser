@@ -1,27 +1,93 @@
 {
-  "updatedAt": "2026-07-11T23:44:21.088956+00:00",
+  "updatedAt": "2026-07-12T01:52:53.398374+00:00",
   "items": [
     {
-      "id": "279d385cb0491a2cee193daa",
-      "title": "Iran says Strait of Hormuz closed 'until further notice'",
-      "summary": "The IRGC says it fired a warning shot at a vessel in the strait and is warning the US not to respond with \"aggression\".",
+      "id": "0f6f78da263ed9b252913544",
+      "title": "At least two killed in Toronto street festival shooting",
+      "summary": "Police have urged the public to stay away from the area.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-12T01:47:58+00:00"
+    },
+    {
+      "id": "cadf487975ff781b60b989e9",
+      "title": "China's second typhoon in a week makes landfall",
+      "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-12T01:22:22+00:00"
+    },
+    {
+      "id": "2a4f1f4872bb5b31bce00a2a",
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "summary": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-12T00:49:24+00:00"
+    },
+    {
+      "id": "f85c77083cff21d9aedc2a8d",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-11T23:14:18+00:00"
+      "publishedAt": "2026-07-12T00:15:22+00:00"
     },
     {
-      "id": "c8358e05cba46069613d2533",
-      "title": "Mort à 86 ans de l’actrice Claudette Walker, « la mamie de YouTube »",
-      "summary": "Le comédienne, vue au cinéma dans « Photo de famille » et à la télévision dans la série « Maison de retraite », avait fait de nombreuses apparitions sur la chaîne du youtubeur Cyprien ou celle du collectif Golden Moustache.",
+      "id": "ea3f6ed08aaf2bccc5e4ee1c",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T23:58:40+00:00"
+    },
+    {
+      "id": "a16861ed51f61100d7f60fda",
+      "title": "How men with female surnames are standing up to ridicule in Kenya",
+      "summary": "Children often inherit their father's first name as a surname, but traditions are changing and causing upset.",
+      "url": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T23:27:45+00:00"
+    },
+    {
+      "id": "e6acec8a0ffd790f193b3f46",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "summary": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts.",
+      "url": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T23:27:31+00:00"
+    },
+    {
+      "id": "a89c0fd6536e7df0cdf974e7",
+      "title": "Mort de l’actrice Claudette Walker, « la mamie de YouTube »",
+      "summary": "La comédienne âgée de 86 ans, vue au cinéma dans « Photo de famille » et à la télévision dans la série « Maison de retraite », avait fait de nombreuses apparitions sur la chaîne du youtubeur Cyprien ou sur celle du collectif Golden Moustache.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/07/12/mort-a-86-ans-de-l-actrice-claudette-walker-la-mamie-de-youtube_6722741_3382.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-11T22:41:03+00:00"
+      "publishedAt": "2026-07-11T22:40:59+00:00"
     },
     {
       "id": "242aaaee04c5f2a1e78c761f",
@@ -44,6 +110,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-11T21:56:52+00:00"
+    },
+    {
+      "id": "de6d9021aa7509d256207b59",
+      "title": "How a viral seal called Neil caused mayhem in Australia",
+      "summary": "The five-year-old elephant seal attracted global attention during his recent time ashore in southern Tasmania.",
+      "url": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-11T21:19:05+00:00"
     },
     {
       "id": "657c8f7065f0b7038061a39e",
@@ -88,17 +165,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-11T17:48:48+00:00"
-    },
-    {
-      "id": "cadf487975ff781b60b989e9",
-      "title": "China's second typhoon in a week makes landfall",
-      "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-11T17:41:56+00:00"
     },
     {
       "id": "6ecfd0f0d1f3893463510bbd",
@@ -299,17 +365,6 @@
       "publishedAt": "2026-07-11T01:00:00+00:00"
     },
     {
-      "id": "f0a8007defeca01c74c8cfc9",
-      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
-      "summary": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
-      "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-11T00:46:15+00:00"
-    },
-    {
       "id": "305ea73939397bbccfae9f2f",
       "title": "L’industrie musicale propose de créer un label pour les morceaux générés par IA, en plein essor sur les plateformes",
       "summary": "Alors que l’intelligence artificielle permet désormais de créer des morceaux entiers, parfois difficiles à distinguer de productions humaines, des organisations professionnelles plaident pour davantage de transparence sur l’origine de ces titres.",
@@ -376,17 +431,6 @@
       "publishedAt": "2026-07-10T23:02:59+00:00"
     },
     {
-      "id": "187e13d395b4c861189b5503",
-      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
-      "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
-      "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T23:02:35+00:00"
-    },
-    {
       "id": "ed4c10f5b2e1fe28e855f747",
       "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
       "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
@@ -407,17 +451,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-10T22:51:09+00:00"
-    },
-    {
-      "id": "fafb03547e16635d1b2b2e72",
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "summary": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T22:38:03+00:00"
     },
     {
       "id": "5f68d636bdd5b134bce08d32",
@@ -563,17 +596,6 @@
       "publishedAt": "2026-07-10T20:01:46+00:00"
     },
     {
-      "id": "86b4afbecbb2a2e359a7e9e8",
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
-      "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T19:30:06+00:00"
-    },
-    {
       "id": "38382d1fda4a8fc85fc2057f",
       "title": "The ASUS ROG STRIX 27\" QD-OLED Gaming Monitor With 240Hz Refresh Rate Drops to $350",
       "summary": "The lowest price I've seen for a 27\" 240Hz OLED monitor.",
@@ -616,17 +638,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-10T18:17:15+00:00"
-    },
-    {
-      "id": "206d8dd5472e012240f8179f",
-      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
-      "summary": "A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now claimed he did not pull the trigger.",
-      "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-10T18:04:39+00:00"
     },
     {
       "id": "036a7aa2e1ef33ffecd3b5c8",
