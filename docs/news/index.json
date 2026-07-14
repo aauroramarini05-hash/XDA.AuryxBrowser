@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-14T09:47:47.557704+00:00",
+  "updatedAt": "2026-07-14T11:18:27.121876+00:00",
   "items": [
+    {
+      "id": "44b92a5015401bb5f16bce33",
+      "title": "Colombian national killed by ICE agent during operation in Maine",
+      "summary": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
+      "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-14T11:09:02+00:00"
+    },
+    {
+      "id": "b8d319bce5a478e21a171e30",
+      "title": "'They're Bringing the Heat': Marvel Fans Hyped for X-Men Reboot Casting as Adam Driver Rumors Swirl",
+      "summary": "Marvel fans are celebrating the latest X-Men casting rumors, which suggest that Star Wars sequel trilogy standout Adam Driver will play a new incarnation of Magneto.",
+      "url": "https://www.ign.com/articles/theyre-bringing-the-heat-marvel-fans-hyped-for-x-men-reboot-casting-as-adam-driver-rumors-swirl",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-14T10:52:43+00:00"
+    },
+    {
+      "id": "f88a800d620d99f9692ec65c",
+      "title": "It Sounds Like Mike Flanagan Is Having a Tough Time Getting the Green Light on His Long-Awaited Dark Tower TV Series",
+      "summary": "Mike Flanagan has issued an update on his long-awaited The Dark Tower TV series, although it sounds like it’s still far from becoming a reality.",
+      "url": "https://www.ign.com/articles/it-sounds-like-mike-flanagan-is-having-a-tough-time-getting-the-green-light-on-his-long-awaited-dark-tower-tv-series",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-14T10:19:40+00:00"
+    },
+    {
+      "id": "5495c9be5693d97fe3091b79",
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "summary": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-14T10:02:43+00:00"
+    },
+    {
+      "id": "b16eea4f94c736e1defecc88",
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "summary": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-14T09:40:23+00:00"
+    },
+    {
+      "id": "b6891d0490458b68ff1b1a40",
+      "title": "The Hunt for Gollum Star Anya Taylor-Joy Says She's About to Read the Lord of the Rings Books, but She Won't Find Her 'Lethal Elf' Character in Any of J. R. R. Tolkien's Text",
+      "summary": "Anya Taylor-Joy says she’s about to read the Lord of the Rings books as she embarks upon her own journey through Middle-earth, having been cast in The Hunt for Gollum.",
+      "url": "https://www.ign.com/articles/the-hunt-for-gollum-star-anya-taylor-joy-says-shes-about-to-read-the-lord-of-the-rings-books-but-she-wont-find-her-lethal-elf-character-in-any-of-j-r-r-tolkiens-text",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-14T09:35:41+00:00"
+    },
+    {
+      "id": "92a1fe623c731fe766e0167a",
+      "title": "Assassin's Creed Black Flag Developers in Barcelona Are Being Laid Off as Ubisoft Celebrates Game's Success",
+      "summary": "Ubisoft Barcelona developers who contributed to Assassin's Creed Black Flag Resynced have spoken out about the company's plans to lay them off — just as their final project becomes a commercial success, selling 2 million copies in around 24 hours.",
+      "url": "https://www.ign.com/articles/assassins-creed-black-flag-developers-in-barcelona-are-being-laid-off-as-ubisoft-celebrates-games-success",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-14T09:29:16+00:00"
+    },
     {
       "id": "0eadfc7c7d15d63428cc7e7b",
       "title": "'This Was Never Going to Be a Straight Adaptation' — Mike Flanagan's Carrie TV Show Makes Big Changes From Stephen King's Horror Novel",
@@ -11,6 +88,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-14T08:37:52+00:00"
+    },
+    {
+      "id": "6eb3a6604039fc564537fc3e",
+      "title": "EU bans gold imports from Sudan to curb money financing the war",
+      "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-14T08:32:49+00:00"
     },
     {
       "id": "25ce44a8cace2b01913fa219",
@@ -81,7 +169,7 @@
     {
       "id": "f7ed710c01bdf8bea9887405",
       "title": "US burrito giant Chipotle opening first outlet in Mexico",
-      "summary": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
+      "summary": "Other US fast-food brands have struggled to succeed in the countries their dishes originated in.",
       "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -99,17 +187,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-14T02:26:45+00:00"
-    },
-    {
-      "id": "44b92a5015401bb5f16bce33",
-      "title": "Colombian national killed by ICE agent during operation in Maine",
-      "summary": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
-      "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T01:50:48+00:00"
     },
     {
       "id": "fda9227c14623d24db451777",
@@ -143,17 +220,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-13T23:15:00+00:00"
-    },
-    {
-      "id": "608cd9f7a087bc0ff32f5e1e",
-      "title": "Is tracking your food purchases good for your health?",
-      "summary": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-13T23:04:58+00:00"
     },
     {
       "id": "80ef85fde0f6d8cd28838187",
@@ -354,39 +420,6 @@
       "publishedAt": "2026-07-13T19:23:40+00:00"
     },
     {
-      "id": "b553e914b9b882e960986091",
-      "title": "Save 45% Off the Logitech G29 Racing Wheel and Pedal Set and Driving Force Shifter Bundle for PS5, PC",
-      "summary": "Elevate your Forza Horizon 6 or Gran Turismo 7 gaming experience.",
-      "url": "https://www.ign.com/articles/logitech-g29-racing-wheel-deal-with-driving-force-shifter-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-13T19:10:00+00:00"
-    },
-    {
-      "id": "9e014c883a47eb389ca6ca35",
-      "title": "Final Fantasy Resonance Isn't Getting a Physical Edition on Xbox",
-      "summary": "Final Fantasy Resonance will be released in two separate editions. Here's everything we know about what's included in each one, including what bonuses you get for securing your copy early.",
-      "url": "https://www.ign.com/articles/final-fantasy-resonance-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-13T19:08:21+00:00"
-    },
-    {
-      "id": "51bbbb7e3aa0b20c958f96b8",
-      "title": "University Gives Students Up to $15K in Scholarships for Rare Gaming Achievements",
-      "summary": "The University of Silicon Valley is turning heads for its unique scholarship program, which awards thousands of dollars to students who can prove their leet gaming skills.",
-      "url": "https://www.ign.com/articles/university-gives-students-up-to-15k-in-scholarships-for-rare-gaming-achievements",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-13T19:01:50+00:00"
-    },
-    {
       "id": "cbc156a0c91ac8a9aea66cce",
       "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
       "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
@@ -396,17 +429,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-13T18:52:46+00:00"
-    },
-    {
-      "id": "fc2e91bb1901dfcdc33edd7e",
-      "title": "Today’s Top Deals: 27\" Samsung OLED Gaming Monitor, MTG x Marvel, and Logitech G29 Racing Wheel",
-      "summary": "And don’t miss incredible deals on a Razer gaming chair, Switch 2 Camera, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-july-13-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-13T18:45:00+00:00"
     },
     {
       "id": "3fee001678224efd7dbf403b",
@@ -585,17 +607,6 @@
       "publishedAt": "2026-07-13T09:43:13+00:00"
     },
     {
-      "id": "b0ac3105bc3fd423c0b0d506",
-      "title": "Heavy rains and flash floods in Bangladesh leave 51 dead",
-      "summary": "Thousands have lost their homes as flash floods and landslides have hit large parts of the country.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-13T06:19:49+00:00"
-    },
-    {
       "id": "0cd8dff77aed7129c80a8a0d",
       "title": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
       "summary": "The BBC’s South East Asia correspondent visits the site where at least 27 people were killed during a bar fire in Thailand.",
@@ -649,28 +660,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-12T23:29:06+00:00"
-    },
-    {
-      "id": "24ad501665ef88b6d9103124",
-      "title": "Infantino opens door to 64-team World Cup",
-      "summary": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-12T19:18:56+00:00"
-    },
-    {
-      "id": "439be0ff3a3265fc5180fd55",
-      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
-      "summary": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-12T18:57:17+00:00"
     },
     {
       "id": "a6ec57fe92bf9bd37b13da26",
@@ -968,6 +957,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-04T01:00:00+00:00"
+    },
+    {
+      "id": "9844c9d5fb9318afed24dfec",
+      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+      "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-03T15:57:42+00:00"
     },
     {
       "id": "a39c1701451039ad4696ed3e",
