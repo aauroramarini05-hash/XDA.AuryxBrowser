@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-07-14T22:48:24.417631+00:00",
+  "updatedAt": "2026-07-14T23:42:41.127649+00:00",
   "items": [
+    {
+      "id": "32c9313a07640f038a46b9f1",
+      "title": "Midnight social media curfew proposed for older UK teens",
+      "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-14T23:17:23+00:00"
+    },
+    {
+      "id": "530d9e8a7338dfda49cbf39c",
+      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+      "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-14T23:13:38+00:00"
+    },
+    {
+      "id": "a3509c2ffa087e31701b920d",
+      "title": "Hachette et d’autres éditeurs poursuivent Google, l’accusant de violer les droits d’auteur avec son IA Gemini",
+      "summary": "Cette nouvelle plainte s’ajoute à une série de procédures visant des entreprises de l’intelligence artificielle, accusées, par des auteurs et des maisons d’édition, d’avoir utilisé sans autorisation des œuvres protégées, pour alimenter leurs modèles.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/hachette-et-d-autres-editeurs-poursuivent-google-l-accusant-de-violer-les-droits-d-auteur-avec-son-ia-gemini_6723382_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-14T23:06:05+00:00"
+    },
+    {
+      "id": "d5486de75151869e8a19f846",
+      "title": "Réseaux sociaux : le gouvernement britannique annonce la mise en place d’un couvre-feu pour les adolescents",
+      "summary": "Cette nouvelle mesure vient compléter l’interdiction des réseaux aux moins de 16 ans annoncée en juin.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/reseaux-sociaux-le-gouvernement-britannique-annonce-la-mise-en-place-d-un-couvre-feu-pour-les-adolescents_6723381_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-14T23:04:10+00:00"
+    },
+    {
+      "id": "dc199c80ff7fcb8164afe48d",
+      "title": "Dead Space Creator Glen Schofield Announces Retirement From Gaming Industry",
+      "summary": "Dead Space creator Glen Schofield has announced his retirement from the gaming industry.",
+      "url": "https://www.ign.com/articles/dead-space-creator-glen-schofield-announces-retirement-from-gaming-industry",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-14T22:31:11+00:00"
+    },
     {
       "id": "e83be648d15f5e7d21bd4800",
       "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
@@ -13,6 +68,17 @@
       "publishedAt": "2026-07-14T22:17:43+00:00"
     },
     {
+      "id": "7f2a7cc66a4f1c13aaaa09c1",
+      "title": "Halo Studios Reportedly Cancels New Multiplayer Project",
+      "summary": "A brand new Halo multiplayer game has been scrapped, according to sources.",
+      "url": "https://www.ign.com/articles/halo-studios-reportedly-cancels-new-multiplayer-project",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-14T22:08:17+00:00"
+    },
+    {
       "id": "4c85e16b588f30ccf4e905a8",
       "title": "Far Cry TV Series Casts Steve Buscemi in Mystery Role",
       "summary": "Steve Buscemi is joining the cast of FX's Far Cry TV series.",
@@ -22,17 +88,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-14T21:44:21+00:00"
-    },
-    {
-      "id": "32c9313a07640f038a46b9f1",
-      "title": "Midnight social media curfew proposed for older UK teens",
-      "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-14T21:43:56+00:00"
     },
     {
       "id": "15a40fc6dfbdbc079766fcee",
@@ -297,28 +352,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-14T17:55:00+00:00"
-    },
-    {
-      "id": "950af9a2dead8f9fa8cc5ace",
-      "title": "Today’s Best Deals: Switch 2: Choose Your Game Bundle, Astro Bot, LEGO Harry Potter Book Nook, and More",
-      "summary": "It’s also your last chance to score an incredible Audible subscription discount.",
-      "url": "https://www.ign.com/articles/best-deals-for-july-14-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-14T17:30:00+00:00"
-    },
-    {
-      "id": "3ffe77003a5b625a562a05fd",
-      "title": "The Odyssey Movie Rival Launches This Year, Made Entirely by AI — But Based on Its First Trailer, Christopher Nolan Has Nothing to Worry About",
-      "summary": "Christopher Nolan's The Odyssey will be rivalled by another movie of the ancient Greek epic this year — made entirely by AI.",
-      "url": "https://www.ign.com/articles/the-odyssey-movie-rival-launches-this-year-made-entirely-by-ai-but-based-on-its-first-trailer-christopher-nolan-has-nothing-to-worry-about",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-14T17:17:00+00:00"
     },
     {
       "id": "8faaeb4f406198029eb0a78e",
@@ -739,17 +772,6 @@
       "publishedAt": "2026-07-13T00:07:00+00:00"
     },
     {
-      "id": "d57a258460f833d0d09551d1",
-      "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
-      "summary": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
-      "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-13T00:05:46+00:00"
-    },
-    {
       "id": "be3b4fa2a5de4fe3a76fe483",
       "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
       "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
@@ -913,28 +935,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-10T22:54:16+00:00"
-    },
-    {
-      "id": "68a68e78cc1d7e048e2f5f15",
-      "title": "VIDEO « C’est l’arme de manipulation de masse la plus puissante » : comment le clipping bouleverse nos réseaux sociaux",
-      "summary": "Cette pratique consistant à découper des extraits de vidéo pour les diffuser sur les réseaux sociaux s’industrialise et permet aujourd’hui de créer de la viralité artificielle. Trois acteurs du secteur nous dévoilent les coulisses de cette pratique en pleine expansion.",
-      "url": "https://www.lemonde.fr/pixels/video/2026/07/10/comment-le-clipping-bouleverse-nos-reseaux-sociaux-et-pourrait-s-inviter-dans-la-campagne-presidentielle_6722511_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-10T18:30:04+00:00"
-    },
-    {
-      "id": "036a7aa2e1ef33ffecd3b5c8",
-      "title": "« Une vidéo de trente minutes, tu peux en produire 500 clips » : le nouveau business du « clipping », la fabrique artificielle de la viralité sur Internet",
-      "summary": "Née dans les franges du Web, la pratique consistant à découper des contenus en petites vidéos pour inonder les réseaux sociaux est devenue une industrie très lucrative. Labels de musique, studios de cinéma et personnalités politiques s’intéressent de près à ce moyen discret et peu coûteux d’exister en ligne.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/10/une-video-de-trente-minutes-tu-peux-en-produire-500-clips-le-nouveau-business-du-clipping-la-fabrique-artificielle-de-la-viralite-sur-internet_6722504_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-10T18:00:06+00:00"
     },
     {
       "id": "8d98057d21dbb30595bf9fe7",
