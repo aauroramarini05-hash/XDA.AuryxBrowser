@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-15T04:42:05.118566+00:00",
+  "updatedAt": "2026-07-15T07:07:03.542533+00:00",
   "items": [
+    {
+      "id": "ab3178194d9fb1676411a7ae",
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T06:47:25+00:00"
+    },
+    {
+      "id": "b20c51c32882d84888a3f17d",
+      "title": "China economic growth falls sharply, missing target",
+      "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T05:12:55+00:00"
+    },
     {
       "id": "f4f2328283006e319cc0b716",
       "title": "« Je veux que toute la bande fasse ses quinze ans de taule » : la bataille pour récupérer La Chouette d’or après la mort de son créateur",
@@ -13,17 +35,6 @@
       "publishedAt": "2026-07-15T04:15:42+00:00"
     },
     {
-      "id": "ab3178194d9fb1676411a7ae",
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T03:57:17+00:00"
-    },
-    {
       "id": "56cda5d1afe44fa03c2f510b",
       "title": "The Grand Tour Returns in September With Its New Trio of Hosts",
       "summary": "Prime Video has announced the next season of The Grand Tour will air on September 4.",
@@ -33,6 +44,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-15T03:00:55+00:00"
+    },
+    {
+      "id": "353d6a7cafdacc38bd06e9b4",
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "summary": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T02:14:37+00:00"
     },
     {
       "id": "977ab26accfb563ffb085ff1",
@@ -121,17 +143,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-14T23:17:27+00:00"
-    },
-    {
-      "id": "32c9313a07640f038a46b9f1",
-      "title": "Midnight social media curfew proposed for older UK teens",
-      "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-14T23:17:23+00:00"
     },
     {
       "id": "d165a14386f3af6904325414",
@@ -332,10 +343,10 @@
       "publishedAt": "2026-07-14T20:25:45+00:00"
     },
     {
-      "id": "e38ea93908f76437d10ffd0b",
+      "id": "fa4243fe050db6bcf6ed320d",
       "title": "Tech Life",
       "summary": "Surgeons remotely control two human-like robots in an operating theatre.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -1023,6 +1034,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-04T01:00:00+00:00"
+    },
+    {
+      "id": "9844c9d5fb9318afed24dfec",
+      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+      "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-03T15:57:42+00:00"
     },
     {
       "id": "a39c1701451039ad4696ed3e",
