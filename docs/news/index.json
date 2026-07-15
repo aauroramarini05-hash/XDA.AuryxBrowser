@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-15T07:07:03.542533+00:00",
+  "updatedAt": "2026-07-15T09:51:46.490085+00:00",
   "items": [
     {
-      "id": "ab3178194d9fb1676411a7ae",
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "id": "ede8a9c4141890420810e97d",
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+      "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC World",
+      "source": "BBC Technology",
       "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T06:47:25+00:00"
+      "category": "technology",
+      "publishedAt": "2026-07-15T09:42:07+00:00"
     },
     {
       "id": "b20c51c32882d84888a3f17d",
@@ -21,7 +21,84 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-15T05:12:55+00:00"
+      "publishedAt": "2026-07-15T09:40:42+00:00"
+    },
+    {
+      "id": "4ddfaf0468a12da0239ef901",
+      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
+      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T09:15:54+00:00"
+    },
+    {
+      "id": "ab3178194d9fb1676411a7ae",
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T09:06:52+00:00"
+    },
+    {
+      "id": "da9de2b3316a1212475baeb6",
+      "title": "Les risques des « résumés par IA » de Google pour les adolescents énumérés par une étude",
+      "summary": "L’ONG Common Sense Media estime que ces synthèses accessibles directement depuis le moteur de recherche, qui doivent être déployées durant l’été en France, ne protègent pas suffisamment les jeunes utilisateurs.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/une-etude-revele-les-risques-des-resumes-par-ia-de-google-pour-les-adolescents_6723529_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-15T09:00:04+00:00"
+    },
+    {
+      "id": "0e9b55990ce73373f6bc3b68",
+      "title": "George Lucas Has Upset Some Fans for Saying Rejecting AI Is Like Rejecting Cars in Favor of the Horse and Buggy, but Others Aren't Surprised by His Take at All",
+      "summary": "As Hollywood and audiences wrestle with the impact of AI, one legend of cinema has said rejecting using the technology to make movies is like rejecting cars in favor of horses.",
+      "url": "https://www.ign.com/articles/george-lucas-has-upset-some-fans-for-saying-rejecting-ai-is-like-rejecting-cars-in-favor-of-the-horse-and-buggy-but-others-arent-surprised-by-his-take-at-all",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-15T08:50:52+00:00"
+    },
+    {
+      "id": "810683021bc3ebfd862131a7",
+      "title": "New Free Cars, Leaderboard Wipes Coming to Forza Horizon 6",
+      "summary": "New-to-Horizon Italian exotics join the garage as Playground begins resetting exploited leaderboards.",
+      "url": "https://www.ign.com/articles/new-free-cars-leaderboard-wipes-coming-to-forza-horizon-6",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-15T08:02:47+00:00"
+    },
+    {
+      "id": "31d97abb693f97ca243880b8",
+      "title": "The Mound: Omen of Cthulhu Review",
+      "summary": "An entertaining co-op horror excursion that can sometimes feel a bit too oppressive.",
+      "url": "https://www.ign.com/articles/the-mound-omen-of-cthulhu-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-15T08:00:00+00:00"
+    },
+    {
+      "id": "13f23ca5a7d11774189c8b70",
+      "title": "X-Men '97 Season 2, Episode 5 Review & Recap: \"Weapon X, Lies, and DVDs\"",
+      "summary": "X-Men '97's latest episode works as a fun action movie romp, but it fails to make the most of Wolverine's troubled status quo in Season 2. Read our full review of \"Weapon X, Lies, and DVDs.\"",
+      "url": "https://www.ign.com/articles/x-men-97-season-2-episode-5-review-recap-weapon-x-lies-and-dvds",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-15T07:00:00+00:00"
     },
     {
       "id": "f4f2328283006e319cc0b716",
@@ -321,28 +398,6 @@
       "publishedAt": "2026-07-14T20:29:08+00:00"
     },
     {
-      "id": "76a04b273d7405ecd9e76676",
-      "title": "Intel Core Ultra 7 270K Plus & Core Ultra 5 250K Plus Review",
-      "summary": "",
-      "url": "https://www.ign.com/articles/intel-core-ultra-7-270k-plus-core-ultra-5-250k-plus-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-14T20:27:54+00:00"
-    },
-    {
-      "id": "97fd9569ae283f9f30fcbd57",
-      "title": "Steam’s Record-Breaking $11 Billion Profit in First Half of 2026 Was Funded Mostly by Older Games",
-      "summary": "Steam just had its most profitable period in its entire 22-year history, raking in $11 billion in the last six months — and it's mostly thanks to older games.",
-      "url": "https://www.ign.com/articles/steams-record-breaking-11-billion-profit-in-first-half-of-2026-was-funded-mostly-by-older-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-14T20:25:45+00:00"
-    },
-    {
       "id": "fa4243fe050db6bcf6ed320d",
       "title": "Tech Life",
       "summary": "Surgeons remotely control two human-like robots in an operating theatre.",
@@ -363,28 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-14T19:40:23+00:00"
-    },
-    {
-      "id": "f4e02a07c4e2f126e8e86b92",
-      "title": "Magic: The Gathering's Star Trek Expansion Is Available to Preorder Now",
-      "summary": "",
-      "url": "https://www.ign.com/articles/magic-the-gatherings-star-trek-expansion-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-14T19:25:59+00:00"
-    },
-    {
-      "id": "e36462bbd7048faaaffe030d",
-      "title": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
-      "summary": "Building up the Switch 2 library.",
-      "url": "https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-14T19:22:00+00:00"
     },
     {
       "id": "5c9a4f455f77a283708d7604",
@@ -486,17 +519,6 @@
       "publishedAt": "2026-07-14T10:02:43+00:00"
     },
     {
-      "id": "6eb3a6604039fc564537fc3e",
-      "title": "EU bans gold imports from Sudan to curb money financing the war",
-      "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T08:32:49+00:00"
-    },
-    {
       "id": "25ce44a8cace2b01913fa219",
       "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
       "summary": "India won the first women's Test at Lord's, 142 years after its first men's Test.",
@@ -563,17 +585,6 @@
       "publishedAt": "2026-07-14T03:00:20+00:00"
     },
     {
-      "id": "f7ed710c01bdf8bea9887405",
-      "title": "US burrito giant Chipotle opening first outlet in Mexico",
-      "summary": "Other US fast-food brands have struggled to succeed in the countries their dishes originated in.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T02:42:51+00:00"
-    },
-    {
       "id": "1f6033a47db8b032b08233c6",
       "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
       "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
@@ -594,17 +605,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-14T01:43:57+00:00"
-    },
-    {
-      "id": "235bfe279cf99797e2a80d9e",
-      "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
-      "summary": "The environmental activist has been on a hunger strike for 16 days and is getting visibly weaker.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-13T22:03:16+00:00"
     },
     {
       "id": "bcc8df01d6a830ed29b06a95",
@@ -638,17 +638,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-13T17:31:54+00:00"
-    },
-    {
-      "id": "5bb54a03f403895e2a178bd8",
-      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
-      "summary": "The man and his grandson appeared a safe distance away from the bison before it quickly chased them down.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-13T17:21:21+00:00"
     },
     {
       "id": "c66e7fa250300ee5f1db1f9d",
@@ -893,17 +882,6 @@
       "publishedAt": "2026-07-11T01:00:00+00:00"
     },
     {
-      "id": "305ea73939397bbccfae9f2f",
-      "title": "L’industrie musicale propose de créer un label pour les morceaux générés par IA, en plein essor sur les plateformes",
-      "summary": "Alors que l’intelligence artificielle permet désormais de créer des morceaux entiers, parfois difficiles à distinguer de productions humaines, des organisations professionnelles plaident pour davantage de transparence sur l’origine de ces titres.",
-      "url": "https://www.lemonde.fr/culture/article/2026/07/11/l-industrie-musicale-propose-de-creer-un-label-pour-les-morceaux-generes-par-ia-en-plein-essor-sur-les-plateformes_6722551_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-11T00:45:02+00:00"
-    },
-    {
       "id": "229356e679acb93ec227824b",
       "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
       "summary": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
@@ -1034,17 +1012,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-04T01:00:00+00:00"
-    },
-    {
-      "id": "9844c9d5fb9318afed24dfec",
-      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
-      "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-03T15:57:42+00:00"
     },
     {
       "id": "a39c1701451039ad4696ed3e",
