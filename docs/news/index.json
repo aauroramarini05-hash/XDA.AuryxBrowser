@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-07-15T22:50:38.860416+00:00",
+  "updatedAt": "2026-07-15T23:51:21.397112+00:00",
   "items": [
+    {
+      "id": "6fe9df482bce05a6e381ecaa",
+      "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+      "summary": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T23:35:39+00:00"
+    },
+    {
+      "id": "f98290af325836761a77d894",
+      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T23:02:49+00:00"
+    },
+    {
+      "id": "9266c1d7ff9b5f07eb8134d0",
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T23:02:37+00:00"
+    },
     {
       "id": "7e54abbbb752ad3235b5b060",
       "title": "Argentina face fine for Falklands banner in semi-final win",
-      "summary": "Argentina face the prospect of a Fifa fine after their players celebrated the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+      "summary": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T22:49:47+00:00"
+    },
+    {
+      "id": "35b6f97ce54dfa0c6023adf6",
+      "title": "Zach Cregger's Resident Evil Runtime Revealed, and It Matches Early Audience Reactions",
+      "summary": "The official runtime of Zach Cregger’s Resident Evil adaptation has finally been revealed by AMC Theaters, and it’s almost as long as the very first 2002 film.",
+      "url": "https://www.ign.com/articles/zach-creggers-resident-evil-runtime-revealed-and-it-matches-early-audience-reactions",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-15T22:46:40+00:00"
     },
     {
       "id": "720b20f4e834d120b2441449",
@@ -22,6 +66,50 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T22:46:02+00:00"
+    },
+    {
+      "id": "f96a2c39e9655424b881423e",
+      "title": "The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped",
+      "summary": "Produce consistent quality 3D prints without spending hundreds of dollars.",
+      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-15T22:30:00+00:00"
+    },
+    {
+      "id": "aeff7c6077e4c4423853acc8",
+      "title": "The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC With 24GB of DDR5 RAM and USB 4 Ports Drops Below $300",
+      "summary": "A Mac Mini-sized PC with a ton of versatility (including light gaming).",
+      "url": "https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-15T22:25:00+00:00"
+    },
+    {
+      "id": "2b7a88943275d1344001d60a",
+      "title": "'I must get out into the free world', dissident who fled China on boat tells BBC",
+      "summary": "Dong Guangping, who has resettled in Canada, recounts his perilous escape from China to South Korea.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T22:04:12+00:00"
+    },
+    {
+      "id": "e7142cb23ede9cea1230a51c",
+      "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+      "summary": "The same horrific scenes have played out before, spurring calls for action. So why has this happened again?",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T22:03:47+00:00"
     },
     {
       "id": "a1a79f5874975a9bac6a09be",
@@ -178,10 +266,10 @@
       "publishedAt": "2026-07-15T18:35:00+00:00"
     },
     {
-      "id": "577bf405081e3fdf8074d661",
-      "title": "Fallout: New Vegas Lead Designer Chris Avellone Admits He Feels 'Embarrassed' by TV Show's Dialogue",
-      "summary": "Chris Avellone, lead designer for Fallout: New Vegas, admitted he feels \"embarrassed\" by some of the dialogue in the Amazon Prime Video adaptation.",
-      "url": "https://www.ign.com/articles/fallout-new-vegas-lead-designer-chris-avellone-admits-he-feels-embarrassed-by-tv-shows-dialogue",
+      "id": "5cfc7417201b5e957641eda7",
+      "title": "Fallout: New Vegas Senior Designer Chris Avellone Admits He Feels 'Embarrassed' by TV Show's Dialogue",
+      "summary": "Chris Avellone, senior designer for Fallout: New Vegas, admitted he feels \"embarrassed\" by some of the dialogue in the Amazon Prime Video adaptation.",
+      "url": "https://www.ign.com/articles/fallout-new-vegas-senior-designer-chris-avellone-admits-he-feels-embarrassed-by-tv-shows-dialogue",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
@@ -319,39 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T16:51:07+00:00"
-    },
-    {
-      "id": "187f0d33ced1cedcc25af01b",
-      "title": "Amazon's Audible Prime Day Deal Ends Today: Pay Just $1 Per Month and Get $20 in Audible Credit",
-      "summary": "Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.",
-      "url": "https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T16:50:00+00:00"
-    },
-    {
-      "id": "09765e8cae5ee88b7d1f445d",
-      "title": "GTA 6's Lack of a PC Port Isn't Out of Greed, According to a Former Rockstar Producer",
-      "summary": "A former Rockstar Games producer has explained why the developer's PC versions usually come long after the console version.",
-      "url": "https://www.ign.com/articles/gta-6s-lack-of-a-pc-port-isnt-out-of-greed-according-to-a-former-rockstar-producer",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T16:40:08+00:00"
-    },
-    {
-      "id": "92d0ac64415657d4ca8d715e",
-      "title": "Pick Up a Powerful and Infinitely Reusable Cordless Electric Air Duster for $19 After Coupon",
-      "summary": "Your dusty PC thanks you for your purchase.",
-      "url": "https://www.ign.com/articles/jufinx-cordless-electric-air-duster-deal-july-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T16:40:00+00:00"
     },
     {
       "id": "47299249fded9f10d2fd69a0",
@@ -651,17 +706,6 @@
       "publishedAt": "2026-07-14T17:13:27+00:00"
     },
     {
-      "id": "70749a5d7a2638c2f299d9a2",
-      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "summary": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T17:07:42+00:00"
-    },
-    {
       "id": "3899373be09a1fd439a240fc",
       "title": "L’UE renonce à imposer des batteries remplaçables dans les montres et bracelets connectés",
       "summary": "Après avoir consulté les fabricants, la Commission européenne a ajouté certains objets dans la liste des exemptions au nouveau règlement sur les batteries à cause de leur miniaturisation ou de leurs caractéristiques techniques.",
@@ -671,28 +715,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-14T13:42:59+00:00"
-    },
-    {
-      "id": "152b682ea298321f012441b6",
-      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
-      "summary": "Production will stop for two years at the mine which employs more than 4,000 people.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T13:22:09+00:00"
-    },
-    {
-      "id": "25ce44a8cace2b01913fa219",
-      "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
-      "summary": "India won the first women's Test at Lord's, 142 years after its first men's Test.",
-      "url": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T08:12:32+00:00"
     },
     {
       "id": "84d7360530084feeea4e1ccc",
@@ -759,28 +781,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-13T14:26:57+00:00"
-    },
-    {
-      "id": "a94567172629c4f7c1dfca85",
-      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-      "summary": "The actor built up a long string of screen credits over a five-decade career.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-13T12:10:38+00:00"
-    },
-    {
-      "id": "1adeef9c3229f46553756394",
-      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "summary": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-13T11:45:25+00:00"
     },
     {
       "id": "5e049c0a58c475727183768f",
