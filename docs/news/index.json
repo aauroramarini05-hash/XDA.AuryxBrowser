@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T13:22:34.609583+00:00",
+  "updatedAt": "2026-07-16T15:26:40.452323+00:00",
   "items": [
     {
       "id": "deb9b3c654d46c875ef9cd09",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-16T13:03:24+00:00"
+      "publishedAt": "2026-07-16T14:57:13+00:00"
+    },
+    {
+      "id": "92a57e2cfbbdc32e2bb3fbe4",
+      "title": "Children among dead at Algeria foster care home blaze - president",
+      "summary": "Eleven people have died and 19 other have suffered injuries in the overnight fire, the authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T14:27:15+00:00"
     },
     {
       "id": "18c3ae84cd21d2c8b7dedaf9",
@@ -21,11 +32,55 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-16T12:56:24+00:00"
+      "publishedAt": "2026-07-16T14:22:11+00:00"
     },
     {
-      "id": "e126f156fbf709666287623e",
-      "title": "'A true miracle of destiny' - Messi and Yamal's incredible first meeting",
+      "id": "fae20073aaad94841f26be14",
+      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T13:56:54+00:00"
+    },
+    {
+      "id": "35f7ef7d3efbba4b7f9f8f22",
+      "title": "Cyberattaque contre les transports à Londres : deux hackeurs condamnés à de la prison ferme",
+      "summary": "Thalha Jubair, 20 ans, et Owen Flowers, 18 ans, avaient plaidé coupable le mois dernier pour l’une des plus vastes fuites de données du Royaume-Uni, reconnaissant avoir piraté en 2024 le réseau de Transport for London.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/cyberattaque-contre-les-transports-londoniens-prison-ferme-pour-deux-surdoues-du-piratage_6723811_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T13:41:39+00:00"
+    },
+    {
+      "id": "03f094671178d95c2e7ec9b5",
+      "title": "L’UE exige que Google partage ses données de recherche et ouvre Android aux IA rivales",
+      "summary": "Les utilisateurs d’Android pourront bientôt choisir librement leur assistant d’IA, tandis que Google devra partager certaines données avec ses concurrents, bouleversant l’équilibre du marché numérique européen.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/bruxelles-exige-que-google-partage-ses-donnees-de-recherche-et-ouvre-android-aux-ia-rivales_6723808_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T13:34:04+00:00"
+    },
+    {
+      "id": "0b4286d881053f8e06e7903d",
+      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T13:08:28+00:00"
+    },
+    {
+      "id": "08490692741d173d64d384d8",
+      "title": "'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting",
       "summary": "BBC Sport explores a bond between two world-class footballers from different generations who appear bound by destiny",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -77,17 +132,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T12:09:26+00:00"
-    },
-    {
-      "id": "fae20073aaad94841f26be14",
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T12:09:13+00:00"
     },
     {
       "id": "3dc71f0faac236550c4fdd0a",
@@ -187,17 +231,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-16T10:52:26+00:00"
-    },
-    {
-      "id": "4d783ebb6089092d04fa3406",
-      "title": "Eleven people die in fire at Algerian children's care home",
-      "summary": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T10:34:21+00:00"
     },
     {
       "id": "b95ba29b49dcf2eba2ce420a",
@@ -825,28 +858,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-14T03:00:20+00:00"
-    },
-    {
-      "id": "fb46e34622094b301a5b9f40",
-      "title": "Pourquoi vous avez probablement reçu de nombreux courriels parlant de « pixels de suivi »",
-      "summary": "Ces petits mouchards, très utilisés dans les e-mails, vont être davantage encadrés. Le délai de trois mois donné par la CNIL pour se conformer à ses recommandations expire mardi 14 juillet.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/13/pourquoi-vous-avez-probablement-recu-de-nombreux-courriels-parlant-de-pixels-de-suivi_6723100_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-13T14:54:17+00:00"
-    },
-    {
-      "id": "299cf1f58f7c3211627725a1",
-      "title": "Mégalevée de fonds pour Helsing, start-up européenne d’IA de défense, valorisée 18 milliards de dollars désormais",
-      "summary": "L’entreprise a annoncé, lundi, avoir récolté 1,8 milliard de dollars lors de son sixième tour de table.",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/13/megalevee-de-fonds-pour-helsing-start-up-europeenne-d-ia-de-defense-valorisee-18-milliards-de-dollars-desormais_6723095_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-13T14:26:57+00:00"
     },
     {
       "id": "eb98d48758c65b76e4132192",
