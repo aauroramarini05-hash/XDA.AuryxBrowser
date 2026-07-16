@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-16T07:16:22.447553+00:00",
+  "updatedAt": "2026-07-16T09:58:14.363827+00:00",
   "items": [
+    {
+      "id": "f64cdf723e9f01feb41fb1f7",
+      "title": "Eleven people die in fire at Algerian foster care home",
+      "summary": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T09:20:43+00:00"
+    },
+    {
+      "id": "130cb25b69787b559f5da21c",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T09:10:38+00:00"
+    },
     {
       "id": "d6d934ef0facb2b9bc453ee8",
       "title": "Iran targets military bases as US launches wave of strikes",
@@ -10,18 +32,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-16T07:06:38+00:00"
+      "publishedAt": "2026-07-16T08:50:02+00:00"
     },
     {
-      "id": "a68fab26b21a56a1662b6926",
-      "title": "De nouvelles preuves démontrent que le Maroc a utilisé le logiciel espion Pegasus",
-      "summary": "Le royaume chérifien continue de nier avoir été utilisateur du puissant logiciel de l’entreprise NSO Group, malgré les révélations du « Monde » et de ses partenaires en 2021. De nouveaux éléments et témoignages le confirment à nouveau.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html",
+      "id": "5a92f3755354d2c53729dcb8",
+      "title": "Magic’s Marvel Super Heroes Commander Decks Are Discounted on Amazon",
+      "summary": "Save on the new Magic: The Gathering x Marvel Super Heroes Commander decks with Amazon’s bundle discount, and find out which preconstructed decks are worth your money.",
+      "url": "https://www.ign.com/articles/mtg-marvel-commander-deck-amazon-deal",
       "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T08:34:39+00:00"
+    },
+    {
+      "id": "e1dd29f7388ea9d6f7922acc",
+      "title": "Get 24% Off the Philips OneBlade 360 Shaver and Trimmer at Amazon UK",
+      "summary": "Save 24% on the versatile Philips OneBlade 360 hybrid razor at Amazon UK, bringing the skin-comfortable shaver and grooming kit down to just £37.99.",
+      "url": "https://www.ign.com/articles/philips-oneblade-360-amazon-uk-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T08:24:41+00:00"
+    },
+    {
+      "id": "f52ca1d0bdbed120c909e803",
+      "title": "TikTok faces Ofcom investigation over child age checks",
+      "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-07-16T04:30:11+00:00"
+      "publishedAt": "2026-07-16T08:19:21+00:00"
+    },
+    {
+      "id": "710e8304c4ccb855666f2c59",
+      "title": "The Hawk Review",
+      "summary": "The Hawk review: Will Ferrell has given us so many funny characters; this Netflix series does not feature one of them.",
+      "url": "https://www.ign.com/articles/the-hawk-review-netflix-will-ferrell",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T07:00:00+00:00"
     },
     {
       "id": "8d8b1c6d9a92c7a98e29b997",
@@ -46,6 +101,17 @@
       "publishedAt": "2026-07-16T04:30:02+00:00"
     },
     {
+      "id": "57cbb6a71124af22040a2901",
+      "title": "De nouvelles preuves démontrent que le Maroc a bien utilisé le logiciel espion Pegasus",
+      "summary": "Le royaume chérifien continue de nier avoir été utilisateur du puissant logiciel de l’entreprise NSO Group, malgré les révélations du « Monde » et de ses partenaires en 2021. De nouveaux éléments et témoignages le confirment à nouveau.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T04:30:02+00:00"
+    },
+    {
       "id": "1f16f98c5e4028c152abb818",
       "title": "Actor Sam Neill died from pneumonia, agent confirms",
       "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
@@ -55,17 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T04:28:22+00:00"
-    },
-    {
-      "id": "130cb25b69787b559f5da21c",
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T02:33:40+00:00"
     },
     {
       "id": "7b178e6871c1a8d818297b1f",
@@ -134,8 +189,8 @@
       "publishedAt": "2026-07-15T23:02:37+00:00"
     },
     {
-      "id": "7e3748aaea2dde5c773e618d",
-      "title": "Argentina face action after waving Falklands banner",
+      "id": "3dc71f0faac236550c4fdd0a",
+      "title": "Argentina face action over Falklands banner",
       "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -417,40 +472,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-15T18:00:08+00:00"
-    },
-    {
-      "id": "d442a0d0087bb0a012ee8353",
-      "title": "Stranger Than Heaven: Here’s What Comes in Each Edition",
-      "summary": "Preorders are live for Stranger Than Heaven, an upcoming Yakuza spin-off that takes place across 50 years. Here's what comes in each edition.",
-      "url": "https://www.ign.com/articles/stranger-than-heaven-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T17:58:57+00:00"
-    },
-    {
-      "id": "d9019cc147b071b854030229",
-      "title": "Save 44% Off the PowerBlock Adjustable Dumbbells, Starts at 50 Pounds But Upgradeable to 90 Pounds",
-      "summary": "Strength training at home without taking up much space at all.",
-      "url": "https://www.ign.com/articles/powerblock-adjustable-dumbbell-deal-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T17:55:00+00:00"
-    },
-    {
-      "id": "d5cb71c5591fd0b7ccf15b01",
-      "title": "There Aren't Many Steam Machine Accessories Out There, But These Are the Best Ones Right Now",
-      "summary": "The Steam Machine might not be priced like we hoped – courtesy of the ongoing memory shortage – but those who can pony up the cash will get to customize their machine in some very fun ways. Here are 6 Steam Machine accessories that will elevate your experience with Valve's latest device.",
-      "url": "https://www.ign.com/articles/best-steam-machine-accessories",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T17:48:51+00:00"
+      "publishedAt": "2026-07-15T18:00:06+00:00"
     },
     {
       "id": "457e5aa2f4a6ffae6e1b1eb0",
@@ -990,17 +1012,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-07T20:00:00+00:00"
-    },
-    {
-      "id": "09c1865b4586f80b893e5b8f",
-      "title": "Robots available for rent: But what can they do?",
-      "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-06T23:48:55+00:00"
     },
     {
       "id": "167efa6ea5edc8d7bd877bbf",
