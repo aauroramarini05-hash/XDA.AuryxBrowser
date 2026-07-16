@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-07-16T09:58:14.363827+00:00",
+  "updatedAt": "2026-07-16T11:38:29.468480+00:00",
   "items": [
     {
-      "id": "f64cdf723e9f01feb41fb1f7",
-      "title": "Eleven people die in fire at Algerian foster care home",
+      "id": "3bec321277a5ad47fa52986f",
+      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T11:31:11+00:00"
+    },
+    {
+      "id": "22769fe018bfdf115d6475af",
+      "title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned",
+      "summary": "Companies are now required to verify a person's identity electronically to curb theft and forgery.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n9q538z2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T11:18:51+00:00"
+    },
+    {
+      "id": "c9bf3b3ecaf09799f8a17fe6",
+      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
+      "summary": "Most of the recent cases were among travellers from the Democratic Republic of Congo.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T11:16:31+00:00"
+    },
+    {
+      "id": "f52ca1d0bdbed120c909e803",
+      "title": "TikTok faces Ofcom investigation over child age checks",
+      "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-16T11:08:33+00:00"
+    },
+    {
+      "id": "778160834381fabc577acdb5",
+      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+      "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-16T10:52:26+00:00"
+    },
+    {
+      "id": "4d783ebb6089092d04fa3406",
+      "title": "Eleven people die in fire at Algerian children's care home",
       "summary": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
       "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-16T09:20:43+00:00"
+      "publishedAt": "2026-07-16T10:34:21+00:00"
+    },
+    {
+      "id": "d6d934ef0facb2b9bc453ee8",
+      "title": "Iran targets military bases as US launches wave of strikes",
+      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T10:26:05+00:00"
+    },
+    {
+      "id": "b95ba29b49dcf2eba2ce420a",
+      "title": "Everything New in Hell Clock 2.0 and the Cursed War DLC",
+      "summary": "An index of guides for Hell Clock's 2.0 update, including explainers for everything new and links to useful guides and planners.",
+      "url": "https://www.ign.com/articles/everything-new-in-hell-clock-20-and-the-cursed-war-dlc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T10:23:53+00:00"
+    },
+    {
+      "id": "8c3511689c91719edddb1d7e",
+      "title": "Chip giant TSMC pledges another $100bn to expand US production",
+      "summary": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
+      "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T10:23:00+00:00"
+    },
+    {
+      "id": "574fd9f57edcb425413396d9",
+      "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
+      "summary": "A US Navy Blue Angels jet sent some beach items up in the air as it flew at a low altitude over a crowd in Pensacola Beach, Florida.",
+      "url": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T10:13:40+00:00"
+    },
+    {
+      "id": "7cff0a9c04f51f57d766ca31",
+      "title": "Pokémon TCG: First Partner Illustration Collection Series 2 is 25% Off at Amazon",
+      "summary": "Market prices for the Pokémon TCG's First Partner Collection Series 2 set have plummeted by over 37% in just the past month alone. Amazon finally has stock back with a massive discount to reflect the market changes, and we don't expect these to last long at this price.",
+      "url": "https://www.ign.com/articles/pokemon-tcg-first-partner-illustration-series-2-restock-best-deal-new",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T10:13:23+00:00"
+    },
+    {
+      "id": "5fb486cf02ab9920c4e9ae68",
+      "title": "Au Royaume-Uni, TikTok visé par une enquête du régulateur des médias pour déterminer s’il a manqué à ses obligations de protection des enfants",
+      "summary": "« L’ouverture d’une enquête ne signifie pas que l’Ofcom a conclu que le fournisseur a manqué à ses obligations », a précisé le régulateur britannique, qui menace toutefois d’imposer des amendes allant jusqu’à 10 % du chiffre d’affaires mondial de l’entreprise.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/au-royaume-uni-tiktok-vise-par-une-enquete-du-regulateur-des-medias-pour-determiner-s-il-a-manque-a-ses-obligations-de-protection-des-enfants_6723784_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T10:03:33+00:00"
     },
     {
       "id": "130cb25b69787b559f5da21c",
@@ -24,15 +145,15 @@
       "publishedAt": "2026-07-16T09:10:38+00:00"
     },
     {
-      "id": "d6d934ef0facb2b9bc453ee8",
-      "title": "Iran targets military bases as US launches wave of strikes",
-      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "id": "99aaa167ab07de57632b572c",
+      "title": "Pakistan resisting UK attempts to deport grooming gang leader",
+      "summary": "The government of Pakistan says it has \"no connection whatsoever\" with the case of Shabir Ahmed.",
+      "url": "https://www.bbc.co.uk/news/articles/clyxnvjy706o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-16T08:50:02+00:00"
+      "publishedAt": "2026-07-16T08:38:06+00:00"
     },
     {
       "id": "5a92f3755354d2c53729dcb8",
@@ -57,17 +178,6 @@
       "publishedAt": "2026-07-16T08:24:41+00:00"
     },
     {
-      "id": "f52ca1d0bdbed120c909e803",
-      "title": "TikTok faces Ofcom investigation over child age checks",
-      "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-16T08:19:21+00:00"
-    },
-    {
       "id": "710e8304c4ccb855666f2c59",
       "title": "The Hawk Review",
       "summary": "The Hawk review: Will Ferrell has given us so many funny characters; this Netflix series does not feature one of them.",
@@ -79,10 +189,10 @@
       "publishedAt": "2026-07-16T07:00:00+00:00"
     },
     {
-      "id": "8d8b1c6d9a92c7a98e29b997",
-      "title": "« Projet Pegasus » : cinq ans après les révélations sur un système mondial d’espionnage de téléphones, l’enquête judiciaire se poursuit",
-      "summary": "Deux anciens responsables de l’entreprise israélienne NSO Group, qui a développé le logiciel espion, sont placés sous le statut de témoins assistés. Mais alors que l’Elysée promettait, en 2021, de faire « toute la lumière » sur l’espionnage de six ministres français, un rapprochement diplomatique a été opéré avec le Maroc, pourtant accusé d’en être",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/projet-pegasus-cinq-ans-apres-les-revelations-sur-un-systeme-mondial-d-espionnage-de-telephones-l-enquete-judiciaire-se-poursuit_6723735_4408996.html",
+      "id": "83aef3cbd3a67c838240e87d",
+      "title": "Les révélations d’un lanceur d’alerte sur l’arsenal sécuritaire du Maroc, des logiciels espions aux caméras dans les climatisations",
+      "summary": "Mouchards installés avec une clé USB, téléphones vendus avec des logiciels espions, écoutes et caméras cachées… En plus du logiciel Pegasus, le royaume chérifien a constitué un puissant arsenal répressif, déployé contre des journalistes ou des cibles politiques.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
@@ -90,10 +200,10 @@
       "publishedAt": "2026-07-16T04:30:02+00:00"
     },
     {
-      "id": "83aef3cbd3a67c838240e87d",
-      "title": "Les révélations d’un lanceur d’alerte sur l’arsenal sécuritaire du Maroc, des logiciels espions aux caméras dans les climatisations",
-      "summary": "Mouchards installés avec une clé USB, téléphones vendus avec des logiciels espions, écoutes et caméras cachées… En plus du logiciel Pegasus, le royaume chérifien a constitué un puissant arsenal répressif, déployé contre des journalistes ou des cibles politiques.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html",
+      "id": "8d8b1c6d9a92c7a98e29b997",
+      "title": "« Projet Pegasus » : cinq ans après les révélations sur un système mondial d’espionnage de téléphones, l’enquête judiciaire se poursuit",
+      "summary": "Deux anciens responsables de l’entreprise israélienne NSO Group, qui a développé le logiciel espion, sont placés sous le statut de témoins assistés. Mais alors que l’Elysée promettait, en 2021, de faire « toute la lumière » sur l’espionnage de six ministres français, un rapprochement diplomatique a été opéré avec le Maroc, pourtant accusé d’en être",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/projet-pegasus-cinq-ans-apres-les-revelations-sur-un-systeme-mondial-d-espionnage-de-telephones-l-enquete-judiciaire-se-poursuit_6723735_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
@@ -154,6 +264,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T23:45:12+00:00"
+    },
+    {
+      "id": "c8a1aac70cc31b0b1fb72602",
+      "title": "'That's why he's the king' - Messi sets up third World Cup final",
+      "summary": "BBC Sport looks at Lionel Messi's masterclass on the right wing to knock England out of the World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8jnl9zdzn2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T23:42:19+00:00"
     },
     {
       "id": "6fe9df482bce05a6e381ecaa",
@@ -409,17 +530,6 @@
       "publishedAt": "2026-07-15T18:35:00+00:00"
     },
     {
-      "id": "5cfc7417201b5e957641eda7",
-      "title": "Fallout: New Vegas Senior Designer Chris Avellone Admits He Feels 'Embarrassed' by TV Show's Dialogue",
-      "summary": "Chris Avellone, senior designer for Fallout: New Vegas, admitted he feels \"embarrassed\" by some of the dialogue in the Amazon Prime Video adaptation.",
-      "url": "https://www.ign.com/articles/fallout-new-vegas-senior-designer-chris-avellone-admits-he-feels-embarrassed-by-tv-shows-dialogue",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T18:32:21+00:00"
-    },
-    {
       "id": "1abc95f225bc8ef2c7784895",
       "title": "Elon Musk qualifie Marine Le Pen de « dernier espoir de la France »",
       "summary": "Jusque-là peu investi dans la politique française alors qu’il s’est déjà illustré par son interventionnisme dans d’autres pays, l’homme le plus riche du monde a apporté mercredi publiquement son soutien à la candidate du Rassemblement national.",
@@ -451,17 +561,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T18:07:05+00:00"
-    },
-    {
-      "id": "8dfc092b1ed16b4fbddbbfdb",
-      "title": "Best Gaming Mouse in 2026: Wired and Wireless Mice for Every Budget",
-      "summary": "I've been reviewing gaming mice for nearly a decade, testing their build quality, responsiveness, latency, and ever-growing DPI and polling rate claims. After weeks of hands-on experience with more than 30 different wireless and wired options, these are the best gaming mice you can buy in 2026, with options ranging from ultra-budget to high end, as",
-      "url": "https://www.ign.com/articles/best-gaming-mouse",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T18:00:55+00:00"
     },
     {
       "id": "83fa11321cbaf6eddd5eac49",
@@ -552,28 +651,6 @@
       "publishedAt": "2026-07-15T14:50:01+00:00"
     },
     {
-      "id": "2f16fc628796556b37997f94",
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T12:21:32+00:00"
-    },
-    {
-      "id": "383b4d5a80d9a7d9aa14cb15",
-      "title": "Venezuela government to launch formal talks with opposition members",
-      "summary": "The opposition says the aim of the talks is to strengthen the democratic institutions and the electoral system.",
-      "url": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T12:21:21+00:00"
-    },
-    {
       "id": "7e8591a4d5d41dd48e46da86",
       "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
       "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
@@ -583,28 +660,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T11:44:28+00:00"
-    },
-    {
-      "id": "9a354dabff8c7cc12606576d",
-      "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
-      "summary": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T11:43:15+00:00"
-    },
-    {
-      "id": "ce9834714e70f43cb2083b71",
-      "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
-      "summary": "Delivery riders in Milan, Bologna and Florence want to protect their health and their wages.",
-      "url": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T11:38:37+00:00"
     },
     {
       "id": "ede8a9c4141890420810e97d",
@@ -618,39 +673,6 @@
       "publishedAt": "2026-07-15T11:24:29+00:00"
     },
     {
-      "id": "530d9e8a7338dfda49cbf39c",
-      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
-      "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T11:19:52+00:00"
-    },
-    {
-      "id": "fca551eccbdaa69572b37ffc",
-      "title": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
-      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
-      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T10:50:09+00:00"
-    },
-    {
-      "id": "b20c51c32882d84888a3f17d",
-      "title": "China economic growth falls sharply, missing target",
-      "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T10:21:48+00:00"
-    },
-    {
       "id": "8fade2a9975b78308e610506",
       "title": "Celebrations as Gibraltar-Spain border fence removed",
       "summary": "The symbolic midnight ceremony was followed by large crowds crossing between Gibraltar and Spain without border checks.",
@@ -660,28 +682,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T10:19:34+00:00"
-    },
-    {
-      "id": "1d106e148b2491ce39f1bbbe",
-      "title": "Air India crash report likely to be ready in October, say investigators",
-      "summary": "The crash killed 260 people, including 241 on board, with only one passenger surviving.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T09:45:21+00:00"
-    },
-    {
-      "id": "0fc18ca8a3910c6b1950ec58",
-      "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
-      "summary": "The case has gripped Nigeria since President Bola Tinubu ordered a corruption investigation last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T09:42:09+00:00"
     },
     {
       "id": "da9de2b3316a1212475baeb6",
@@ -706,28 +706,6 @@
       "publishedAt": "2026-07-15T04:15:42+00:00"
     },
     {
-      "id": "353d6a7cafdacc38bd06e9b4",
-      "title": "China detains US scientist who studied North Korea nuclear tests",
-      "summary": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T02:14:37+00:00"
-    },
-    {
-      "id": "9950782972730362466a62ab",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T23:17:27+00:00"
-    },
-    {
       "id": "a3509c2ffa087e31701b920d",
       "title": "Hachette et d’autres éditeurs poursuivent Google, l’accusant de violer les droits d’auteur avec son IA Gemini",
       "summary": "Cette nouvelle plainte s’ajoute à une série de procédures visant des entreprises de l’intelligence artificielle, accusées, par des auteurs et des maisons d’édition, d’avoir utilisé sans autorisation des œuvres protégées, pour alimenter leurs modèles.",
@@ -750,17 +728,6 @@
       "publishedAt": "2026-07-14T23:04:09+00:00"
     },
     {
-      "id": "e83be648d15f5e7d21bd4800",
-      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-      "summary": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
-      "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T22:17:43+00:00"
-    },
-    {
       "id": "fa4243fe050db6bcf6ed320d",
       "title": "Tech Life",
       "summary": "Surgeons remotely control two human-like robots in an operating theatre.",
@@ -770,28 +737,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-14T20:00:00+00:00"
-    },
-    {
-      "id": "5c9a4f455f77a283708d7604",
-      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-      "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T19:13:49+00:00"
-    },
-    {
-      "id": "8faaeb4f406198029eb0a78e",
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-14T17:13:27+00:00"
     },
     {
       "id": "3899373be09a1fd439a240fc",
@@ -869,17 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-13T10:58:32+00:00"
-    },
-    {
-      "id": "d4fb8f46fbadc43387d79d73",
-      "title": "La France annonce des sanctions contre « Turla », une unité d’élite russe spécialisée dans le cyberespionnage",
-      "summary": "Le FSB russe est accusé par la France d’une série de piratages ayant visé des ministères et un institut de recherche travaillant sur des sujets sensibles. L’ambassadeur de Russie à Paris doit être convoqué dans les prochains jours.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/13/la-france-annonce-des-sanctions-contre-turla-une-unite-d-elite-russe-specialisee-dans-le-cyberespionnage_6723072_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-13T09:47:43+00:00"
     },
     {
       "id": "eb98d48758c65b76e4132192",
@@ -990,17 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-09T11:29:31+00:00"
-    },
-    {
-      "id": "7b22b8df9c4b5e6435f17672",
-      "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-      "summary": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-08T12:28:03+00:00"
     },
     {
       "id": "c9f30ea59a8254d8881a87b4",
