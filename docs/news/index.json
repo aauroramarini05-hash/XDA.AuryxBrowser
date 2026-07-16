@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-07-16T01:48:43.560989+00:00",
+  "updatedAt": "2026-07-16T04:52:30.772626+00:00",
   "items": [
+    {
+      "id": "a68fab26b21a56a1662b6926",
+      "title": "De nouvelles preuves démontrent que le Maroc a utilisé le logiciel espion Pegasus",
+      "summary": "Le royaume chérifien continue de nier avoir été utilisateur du puissant logiciel de l’entreprise NSO Group, malgré les révélations du « Monde » et de ses partenaires en 2021. De nouveaux éléments et témoignages le confirment à nouveau.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T04:30:11+00:00"
+    },
+    {
+      "id": "8d8b1c6d9a92c7a98e29b997",
+      "title": "« Projet Pegasus » : cinq ans après les révélations sur un système mondial d’espionnage de téléphones, l’enquête judiciaire se poursuit",
+      "summary": "Deux anciens responsables de l’entreprise israélienne NSO Group, qui a développé le logiciel espion, sont placés sous le statut de témoins assistés. Mais alors que l’Elysée promettait, en 2021, de faire « toute la lumière » sur l’espionnage de six ministres français, un rapprochement diplomatique a été opéré avec le Maroc, pourtant accusé d’en être",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/projet-pegasus-cinq-ans-apres-les-revelations-sur-un-systeme-mondial-d-espionnage-de-telephones-l-enquete-judiciaire-se-poursuit_6723735_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T04:30:09+00:00"
+    },
+    {
+      "id": "1340418ce8f1d725a4f9b9a7",
+      "title": "Les révélations d’un lanceur d’alerte sur la frénésie d’achat d’outils de surveillance par le Maroc",
+      "summary": "Mouchards installés avec une clé USB, téléphones vendus avec des logiciels espions pré-installés, écoutes et caméras cachées… En plus du logiciel Pegasus, le royaume chérifien a constitué un puissant arsenal répressif, déployé contre des journalistes ou des cibles politiques.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T04:30:02+00:00"
+    },
     {
       "id": "a1a79f5874975a9bac6a09be",
       "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
@@ -10,7 +43,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-16T01:42:54+00:00"
+      "publishedAt": "2026-07-16T04:06:11+00:00"
+    },
+    {
+      "id": "130cb25b69787b559f5da21c",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T02:33:40+00:00"
+    },
+    {
+      "id": "7b178e6871c1a8d818297b1f",
+      "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer",
+      "summary": "",
+      "url": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T02:00:00+00:00"
     },
     {
       "id": "fe0b0f383b8b2f5c181839e4",
@@ -24,6 +79,17 @@
       "publishedAt": "2026-07-16T00:33:23+00:00"
     },
     {
+      "id": "703f3e1361a4b6a7a8995d8d",
+      "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
+      "summary": "Blanche faces a bipartisan grilling as he seeks to assume the role of US attorney general permanently.",
+      "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T23:45:12+00:00"
+    },
+    {
       "id": "6fe9df482bce05a6e381ecaa",
       "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
       "summary": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
@@ -35,8 +101,8 @@
       "publishedAt": "2026-07-15T23:35:39+00:00"
     },
     {
-      "id": "f98290af325836761a77d894",
-      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "id": "9df50d28fbc41adf562bdf3c",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
       "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
       "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -79,17 +145,6 @@
       "publishedAt": "2026-07-15T22:46:40+00:00"
     },
     {
-      "id": "130cb25b69787b559f5da21c",
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "summary": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T22:46:02+00:00"
-    },
-    {
       "id": "f96a2c39e9655424b881423e",
       "title": "The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped",
       "summary": "Produce consistent quality 3D prints without spending hundreds of dollars.",
@@ -110,6 +165,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-15T22:25:00+00:00"
+    },
+    {
+      "id": "32f1e6e2a3d08a1da2133bb0",
+      "title": "Crackdown on 'objectionable' books in Indian-administered Kashmir sparks row",
+      "summary": "Authorities in Indian-administered Kashmir have asked educational institutions to review every book on their premises.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jyj292xdgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-15T22:05:16+00:00"
     },
     {
       "id": "2b7a88943275d1344001d60a",
@@ -374,17 +440,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-15T17:48:51+00:00"
-    },
-    {
-      "id": "6bb47bb7a9df8deb1a7d11ef",
-      "title": "Leon Kennedy's Voice Actor Says Capcom Cut His 'Favorite' Line From Resident Evil Requiem",
-      "summary": "Nick Apostolides, best known as the voice behind beloved Resident Evil protagonist Leon S. Kennedy, revealed a hilarious voice line he pitched for RE9 that got cut from final game.",
-      "url": "https://www.ign.com/articles/leon-kennedys-voice-actor-says-capcom-cut-his-favorite-line-from-resident-evil-requiem",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-15T17:44:53+00:00"
     },
     {
       "id": "457e5aa2f4a6ffae6e1b1eb0",
@@ -750,17 +805,6 @@
       "publishedAt": "2026-07-14T03:00:20+00:00"
     },
     {
-      "id": "3fee001678224efd7dbf403b",
-      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-13T17:31:54+00:00"
-    },
-    {
       "id": "fb46e34622094b301a5b9f40",
       "title": "Pourquoi vous avez probablement reçu de nombreux courriels parlant de « pixels de suivi »",
       "summary": "Ces petits mouchards, très utilisés dans les e-mails, vont être davantage encadrés. Le délai de trois mois donné par la CNIL pour se conformer à ses recommandations expire mardi 14 juillet.",
@@ -805,17 +849,6 @@
       "publishedAt": "2026-07-13T09:47:43+00:00"
     },
     {
-      "id": "fb517e27f44d80e28900feea",
-      "title": "L’énigme Max Valentin, créateur de la Chouette d’or : « C’était un mec extrêmement intelligent, un fou furieux »",
-      "summary": "« Les derniers mystères de La Chouette d’or » (2/6). L’auteur des énigmes de la quête s’est bâti un personnage qui fascine aujourd’hui encore les « chouetteurs ». Si la plupart voient en lui un génial maître du jeu, d’autres le considèrent comme un gourou bonimenteur.",
-      "url": "https://www.lemonde.fr/series-d-ete/visuel/2026/07/13/l-enigme-max-valentin-createur-de-la-chouette-d-or-c-etait-un-mec-extremement-intelligent-un-fou-furieux_6723042_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-13T04:00:49+00:00"
-    },
-    {
       "id": "eb98d48758c65b76e4132192",
       "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
       "summary": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
@@ -825,28 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-13T00:07:00+00:00"
-    },
-    {
-      "id": "9d8767a2923e815a0887b984",
-      "title": "Clubs de lecture, « reading parties », colos pour bouquiner... Lire est-il le nouveau chic ?",
-      "summary": "Alors que le temps consacré à la lecture recule chaque année, phagocyté par les écrans, s’afficher un livre à la main n’a jamais été aussi tendance, y compris pour la génération Z.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/07/12/clubs-de-lecture-reading-parties-colos-pour-bouquiner-lire-est-il-le-nouveau-chic_6722865_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-12T04:00:46+00:00"
-    },
-    {
-      "id": "a4ccda9ceac96f17822ab36e",
-      "title": "Sur la piste de la Chouette d’or, l’oiseau qui rend fou : « Plus personne n’écoute personne, tout le monde est arc-bouté sur ses solutions »",
-      "summary": "« Les derniers mystères de La Chouette d’or » (1/6). Trente et un ans après avoir été enfoui, le trésor de La Chouette d’or a été découvert dans la nuit du 2 au 3 octobre 2024. Pourtant, nombre de « chouetteurs » continuent sans relâche à chercher la statuette, « la vraie ». Car quelque chose cloche.",
-      "url": "https://www.lemonde.fr/series-d-ete/visuel/2026/07/12/sur-la-piste-de-la-chouette-d-or-l-oiseau-qui-rend-fou-plus-personne-n-ecoute-personne-tout-le-monde-est-arc-boute-sur-ses-solutions_6722863_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-12T04:00:13+00:00"
     },
     {
       "id": "67f6cae973034d9db6e8e6aa",
