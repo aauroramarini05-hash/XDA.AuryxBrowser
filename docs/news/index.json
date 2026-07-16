@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-07-16T20:00:28.654694+00:00",
+  "updatedAt": "2026-07-16T21:56:20.762603+00:00",
   "items": [
     {
-      "id": "d68d6c58d9e937368d1a07ed",
-      "title": "Canada wildfires spread smoke across North America, prompting air quality alerts",
-      "summary": "Smoke from more than 800 blazes has prompted air quality concerns in Toronto, New York and large parts of Michigan, Minneapolis and Minnesota.",
+      "id": "46b743aab5bc2341eda47fb1",
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T21:44:37+00:00"
+    },
+    {
+      "id": "acc4eb17e925c2c329aff647",
+      "title": "The Diveblues Portable Turbo Fan Is a Cheap and Easy Way to Beat the Heat, Even When You're Outdoors",
+      "summary": "Only $11.69 after coupon code.",
+      "url": "https://www.ign.com/articles/diveblues-portable-turbo-fan-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T21:30:00+00:00"
+    },
+    {
+      "id": "50fbde6c6e01fce996758287",
+      "title": "Lost Fan Simon Pegg 'Loved' the Show But Has at Least One Idea to Fix Its Ending",
+      "summary": "Shaun of the Dead star Simon Pegg has said he \"loved\" ABC's 2000s TV show Lost, but he's got at least one idea that he thinks would fix its ending.",
+      "url": "https://www.ign.com/articles/lost-fan-simon-pegg-loved-the-show-but-has-at-least-one-idea-to-fix-its-ending",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T21:16:31+00:00"
+    },
+    {
+      "id": "856b851350d3f9653ed32129",
+      "title": "Microsoft Restores Player's 25-Year-Old Account With Son's Baby Photos After Nuking It Due to Hacker",
+      "summary": "Microsoft has restored a player’s access to his 25-year-old account, which contained photos of his son and thousands of dollars worth of games.",
+      "url": "https://www.ign.com/articles/microsoft-restores-players-25-year-old-account-with-sons-baby-photos-after-nuking-it-due-to-hacker",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T21:10:59+00:00"
+    },
+    {
+      "id": "108e63dacb796ec839ea2123",
+      "title": "The 8BitDo Ultimate 2C Is One of the Best PC Gaming Controllers Under $50, and It's Less Than Half That Price",
+      "summary": "Compatible with Windows PC, Android, and Steam Deck.",
+      "url": "https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T21:00:00+00:00"
+    },
+    {
+      "id": "1fe0511a08ad28cbf58568d7",
+      "title": "Kris Jenner's mother Mary Jo dies aged 91",
+      "summary": "Mary Jo 'MJ' Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
+      "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T20:24:54+00:00"
+    },
+    {
+      "id": "21e22da28abfb97a54bb8d3f",
+      "title": "GameStop CEO Ryan Cohen Insists Sony Killing Physical Discs 'Doesn't Matter at All' Because Video Game Sales Make Up So Little of His Business",
+      "summary": "GameStop CEO Ryan Cohen has sparked a fiery debate in the gaming community after remarking that sales of physical games are “totally irrelevant\" to his business.",
+      "url": "https://www.ign.com/articles/gamestop-ceo-ryan-cohen-insists-sony-killing-physical-discs-doesnt-matter-at-all-because-video-game-sales-make-up-so-little-of-his-business",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T20:20:31+00:00"
+    },
+    {
+      "id": "05b5b572e6d24eaad97239da",
+      "title": "Pro Jank Footy Release Date Confirmed, Arrives August",
+      "summary": "Insanity-fuelled, NBA Jam-inspired take on Australian Rules Football less than a month away.",
+      "url": "https://www.ign.com/articles/pro-jank-footy-release-date-confirmed-arrives-august",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T20:00:00+00:00"
+    },
+    {
+      "id": "ae9026d8efd497d82284f435",
+      "title": "Save 35% Off the Apple AirPods 4 Earbuds With Active Noise Cancelation, Now Just $119",
+      "summary": "This is an Amazon Premium Renewed product with a full 1 year Amazon warranty.",
+      "url": "https://www.ign.com/articles/best-apple-airpods-4-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T20:00:00+00:00"
+    },
+    {
+      "id": "95d356047e81cf20e39a3a43",
+      "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
+      "summary": "Smoke from more than 800 blazes has affected cities from Toronto to New York, as well as the US Midwest.",
       "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T19:58:55+00:00"
+    },
+    {
+      "id": "cc53cdad3e57721d7328e30e",
+      "title": "Official Street Fighter 6 Fragrances Let You Smell Just Like Juri, Ed, and Ingrid",
+      "summary": "Wanna smell like a fighter (minus all the blood and sweat, that is)? Well then, you’re in luck, because three characters from Street Fighter 6 are getting their own official scents, courtesy of a special collaboration between Capcom and Gaming Fragrances.",
+      "url": "https://www.ign.com/articles/official-street-fighter-6-fragrances-let-you-smell-just-like-juri-ed-and-ingrid",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T19:49:29+00:00"
+    },
+    {
+      "id": "5df0d68c6fcfa1be7fa963b6",
+      "title": "Marvel's Wolverine Trailer Features First Look at Lady Deathstrike",
+      "summary": "PlayStation and Insomniac Games have unleashed a new trailer for Marvel's Wolverine, revealing more about the PS5 game as Logan meets up with Sabretooth and Lady Deathstrike.",
+      "url": "https://www.ign.com/articles/marvels-wolverine-trailer-features-first-look-at-lady-deathstrike",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T19:47:50+00:00"
     },
     {
       "id": "172dca6d430b4d14aa09c2e8",
@@ -22,17 +143,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-16T19:43:20+00:00"
-    },
-    {
-      "id": "0fc6a5745052ffe22c66e6c3",
-      "title": "Mary Jo, mother of Kardashian matriarch Kris Jenner, dies aged 91",
-      "summary": "Mary Jo Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
-      "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T19:36:51+00:00"
     },
     {
       "id": "916f38d4c185f035a92bd891",
@@ -90,9 +200,9 @@
       "publishedAt": "2026-07-16T18:44:43+00:00"
     },
     {
-      "id": "001a173583b58a7fd2972bc3",
-      "title": "OnePlus Is Exiting the US Market",
-      "summary": "OnePlus has announced its departure from the US and European mobile phone markets, though the company confirms it will continue to support existing devices with software updates and warranties.",
+      "id": "92c591684e6765a486137fb7",
+      "title": "OnePlus Is Exiting the U.S. Market",
+      "summary": "OnePlus has announced its departure from the U.S. and European mobile phone markets, though the company confirms it will continue to support existing devices with software updates and warranties.",
       "url": "https://www.ign.com/articles/oneplus-is-exiting-the-us-market",
       "imageUrl": null,
       "source": "IGN All",
@@ -145,8 +255,8 @@
       "publishedAt": "2026-07-16T18:30:00+00:00"
     },
     {
-      "id": "7c90aecf22169612138c83ac",
-      "title": "8bitdo's Latest Phone Accessory Is a Clip-on, Game Boy-Like Controller",
+      "id": "d4d32cdf971e5d73ff67cc40",
+      "title": "8BitDo's Latest Phone Accessory Is a Clip-on, Game Boy-Like Controller",
       "summary": "",
       "url": "https://www.ign.com/articles/8bitdos-latest-phone-accessory-is-a-clip-on-game-boy-like-controller",
       "imageUrl": null,
@@ -211,8 +321,8 @@
       "publishedAt": "2026-07-16T17:15:32+00:00"
     },
     {
-      "id": "e92b38b4834e24cbe0816dbc",
-      "title": "Beast of Reincarnation is Game Freak’s Best Chance to Break Out of Pokémon’s Shadow | Final Preview",
+      "id": "112492ac54f8aef4fc24e03f",
+      "title": "Beast of Reincarnation Is Game Freak’s Best Chance to Break Out of Pokémon’s Shadow | Final Preview",
       "summary": "The upcoming action-RPG is much different from any game the Pokémon team has made; we played it, and it's awesome.",
       "url": "https://www.ign.com/articles/beast-of-reincarnation-is-game-freaks-best-chance-to-break-out-of-pokmons-shadow-final-preview",
       "imageUrl": null,
@@ -220,28 +330,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-16T17:00:00+00:00"
-    },
-    {
-      "id": "4fb7f6480b275613dcd19863",
-      "title": "Pokémon TCG's Latest Expansion Features a Darkrai Valued at $1,000 — Top 10 Most Valuable Cards Revealed",
-      "summary": "A $990 golden nightmare, stunning vintage-style retro art, and iconic Kanto favorites. These are the most expensive Pokémon TCG Pitch Black cards you need to hunt for!",
-      "url": "https://www.ign.com/articles/pokemon-tcg-pitch-black-valuable-cards",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T17:00:00+00:00"
-    },
-    {
-      "id": "edd352c483f2864bdc2f3dc3",
-      "title": "New Saber Exec Moves to Reassure Fan Worried About Warhammer 40,000: Space Marine 3 Monetization, Ends Up Suggesting a 2028 Launch Window That May Even Include the KOTOR Remake",
-      "summary": "Former Epic Games Store boss Steve Allison only joined Saber Interactive as its new Chief Business Officer this week, but he’s already caught gamers’ attention by commenting on Warhammer 40,000: Space Marine 3, the Star Wars: Knights of the Old Republic remake, and the company’s John Wick game.",
-      "url": "https://www.ign.com/articles/new-saber-exec-moves-to-reassure-fan-worried-about-warhammer-40000-space-marine-3-monetization-ends-up-suggesting-a-2028-launch-window-that-may-even-include-the-kotor-remake",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T16:47:23+00:00"
     },
     {
       "id": "527ef857d464130618381cd1",
@@ -264,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T16:26:32+00:00"
-    },
-    {
-      "id": "cd96bded1cd8c036a12a22eb",
-      "title": "Home Depot’s Awesome 12-Foot-Tall Skeleton Is Back, And Now It Can Talk",
-      "summary": "Skelly, Home Depot’s giant 12-foot-tall skeleton display, is back in its stores to buy ahead of Halloween 2026. While the regular model is available to buy for $299, there's also a model that's app controlled for $379.",
-      "url": "https://www.ign.com/articles/home-depots-awesome-12-foot-tall-skeleton-is-back-and-now-it-can-talk",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T16:20:55+00:00"
     },
     {
       "id": "92a57e2cfbbdc32e2bb3fbe4",
@@ -308,72 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T16:08:28+00:00"
-    },
-    {
-      "id": "6de267d7563d1993d695a7d2",
-      "title": "The Legend of Zelda Toys on the Way from Hasbro as Live-Action Movie Looms",
-      "summary": "Nintendo has announced a partnership with Hasbro that will result in new The Legend of Zelda toys launching the same year as the live-action movie.",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-toys-on-the-way-from-hasbro-as-live-action-movie-looms",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T16:03:34+00:00"
-    },
-    {
-      "id": "bf6fceb96573c4273f611e93",
-      "title": "‘The Game Doesn’t End When You Run Out of Time’ – How The Blood of Dawnwalker’s 30 Day Countdown Works",
-      "summary": "When is a time limit not a time limit? The Blood of Dawnwalker's developers explain how the vampire RPG's fascinating time system works to encourage choice and consequence.",
-      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-30-day-time-limit",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T16:00:00+00:00"
-    },
-    {
-      "id": "fa6712f3ee81b0b9b3cca708",
-      "title": "The Special PS5-Only Physical Revered Edition of Mortal Shell 2 Has Sold Out, and Fans Are Sending the News Sony's Way as They Continue to Push for a U-Turn on Killing Discs",
-      "summary": "The special PS5-only physical Revered Edition of Mortal Shell 2 has sold out, its publisher has announced — and gamers are sending the news Sony’s way as they continue to push the company to reverse its decision to do away with discs.",
-      "url": "https://www.ign.com/articles/the-special-ps5-only-physical-revered-edition-of-mortal-shell-2-has-sold-out-and-fans-are-sending-the-news-sonys-way-as-they-continue-to-push-for-a-u-turn-on-killing-discs",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T15:45:24+00:00"
-    },
-    {
-      "id": "4304e0faa2aa98c6f2c1de32",
-      "title": "Assassin's Creed Black Flag Resynced Treasure Hunt Scrapped After Player Randomly Discovers Top Secret Chest by Accident",
-      "summary": "Ubisoft has scrapped plans to tease a new Assassin's Creed Black Flag Resynced in-game reward, after one player miraculously discovered it by accident.",
-      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-treasure-hunt-scrapped-after-player-randomly-discovers-top-secret-chest-by-accident",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T15:17:53+00:00"
-    },
-    {
-      "id": "fe609ed4de8b682e1c6c42ec",
-      "title": "We Think Denshattack! Is Amazing, and Fanatical’s Offering a Little Discount on It Right Now for PC Players",
-      "summary": "Denshattack! recently received high praise from us with a 9/10 review score. If you're hoping to play it on PC, Fanatical has slashed 32% off its full price for a limited time.",
-      "url": "https://www.ign.com/articles/we-think-denshattack-is-amazing-and-fanaticals-offering-a-little-discount-on-it-right-now-for-pc-players",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T15:05:07+00:00"
-    },
-    {
-      "id": "a71241dc1e54f35551dfeab4",
-      "title": "Fortnite's Skimpy New Poison Ivy and Harley Quinn Swimwear Skins Are Locked to Modes Rated 13+",
-      "summary": "Fortnite has released DC characters Poison Ivy and Harley Quinn in skimpy swimwear, and locked their use to modes rated T for Teen, or ages 13+.",
-      "url": "https://www.ign.com/articles/fortnites-skimpy-new-poison-ivy-and-harley-quinn-swimwear-skins-are-locked-to-modes-rated-13",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T14:55:59+00:00"
     },
     {
       "id": "35f7ef7d3efbba4b7f9f8f22",
@@ -451,17 +462,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-16T12:00:07+00:00"
-    },
-    {
-      "id": "d6d934ef0facb2b9bc453ee8",
-      "title": "Iran targets military bases as US launches wave of strikes",
-      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T11:48:49+00:00"
     },
     {
       "id": "22769fe018bfdf115d6475af",
