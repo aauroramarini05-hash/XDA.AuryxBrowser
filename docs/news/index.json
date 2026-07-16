@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-07-16T18:57:09.672324+00:00",
+  "updatedAt": "2026-07-16T20:00:28.654694+00:00",
   "items": [
+    {
+      "id": "d68d6c58d9e937368d1a07ed",
+      "title": "Canada wildfires spread smoke across North America, prompting air quality alerts",
+      "summary": "Smoke from more than 800 blazes has prompted air quality concerns in Toronto, New York and large parts of Michigan, Minneapolis and Minnesota.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T19:58:55+00:00"
+    },
+    {
+      "id": "172dca6d430b4d14aa09c2e8",
+      "title": "Un agent chargé du prompteur de Donald Trump, suspecté d’avoir parié de l’argent sur ses discours, a été suspendu",
+      "summary": "Il utilisait la plateforme de prédiction Kalshi, qui permet notamment aux internautes de parier sur la possibilité qu’une phrase ou un mot soient prononcés, et avait ainsi encaissé plus de 100 000 dollars.",
+      "url": "https://www.lemonde.fr/international/article/2026/07/16/un-agent-charge-du-prompteur-de-donald-trump-suspecte-d-avoir-parie-de-l-argent-sur-ses-discours-a-ete-suspendu_6723846_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T19:43:20+00:00"
+    },
+    {
+      "id": "0fc6a5745052ffe22c66e6c3",
+      "title": "Mary Jo, mother of Kardashian matriarch Kris Jenner, dies aged 91",
+      "summary": "Mary Jo Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
+      "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T19:36:51+00:00"
+    },
+    {
+      "id": "916f38d4c185f035a92bd891",
+      "title": "We Build LEGO The Lord of the Rings: Minas Tirith",
+      "summary": "We take you through the building process of the biggest LEGO Lord of the Rings set yet.",
+      "url": "https://www.ign.com/articles/we-build-lego-the-lord-of-the-rings-minas-tirith-11377",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T19:29:07+00:00"
+    },
+    {
+      "id": "32bac05cbb1cc82e35fbf2b4",
+      "title": "God of War Laufey Star Deborah Ann Woll 'Totally Unbothered' by Online Hate Surrounding the Game",
+      "summary": "God of War Laufey star Deborah Ann Woll says she's \"totally unbothered\" by the online hate surrounding her new PS5 exclusive because she knows \"it's great.\"",
+      "url": "https://www.ign.com/articles/god-of-war-laufey-star-deborah-ann-woll-totally-unbothered-by-online-hate-surrounding-the-game",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T18:59:48+00:00"
+    },
     {
       "id": "7e13e331327493df34061f7c",
       "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
@@ -11,6 +66,50 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T18:52:35+00:00"
+    },
+    {
+      "id": "bac04a357eb09264c5663ce5",
+      "title": "Watch: What to know as Genoa bridge disaster trial ends",
+      "summary": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
+      "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T18:52:01+00:00"
+    },
+    {
+      "id": "862ad0bea4624fa8e028dcb1",
+      "title": "Fifa 'assessing match reports' over Falklands banner",
+      "summary": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T18:44:43+00:00"
+    },
+    {
+      "id": "001a173583b58a7fd2972bc3",
+      "title": "OnePlus Is Exiting the US Market",
+      "summary": "OnePlus has announced its departure from the US and European mobile phone markets, though the company confirms it will continue to support existing devices with software updates and warranties.",
+      "url": "https://www.ign.com/articles/oneplus-is-exiting-the-us-market",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T18:43:33+00:00"
+    },
+    {
+      "id": "fbd6966d4ab48dd51ce4213d",
+      "title": "Pick up a Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon",
+      "summary": "An inviting gaming chair without the high dollar price tag",
+      "url": "https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T18:30:00+00:00"
     },
     {
       "id": "597d7395f8f5cea92d6f4244",
@@ -28,6 +127,17 @@
       "title": "The Asus ROG Flow Z13 Ultra-Portable Gaming Laptop Sees a Major Price Drop Despite Having Tons of RAM",
       "summary": "Save $1,000 off this 2.65lb convertible with a generous 64GB of RAM and the most powerful iGPU around.",
       "url": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-best-buy-july-2026-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T18:30:00+00:00"
+    },
+    {
+      "id": "f96a2c39e9655424b881423e",
+      "title": "The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped",
+      "summary": "Produce consistent quality 3D prints without spending hundreds of dollars.",
+      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
@@ -77,17 +187,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-16T17:38:03+00:00"
-    },
-    {
-      "id": "fae20073aaad94841f26be14",
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T17:36:43+00:00"
     },
     {
       "id": "deb9b3c654d46c875ef9cd09",
@@ -277,61 +376,6 @@
       "publishedAt": "2026-07-16T14:55:59+00:00"
     },
     {
-      "id": "4e8b9fae75496530c797ddf3",
-      "title": "'Similar Art Styles Make the Comparisons Inevitable' — Palworld and Pokémon Fans Are Arguing Over Whether New Whale Pal Panthalus Copies Kyogre",
-      "summary": "Palworld and Pokémon fans are arguing over whether a new whale Pal called Panthalus copies the Pokémon, Kyogre.",
-      "url": "https://www.ign.com/articles/clearly-inspired-by-kyogre-palworld-creature-panthalus-renews-pokemon-copying-debate",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T14:35:54+00:00"
-    },
-    {
-      "id": "1ae77f955dc49418c3064583",
-      "title": "We Want Fallout New Vegas 2, But Not Like This",
-      "summary": "Obsidian is reportedly starting work on a new Fallout game led by Josh Sawyer, but the project comes amid devastating Xbox layoffs and the cancellation of Avowed 2.",
-      "url": "https://www.ign.com/articles/we-want-fallout-new-vegas-2-but-not-like-this",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T14:30:00+00:00"
-    },
-    {
-      "id": "cac6df2f0f83d7773fccc900",
-      "title": "Call of Duty: Modern Warfare 4 Has a Bespoke Tactical SUV Designed by Aston Martin — It's Called Dreadnought, and We've Got a First Look",
-      "summary": "Call of Duty: Modern Warfare 4 has a new vehicle called Dreadnought, a bespoke tactical SUV designed for the game by Aston Martin and developed by Infinity Ward — and we’ve got a first look.",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-has-a-bespoke-tactical-suv-designed-by-aston-martin-its-called-dreadnought-and-weve-got-a-first-look",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T14:15:00+00:00"
-    },
-    {
-      "id": "367f95cb89f5ba371882d278",
-      "title": "Cognition Method, a First-Person Puzzle Game From an Ex-Cyberpunk 2077 Developer, Announced for PC",
-      "summary": "Cognition Method is an upcoming first-person, atmospheric sci-fi puzzle game that's visually inspired by Stanley Kubrick's legendary classic 2001: A Space Odyssey. It promises unique, deep, and dramatic storytelling, and it's led by a former environment artist on Cyberpunk 2077 at CD Projekt Red. It will be released for PC on September 1.",
-      "url": "https://www.ign.com/articles/cognition-method-a-first-person-puzzle-game-from-an-ex-cyberpunk-2077-developer-announced-for-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T14:00:00+00:00"
-    },
-    {
-      "id": "7fd2a6b809781c577ebe434d",
-      "title": "Roblox Will Let Anyone Use AI to Turn Text Prompts Into a Basic Game on Their Phone",
-      "summary": "Roblox has announced Build, a new AI creation tool that lets anyone turn a text prompt into a basic game directly within the Roblox mobile app.",
-      "url": "https://www.ign.com/articles/roblox-will-let-anyone-use-ai-to-turn-text-prompts-into-a-basic-game-on-their-phone",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T14:00:00+00:00"
-    },
-    {
       "id": "35f7ef7d3efbba4b7f9f8f22",
       "title": "Cyberattaque contre les transports à Londres : deux hackeurs condamnés à de la prison ferme",
       "summary": "Thalha Jubair, 20 ans, et Owen Flowers, 18 ans, avaient plaidé coupable le mois dernier pour l’une des plus vastes fuites de données du Royaume-Uni, reconnaissant avoir piraté en 2024 le réseau de Transport for London.",
@@ -398,17 +442,6 @@
       "publishedAt": "2026-07-16T12:09:26+00:00"
     },
     {
-      "id": "3dc71f0faac236550c4fdd0a",
-      "title": "Argentina face action over Falklands banner",
-      "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T12:01:37+00:00"
-    },
-    {
       "id": "18695d832b6a9e5747b9315f",
       "title": "Quelle application météo utilisez-vous ? Racontez-nous",
       "summary": "De nombreux sites et applications, gratuits comme payants, font désormais concurrence à Météo-France. Vous utilisez un de ces services ? Dites-nous pourquoi.",
@@ -473,17 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T10:23:00+00:00"
-    },
-    {
-      "id": "574fd9f57edcb425413396d9",
-      "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
-      "summary": "A US Navy Blue Angels jet sent some beach items up in the air as it flew at a low altitude over a crowd in Pensacola Beach, Florida.",
-      "url": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T10:13:40+00:00"
     },
     {
       "id": "5fb486cf02ab9920c4e9ae68",
@@ -618,17 +640,6 @@
       "publishedAt": "2026-07-15T22:04:12+00:00"
     },
     {
-      "id": "ad94944c0ba85539ffe00382",
-      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-      "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T21:21:19+00:00"
-    },
-    {
       "id": "4d865eab94ca09a72f2c3227",
       "title": "L’Union européenne accepte les mesures correctives de X après l’amende de 120 millions d’euros prononcée à la fin de 2025",
       "summary": "« C’est un pas important dans la bonne direction », a salué Thomas Regnier, porte-parole de la Commission européenne en matière de numérique. Cela ne met cependant pas un terme au litige, l’ex-Twitter ayant fait appel de l’amende européenne en février.",
@@ -684,17 +695,6 @@
       "publishedAt": "2026-07-15T18:00:06+00:00"
     },
     {
-      "id": "457e5aa2f4a6ffae6e1b1eb0",
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T17:29:26+00:00"
-    },
-    {
       "id": "18d8306308707e8d680b40dd",
       "title": "More people around the world now favour China over the US, Pew study suggests",
       "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
@@ -704,28 +704,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T17:02:41+00:00"
-    },
-    {
-      "id": "f85d30bf4e220c301fce7e55",
-      "title": "Five arrested after Hong Kong police raid independent bookshops",
-      "summary": "Officials say they are suspected of selling \"seditious\" books which incited \"hatred\" against authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T16:51:07+00:00"
-    },
-    {
-      "id": "47299249fded9f10d2fd69a0",
-      "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
-      "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T15:33:30+00:00"
     },
     {
       "id": "2a913afdc8e4a3ed497ca724",
@@ -761,17 +739,6 @@
       "publishedAt": "2026-07-15T14:50:01+00:00"
     },
     {
-      "id": "7e8591a4d5d41dd48e46da86",
-      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-      "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
-      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T11:44:28+00:00"
-    },
-    {
       "id": "ede8a9c4141890420810e97d",
       "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
       "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
@@ -781,17 +748,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-15T11:24:29+00:00"
-    },
-    {
-      "id": "8fade2a9975b78308e610506",
-      "title": "Celebrations as Gibraltar-Spain border fence removed",
-      "summary": "The symbolic midnight ceremony was followed by large crowds crossing between Gibraltar and Spain without border checks.",
-      "url": "https://www.bbc.co.uk/news/videos/cpd3d0d6zqzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T10:19:34+00:00"
     },
     {
       "id": "da9de2b3316a1212475baeb6",
@@ -875,17 +831,6 @@
       "title": "La rancœur du peintre de La Chouette d’or, Michel Becker : « J’ai fait pas mal de conneries dans ma vie, enfin celle-là est la plus chère dans le genre »",
       "summary": "« Les derniers mystères de La Chouette d’or » (3/6). L’artiste, qui a pris les rênes de la chasse au trésor en 2021, se montre particulièrement hostile envers l’auteur des énigmes, Régis Hauser, alias Max Valentin. Son ressentiment, qui remonte aux premières années du jeu, explose au grand jour à l’occasion du premier scandale que connaît La Chouet",
       "url": "https://www.lemonde.fr/series-d-ete/visuel/2026/07/14/la-ranc-ur-du-peintre-de-la-chouette-d-or-michel-becker-j-ai-fait-pas-mal-de-conneries-dans-ma-vie-enfin-celle-la-est-la-plus-chere-dans-le-genre_6723246_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-14T03:00:20+00:00"
-    },
-    {
-      "id": "9095e0ef5a541024b0fe8506",
-      "title": "Onze jeux vidéo sortis en 2026 à rattraper cet été",
-      "summary": "Le Japon de « Forza Horizon 6 », le mont Kami de « Cairn » ou la planète Carcosa de « Saros »… Voici quelques-unes des plus belles destinations du jeu vidéo de ce début d’année repérées par les journalistes du « Monde ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/14/onze-jeux-video-sortis-en-2026-a-rattraper-cet-ete_6723245_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
