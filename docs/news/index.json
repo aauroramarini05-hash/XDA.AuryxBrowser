@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-07-17T07:11:59.796691+00:00",
+  "updatedAt": "2026-07-17T09:48:14.663590+00:00",
   "items": [
-    {
-      "id": "a6bdaf6f88d5e86830989a7c",
-      "title": "Trump Media to sell early access to key social posts",
-      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-17T07:05:08+00:00"
-    },
     {
       "id": "4261a63d345e91e1662dfa9b",
       "title": "US launches new strikes as Iran says civilian infrastructure hit",
@@ -21,7 +10,84 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-17T07:00:31+00:00"
+      "publishedAt": "2026-07-17T09:27:39+00:00"
+    },
+    {
+      "id": "5e2372378e1af51347db7f52",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T09:12:06+00:00"
+    },
+    {
+      "id": "94c170a219ffb9586bc27a29",
+      "title": "'Wrong (again)' — Infinity Ward Fires Back at Call of Duty: Modern Warfare 4 Gunny AI Chatbot Claim",
+      "summary": "Infinity Ward has hit back at claims the new Gunsmith for Call of Duty: Modern Warfare 4 features an AI chatbot.",
+      "url": "https://www.ign.com/articles/wrong-again-infinity-ward-fires-back-at-call-of-duty-modern-warfare-4-gunny-ai-chatbot-claim",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T09:01:34+00:00"
+    },
+    {
+      "id": "e2517ea47cc8bed64a09cb2e",
+      "title": "China hits out at British Steel nationalisation",
+      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T08:25:55+00:00"
+    },
+    {
+      "id": "236705277d565f33c9b4c218",
+      "title": "MTG Star Trek Commander Deck Bundle Is Much Cheaper Than Buying Each Precon Deck Individually",
+      "summary": "Preorders for MTG's Star Trek Commander decks are live. In what is already a significantly better offering compared to the Marvel Super Hero Decks, here is how buying the bundle offer can save you $75 compared to buying them individually.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-star-trek-commander-deck-bundle-is-significantly-cheaper-than-buying-each-deck-individually",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T07:41:17+00:00"
+    },
+    {
+      "id": "c142c9781b4f9c9ae2216a25",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-17T07:25:31+00:00"
+    },
+    {
+      "id": "4596eabd817a278c3f29259a",
+      "title": "Castlevania: Belmont’s Curse Might Make the Long Wait for a New 2D Castlevania Worth It | IGN Preview",
+      "summary": "After playing the first three hours of Castlevania: Belmont's Curse, Dead Cells developer Evil Empire's take on the legendary series seems to be poised to live up to extraordinarily high standards set by its predecessors.",
+      "url": "https://www.ign.com/articles/castlevania-belmonts-curse-might-make-the-long-wait-for-a-new-2d-castlevania-worth-it-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T07:01:00+00:00"
+    },
+    {
+      "id": "222f6950c4639bb7be8e4001",
+      "title": "Cape Fear Episode 8 Recap and Review – ‘Los tiempos de Dios son Perfectos’",
+      "summary": "Cape Fear’s Episode 8 delivers a gruesome discovery, shocking answers about Max and Anna's past, and Amy Adams's best performance of the series so far.",
+      "url": "https://www.ign.com/articles/cape-fear-episode-8-recap-and-review-los-tiempos-de-dios-son-perfectos",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T07:00:00+00:00"
     },
     {
       "id": "ee1b71fe007ab84354e0a791",
@@ -33,17 +99,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-17T05:36:22+00:00"
-    },
-    {
-      "id": "e2517ea47cc8bed64a09cb2e",
-      "title": "China hits out at British Steel nationalisation",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T05:35:00+00:00"
     },
     {
       "id": "ce647ea73df4c3e6b05709f4",
@@ -88,17 +143,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-17T04:12:07+00:00"
-    },
-    {
-      "id": "ee0c76c29663352b97c5f8ec",
-      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T04:08:27+00:00"
     },
     {
       "id": "9e9a07420b7fe8b6059fb88d",
@@ -209,6 +253,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-16T23:51:12+00:00"
+    },
+    {
+      "id": "c874fcb6e95c2e53bccdc052",
+      "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
+      "summary": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T23:14:11+00:00"
     },
     {
       "id": "253deba870515c3c43d53e17",
@@ -332,17 +387,6 @@
       "publishedAt": "2026-07-16T22:01:32+00:00"
     },
     {
-      "id": "a9efc3d0ef015c11e11f83ef",
-      "title": "As heatwaves strike, Europeans turn to Chinese air-conditioners",
-      "summary": "Chinese brands are meeting surging air-conditioner demand in Europe, a region with typically low ownership rates.",
-      "url": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T22:01:29+00:00"
-    },
-    {
       "id": "acc4eb17e925c2c329aff647",
       "title": "The Diveblues Portable Turbo Fan Is a Cheap and Easy Way to Beat the Heat, Even When You're Outdoors",
       "summary": "Only $11.69 after coupon code.",
@@ -431,50 +475,6 @@
       "publishedAt": "2026-07-16T20:20:31+00:00"
     },
     {
-      "id": "05b5b572e6d24eaad97239da",
-      "title": "Pro Jank Footy Release Date Confirmed, Arrives August",
-      "summary": "Insanity-fuelled, NBA Jam-inspired take on Australian Rules Football less than a month away.",
-      "url": "https://www.ign.com/articles/pro-jank-footy-release-date-confirmed-arrives-august",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T20:00:00+00:00"
-    },
-    {
-      "id": "ae9026d8efd497d82284f435",
-      "title": "Save 35% Off the Apple AirPods 4 Earbuds With Active Noise Cancelation, Now Just $119",
-      "summary": "This is an Amazon Premium Renewed product with a full 1 year Amazon warranty.",
-      "url": "https://www.ign.com/articles/best-apple-airpods-4-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T20:00:00+00:00"
-    },
-    {
-      "id": "cc53cdad3e57721d7328e30e",
-      "title": "Official Street Fighter 6 Fragrances Let You Smell Just Like Juri, Ed, and Ingrid",
-      "summary": "Wanna smell like a fighter (minus all the blood and sweat, that is)? Well then, you’re in luck, because three characters from Street Fighter 6 are getting their own official scents, courtesy of a special collaboration between Capcom and Gaming Fragrances.",
-      "url": "https://www.ign.com/articles/official-street-fighter-6-fragrances-let-you-smell-just-like-juri-ed-and-ingrid",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T19:49:29+00:00"
-    },
-    {
-      "id": "5df0d68c6fcfa1be7fa963b6",
-      "title": "Marvel's Wolverine Trailer Features First Look at Lady Deathstrike",
-      "summary": "PlayStation and Insomniac Games have unleashed a new trailer for Marvel's Wolverine, revealing more about the PS5 game as Logan meets up with Sabretooth and Lady Deathstrike.",
-      "url": "https://www.ign.com/articles/marvels-wolverine-trailer-features-first-look-at-lady-deathstrike",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T19:47:50+00:00"
-    },
-    {
       "id": "172dca6d430b4d14aa09c2e8",
       "title": "Un agent chargé du prompteur de Donald Trump, suspecté d’avoir parié de l’argent sur ses discours, a été suspendu",
       "summary": "Il utilisait la plateforme de prédiction Kalshi, qui permet notamment aux internautes de parier sur la possibilité qu’une phrase ou un mot soient prononcés, et avait ainsi encaissé plus de 100 000 dollars.",
@@ -486,8 +486,8 @@
       "publishedAt": "2026-07-16T19:43:20+00:00"
     },
     {
-      "id": "7e13e331327493df34061f7c",
-      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "id": "03de985946aef1171b2c3078",
+      "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
       "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
       "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
