@@ -1,27 +1,115 @@
 {
-  "updatedAt": "2026-07-17T13:07:22.649783+00:00",
+  "updatedAt": "2026-07-17T15:06:28.561729+00:00",
   "items": [
+    {
+      "id": "56bb611d5385c663be255824",
+      "title": "At least two dead in Texas floods ravaging same area where campers died",
+      "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T14:56:26+00:00"
+    },
+    {
+      "id": "2bb4161ffb11d82ada4abaa8",
+      "title": "Iran accuses US of hitting civilian infrastructure",
+      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T14:32:07+00:00"
+    },
+    {
+      "id": "497c6428677a40c1115e5cec",
+      "title": "9 Features That Changed Everything in Football Games",
+      "summary": "From Pro Evo's through ball to FIFA's Ultimate Team, these are the 9 features that changed soccer games forever.",
+      "url": "https://www.ign.com/articles/9-features-that-changed-everything-in-football-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T14:30:00+00:00"
+    },
+    {
+      "id": "ba06721d30202107f474f976",
+      "title": "Bethesda Reveals Roadmap: The Elder Scrolls 6, Fallout 5, Obsidian's New Fallout Game, Several Remaster Projects, and More All Confirmed",
+      "summary": "Bethesda Game Studios has laid out its roadmap for the foreseeable future. It includes The Elder Scrolls 6, Fallout 5, a new Fallout game from Obsidian, multiple other Fallout projects, several remaster projects, and a live \"Fallout Day\" in Washington, D.C. in 2027.",
+      "url": "https://www.ign.com/articles/bethesda-reveals-roadmap-the-elder-scrolls-6-fallout-5-obsidians-new-fallout-game-several-remaster-projects-and-more-all-confirmed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T14:01:26+00:00"
+    },
+    {
+      "id": "a05d6ec41cb8b555a564105e",
+      "title": "Flux House Presents Expands on One of the Comics Industry's Most Exciting Imprints",
+      "summary": "Matt Kindt's Flux House imprint is one of the most exciting things happening in comics right now, and it's getting even bigger later in 2026.",
+      "url": "https://www.ign.com/articles/flux-house-presents-expands-on-one-of-the-comics-industrys-most-exciting-imprints",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T14:00:00+00:00"
+    },
+    {
+      "id": "516eb3c9d20ace0ee74206c7",
+      "title": "Brenda Fricker, the Oscar-Winning Irish Actress Who Played the Central Park Pigeon Lady in Home Alone 2, Has Died Aged 81",
+      "summary": "Brenda Fricker, the Irish actress who played the homeless bird lady who befriended by Macaulay Culkin's Kevin in Home Alone 2, has died aged 81.",
+      "url": "https://www.ign.com/articles/brenda-fricker-the-oscar-winning-irish-actress-who-played-the-central-park-pigeon-lady-in-home-alone-2-has-died-aged-81",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T13:46:32+00:00"
+    },
+    {
+      "id": "e409caa9e0113bf164f6f33a",
+      "title": "Uganda suspends school trips after 20 pupils die in bus crash",
+      "summary": "Thousands are killed on Uganda's roads each year but this is one of its deadliest accidents involving children.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T13:45:02+00:00"
+    },
+    {
+      "id": "122b48ad9b657d6b5504e2b6",
+      "title": "Polymarket : la France bloque l’accès sur son territoire au site de paris sur l’actualité",
+      "summary": "L’Autorité nationale des jeux considère que « ce site, aux audiences particulièrement élevées, fait la promotion d’une offre illégale de jeux d’argent et de hasard ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/17/polymarket-la-france-bloque-l-acces-sur-son-territoire-au-site-de-paris-sur-l-actualite_6724196_4408997.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-17T13:43:06+00:00"
+    },
+    {
+      "id": "290e93507d135b7466bc25d2",
+      "title": "Chris Carter's R-Rated Director's Cut of the Second The X-Files Movie Has a Release Date and a Surprising New Title",
+      "summary": "A new version of The X-Files’ second movie is coming to Hulu next month, and with it comes a new title.",
+      "url": "https://www.ign.com/articles/chris-carters-r-rated-directors-cut-of-the-second-the-x-files-movie-has-a-release-date-and-a-surprising-new-title",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T12:52:42+00:00"
+    },
     {
       "id": "84a6dc90d569c045caf47cf5",
       "title": "IA : Xi Jinping vante un contre-modèle chinois ouvert et accessible pour concurrencer les Etats-Unis",
-      "summary": "La Chine a organisé, vendredi 17 juillet, à Shanghaï, une conférence mondiale sur l’intelligence artificielle. Alors que certaines de ses entreprises talonnent les leaders américains du secteur, ce rattrapage s’inscrit au cœur des rivalités avec les Etats-Unis.",
+      "summary": "La Chine a organisé, vendredi 17 juillet, à Shanghaï, une conférence mondiale sur l’intelligence artificielle. Alors que certaines de ses entreprises talonnent les leaders américains du secteur, ce rattrapage s’inscrit au cœur des rivalités avec les Américains.",
       "url": "https://www.lemonde.fr/economie/article/2026/07/17/ia-xi-jinping-vante-un-contre-modele-chinois-ouvert-et-accessible-face-aux-etats-unis_6724192_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-17T12:30:09+00:00"
-    },
-    {
-      "id": "e409caa9e0113bf164f6f33a",
-      "title": "Uganda suspends school trips after 20 pupils die in bus crash",
-      "summary": "Thousands die on Uganda's roads each year but this is one of its deadliest incidents involving children.",
-      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T12:25:15+00:00"
     },
     {
       "id": "cfbaf151f332b87e54430f12",
@@ -77,17 +165,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-17T11:07:45+00:00"
-    },
-    {
-      "id": "2bb4161ffb11d82ada4abaa8",
-      "title": "Iran accuses US of hitting civilian infrastructure",
-      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T10:57:50+00:00"
     },
     {
       "id": "3167f5af9e027f9f3a9c7114",
@@ -387,50 +464,6 @@
       "publishedAt": "2026-07-16T22:59:56+00:00"
     },
     {
-      "id": "8de2720483c3da5010a26da0",
-      "title": "This Massive 75\" TCL 4K Google TV Drops to a Mere $398 With Free Shipping at Walmart",
-      "summary": "Bigger is better.",
-      "url": "https://www.ign.com/articles/tcl-s5-4k-google-tv-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T22:50:00+00:00"
-    },
-    {
-      "id": "c0956681871bf4254fe36336",
-      "title": "Get the Sabrent 8-Port 252W Charging Station for $60 and Never Worry About Running Out of USB Ports Again",
-      "summary": "Save 45% off with coupon code.",
-      "url": "https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T22:40:00+00:00"
-    },
-    {
-      "id": "6b39cc556b40892132fc080f",
-      "title": "GTA 6 Hacker Moved to Prison for Retrial Two Years After Indefinite Sentence to Secure Hospital",
-      "summary": "The hacker behind the massive GTA 6 leak in September 2022 has been released from indefinite imprisonment at a secure hospital and is now awaiting a retrial.",
-      "url": "https://www.ign.com/articles/gta-6-hacker-moved-to-prison-for-retrial-two-years-after-indefinite-sentence-to-secure-hospital",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T22:39:13+00:00"
-    },
-    {
-      "id": "e5028303ebd1b581d13ff0cb",
-      "title": "Robert Pattinson Thought Matt Damon Was a 'Complete Psycho' When He Heard Him 'Screaming' to Prepare for The Odyssey",
-      "summary": "Robert Pattinson has recalled a moment when he thought Matt Damon was \"a complete psycho\" before learning he was \"screaming and screaming and screaming\" to prepare for his role in The Odyssey.",
-      "url": "https://www.ign.com/articles/robert-pattinson-thought-matt-damon-was-a-complete-psycho-when-he-heard-him-screaming-to-prepare-for-the-odyssey",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T22:38:23+00:00"
-    },
-    {
       "id": "1e8a3390e16f4ba6f9af6d5e",
       "title": "One man's hunger strike changed India's map. Can it still change politics?",
       "summary": "Why hunger strikes still shape Indian politics, from Gandhi to Sonam Wangchuk.",
@@ -440,28 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T22:21:03+00:00"
-    },
-    {
-      "id": "bc425bbdac4945ce07ae3af4",
-      "title": "Save $400 Off the Top-of-the-Line 32\" ASUS ROG Swift 4K 240Hz QD-OLED Gaming Monitor",
-      "summary": "Includes a 3 year warranty with OLED burn-in coverage.",
-      "url": "https://www.ign.com/articles/asus-rog-swift-oled-gaming-monitor-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T22:10:00+00:00"
-    },
-    {
-      "id": "f7870f05312dd3c54379ae69",
-      "title": "At least one dead in Texas floods ravaging same area where campers died",
-      "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T22:08:13+00:00"
     },
     {
       "id": "8a16a1460d37404d64694bd0",
@@ -891,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-15T11:24:29+00:00"
-    },
-    {
-      "id": "da9de2b3316a1212475baeb6",
-      "title": "Les risques des « résumés par IA » de Google pour les adolescents énumérés par une étude",
-      "summary": "L’ONG Common Sense Media estime que ces synthèses accessibles directement depuis le moteur de recherche, qui doivent être déployées durant l’été en France, ne protègent pas suffisamment les jeunes utilisateurs.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/une-etude-revele-les-risques-des-resumes-par-ia-de-google-pour-les-adolescents_6723529_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-15T09:00:04+00:00"
     },
     {
       "id": "fa4243fe050db6bcf6ed320d",
