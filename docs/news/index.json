@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-17T09:48:14.663590+00:00",
+  "updatedAt": "2026-07-17T11:15:19.072562+00:00",
   "items": [
     {
-      "id": "4261a63d345e91e1662dfa9b",
-      "title": "US launches new strikes as Iran says civilian infrastructure hit",
-      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "id": "e2517ea47cc8bed64a09cb2e",
+      "title": "China hits out at British Steel nationalisation",
+      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-17T09:27:39+00:00"
+      "publishedAt": "2026-07-17T11:07:45+00:00"
     },
     {
       "id": "5e2372378e1af51347db7f52",
@@ -21,7 +21,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-17T09:12:06+00:00"
+      "publishedAt": "2026-07-17T11:06:39+00:00"
+    },
+    {
+      "id": "4261a63d345e91e1662dfa9b",
+      "title": "US launches new strikes as Iran says civilian infrastructure hit",
+      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T10:57:50+00:00"
+    },
+    {
+      "id": "3167f5af9e027f9f3a9c7114",
+      "title": "Bodycam footage shows airlift of girl stranded by Texas floods",
+      "summary": "Footage shows a rescuer reaching a family of three stranded by floods that destroyed their house in Uvalde county.",
+      "url": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T10:51:40+00:00"
+    },
+    {
+      "id": "1329efe1dc97d6ecf6b184ba",
+      "title": "GTA 6 Predicted to Make Up to $5.2 Billion in Sales by End of Launch Week After Securing an Estimated $260 Million via Preorders",
+      "summary": "Grand Theft Auto 6 is predicted to generate sales of up to $5.2 billion by the end of launch week after enjoying the strongest preorder campaign one analyst has ever seen.",
+      "url": "https://www.ign.com/articles/gta-6-predicted-to-make-up-to-52-billion-in-sales-by-end-of-launch-week-after-securing-an-estimated-260-million-via-preorders",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T10:06:55+00:00"
+    },
+    {
+      "id": "ee1b71fe007ab84354e0a791",
+      "title": "School bus crash kills at least 20 pupils in Uganda",
+      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T10:04:27+00:00"
     },
     {
       "id": "94c170a219ffb9586bc27a29",
@@ -33,17 +77,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-17T09:01:34+00:00"
-    },
-    {
-      "id": "e2517ea47cc8bed64a09cb2e",
-      "title": "China hits out at British Steel nationalisation",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T08:25:55+00:00"
     },
     {
       "id": "236705277d565f33c9b4c218",
@@ -90,17 +123,6 @@
       "publishedAt": "2026-07-17T07:00:00+00:00"
     },
     {
-      "id": "ee1b71fe007ab84354e0a791",
-      "title": "School bus crash kills at least 20 pupils in Uganda",
-      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
-      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T05:36:22+00:00"
-    },
-    {
       "id": "ce647ea73df4c3e6b05709f4",
       "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
       "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
@@ -125,13 +147,13 @@
     {
       "id": "26d75244dc10fe4b3b45acbc",
       "title": "Xi Jinping appelle à une coopération mondiale sur l’IA, avec une approche « centrée sur l’humain »",
-      "summary": "« Le développement de l’IA ne doit pas être le fait d’un seul pays, mais une symphonie de coopération internationale », a lancé Xi Jinping à l’ouverture de la Conférence mondiale sur l’IA (WAIC) à Shanghaï.",
+      "summary": "« Le développement de l’IA ne doit pas être le fait d’un seul pays, mais une symphonie internationale », a lancé Xi Jinping à l’ouverture de la Conférence mondiale sur l’IA (WAIC), à Shanghaï.",
       "url": "https://www.lemonde.fr/pixels/article/2026/07/17/xi-jinping-appelle-a-une-cooperation-mondiale-sur-l-ia-avec-une-approche-centree-sur-l-humain_6724134_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-17T04:40:00+00:00"
+      "publishedAt": "2026-07-17T04:39:58+00:00"
     },
     {
       "id": "9bdacabd7c0d22c70fe27903",
@@ -187,6 +209,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-17T03:07:11+00:00"
+    },
+    {
+      "id": "0ea85c37c682102b5ab2c947",
+      "title": "Evomon Codes (July 2026)",
+      "summary": "Use these working Evomon codes to earn free rewards including coins and EXP fruits.",
+      "url": "https://www.ign.com/articles/evomon-codes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T03:00:43+00:00"
     },
     {
       "id": "7411ccfda8d168f6b366722f",
@@ -431,17 +464,6 @@
       "publishedAt": "2026-07-16T21:10:59+00:00"
     },
     {
-      "id": "108e63dacb796ec839ea2123",
-      "title": "The 8BitDo Ultimate 2C Is One of the Best PC Gaming Controllers Under $50, and It's Less Than Half That Price",
-      "summary": "Compatible with Windows PC, Android, and Steam Deck.",
-      "url": "https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T21:00:00+00:00"
-    },
-    {
       "id": "c2916663a5587e649d238954",
       "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
       "summary": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
@@ -462,17 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T20:24:54+00:00"
-    },
-    {
-      "id": "21e22da28abfb97a54bb8d3f",
-      "title": "GameStop CEO Ryan Cohen Insists Sony Killing Physical Discs 'Doesn't Matter at All' Because Video Game Sales Make Up So Little of His Business",
-      "summary": "GameStop CEO Ryan Cohen has sparked a fiery debate in the gaming community after remarking that sales of physical games are “totally irrelevant\" to his business.",
-      "url": "https://www.ign.com/articles/gamestop-ceo-ryan-cohen-insists-sony-killing-physical-discs-doesnt-matter-at-all-because-video-game-sales-make-up-so-little-of-his-business",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T20:20:31+00:00"
     },
     {
       "id": "172dca6d430b4d14aa09c2e8",
@@ -717,10 +728,10 @@
       "publishedAt": "2026-07-16T10:03:33+00:00"
     },
     {
-      "id": "83aef3cbd3a67c838240e87d",
-      "title": "Les révélations d’un lanceur d’alerte sur l’arsenal sécuritaire du Maroc, des logiciels espions aux caméras dans les climatisations",
-      "summary": "Mouchards installés avec une clé USB, téléphones vendus avec des logiciels espions, écoutes et caméras cachées… En plus du logiciel Pegasus, le royaume chérifien a constitué un puissant arsenal répressif, déployé contre des journalistes ou des cibles politiques.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html",
+      "id": "57cbb6a71124af22040a2901",
+      "title": "De nouvelles preuves démontrent que le Maroc a bien utilisé le logiciel espion Pegasus",
+      "summary": "Le royaume chérifien continue de nier avoir été utilisateur du puissant logiciel de l’entreprise NSO Group, malgré les révélations du « Monde » et de ses partenaires en 2021. De nouveaux éléments et témoignages le confirment à nouveau.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
@@ -739,10 +750,10 @@
       "publishedAt": "2026-07-16T04:30:02+00:00"
     },
     {
-      "id": "57cbb6a71124af22040a2901",
-      "title": "De nouvelles preuves démontrent que le Maroc a bien utilisé le logiciel espion Pegasus",
-      "summary": "Le royaume chérifien continue de nier avoir été utilisateur du puissant logiciel de l’entreprise NSO Group, malgré les révélations du « Monde » et de ses partenaires en 2021. De nouveaux éléments et témoignages le confirment à nouveau.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html",
+      "id": "83aef3cbd3a67c838240e87d",
+      "title": "Les révélations d’un lanceur d’alerte sur l’arsenal sécuritaire du Maroc, des logiciels espions aux caméras dans les climatisations",
+      "summary": "Mouchards installés avec une clé USB, téléphones vendus avec des logiciels espions, écoutes et caméras cachées… En plus du logiciel Pegasus, le royaume chérifien a constitué un puissant arsenal répressif, déployé contre des journalistes ou des cibles politiques.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
@@ -825,17 +836,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-15T18:00:06+00:00"
-    },
-    {
-      "id": "2a913afdc8e4a3ed497ca724",
-      "title": "Dramatic video shows wildfire surround freight train in Canada",
-      "summary": "CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario.",
-      "url": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-15T15:11:00+00:00"
     },
     {
       "id": "6c55f798ce260b2fbb8c0155",
