@@ -1,16 +1,71 @@
 {
-  "updatedAt": "2026-07-17T04:55:48.060690+00:00",
+  "updatedAt": "2026-07-17T07:11:59.796691+00:00",
   "items": [
     {
-      "id": "da5934ee4b7af9ddc5f16d72",
-      "title": "US launches fresh wave of strikes as Iran says civilian infrastructure hit",
-      "summary": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+      "id": "a6bdaf6f88d5e86830989a7c",
+      "title": "Trump Media to sell early access to key social posts",
+      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-17T07:05:08+00:00"
+    },
+    {
+      "id": "4261a63d345e91e1662dfa9b",
+      "title": "US launches new strikes as Iran says civilian infrastructure hit",
+      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-17T04:42:39+00:00"
+      "publishedAt": "2026-07-17T07:00:31+00:00"
+    },
+    {
+      "id": "ee1b71fe007ab84354e0a791",
+      "title": "School bus crash kills at least 20 pupils in Uganda",
+      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T05:36:22+00:00"
+    },
+    {
+      "id": "e2517ea47cc8bed64a09cb2e",
+      "title": "China hits out at British Steel nationalisation",
+      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T05:35:00+00:00"
+    },
+    {
+      "id": "ce647ea73df4c3e6b05709f4",
+      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T05:16:34+00:00"
+    },
+    {
+      "id": "6bd123a138a5ad841ff4269b",
+      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+      "summary": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month.",
+      "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T05:09:14+00:00"
     },
     {
       "id": "26d75244dc10fe4b3b45acbc",
@@ -24,15 +79,26 @@
       "publishedAt": "2026-07-17T04:40:00+00:00"
     },
     {
-      "id": "d17ce6a65f662c6d3001b325",
-      "title": "Kratos to Be Recast After Ryan Hurst Tears Bicep Filming Stunt for God of War Show",
+      "id": "9bdacabd7c0d22c70fe27903",
+      "title": "God of War Show to Recast Kratos After Ryan Hurst Tears Bicep While Filming Stunt",
       "summary": "Kratos suffered a big injury while filming for Amazon MGM and Sony Pictures’ God of War show, with TMZ reporting that star Ryan Hurst tore his bicep, putting production on hold. Now, studios have been forced to recast the character.",
-      "url": "https://www.ign.com/articles/kratos-to-be-recast-after-ryan-hurst-tears-bicep-filming-stunt-for-god-of-war-show",
+      "url": "https://www.ign.com/articles/god-of-war-show-to-recast-kratos-after-ryan-hurst-tears-bicep-while-filming-stunt",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-17T04:12:07+00:00"
+    },
+    {
+      "id": "ee0c76c29663352b97c5f8ec",
+      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+      "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T04:08:27+00:00"
     },
     {
       "id": "9e9a07420b7fe8b6059fb88d",
@@ -57,6 +123,17 @@
       "publishedAt": "2026-07-17T03:45:06+00:00"
     },
     {
+      "id": "52b5c7cb32ade5da985cafd9",
+      "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
+      "summary": "Lettuce from one supplier is being removed indefinitely \"out of an abundance of caution\", the company says.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T03:09:55+00:00"
+    },
+    {
       "id": "c00f71a7b97a241c1dfb2c3f",
       "title": "More than 500 Rohingya vanished at sea - what happened?",
       "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
@@ -79,6 +156,17 @@
       "publishedAt": "2026-07-17T02:56:45+00:00"
     },
     {
+      "id": "a47917e1f5e0fcc28c4fbc2b",
+      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T02:37:45+00:00"
+    },
+    {
       "id": "e59fce78eeb9fd74dcd04b32",
       "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
       "summary": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
@@ -88,17 +176,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-17T02:15:23+00:00"
-    },
-    {
-      "id": "a6bdaf6f88d5e86830989a7c",
-      "title": "Trump Media to sell early access to key social posts",
-      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-17T01:27:36+00:00"
     },
     {
       "id": "04fd22feaf2ec2cb03106111",
@@ -125,7 +202,7 @@
     {
       "id": "1bc39275a9c9fd0b76b7a6cb",
       "title": "Truth Social lance un accès prioritaire et payant aux publications de Donald Trump",
-      "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers qui dépendent de marges de quelques secondes pour prendre leurs décisions.",
+      "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers, qui dépendent de marges de quelques secondes pour prendre leurs décisions.",
       "url": "https://www.lemonde.fr/international/article/2026/07/17/truth-social-lance-un-acces-prioritaire-et-payant-aux-publications-de-donald-trump_6723917_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -244,8 +321,8 @@
       "publishedAt": "2026-07-16T22:08:13+00:00"
     },
     {
-      "id": "89deb677699ec7f7e113d4be",
-      "title": "I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno",
+      "id": "8a16a1460d37404d64694bd0",
+      "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
       "summary": "Athipat Wichan tells BBC Thai he regrets bringing his girlfriend Nahathai into his indie band Thotsakan.",
       "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -255,9 +332,9 @@
       "publishedAt": "2026-07-16T22:01:32+00:00"
     },
     {
-      "id": "47ce1e14e09a744e66b5ee89",
-      "title": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
-      "summary": "Previously little-known in Europe, the Midea PortaSplit has become a household name this summer.",
+      "id": "a9efc3d0ef015c11e11f83ef",
+      "title": "As heatwaves strike, Europeans turn to Chinese air-conditioners",
+      "summary": "Chinese brands are meeting surging air-conditioner demand in Europe, a region with typically low ownership rates.",
       "url": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -319,6 +396,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-16T21:00:00+00:00"
+    },
+    {
+      "id": "c2916663a5587e649d238954",
+      "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
+      "summary": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T20:42:30+00:00"
     },
     {
       "id": "1fe0511a08ad28cbf58568d7",
@@ -420,17 +508,6 @@
       "publishedAt": "2026-07-16T18:52:01+00:00"
     },
     {
-      "id": "862ad0bea4624fa8e028dcb1",
-      "title": "Fifa 'assessing match reports' over Falklands banner",
-      "summary": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T18:44:43+00:00"
-    },
-    {
       "id": "deb9b3c654d46c875ef9cd09",
       "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
       "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
@@ -495,6 +572,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T16:08:28+00:00"
+    },
+    {
+      "id": "1cb05629ab19993f19218de8",
+      "title": "Watch: What we know about newly discovered monkey species",
+      "summary": "New monkey species hailed as 'amazing discovery' by conservationist.",
+      "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T14:50:05+00:00"
     },
     {
       "id": "35f7ef7d3efbba4b7f9f8f22",
@@ -660,17 +748,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-16T04:30:02+00:00"
-    },
-    {
-      "id": "1f16f98c5e4028c152abb818",
-      "title": "Actor Sam Neill died from pneumonia, agent confirms",
-      "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
-      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T04:28:22+00:00"
     },
     {
       "id": "fe0b0f383b8b2f5c181839e4",
