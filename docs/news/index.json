@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-07-16T23:51:15.444643+00:00",
+  "updatedAt": "2026-07-17T01:52:14.577143+00:00",
   "items": [
+    {
+      "id": "a6bdaf6f88d5e86830989a7c",
+      "title": "Trump Media to sell early access to key social posts",
+      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-17T01:27:36+00:00"
+    },
+    {
+      "id": "ce7ce38a866a3e24edc8aa83",
+      "title": "God of War Show Filming Paused After Kratos Actor Ryan Hurst Tears Bicep Filming Stunt",
+      "summary": "Kratos suffered a big injury while filming for Amazon MGM and Sony Pictures’ God of War show, with TMZ reporting that star Ryan Hurst tore his bicep, putting production on hold.",
+      "url": "https://www.ign.com/articles/god-of-war-show-filming-paused-after-kratos-actor-ryan-hurst-tears-bicep-filming-stunt",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T00:47:07+00:00"
+    },
+    {
+      "id": "04fd22feaf2ec2cb03106111",
+      "title": "Game of Thrones: War for Westeros Release Date Delayed to Early 2027",
+      "summary": "PlaySide Studios has pushed back the release window for Game of Thrones: War for Westeros, a real-time strategy game set in the universe of the HBO series adaptation.",
+      "url": "https://www.ign.com/articles/game-of-thrones-war-for-westeros-release-date-delayed-to-early-2027",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-17T00:07:19+00:00"
+    },
+    {
+      "id": "46b743aab5bc2341eda47fb1",
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "summary": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-16T23:57:26+00:00"
+    },
+    {
+      "id": "e9fd53a419113efc1efcbb22",
+      "title": "Assassin's Creed Black Flag Resynced Director Reveals Why Ubisoft Ditched Edward's Hidden Blade Combat",
+      "summary": "Richard Knight, director of Assassin’s Creed Black Flag Resynced, explained why Edward Kenway is missing some of his most beloved fighting moves — and why fans shouldn’t lose hope that they’ll never come back.",
+      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-director-reveals-why-ubisoft-ditched-edwards-hidden-blade-combat",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-16T23:52:40+00:00"
+    },
+    {
+      "id": "1bc39275a9c9fd0b76b7a6cb",
+      "title": "Truth Social lance un accès prioritaire et payant aux publications de Donald Trump",
+      "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers qui dépendent de marges de quelques secondes pour prendre leurs décisions.",
+      "url": "https://www.lemonde.fr/international/article/2026/07/17/truth-social-lance-un-acces-prioritaire-et-payant-aux-publications-de-donald-trump_6723917_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-16T23:51:12+00:00"
+    },
     {
       "id": "253deba870515c3c43d53e17",
       "title": "Google Pixel 11 Specs Leak Ahead of Next Month’s Unveiling",
@@ -44,17 +110,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-16T22:50:00+00:00"
-    },
-    {
-      "id": "a6bdaf6f88d5e86830989a7c",
-      "title": "Trump Media to sell early access to key social posts",
-      "summary": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-16T22:42:37+00:00"
     },
     {
       "id": "c0956681871bf4254fe36336",
@@ -143,17 +198,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T22:01:29+00:00"
-    },
-    {
-      "id": "46b743aab5bc2341eda47fb1",
-      "title": "Blasts reported in Iran as US launches new wave of strikes",
-      "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T21:44:37+00:00"
     },
     {
       "id": "acc4eb17e925c2c329aff647",
@@ -299,28 +343,6 @@
       "publishedAt": "2026-07-16T19:43:20+00:00"
     },
     {
-      "id": "916f38d4c185f035a92bd891",
-      "title": "We Build LEGO The Lord of the Rings: Minas Tirith",
-      "summary": "We take you through the building process of the biggest LEGO Lord of the Rings set yet.",
-      "url": "https://www.ign.com/articles/we-build-lego-the-lord-of-the-rings-minas-tirith-11377",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T19:29:07+00:00"
-    },
-    {
-      "id": "32bac05cbb1cc82e35fbf2b4",
-      "title": "God of War Laufey Star Deborah Ann Woll 'Totally Unbothered' by Online Hate Surrounding the Game",
-      "summary": "God of War Laufey star Deborah Ann Woll says she's \"totally unbothered\" by the online hate surrounding her new PS5 exclusive because she knows \"it's great.\"",
-      "url": "https://www.ign.com/articles/god-of-war-laufey-star-deborah-ann-woll-totally-unbothered-by-online-hate-surrounding-the-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T18:59:48+00:00"
-    },
-    {
       "id": "7e13e331327493df34061f7c",
       "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
       "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
@@ -352,17 +374,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T18:44:43+00:00"
-    },
-    {
-      "id": "92c591684e6765a486137fb7",
-      "title": "OnePlus Is Exiting the U.S. Market",
-      "summary": "OnePlus has announced its departure from the U.S. and European mobile phone markets, though the company confirms it will continue to support existing devices with software updates and warranties.",
-      "url": "https://www.ign.com/articles/oneplus-is-exiting-the-us-market",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-16T18:43:33+00:00"
     },
     {
       "id": "deb9b3c654d46c875ef9cd09",
@@ -794,10 +805,10 @@
       "publishedAt": "2026-07-14T23:04:09+00:00"
     },
     {
-      "id": "fa4243fe050db6bcf6ed320d",
+      "id": "5b50029ad6111a42eda4e43a",
       "title": "Tech Life",
       "summary": "Surgeons remotely control two human-like robots in an operating theatre.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -825,17 +836,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-14T04:00:02+00:00"
-    },
-    {
-      "id": "e151ea8cae66bc3f860128e6",
-      "title": "La rancœur du peintre de La Chouette d’or, Michel Becker : « J’ai fait pas mal de conneries dans ma vie, enfin celle-là est la plus chère dans le genre »",
-      "summary": "« Les derniers mystères de La Chouette d’or » (3/6). L’artiste, qui a pris les rênes de la chasse au trésor en 2021, se montre particulièrement hostile envers l’auteur des énigmes, Régis Hauser, alias Max Valentin. Son ressentiment, qui remonte aux premières années du jeu, explose au grand jour à l’occasion du premier scandale que connaît La Chouet",
-      "url": "https://www.lemonde.fr/series-d-ete/visuel/2026/07/14/la-ranc-ur-du-peintre-de-la-chouette-d-or-michel-becker-j-ai-fait-pas-mal-de-conneries-dans-ma-vie-enfin-celle-la-est-la-plus-chere-dans-le-genre_6723246_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-14T03:00:20+00:00"
     },
     {
       "id": "eb98d48758c65b76e4132192",
