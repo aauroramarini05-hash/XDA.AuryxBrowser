@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T16:44:46.148912+00:00",
+  "updatedAt": "2026-07-18T17:47:41.760735+00:00",
   "items": [
     {
       "id": "d631e4db3c45e0973ea3fe51",
@@ -10,7 +10,40 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-18T16:26:05+00:00"
+      "publishedAt": "2026-07-18T17:44:56+00:00"
+    },
+    {
+      "id": "d526be722450d7fc3dcfbc51",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-18T17:29:50+00:00"
+    },
+    {
+      "id": "c16b0455d774083b4fb1760b",
+      "title": "Christopher Nolan's Long and Winding Road to The Odyssey",
+      "summary": "Christopher Nolan’s many odysseys: How the filmmaker’s latest epic draws on his nearly three-decade career.",
+      "url": "https://www.ign.com/articles/christopher-nolans-long-and-winding-road-to-the-odyssey",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-18T17:00:00+00:00"
+    },
+    {
+      "id": "67a26f1b6b36b9fc046bb2d7",
+      "title": "Disco Elysium Dev ZA/UM Announces Layoffs Affecting Up to 32 Staff",
+      "summary": "Disco Elysium developer ZA/UM has announced layoffs affecting up to 32 staff just two months after launching Zero Parades: For Dead Spies.",
+      "url": "https://www.ign.com/articles/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-18T16:52:24+00:00"
     },
     {
       "id": "9655365e55517f3049cbc559",
@@ -154,17 +187,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-18T01:35:33+00:00"
-    },
-    {
-      "id": "d526be722450d7fc3dcfbc51",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-18T01:29:47+00:00"
     },
     {
       "id": "b5950398d0a0b3dc335dfa8a",
@@ -387,17 +409,6 @@
       "publishedAt": "2026-07-17T20:30:00+00:00"
     },
     {
-      "id": "4df371d65c0bb15e2171305d",
-      "title": "Sydney Sweeney to Star in New Sleepy Hollow Movie Snapped Up By Sony",
-      "summary": "Sydney Sweeney is set to star in a new Sleepy Hollow movie helmed by Sony in a reimagining of the classic tale based on Lindsey Anderson Beer’s novel 'Hollow.'",
-      "url": "https://www.ign.com/articles/sydney-sweeney-to-star-in-new-sleepy-hollow-movie-snapped-up-by-sony",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-17T20:08:28+00:00"
-    },
-    {
       "id": "4d32836f85cdeebe60b92f5c",
       "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
       "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
@@ -407,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-17T20:00:54+00:00"
-    },
-    {
-      "id": "be888be874f2f8a084e15282",
-      "title": "This TSA-Compliant Daran 28,000mAh 100W LiFePO4 Power Station Drops to Just $48.57",
-      "summary": "The smallest power station, weighing in at under 3 pounds.",
-      "url": "https://www.ign.com/articles/daran-28000mah-100w-lifepo4-power-station-deal-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-17T19:35:00+00:00"
     },
     {
       "id": "77310d053c752b641b0506ec",
