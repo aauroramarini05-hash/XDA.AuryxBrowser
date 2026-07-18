@@ -1,27 +1,38 @@
 {
-  "updatedAt": "2026-07-18T04:40:15.565121+00:00",
+  "updatedAt": "2026-07-18T06:54:07.523068+00:00",
   "items": [
-    {
-      "id": "c70c08999e7d84d7058126f0",
-      "title": "Jennifer English Steps Away From Tides of Annihilation Role Due to Health Concerns",
-      "summary": "English actress Jennifer English is stepping away from her role as the protagonist in Eclipse Glow Games’ Tides of Annihilation due to health issues.",
-      "url": "https://www.ign.com/articles/jennifer-english-steps-away-from-tides-of-annihilation-role-due-to-health-concerns",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-18T04:19:37+00:00"
-    },
     {
       "id": "f342ae579be478dc5a48cbc5",
       "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-      "summary": "Sonam Wangchuk had urged people to join a protest march to parliament on 20 July.",
+      "summary": "Cockroach Janta Party founder Abhijeet Dipke has now begun an indefinite fast in Sonam Wangchuk's place.",
       "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-18T03:54:51+00:00"
+      "publishedAt": "2026-07-18T05:58:48+00:00"
+    },
+    {
+      "id": "16de559f7a8563c03be2575c",
+      "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+      "summary": "\"Anya\" gives the BBC a rare account of how sex-criminal financier Epstein lured and abused his “assistants”.",
+      "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-18T05:10:44+00:00"
+    },
+    {
+      "id": "fd7e3fdd83537479b99bbd96",
+      "title": "L’IA, alliée ou ennemie de l’information ?",
+      "summary": "« Festival international de journalisme » (1/7). L’intelligence artificielle générative fait aujourd’hui pleinement partie de notre quotidien. Mais dans les médias et pour le public, elle crée la confusion entre réalité et fake news.",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/07/18/l-ia-alliee-ou-ennemie-de-l-information_6724362_5463015.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-18T05:00:04+00:00"
     },
     {
       "id": "d631e4db3c45e0973ea3fe51",
@@ -32,7 +43,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-18T03:02:01+00:00"
+      "publishedAt": "2026-07-18T04:40:11+00:00"
+    },
+    {
+      "id": "c70c08999e7d84d7058126f0",
+      "title": "Jennifer English Steps Away From Tides of Annihilation Role Due to Health Concerns",
+      "summary": "English actress Jennifer English is stepping away from her role as the protagonist in Eclipse Glow Games’ Tides of Annihilation due to health issues.",
+      "url": "https://www.ign.com/articles/jennifer-english-steps-away-from-tides-of-annihilation-role-due-to-health-concerns",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-18T04:19:37+00:00"
     },
     {
       "id": "96f92bcc3e0750be329a9325",
@@ -79,6 +101,17 @@
       "publishedAt": "2026-07-18T01:00:00+00:00"
     },
     {
+      "id": "1b29c59343961d828a34272a",
+      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "summary": "India's first space-tech unicorn Skyroot Aerospace is set to launch Vikram-1 on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-18T00:39:18+00:00"
+    },
+    {
       "id": "9a336034499f8b72d7a185c4",
       "title": "Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess and the Frog Tiana Spinoff Movie",
       "summary": "Colman Domingo is in talks to co-write a live-action movie focused on Princess and the Frog protagonist Tiana Rogers alongside playwright and director Robert O’Hara.",
@@ -121,17 +154,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-17T23:56:08+00:00"
-    },
-    {
-      "id": "0d2bd5b7bab7375ba145137c",
-      "title": "What to know about the Canadian and US wildfires and their impact",
-      "summary": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T23:50:29+00:00"
     },
     {
       "id": "f2b4adb5d225e33eee0db374",
@@ -400,7 +422,7 @@
     {
       "id": "1da1e41b2d1a2cdafdd63a26",
       "title": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton",
-      "summary": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué vendredi 17 juillet par le ministre des affaires étrangères.",
+      "summary": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué, vendredi 17 juillet, par le ministre des affaires étrangères.",
       "url": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -462,6 +484,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-17T15:16:33+00:00"
+    },
+    {
+      "id": "56bb611d5385c663be255824",
+      "title": "At least two dead in Texas floods ravaging same area where campers died",
+      "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-17T14:56:26+00:00"
     },
     {
       "id": "e409caa9e0113bf164f6f33a",
@@ -596,17 +629,6 @@
       "publishedAt": "2026-07-17T03:45:06+00:00"
     },
     {
-      "id": "c00f71a7b97a241c1dfb2c3f",
-      "title": "More than 500 Rohingya vanished at sea - what happened?",
-      "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
-      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T03:07:11+00:00"
-    },
-    {
       "id": "7411ccfda8d168f6b366722f",
       "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
       "summary": "Media reports say Laos will press charges of up to one year in jail against those allegedly responsible.",
@@ -629,17 +651,6 @@
       "publishedAt": "2026-07-17T02:37:45+00:00"
     },
     {
-      "id": "e59fce78eeb9fd74dcd04b32",
-      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
-      "summary": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T02:15:23+00:00"
-    },
-    {
       "id": "1bc39275a9c9fd0b76b7a6cb",
       "title": "Truth Social lance un accès prioritaire et payant aux publications de Donald Trump",
       "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers, qui dépendent de marges de quelques secondes pour prendre leurs décisions.",
@@ -649,39 +660,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-16T23:51:12+00:00"
-    },
-    {
-      "id": "d1a9e9e78db47db6ee2ed972",
-      "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
-      "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
-      "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T21:22:09+00:00"
-    },
-    {
-      "id": "c2916663a5587e649d238954",
-      "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
-      "summary": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T20:42:30+00:00"
-    },
-    {
-      "id": "1fe0511a08ad28cbf58568d7",
-      "title": "Kris Jenner's mother Mary Jo dies aged 91",
-      "summary": "Mary Jo 'MJ' Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
-      "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T20:24:54+00:00"
     },
     {
       "id": "172dca6d430b4d14aa09c2e8",
@@ -695,17 +673,6 @@
       "publishedAt": "2026-07-16T19:43:20+00:00"
     },
     {
-      "id": "03de985946aef1171b2c3078",
-      "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
-      "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T18:52:35+00:00"
-    },
-    {
       "id": "bac04a357eb09264c5663ce5",
       "title": "Watch: What to know as Genoa bridge disaster trial ends",
       "summary": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
@@ -715,28 +682,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-16T18:52:01+00:00"
-    },
-    {
-      "id": "deb9b3c654d46c875ef9cd09",
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T17:22:31+00:00"
-    },
-    {
-      "id": "527ef857d464130618381cd1",
-      "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-      "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T16:36:21+00:00"
     },
     {
       "id": "1cb05629ab19993f19218de8",
@@ -770,17 +715,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-16T13:34:04+00:00"
-    },
-    {
-      "id": "0b4286d881053f8e06e7903d",
-      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-      "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T13:08:28+00:00"
     },
     {
       "id": "18695d832b6a9e5747b9315f",
@@ -913,17 +847,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-15T18:07:05+00:00"
-    },
-    {
-      "id": "83fa11321cbaf6eddd5eac49",
-      "title": "« Je n’ai plus qu’à lui dire adieu » : la Chine veut juguler les IA simulant les relations humaines",
-      "summary": "Les internautes chinois ont massivement adopté les agents IA pour des relations amicales ou amoureuses. Une tendance contre laquelle Pékin tente désormais de lutter en imposant, mercredi, de nouvelles restrictions.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/je-n-ai-plus-qu-a-lui-dire-adieu-la-chine-veut-juguler-les-ia-simulant-les-relations-humaines_6723604_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-15T18:00:06+00:00"
     },
     {
       "id": "ede8a9c4141890420810e97d",
