@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T17:50:31.828669+00:00",
+  "updatedAt": "2026-07-19T18:52:29.519051+00:00",
   "items": [
     {
       "id": "049dcf1735d4a47d92b4be8f",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-19T17:43:20+00:00"
+      "publishedAt": "2026-07-19T18:25:40+00:00"
+    },
+    {
+      "id": "4d93253e3c5e5bc7afa15e3e",
+      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-19T18:18:05+00:00"
     },
     {
       "id": "b2f93aef4457e04713ed9789",
@@ -44,17 +55,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-19T16:38:04+00:00"
-    },
-    {
-      "id": "4d93253e3c5e5bc7afa15e3e",
-      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-19T16:35:02+00:00"
     },
     {
       "id": "9b9ec1e90ba42bfac85eee37",
