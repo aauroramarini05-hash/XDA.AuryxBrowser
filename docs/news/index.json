@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-07-19T08:01:29.150583+00:00",
+  "updatedAt": "2026-07-19T10:19:04.059611+00:00",
   "items": [
+    {
+      "id": "67231215d651ada90ca68368",
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-19T09:59:41+00:00"
+    },
+    {
+      "id": "81a57add256de3b61d56aef7",
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-19T09:54:50+00:00"
+    },
+    {
+      "id": "4c81dd0ba88df30cc4ac43c3",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-19T09:37:32+00:00"
+    },
     {
       "id": "64212286853fb698f8788f52",
       "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
@@ -24,8 +57,8 @@
       "publishedAt": "2026-07-19T05:10:57+00:00"
     },
     {
-      "id": "a4305604ab6ed0044b471cc3",
-      "title": "L’influenceur masculiniste Andrew Tate et son frère arrêtés aux Etats-Unis, à la demande du Royaume-Uni qui réclame leur extradition",
+      "id": "7fe499c0a9783c34bce36159",
+      "title": "L’influenceur masculiniste Andrew Tate et son frère arrêtés aux Etats-Unis, à la demande du Royaume-Uni, qui réclame leur extradition",
       "summary": "Les deux frères sont recherchés au Royaume-Uni pour « viols, complicité d’exploitation sexuelle et infractions liées à des images indécentes d’un enfant », a fait savoir le parquet britannique, dans un communiqué.",
       "url": "https://www.lemonde.fr/international/article/2026/07/19/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_6725297_3210.html",
       "imageUrl": null,
@@ -33,17 +66,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-19T02:41:57+00:00"
-    },
-    {
-      "id": "115eecf449810b79f79b0fb8",
-      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-19T02:17:07+00:00"
     },
     {
       "id": "7300668cbabbd865d8ee2b08",
@@ -187,17 +209,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-18T15:23:31+00:00"
-    },
-    {
-      "id": "8c6acb1c6bf567b84dad919c",
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-18T13:06:25+00:00"
     },
     {
       "id": "0652c56fe837dda91e19772b",
@@ -508,39 +519,6 @@
       "publishedAt": "2026-07-17T20:00:54+00:00"
     },
     {
-      "id": "77310d053c752b641b0506ec",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T19:04:09+00:00"
-    },
-    {
-      "id": "0fa11ae8ad2f9dcce2053a41",
-      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T18:34:04+00:00"
-    },
-    {
-      "id": "a7012f37fe03964d4e0124e9",
-      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "summary": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T18:12:54+00:00"
-    },
-    {
       "id": "1da1e41b2d1a2cdafdd63a26",
       "title": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton",
       "summary": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué, vendredi 17 juillet, par le ministre des affaires étrangères.",
@@ -605,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-17T12:00:00+00:00"
-    },
-    {
-      "id": "5e2372378e1af51347db7f52",
-      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T11:37:00+00:00"
     },
     {
       "id": "3167f5af9e027f9f3a9c7114",
