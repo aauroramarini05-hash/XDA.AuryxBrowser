@@ -1,16 +1,49 @@
 {
-  "updatedAt": "2026-07-19T01:50:35.672992+00:00",
+  "updatedAt": "2026-07-19T05:13:22.494595+00:00",
   "items": [
     {
-      "id": "1c8b8f539c27f0b1c6691e0d",
-      "title": "Tate brothers arrested in US after more charges laid against them in UK",
-      "summary": "The Crown Prosecution Service said it would seek to extradite the brothers from the US, while their lawyer dismissed the new charges as \"slander\".",
+      "id": "3de37d788777e523a520851f",
+      "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-19T05:10:57+00:00"
+    },
+    {
+      "id": "a4305604ab6ed0044b471cc3",
+      "title": "L’influenceur masculiniste Andrew Tate et son frère arrêtés aux Etats-Unis, à la demande du Royaume-Uni qui réclame leur extradition",
+      "summary": "Les deux frères sont recherchés au Royaume-Uni pour « viols, complicité d’exploitation sexuelle et infractions liées à des images indécentes d’un enfant », a fait savoir le parquet britannique, dans un communiqué.",
+      "url": "https://www.lemonde.fr/international/article/2026/07/19/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_6725297_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-19T02:41:57+00:00"
+    },
+    {
+      "id": "115eecf449810b79f79b0fb8",
+      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
       "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-19T01:43:17+00:00"
+      "publishedAt": "2026-07-19T02:17:07+00:00"
+    },
+    {
+      "id": "7300668cbabbd865d8ee2b08",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-19T01:47:59+00:00"
     },
     {
       "id": "303cba061004837fcd688939",
@@ -22,17 +55,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-19T01:11:23+00:00"
-    },
-    {
-      "id": "9e7406395271aaf044e27fb2",
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-19T00:18:47+00:00"
     },
     {
       "id": "d761f807b4236f133c4063e5",
@@ -288,10 +310,10 @@
       "publishedAt": "2026-07-18T01:35:33+00:00"
     },
     {
-      "id": "c298791cad4488a93e1cd15f",
+      "id": "b5950398d0a0b3dc335dfa8a",
       "title": "Tech Now",
       "summary": "Ammie Sekhon goes behind the scenes of WWE to see the tech that supports the show.",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002zc0w?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -803,17 +825,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-15T18:39:22+00:00"
-    },
-    {
-      "id": "1abc95f225bc8ef2c7784895",
-      "title": "Elon Musk qualifie Marine Le Pen de « dernier espoir de la France »",
-      "summary": "Jusque-là peu investi dans la politique française alors qu’il s’est déjà illustré par son interventionnisme dans d’autres pays, l’homme le plus riche du monde a apporté mercredi publiquement son soutien à la candidate du Rassemblement national.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/elon-musk-qualifie-marine-le-pen-de-dernier-espoir-de-la-france_6723610_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-15T18:29:10+00:00"
     },
     {
       "id": "40a212aaca13ce5f0efc9832",
