@@ -1,9 +1,75 @@
 {
-  "updatedAt": "2026-07-20T02:07:58.204881+00:00",
+  "updatedAt": "2026-07-20T06:06:56.564394+00:00",
   "items": [
     {
-      "id": "8029c0345b06835d23779e8e",
-      "title": "Norway opens new memorial for victims of 2011 Breivik massacre",
+      "id": "636ee7e770b2c216201946ff",
+      "title": "Food delivery rider wins China's top literary prize",
+      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-20T03:53:07+00:00"
+    },
+    {
+      "id": "d8d7dd39f7d52ed311f33471",
+      "title": "Rick and Morty Season 9, Episode 9 Review & Recap: \"Salute Your Morts\"",
+      "summary": "Rick and Morty Season 9's penultimate episode is a wacky romp, one that finally turns the spotlight to the oft-ignored Beth. Read our full review.",
+      "url": "https://www.ign.com/articles/rick-and-morty-season-9-episode-9-review-recap-salute-your-morts",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-20T03:00:00+00:00"
+    },
+    {
+      "id": "681809faf78806a0d658eab0",
+      "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
+      "summary": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-20T02:35:04+00:00"
+    },
+    {
+      "id": "c285904689a1af308fd2cbe2",
+      "title": "House of the Dragon: Why Did Vhagar Abandon Aemond?",
+      "summary": "One of the most curious events in this episode is the disappearance of the dragon Vhagar, who apparently abandoned her ailing rider Aemond at Harrenhal to go on a countryside spree while he recovers from his stab wound in the care of the enigmatic Alys Rivers. But as Aemond, as out of it as he is, correctly noted, Vhagar would never just leave him.",
+      "url": "https://www.ign.com/articles/house-of-the-dragon-why-vhagar-abandoned-aemond",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-20T02:15:00+00:00"
+    },
+    {
+      "id": "e4f99f595a9d4062d88ac5c3",
+      "title": "The Vampire Lestat Showrunner Reveals Hidden Meanings and Future Stories Hinted at in the Season 3 Finale",
+      "summary": "The Vampire Lestat showrunner Rolin Jones unpacks the parallel journeys of Louis and Lestat… as well as that massive cliffhanger in the season finale, \"The Failures.\"",
+      "url": "https://www.ign.com/articles/the-vampire-lestat-showrunner-reveals-hidden-meanings-and-future-stories-hinted-at-in-the-season-3-finale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-20T02:15:00+00:00"
+    },
+    {
+      "id": "c96cc37bb28833c4c6d0173d",
+      "title": "House of the Dragon Season 3, Episode 5 Recap and Review",
+      "summary": "House of the Dragon: Season 3 continues to fire on all cylinders – or dragons, possibly. Even as viewers we can see the forces aligning against Rhaenyra and the pitfalls that surround her, and yet she seems oblivious. A lot of characters are growing increasingly desperate, and that tends to lead to outbreaks of violence in the very near future. It’",
+      "url": "https://www.ign.com/articles/house-of-the-dragon-season-3-episode-5-recap-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-20T02:00:00+00:00"
+    },
+    {
+      "id": "ce50fcf9d6aec29123bed329",
+      "title": "Norway opens new memorial for victims of 2011 massacre",
       "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
       "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -22,6 +88,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-20T00:19:12+00:00"
+    },
+    {
+      "id": "140173278901c63b59f0d588",
+      "title": "Moment fans in Madrid celebrate World Cup win",
+      "summary": "Thousands of spectators watched Spain's victory in central Madrid on late Sunday night.",
+      "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-19T23:48:36+00:00"
     },
     {
       "id": "06ac9c9b9fb3620bf54e7058",
@@ -154,17 +231,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-19T16:00:01+00:00"
-    },
-    {
-      "id": "f97bdaa67540b120a9a2cab7",
-      "title": "Health officials identify source of US explosive diarrhoea outbreak",
-      "summary": "The US Food and Drug Administration says iceberg lettuce supplied by Taylor Farms and sold at Taco Bell and Walmart locations was the source of cyclosporiasis infections.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-19T15:17:23+00:00"
     },
     {
       "id": "6389af067ec08660c29b252d",
@@ -497,28 +563,6 @@
       "publishedAt": "2026-07-18T00:27:02+00:00"
     },
     {
-      "id": "feb43dbec3c48fdb05a6ac13",
-      "title": "The LEGO Exclusive Dungeons and Dragons Set Has Sold Out Just Days Before It Retires Forever",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-lego-exclusive-dungeons-and-dragons-set-has-sold-out-just-days-before-it-retires-forever",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-18T00:02:00+00:00"
-    },
-    {
-      "id": "058c9b9f64f15b16fe9c4a35",
-      "title": "The Best Christopher Nolan Movies Ranked",
-      "summary": "From his first film Following to his newest release The Odyssey, we rank the Christopher Nolan movies in order of worst to best.",
-      "url": "https://www.ign.com/articles/best-christopher-nolan-movies",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-18T00:00:00+00:00"
-    },
-    {
       "id": "2da6d56d8d697f478f7ead44",
       "title": "What this desert city can teach the world about tackling heat deaths",
       "summary": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths.",
@@ -528,28 +572,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-17T23:56:08+00:00"
-    },
-    {
-      "id": "f2b4adb5d225e33eee0db374",
-      "title": "Save $400 Off the Skytech Shadow RTX 5060 Ti 16GB Gaming PC, Now Just $1,500",
-      "summary": "A great prebuilt system for 1080p and 1440p gaming.",
-      "url": "https://www.ign.com/articles/skytech-shadow-rtx-5060-ti-16gb-gaming-pc-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-17T23:45:00+00:00"
-    },
-    {
-      "id": "ccd84e117ac79b8c5d55c0cb",
-      "title": "Jurassic Park Fans Go Viral With Tear-Jerking Tribute to Sam Neill In Path of Titans",
-      "summary": "Path of Titans players are going viral for their touching in-game tribute to Sam Neill after news of the actor’s death wracked the Jurassic Park community.",
-      "url": "https://www.ign.com/articles/jurassic-park-fans-go-viral-with-tear-jerking-tribute-to-sam-neill-in-path-of-titans",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-17T23:28:35+00:00"
     },
     {
       "id": "661a6bca0da18c687ad60481",
@@ -616,17 +638,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-17T16:53:04+00:00"
-    },
-    {
-      "id": "3a61876139351816889244aa",
-      "title": "Timelapse shows World Cup final stadium nearly vanish in smoky haze",
-      "summary": "MetLife stadium in New Jersey, where the World Cup final will be held, was shrouded in haze caused by hundreds of wildfires in Canada.",
-      "url": "https://www.bbc.co.uk/news/videos/c1w1nqwxgexo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-17T15:37:40+00:00"
     },
     {
       "id": "5d219253e8e18c517714a2f6",
@@ -748,28 +759,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-16T19:43:20+00:00"
-    },
-    {
-      "id": "bac04a357eb09264c5663ce5",
-      "title": "Watch: What to know as Genoa bridge disaster trial ends",
-      "summary": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
-      "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T18:52:01+00:00"
-    },
-    {
-      "id": "1cb05629ab19993f19218de8",
-      "title": "Watch: What we know about newly discovered monkey species",
-      "summary": "New monkey species hailed as 'amazing discovery' by conservationist.",
-      "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-16T14:50:05+00:00"
     },
     {
       "id": "35f7ef7d3efbba4b7f9f8f22",
