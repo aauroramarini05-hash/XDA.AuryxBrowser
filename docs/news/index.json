@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-07-21T14:56:29.033173+00:00",
+  "updatedAt": "2026-07-21T16:19:12.096666+00:00",
   "items": [
+    {
+      "id": "e67dacabb9068a1a1d2ef7fe",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-21T16:10:56+00:00"
+    },
+    {
+      "id": "8803c61b9892503dbb76edf6",
+      "title": "Une enquête ouverte après un piratage informatique visant le Rassemblement national",
+      "summary": "Un message revendiquant l’exfiltration de plusieurs bases de données provenant du site officiel du RN a été publié, lundi 20 juillet, sur un forum cyberdélinquant. Le parti réfute toute fuite « massive » de données.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/21/une-enquete-ouverte-apres-un-piratage-informatique-visant-le-rassemblement-national_6729000_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-21T16:09:11+00:00"
+    },
+    {
+      "id": "3b32647e061cffdb26925429",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-21T16:03:22+00:00"
+    },
+    {
+      "id": "7be86d00be59eb3392f4c840",
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "summary": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-21T15:57:29+00:00"
+    },
     {
       "id": "1ff386729df339f39f474dd8",
       "title": "Israeli air strike in Gaza City kills family of six, medics say",
@@ -10,7 +54,73 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-21T14:47:41+00:00"
+      "publishedAt": "2026-07-21T15:54:11+00:00"
+    },
+    {
+      "id": "f89ca023c261142c3bd320a7",
+      "title": "Kaylee Hottle, Who Played Jia in Godzilla vs. Kong and Godzilla X Kong: The New Empire, Dies Aged 18",
+      "summary": "Godzilla vs. Kong actress Kaylee Hottle has died aged 18.",
+      "url": "https://www.ign.com/articles/kaylee-hottle-who-played-jia-in-godzilla-vs-kong-and-godzilla-x-kong-the-new-empire-dies-aged-18",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T15:33:52+00:00"
+    },
+    {
+      "id": "9edd60f7d71564f8b71cd8d7",
+      "title": "San Diego Comic-Con 2026: How to Watch and What to Expect",
+      "summary": "San Diego Comic-Con is nearly here and this watch guide will ensure you don't miss a thing, from the biggest moments from the show floor, Marvel's Hall H Presentation, and more, to IGN's live shows that will bring you exclusive reveals from the biggest names in gaming and entertainment.",
+      "url": "https://www.ign.com/articles/san-diego-comic-con-2026-how-to-watch-and-what-to-expect",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T15:30:07+00:00"
+    },
+    {
+      "id": "ace6246b7ffe117c17f401e2",
+      "title": "The X-Files LEGO Set Has Gillian Anderson Snapping on a Pair of Latex Gloves Once More",
+      "summary": "X-Files star Gillian Anderson has unveiled the series' long-awaited LEGO set, which goes on sale next month priced $200.",
+      "url": "https://www.ign.com/articles/the-x-files-lego-set-has-gillian-anderson-snapping-on-a-pair-of-latex-gloves-once-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T15:14:08+00:00"
+    },
+    {
+      "id": "6e0b5af71fe6ecd9ebabc82f",
+      "title": "'We've Been Going Full Speed Ahead for Over 11 years': Nintendo Explains Why It Hasn't Made Splatoon 4 — Yet",
+      "summary": "Nintendo's brand new Switch 2 exclusive Splatoon Raiders is receiving rave reviews — but where's Splatoon 4? Speaking in a behind-the-scenes interview, the series' developers have explained why they wanted to launch a co-operative spinoff first.",
+      "url": "https://www.ign.com/articles/weve-been-going-full-speed-ahead-for-over-11-years-nintendo-explains-why-it-hasnt-made-splatoon-4-yet",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T15:11:07+00:00"
+    },
+    {
+      "id": "67fe8ee2aef4d01638caff7d",
+      "title": "Victime d’un deepfake audio, le comédien Denis Podalydès choisit la voie de la justice",
+      "summary": "Pour la première fois, un acteur dont la voix a été utilisée par l’intelligence artificielle sans son accord porte plainte au pénal en vertu du délit d’hypertrucage introduit en 2024. La chaîne Youtube consacrée à la philosophie mise en cause a fermé en début d’année.",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/07/21/victime-d-un-deepfake-audio-le-comedien-denis-podalydes-choisit-la-voie-de-la-justice_6728860_4500055.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-21T15:00:11+00:00"
+    },
+    {
+      "id": "ef27728b6cdb1003dbd34cc1",
+      "title": "« Arrêter l’IA parce qu’elle présente des risques ? C’est comme si l’on avait voulu interdire l’automobile parce qu’elle provoquait des accidents »",
+      "summary": "Le problème des humains n’est pas de choisir entre une accélération ou un ralentissement de l’intelligence artificielle mais de créer les conditions d’une confiance citoyenne, plaident l’entrepreneur Eric Hazan et l’économiste Olivier Sibony, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/21/arreter-l-ia-parce-qu-elle-presente-des-risques-c-est-comme-si-l-on-avait-voulu-interdire-l-automobile-parce-qu-elle-provoquait-des-accidents_6728858_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-21T15:00:06+00:00"
     },
     {
       "id": "10023f3b861899ff4263d8db",
@@ -26,7 +136,7 @@
     {
       "id": "0a9f92272cd3652a16e6d937",
       "title": "L’interdiction des réseaux sociaux aux moins de 15 ans adoptée au Sénat, avant un ultime vote à l’Assemblée",
-      "summary": "L’interdiction prévue par le texte se fera en deux temps, selon Anne Le Hénanff, ministre déléguée au numérique : dès le 1ᵉʳ septembre pour les nouveaux comptes, et pour les comptes existants, à partir du 1ᵉʳ janvier 2027.",
+      "summary": "L’interdiction prévue par le texte se fera en deux temps, selon Anne Le Hénanff, ministre déléguée au numérique : dès le 1ᵉʳ septembre pour les nouveaux comptes ; et pour les comptes existants, à partir du 1ᵉʳ janvier 2027.",
       "url": "https://www.lemonde.fr/pixels/article/2026/07/21/l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-sera-operationnelle-des-septembre-assure-le-gouvernement_6728821_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -266,17 +376,6 @@
       "publishedAt": "2026-07-21T10:52:52+00:00"
     },
     {
-      "id": "3b32647e061cffdb26925429",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-21T10:43:48+00:00"
-    },
-    {
       "id": "7857685509ff656a7e3164fe",
       "title": "The Odyssey Isn't 100% Matt Damon's Bulging Biceps — for One Scene His Stunt Double Was a Woman Who Had 'The Greatest Arms I've Ever Seen'",
       "summary": "Matt Damon’s bulging biceps are on full display in The Odyssey, but it turns out that in one scene we're seeing the impressive arms of a female stunt double instead.",
@@ -299,17 +398,6 @@
       "publishedAt": "2026-07-21T10:01:59+00:00"
     },
     {
-      "id": "e67dacabb9068a1a1d2ef7fe",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-21T09:48:20+00:00"
-    },
-    {
       "id": "36679781a419aa83b0cbf23b",
       "title": "Nintendo Switch 2 Drops to Just $399 at Woot Ahead of Incoming Price Hikes",
       "summary": "Woot is offering a deal on a new Nintendo Switch 2 console for just $399 if you’re a new customer to the online retailer and use a special code at checkout.",
@@ -319,17 +407,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-21T09:44:42+00:00"
-    },
-    {
-      "id": "2cd27c566ff4db99d83cbe91",
-      "title": "Avengers: Doomsday Describes the Return of Steve Rogers as a 'Miracle,' but Some Marvel Fans Believe There's More Going on Than Meets the Eye",
-      "summary": "Avengers: Doomsday might describe the triumphant return of Steve Rogers as a \"miracle\", but some Marvel fans believe there's more going on than meets the eye.",
-      "url": "https://www.ign.com/articles/avengers-doomsday-describes-the-return-of-steve-rogers-as-a-miracle-but-some-marvel-fans-believe-theres-more-going-on-than-meets-the-eye",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T09:39:16+00:00"
     },
     {
       "id": "f3dd8ef1f3f79a88c56c9f62",
@@ -352,17 +429,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-21T09:15:55+00:00"
-    },
-    {
-      "id": "bc7eec0fec2dd234b0a50ff8",
-      "title": "Just 7 PlayStation Games Have Sold More Than 100,000 Physical Copies in the U.S. So Far This Year",
-      "summary": "Amid the backlash to Sony’s decision to end production of discs for new PlayStation games from 2028, data for game sales in the U.S. show the dominance of digital in stark terms.",
-      "url": "https://www.ign.com/articles/just-7-playstation-games-have-sold-more-than-100000-physical-copies-in-the-us-so-far-this-year",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T08:53:12+00:00"
     },
     {
       "id": "da8a4405f44649a6623f01ee",
@@ -396,28 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-21T02:07:48+00:00"
-    },
-    {
-      "id": "d6bc1233b9b530f76a47e561",
-      "title": "Leon Kennedy Voice Actor Says Metallica, Nirvana Helped Shape His Performance for the Resident Evil Character",
-      "summary": "Nick Apostolides revealed the bands he listened to that helped shape his portrayal of Leon Kennedy in each of the Resident Evil Remake games, sharing some surprising picks from his playlist.",
-      "url": "https://www.ign.com/articles/leon-kennedy-voice-actor-says-metallica-nirvana-helped-shape-his-performance-for-the-resident-evil-character",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T00:29:41+00:00"
-    },
-    {
-      "id": "82ae719d5c220d9441bdb719",
-      "title": "Kingdom Hearts Missing-Link Leak Has Fans Wishing Square Enix Hadn't Canceled Its Mobile Spinoff",
-      "summary": "What appears to be nearly finished footage of the intro for canceled mobile game Kingdom Hearts Missing-Link has leaked online.",
-      "url": "https://www.ign.com/articles/kingdom-hearts-missing-link-leak-has-fans-wishing-square-enix-hadnt-canceled-its-mobile-spinoff",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-20T23:43:48+00:00"
     },
     {
       "id": "76b1acebf7521db8a56e1007",
@@ -539,17 +583,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-20T15:22:54+00:00"
-    },
-    {
-      "id": "8e7f325d03ec337d0858eb0f",
-      "title": "Rare identical quadruplets born in Australia",
-      "summary": "The parents of the four naturally conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-20T12:57:32+00:00"
     },
     {
       "id": "032f8aaa0a4396a4efa40499",
@@ -814,39 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-17T04:00:09+00:00"
-    },
-    {
-      "id": "a7917716bfc00efebae8473c",
-      "title": "L’épilogue de La Chouette d’or : « Je peux le dire maintenant, que j’ai enterré la Chouette avec mon frère »",
-      "summary": "« Les derniers mystères de La Chouette d’or » (6/6). Où est passée la chouette de bronze enterrée en 1993 par Max Valentin ? Qu’est-il advenu des solutions originales déposées chez l’huissier ? De nouveaux éléments lèvent un coin du voile.",
-      "url": "https://www.lemonde.fr/series-d-ete/visuel/2026/07/17/l-epilogue-de-la-chouette-d-or-je-peux-le-dire-maintenant-que-j-ai-enterre-la-chouette-avec-mon-frere_6724123_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-17T03:45:06+00:00"
-    },
-    {
-      "id": "1bc39275a9c9fd0b76b7a6cb",
-      "title": "Truth Social lance un accès prioritaire et payant aux publications de Donald Trump",
-      "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers, qui dépendent de marges de quelques secondes pour prendre leurs décisions.",
-      "url": "https://www.lemonde.fr/international/article/2026/07/17/truth-social-lance-un-acces-prioritaire-et-payant-aux-publications-de-donald-trump_6723917_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-16T23:51:12+00:00"
-    },
-    {
-      "id": "172dca6d430b4d14aa09c2e8",
-      "title": "Un agent chargé du prompteur de Donald Trump, suspecté d’avoir parié de l’argent sur ses discours, a été suspendu",
-      "summary": "Il utilisait la plateforme de prédiction Kalshi, qui permet notamment aux internautes de parier sur la possibilité qu’une phrase ou un mot soient prononcés, et avait ainsi encaissé plus de 100 000 dollars.",
-      "url": "https://www.lemonde.fr/international/article/2026/07/16/un-agent-charge-du-prompteur-de-donald-trump-suspecte-d-avoir-parie-de-l-argent-sur-ses-discours-a-ete-suspendu_6723846_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-16T19:43:20+00:00"
     },
     {
       "id": "f52ca1d0bdbed120c909e803",
