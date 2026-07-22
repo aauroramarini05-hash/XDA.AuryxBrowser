@@ -1,9 +1,97 @@
 {
-  "updatedAt": "2026-07-22T16:17:40.876193+00:00",
+  "updatedAt": "2026-07-22T18:02:19.380485+00:00",
   "items": [
     {
-      "id": "b890e791205c2ed51082c6d0",
-      "title": "French police formally investigate woman over 2025 killing of Briton",
+      "id": "443d9a6e668bd19f88d6b37b",
+      "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-22T17:54:57+00:00"
+    },
+    {
+      "id": "e5110b5740459a771cb92a3a",
+      "title": "Today’s Best Deals: Tomodachi Life, Kindle Colorsoft, and 8BitDo Pro 3 Wireless Controller",
+      "summary": "Plus, enjoy major savings on other video games, LEGO Star Wars, and more.",
+      "url": "https://www.ign.com/articles/best-deals-for-july-22-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T17:30:00+00:00"
+    },
+    {
+      "id": "74959ff7d16f1eb1da164c14",
+      "title": "Shenmue Fans Get Count Binface — a Man Dressed as a Trash Can Who's Going Up Against Nigel Farage in a UK Election — to Call on Sega to Make Shenmue 4",
+      "summary": "Count Binface has called on Sega to make Shenmue 4.",
+      "url": "https://www.ign.com/articles/shenmue-fans-get-count-binface-a-man-dressed-as-a-trash-can-whos-going-up-against-nigel-farage-in-a-uk-election-to-call-on-sega-to-make-shenmue-4",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T17:20:00+00:00"
+    },
+    {
+      "id": "44fd60e7f330b435f4c1d44c",
+      "title": "The PNY GeForce RTX 5070 Graphics Card Drops Below MSRP for the First Time in 2026",
+      "summary": "The PNY RTX 5070 GPU with 12GB of VRAM and a triple-fan cooling system is down to $519.99.",
+      "url": "https://www.ign.com/articles/pny-geforce-rtx-5070-graphics-card-deal-july-2026-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T17:00:00+00:00"
+    },
+    {
+      "id": "d39e076c2356aab7cd9d57db",
+      "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
+      "summary": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
+      "url": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-22T16:34:35+00:00"
+    },
+    {
+      "id": "0b81409bde1d229e96d30df9",
+      "title": "The Samsung Odyssey G5 27\" QHD 180Hz OLED Gaming Monitor Drops to $299.99 on Amazon",
+      "summary": "The least expensive OLED gaming monitor I've ever seen.",
+      "url": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal-july",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T16:25:00+00:00"
+    },
+    {
+      "id": "a2a98430592919131705e343",
+      "title": "Best Buy’s Black Friday in July Sale Features Great Kindle Deals, but They’re Going Fast",
+      "summary": "Best Buy's Black Friday in July sale includes some excellent Kindle deals, but they won't be available for long. Select models are selling out fast, so be quick to pick up your favorite at a discount.",
+      "url": "https://www.ign.com/articles/best-buy-black-friday-in-july-sale-kindle-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T16:23:38+00:00"
+    },
+    {
+      "id": "38df2822f31bfc40f9b9a92b",
+      "title": "Star Trek Legend William Shatner and His Daughter Melanie Reveal They Battled Stage 4 Cancer at the Same Time",
+      "summary": "William Shatner and his daughter Melanie have said they battled stage 4 cancer at the same time.",
+      "url": "https://www.ign.com/articles/star-trek-legend-william-shatner-and-his-daughter-melanie-reveal-they-battled-stage-4-cancer-at-the-same-time",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T15:59:06+00:00"
+    },
+    {
+      "id": "b607fade2374668b59c06ca1",
+      "title": "Police formally investigate woman after Brit stabbed to death in French village",
       "summary": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
       "url": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -22,6 +110,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T15:50:17+00:00"
+    },
+    {
+      "id": "9b6b54d8189e2052c233d134",
+      "title": "Microsoft Announces Xbox Backward Compatibility on PC, With New Features and Achievements",
+      "summary": "Microsoft has announced Xbox Backward Compatibility on PC, allowing you to play classic console games on PC and handhelds such as the Xbox Ally X for the first time.",
+      "url": "https://www.ign.com/articles/microsoft-announces-xbox-backward-compatibility-on-pc-with-new-features-and-achievements",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T15:42:04+00:00"
     },
     {
       "id": "58269e9ec7b79562f4e017d2",
@@ -255,28 +354,6 @@
       "publishedAt": "2026-07-22T12:13:53+00:00"
     },
     {
-      "id": "1c3631d9a90d1b94bca86269",
-      "title": "The Walking Dead: Dead City Season 3 Review",
-      "summary": "The Walking Dead: Dead City Season 3 review: Tired, poor, huddled masses, yearning to see Maggie and Negan kiss.",
-      "url": "https://www.ign.com/articles/the-walking-dead-dead-city-season-3-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T12:00:00+00:00"
-    },
-    {
-      "id": "5f84dce128a4d76bee268662",
-      "title": "Square Enix Drops a New Line of Exclusive Final Fantasy IV and X Anniversary Merch at Amazon",
-      "summary": "Square Enix just dropped new Final fantasy IV and X anniversary merch on Amazon, featuring exclusive artwork on shirts, hoodies, and more.",
-      "url": "https://www.ign.com/articles/final-fantasy-iv-x-anniversary-merch-amazon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T11:59:03+00:00"
-    },
-    {
       "id": "daba1366e6be9952db9a1e49",
       "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
       "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
@@ -288,39 +365,6 @@
       "publishedAt": "2026-07-22T11:40:11+00:00"
     },
     {
-      "id": "e4be4381ee59386ad4093e8d",
-      "title": "Spider-Man Producer Hopes Tom Holland Sticks Around in His Role 'Forever' — Even Though He's Already Discussed Handing Over the Marvel Character to a Younger Star",
-      "summary": "Veteran Spider-Man producer Amy Pascal has said she hopes Tom Holland will play the role \"forever\" — despite the actor having already discussed handing over the part to a younger star.",
-      "url": "https://www.ign.com/articles/spider-man-producer-hopes-tom-holland-sticks-around-in-his-role-forever-even-though-hes-already-discussed-handing-over-the-marvel-character-to-a-younger-star",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T11:34:36+00:00"
-    },
-    {
-      "id": "5da7bba7760ffa0e80d5d515",
-      "title": "Why the Elgato Stream Deck Lineup Isn’t Just for Streamers",
-      "summary": "Amazon has discounted some Elgato Stream Deck models, and they're well worth it for the added productivity they offer.",
-      "url": "https://www.ign.com/articles/why-the-elgato-stream-deck-lineup-isnt-just-for-streamers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T11:32:37+00:00"
-    },
-    {
-      "id": "ac046dcc2accb4c61fd706ea",
-      "title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
-      "summary": "The seizure follows a long-running investigation into drug-trafficking networks, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T11:32:11+00:00"
-    },
-    {
       "id": "2873f9513e6e4a1bcb2fdc3f",
       "title": "Why are thousands protesting for education reform in India?",
       "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
@@ -330,39 +374,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T11:30:59+00:00"
-    },
-    {
-      "id": "552b5d16a74fdf54f795ef26",
-      "title": "Riftbound’s 2026 Set Release Schedule Is Taking Shape, With Release Dates Now Confirmed For The Whole Year",
-      "summary": "Riftbound's 2026 looks promising, but Riot will need to ease concerns about scalpers for long-term success for the League of Legends TCG.",
-      "url": "https://www.ign.com/articles/riftbound-tcg-full-release-schedule-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T11:28:00+00:00"
-    },
-    {
-      "id": "98c9b028cc6567eda26a160e",
-      "title": "Magic: The Gathering's Turtle Team Up Boxed Set Is 40% Off at Amazon Today",
-      "summary": "This massive discount means you're getting a unique four-player co-op game of MTG for almost nothing.",
-      "url": "https://www.ign.com/articles/mtg-tmnt-turtle-team-up-amazon-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T11:24:03+00:00"
-    },
-    {
-      "id": "ec871921a2e672e8c8c1ad27",
-      "title": "Disney Lorcana 2026 Release Schedule: All Sets and Launch Dates",
-      "summary": "Here is the full Disney Lorcana 2026 release schedule, including launch dates, set details, and product reveals for every TCG expansion.",
-      "url": "https://www.ign.com/articles/disney-lorcana-full-release-schedule-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T11:24:00+00:00"
     },
     {
       "id": "8d14ca40a285b4abe2d22bb6",
@@ -431,9 +442,9 @@
       "publishedAt": "2026-07-22T05:06:35+00:00"
     },
     {
-      "id": "eb72097c167a9d68e811b730",
-      "title": "Beluga whales relocated from closed Canadian marine park arrive in US",
-      "summary": "Six beluga whales have arrived in the US after being moved from a Canadian marine park that could no longer care for them.",
+      "id": "fc24deb86900864fb8304202",
+      "title": "Watch: Beluga whales travel by plane and lorry to US from closed Canadian marine park",
+      "summary": "Six beluga whales have arrived in Illinois and Texas after being moved from a Canadian marine park that could no longer care for them.",
       "url": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -453,17 +464,6 @@
       "publishedAt": "2026-07-22T04:55:05+00:00"
     },
     {
-      "id": "274e9f75d4b4aa59040a5b3e",
-      "title": "France passes law banning under-15s from social media",
-      "summary": "The law will require social media platforms in France to verify all users age from January.",
-      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T03:50:55+00:00"
-    },
-    {
       "id": "bfa20410f4e4805378a58dea",
       "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
@@ -473,28 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T02:15:05+00:00"
-    },
-    {
-      "id": "0260e00dc33bc314548a9ca7",
-      "title": "WhatsApp usernames could upset Somalia's anti-terror fight",
-      "summary": "People will be able to chat without revealing their contact number once the new feature is rolled out.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97zxdkeyyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-21T23:46:35+00:00"
-    },
-    {
-      "id": "2672d3b36bf8e328de861c65",
-      "title": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
-      "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-21T22:26:19+00:00"
     },
     {
       "id": "8df41e88beb4bc618c879653",
