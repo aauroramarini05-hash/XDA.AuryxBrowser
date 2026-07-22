@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T10:58:43.233165+00:00",
+  "updatedAt": "2026-07-22T12:24:57.829944+00:00",
   "items": [
     {
       "id": "462ee6ba812f2cce11939985",
@@ -10,7 +10,117 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-22T10:40:14+00:00"
+      "publishedAt": "2026-07-22T12:08:41+00:00"
+    },
+    {
+      "id": "daba1366e6be9952db9a1e49",
+      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+      "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-22T11:40:11+00:00"
+    },
+    {
+      "id": "e4be4381ee59386ad4093e8d",
+      "title": "Spider-Man Producer Hopes Tom Holland Sticks Around in His Role 'Forever' — Even Though He's Already Discussed Handing Over the Marvel Character to a Younger Star",
+      "summary": "Veteran Spider-Man producer Amy Pascal has said she hopes Tom Holland will play the role \"forever\" — despite the actor having already discussed handing over the part to a younger star.",
+      "url": "https://www.ign.com/articles/spider-man-producer-hopes-tom-holland-sticks-around-in-his-role-forever-even-though-hes-already-discussed-handing-over-the-marvel-character-to-a-younger-star",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:34:36+00:00"
+    },
+    {
+      "id": "5da7bba7760ffa0e80d5d515",
+      "title": "Why the Elgato Stream Deck Lineup Isn’t Just for Streamers",
+      "summary": "Amazon has discounted some Elgato Stream Deck models, and they're well worth it for the added productivity they offer.",
+      "url": "https://www.ign.com/articles/why-the-elgato-stream-deck-lineup-isnt-just-for-streamers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:32:37+00:00"
+    },
+    {
+      "id": "ac046dcc2accb4c61fd706ea",
+      "title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
+      "summary": "The seizure follows a long-running investigation into drug-trafficking networks, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-22T11:32:11+00:00"
+    },
+    {
+      "id": "2873f9513e6e4a1bcb2fdc3f",
+      "title": "Why are thousands protesting for education reform in India?",
+      "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
+      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-22T11:30:59+00:00"
+    },
+    {
+      "id": "552b5d16a74fdf54f795ef26",
+      "title": "Riftbound’s 2026 Set Release Schedule Is Taking Shape, With Release Dates Now Confirmed For The Whole Year",
+      "summary": "Riftbound's 2026 looks promising, but Riot will need to ease concerns about scalpers for long-term success for the League of Legends TCG.",
+      "url": "https://www.ign.com/articles/riftbound-tcg-full-release-schedule-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:28:00+00:00"
+    },
+    {
+      "id": "98c9b028cc6567eda26a160e",
+      "title": "Magic: The Gathering's Turtle Team Up Boxed Set Is 40% Off at Amazon Today",
+      "summary": "This massive discount means you're getting a unique four-player co-op game of MTG for almost nothing.",
+      "url": "https://www.ign.com/articles/mtg-tmnt-turtle-team-up-amazon-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:24:03+00:00"
+    },
+    {
+      "id": "ec871921a2e672e8c8c1ad27",
+      "title": "Disney Lorcana 2026 Release Schedule: All Sets and Launch Dates",
+      "summary": "Here is the full Disney Lorcana 2026 release schedule, including launch dates, set details, and product reveals for every TCG expansion.",
+      "url": "https://www.ign.com/articles/disney-lorcana-full-release-schedule-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:24:00+00:00"
+    },
+    {
+      "id": "42c7ad776686747d8144aae8",
+      "title": "Total War: Warhammer 40,000 Named Character List Swells With Another Ork Warboss — and a Hint at How They Will Work in the Game",
+      "summary": "Games Workshop has confirmed that Ork Warboss Nazdreg Ug Urdgrub is not only getting a new miniature for the Warhammer 40,000 tabletop game, but that he’s also in Creative Assembly’s upcoming strategy game, Total War: Warhammer 40,000.",
+      "url": "https://www.ign.com/articles/total-war-warhammer-40000-named-character-list-swells-with-another-ork-warboss-and-a-hint-at-how-they-will-work-in-the-game",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:11:54+00:00"
+    },
+    {
+      "id": "a7165a5338814b7dace09ebe",
+      "title": "Nintendo Switch 2 Games Drop to All-Time Low Prices For One Day Only at Woot",
+      "summary": "There are loads of Nintendo Switch 2 games heavily discounted at Woot today using a unique promo code, but you’ve got less than a day left to take advantage.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-game-deals-woot-summer-of-gaming-promo-code",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:03:49+00:00"
     },
     {
       "id": "a6223a07cb056198e613e12f",
@@ -22,28 +132,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-22T10:22:17+00:00"
-    },
-    {
-      "id": "daba1366e6be9952db9a1e49",
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-22T10:21:15+00:00"
-    },
-    {
-      "id": "2873f9513e6e4a1bcb2fdc3f",
-      "title": "Why are thousands protesting for education reform in India?",
-      "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
-      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T10:18:32+00:00"
     },
     {
       "id": "3f0c1609e4b78811db6a2ed5",
@@ -156,8 +244,8 @@
       "publishedAt": "2026-07-22T07:00:00+00:00"
     },
     {
-      "id": "10e3716245083a2e32affecf",
-      "title": "Tunnel collapse in India kills 12 workers",
+      "id": "61a4ed715f156811a8b1347b",
+      "title": "Tunnel collapse in India kills 14 workers",
       "summary": "Rescue operation is ongoing but hazardous conditions have hampered efforts to reach those still inside.",
       "url": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -310,8 +398,8 @@
       "publishedAt": "2026-07-22T00:56:06+00:00"
     },
     {
-      "id": "ca8fe5a16ff564d3ec481610",
-      "title": "Why WhatsApp usernames could upset Somalia's anti-terror fight",
+      "id": "0260e00dc33bc314548a9ca7",
+      "title": "WhatsApp usernames could upset Somalia's anti-terror fight",
       "summary": "People will be able to chat without revealing their contact number once the new feature is rolled out.",
       "url": "https://www.bbc.co.uk/news/articles/ce97zxdkeyyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -376,39 +464,6 @@
       "publishedAt": "2026-07-21T21:30:00+00:00"
     },
     {
-      "id": "2f6ec68b1cb2ab93ddee2042",
-      "title": "NARUTO Mythos TCG Is Coming to the U.S., See It First at San Diego Comic-Con",
-      "summary": "",
-      "url": "https://www.ign.com/articles/naruto-mythos-tcg-is-coming-to-the-us-see-it-first-at-san-diego-comic-con",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T21:11:13+00:00"
-    },
-    {
-      "id": "809b4ef4b4ea884a019860c2",
-      "title": "The Next Lord of the Rings Deluxe Edition Book Is Available to Preorder Now",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-fall-of-numenor-deluxe-edition-book-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T21:08:09+00:00"
-    },
-    {
-      "id": "425040a4c2ad167c97bd82a5",
-      "title": "Metal Gear Solid Creator Hideo Kojima Quips That He Wants to Die in a Movie Theater, Just as the Film Itself Is About to Start",
-      "summary": "Veteran game director and self-confessed movie buff Hideo Kojima revealed that he’d like to pass away in a movie theater, just as the film itself is about to start.",
-      "url": "https://www.ign.com/articles/metal-gear-solid-creator-hideo-kojima-quips-that-he-wants-to-die-in-a-movie-theater-just-as-the-film-itself-is-about-to-start",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T20:03:07+00:00"
-    },
-    {
       "id": "8df41e88beb4bc618c879653",
       "title": "Tech Life",
       "summary": "Dogs have a great sense of smell. Now machines are being trained to sniff out odours.",
@@ -418,50 +473,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-21T20:00:00+00:00"
-    },
-    {
-      "id": "6a6ee587e82ab82fad40bb2b",
-      "title": "2026 Is Great For PC Gaming If You Already Have Hardware",
-      "summary": "",
-      "url": "https://www.ign.com/articles/2026-is-great-for-pc-gaming-if-you-already-have-hardware",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T19:16:13+00:00"
-    },
-    {
-      "id": "1b0065c25dbabdc6ee639e01",
-      "title": "Lara Croft’s Acrobatics Were So Important to Tomb Raider: Legacy of Atlantis That Actress Alix Wilton Regan Started Rock-Climbing to Get Into Character",
-      "summary": "The minds at Crystal Dynamics and Flying Wild Hog explained why bringing back Lara Croft’s iconic acrobatics and movement was so important to Tomb Raider: Legacy of Atlantis, and fans couldn’t be happier about it.",
-      "url": "https://www.ign.com/articles/lara-crofts-acrobatics-were-so-important-to-tomb-raider-legacy-of-atlantis-that-actress-alix-wilton-regan-started-rock-climbing-to-get-into-character",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T19:15:16+00:00"
-    },
-    {
-      "id": "d61ede1eccbe4b1574775410",
-      "title": "Today's Best Deals: Switch 2 Consoles, Metal Gear Solid: Master Collection, and a Batman Omnibus",
-      "summary": "Plus, save on Adidas Gift Cards, a TCG deck box, and plenty more.",
-      "url": "https://www.ign.com/articles/best-deals-for-july-21-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T19:10:40+00:00"
-    },
-    {
-      "id": "5d068f034d05e2a315058ab5",
-      "title": "Dbrand's Steam Machine Wraps Are Here",
-      "summary": "",
-      "url": "https://www.ign.com/articles/dbrands-steam-machine-wraps-are-here",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-21T19:10:17+00:00"
     },
     {
       "id": "e6f6fdfcb532cda61ad32535",
