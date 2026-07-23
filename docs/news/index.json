@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-07-23T08:13:05.958786+00:00",
+  "updatedAt": "2026-07-23T11:00:57.004698+00:00",
   "items": [
+    {
+      "id": "783df8a40506c915cc4f7693",
+      "title": "Thousands evacuated in France fires",
+      "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-23T10:53:43+00:00"
+    },
+    {
+      "id": "7260391e05819b088e90d619",
+      "title": "Google se voit infliger un total de 890 millions d’euros d’amende par l’UE pour atteintes à la concurrence",
+      "summary": "Cette nouvelle sanction risque d’alimenter la colère de Washington contre la réglementation numérique européenne, que l’administration Trump accuse de cibler injustement les champions américains du secteur.",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/23/google-se-voit-infliger-un-total-de-890-millions-d-euros-d-amendes-par-l-union-europeenne-pour-atteintes-a-la-concurrence_6730672_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-23T10:29:17+00:00"
+    },
+    {
+      "id": "9fe4f2f80cc350271a4fa5e9",
+      "title": "First Look at Warhammer Blood Bowl, the Free Overhaul for Blood Bowl 3 Due Out Fall 2026",
+      "summary": "Warhammer Blood Bowl hits the end zone this fall, and we've got first-look screenshots and confirmed platforms for launch.",
+      "url": "https://www.ign.com/articles/first-look-at-warhammer-blood-bowl-the-free-overhaul-for-blood-bowl-3-due-out-fall-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T10:24:25+00:00"
+    },
+    {
+      "id": "4cdb718454b6cf20eaf11d11",
+      "title": "The Lord of the Rings: The Rings of Power is Finally Introducing Galadriel's Husband Celeborn — And a Famous Face From Stranger Things is Playing Her 'Lover-Boy' Beau",
+      "summary": "Galadriel's husband Celeborn will finally be introduced in The Lord of the Rings: The Rings of Power, with new episodes set to debut Stranger Things' Jamie Campbell Bower as her \"lover-boy\" partner.",
+      "url": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-is-finally-introducing-galadriels-husband-celeborn-and-a-famous-face-from-stranger-things-is-playing-her-lover-boy-beau",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T10:07:23+00:00"
+    },
+    {
+      "id": "a7ea825de66a561ee355c365",
+      "title": "Xbox Gamers Slam Paramount After Avatar Legends: The Fighting Game Suffers Shock Delay on Their Console Just Hours Before Launch",
+      "summary": "Avatar Legends: The Fighting Game has suffered a shock delay on Xbox just hours before it was due to come out, sparking a backlash from fans.",
+      "url": "https://www.ign.com/articles/xbox-gamers-slam-paramount-after-avatar-legends-the-fighting-game-suffers-shock-delay-on-their-console-just-hours-before-launch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T09:55:25+00:00"
+    },
+    {
+      "id": "835fb223c80335f116954185",
+      "title": "Magic's Star Trek Draft Night Set Is Currently the Easiest Way to Get a Collector Booster",
+      "summary": "Magic: The Gathering's Draft Night set is currently the only way fans can get hold of elusive \"Collector Boosters\" after scalpers descend on preorders for the new Universes Beyond set.",
+      "url": "https://www.ign.com/articles/mtg-star-trek-collector-booster-draft-night-set-sealed-in-stock",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T09:40:14+00:00"
+    },
+    {
+      "id": "955ac1e8266f0e67ec9de46a",
+      "title": "Pokémon Diamond and Pearl Leak Reveals More Than 100 Scrapped Designs, Including Unseen Creatures and Missing Evolutions",
+      "summary": "Pokémon Diamond and Pearl fans are celebrating the unofficial reveal of more than 100 previously-unseen designs, including early drafts of known creatures, numerous scrapped species, and cut evolutions.",
+      "url": "https://www.ign.com/articles/pokemon-diamond-and-pearl-leak-reveals-more-than-100-scrapped-designs-including-unseen-creatures-and-missing-evolutions",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T09:23:27+00:00"
+    },
+    {
+      "id": "a6e31ff472a0003176ba65fd",
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-23T09:17:50+00:00"
+    },
+    {
+      "id": "07cc5c64fc2b2e577c3056c0",
+      "title": "NASCAR 26 Release Date Confirmed, Features Dynamic Track Surfaces, AI DNFs",
+      "summary": "Improvements incoming as iRacing builds upon last year’s foundation.",
+      "url": "https://www.ign.com/articles/nascar-26-release-date-confirmed-features-dynamic-track-surfaces-ai-dnfs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T08:03:34+00:00"
+    },
     {
       "id": "12288c2e458389ba3994ffca",
       "title": "Google burning through cash with spiralling AI costs",
@@ -88,17 +187,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-23T03:10:51+00:00"
-    },
-    {
-      "id": "a6e31ff472a0003176ba65fd",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-23T00:21:53+00:00"
     },
     {
       "id": "5c27263bc1b05b4b243b3f26",
@@ -343,39 +431,6 @@
       "publishedAt": "2026-07-22T17:54:57+00:00"
     },
     {
-      "id": "e5110b5740459a771cb92a3a",
-      "title": "Today’s Best Deals: Tomodachi Life, Kindle Colorsoft, and 8BitDo Pro 3 Wireless Controller",
-      "summary": "Plus, enjoy major savings on other video games, LEGO Star Wars, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-july-22-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T17:30:00+00:00"
-    },
-    {
-      "id": "74959ff7d16f1eb1da164c14",
-      "title": "Shenmue Fans Get Count Binface — a Man Dressed as a Trash Can Who's Going Up Against Nigel Farage in a UK Election — to Call on Sega to Make Shenmue 4",
-      "summary": "Count Binface has called on Sega to make Shenmue 4.",
-      "url": "https://www.ign.com/articles/shenmue-fans-get-count-binface-a-man-dressed-as-a-trash-can-whos-going-up-against-nigel-farage-in-a-uk-election-to-call-on-sega-to-make-shenmue-4",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T17:20:00+00:00"
-    },
-    {
-      "id": "44fd60e7f330b435f4c1d44c",
-      "title": "The PNY GeForce RTX 5070 Graphics Card Drops Below MSRP for the First Time in 2026",
-      "summary": "The PNY RTX 5070 GPU with 12GB of VRAM and a triple-fan cooling system is down to $519.99.",
-      "url": "https://www.ign.com/articles/pny-geforce-rtx-5070-graphics-card-deal-july-2026-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T17:00:00+00:00"
-    },
-    {
       "id": "b042a1a2bc2d5c7d8436298d",
       "title": "Watch: Louvre reopens gallery after jewellery heist",
       "summary": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
@@ -398,39 +453,6 @@
       "publishedAt": "2026-07-22T16:34:35+00:00"
     },
     {
-      "id": "0b81409bde1d229e96d30df9",
-      "title": "The Samsung Odyssey G5 27\" QHD 180Hz OLED Gaming Monitor Drops to $299.99 on Amazon",
-      "summary": "The least expensive OLED gaming monitor I've ever seen.",
-      "url": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal-july",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T16:25:00+00:00"
-    },
-    {
-      "id": "a2a98430592919131705e343",
-      "title": "Best Buy’s Black Friday in July Sale Features Great Kindle Deals, but They’re Going Fast",
-      "summary": "Best Buy's Black Friday in July sale includes some excellent Kindle deals, but they won't be available for long. Select models are selling out fast, so be quick to pick up your favorite at a discount.",
-      "url": "https://www.ign.com/articles/best-buy-black-friday-in-july-sale-kindle-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T16:23:38+00:00"
-    },
-    {
-      "id": "38df2822f31bfc40f9b9a92b",
-      "title": "Star Trek Legend William Shatner and His Daughter Melanie Reveal They Battled Stage 4 Cancer at the Same Time",
-      "summary": "William Shatner and his daughter Melanie have said they battled stage 4 cancer at the same time.",
-      "url": "https://www.ign.com/articles/star-trek-legend-william-shatner-and-his-daughter-melanie-reveal-they-battled-stage-4-cancer-at-the-same-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T15:59:06+00:00"
-    },
-    {
       "id": "2731e01cdcad621087ca2190",
       "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
       "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
@@ -440,17 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T15:50:17+00:00"
-    },
-    {
-      "id": "e83ef4bb6db93d5d36555c04",
-      "title": "Mysterious white foam draws crowds on Nigerian highway",
-      "summary": "The environmental agency has warned people to avoid going near the substance as it could pose a health risk.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g14lzy17o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T14:47:32+00:00"
     },
     {
       "id": "b1d4071543031a6cf94b4dbd",
@@ -539,17 +550,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-22T04:55:05+00:00"
-    },
-    {
-      "id": "bfa20410f4e4805378a58dea",
-      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T02:15:05+00:00"
     },
     {
       "id": "8df41e88beb4bc618c879653",
@@ -792,17 +792,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-19T02:41:57+00:00"
-    },
-    {
-      "id": "fd7e3fdd83537479b99bbd96",
-      "title": "L’IA, alliée ou ennemie de l’information ?",
-      "summary": "« Festival international de journalisme » (1/7). L’intelligence artificielle générative fait aujourd’hui pleinement partie de notre quotidien. Mais dans les médias et pour le public, elle crée la confusion entre réalité et fake news.",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/07/18/l-ia-alliee-ou-ennemie-de-l-information_6724362_5463015.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-18T05:00:04+00:00"
     },
     {
       "id": "b5950398d0a0b3dc335dfa8a",
