@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-07-23T20:51:25.521213+00:00",
+  "updatedAt": "2026-07-23T21:57:19.914274+00:00",
   "items": [
+    {
+      "id": "387ef471c8f8d4bc8b869b26",
+      "title": "India activist ends hunger strike after 26 days",
+      "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-23T21:27:04+00:00"
+    },
+    {
+      "id": "cf876d9c46e3ae5f4687d471",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+      "summary": "A new bill would let the US government order the shutdown AI models that pose a major public threat.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-23T20:58:35+00:00"
+    },
+    {
+      "id": "f62c6d1747bea07efb465cbf",
+      "title": "Avatar: Seven Havens Gets Paramount+ Release Date and Teaser Trailer | Comic Con 2026",
+      "summary": "Avatar: Seven Havens launches exclusively on Paramount+ on October 9. Paramount announced the release date alongside a teaser trailer at the Avatar Aang: The Last Airbender panel at San Diego Comic-Con 2026 today.",
+      "url": "https://www.ign.com/articles/avatar-seven-havens-gets-paramount-release-date-and-teaser-trailer-comic-con-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T20:50:30+00:00"
+    },
+    {
+      "id": "40a02ccae555b66be5e6d119",
+      "title": "Nintendo Switch Sports Resort Hands-On Preview: Wuhu Island Is Back, Baby",
+      "summary": "Nintendo Switch Sports Resort takes us back to my favorite vacation destination for a new era of motion-controlled sports action, and I was so happy to be back. During a demo at San Diego Comic Con, I got to try four of Resort’s 12 sports: archery, bowling, power cruising (which is a trademark-free way of saying jet skiing), and thumb wrestling, wh",
+      "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-hands-on-preview-wuhu-island-is-back-baby",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T20:46:32+00:00"
+    },
     {
       "id": "6cc3d7891e0d976d2a9a574d",
       "title": "Google and Tesla shares plunge as AI spending rattles markets",
@@ -11,17 +55,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-23T20:42:33+00:00"
-    },
-    {
-      "id": "387ef471c8f8d4bc8b869b26",
-      "title": "India activist ends hunger strike after 26 days",
-      "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-23T20:31:40+00:00"
     },
     {
       "id": "4e6e7f354017ac33e05e85bb",
@@ -352,28 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-23T16:07:24+00:00"
-    },
-    {
-      "id": "0c69a7086752645de446cce6",
-      "title": "Scott Pilgrim Creator Bryan Lee O'Malley Returns to the Series for the First New Comic in 16 Years | Comic Con 2026",
-      "summary": "Oni Press has revealed that Scott Pilgrim creator Bryan Lee O'Malley is returning to the series for its first new comic in 16 years.",
-      "url": "https://www.ign.com/articles/scott-pilgrim-creator-bryan-lee-omalley-returns-to-the-series-for-the-first-new-comic-in-16-years-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-23T16:05:47+00:00"
-    },
-    {
-      "id": "df26495a057d93b6be07c1d6",
-      "title": "Everything Announced at the Marvel's Wolverine: Deep Cuts SDCC Panel | Comic Con 2026",
-      "summary": "Our San Diego Comic-Con 2026 live reporting kicks off with Insomniac’s panel for upcoming PlayStation 5 exclusive, Marvel’s Wolverine. Here's everything that was announced.",
-      "url": "https://www.ign.com/articles/marvels-wolverine-deep-cuts-sdcc-panel-live-report-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-23T16:00:00+00:00"
     },
     {
       "id": "6a29942f5df82f479618e6d3",
@@ -891,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-17T07:25:31+00:00"
-    },
-    {
-      "id": "f52ca1d0bdbed120c909e803",
-      "title": "TikTok faces Ofcom investigation over child age checks",
-      "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-16T11:08:33+00:00"
     },
     {
       "id": "fa4243fe050db6bcf6ed320d",
