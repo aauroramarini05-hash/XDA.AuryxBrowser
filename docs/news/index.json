@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-07-23T01:56:41.476201+00:00",
+  "updatedAt": "2026-07-23T05:20:36.698700+00:00",
   "items": [
+    {
+      "id": "fd7d18325b7289c767303f9c",
+      "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+      "summary": "Co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-23T05:07:46+00:00"
+    },
+    {
+      "id": "1d4c7f207e266a7393a7cf4b",
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-23T03:48:27+00:00"
+    },
+    {
+      "id": "c37629ac771d23f3212bd946",
+      "title": "Doom Co-Creator John Romero to Headline Gamescom Asia x Thailand Game Show 2026",
+      "summary": "",
+      "url": "https://www.ign.com/articles/doom-co-creator-john-romero-to-headline-gamescom-asia-x-thailand-game-show-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T03:24:34+00:00"
+    },
+    {
+      "id": "5223cc1c2393ae667be749df",
+      "title": "50/50 Director Jonathan Levine in Talks to Direct Tom Cruise Sequel Days of Thunder 2",
+      "summary": "Paramount prepares to drop the hammer on another high-speed Tom Cruise legacy sequel.",
+      "url": "https://www.ign.com/articles/5050-director-jonathan-levine-in-talks-to-direct-tom-cruise-sequel-days-of-thunder-2",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T03:10:51+00:00"
+    },
     {
       "id": "a6e31ff472a0003176ba65fd",
       "title": "US signs landmark nuclear deal with Saudi Arabia",
@@ -88,17 +132,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-22T22:20:00+00:00"
-    },
-    {
-      "id": "8d14ca40a285b4abe2d22bb6",
-      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T22:17:54+00:00"
     },
     {
       "id": "918e9c0d91f3b31c8e187afc",
@@ -409,28 +442,6 @@
       "publishedAt": "2026-07-22T15:42:04+00:00"
     },
     {
-      "id": "58269e9ec7b79562f4e017d2",
-      "title": "The State of Every PlayStation Studio - July 2026",
-      "summary": "God of War Laufey, Marvel's Wolverine, Intergalactic: The Heretic Prophet — Here's what game every PlayStation studio is making.",
-      "url": "https://www.ign.com/articles/the-state-of-every-playstation-studio-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T15:30:00+00:00"
-    },
-    {
-      "id": "c86108fb7b14b1fda09ddfb9",
-      "title": "[UPDATE] Stalker 2 Dev Hits Out at Founder's Comments on Xbox Exclusivity, Insist He Doesn't Know What He's Talking About",
-      "summary": "The founder of Stalker 2 developer GSC Game World has said the game turned a profit before it even came out thanks to the money Microsoft paid for Xbox exclusivity.",
-      "url": "https://www.ign.com/articles/stalker-2-turned-a-profit-before-it-came-out-thanks-to-money-microsoft-paid-for-xbox-exclusivity",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T15:27:09+00:00"
-    },
-    {
       "id": "e83ef4bb6db93d5d36555c04",
       "title": "Mysterious white foam draws crowds on Nigerian highway",
       "summary": "The environmental agency has warned people to avoid going near the substance as it could pose a health risk.",
@@ -506,17 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T08:02:04+00:00"
-    },
-    {
-      "id": "0c1b923782bf8e1645ddfe43",
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T05:37:43+00:00"
     },
     {
       "id": "fc24deb86900864fb8304202",
@@ -869,17 +869,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-15T18:11:57+00:00"
-    },
-    {
-      "id": "ede8a9c4141890420810e97d",
-      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-      "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-15T11:24:29+00:00"
     },
     {
       "id": "fa4243fe050db6bcf6ed320d",
