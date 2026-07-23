@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-07-23T05:20:36.698700+00:00",
+  "updatedAt": "2026-07-23T08:13:05.958786+00:00",
   "items": [
     {
-      "id": "fd7d18325b7289c767303f9c",
-      "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
-      "summary": "Co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+      "id": "12288c2e458389ba3994ffca",
+      "title": "Google burning through cash with spiralling AI costs",
+      "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-07-23T05:07:46+00:00"
+      "publishedAt": "2026-07-23T07:15:59+00:00"
+    },
+    {
+      "id": "a603612ab5b3628cbd7b804a",
+      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+      "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
+      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-23T06:37:23+00:00"
+    },
+    {
+      "id": "89d6fc897aefb988b4d21ecf",
+      "title": "Matt Damon Almost Starred as Robin in Two Different Batman Movies",
+      "summary": "“I remember Chris O’Donnell already had the part, but they were haggling over money,” explains Damon.",
+      "url": "https://www.ign.com/articles/matt-damon-almost-starred-as-robin-in-two-different-batman-movies",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T06:29:18+00:00"
+    },
+    {
+      "id": "7444974cb5bdbf57bd9ec495",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-23T06:15:35+00:00"
+    },
+    {
+      "id": "9a2590b42d1a8c66736dee80",
+      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+      "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-23T05:46:09+00:00"
     },
     {
       "id": "1d4c7f207e266a7393a7cf4b",
@@ -90,28 +134,6 @@
       "publishedAt": "2026-07-22T23:22:53+00:00"
     },
     {
-      "id": "7444974cb5bdbf57bd9ec495",
-      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T23:06:08+00:00"
-    },
-    {
-      "id": "12288c2e458389ba3994ffca",
-      "title": "Google burning through cash with spiralling AI costs",
-      "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-22T23:02:32+00:00"
-    },
-    {
       "id": "77881f016cdc6675fe9c4266",
       "title": "Watch: What we know about the US-Saudi nuclear deal",
       "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
@@ -154,17 +176,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T22:04:07+00:00"
-    },
-    {
-      "id": "9a2590b42d1a8c66736dee80",
-      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
-      "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T22:03:43+00:00"
     },
     {
       "id": "0a3519782a35725270a48e20",
@@ -429,17 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T15:50:17+00:00"
-    },
-    {
-      "id": "9b6b54d8189e2052c233d134",
-      "title": "Microsoft Announces Xbox Backward Compatibility on PC, With New Features and Achievements",
-      "summary": "Microsoft has announced Xbox Backward Compatibility on PC, allowing you to play classic console games on PC and handhelds such as the Xbox Ally X for the first time.",
-      "url": "https://www.ign.com/articles/microsoft-announces-xbox-backward-compatibility-on-pc-with-new-features-and-achievements",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T15:42:04+00:00"
     },
     {
       "id": "e83ef4bb6db93d5d36555c04",
@@ -869,6 +869,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-15T18:11:57+00:00"
+    },
+    {
+      "id": "ede8a9c4141890420810e97d",
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+      "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-15T11:24:29+00:00"
     },
     {
       "id": "fa4243fe050db6bcf6ed320d",
