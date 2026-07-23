@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-07-22T23:01:30.505394+00:00",
+  "updatedAt": "2026-07-23T01:56:41.476201+00:00",
   "items": [
     {
-      "id": "77881f016cdc6675fe9c4266",
-      "title": "Watch: What we know about the US-Saudi nuclear deal",
-      "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
-      "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+      "id": "a6e31ff472a0003176ba65fd",
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-22T22:45:08+00:00"
+      "publishedAt": "2026-07-23T00:21:53+00:00"
+    },
+    {
+      "id": "5c27263bc1b05b4b243b3f26",
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-23T00:15:12+00:00"
+    },
+    {
+      "id": "22143bd9249ed2de76312212",
+      "title": "LEGO Donkey Kong Arcade Set Officially Announced",
+      "summary": "LEGO's latest Nintendo set features Donkey Kong, Lady, and Jumpman himself.",
+      "url": "https://www.ign.com/articles/lego-donkey-kong-arcade-set-officially-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T00:15:00+00:00"
+    },
+    {
+      "id": "ab9742189e3472445c3251da",
+      "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+      "summary": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-22T23:22:53+00:00"
+    },
+    {
+      "id": "7444974cb5bdbf57bd9ec495",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-22T23:06:08+00:00"
     },
     {
       "id": "12288c2e458389ba3994ffca",
@@ -21,7 +65,18 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-07-22T22:41:02+00:00"
+      "publishedAt": "2026-07-22T23:02:32+00:00"
+    },
+    {
+      "id": "77881f016cdc6675fe9c4266",
+      "title": "Watch: What we know about the US-Saudi nuclear deal",
+      "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+      "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-22T22:45:08+00:00"
     },
     {
       "id": "61b751a566a71f02c6110f11",
@@ -90,17 +145,6 @@
       "publishedAt": "2026-07-22T21:34:38+00:00"
     },
     {
-      "id": "a6e31ff472a0003176ba65fd",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T21:31:25+00:00"
-    },
-    {
       "id": "2d614863cad1ed5ccd9288eb",
       "title": "Fire kills 10 members of same family in Peru, police say",
       "summary": "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.",
@@ -165,6 +209,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T19:03:08+00:00"
+    },
+    {
+      "id": "4b1a042704b53fa0577e315c",
+      "title": "10 Romantasy Books You Should Start Reading in 2026",
+      "summary": "If you're new to the genre and looking for some recommendations for what to read first, here's where to start.",
+      "url": "https://www.ign.com/articles/best-romantasy-book-series",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T19:00:00+00:00"
     },
     {
       "id": "94a81091399cf8fefecae91c",
@@ -376,50 +431,6 @@
       "publishedAt": "2026-07-22T15:27:09+00:00"
     },
     {
-      "id": "a65f6b3043fb3d4793351f3b",
-      "title": "Kevin Feige Says Marvel Has Movies Planned 'All the Way Up to 2042,' Including a Major X-Men Push and Live-Action Miles Morales",
-      "summary": "Marvel has mapped out its movie plans up to 2042, studio boss Kevin Feige has said, hinting at a \"streamlined, simplified\" universe post-Avengers: Secret Wars, a big push for the new X-Men, and plans to eventually unveil a live-action Miles Morales.",
-      "url": "https://www.ign.com/articles/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to-2042-including-a-major-x-men-push-and-live-action-miles-morales",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T15:21:26+00:00"
-    },
-    {
-      "id": "f326b07dc57c19389e3620b3",
-      "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-      "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
-      "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T15:19:48+00:00"
-    },
-    {
-      "id": "9cd0f013a0ecc39b2ce4f3f4",
-      "title": "Hasbro's The Legend of Zelda Figures Have Been Revealed, and They Look Amazing | Comic Con 2026",
-      "summary": "Hasbro is revealing its first wave of The Legend of Zelda: Heroes of Hyrule figures at Comic-Con, and we've got an exclusive first look at all three.",
-      "url": "https://www.ign.com/articles/hasbros-the-legend-of-zelda-figures-have-been-revealed-and-they-look-amazing-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-22T15:00:00+00:00"
-    },
-    {
-      "id": "bb7ab142dd6a33b815aeb941",
-      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T14:52:25+00:00"
-    },
-    {
       "id": "e83ef4bb6db93d5d36555c04",
       "title": "Mysterious white foam draws crowds on Nigerian highway",
       "summary": "The environmental agency has warned people to avoid going near the substance as it could pose a health risk.",
@@ -506,17 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T05:37:43+00:00"
-    },
-    {
-      "id": "62870ed1e3078f6272e0585a",
-      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "summary": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
-      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T05:33:04+00:00"
     },
     {
       "id": "fc24deb86900864fb8304202",
