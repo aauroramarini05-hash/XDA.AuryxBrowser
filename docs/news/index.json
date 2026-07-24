@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-07-24T22:57:02.789691+00:00",
+  "updatedAt": "2026-07-24T23:59:49.267035+00:00",
   "items": [
+    {
+      "id": "888505ed1046aea316a7a582",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T23:58:43+00:00"
+    },
+    {
+      "id": "df61c04e1c6955c3e12a2665",
+      "title": "Marvel Comics Makes Eddie Brock Venom Again | Comic Con 2026",
+      "summary": "Marvel Comics is bringing Venom back to basics, as Eddie Brock dons the symbiote once more in a new monthly series launching in October 2026.",
+      "url": "https://www.ign.com/articles/marvel-comics-makes-eddie-brock-venom-again-comic-con-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T23:30:00+00:00"
+    },
+    {
+      "id": "913d8c153a163c20b47866f2",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-24T23:11:13+00:00"
+    },
+    {
+      "id": "1927b4f82cc512099cbd8bdc",
+      "title": "Lanterns: We Think We Know Who the Real Villain Is Based on the New Trailer | Comic Con 2026",
+      "summary": "Especially given how much earlier promo material made Lanterns seem like a True Detective or Yellowstone spin-off that featured a Lantern ring or two, the new trailer looks to set fan worries aside by showing off the show’s more cosmic elements, including fan-favorite characters and concepts from the comics.",
+      "url": "https://www.ign.com/articles/lanterns-we-think-we-know-who-the-real-villain-is-based-on-the-new-trailer-comic-con-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T23:04:01+00:00"
+    },
+    {
+      "id": "f7cb43a60b55008cabfeceda",
+      "title": "'The dogs were getting upset': How LA band Muna survived their worst ever gig",
+      "summary": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
+      "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T23:01:10+00:00"
+    },
+    {
+      "id": "3a21870468e84c6d448fe762",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T23:01:06+00:00"
+    },
     {
       "id": "923bb4c55a7d84bc24f6be68",
       "title": "Four Palestinians and two Israelis killed in West Bank shooting",
@@ -11,6 +77,28 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-24T22:49:59+00:00"
+    },
+    {
+      "id": "24ea0c4bd200bb8d340ed5fe",
+      "title": "God of War Laufey SDCC Panel Live Report | Comic Con 2026",
+      "summary": "IGN’s live reporting of San Diego Comic-Con 2026 continues, this time from the front row of the God of War Laufey panel.",
+      "url": "https://www.ign.com/articles/everything-announced-at-the-god-of-war-laufey-sdcc-panel-comic-con-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T22:48:54+00:00"
+    },
+    {
+      "id": "d62041ebfc633ad33f5000c5",
+      "title": "Five Biggest Reveals From the Lanterns San Diego Comic Con Panel",
+      "summary": "The Lanterns panel at San Diego Comic Con revealed a slew of exciting announcements about HBO’s take on the DC hero. Here’s everything we learned.",
+      "url": "https://www.ign.com/articles/five-biggest-reveals-from-the-lanterns-san-diego-comic-con-panel",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T22:42:01+00:00"
     },
     {
       "id": "af1a9d021b5227130fc9ce64",
@@ -112,17 +200,6 @@
       "publishedAt": "2026-07-24T20:37:21+00:00"
     },
     {
-      "id": "df61c04e1c6955c3e12a2665",
-      "title": "Marvel Comics Makes Eddie Brock Venom Again | Comic Con 2026",
-      "summary": "Marvel Comics is bringing Venom back to basics, as Eddie Brock dons the symbiote once more in a new monthly series launching in October 2026.",
-      "url": "https://www.ign.com/articles/marvel-comics-makes-eddie-brock-venom-again-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T20:30:00+00:00"
-    },
-    {
       "id": "0d564154ab6730d7c1b35eed",
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
@@ -176,17 +253,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-24T18:55:00+00:00"
-    },
-    {
-      "id": "888505ed1046aea316a7a582",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-24T18:51:17+00:00"
     },
     {
       "id": "d3d5d966d6150ba9f934c97c",
@@ -277,39 +343,6 @@
       "publishedAt": "2026-07-24T17:35:00+00:00"
     },
     {
-      "id": "8c2b8ae7a0541f3f43f0d753",
-      "title": "The Future's Bright in Blade Runner 2099's Debut Trailer | Comic Con 2026",
-      "summary": "Prime Video has revealed Blade Runner 2099 with a debut trailer at San Diego Comic-Con 2026, and confirmed all eight episodes will drop on November 25, 2026.",
-      "url": "https://www.ign.com/articles/the-futures-bright-in-blade-runner-2099s-debut-trailer-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T17:31:36+00:00"
-    },
-    {
-      "id": "7f353994bd062c7a8db7d405",
-      "title": "Frankenstein’s Criterion Collection Release Is Up for Preorder – Here’s Where You Can Buy It",
-      "summary": "Guillermo del Toro's Frankenstein is joining the Criterion Collection on October 27. Here's where you can preorder its 4K, Blu-ray, and DVD.",
-      "url": "https://www.ign.com/articles/frankenstein-criterion-collection-4k-blu-ray-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T17:30:00+00:00"
-    },
-    {
-      "id": "625704fb03c67c47c3553b3f",
-      "title": "King of the Hill’s Pamela Adlon Reveals Her Favorite Bobby Hill Episodes",
-      "summary": "Meta Description: Pamela Adlon discusses the King of the Hill Hulu revival, finding 21-year-old Bobby's voice, and why she wants to play the character for the rest of her life.",
-      "url": "https://www.ign.com/articles/pamela-adlon-king-of-the-hill-bobby-voice",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T16:13:16+00:00"
-    },
-    {
       "id": "1fda37e3b97252449658e959",
       "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
       "summary": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
@@ -385,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-24T13:33:06+00:00"
-    },
-    {
-      "id": "59206ade3aae94bd92e2de6e",
-      "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
-      "summary": "He is among more than 130 people detained over planned protests calling for democratic reforms.",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-24T12:55:58+00:00"
     },
     {
       "id": "c4d4525ff2f510dcd9143e13",
@@ -695,17 +717,6 @@
       "publishedAt": "2026-07-23T04:49:24+00:00"
     },
     {
-      "id": "ab9742189e3472445c3251da",
-      "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
-      "summary": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T23:22:53+00:00"
-    },
-    {
       "id": "102cf6f1d9744a337371022f",
       "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
       "summary": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
@@ -847,17 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-20T20:08:56+00:00"
-    },
-    {
-      "id": "41654f7f8ea375339c6f6f1b",
-      "title": "Ofcom unable to take further legal action against suicide forum",
-      "summary": "The regulator said it had \"no further legal routes available\" under the Online Safety Act.",
-      "url": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-20T16:57:30+00:00"
     },
     {
       "id": "b5950398d0a0b3dc335dfa8a",
