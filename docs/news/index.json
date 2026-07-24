@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-07-24T05:12:46.219697+00:00",
+  "updatedAt": "2026-07-24T08:09:20.588010+00:00",
   "items": [
     {
-      "id": "451f550de857de6f63ffb921",
-      "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
-      "summary": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour.",
+      "id": "5c01fccd5c2c568ca5ceaf48",
+      "title": "US hits dozens of trading partners with new wave of tariffs",
+      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-24T04:27:15+00:00"
+      "publishedAt": "2026-07-24T07:12:13+00:00"
+    },
+    {
+      "id": "2de59bac2d61892daa4e3391",
+      "title": "Posez vos questions sur l’interdiction des réseaux sociaux aux moins de 15 ans",
+      "summary": "Députés et sénateurs ont adopté, mardi 21 juillet, l’interdiction des réseaux sociaux aux moins de 15 ans. Florian Reynaud et Morgane Tual, journalistes au service Pixels du « Monde », répondent à vos questions par tchat à partir de 10 heures.",
+      "url": "https://www.lemonde.fr/pixels/live/2026/07/24/posez-vos-questions-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans_6731466_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-24T07:00:15+00:00"
+    },
+    {
+      "id": "b555115bf5a53ffd7ccbd140",
+      "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
+      "summary": "The meeting comes hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T06:30:34+00:00"
+    },
+    {
+      "id": "d8bdea0565d40dadf44e9668",
+      "title": "Families still search for bodies a month after Venezuela earthquakes",
+      "summary": "Officials say the death toll has surpassed 5,300, though estimates of the number still missing could be as high as 50,000.",
+      "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T05:47:11+00:00"
+    },
+    {
+      "id": "37fc9516e46cba29c669ccf3",
+      "title": "Seth Green’s Star Wars: Detours Will Finally See the Light of Day",
+      "summary": "A selection of episodes from Seth Green’s animated Star Wars sitcom will be exhibited at the soon-to-open Lucas Museum.",
+      "url": "https://www.ign.com/articles/seth-greens-star-wars-detours-will-finally-see-the-light-of-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T05:09:17+00:00"
     },
     {
       "id": "b1544bfca45ac97dbfe9f968",
@@ -21,7 +65,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-24T04:00:17+00:00"
+      "publishedAt": "2026-07-24T04:00:13+00:00"
     },
     {
       "id": "55e6fd94ae33f7f923af95b1",
@@ -55,6 +99,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-24T01:45:10+00:00"
+    },
+    {
+      "id": "63910b23db40640c5c1f5c95",
+      "title": "Watch: Driver dressed as Spider-Man whisks man in a wheelchair across busy road",
+      "summary": "Traffic junction footage captured the moment a man dressed as Spider-Man helped a man cross a busy highway .",
+      "url": "https://www.bbc.co.uk/news/videos/c4gv311jr01o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T01:39:01+00:00"
     },
     {
       "id": "78e6203c1b1410e252b8ab7a",
@@ -167,19 +222,8 @@
       "publishedAt": "2026-07-23T21:45:00+00:00"
     },
     {
-      "id": "387ef471c8f8d4bc8b869b26",
-      "title": "India activist ends hunger strike after 26 days",
-      "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-23T21:27:04+00:00"
-    },
-    {
-      "id": "cf876d9c46e3ae5f4687d471",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+      "id": "64ed1a3dea9c4f872b187c70",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
       "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
       "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -387,20 +431,9 @@
       "publishedAt": "2026-07-23T17:37:59+00:00"
     },
     {
-      "id": "bebf5427a77886b74a65e41d",
-      "title": "The Steam Deck's Demand Has Reportedly Cratered",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-steam-decks-demand-has-reportedly-cratered",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-23T17:12:34+00:00"
-    },
-    {
       "id": "a688ef0d2c505260411d2a5d",
       "title": "Comment les sites tentent de s’adapter à la recherche par IA, susceptible de « changer l’économie du Web »",
-      "summary": "Depuis mercredi, le géant de la recherche en ligne Google affiche désormais pour certaines recherches des réponses générées par l’intelligence artificielle, les « AI Overviews », plutôt qu’une liste de liens classiques. Les éditeurs de sites Internet et les marques craignent pour leur visibilité, et tentent de trouver des parades.",
+      "summary": "Depuis mercredi 22 juillet, Google affiche pour certaines recherches des réponses générées par l’intelligence artificielle, les « AI Overviews », plutôt qu’une liste de liens. Les éditeurs de sites Internet et les marques craignent pour leur visibilité, et tentent de trouver des parades.",
       "url": "https://www.lemonde.fr/pixels/article/2026/07/23/comment-les-sites-tentent-de-s-adapter-a-la-recherche-par-ia-susceptible-de-changer-l-economie-du-web_6731068_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -673,17 +706,6 @@
       "publishedAt": "2026-07-22T17:54:57+00:00"
     },
     {
-      "id": "b042a1a2bc2d5c7d8436298d",
-      "title": "Watch: Louvre reopens gallery after jewellery heist",
-      "summary": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
-      "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T16:54:33+00:00"
-    },
-    {
       "id": "2731e01cdcad621087ca2190",
       "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
       "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
@@ -825,17 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-21T15:00:04+00:00"
-    },
-    {
-      "id": "3a4ca83d970faa5c3da6a651",
-      "title": "Cyberarnaques en Asie : l’ONU alerte sur « l’ampleur spectaculaire de cette économie criminelle »",
-      "summary": "Dans un rapport, les Nations unies notent que ces activités se poursuivent malgré l’arrestation des chefs de file et évoluent grâce à l’essor de l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/21/cyberarnaques-en-asie-l-onu-alerte-sur-l-ampleur-spectaculaire-de-cette-economie-criminelle_6728782_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-21T13:09:20+00:00"
     },
     {
       "id": "748c88af8b3088568372d356",
