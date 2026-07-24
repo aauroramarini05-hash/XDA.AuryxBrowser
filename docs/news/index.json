@@ -1,38 +1,170 @@
 {
-  "updatedAt": "2026-07-24T08:09:20.588010+00:00",
+  "updatedAt": "2026-07-24T10:54:31.040997+00:00",
   "items": [
     {
-      "id": "5c01fccd5c2c568ca5ceaf48",
-      "title": "US hits dozens of trading partners with new wave of tariffs",
+      "id": "4c6eca723bee0e733047f39c",
+      "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T10:50:26+00:00"
+    },
+    {
+      "id": "3ee2a2f1b63822d53a9e9679",
+      "title": "L’UE reproche à TikTok de ne pas protéger suffisamment les mineurs, créant des risques de cyberharcèlement et d’exposition à d’éventuels prédateurs",
+      "summary": "L’exécutif bruxellois demande à la plate-forme de modifier ses paramètres de comptes pour se conformer à ses obligations, faute de quoi elle pourrait lui infliger une amende allant jusqu’à 6 % de son chiffre d’affaires mondial.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/24/la-commission-europeenne-reproche-a-tiktok-de-ne-pas-proteger-suffisamment-les-mineurs_6731493_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-24T10:48:15+00:00"
+    },
+    {
+      "id": "f478d1fc44fd7d797eaf0c13",
+      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T10:34:04+00:00"
+    },
+    {
+      "id": "64c098d3135f194b490dddcd",
+      "title": "India's 'cockroach' protesters hold talks with government as stalemate continues",
+      "summary": "The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T10:31:10+00:00"
+    },
+    {
+      "id": "795b93f94ab2f5dca5920de0",
+      "title": "'It's Good to Be Back': Johnny Depp Meets Fans as Ebenezer Scrooge, as First Trailer Drops for His Big Hollywood Return",
+      "summary": "Johnny Depp has returned to the Hollywood limelight with a surprise appearance at Comic-Con in character as Ebenezer Scrooge.",
+      "url": "https://www.ign.com/articles/its-good-to-be-back-johnny-depp-meets-fans-as-ebenezer-scrooge-as-first-trailer-drops-for-his-big-hollywood-return",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T10:25:20+00:00"
+    },
+    {
+      "id": "755b90e9dfc5a548d8d3bae4",
+      "title": "Watch: Are Trump's tariffs delivering on his objectives?",
+      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T10:21:31+00:00"
+    },
+    {
+      "id": "a5e6521b25e0861776031d2c",
+      "title": "Watch: Wildfires rage across France and Spain",
+      "summary": "French authorities order evacuations in tourist hot spot, as Spain's government declares national emergency.",
+      "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T10:02:51+00:00"
+    },
+    {
+      "id": "754c721267140a8b9a8d4170",
+      "title": "Avec les aperçus IA de Google, l’épineuse question des sources et de la fiabilité",
+      "summary": "Les réponses rédigées par l’intelligence artificielle qui s’affichent désormais en haut des résultats du moteur de recherche s’avèrent plus qu’imprécises, selon les tests réalisés par « Le Monde ». La qualité des sources auprès desquelles sont puisées les informations n’est pas non plus sans poser de questions.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/24/avec-les-apercus-ia-de-google-l-epineuse-question-des-sources-et-de-la-fiabilite_6731489_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-24T10:00:12+00:00"
+    },
+    {
+      "id": "b8d2cf9fb19db77a4538b137",
+      "title": "PlayStation Killing Discs Has Upsides, Ubisoft Boss Yves Guillemot Says, Pointing to Cheaper Consoles Without Disc Drives",
+      "summary": "Sony's controversial decision to kill PlayStation 5 discs could have some upsides, Ubisoft boss Yves Guillemot has said.",
+      "url": "https://www.ign.com/articles/playstation-killing-discs-has-upsides-ubisoft-boss-yves-guillemot-says-pointing-to-cheaper-consoles-without-disc-drives",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T09:45:32+00:00"
+    },
+    {
+      "id": "dfaf199b3b3de4912bf45096",
+      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T09:20:07+00:00"
+    },
+    {
+      "id": "19c5a5690a7a70dd1798dcd9",
+      "title": "'One Day, I'm Sure': Spider-Man: Brand New Day Star Tom Holland Teases Venom Symbiote",
+      "summary": "Tom Holland has teased a return of the Venom Symbiote, as the hours count down to the launch of Spider-Man: Brand New Day.",
+      "url": "https://www.ign.com/articles/one-day-im-sure-spider-man-brand-new-day-star-tom-holland-teases-venom-symbiote",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T09:07:38+00:00"
+    },
+    {
+      "id": "c4d4525ff2f510dcd9143e13",
+      "title": "US hits dozens of countries with new wave of tariffs",
       "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-24T07:12:13+00:00"
+      "publishedAt": "2026-07-24T08:59:31+00:00"
     },
     {
-      "id": "2de59bac2d61892daa4e3391",
-      "title": "Posez vos questions sur l’interdiction des réseaux sociaux aux moins de 15 ans",
-      "summary": "Députés et sénateurs ont adopté, mardi 21 juillet, l’interdiction des réseaux sociaux aux moins de 15 ans. Florian Reynaud et Morgane Tual, journalistes au service Pixels du « Monde », répondent à vos questions par tchat à partir de 10 heures.",
+      "id": "fe6091d10145e10c2da58247",
+      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+      "summary": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T08:30:58+00:00"
+    },
+    {
+      "id": "5ea036d468066f4f19ac1f40",
+      "title": "Why have thousands taken to the streets? India's 'cockroach' protest explained",
+      "summary": "India is seeing one of its biggest protests in recent years. But why did it start? And why is the mascot a cockroach? Here's what you need to know.",
+      "url": "https://www.bbc.co.uk/news/videos/c3307vgneveo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T08:28:52+00:00"
+    },
+    {
+      "id": "e8b79b2912dd36f8bdbfa922",
+      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : « La Commission européenne envisage plutôt “un accès progressif et gradué pour différentes classes d’âge” »",
+      "summary": "Députés et sénateurs ont adopté, mardi 21 juillet, l’interdiction des réseaux sociaux aux moins de 15 ans. Florian Reynaud et Morgane Tual, journalistes au service Pixels du « Monde », ont répondu à vos questions.",
       "url": "https://www.lemonde.fr/pixels/live/2026/07/24/posez-vos-questions-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans_6731466_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-24T07:00:15+00:00"
-    },
-    {
-      "id": "b555115bf5a53ffd7ccbd140",
-      "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
-      "summary": "The meeting comes hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-24T06:30:34+00:00"
+      "publishedAt": "2026-07-24T07:00:09+00:00"
     },
     {
       "id": "d8bdea0565d40dadf44e9668",
@@ -200,17 +332,6 @@
       "publishedAt": "2026-07-23T22:25:21+00:00"
     },
     {
-      "id": "f964bf676d2ccc6b299a8a35",
-      "title": "Could you run a country on just three hours of sleep? Japan's PM says she does",
-      "summary": "Japan’s prime minister Sanae Takaichi says she survives on zero to three hours a night, and people are reacting.",
-      "url": "https://www.bbc.co.uk/news/videos/cz05l8ndy0mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-23T22:03:09+00:00"
-    },
-    {
       "id": "b98cfc87b67d698c73cdb33a",
       "title": "After the Avengers Fall, Marvel Will Introduce the Maximum X-Men | Comic Con 2026",
       "summary": "With Avengers: Armageddon decimating Earth's Mightiest Heroes, a new team of mutant heroes will rise up to fil lthe void in Marvel's Maximum X-Men.",
@@ -299,17 +420,6 @@
       "publishedAt": "2026-07-23T19:24:44+00:00"
     },
     {
-      "id": "308ab483e404cb55223d76ff",
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-23T19:17:42+00:00"
-    },
-    {
       "id": "08f404b4c91b9be51f7026bd",
       "title": "We Got a Closer Look at the LEGO Donkey Kong Arcade Set at SDCC | Comic Con 2026",
       "summary": "See how you can \"play\" the upcoming LEGO Donkey Kong Arcade set, making Jumpman run and jump over barrels.",
@@ -365,28 +475,6 @@
       "publishedAt": "2026-07-23T18:25:00+00:00"
     },
     {
-      "id": "e99cb0c3ff46c50f8f15357b",
-      "title": "The $1,800 Power Lift Recliner and Massage Chair Drops to $350 at Wayfair After a Massive 80% Discount",
-      "summary": "A chair you don't want to get it out of, even if it's designed to help you do so.",
-      "url": "https://www.ign.com/articles/wayfair-power-lift-recliner-and-massage-chair-deal-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-23T18:10:00+00:00"
-    },
-    {
-      "id": "4b91c068a774d76affe0cc6a",
-      "title": "LEGO Announces Star Trek: U.S.S. Enterprise NCC-1701 Bridge Set, Now Up for Preorder",
-      "summary": "LEGO has announced a new Star Trek: U.S.S. Enterprise NCC-1701 Bridge set, coming in September.",
-      "url": "https://www.ign.com/articles/lego-star-trek-uss-enterprise-ncc-1701-bridge-set-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-23T18:05:27+00:00"
-    },
-    {
       "id": "9b6fe00be58903cb4b00f9e1",
       "title": "Le modèle de Wikipédia menacé par l’IA",
       "summary": "Pour la première fois à Paris, plus de 1 200 « wikipédiens » sont réunis dans le cadre de la Wikimania, leur rassemblement mondial annuel. Les questions concernant l’avenir de l’encyclopédie collaborative à l’heure de l’intelligence artificielle agitent la communauté.",
@@ -407,17 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-23T17:58:02+00:00"
-    },
-    {
-      "id": "b0b69c00df9b0ce65fcdfa19",
-      "title": "Today’s Top Deals: Metaphor: ReFantazio, Logitech G29 Racing Wheel, and G PRO X Superlight 2 Mouse",
-      "summary": "And Pokémon TCG - Pitch Black is even cheaper on Amazon, plus more incredible discounts.",
-      "url": "https://www.ign.com/articles/best-deals-for-july-23-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-23T17:40:00+00:00"
     },
     {
       "id": "f0f4f1e02b6fd7b9fcea2c8d",
@@ -541,17 +618,6 @@
       "publishedAt": "2026-07-23T12:58:40+00:00"
     },
     {
-      "id": "6854529b533f9a968cb171c2",
-      "title": "Liquor store employee narrowly escapes leopard attack",
-      "summary": "After nearly five hours, officials captured the animal and it was later released back into the wild, local authorities confirmed.",
-      "url": "https://www.bbc.co.uk/news/videos/cly893zrjgdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-23T12:49:55+00:00"
-    },
-    {
       "id": "5fe270924cdc4b0fac756cf5",
       "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
       "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
@@ -638,17 +704,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-22T23:22:53+00:00"
-    },
-    {
-      "id": "77881f016cdc6675fe9c4266",
-      "title": "Watch: What we know about the US-Saudi nuclear deal",
-      "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
-      "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-22T22:45:08+00:00"
     },
     {
       "id": "102cf6f1d9744a337371022f",
@@ -825,28 +880,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-21T16:09:09+00:00"
-    },
-    {
-      "id": "ef27728b6cdb1003dbd34cc1",
-      "title": "« Arrêter l’IA parce qu’elle présente des risques ? C’est comme si l’on avait voulu interdire l’automobile parce qu’elle provoquait des accidents »",
-      "summary": "Le problème des humains n’est pas de choisir entre une accélération ou un ralentissement de l’intelligence artificielle mais de créer les conditions d’une confiance citoyenne, plaident l’entrepreneur Eric Hazan et le professeur à HEC Olivier Sibony, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/21/arreter-l-ia-parce-qu-elle-presente-des-risques-c-est-comme-si-l-on-avait-voulu-interdire-l-automobile-parce-qu-elle-provoquait-des-accidents_6728858_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-21T15:00:04+00:00"
-    },
-    {
-      "id": "b7d490095080083d3ae2f377",
-      "title": "Denis Podalydès, victime d’un deepfake audio, choisit la voie de la justice",
-      "summary": "Pour la première fois, un acteur dont la voix a été utilisée par l’intelligence artificielle sans son accord porte plainte au pénal en vertu du délit d’hypertrucage introduit en 2024. La chaîne Youtube consacrée à la philosophie mise en cause a fermé en début d’année.",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/07/21/victime-d-un-deepfake-audio-le-comedien-denis-podalydes-choisit-la-voie-de-la-justice_6728860_4500055.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-21T15:00:04+00:00"
     },
     {
       "id": "748c88af8b3088568372d356",
