@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-07-24T20:11:14.214927+00:00",
+  "updatedAt": "2026-07-24T21:56:41.544890+00:00",
   "items": [
+    {
+      "id": "5531ac2953e2638ba2c8560b",
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-24T21:47:16+00:00"
+    },
+    {
+      "id": "a0146482e7672acf71fca811",
+      "title": "Don't Play Halo: Campaign Evolved on Steam Deck or Xbox Ally",
+      "summary": "The new Halo: Campaign Evolved looks terrible on low-end hardware like the Steam Deck and Xbox Ally, with worse image quality than the older Master Chief Collection. If you want to play Halo handheld, you're better off with the older game.",
+      "url": "https://www.ign.com/articles/dont-play-halo-campaign-evolved-on-steam-deck-or-xbox-ally",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T21:14:44+00:00"
+    },
+    {
+      "id": "93c530fdc9058bed9446a21e",
+      "title": "Brad Bird Debuts New Footage From Ray Gunn and Talks About the Movie's Sci-Fi Noir Approach | Comic Con 2026",
+      "summary": "At San Diego Comic-Con, director Brad Bird (The Incredibles, Ratatouille) revealed more about his newest animated film, Ray Gunn, along with debuting the opening seven minutes of the upcoming Netflix release.",
+      "url": "https://www.ign.com/articles/brad-bird-ray-gunn-sdcc-footage-first-look",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T21:12:16+00:00"
+    },
     {
       "id": "f93659dfb04973de7478d5a9",
       "title": "ICC top prosecutor removed over sexual misconduct allegations",
@@ -10,7 +43,62 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-24T19:57:04+00:00"
+      "publishedAt": "2026-07-24T21:02:30+00:00"
+    },
+    {
+      "id": "382c67306208a13091380aa2",
+      "title": "Chuck Russell, Director Behind A Nightmare on Elm Street 3 and The Mask, Dead at 74",
+      "summary": "Chuck Russell, the director behind movies like The Mask and A Nightmare on Elm Street 3: Dream Warriors, has died at 74.",
+      "url": "https://www.ign.com/articles/chuck-russell-director-behind-a-nightmare-on-elm-street-3-and-the-mask-dead-at-74",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T20:43:23+00:00"
+    },
+    {
+      "id": "0de38654ab5cd4588eb5276e",
+      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
+      "summary": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-24T20:37:21+00:00"
+    },
+    {
+      "id": "df61c04e1c6955c3e12a2665",
+      "title": "Marvel Comics Makes Eddie Brock Venom Again | Comic Con 2026",
+      "summary": "Marvel Comics is bringing Venom back to basics, as Eddie Brock dons the symbiote once more in a new monthly series launching in October 2026.",
+      "url": "https://www.ign.com/articles/marvel-comics-makes-eddie-brock-venom-again-comic-con-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T20:30:00+00:00"
+    },
+    {
+      "id": "0d564154ab6730d7c1b35eed",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-24T20:23:58+00:00"
+    },
+    {
+      "id": "61ad0901c6ad38a04d3213b2",
+      "title": "Halo: Campaign Evolved Secret Ending Cutscene Suggests a Halo 2 Remake Is on the Way",
+      "summary": "Halo Studios seems to have teased a Halo 2 remake in a secret ending cutscene for Halo: Campaign Evolved.",
+      "url": "https://www.ign.com/articles/halo-campaign-evolved-secret-ending-cutscene-suggests-a-halo-2-remake-is-on-the-way",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T19:43:18+00:00"
     },
     {
       "id": "56e408c4fe28e9947f7a2ac3",
@@ -22,17 +110,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-24T19:20:52+00:00"
-    },
-    {
-      "id": "0d564154ab6730d7c1b35eed",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-24T18:57:39+00:00"
     },
     {
       "id": "ab60be80aa50c8d38ced1b7b",
@@ -189,17 +266,6 @@
       "publishedAt": "2026-07-24T17:30:00+00:00"
     },
     {
-      "id": "03a0324092d85b8321daba94",
-      "title": "PlayStation Network down, leaving thousands of gamers unable to play",
-      "summary": "Sony's status page read that it was \"working to resolve the issue as soon as possible\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-24T16:59:25+00:00"
-    },
-    {
       "id": "625704fb03c67c47c3553b3f",
       "title": "King of the Hill’s Pamela Adlon Reveals Her Favorite Bobby Hill Episodes",
       "summary": "Meta Description: Pamela Adlon discusses the King of the Hill Hulu revival, finding 21-year-old Bobby's voice, and why she wants to play the character for the rest of her life.",
@@ -264,61 +330,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-24T16:05:00+00:00"
-    },
-    {
-      "id": "9905341b0d51b42f918ea313",
-      "title": "The Grade A Refurb Nintendo Switch 2 Mario Kart World Console Bundle Just Dropped to $419 at Woot",
-      "summary": "New $20 price drop on top of last week's already excellent deal.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-mario-kart-world-gaming-console-deal-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T16:05:00+00:00"
-    },
-    {
-      "id": "e4da01a77d0697fddb48b283",
-      "title": "The Logitech G29 Racing Wheel and Driving Force Shifter Bundle Drops to the Lowest Price Ever",
-      "summary": "Elevate your Forza Horizon 6 or Gran Turismo 7 gaming experience.",
-      "url": "https://www.ign.com/articles/logitech-g29-racing-wheel-deal-with-driving-force-shifter-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T16:05:00+00:00"
-    },
-    {
-      "id": "0085bb1b37d7383042176188",
-      "title": "Even the Resident Evil Movie Isn't Safe from the PlayStation Physical Disc Controversy",
-      "summary": "If you thought the new Resident Evil movie trailer would be safe from the PlayStation physical disc controversy, think again.",
-      "url": "https://www.ign.com/articles/even-the-resident-evil-movie-isnt-safe-from-the-playstation-physical-disc-controversy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T16:02:08+00:00"
-    },
-    {
-      "id": "a2bd3b8a407e556e69c6c9f6",
-      "title": "Samsung S90H OLED TV Review",
-      "summary": "The Samsung S90H offers an exceptional OLED panel, refined gaming features for PC players, and picture quality that becomes genuinely outstanding the moment you leave Eco and Standard Mode behind. A $1,699 asking price for the 55-inch model is undoubtedly a significant investment, but it's one I think earns it with enticing upgrades and a picture q",
-      "url": "https://www.ign.com/articles/samsung-s90h-oled-tv-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T15:54:41+00:00"
-    },
-    {
-      "id": "356fb1a3dfd604d18c75f8b9",
-      "title": "Tomb Raider: Catalyst Delay to 2028 Confirmed by Amazon Games Boss",
-      "summary": "Tomb Raider: Catalyst is indeed delayed to 2028, as many had suspected.",
-      "url": "https://www.ign.com/articles/tomb-raider-catalyst-delay-to-2028-confirmed-by-amazon-games-boss",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T15:38:23+00:00"
     },
     {
       "id": "fdb052cf9c9f092e2d3f1ea6",
