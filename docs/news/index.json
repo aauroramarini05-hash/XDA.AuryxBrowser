@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-07-25T09:28:48.493109+00:00",
+  "updatedAt": "2026-07-25T11:02:21.518886+00:00",
   "items": [
+    {
+      "id": "913d8c153a163c20b47866f2",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-25T10:14:41+00:00"
+    },
     {
       "id": "45ab14ab63c4efacd9c9242a",
       "title": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -43,18 +54,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-25T03:30:15+00:00"
-    },
-    {
-      "id": "362ab94122fe5490c83e8df1",
-      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-25T02:29:36+00:00"
+      "publishedAt": "2026-07-25T03:30:05+00:00"
     },
     {
       "id": "17490bca3bcdea83b68728f1",
@@ -176,17 +176,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-24T23:30:00+00:00"
-    },
-    {
-      "id": "913d8c153a163c20b47866f2",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-24T23:11:13+00:00"
     },
     {
       "id": "1927b4f82cc512099cbd8bdc",
@@ -565,7 +554,7 @@
     {
       "id": "b1544bfca45ac97dbfe9f968",
       "title": "Interdiction des réseaux sociaux aux moins de 15 ans : huit questions pour tout comprendre",
-      "summary": "Députés et sénateurs ont approuvé, mardi 21 juillet, la proposition de loi interdisant les réseaux sociaux aux moins de 15 ans. Cela sera-t-il appliqué dès septembre ? Tout le monde devra-t-il présenter sa carte d’identité ? La loi peut-elle encore être censurée ?",
+      "summary": "Députés et sénateurs ont approuvé la proposition de loi interdisant les réseaux sociaux aux moins de 15 ans. Cela sera-t-il appliqué dès septembre ? Tout le monde devra-t-il présenter sa carte d’identité ? La loi peut-elle encore être censurée ?",
       "url": "https://www.lemonde.fr/pixels/article/2026/07/24/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-huit-questions-pour-tout-comprendre_6731421_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
