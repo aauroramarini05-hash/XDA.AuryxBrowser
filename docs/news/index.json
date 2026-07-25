@@ -1,27 +1,38 @@
 {
-  "updatedAt": "2026-07-25T05:35:26.395302+00:00",
+  "updatedAt": "2026-07-25T07:51:42.049641+00:00",
   "items": [
     {
-      "id": "041bb189a757f114e9c10c60",
-      "title": "Trump pokes fun at press during White House Correspondents' Dinner",
+      "id": "45ab14ab63c4efacd9c9242a",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
       "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
       "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-25T05:12:57+00:00"
+      "publishedAt": "2026-07-25T06:41:42+00:00"
     },
     {
-      "id": "49fac786779bea543468f732",
-      "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+      "id": "969ddc86139ebf45fcd82549",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
       "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-25T04:48:40+00:00"
+      "publishedAt": "2026-07-25T06:34:40+00:00"
+    },
+    {
+      "id": "e506bbc9a3e1b0fa7bb0bed4",
+      "title": "Google : comment désactiver les « aperçus IA » dans le moteur de recherche ?",
+      "summary": "A la suite de certaines requêtes, le moteur de recherche le plus utilisé de France affiche désormais comme première réponse des « aperçus IA », soit des textes conçus par Gemini, plutôt qu’une liste de liens classiques. Des solutions existent pour s’affranchir de ce nouveau dispositif.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/25/google-comment-desactiver-les-apercus-ia-dans-le-moteur-de-recherche_6731927_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-25T06:00:26+00:00"
     },
     {
       "id": "3c7cbfa9fb51964e58701a6c",
@@ -134,6 +145,17 @@
       "publishedAt": "2026-07-25T00:06:53+00:00"
     },
     {
+      "id": "dbb1b2b026dc976a4637b65f",
+      "title": "Palworld Review",
+      "summary": "A clever blend of Pokemon-style creature collecting and a traditional co-op survival game.",
+      "url": "https://www.ign.com/articles/palworld-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T00:00:00+00:00"
+    },
+    {
       "id": "647cde7da1e764e6bf09fec9",
       "title": "X-Men '97 Season 3 Will Bring Back These Fan-Favorite Mutant Villains | Comic Con 2026",
       "summary": "X-Men '97 fans just got a big update on Season 3 at Comic-Con, including the return of some fan-favorite mutant villains.",
@@ -178,8 +200,8 @@
       "publishedAt": "2026-07-24T23:04:01+00:00"
     },
     {
-      "id": "f7cb43a60b55008cabfeceda",
-      "title": "'The dogs were getting upset': How LA band Muna survived their worst ever gig",
+      "id": "c20771a8b4fc61dd765825d9",
+      "title": "The pop band who went from playing to rescue dogs to selling out arenas",
       "summary": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
       "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -385,17 +407,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-24T18:35:16+00:00"
-    },
-    {
-      "id": "a833ad68833c0fd67e95e51a",
-      "title": "In The Lord of the Rings: The Rings of Power Season 3, the Balrog Speaks — and It's Simon Pegg | Comic Con 2026",
-      "summary": "The Lord of the Rings: The Rings of Power Season 3 features a creature famous for failing to pass Gandalf in The Fellowship of the Ring — and, for the first time ever, it speaks.",
-      "url": "https://www.ign.com/articles/in-the-lord-of-the-rings-the-rings-of-power-season-3-the-balrog-speaks-and-its-simon-pegg-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-24T18:30:07+00:00"
     },
     {
       "id": "1fda37e3b97252449658e959",
@@ -825,17 +836,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-21T17:58:55+00:00"
-    },
-    {
-      "id": "651fd264e77e4c04e106cbe3",
-      "title": "Comment l’interdiction des réseaux sociaux aux plus jeunes, désormais en vigueur en France, s’est imposée dans le monde",
-      "summary": "La France a décidé de bannir les moins de 15 ans des grandes plateformes, comme Instagram et TikTok. Le pays s’inscrit ainsi dans un mouvement global qui a pris de l’ampleur en quelques années.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/21/comment-l-interdiction-des-reseaux-sociaux-aux-plus-jeunes-s-impose-partout-dans-le-monde_6729144_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-21T17:58:31+00:00"
     },
     {
       "id": "748c88af8b3088568372d356",
