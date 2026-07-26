@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T10:29:42.361080+00:00",
+  "updatedAt": "2026-07-26T11:56:32.764289+00:00",
   "items": [
     {
       "id": "b9058db391ad0266f1eeccf9",
@@ -10,18 +10,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-26T09:18:33+00:00"
+      "publishedAt": "2026-07-26T11:41:04+00:00"
     },
     {
-      "id": "049733fd1e60b556620cde17",
-      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-      "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "id": "2db27d8d39a5717e32879a99",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
       "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-26T09:16:46+00:00"
+      "publishedAt": "2026-07-26T11:29:07+00:00"
+    },
+    {
+      "id": "71dc34d453701b0da5897ade",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-26T10:26:05+00:00"
     },
     {
       "id": "d966cce4167134d8070e6ca9",
@@ -838,10 +849,10 @@
       "publishedAt": "2026-07-22T08:08:40+00:00"
     },
     {
-      "id": "8df41e88beb4bc618c879653",
+      "id": "e38ea93908f76437d10ffd0b",
       "title": "Tech Life",
       "summary": "Dogs have a great sense of smell. Now machines are being trained to sniff out odours.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy5?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
