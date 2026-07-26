@@ -1,16 +1,104 @@
 {
-  "updatedAt": "2026-07-25T23:52:15.099816+00:00",
+  "updatedAt": "2026-07-26T01:55:49.947378+00:00",
   "items": [
     {
-      "id": "af5ef8537a4b8ce2a6fbbc44",
-      "title": "Exclusive: Coyote vs. Acme Is Getting a Physical Home Media Release with NSFW John Cena Outtakes",
-      "summary": "Coyote vs ACME director Dave Green confirmed to IGN that the film is coming to Blu-ray, along with some hilarious outtakes that he described as “not PG-rated.”",
-      "url": "https://www.ign.com/articles/exclusive-coyote-vs-acme-is-getting-a-physical-home-media-release-with-nsfw-john-cena-outtakes",
+      "id": "2acc8b0fb605ba2b21c37bcc",
+      "title": "Black Panther 3 Release Date Confirmed by Marvel | Comic Con 2026",
+      "summary": "Marvel has made Black Panther 3 official, and confirmed it will launch on December 15, 2028.",
+      "url": "https://www.ign.com/articles/black-panther-3-release-date-confirmed-by-marvel-comic-con-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T01:36:19+00:00"
+    },
+    {
+      "id": "4ae78b3f02c7c1262505cdec",
+      "title": "Deadpool and Peggy Carter Confirmed for Avengers: Doomsday | Comic Con 2026",
+      "summary": "Ryan Reynolds and Hayley Atwell will reprise their Marvel roles as Deadpool and Peggy Carter in Avengers: Doomsday, it's been confirmed.",
+      "url": "https://www.ign.com/articles/deadpool-and-peggy-carter-confirmed-for-avengers-doomsday-comic-con-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T01:30:32+00:00"
+    },
+    {
+      "id": "3543ea2cfc7d1acf925232db",
+      "title": "Marvel Announces Ryan Gosling Ghost Rider Movie | Comic Con 2026",
+      "summary": "Marvel has announced a Ghost Rider movie starring Ryan Gosling, directed by Deadpool & Wolverine's Shawn Levy.",
+      "url": "https://www.ign.com/articles/marvel-announces-ryan-gosling-ghost-rider-movie-comic-con-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T01:11:58+00:00"
+    },
+    {
+      "id": "0ab6e51aa30770d514639218",
+      "title": "Yaga Trailer Reveals New Series' Horror and Seductive Side",
+      "summary": "",
+      "url": "https://www.ign.com/articles/yaga-trailer-reveals-new-series-horror-and-seductive-side",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T01:00:31+00:00"
+    },
+    {
+      "id": "546e7dd5450d0f5efc81d11c",
+      "title": "More than 300,000 flee wildfires in France and Spain",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-26T00:54:06+00:00"
+    },
+    {
+      "id": "0e7f857c3512de54ade3d453",
+      "title": "The notorious Cameroonian prison with its own record label",
+      "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
+      "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-26T00:24:30+00:00"
+    },
+    {
+      "id": "f5faa0d2171f34d558a788f8",
+      "title": "Would you pay $58.5m to live in this iconic New York building?",
+      "summary": "With its renovation nearly complete, the Flatiron is ready for its next - and most extravagant - phase of life.",
+      "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-26T00:05:03+00:00"
+    },
+    {
+      "id": "5c3d4116a713e1141cf93590",
+      "title": "Exclusive: Coyote vs. Acme Is Getting a Physical Home Media Release with NSFW John Cena Outtakes | Comic Con 2026",
+      "summary": "Coyote vs. Acme director Dave Green confirmed to IGN that the film is coming to Blu-ray, along with some hilarious outtakes that he described as “not PG-rated.”",
+      "url": "https://www.ign.com/articles/exclusive-coyote-vs-acme-is-getting-a-physical-home-media-release-with-nsfw-john-cena-outtakes-comic-con-2026",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-25T23:38:02+00:00"
+    },
+    {
+      "id": "fd935ab5d22c8be33789ad0b",
+      "title": "What Love Island tells us about the changing face of dating",
+      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-25T23:31:49+00:00"
     },
     {
       "id": "c84c389dca230fddb2187af8",
@@ -178,17 +266,6 @@
       "publishedAt": "2026-07-25T17:44:46+00:00"
     },
     {
-      "id": "4683abce38b46a73b97987f2",
-      "title": "More than 250,000 flee wildfires in France and Spain",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-25T17:13:40+00:00"
-    },
-    {
       "id": "7f2e0662e7dfc376fc39ba79",
       "title": "Final Fantasy 14 Sets Nintendo Switch 2 Release Date for Early August",
       "summary": "Square Enix has announced Final Fantasy 14 has a Nintendo Switch 2 release date of August 4, 2026.",
@@ -321,28 +398,6 @@
       "publishedAt": "2026-07-25T02:14:50+00:00"
     },
     {
-      "id": "b51e51ed918678d48e739653",
-      "title": "Spaceballs: The New One Creators on Making Mel Brooks' Yogurt CGI and Paying Tribute to John Candy | Comic Con 2026",
-      "summary": "Rick Moranis appeared at SDCC alongside Josh Gad to reveal new details for Spaceballs: The New One, including Mel Brooks' now CGI Yogurt and fresh Star Wars gags.",
-      "url": "https://www.ign.com/articles/spaceballs-2-sdcc-panel-rick-moranis-mel-brooks",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-25T02:13:05+00:00"
-    },
-    {
-      "id": "10a2c06880aea1fce1634feb",
-      "title": "God of War Laufey Release Date Announced | Comic Con 2026",
-      "summary": "God of War Laufey has a release date: February 16, 2027.",
-      "url": "https://www.ign.com/articles/god-of-war-laufey-release-date-announced-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-25T01:49:36+00:00"
-    },
-    {
       "id": "01e1d2f01f4866f742bd04f2",
       "title": "Tech Now",
       "summary": "Highlights from the Esports World Cup in Paris and how to build a gaming PC.",
@@ -354,28 +409,6 @@
       "publishedAt": "2026-07-25T01:00:00+00:00"
     },
     {
-      "id": "f54233a8792deba64b008004",
-      "title": "Next Kratos-Led God of War Game Is Coming After Laufey, and Connects Directly to Her Story | Comic Con 2026",
-      "summary": "Santa Monica Studio head of creative Cory Barlog has announced that the next Kratos-led God of War game is coming after God of War Laufey, and connects directly to her story.",
-      "url": "https://www.ign.com/articles/next-kratos-led-god-of-war-game-is-coming-after-laufey-and-connects-directly-to-her-story-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-25T00:53:03+00:00"
-    },
-    {
-      "id": "15feecbaac155a246a2dd7bb",
-      "title": "American Caper From Absurd Ventures' Dan Houser Is Getting a Double-Sized Season Finale Issue #12 - Exclusive | Comic Con 2026",
-      "summary": "IGN can exclusively reveal that American Caper, the crime fiction comic series from the mind of Absurd Ventures' Dan Houser, is getting a double-sized season finale issue #12 that will arrive on November 11, 2026.",
-      "url": "https://www.ign.com/articles/american-caper-from-absurd-ventures-dan-houser-is-getting-a-double-sized-season-finale-issue-12-exclusive-comic-con-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-25T00:23:28+00:00"
-    },
-    {
       "id": "888505ed1046aea316a7a582",
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
@@ -385,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-25T00:06:53+00:00"
-    },
-    {
-      "id": "e4be910db31821e381945390",
-      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
-      "summary": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
-      "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-24T23:01:10+00:00"
     },
     {
       "id": "3a21870468e84c6d448fe762",
@@ -528,17 +550,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-24T14:27:46+00:00"
-    },
-    {
-      "id": "47eb894d243c0e7910c3b630",
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-24T13:33:06+00:00"
     },
     {
       "id": "c4d4525ff2f510dcd9143e13",
