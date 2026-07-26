@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-07-26T16:55:02.126004+00:00",
+  "updatedAt": "2026-07-26T17:55:08.938606+00:00",
   "items": [
+    {
+      "id": "b9058db391ad0266f1eeccf9",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-26T17:45:30+00:00"
+    },
     {
       "id": "2db27d8d39a5717e32879a99",
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -21,7 +32,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-26T16:45:54+00:00"
+      "publishedAt": "2026-07-26T16:45:52+00:00"
     },
     {
       "id": "61da6fc94fd075c31ee0929c",
@@ -66,17 +77,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-26T14:38:21+00:00"
-    },
-    {
-      "id": "b9058db391ad0266f1eeccf9",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-26T13:40:29+00:00"
     },
     {
       "id": "71dc34d453701b0da5897ade",
