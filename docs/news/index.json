@@ -1,16 +1,93 @@
 {
-  "updatedAt": "2026-07-27T21:56:58.421328+00:00",
+  "updatedAt": "2026-07-27T22:56:53.510407+00:00",
   "items": [
     {
-      "id": "edf8ad15aa91f0be2c5153b2",
-      "title": "Some people's chats with Claude AI made publicly available online",
+      "id": "e06e4732642ccf26ef923a26",
+      "title": "Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99",
+      "summary": "Convenience with a dash of pizazz.",
+      "url": "https://www.ign.com/articles/clamp-style-power-strip-with-led-night-light-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T22:35:00+00:00"
+    },
+    {
+      "id": "fccc3183b8e17e2e77129d74",
+      "title": "Pick up a Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon",
+      "summary": "An inviting gaming chair without the high dollar price tag",
+      "url": "https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T22:20:00+00:00"
+    },
+    {
+      "id": "310154c6ac09b5c713aa1226",
+      "title": "Some people's chats with Claude AI found publicly available online",
       "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
       "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-07-27T21:51:34+00:00"
+      "publishedAt": "2026-07-27T22:14:04+00:00"
+    },
+    {
+      "id": "2837fb1cd7b3d66ea77577ce",
+      "title": "A Japanese town wrestles with identity after protests over its first mosque",
+      "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-27T22:08:21+00:00"
+    },
+    {
+      "id": "9745373b4ef098074f74cd28",
+      "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+      "summary": "One suspect is in custody, while a second is being sought and a third is thought to have died at the scene, court documents show.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-27T22:08:01+00:00"
+    },
+    {
+      "id": "a98238d1c617f7e344c57c87",
+      "title": "Ubisoft Gives Free PC Copies to Xbox Owners of Select Games",
+      "summary": "Ubisoft is giving Xbox owners free access to some of their games on PC.",
+      "url": "https://www.ign.com/articles/ubisoft-gives-free-pc-copies-to-xbox-owners-of-select-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T22:04:02+00:00"
+    },
+    {
+      "id": "f915c32b85dc386cb0230f44",
+      "title": "Samsung Galaxy Z Fold 8 Ultra Review",
+      "summary": "The Samsung Galaxy Z Fold 8 Ultra is Samsung's latest flagship foldable, and while it brings the better battery and camera that I've been wanting for years, its $2099 price tag is hard to swallow.",
+      "url": "https://www.ign.com/articles/samsung-galaxy-z-fold-8-ultra-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T22:00:38+00:00"
+    },
+    {
+      "id": "233924d69963bded9f25d68d",
+      "title": "Best Buy Has Excellent Condition Asus ROG Xbox Ally Handheld Gaming PCs for Less Than $500",
+      "summary": "As this point we'd recommend getting an ROG Xbox Ally over a Steam Deck.",
+      "url": "https://www.ign.com/articles/asus-rog-ally-deal-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T21:50:00+00:00"
     },
     {
       "id": "4b2b3c13190779dfcc034feb",
@@ -123,6 +200,17 @@
       "publishedAt": "2026-07-27T19:59:17+00:00"
     },
     {
+      "id": "3ca4f1dba34442af36c2c3c8",
+      "title": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
+      "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-27T19:54:24+00:00"
+    },
+    {
       "id": "e49d65c18765a69870b85ee1",
       "title": "Wildfire witnesses describe 'wall of flames', fear and stress",
       "summary": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate.",
@@ -154,17 +242,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-27T19:25:00+00:00"
-    },
-    {
-      "id": "987bf01b8f26b081953a2d3b",
-      "title": "Police still searching for second suspect in fatal Seattle food festival shooting",
-      "summary": "One suspect, a teenager, is in custody following the shooting, in which three people were killed and others injured.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T19:23:08+00:00"
     },
     {
       "id": "f7242dddb2594d3e157bac8a",
@@ -255,28 +332,6 @@
       "publishedAt": "2026-07-27T17:33:48+00:00"
     },
     {
-      "id": "84b52a581b4a5b198d7730f2",
-      "title": "The Best Samsung Galaxy Z Fold 8 Cases You Can Get Today",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-best-samsung-galaxy-z-fold-8-cases",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T17:30:07+00:00"
-    },
-    {
-      "id": "30ae8ac286ca892cda1630df",
-      "title": "Spider-Man: Brand New Day Scene Censored in India — and It Could Be a Spoiler",
-      "summary": "Spider-Man: Brand New Day is censored in India, and it may relate to a scene that suggests a spoiler.",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-scene-censored-in-india-and-it-could-be-a-spoiler",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T17:23:46+00:00"
-    },
-    {
       "id": "4032f584a88ee992075bd968",
       "title": "What you need to know if you're travelling to France or Spain",
       "summary": "The BBC’s cost of living correspondent explains how to handle holiday cancellations as a result of European wildfires.",
@@ -286,39 +341,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-27T17:20:27+00:00"
-    },
-    {
-      "id": "d86ddd1b9789170774213032",
-      "title": "Save Over $2,000 Off Lenovo's Flagship Legion Tower 7 RTX 5090 Gaming PC with 64GB of DDR5 Memory",
-      "summary": "You better hurry because it's almost sold out.",
-      "url": "https://www.ign.com/articles/lenovo-legion-tower-7-rtx-5090-gaming-pc-deal-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T17:15:00+00:00"
-    },
-    {
-      "id": "ab62ebc3328e77fabd177fd2",
-      "title": "Chris Evans Received 'at Least a Dozen Pitches' to Return to the MCU – But Will He Be Nomad in Avengers: Doomsday?",
-      "summary": "Chris Evans said he received \"at least a dozen pitches\" to return as Steve Rogers in the MCU, and based on a tease from Captain America star Anthony Mackie, it sounds like Nomad may have been what brought him back.",
-      "url": "https://www.ign.com/articles/chris-evans-received-at-least-a-dozen-pitches-to-return-to-the-mcu-but-will-he-be-nomad-in-avengers-doomsday",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T17:09:35+00:00"
-    },
-    {
-      "id": "8fcf158ce0f4a3c964b813f4",
-      "title": "Final Fantasy 14 Will Be The Biggest Game on Nintendo Switch 2 by Install Size, and Take Up Almost Half of the Console's Entire Memory",
-      "summary": "Square Enix MMO Final Fantasy 14 will land on Switch 2 with an almighty thud next month, as its honking install size will take up almost half of the console's 256GB memory.",
-      "url": "https://www.ign.com/articles/final-fantasy-14-will-be-the-biggest-game-on-nintendo-switch-2-by-install-size-and-take-up-almost-half-of-the-consoles-entire-memory",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T17:01:01+00:00"
     },
     {
       "id": "ee53cbc8b4f033ef18857a8e",
@@ -374,17 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-27T15:59:27+00:00"
-    },
-    {
-      "id": "ff37ced9bdd38c5325dbab5c",
-      "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
-      "summary": "The Ukrainian president became the new prime minister's first international visitor since taking office.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T15:58:27+00:00"
     },
     {
       "id": "32e4136a48e95432d765a0e9",
@@ -497,50 +508,6 @@
       "publishedAt": "2026-07-27T10:59:13+00:00"
     },
     {
-      "id": "01d1d90f5f1f85c73f72bc6b",
-      "title": "US deports Kenyan former NFL player Daniel Adongo",
-      "summary": "The authorities say the ex-sportsman had overstayed his visa and had been arrested multiple times.",
-      "url": "https://www.bbc.co.uk/news/articles/c74gzg27v8no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T10:56:36+00:00"
-    },
-    {
-      "id": "f371df038e355e5f260a5a92",
-      "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
-      "summary": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T10:19:36+00:00"
-    },
-    {
-      "id": "66da12936c71f051c42ce345",
-      "title": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
-      "summary": "Javier Milei spoke at a campaign rally for right-wing presidential candidate Flávio Bolsonaro, who is running against Lula.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T10:19:34+00:00"
-    },
-    {
-      "id": "96d20d6aebe04536c55ae8b5",
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T09:59:15+00:00"
-    },
-    {
       "id": "a2b052f670046d164772bf32",
       "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
       "summary": "Musk has backed a film called Citizen Vigilante featuring an American vigilante tearing across an unnamed European country.",
@@ -550,17 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-27T09:52:21+00:00"
-    },
-    {
-      "id": "6b6ed6dbfce97962a5ff34d9",
-      "title": "Millions see leaked copy of The Odyssey movie on X",
-      "summary": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T09:21:10+00:00"
     },
     {
       "id": "ab4c9f5c9feff395ba2c96c0",
@@ -585,17 +541,6 @@
       "publishedAt": "2026-07-27T07:53:30+00:00"
     },
     {
-      "id": "1cb6852239a7c664566acfc4",
-      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-      "summary": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T07:37:11+00:00"
-    },
-    {
       "id": "f8b15e52728ec5d12d5984a6",
       "title": "« L’IA repose sur une géographie concrète, mettant des territoires au service du calcul, selon une logique de comptoirs »",
       "summary": "L’essor de l’intelligence artificielle repose sur des infrastructures physiques gourmandes en ressources locales, qui échappent largement au contrôle et à la souveraineté des Etats, observe Joseph Bohbot, professeur de géographie à Sorbonne Université, dans une tribune au « Monde ».",
@@ -605,17 +550,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-27T07:00:09+00:00"
-    },
-    {
-      "id": "1d45314c87149f4e59695e06",
-      "title": "Australian court upholds racial discrimination ruling against Pauline Hanson",
-      "summary": "One Nation leader loses bid to overturn ruling that she racially discriminated against Senator Mehreen Faruqi.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T06:14:06+00:00"
     },
     {
       "id": "21913eb8bbc14a9731ca0af2",
@@ -651,17 +585,6 @@
       "publishedAt": "2026-07-27T03:00:08+00:00"
     },
     {
-      "id": "15a4f00d8c092e6576d131e3",
-      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-      "summary": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T02:08:36+00:00"
-    },
-    {
       "id": "e07296de85671976eb014174",
       "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
       "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
@@ -671,17 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-27T01:54:30+00:00"
-    },
-    {
-      "id": "61153ebca206521f7ee2ec9c",
-      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
-      "summary": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-26T22:06:46+00:00"
     },
     {
       "id": "84404e2c26ed6271402a7152",
