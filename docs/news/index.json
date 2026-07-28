@@ -1,16 +1,115 @@
 {
-  "updatedAt": "2026-07-28T15:58:33.350595+00:00",
+  "updatedAt": "2026-07-28T17:26:57.897217+00:00",
   "items": [
     {
       "id": "4210e6f9371099e0ba1a1957",
       "title": "Japan earthquake: What we know so far",
-      "summary": "Japan is reeling from a major 7.1 earthquake that hit Kyushu island. Here is what we know so far.",
+      "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
       "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-28T15:45:02+00:00"
+      "publishedAt": "2026-07-28T17:15:14+00:00"
+    },
+    {
+      "id": "50a12369e777ea98b688af26",
+      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+      "summary": "Three fires in the Madrid region have caused particular concern, with a new heatwave expected to hit Spain from Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T16:49:11+00:00"
+    },
+    {
+      "id": "7b6f731c9cc3cdd3c2445b4f",
+      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+      "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T16:37:02+00:00"
+    },
+    {
+      "id": "a061c6f588855f9f2a965bf1",
+      "title": "Call of Duty: Black Ops Fans Can't Agree on Which Map to Play",
+      "summary": "Call of Duty: Black Ops fans are growing frustrated by players who refuse to vote for different maps.",
+      "url": "https://www.ign.com/articles/call-of-duty-black-ops-fans-cant-agree-on-which-map-to-play",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T16:32:22+00:00"
+    },
+    {
+      "id": "6ae2b572b24168331c981744",
+      "title": "Supergirl Now Available to Watch Online After Box Office Struggles",
+      "summary": "Supergirl has landed on digital after a disastrous box office run.",
+      "url": "https://www.ign.com/articles/how-to-watch-supergirl-streaming",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T16:14:48+00:00"
+    },
+    {
+      "id": "7027fcb69b07bb30eac09d01",
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T16:14:03+00:00"
+    },
+    {
+      "id": "5a59c81fc495938c6692d06f",
+      "title": "French Navy carries out 'shooting drill' mid interview",
+      "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T16:12:35+00:00"
+    },
+    {
+      "id": "5988dc3607bb90157e4b9dab",
+      "title": "Batman: Caped Crusader Season 2 Review - Darker, Deadlier, but Still Flawed",
+      "summary": "Batman: Caped Crusader makes some storytelling missteps in Season 2, but it still delivers a fun blend of detective noir and deep psychological portraits of Batman’s many allies and enemies.",
+      "url": "https://www.ign.com/articles/batman-caped-crusader-season-2-review-darker-deadlier-but-still-flawed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T16:00:00+00:00"
+    },
+    {
+      "id": "df9bdbb08fc3944eef735186",
+      "title": "First Look at Three Cards From The Hobbit's New Magic: The Gathering Crossover",
+      "summary": "How could Magic return to Middle-earth without a legendary map?",
+      "url": "https://www.ign.com/articles/first-look-at-three-cards-from-the-hobbits-new-magic-the-gathering-crossover",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T16:00:00+00:00"
+    },
+    {
+      "id": "7a8329f58aea1b237457f7af",
+      "title": "Sony Confirms PlayStation Plus Monthly Games for August 2026, Headlined by Dying Light 2: Stay Human",
+      "summary": "Sony has confirmed the PlayStation Plus monthly games lineup for August 2026 — and it includes Dying Light 2: Stay Human: Reloaded Edition.",
+      "url": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-august-2026-headlined-by-dying-light-2-stay-human",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T15:51:31+00:00"
     },
     {
       "id": "75aa54b80e770b8211dc7e53",
@@ -57,17 +156,6 @@
       "publishedAt": "2026-07-28T15:11:28+00:00"
     },
     {
-      "id": "50a12369e777ea98b688af26",
-      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-      "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T15:07:17+00:00"
-    },
-    {
       "id": "569bccb97e2efb492207b238",
       "title": "Warhammer 40,000 Maker Games Workshop Confirms It Investigated 'A Few Human Errors' on Product Images to Make Sure Its Staff Hadn't Used AI",
       "summary": "Warhammer company Games Workshop has said it investigated what it called “a few human errors” on the depiction of its products to make sure its staff hadn’t used AI.",
@@ -101,17 +189,6 @@
       "publishedAt": "2026-07-28T13:54:00+00:00"
     },
     {
-      "id": "5a59c81fc495938c6692d06f",
-      "title": "French Navy carries out 'shooting drill' mid interview",
-      "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T13:53:26+00:00"
-    },
-    {
       "id": "78ca69fd13c9be97f6239b0a",
       "title": "Sauron Uses a Legendary Item From The Lord of the Rings Lore to Fend Off the Balrog in The Rings of Power Season 3",
       "summary": "Prime Video has revealed a first look at Sauron taking on the Balrog in Season 3 of The Rings of Power, and in doing so confirmed that the Dark Lord uses a legendary item from The Lord of the Rings lore in the fight.",
@@ -121,17 +198,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-28T13:26:29+00:00"
-    },
-    {
-      "id": "f6f31ac9c26d3284d13a6d69",
-      "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
-      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T13:25:13+00:00"
     },
     {
       "id": "70ecc913b4621af731a597c8",
@@ -453,28 +519,6 @@
       "publishedAt": "2026-07-27T23:36:31+00:00"
     },
     {
-      "id": "fb1bd01ec10ec46cc7ae6295",
-      "title": "Spider-Man: Brand New Day Is Projected to Have the Biggest Opening of 2026",
-      "summary": "Spider-Man: Brand New Day is on track to absolutely obliterate the box office this weekend.",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-is-projected-to-have-the-biggest-opening-of-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T23:31:39+00:00"
-    },
-    {
-      "id": "7dac7f36c3f2a493abe26399",
-      "title": "Avengers: Secret Wars Is the Only MCU Movie in 2027 as Kevin Feige Promises Quality Over Quantity",
-      "summary": "It looks like Avengers: Secret Wars will be the only MCU movie in 2027, as Kevin Feige has promised that Marvel Studios is committed to \"focusing on quality.\"",
-      "url": "https://www.ign.com/articles/avengers-secret-wars-is-the-only-mcu-movie-in-2027-as-kevin-feige-promises-quality-over-quantity",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T23:07:06+00:00"
-    },
-    {
       "id": "f26c6bc092f750a0d7a4be46",
       "title": "Is it time to stop using glue and labels on paper?",
       "summary": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
@@ -484,39 +528,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-27T23:00:06+00:00"
-    },
-    {
-      "id": "4a6a2c756a8bd514bb5c6a38",
-      "title": "Call of Duty: Black Ops Fans Discover Cut Zombies Content Over 15 Years After Release",
-      "summary": "Call of Duty: Black Ops fans have uncovered a new cut Zombies mode from the game, over a decade and a half after its original release.",
-      "url": "https://www.ign.com/articles/call-of-duty-black-ops-fans-discover-cut-zombies-content-over-15-years-after-release",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T22:59:47+00:00"
-    },
-    {
-      "id": "e06e4732642ccf26ef923a26",
-      "title": "Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99",
-      "summary": "Convenience with a dash of pizazz.",
-      "url": "https://www.ign.com/articles/clamp-style-power-strip-with-led-night-light-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T22:35:00+00:00"
-    },
-    {
-      "id": "fccc3183b8e17e2e77129d74",
-      "title": "Pick up a Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon",
-      "summary": "An inviting gaming chair without the high dollar price tag",
-      "url": "https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T22:20:00+00:00"
     },
     {
       "id": "2837fb1cd7b3d66ea77577ce",
