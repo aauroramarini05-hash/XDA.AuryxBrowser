@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-07-28T02:36:01.515262+00:00",
+  "updatedAt": "2026-07-28T05:38:30.577069+00:00",
   "items": [
+    {
+      "id": "50625a29a68e4d666d0c6b8c",
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:31:30+00:00"
+    },
+    {
+      "id": "471d332842fab836a0cbea42",
+      "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
+      "summary": "Temperatures are expected to soar past 40C in some regions as a heatwave builds, further hampering firefighting efforts.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T04:51:27+00:00"
+    },
+    {
+      "id": "a2245cf0a5a1c7524f4b7f3d",
+      "title": "En 1988, pour servir la légende Ubisoft, un vieux château breton, des ordinateurs et de la bière à volonté",
+      "summary": "« La saga Ubisoft » (2/6). En 1988, l’éditeur français de jeux vidéo installe ses jeunes développeurs dans une bâtisse à Monteneuf, non loin de Carentoir (Morbihan), le fief de la famille Guillemot. Une expérience unique et baroque.",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/28/en-1988-pour-servir-la-legende-ubisoft-un-vieux-chateau-breton-des-ordinateurs-et-de-la-biere-a-volonte_6734600_3451060.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-28T04:00:42+00:00"
+    },
+    {
+      "id": "edce3e3a07639d0104780a28",
+      "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+      "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T01:53:58+00:00"
+    },
     {
       "id": "5eb68bd6a64c24ea3b6c8f4f",
       "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
@@ -242,17 +286,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-27T20:45:29+00:00"
-    },
-    {
-      "id": "c0cede3842764c1398ba5e6e",
-      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T20:34:55+00:00"
     },
     {
       "id": "517dfffb23e927780ad335ee",
@@ -871,17 +904,6 @@
       "publishedAt": "2026-07-23T18:41:10+00:00"
     },
     {
-      "id": "9c326425ba592364d53e6d8a",
-      "title": "L’amende infligée à Google par l’UE « crée de l’incertitude » dans les relations commerciales avec les Etats-Unis, selon Washington",
-      "summary": "Le représentant des Etats-Unis pour le commerce extérieur a averti que cette sanction faisait peser un « véritable risque » sur la stabilité des relations commerciales entre Washington et Bruxelles.",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/23/l-amende-infligee-a-google-par-l-ue-cree-de-l-incertitude-dans-les-relations-commerciales-avec-les-usa-selon-washington_6731173_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-23T18:37:58+00:00"
-    },
-    {
       "id": "bc08e2e43775067585a0bd1d",
       "title": "Amazon gaming boss predicts future where players no longer need consoles",
       "summary": "Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online.",
@@ -902,17 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-23T11:39:11+00:00"
-    },
-    {
-      "id": "a230a5698905fe7a454abb19",
-      "title": "Teenager drops social media addiction lawsuit against Meta",
-      "summary": "Claims from a 15-year-old boy were set to go to trial next week in Los Angeles, but the case has now been dropped.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-22T19:04:47+00:00"
     },
     {
       "id": "8df41e88beb4bc618c879653",
