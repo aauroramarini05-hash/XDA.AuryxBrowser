@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-07-27T23:58:56.351848+00:00",
+  "updatedAt": "2026-07-28T02:36:01.515262+00:00",
   "items": [
+    {
+      "id": "5eb68bd6a64c24ea3b6c8f4f",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T01:39:50+00:00"
+    },
+    {
+      "id": "de0a42e39bd47b67701b6a7f",
+      "title": "Xbox Executive Explains Outage, Vows to 'Do Better'",
+      "summary": "Xbox's Chief Technology Officer, Scott Van Vliet, has offered transparency and an explanation for the system and service outage that affected game libraries, sign-in, and game launching for many players from late Sunday night and well into Monday, vowing to \"do better.\"",
+      "url": "https://www.ign.com/articles/xbox-executive-explains-outage-vows-to-do-better",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T01:05:05+00:00"
+    },
+    {
+      "id": "ee53cbc8b4f033ef18857a8e",
+      "title": "Shots fired at US consulate in Toronto for a second time this year",
+      "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T00:36:16+00:00"
+    },
+    {
+      "id": "e798d2f0f111a7fdb8340dff",
+      "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
+      "summary": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
+      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T00:30:11+00:00"
+    },
     {
       "id": "9745373b4ef098074f74cd28",
       "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
@@ -57,17 +101,6 @@
       "publishedAt": "2026-07-27T22:59:47+00:00"
     },
     {
-      "id": "5eb68bd6a64c24ea3b6c8f4f",
-      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T22:58:49+00:00"
-    },
-    {
       "id": "e06e4732642ccf26ef923a26",
       "title": "Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99",
       "summary": "Convenience with a dash of pizazz.",
@@ -110,6 +143,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-27T22:08:21+00:00"
+    },
+    {
+      "id": "7adb5ef35df4d7c016679e15",
+      "title": "China's new challenge as natural disasters strike - fake AI videos",
+      "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-27T22:07:23+00:00"
     },
     {
       "id": "a98238d1c617f7e344c57c87",
@@ -332,17 +376,6 @@
       "publishedAt": "2026-07-27T18:10:00+00:00"
     },
     {
-      "id": "b7c43f323cfcdf62a5adfb38",
-      "title": "The 4K-Ready MSI Codex Z2 GeForce RTX 5070 Ti Gaming PC Drops to $1,699 After a $600 Discount",
-      "summary": "Most RTX 5070 Ti equipped PCs sell for over $2000 and the GPU alone runs for $950-$1000.",
-      "url": "https://www.ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T18:10:00+00:00"
-    },
-    {
       "id": "4032f584a88ee992075bd968",
       "title": "What you need to know if you're travelling to France or Spain",
       "summary": "The BBC’s cost of living correspondent explains how to handle holiday cancellations as a result of European wildfires.",
@@ -352,17 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-27T17:20:27+00:00"
-    },
-    {
-      "id": "ee53cbc8b4f033ef18857a8e",
-      "title": "Shots fired at US consulate in Toronto for a second time this year",
-      "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T16:56:57+00:00"
     },
     {
       "id": "16c687642ebf3a89eafcef7d",
@@ -517,17 +539,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-27T10:59:13+00:00"
-    },
-    {
-      "id": "a2b052f670046d164772bf32",
-      "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
-      "summary": "Musk has backed a film called Citizen Vigilante featuring an American vigilante tearing across an unnamed European country.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4w5nwk00o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T09:52:21+00:00"
     },
     {
       "id": "ab4c9f5c9feff395ba2c96c0",
