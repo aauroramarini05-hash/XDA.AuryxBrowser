@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-07-28T11:09:34.152066+00:00",
+  "updatedAt": "2026-07-28T13:42:00.481940+00:00",
   "items": [
+    {
+      "id": "50a12369e777ea98b688af26",
+      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+      "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T13:03:38+00:00"
+    },
+    {
+      "id": "5eb68bd6a64c24ea3b6c8f4f",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T12:31:45+00:00"
+    },
+    {
+      "id": "125153e81d733f8ddbcd7c2d",
+      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T11:50:59+00:00"
+    },
+    {
+      "id": "9fe4abf0ee6bf9b137c5d3f1",
+      "title": "'I Thought This Would Be Drama Free, How Wrong I Was' — Games Workshop Secured a £7.8 Million Refund on Donald Trump's Tariffs, but Iran War Threatens Supply Chain",
+      "summary": "The boss of Warhammer maker Games Workshop has said the company managed to secure a £7.8 million (approx. $10.3 million) refund on Donald Trump’s tariffs, but other issues, such as the Iran War, threaten its supply chain.",
+      "url": "https://www.ign.com/articles/i-thought-this-would-be-drama-free-how-wrong-i-was-games-workshop-secured-a-78-million-refund-on-donald-trumps-tariffs-but-iran-war-threatens-supply-chain",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T11:28:24+00:00"
+    },
+    {
+      "id": "2c0ab348bd10169f79cdc46b",
+      "title": "After 15 Years, Resident Evil 5 Has Finally Been Dethroned as The Series' Best-Selling Game",
+      "summary": "After 15 years, Resident Evil 5 is no longer the highest-selling entry in Capcom's survival horror series, the publisher has revealed.",
+      "url": "https://www.ign.com/articles/after-15-years-resident-evil-5-has-finally-been-dethroned-as-the-series-best-selling-game",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T11:22:57+00:00"
+    },
     {
       "id": "92a745d7c64f322d0999fab6",
       "title": "Marvel's Spider-Man 2 Update Adds Tom Holland's Brand New Day Spidey Suit",
@@ -11,17 +66,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-28T10:43:26+00:00"
-    },
-    {
-      "id": "cf14735665838b06db673fd9",
-      "title": "Zelensky to press Trump on air defences while in Washington",
-      "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T10:41:41+00:00"
     },
     {
       "id": "edc0119ae4f2e55e446fd274",
@@ -209,17 +253,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-28T01:53:58+00:00"
-    },
-    {
-      "id": "5eb68bd6a64c24ea3b6c8f4f",
-      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T01:39:50+00:00"
     },
     {
       "id": "da7c2592d4ff0e270afb6a33",
@@ -453,61 +486,6 @@
       "publishedAt": "2026-07-27T20:00:00+00:00"
     },
     {
-      "id": "e3d052a9692eb65e988e8746",
-      "title": "House of the Dragon: Rhaenyra’s Worst Omen Yet Foreshadows the ‘Rot That Follows’",
-      "summary": "House of the Dragon: Season 3’s sixth episode depicts a moment that its director called “an instigating event for a lot of bad things” to come in the series. “That cut on Rhaenyra's finger becomes an instigating event for a lot of bad things,” director Loni Peristere declared in HBO’s Inside the Episode featurette.",
-      "url": "https://www.ign.com/articles/house-of-the-dragon-rhaenyra-cut-finger-iron-throne",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T19:59:17+00:00"
-    },
-    {
-      "id": "3ca4f1dba34442af36c2c3c8",
-      "title": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
-      "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T19:54:24+00:00"
-    },
-    {
-      "id": "e49d65c18765a69870b85ee1",
-      "title": "Wildfire witnesses describe 'wall of flames', fear and stress",
-      "summary": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T19:50:35+00:00"
-    },
-    {
-      "id": "7cde6fa1286f2bb8831b92fb",
-      "title": "Are MTG x Marvel Collector Commander Decks Worth the High Price?",
-      "summary": "MTG x Marvel Collector Commander Decks are back in stock at Amazon, but are they worth the asking price?",
-      "url": "https://www.ign.com/articles/mtg-marvel-collector-commander-decks-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T19:49:28+00:00"
-    },
-    {
-      "id": "16c687642ebf3a89eafcef7d",
-      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-      "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T16:33:05+00:00"
-    },
-    {
       "id": "913014941d20f832b32a0288",
       "title": "IA : « La véritable rupture, c’est l’apparition d’une puissance capable d’agir sans être un sujet de droit »",
       "summary": "Un incident récent chez OpenAI a ravivé la crainte que les modèles d’IA « décident » de se livrer au piratage. Cet événement appelle à repenser la notion d’intention dans le droit pour le rendre opposable aux machines, estime l’historien Julien Broch dans une tribune au « Monde ».",
@@ -519,8 +497,8 @@
       "publishedAt": "2026-07-27T16:00:10+00:00"
     },
     {
-      "id": "603909cdd2f1b1e59221ac57",
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "id": "de6faf4a499d0a4cae3ed40d",
+      "title": "European wildfires in maps - and how they're being tackled",
       "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
       "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -528,17 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-27T15:59:27+00:00"
-    },
-    {
-      "id": "32e4136a48e95432d765a0e9",
-      "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
-      "summary": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
-      "url": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T15:49:45+00:00"
     },
     {
       "id": "bb8c78453eec33cf25df76e3",
@@ -550,17 +517,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-27T14:26:34+00:00"
-    },
-    {
-      "id": "33dc1053e2147c3acd470450",
-      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-27T12:33:31+00:00"
     },
     {
       "id": "ab4c9f5c9feff395ba2c96c0",
