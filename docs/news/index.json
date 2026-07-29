@@ -1,27 +1,16 @@
 {
-  "updatedAt": "2026-07-29T01:47:35.562493+00:00",
+  "updatedAt": "2026-07-29T05:12:41.779245+00:00",
   "items": [
     {
-      "id": "6a054c973520261162ecc70d",
-      "title": "LAST SENTINEL Delayed as Lightspeed LA Shifts Game’s Creative Direction",
-      "summary": "Lightspeed LA, the developer behind LAST SENTINEL, announced that it’s making a big shift in creative direction that will impact some members of its staff.",
-      "url": "https://www.ign.com/articles/last-sentinel-delayed-as-lightspeed-la-shifts-games-creative-direction",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T01:41:21+00:00"
-    },
-    {
-      "id": "7e7bbb5d934cdf9b5624cf46",
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "id": "7027fcb69b07bb30eac09d01",
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-29T01:22:14+00:00"
+      "publishedAt": "2026-07-29T04:43:36+00:00"
     },
     {
       "id": "24b0b24510838d68cd0f82ac",
@@ -32,7 +21,73 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-29T00:51:45+00:00"
+      "publishedAt": "2026-07-29T04:30:08+00:00"
+    },
+    {
+      "id": "0a50c403f78a9f47ce30ac33",
+      "title": "Avec « Rayman », Ubisoft change de dimension et met « une vraie claque » à la concurrence",
+      "summary": "« La saga Ubisoft » (3/6). Le jeu de plateforme coloré, dont le premier volet est sorti en 1995, fait décoller l’entreprise bretonne de jeux vidéo au niveau mondial. En parallèle de cette expansion, de premiers remous salariaux se font jour.",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/29/avec-rayman-ubisoft-change-de-dimension-et-met-une-vraie-claque-a-la-concurrence_6736010_3451060.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-29T04:00:20+00:00"
+    },
+    {
+      "id": "9cf64c532221ec4d575dd3cf",
+      "title": "GTA Online In-game Gambling Suddenly Disabled in Australia",
+      "summary": "Australia joins a list of around 50 countries worldwide where GTA Online gambling features are blocked.",
+      "url": "https://www.ign.com/articles/gta-online-in-game-gambling-suddenly-disabled-in-australia",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T03:56:35+00:00"
+    },
+    {
+      "id": "4210e6f9371099e0ba1a1957",
+      "title": "Japan earthquake: What we know so far",
+      "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
+      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T02:47:08+00:00"
+    },
+    {
+      "id": "7e7bbb5d934cdf9b5624cf46",
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T02:30:50+00:00"
+    },
+    {
+      "id": "3479c6aeb73073bf2c2026fc",
+      "title": "Intelligence artificielle : une pétition pour « temporiser » la sortie des nouveaux modèles",
+      "summary": "Plus de 1 100 cadres de l’intelligence artificielle ont demandé au gouvernement américain qu’il soutienne une initiative pour freiner le développement automatisé des nouveaux modèles alors qu’ils craignent que ces derniers finissent par dépasser nos capacités à les comprendre ou les contrôler.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/29/intelligence-artificielle-une-petition-pour-temporiser-la-sortie-des-nouveaux-modeles_6735805_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-29T01:59:25+00:00"
+    },
+    {
+      "id": "1eee6b2fe1d7513217e38d89",
+      "title": "Lightspeed LA Lays Off Staff as It Shifts Last Sentinel's Creative Direction",
+      "summary": "Lightspeed LA, the developer behind Last Sentinel, announced that it’s making a big shift in creative direction that will impact some members of its staff.",
+      "url": "https://www.ign.com/articles/lightspeed-la-lays-off-staff-as-it-shifts-last-sentinels-creative-direction",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T01:41:21+00:00"
     },
     {
       "id": "c764438bc974117d750238e6",
@@ -310,17 +365,6 @@
       "publishedAt": "2026-07-28T19:53:42+00:00"
     },
     {
-      "id": "5ded8fa48a5f6344eeb075f1",
-      "title": "The Iniu 10,000mAh Power Bank Will More Than Double Nintendo Switch 2 Play Time for Less Than $10",
-      "summary": "Play and charge simultaneously.",
-      "url": "https://www.ign.com/articles/the-iniu-10000mah-power-bank-will-more-than-double-nintendo-switch-2-play-time-for-less-than-10",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T19:35:00+00:00"
-    },
-    {
       "id": "7e4cc41eab3bc3f6811fc679",
       "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
       "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
@@ -330,17 +374,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-28T18:19:57+00:00"
-    },
-    {
-      "id": "4210e6f9371099e0ba1a1957",
-      "title": "Japan earthquake: What we know so far",
-      "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
-      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T17:15:14+00:00"
     },
     {
       "id": "50a12369e777ea98b688af26",
@@ -363,17 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-28T16:37:02+00:00"
-    },
-    {
-      "id": "7027fcb69b07bb30eac09d01",
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T16:14:03+00:00"
     },
     {
       "id": "5a59c81fc495938c6692d06f",
@@ -913,28 +935,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-24T10:00:09+00:00"
-    },
-    {
-      "id": "e8b79b2912dd36f8bdbfa922",
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : « La Commission européenne envisage plutôt “un accès progressif et gradué pour différentes classes d’âge” »",
-      "summary": "Députés et sénateurs ont adopté, mardi 21 juillet, l’interdiction des réseaux sociaux aux moins de 15 ans. Florian Reynaud et Morgane Tual, journalistes au service Pixels du « Monde », ont répondu à vos questions.",
-      "url": "https://www.lemonde.fr/pixels/live/2026/07/24/posez-vos-questions-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans_6731466_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-24T07:00:09+00:00"
-    },
-    {
-      "id": "b1544bfca45ac97dbfe9f968",
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : huit questions pour tout comprendre",
-      "summary": "Députés et sénateurs ont approuvé la proposition de loi interdisant les réseaux sociaux aux moins de 15 ans. Cela sera-t-il appliqué dès septembre ? Tout le monde devra-t-il présenter sa carte d’identité ? La loi peut-elle encore être censurée ?",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/24/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-huit-questions-pour-tout-comprendre_6731421_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-24T04:00:13+00:00"
     },
     {
       "id": "c9896316c6b50d856a65d0e5",
