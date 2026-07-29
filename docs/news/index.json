@@ -1,16 +1,126 @@
 {
-  "updatedAt": "2026-07-29T11:14:27.600510+00:00",
+  "updatedAt": "2026-07-29T13:47:43.067142+00:00",
   "items": [
     {
-      "id": "8894d6d36126d180242fe824",
-      "title": "More than 100 aftershocks hit Japan after deadly quake that killed 13",
+      "id": "8a31bf7d2d1883b25914f4af",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "summary": "The former top US health official is invoking his right to remain silent as senators grill him under oath about the pandemic.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T13:42:49+00:00"
+    },
+    {
+      "id": "05a73ef16258f8a79bc75b31",
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T13:11:10+00:00"
+    },
+    {
+      "id": "b2562a49f172f2bc56748a27",
+      "title": "'Without His Help, Spike Wouldn't Would Have Lasted': Buffy Star James Marsters Says His Attempts at a British Accent Were Saved by Giles Actor Anthony Head",
+      "summary": "Buffy star James Marsters has said that Spike would not have survived long without some behind-the-scenes British accent tutoring from Giles actor Anthony Head.",
+      "url": "https://www.ign.com/articles/without-his-help-spike-wouldnt-would-have-lasted-buffy-star-james-marsters-says-his-attempts-at-a-british-accent-were-saved-by-giles-actor-anthony-head",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T12:34:45+00:00"
+    },
+    {
+      "id": "0cf4901bc668b35d48cc3ff2",
+      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T12:29:07+00:00"
+    },
+    {
+      "id": "078f6e80e41489b59a8794e0",
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T12:17:42+00:00"
+    },
+    {
+      "id": "97d169d7847fdb3285551734",
+      "title": "The Balrog vs Sauron Fight Is Either Blasphemy or Awesome, Depending on Where You Stand on The Lord of the Rings Adaptations",
+      "summary": "The Balrog vs Sauron fight is either blasphemy or awesome, depending on where you stand on The Lord of the Rings adaptations.",
+      "url": "https://www.ign.com/articles/the-balrog-vs-sauron-fight-is-either-blasphemy-or-awesome-depending-on-where-you-stand-on-the-lord-of-the-rings-adaptations",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T12:15:16+00:00"
+    },
+    {
+      "id": "8dddd0633af8ff35da4b6236",
+      "title": "Ghana hit by nationwide blackout as power plants fail",
+      "summary": "The massive outage has left homes, businesses and some essential services severely disrupted.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T12:10:40+00:00"
+    },
+    {
+      "id": "de6faf4a499d0a4cae3ed40d",
+      "title": "European wildfires in maps - and how they're being tackled",
+      "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T11:53:40+00:00"
+    },
+    {
+      "id": "2f4526e13150cb31bb10269b",
+      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
       "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-29T11:10:54+00:00"
+      "publishedAt": "2026-07-29T11:47:05+00:00"
+    },
+    {
+      "id": "63f82ec14f365777a8523f78",
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "summary": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-29T11:35:35+00:00"
+    },
+    {
+      "id": "130b35ce0d3efa3f3f54d6cc",
+      "title": "Jumanji: Open World Trailer Reveals One Last Roll of the Dice for Dwayne Johnson and His Video Game Friends — and After Black Adam and Moana Flopped, Will It Provide The Rock With a Much-Needed Hit?",
+      "summary": "Sony has released our best look yet at Jumanji: Open World, the third and final entry in the franchise's Dwayne \"The Rock\" Johnson-starring era.",
+      "url": "https://www.ign.com/articles/jumanji-open-world-trailer-reveals-one-last-roll-of-the-dice-for-dwayne-johnson-and-his-video-game-friends-and-after-black-adam-and-moana-flopped-will-it-provide-the-rock-with-a-much-needed-hit",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T11:14:51+00:00"
     },
     {
       "id": "6fd0642e25117d99272d76b2",
@@ -24,19 +134,19 @@
       "publishedAt": "2026-07-29T11:01:20+00:00"
     },
     {
-      "id": "de6faf4a499d0a4cae3ed40d",
-      "title": "European wildfires in maps - and how they're being tackled",
-      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "id": "dde92432a517ba6c2f4f652f",
+      "title": "I've Got a Theory for Who Henry Cavill Will Play in Amazon's Warhammer 40,000 TV Series",
+      "summary": "Who will Henry Cavill play in Amazon's Warhammer 40,000 TV series, and what will it be about? I've got a theory.",
+      "url": "https://www.ign.com/articles/ive-got-a-theory-for-who-henry-cavill-will-play-in-amazons-warhammer-40000-tv-series",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T10:42:17+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T10:55:55+00:00"
     },
     {
-      "id": "9ac99f6cdf0e8c89b9aa416b",
-      "title": "French DJ ​and electropop ‌musician Kavinsky dies aged 50",
+      "id": "ba9e62bc9246479a664a35b7",
+      "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
       "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
       "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -66,28 +176,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-29T10:15:07+00:00"
-    },
-    {
-      "id": "63f82ec14f365777a8523f78",
-      "title": "Data centres could pay hundreds of millions in deposits for power demands",
-      "summary": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-29T09:50:04+00:00"
-    },
-    {
-      "id": "c6c88d77b06ef878ce1d8a8e",
-      "title": "FA 'deeply concerned' by Fifa plan as Uefa to meet",
-      "summary": "The Football Association says it is concerned by Fifa's proposals to sell stakes in its major competitions as Uefa's 55 member associations hold an emergency meeting to discuss the issue.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T09:46:28+00:00"
     },
     {
       "id": "09fd770af70d6f98e71167a2",
@@ -255,17 +343,6 @@
       "publishedAt": "2026-07-29T05:00:07+00:00"
     },
     {
-      "id": "7027fcb69b07bb30eac09d01",
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T04:43:36+00:00"
-    },
-    {
       "id": "0a50c403f78a9f47ce30ac33",
       "title": "Avec « Rayman », Ubisoft change de dimension et met « une vraie claque » à la concurrence",
       "summary": "« La saga Ubisoft » (3/6). Le jeu de plateforme coloré, dont le premier volet est sorti en 1995, fait décoller l’entreprise bretonne de jeux vidéo au niveau mondial. En parallèle de cette expansion, de premiers remous salariaux se font jour.",
@@ -297,17 +374,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-29T02:30:50+00:00"
-    },
-    {
-      "id": "078f6e80e41489b59a8794e0",
-      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T02:24:03+00:00"
     },
     {
       "id": "b8921953d5eee82747b33a19",
@@ -420,17 +486,6 @@
       "publishedAt": "2026-07-28T23:25:53+00:00"
     },
     {
-      "id": "125153e81d733f8ddbcd7c2d",
-      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-      "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T23:12:09+00:00"
-    },
-    {
       "id": "2d23f02b95e88958f1f2111e",
       "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
       "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
@@ -453,48 +508,15 @@
       "publishedAt": "2026-07-28T22:55:00+00:00"
     },
     {
-      "id": "e715a0d25ca88f127977d11a",
-      "title": "Sony Battling Spider-Man: Brand New Day Post-Credit Scene Leaks, Scrubbing Social Media Via Copyright Claims",
-      "summary": "Sony is battling a major Spider-Man: Brand New Day leak, and using copyright claims to scrub the movie's post-credits scene from social media.",
-      "url": "https://www.ign.com/articles/sony-battling-spider-man-brand-new-day-post-credit-scene-leaks-scrubbing-social-media-via-copyright-claims",
+      "id": "29510be3e7e91f33858ac422",
+      "title": "Why Wimbledon is serving Indian ice cream and Bollywood beats",
+      "summary": "Departing from tradition, Wimbledon shed its restraint to target new audiences in cricket-crazy India.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdz0420xzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T22:45:23+00:00"
-    },
-    {
-      "id": "f0e96fa17406320305b063a4",
-      "title": "Tom Holland Reveals How He Brought Finishing Moves From Sony's Spider-Man Games to Brand New Day",
-      "summary": "Spider-Man: Brand New Day star Tom Holland and director Destin Daniel Cretton opened up about taking inspiration from Sony’s Spider-Man games and how they translated their combat into the newest Spidey movie.",
-      "url": "https://www.ign.com/articles/tom-holland-reveals-how-he-brought-finishing-moves-from-sonys-spider-man-games-to-brand-new-day",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T22:30:02+00:00"
-    },
-    {
-      "id": "fb6c4ffe79158746549ee8e4",
-      "title": "Fortnite Adds New Spider-Man, Hulk, and Punisher Skins in Brand New Day Crossover",
-      "summary": "Spider-Man: Brand New Day is taking over Fortnite as part of a brand new crossover.",
-      "url": "https://www.ign.com/articles/fortnite-adds-new-spider-man-hulk-and-punisher-skins-in-brand-new-day-crossover",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T22:27:07+00:00"
-    },
-    {
-      "id": "f488a965b2f67134e26ba44d",
-      "title": "Halo: Campaign Evolved PC Settings Guide",
-      "summary": "Halo: Campaign Evolved takes one of the best games ever made and brings it to Unreal Engine 5. Here's how you can tweak the settings to dial in performance.",
-      "url": "https://www.ign.com/articles/halo-campaign-evolved-pc-settings",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T22:15:28+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-28T22:05:26+00:00"
     },
     {
       "id": "49674c07e0065a8fc38258a2",
@@ -517,39 +539,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-28T20:00:00+00:00"
-    },
-    {
-      "id": "7e4cc41eab3bc3f6811fc679",
-      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T18:19:57+00:00"
-    },
-    {
-      "id": "3000a79c4151b3b2b2d5796c",
-      "title": "Uefa and PM criticise Infantino World Cup plan",
-      "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T15:36:29+00:00"
-    },
-    {
-      "id": "edc0119ae4f2e55e446fd274",
-      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T15:11:28+00:00"
     },
     {
       "id": "2b16a64ffd1e18df6fa79acc",
