@@ -1,16 +1,93 @@
 {
-  "updatedAt": "2026-07-29T15:44:25.485984+00:00",
+  "updatedAt": "2026-07-29T17:05:06.506720+00:00",
   "items": [
     {
-      "id": "8a31bf7d2d1883b25914f4af",
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "id": "46febefd838706346bf65b71",
+      "title": "France fire crews face searing heat in battle to contain flames",
+      "summary": "Firefighters are battling flare-ups in 40C heat, as some locals have refused to heed evacuations in the Gironde region.",
+      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T16:49:41+00:00"
+    },
+    {
+      "id": "65b401f9ab6fc7e60e831ade",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
       "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
       "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-29T15:40:24+00:00"
+      "publishedAt": "2026-07-29T16:49:06+00:00"
+    },
+    {
+      "id": "b71e70653712027682c3473c",
+      "title": "« L’interdiction des réseaux sociaux avant 15 ans transforme la condition d’exercice de la liberté d’anonymat »",
+      "summary": "Adoptée le 21 juillet, la proposition de loi implique de vérifier l’âge des internautes et soulève donc d’épineuses questions quant à la préservation de l’anonymat, relève la professeure de droit Brunessen Bertrand dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/29/l-interdiction-des-reseaux-sociaux-avant-15-ans-transforme-la-condition-d-exercice-de-la-liberte-d-anonymat_6736398_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-29T16:30:06+00:00"
+    },
+    {
+      "id": "a3efcc288835a6bdf29f9a39",
+      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T16:23:41+00:00"
+    },
+    {
+      "id": "5fda54865a0c7cd1d9c7595c",
+      "title": "‘I Have a Personal Vendetta Against Filler Content’ – How The Blood of Dawnwalker Makes Its Open World Feel Meaningful",
+      "summary": "Take a closer look at how developer The Blood of Dawnwalker developer Rebel Wolves made its open world meaningful through activity design and deep lore that rejects the idea of \"filler content\".",
+      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-open-world-ign-first",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T16:00:00+00:00"
+    },
+    {
+      "id": "000d8060325f7aee020a9aac",
+      "title": "Tony Review",
+      "summary": "Tony review: Matt Johnson zeroes in on a teenage chapter in Anthony Bourdain’s life.",
+      "url": "https://www.ign.com/articles/tony-review-anthony-bourdain-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T16:00:00+00:00"
+    },
+    {
+      "id": "9459f17e385d4f13c73d87b2",
+      "title": "LEGO's Batman Forever Batmobile Set Has Received a Sizable $25 Discount at Amazon",
+      "summary": "LEGO's Batman Forever Batmobile set is on sale for $74.99 at Amazon. That's a $25 discount from its full price of $99.99, but also incredibly close to its lowest-ever price at the retailer.",
+      "url": "https://www.ign.com/articles/lego-batman-forever-batmobile-set-has-received-a-25-discount-at-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T15:53:11+00:00"
+    },
+    {
+      "id": "240999d62fe6b95d7a0ce73b",
+      "title": "Halo: Campaign Evolved Is Now Out for PS5 and Xbox – Here’s What Comes in Each Edition",
+      "summary": "Halo: Campaign Evolved is now available on PlayStation 5 and Xbox Series X. Here's what editions are available and what they come with.",
+      "url": "https://www.ign.com/articles/halo-campaign-evolved-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T15:43:44+00:00"
     },
     {
       "id": "05a73ef16258f8a79bc75b31",
@@ -24,26 +101,92 @@
       "publishedAt": "2026-07-29T15:33:14+00:00"
     },
     {
-      "id": "6df2bfe6ddab9779b1e90f32",
-      "title": "Incident OpenAI : les modèles d’IA ont fait intrusion sur quatre autres plateformes qu’Hugging Face",
+      "id": "39468b7f2f0c0ab15891958b",
+      "title": "Well, the Greek Prime Minister Seems Happy With The Odyssey — He Called Christopher Nolan to Thank Him for 'Stimulating Global Interest in Ancient Greek Culture'",
+      "summary": "The Greek prime minister called Christpher Nolan to personally congratulate him for The Odyssey, which he said has boosted interest in ancient Greek culture.",
+      "url": "https://www.ign.com/articles/well-the-greek-prime-minister-seems-happy-with-the-odyssey-he-called-christopher-nolan-to-thank-him-for-stimulating-global-interest-in-ancient-greek-culture",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T15:32:43+00:00"
+    },
+    {
+      "id": "e47ed9028a7b43b36b3d909f",
+      "title": "Fortnite Will Let You Unlock John Wick as a The Simpsons Character",
+      "summary": "Keanu Reeves has never guest starred on The Simpsons, but if he did, this is how his iconic assassin John Wick might look.",
+      "url": "https://www.ign.com/articles/fortnite-will-let-you-unlock-john-wick-as-a-the-simpsons-character",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T15:32:20+00:00"
+    },
+    {
+      "id": "32a225e7cf8fde915cd12820",
+      "title": "Pokémon TCG: Latest Mega Evolution Booster Bundles Drop to All-Time Low Prices at Amazon",
+      "summary": "Amazon has restocked Pokémon TCG booster bundles, including Pitch Black, Chaos Rising, and Perfect Order, dropping prices down to market value with fast Prime shipping. These are the best deals going for anyone seeking out sealed Mega Evolution packs right now.",
+      "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-booster-bundle-amazon-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T15:24:55+00:00"
+    },
+    {
+      "id": "99d670888f43452207544253",
+      "title": "Incident OpenAI : les modèles d’IA ont fait intrusion sur quatre autres plateformes en plus de Hugging Face",
       "summary": "Cet incident a donné un écho supplémentaire au débat, déjà nourri, sur l’accélération de l’IA, aux capacités de plus en plus étendues, et sur la difficulté de la contrôler.",
       "url": "https://www.lemonde.fr/pixels/article/2026/07/29/incident-openai-les-modeles-d-ia-ont-fait-intrusion-sur-quatre-autres-plateformes-qu-hugging-face_6736385_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-29T15:05:56+00:00"
+      "publishedAt": "2026-07-29T15:05:54+00:00"
     },
     {
-      "id": "0cf4901bc668b35d48cc3ff2",
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "id": "30212c2a0bdb1502efa0fe18",
+      "title": "The Relic: First Guardian Review",
+      "summary": "The true dark fantasy of The Relic: First Guardian is all of the potential it squanders; an energetic action game marred by its own shambolic state and broken in too many inexcusable ways.",
+      "url": "https://www.ign.com/articles/the-relic-first-guardian-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T15:00:25+00:00"
+    },
+    {
+      "id": "9b6af2a6c9ea7e4fa06892eb",
+      "title": "How 97 Copies of an Unreleased Version of Super Mario Bros. Duck Hunt Were Discovered in a Wisconsin Warehouse",
+      "summary": "When Jason Ganos was asked to help sell an old box full of NES cartridges, he figured they would be pre-owned copies of games that had already been circulated in the market. He had no idea that he was about to make a historic discovery that would change his life forever.",
+      "url": "https://www.ign.com/articles/how-97-copies-of-an-unreleased-version-of-super-mario-bros-duck-hunt-were-discovered-in-a-wisconsin-warehouse",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T15:00:00+00:00"
+    },
+    {
+      "id": "a5214dc1c974f0427f51113e",
+      "title": "5 Years Later, Cool Cyberpunk Shooter The Ascent Is Getting a Major Update — and It Sounds Like a Sequel Is in the Works",
+      "summary": "The Ascent is set for a surprise major update to coincide with the game’s fifth anniversary — and it sounds like a sequel is on the way.",
+      "url": "https://www.ign.com/articles/5-years-later-cool-cyberpunk-shooter-the-ascent-is-getting-a-major-update-and-it-sounds-like-a-sequel-is-in-the-works",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T14:50:49+00:00"
+    },
+    {
+      "id": "388d51f2c3737997636c9d26",
+      "title": "Planes dump water on French wildfires as temperatures rise",
+      "summary": "Authorities have been trying to contain the wildfires, which have been burning for days.",
+      "url": "https://www.bbc.co.uk/news/videos/cly8xvvj8yro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-29T14:27:13+00:00"
+      "publishedAt": "2026-07-29T14:25:33+00:00"
     },
     {
       "id": "5edb104d8e7466212d168cd4",
@@ -200,8 +343,8 @@
       "publishedAt": "2026-07-29T10:55:55+00:00"
     },
     {
-      "id": "ba9e62bc9246479a664a35b7",
-      "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
+      "id": "3045b56d4b7c05c9ffe0f5da",
+      "title": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
       "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
       "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -299,17 +442,6 @@
       "publishedAt": "2026-07-29T08:44:48+00:00"
     },
     {
-      "id": "8906333279faa20913cdb29f",
-      "title": "X-Men '97 Season 2, Episode 7 Review & Recap: \"Strange Land, Savage Heart\"",
-      "summary": "X-Men '97 somehow finds room to squeeze in a Colossus and Nightcrawler-focused episode before Season 2's endgame, and we couldn't be happier. Read our review of \"Strange Land, Savage Heart.\"",
-      "url": "https://www.ign.com/articles/x-men-97-season-2-episode-7-review-recap-strange-land-savage-heart",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T08:38:05+00:00"
-    },
-    {
       "id": "32149846b98f5698708af627",
       "title": "« La sécurité n’est pas la première des libertés, elle est la première mission de l’Etat »",
       "summary": "Après le vote en faveur de textes sécuritaires par plusieurs partis se réclamant du libéralisme, Sacha Benhamou, du think tank Génération libre, rappelle, dans une tribune au « Monde », que l’Etat est censé assurer la sécurité sans outrepasser les droits qu’il a pour fonction de garantir.",
@@ -321,37 +453,15 @@
       "publishedAt": "2026-07-29T08:30:08+00:00"
     },
     {
-      "id": "51cbe2ace07950de5ab6e19e",
-      "title": "Beat The “Razor Tax” With This Smooth OneBlade Deal at Amazon UK",
-      "summary": "These OneBlade attachments will help you shave comfortably all over, and for less.",
-      "url": "https://www.ign.com/articles/philips-oneblade-intimate-blade-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T08:00:00+00:00"
-    },
-    {
-      "id": "0aad99d72c2317ceeb54bc70",
-      "title": "Silent Hill: Townfall Might Be Exactly What the Series Needs | IGN Preview",
-      "summary": "Silent Hill: Townfall being in first-person definitely sparked the thought of what P.T. could have been, because my time with Townfall showed that the more intimate interaction with the environment can bring you closer to both the story it's trying to tell and the gameplay elements that give rise to such dread. I came in thinking Townfall would be ",
-      "url": "https://www.ign.com/articles/silent-hill-townfall-might-be-exactly-what-the-series-needs-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T07:00:00+00:00"
-    },
-    {
-      "id": "57e989e73f40d956376d8549",
-      "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-      "summary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+      "id": "a3d732d7531162ad06cd8ed0",
+      "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
+      "summary": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-29T06:10:19+00:00"
+      "publishedAt": "2026-07-29T08:16:15+00:00"
     },
     {
       "id": "95b872a0071ce06dbe0b42ec",
@@ -398,17 +508,6 @@
       "publishedAt": "2026-07-29T04:00:20+00:00"
     },
     {
-      "id": "9cf64c532221ec4d575dd3cf",
-      "title": "GTA Online In-game Gambling Suddenly Disabled in Australia",
-      "summary": "Australia joins a list of around 50 countries worldwide where GTA Online gambling features are blocked.",
-      "url": "https://www.ign.com/articles/gta-online-in-game-gambling-suddenly-disabled-in-australia",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T03:56:35+00:00"
-    },
-    {
       "id": "7e7bbb5d934cdf9b5624cf46",
       "title": "Trump administration bans new Chinese humanoid robots",
       "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
@@ -429,72 +528,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-29T01:59:25+00:00"
-    },
-    {
-      "id": "1eee6b2fe1d7513217e38d89",
-      "title": "Lightspeed LA Lays Off Staff as It Shifts Last Sentinel's Creative Direction",
-      "summary": "Lightspeed LA, the developer behind Last Sentinel, announced that it’s making a big shift in creative direction that will impact some members of its staff.",
-      "url": "https://www.ign.com/articles/lightspeed-la-lays-off-staff-as-it-shifts-last-sentinels-creative-direction",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T01:41:21+00:00"
-    },
-    {
-      "id": "c764438bc974117d750238e6",
-      "title": "Destin Daniel Cretton Admits He Was 'Sad' When Avengers: Kang Dynasty Got Canceled",
-      "summary": "The Spider-Man: Brand New Day director admitted to feeling disappointed when Marvel’s carefully-crafted buildup to Kang the Conqueror didn’t pan out as originally planned.",
-      "url": "https://www.ign.com/articles/destin-daniel-cretton-admits-he-was-sad-when-avengers-kang-dynasty-got-canceled",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T00:13:28+00:00"
-    },
-    {
-      "id": "dd773d8022da0369de39373d",
-      "title": "Philips Electric Razor Deals: Save up to 60% at Amazon UK",
-      "summary": "Score up to 60% off Philips electric shavers at Amazon UK, including big discounts on the Shaver Series 5000, Series 3000X, and OneBlade accessories.",
-      "url": "https://www.ign.com/articles/philips-shaver-deals-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T00:06:34+00:00"
-    },
-    {
-      "id": "334cabcaaf3b674ec0d8ec03",
-      "title": "Godzilla Minus One is Getting a Limited Edition 4K Steelbook, and Preorders Are Live Now",
-      "summary": "Preorders for the Godzilla Minus One Limited Edition 4K Steelbook are now live on Amazon and Gruv. Secure your 3-disc collector's set before the October release.",
-      "url": "https://www.ign.com/articles/godzilla-minus-one-4k-steelbook-preorders",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T23:59:01+00:00"
-    },
-    {
-      "id": "fccc3183b8e17e2e77129d74",
-      "title": "Pick up a Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon",
-      "summary": "An inviting gaming chair without the high dollar price tag",
-      "url": "https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T23:55:00+00:00"
-    },
-    {
-      "id": "e06e4732642ccf26ef923a26",
-      "title": "Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99",
-      "summary": "Convenience with a dash of pizazz.",
-      "url": "https://www.ign.com/articles/clamp-style-power-strip-with-led-night-light-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T23:50:00+00:00"
     },
     {
       "id": "2d5b9540cbbbdecbf084a19f",
@@ -616,28 +649,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-28T04:00:42+00:00"
-    },
-    {
-      "id": "da7c2592d4ff0e270afb6a33",
-      "title": "BBC outside court as judge rules singer D4vd will face murder trial",
-      "summary": "The body of 14-year-old Celeste Rivas Hernandez was found last September inside the trunk of a Tesla registered to singer D4vd.",
-      "url": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T01:29:25+00:00"
-    },
-    {
-      "id": "e798d2f0f111a7fdb8340dff",
-      "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-      "summary": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
-      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T00:30:11+00:00"
     },
     {
       "id": "f26c6bc092f750a0d7a4be46",
@@ -836,17 +847,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-24T20:23:58+00:00"
-    },
-    {
-      "id": "d3d5d966d6150ba9f934c97c",
-      "title": "Amende infligée à Google : l’Union européenne va payer « un très lourd prix », menace Donald Trump",
-      "summary": "L’amende de 890 millions d’euros sanctionne notamment les pratiques du moteur de recherche grâce auxquelles le groupe américain met systématiquement en avant ses propres services, au détriment de ses concurrents.",
-      "url": "https://www.lemonde.fr/international/article/2026/07/24/amende-a-google-l-union-europeenne-va-payer-un-tres-lourd-prix-menace-donald-trump_6731543_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-24T18:35:16+00:00"
     },
     {
       "id": "953862b17e07461630af48d5",
