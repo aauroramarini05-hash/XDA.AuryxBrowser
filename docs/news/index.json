@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-29T13:47:43.067142+00:00",
+  "updatedAt": "2026-07-29T15:44:25.485984+00:00",
   "items": [
     {
       "id": "8a31bf7d2d1883b25914f4af",
       "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-      "summary": "The former top US health official is invoking his right to remain silent as senators grill him under oath about the pandemic.",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
       "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-29T13:42:49+00:00"
+      "publishedAt": "2026-07-29T15:40:24+00:00"
     },
     {
       "id": "05a73ef16258f8a79bc75b31",
@@ -21,7 +21,73 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-29T13:11:10+00:00"
+      "publishedAt": "2026-07-29T15:33:14+00:00"
+    },
+    {
+      "id": "6df2bfe6ddab9779b1e90f32",
+      "title": "Incident OpenAI : les modèles d’IA ont fait intrusion sur quatre autres plateformes qu’Hugging Face",
+      "summary": "Cet incident a donné un écho supplémentaire au débat, déjà nourri, sur l’accélération de l’IA, aux capacités de plus en plus étendues, et sur la difficulté de la contrôler.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/29/incident-openai-les-modeles-d-ia-ont-fait-intrusion-sur-quatre-autres-plateformes-qu-hugging-face_6736385_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-29T15:05:56+00:00"
+    },
+    {
+      "id": "0cf4901bc668b35d48cc3ff2",
+      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T14:27:13+00:00"
+    },
+    {
+      "id": "5edb104d8e7466212d168cd4",
+      "title": "Pokémon Pokopia Expansion and Free Update Arrive Next Week, Unlocking Underwater Gameplay",
+      "summary": "Pokémon Pokopia will unlock underwater gameplay next week as part of a free update, alongside the launch of the game's first expansion.",
+      "url": "https://www.ign.com/articles/pokemon-pokopia-expansion-and-free-update-arrive-next-week-unlocking-underwater-gameplay",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T14:19:33+00:00"
+    },
+    {
+      "id": "53ef3c116590d2880b7c2452",
+      "title": "Blacklyte Atlas Lite Standing Desk Review",
+      "summary": "The problem with a good standing desk is usually its price. Enter Blacklyte and its Atlas Lite Standing Desk. As the \"Lite\" in the name suggests, it has fewer frills than other standing desks, including the company's own Atlas, but at half the price, you're giving up surprisingly little from a practical standpoint.",
+      "url": "https://www.ign.com/articles/blacklyte-atlas-lite-standing-desk-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T14:00:00+00:00"
+    },
+    {
+      "id": "2883f183d7133a9fcb291a43",
+      "title": "Select Physical Resident Evil Games on PS5 Are Back to $16 at Amazon",
+      "summary": "A selection of Resident Evil games - Resident Evil 2 remake, Resident Evil 3 remake, Resident Evil 4 remake, and Resident Evil 7 - are back on sale for $16 at Amazon.",
+      "url": "https://www.ign.com/articles/select-physical-resident-evil-games-on-ps5-are-back-to-16-at-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T13:53:23+00:00"
+    },
+    {
+      "id": "09fd770af70d6f98e71167a2",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T13:48:41+00:00"
     },
     {
       "id": "b2562a49f172f2bc56748a27",
@@ -33,17 +99,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-29T12:34:45+00:00"
-    },
-    {
-      "id": "0cf4901bc668b35d48cc3ff2",
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T12:29:07+00:00"
     },
     {
       "id": "078f6e80e41489b59a8794e0",
@@ -176,17 +231,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-29T10:15:07+00:00"
-    },
-    {
-      "id": "09fd770af70d6f98e71167a2",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T09:39:56+00:00"
     },
     {
       "id": "15f02b02c1707263280aaa01",
@@ -453,28 +497,6 @@
       "publishedAt": "2026-07-28T23:50:00+00:00"
     },
     {
-      "id": "1774709cea43f59ff914bc46",
-      "title": "Honkai Star Rail Limited Edition Power Banks and Chargers Are on Sale at Amazon",
-      "summary": "All aboard the Astral Express.",
-      "url": "https://www.ign.com/articles/honkai-star-rail-limited-edition-power-banks-and-chargers-are-on-sale-at-amazon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T23:45:00+00:00"
-    },
-    {
-      "id": "37f2324fdb42e378654725fd",
-      "title": "The Vast Majority of Capcom's 2026 Game Sales Have Been Digital",
-      "summary": "Capcom’s Q1 report for the 2026 fiscal year is out, and it’s making a lot of players uneasy.",
-      "url": "https://www.ign.com/articles/the-vast-majority-of-capcoms-2026-game-sales-have-been-digital",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T23:32:25+00:00"
-    },
-    {
       "id": "2d5b9540cbbbdecbf084a19f",
       "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
       "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
@@ -495,17 +517,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-28T23:00:15+00:00"
-    },
-    {
-      "id": "2a9572c9f98be9600dc95318",
-      "title": "Furnish Your Home Gym With This Complete Multi-Function Power Cage for Just $263.48 Shipped",
-      "summary": "Squat rack, lat pull-down machine, power tower, and dip bar in one.",
-      "url": "https://www.ign.com/articles/sportsroyals-multi-function-power-cage",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-28T22:55:00+00:00"
     },
     {
       "id": "29510be3e7e91f33858ac422",
@@ -836,17 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-24T18:35:16+00:00"
-    },
-    {
-      "id": "3d183725fd6949e0161cdcb9",
-      "title": "« Face au risque que l’IA détruise des millions d’emplois, il faut repenser notre système fiscal »",
-      "summary": "La politique économique à l’ère de l’intelligence artificielle doit garantir qu’il reste suffisamment de travail pour ceux qui le souhaitent et écarter le risque que cette technologie vide nos caisses publiques, estime Jennifer Rayner, spécialiste de la transition économique, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/24/face-au-risque-que-l-ia-detruise-des-millions-d-emplois-il-faut-repenser-notre-systeme-fiscal_6731517_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-24T15:00:01+00:00"
     },
     {
       "id": "953862b17e07461630af48d5",
