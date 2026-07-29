@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-07-29T18:59:09.376953+00:00",
+  "updatedAt": "2026-07-29T20:13:02.378287+00:00",
   "items": [
+    {
+      "id": "ff7ab1cc58680d88bb9f8b2f",
+      "title": "Personnes dénudées par l’IA sur Hugging Face : la haut-commissaire à l’enfance, Sarah El Haïry, saisit la Commission européenne",
+      "summary": "Selon l’ONG AI Forensics, sept des neuf modèles d’IA de retouche d’images les plus mis en avant par la plateforme « permettent aux utilisateurs de déshabiller des personnes à l’aide de simples prompts ».",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/29/personnes-denudees-par-l-ia-sur-hugging-face-la-haut-commissaire-a-l-enfance-sarah-el-hairy-saisit-la-commission-europeenne_6736416_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-29T19:28:00+00:00"
+    },
+    {
+      "id": "d7a4895695fff298d3adf726",
+      "title": "Final Fantasy 7 Revelation Director Is Pushing for a Physical Edition, But Nothing Has Been Decided",
+      "summary": "There's a chance that Final Fantasy 7 Revelation may not have a physical edition, but the director of the game is actively pushing to avoid that.",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-director-is-pushing-for-a-physical-edition-but-nothing-has-been-decided",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T19:17:04+00:00"
+    },
+    {
+      "id": "2db24233ee552a1c5b0c10c3",
+      "title": "Save $3,400 Off the 77\" LG Evo M-Series 4K OLED TV With Wireless Connectivity",
+      "summary": "Premium Gallery-series OLED panel and no cables to the TV except for power.",
+      "url": "https://www.ign.com/articles/77-lg-evo-m3-4k-oled-tv-deal-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T19:10:00+00:00"
+    },
+    {
+      "id": "48e646c37885110ea3f5ac97",
+      "title": "Guillermo del Toro Says He Plays Angry Birds ‘Every Day’ of His Life",
+      "summary": "Speaking with IGN as part of our IGN30 Icon Series, Guillermo del Toro opened up about his favorite games — and while he gushed about many, one definitely stood out from the rest.",
+      "url": "https://www.ign.com/articles/guillermo-del-toro-says-he-plays-angry-birds-every-day-of-his-life",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T19:03:26+00:00"
+    },
+    {
+      "id": "44052d1c238e3278b7546769",
+      "title": "Nintendo Switch 2 Drops to Just £364 in Today's Best UK Deals",
+      "summary": "Grab the Nintendo Switch 2 for just £364 at Amazon UK before potential price hikes, plus top daily deals on LEGO, Marvel's Wolverine, and Philips shavers.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-drops-to-just-364-in-todays-best-uk-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T18:49:32+00:00"
+    },
     {
       "id": "21f7cb749c0d7762db266adb",
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -35,8 +90,8 @@
       "publishedAt": "2026-07-29T18:24:49+00:00"
     },
     {
-      "id": "4c426ed9fde533df3961c9d3",
-      "title": "Save 20% off the LEGO Game Boy, Which Happens to be the First Ever Deal I've Seen for This Set",
+      "id": "f3f706f0c40beb4339d743e8",
+      "title": "Save 20% Off the LEGO Nintendo Game Boy, the First Discount I've Seen for This Set",
       "summary": "A must own set for any LEGO fan and gamer.",
       "url": "https://www.ign.com/articles/lego-game-boy-deal-july-2026",
       "imageUrl": null,
@@ -88,6 +143,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-29T17:25:57+00:00"
+    },
+    {
+      "id": "22c14953a546a47754944edd",
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T17:21:57+00:00"
     },
     {
       "id": "68bc40e5c42f5de5528a6dfa",
@@ -178,8 +244,8 @@
       "publishedAt": "2026-07-29T16:50:00+00:00"
     },
     {
-      "id": "46febefd838706346bf65b71",
-      "title": "France fire crews face searing heat in battle to contain flames",
+      "id": "450f0d2ff8466998fe6e5723",
+      "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
       "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
       "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -244,17 +310,6 @@
       "publishedAt": "2026-07-29T15:53:11+00:00"
     },
     {
-      "id": "240999d62fe6b95d7a0ce73b",
-      "title": "Halo: Campaign Evolved Is Now Out for PS5 and Xbox – Here’s What Comes in Each Edition",
-      "summary": "Halo: Campaign Evolved is now available on PlayStation 5 and Xbox Series X. Here's what editions are available and what they come with.",
-      "url": "https://www.ign.com/articles/halo-campaign-evolved-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T15:43:44+00:00"
-    },
-    {
       "id": "05a73ef16258f8a79bc75b31",
       "title": "Oscar-winning songwriter Glen Hansard killed in crash",
       "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
@@ -264,39 +319,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-29T15:33:14+00:00"
-    },
-    {
-      "id": "39468b7f2f0c0ab15891958b",
-      "title": "Well, the Greek Prime Minister Seems Happy With The Odyssey — He Called Christopher Nolan to Thank Him for 'Stimulating Global Interest in Ancient Greek Culture'",
-      "summary": "The Greek prime minister called Christpher Nolan to personally congratulate him for The Odyssey, which he said has boosted interest in ancient Greek culture.",
-      "url": "https://www.ign.com/articles/well-the-greek-prime-minister-seems-happy-with-the-odyssey-he-called-christopher-nolan-to-thank-him-for-stimulating-global-interest-in-ancient-greek-culture",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T15:32:43+00:00"
-    },
-    {
-      "id": "e47ed9028a7b43b36b3d909f",
-      "title": "Fortnite Will Let You Unlock John Wick as a The Simpsons Character",
-      "summary": "Keanu Reeves has never guest starred on The Simpsons, but if he did, this is how his iconic assassin John Wick might look.",
-      "url": "https://www.ign.com/articles/fortnite-will-let-you-unlock-john-wick-as-a-the-simpsons-character",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T15:32:20+00:00"
-    },
-    {
-      "id": "32a225e7cf8fde915cd12820",
-      "title": "Pokémon TCG: Latest Mega Evolution Booster Bundles Drop to All-Time Low Prices at Amazon",
-      "summary": "Amazon has restocked Pokémon TCG booster bundles, including Pitch Black, Chaos Rising, and Perfect Order, dropping prices down to market value with fast Prime shipping. These are the best deals going for anyone seeking out sealed Mega Evolution packs right now.",
-      "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-booster-bundle-amazon-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T15:24:55+00:00"
     },
     {
       "id": "99d670888f43452207544253",
@@ -814,17 +836,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-25T06:00:15+00:00"
-    },
-    {
-      "id": "3c7cbfa9fb51964e58701a6c",
-      "title": "IA : la France tente de rester dans la course mondiale aux data centers",
-      "summary": "Selon Rexecode, le déploiement de data centers en France représenterait 210 milliards d’euros d’investissements d’ici à 2035. Un défi indispensable à relever, juge le cabinet, à l’heure où les contestations locales se multiplient contre ces infrastructures énergivores et peu pourvoyeuses d’emplois.",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/25/ia-la-france-tente-de-rester-dans-la-course-mondiale-aux-data-centers_6731684_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-25T03:30:05+00:00"
     },
     {
       "id": "01e1d2f01f4866f742bd04f2",
