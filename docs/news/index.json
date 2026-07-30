@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-30T01:40:40.271500+00:00",
+  "updatedAt": "2026-07-30T04:49:28.297669+00:00",
   "items": [
+    {
+      "id": "084c6088b7d449058b824fce",
+      "title": "Avec « Assassin’s Creed », le saut de l’ange réussi d’Ubisoft dans un monde ouvert",
+      "summary": "« La saga Ubisoft » (4/6). Dans les années 2000, le studio montréalais d’Ubisoft s’impose comme l’un des meilleurs au monde.",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/30/avec-assassin-s-creed-le-saut-de-l-ange-reussi-d-ubisoft-dans-un-monde-ouvert_6736662_3451060.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-30T04:00:21+00:00"
+    },
+    {
+      "id": "a7812ab8853fef44a847a32c",
+      "title": "La cyberattaque de Hugging Face par des IA d’OpenAI expliquée en quatre questions",
+      "summary": "Deux intelligences artificielles d’OpenAI sont parvenues à s’extirper d’un environnement théoriquement confiné et à se connecter à Internet, piratant plusieurs entreprises pour résoudre un test, et attaquant notamment la plateforme Hugging Face. Un épisode qui soulève de nombreuses questions en matière de sécurité.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/30/la-cyberattaque-de-hugging-face-par-des-ia-d-openai-expliquee-en-quatre-questions_6736657_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-30T03:58:35+00:00"
+    },
+    {
+      "id": "cdec23a2c904dcd9b44f2782",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T03:33:01+00:00"
+    },
+    {
+      "id": "da1d25eb979487513d81afb0",
+      "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+      "summary": "Telegram told the BBC it rejects the allegations and will contest them in court.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T03:03:12+00:00"
+    },
+    {
+      "id": "391ec2a40a866d8347cf08f0",
+      "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "summary": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+      "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T02:54:54+00:00"
+    },
+    {
+      "id": "935f9b112abeb92ec5c234fe",
+      "title": "Project Motor Racing Adds Free Holden Commodore, PC Triple-Screen Support in 2.1 Update",
+      "summary": "New, free V8 Supercars DLC pack launches alongside a “significant new update” for Project Motor Racing, which includes a total rebuild of the handling model for the GT3 and GT4 categories.",
+      "url": "https://www.ign.com/articles/project-motor-racing-adds-free-holden-commodore-pc-triple-screen-support-in-21-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T01:57:51+00:00"
+    },
+    {
+      "id": "a140a327ba0ed7608554da06",
+      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+      "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T01:53:25+00:00"
+    },
     {
       "id": "e8f405766db2875366d263b9",
       "title": "Trump considering AI controls after OpenAI hacking incidents",
@@ -81,7 +158,7 @@
     {
       "id": "21336b85da06f6da1564b080",
       "title": "Meta shares fall as frustration grows over AI spending plans",
-      "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+      "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
       "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
@@ -343,28 +420,6 @@
       "publishedAt": "2026-07-29T18:41:31+00:00"
     },
     {
-      "id": "afe562413e1f137449628438",
-      "title": "Yaga's Noah Reid Says People Will See 'A Different Side' to Hudson Williams in the Upcoming Series",
-      "summary": "",
-      "url": "https://www.ign.com/articles/yagas-noah-reid-says-people-will-see-a-different-side-to-hudson-williams-in-the-upcoming-series",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T18:25:50+00:00"
-    },
-    {
-      "id": "22c14953a546a47754944edd",
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T17:21:57+00:00"
-    },
-    {
       "id": "2ced4d3fd1760c2f007c8eba",
       "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
       "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
@@ -385,17 +440,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-29T16:30:05+00:00"
-    },
-    {
-      "id": "a3efcc288835a6bdf29f9a39",
-      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-      "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T16:23:41+00:00"
     },
     {
       "id": "05a73ef16258f8a79bc75b31",
@@ -429,28 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-29T13:48:41+00:00"
-    },
-    {
-      "id": "078f6e80e41489b59a8794e0",
-      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T12:17:42+00:00"
-    },
-    {
-      "id": "8dddd0633af8ff35da4b6236",
-      "title": "Ghana hit by nationwide blackout as power plants fail",
-      "summary": "The massive outage has left homes, businesses and some essential services severely disrupted.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T12:10:40+00:00"
     },
     {
       "id": "2f4526e13150cb31bb10269b",
@@ -827,17 +849,6 @@
       "publishedAt": "2026-07-26T04:00:08+00:00"
     },
     {
-      "id": "6b1141a0037bdaa0ef8ecf60",
-      "title": "Doctolib et l’IA : ce qu’il faut savoir sur son programme de recherche utilisant vos données personnelles à partir du mois d’août",
-      "summary": "Le géant français de la prise de rendez-vous médicaux va utiliser les données de ses utilisateurs – ordonnances, antécédents, médicaments… – dans le cadre d’un projet visant à « améliorer les parcours de soins grâce à l’intelligence artificielle ». Il est toutefois possible de s’y opposer.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/26/doctolib-et-l-ia-ce-qu-il-faut-savoir-sur-son-programme-de-recherche-utilisant-vos-donnees-personnelles-a-partir-du-mois-d-aout_6732692_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-26T03:00:14+00:00"
-    },
-    {
       "id": "913d8c153a163c20b47866f2",
       "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
       "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
@@ -847,17 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-25T10:14:41+00:00"
-    },
-    {
-      "id": "61b3b7ae09d1828a9ff27805",
-      "title": "« AI Overviews » : comment les désactiver dans le moteur de recherche de Google ?",
-      "summary": "A la suite de certaines requêtes, le moteur de recherche le plus utilisé de France affiche désormais comme première réponse des « aperçus IA », soit des textes conçus par Gemini, plutôt qu’une liste de liens classiques. Des solutions existent pour s’affranchir de ce nouveau dispositif.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/25/google-comment-desactiver-les-apercus-ia-dans-le-moteur-de-recherche_6731927_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-25T06:00:15+00:00"
     },
     {
       "id": "01e1d2f01f4866f742bd04f2",
