@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-07-30T04:49:28.297669+00:00",
+  "updatedAt": "2026-07-30T07:28:07.203161+00:00",
   "items": [
+    {
+      "id": "e8f405766db2875366d263b9",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-30T07:23:11+00:00"
+    },
+    {
+      "id": "cdec23a2c904dcd9b44f2782",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T05:36:27+00:00"
+    },
+    {
+      "id": "2516c9ad9d2cc8dcfe3745e2",
+      "title": "The Defiant is a Story-Driven Shooter that Explores a Rarely Seen Side of WW2 | IGN Preview",
+      "summary": "Hands-on impressions of this gritty new singleplayer shooter set during the Second Sino-Japanese War.",
+      "url": "https://www.ign.com/articles/the-defiant-is-a-story-driven-shooter-that-explores-a-rarely-seen-side-of-ww2-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T05:00:00+00:00"
+    },
     {
       "id": "084c6088b7d449058b824fce",
       "title": "Avec « Assassin’s Creed », le saut de l’ange réussi d’Ubisoft dans un monde ouvert",
@@ -10,29 +43,18 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-30T04:00:21+00:00"
+      "publishedAt": "2026-07-30T04:00:12+00:00"
     },
     {
-      "id": "a7812ab8853fef44a847a32c",
-      "title": "La cyberattaque de Hugging Face par des IA d’OpenAI expliquée en quatre questions",
+      "id": "c87d84689e49a2010572f4e2",
+      "title": "Des agents d’IA d’OpenAI se sont échappés et piraté plusieurs entreprises : le point sur les faits et les questions qui se posent",
       "summary": "Deux intelligences artificielles d’OpenAI sont parvenues à s’extirper d’un environnement théoriquement confiné et à se connecter à Internet, piratant plusieurs entreprises pour résoudre un test, et attaquant notamment la plateforme Hugging Face. Un épisode qui soulève de nombreuses questions en matière de sécurité.",
       "url": "https://www.lemonde.fr/pixels/article/2026/07/30/la-cyberattaque-de-hugging-face-par-des-ia-d-openai-expliquee-en-quatre-questions_6736657_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-07-30T03:58:35+00:00"
-    },
-    {
-      "id": "cdec23a2c904dcd9b44f2782",
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "summary": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-30T03:33:01+00:00"
+      "publishedAt": "2026-07-30T03:58:33+00:00"
     },
     {
       "id": "da1d25eb979487513d81afb0",
@@ -77,17 +99,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-30T01:53:25+00:00"
-    },
-    {
-      "id": "e8f405766db2875366d263b9",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-30T00:41:28+00:00"
     },
     {
       "id": "afe016f2538f9b4f49a052fc",
@@ -396,17 +407,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-29T19:03:26+00:00"
-    },
-    {
-      "id": "44052d1c238e3278b7546769",
-      "title": "Nintendo Switch 2 Drops to Just £364 in Today's Best UK Deals",
-      "summary": "Grab the Nintendo Switch 2 for just £364 at Amazon UK before potential price hikes, plus top daily deals on LEGO, Marvel's Wolverine, and Philips shavers.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-drops-to-just-364-in-todays-best-uk-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T18:49:32+00:00"
     },
     {
       "id": "21f7cb749c0d7762db266adb",
