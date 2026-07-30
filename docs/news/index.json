@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-07-30T22:02:43.341240+00:00",
+  "updatedAt": "2026-07-30T23:54:11.663847+00:00",
   "items": [
+    {
+      "id": "2e724be49826b90d8fb916aa",
+      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "summary": "Israel and Hamas have yet to comment on the announcement.",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T23:30:41+00:00"
+    },
+    {
+      "id": "a6ed1310b2dcc7c47aa2b4fc",
+      "title": "PlayStation 5 Video Games Are Heavily Discounted During Best Buy's Back to School Sale",
+      "summary": "Amazon has already price matched many of the deals.",
+      "url": "https://www.ign.com/articles/best-buy-back-to-school-sale-playstation-5-video-game-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T23:25:00+00:00"
+    },
+    {
+      "id": "2206f891ad0934cd821ccb42",
+      "title": "Elden Ring Movie Officially Wraps Filming as Producers Thank Crew for 'Bringing Unique Project to Life'",
+      "summary": "Production has officially wrapped for A24’s Elden Ring movie, as revealed in a now-deleted Instagram post from prop artist Sean Schofield.",
+      "url": "https://www.ign.com/articles/elden-ring-movie-officially-wraps-filming-as-producers-thank-crew-for-bringing-unique-project-to-life",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T23:10:45+00:00"
+    },
+    {
+      "id": "2509081ac8a6b58645208664",
+      "title": "Dungeons & Dragons: World of Warcraft Revealed, Includes Every Playable WOW Species and Class",
+      "summary": "Dungeons & Dragons maker Wizards of the Coast has fully unveiled its big crossover with World of Warcraft.",
+      "url": "https://www.ign.com/articles/dungeons-dragons-world-of-warcraft-revealed-includes-every-playable-wow-species-and-class",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T23:02:09+00:00"
+    },
+    {
+      "id": "26c3d71926f3d4e19e664327",
+      "title": "Dungeons & Dragons 2027 Roadmap Features Mature-Rated Expansion That Comes Shrink-Wrapped With a Warning For Its Violence, Sex and Nudity",
+      "summary": "Dungeons & Dragons will soon include a mature-rated expansion that'll come shrink-wrapped to protect minors from seeing its pages containing \"violence, bloodshed, nudity and sexuality.\"",
+      "url": "https://www.ign.com/articles/dungeons-dragons-2027-roadmap-features-mature-rated-expansion-that-comes-shrink-wrapped-with-a-warning-for-its-violence-sex-and-nudity",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T23:01:30+00:00"
+    },
+    {
+      "id": "94bbdb5a4396caa67fb73acb",
+      "title": "What Does the Spider-Man: Brand New Day Post-Credits Scene Mean for Peter Parker?",
+      "summary": "Yes, Spider-Man: Brand New Day has a post-credits scene, so we've explained it... as best we can.",
+      "url": "https://www.ign.com/articles/what-does-the-spider-man-brand-new-day-post-credits-scene-mean-for-peter-parker",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "id": "1fce50145f9ce176a2c36302",
+      "title": "Spider-Man Star Tom Holland Wants Symbiote Suit That's as Good as the Games",
+      "summary": "Tom Holland thinks that Marvel's Spider-Man 2 did the symbiote suit so well, that he's unsure if they could pull it off in live-action.",
+      "url": "https://www.ign.com/articles/spider-man-star-tom-holland-wants-symbiote-suit-thats-as-good-as-the-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T22:43:13+00:00"
+    },
+    {
+      "id": "43c8264f22b1b9b5c73b50bb",
+      "title": "Clueless Sequel Series Finally Gets off the Ground with Alicia Silverstone Returning as Cher",
+      "summary": "If you told us the Clueless sequel series was finally happening, it would have earned you an, ‘Ugh, as if!’ But Paramount+ has officially greenlit the project, and Alicia Silverstone is returning as Cher.",
+      "url": "https://www.ign.com/articles/clueless-sequel-series-finally-gets-off-the-ground-with-alicia-silverstone-returning-as-cher",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T22:18:38+00:00"
+    },
+    {
+      "id": "3101e5131d4387389ca93732",
+      "title": "India wants to join the strawberry superpowers",
+      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-30T22:04:09+00:00"
+    },
     {
       "id": "866680ae2fb834591e5baa03",
       "title": "Amazon's Exclusive Harry Potter 8-Film 4K Steelbook Library Case Gets a U.S. Listing",
@@ -165,83 +264,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-30T19:05:00+00:00"
-    },
-    {
-      "id": "e3e2a1fe75706279cdac8020",
-      "title": "Guillermo del Toro Opens Up About Inspiring Christopher Nolan's Cyclops in The Odyssey",
-      "summary": "Speaking with IGN as part of our IGN30 Icon Series, Guillermo del Toro opened up about how he inspired Christopher Nolan’s cyclops in The Odyssey — along with a hilarious anecdote about one particular scene in the film.",
-      "url": "https://www.ign.com/articles/guillermo-del-toro-opens-up-about-inspiring-christopher-nolans-cyclops-in-the-odyssey",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T19:04:33+00:00"
-    },
-    {
-      "id": "017b01a5530a1257db11d600",
-      "title": "'I'm Blown Away' — Hideo Kojima Can't Get Enough of Kane Parsons' Backrooms Movie",
-      "summary": "Hideo Kojima had high praise for Kane Parson’s Backrooms, remarking on how the film reminded him of the maze-like maps and polygonal look of early video games.",
-      "url": "https://www.ign.com/articles/im-blown-away-hideo-kojima-cant-get-enough-of-kane-parsons-backrooms-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T19:01:51+00:00"
-    },
-    {
-      "id": "a626231ae192314661b9001a",
-      "title": "Marvel's Wonder Man Is Canceled, Won't Return for Season 2",
-      "summary": "Marvel's Wonder Man TV series has been canceled and will not return for its planned second season.",
-      "url": "https://www.ign.com/articles/marvels-wonder-man-is-canceled-wont-return-for-season-2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T18:54:58+00:00"
-    },
-    {
-      "id": "171d2522c25eef49f96e9749",
-      "title": "'It Was a Bit Too Creepy' - Tom Holland Pitched Man-Spider and Body Horror Elements for Brand New Day",
-      "summary": "Tom Holland pitched some ideas for Spider-Man: Brand New Day that would've pushed the film into body horror.",
-      "url": "https://www.ign.com/articles/it-was-a-bit-too-creepy-tom-holland-pitched-man-spider-and-body-horror-elements-for-brand-new-day",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T18:37:24+00:00"
-    },
-    {
-      "id": "015024ab4e18674b808d5432",
-      "title": "The RAM Crisis Is Getting So Bad, AMD Is Bringing Back 4GB Graphics Cards",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-ram-crisis-is-getting-so-bad-amd-is-bringing-back-4gb-graphics-cards",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T18:19:51+00:00"
-    },
-    {
-      "id": "4308936ac7570f41b7aee56e",
-      "title": "Dead Cells Developer Motion Twin Responds after Guillermo del Toro Begs for Version Without Respawns",
-      "summary": "Dead Cells developer Motion Twin has responded to acclaimed filmmaker Guillermo del Toro’s thoughts on the game — specifically, his request for a mode without respawns.",
-      "url": "https://www.ign.com/articles/dead-cells-developer-motion-twin-responds-after-guillermo-del-toro-begs-for-version-without-respawns",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T18:00:07+00:00"
-    },
-    {
-      "id": "06dec3397d8d2233df9e1ce7",
-      "title": "Dell Outlet Has a Like New Alienware RTX 5070 Ti Gaming PC With 64GB of DDR5 RAM for $2,466",
-      "summary": "Same warranty as buying brand new.",
-      "url": "https://www.ign.com/articles/alienware-aurora-r16-rtx-5070-ti-gaming-pc-deal-at-dell-outlet-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T18:00:00+00:00"
     },
     {
       "id": "2aac00d7cab07b49e108c477",
@@ -484,17 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-30T02:54:54+00:00"
-    },
-    {
-      "id": "afe016f2538f9b4f49a052fc",
-      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-30T00:14:56+00:00"
     },
     {
       "id": "134d423a145683a93e4c0458",
@@ -924,17 +935,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-24T20:23:58+00:00"
-    },
-    {
-      "id": "953862b17e07461630af48d5",
-      "title": "How Jimothy the raccoon became the internet's latest animal obsession",
-      "summary": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-24T14:27:46+00:00"
     },
     {
       "id": "8df41e88beb4bc618c879653",
