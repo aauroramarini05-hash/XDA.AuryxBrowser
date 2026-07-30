@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-29T23:53:54.257851+00:00",
+  "updatedAt": "2026-07-30T01:40:40.271500+00:00",
   "items": [
+    {
+      "id": "e8f405766db2875366d263b9",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-30T00:41:28+00:00"
+    },
+    {
+      "id": "afe016f2538f9b4f49a052fc",
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T00:14:56+00:00"
+    },
     {
       "id": "0136e28a5279fc34e135ff87",
       "title": "Xbox CEO Asha Sharma Gives Optimistic Outlook Despite Grim Fiscal Earnings Report",
@@ -11,6 +33,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-29T23:37:09+00:00"
+    },
+    {
+      "id": "134d423a145683a93e4c0458",
+      "title": "Watch: Japanese mall explodes after magnitude 6.8 earthquake",
+      "summary": "Search teams are still looking for survivors in the collapsed Aeon shopping centre.",
+      "url": "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-29T23:29:53+00:00"
     },
     {
       "id": "c0f871534bbc83d2c7523585",
@@ -79,8 +112,8 @@
       "publishedAt": "2026-07-29T22:27:42+00:00"
     },
     {
-      "id": "55bfd55db9877e28144f5dc1",
-      "title": "Salman Rushdie attacker convicted of terror offenses",
+      "id": "84e70f67757b2f63139552db",
+      "title": "Salman Rushdie attacker convicted of terror offences",
       "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
       "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -90,14 +123,14 @@
       "publishedAt": "2026-07-29T22:15:33+00:00"
     },
     {
-      "id": "af1e0ae6ca224ec21de4ff5a",
+      "id": "d9526459d2f3115dc55613ae",
       "title": "The Chinese robot army transforming the UK's retail industry",
       "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
       "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
+      "category": "general",
       "publishedAt": "2026-07-29T22:08:29+00:00"
     },
     {
@@ -110,17 +143,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-29T21:50:00+00:00"
-    },
-    {
-      "id": "afe016f2538f9b4f49a052fc",
-      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T21:45:25+00:00"
     },
     {
       "id": "41ad5618c5e84f6ba8467216",
@@ -486,17 +508,6 @@
       "publishedAt": "2026-07-29T10:23:29+00:00"
     },
     {
-      "id": "c0956bc083add0b6e55cca7c",
-      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
-      "summary": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-29T09:07:40+00:00"
-    },
-    {
       "id": "734389f8747cb4100f78df30",
       "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
       "summary": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
@@ -682,17 +693,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-28T07:10:37+00:00"
-    },
-    {
-      "id": "e6c25b6f59af0f2353632485",
-      "title": "Confronting gang members at the heart of Ecuador's drug battle",
-      "summary": "Orla Guerin speaks to a gang leader about violence, drugs and infiltrating the police.",
-      "url": "https://www.bbc.co.uk/news/videos/c1l1d429m8eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T05:01:35+00:00"
     },
     {
       "id": "a2245cf0a5a1c7524f4b7f3d",
