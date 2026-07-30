@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-07-30T15:03:18.047960+00:00",
+  "updatedAt": "2026-07-30T17:15:52.225223+00:00",
   "items": [
+    {
+      "id": "33ed68fee01de4d5e89d865f",
+      "title": "IA : l’Europe met 5 milliards d’euros sur la table pour financer sept méga-usines et combler son retard sur les Etats-Unis et la Chine",
+      "summary": "La Commission européenne a ouvert un appel d’offres pour financer ces gigantesques structures conçues pour l’entraînement de modèles d’intelligence artificielle. Les défis sont nombreux : incertitude budgétaire, respect des normes environnementales, dépendance aux Américains…",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/30/ia-bruxelles-met-cinq-milliards-d-euros-sur-la-table-et-espere-combler-son-retard-sur-washington-et-pekin_6737050_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-30T16:23:48+00:00"
+    },
+    {
+      "id": "59c5235116766261bf531d5f",
+      "title": "How a Skyrim Username Error Left an Innocent Man to Serve 18 Months in Jail",
+      "summary": "An innocent Canadian wrongly served 18 months in prison after Wisconsin police misspelled his Skyrim-inspired internet username.",
+      "url": "https://www.ign.com/articles/how-a-skyrim-username-error-left-an-innocent-man-to-serve-18-months-in-jail",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T16:21:43+00:00"
+    },
+    {
+      "id": "ff900b8e9034c5e5df45c0eb",
+      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T16:04:53+00:00"
+    },
+    {
+      "id": "e283c29551ada41bcb17caef",
+      "title": "The Elder Scrolls Online Content Delayed to 2027 Following Xbox Layoffs",
+      "summary": "The Elder Scrolls Online is undergoing some setbacks as a result of Xbox's recent reset and associated layoffs.",
+      "url": "https://www.ign.com/articles/the-elder-scrolls-online-content-delayed-to-2027-following-xbox-layoffs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T15:50:44+00:00"
+    },
+    {
+      "id": "151751e7388770a94b782502",
+      "title": "Man impaled by a hiking pole treks 10 miles down mountain",
+      "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
+      "url": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T15:47:09+00:00"
+    },
+    {
+      "id": "7f63b56d707f7e6956a9d9f9",
+      "title": "Valve Says Steam Machine Reservations Will Be Filled By End of 2026",
+      "summary": "",
+      "url": "https://www.ign.com/articles/valve-says-steam-machine-reservations-will-be-filled-by-end-of-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-30T15:37:57+00:00"
+    },
+    {
+      "id": "923591fae818944de9f3623e",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T15:35:50+00:00"
+    },
+    {
+      "id": "702349197210a43f45901d02",
+      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-30T15:20:19+00:00"
+    },
     {
       "id": "233dac4f33fb5867f8781e0d",
       "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
@@ -22,17 +110,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-30T14:00:00+00:00"
-    },
-    {
-      "id": "923591fae818944de9f3623e",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-30T13:38:50+00:00"
     },
     {
       "id": "3b4da2c83b5b92e502a99eb0",
@@ -110,17 +187,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-30T13:00:00+00:00"
-    },
-    {
-      "id": "2ba7147314e6eb252bcdeee0",
-      "title": "Thousands evacuated in Crete as Europe battles wildfires",
-      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-30T12:46:16+00:00"
     },
     {
       "id": "da426d7307da39e473ef6741",
@@ -266,17 +332,6 @@
       "publishedAt": "2026-07-30T09:26:43+00:00"
     },
     {
-      "id": "1cfd7526312994ac61857a23",
-      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
-      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-30T09:21:55+00:00"
-    },
-    {
       "id": "e8f405766db2875366d263b9",
       "title": "Trump considering AI controls after OpenAI hacking incidents",
       "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
@@ -365,17 +420,6 @@
       "publishedAt": "2026-07-30T00:14:56+00:00"
     },
     {
-      "id": "0136e28a5279fc34e135ff87",
-      "title": "Xbox CEO Asha Sharma Gives Optimistic Outlook Despite Grim Fiscal Earnings Report",
-      "summary": "Xbox CEO Asha Sharma responded to the company’s Q4 2026 fiscal report, which showed a continued decline in earnings for both content and hardware.",
-      "url": "https://www.ign.com/articles/xbox-ceo-asha-sharma-gives-optimistic-outlook-despite-grim-fiscal-earnings-report",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T23:37:09+00:00"
-    },
-    {
       "id": "134d423a145683a93e4c0458",
       "title": "Watch: Japanese mall explodes after magnitude 6.8 earthquake",
       "summary": "Search teams are still looking for survivors in the collapsed Aeon shopping centre.",
@@ -387,17 +431,6 @@
       "publishedAt": "2026-07-29T23:29:53+00:00"
     },
     {
-      "id": "c0f871534bbc83d2c7523585",
-      "title": "The $20 AstroAI S8 Cordless Jump Starter Is an Inexpensive, Yet Essential Addition to Your Car's Emergency Kit",
-      "summary": "A more convenient alternative to traditional jumper cables.",
-      "url": "https://www.ign.com/articles/astroai-s8-cordless-car-jump-starter-deal-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T23:20:00+00:00"
-    },
-    {
       "id": "e461a0409af9805bb872439d",
       "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
       "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
@@ -407,17 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-07-29T22:50:14+00:00"
-    },
-    {
-      "id": "579ed414cc21e408056a84ac",
-      "title": "Battlefield 6's Record-Breaking Success Earns EA CEO $38 Million Payday, But Laid-Off Devs Aren't Around to Celebrate",
-      "summary": "EA’s CEO got an $8 million raise thanks to how well Battlefield 6 performed — four months after the devs responsible for making the game got laid off.",
-      "url": "https://www.ign.com/articles/battlefield-6s-record-breaking-success-earns-ea-ceo-38-million-payday-but-laid-off-devs-arent-around-to-celebrate",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-29T22:44:23+00:00"
     },
     {
       "id": "21336b85da06f6da1564b080",
@@ -662,17 +684,6 @@
       "publishedAt": "2026-07-28T23:00:15+00:00"
     },
     {
-      "id": "49674c07e0065a8fc38258a2",
-      "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
-      "summary": "The 16-year-old lifeguard rescued a 10-year-old who had been swept offshore at a California beach.",
-      "url": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-28T21:09:21+00:00"
-    },
-    {
       "id": "edbbf30e9a56fb15f4aa9084",
       "title": "Tech Life",
       "summary": "What do we need to know about agentic AI?",
@@ -814,17 +825,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-26T16:45:52+00:00"
-    },
-    {
-      "id": "f19f72178704a03bef626f0c",
-      "title": "Arnaque au faux climatiseur : les entreprises qui se cachent derrière un business florissant",
-      "summary": "Coolizi, Airabreeze, Epicooler… Des publicités vantant ces marques de climatiseurs miracles ont proliféré ces derniers mois, surfant sur les vagues de canicule. Une escroquerie de grande ampleur que « Le Monde » a pu relier à plusieurs sociétés en Lituanie, en Chine et en Espagne.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/26/arnaque-au-faux-climatiseur-les-entreprises-qui-se-cachent-derriere-un-business-florissant_6732772_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-26T04:00:47+00:00"
     },
     {
       "id": "913d8c153a163c20b47866f2",
