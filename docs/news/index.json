@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-07-31T01:57:38.046887+00:00",
+  "updatedAt": "2026-07-31T05:33:44.955891+00:00",
   "items": [
+    {
+      "id": "911726d037723258429da464",
+      "title": "South Korean shares surge after chip stock rout",
+      "summary": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-31T05:32:47+00:00"
+    },
+    {
+      "id": "570a643faa93be34c3cb9082",
+      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T05:21:18+00:00"
+    },
+    {
+      "id": "0de9a082615904891ea087f9",
+      "title": "What could happen to Fifa if Uefa boycotts World Cup?",
+      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T05:14:17+00:00"
+    },
+    {
+      "id": "455d42d49e16dcc469339b55",
+      "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T04:31:30+00:00"
+    },
+    {
+      "id": "201fb3ba85179bf8479ea3b5",
+      "title": "Rushdi Abualouf: If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T04:25:49+00:00"
+    },
+    {
+      "id": "94bff581395a7337098ded9b",
+      "title": "Fifa says 'nobody selling football' as it presses ahead with investment plan",
+      "summary": "Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T04:17:06+00:00"
+    },
+    {
+      "id": "ec8a535a583fc4067d6da277",
+      "title": "En 2018, les frères Guillemot d’Ubisoft contre les « Bolloré boys » de Vivendi",
+      "summary": "« La saga Ubisoft » (5/6). Au terme de plus de deux ans d’un feuilleton à rebondissements démarré en 2015, Vivendi échoue à mettre la main sur l’entreprise de jeux vidéo.",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/31/en-2018-les-freres-guillemot-d-ubisoft-contre-les-bollore-boys-de-vivendi_6737090_3451060.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-31T04:00:30+00:00"
+    },
+    {
+      "id": "c8e9df3bca8abb7e7c13adf0",
+      "title": "Droit à la réparation : ce qui change avec l’entrée en vigueur de la directive de l’UE",
+      "summary": "Exigence de réparation plutôt que de remplacement, garantie prolongée en cas de réfection, pièces détachées à un prix « raisonnable »… Le texte européen « visant à promouvoir la réparation des biens » entre en vigueur vendredi 31 juillet.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/31/droit-a-la-reparation-ce-qui-change-avec-l-entree-en-vigueur-de-la-directive-de-l-ue_6737088_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-31T04:00:27+00:00"
+    },
     {
       "id": "5c5d2b9cc2fd5fb1e5f2b2e8",
       "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
@@ -10,7 +98,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-31T01:48:36+00:00"
+      "publishedAt": "2026-07-31T03:24:14+00:00"
+    },
+    {
+      "id": "a57bf09b414dc9a7b3f7a167",
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T02:41:09+00:00"
+    },
+    {
+      "id": "b6b64660c78aa7624ad2063a",
+      "title": "Anthropic : des modèles d’IA ont accédé sans autorisation aux systèmes d’autres organisations",
+      "summary": "Contrairement à l’incident impliquant OpenAI, Claude n’aurait, selon ses créateurs, pas « délibérément tenté de s’échapper de son environnement de test » mais seulement eu accès à Internet « en raison d’un malentendu » avec un partenaire d’évaluation.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/31/anthropic-des-modeles-d-ia-ont-accede-sans-autorisation-aux-systemes-d-autres-organisations_6737077_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-31T02:03:25+00:00"
     },
     {
       "id": "5da3dcd41eb3d817db18d1d1",
@@ -22,17 +132,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-31T01:31:50+00:00"
-    },
-    {
-      "id": "b76cc1a7cd91d002fea4bf13",
-      "title": "Anthropic says AI models hacked three firms during cyber tests",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-31T01:31:14+00:00"
     },
     {
       "id": "a4a0f988c346d0a2fda58958",
@@ -176,17 +275,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-07-30T21:35:30+00:00"
-    },
-    {
-      "id": "9d98278e67c13e411fe14c42",
-      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-30T21:24:31+00:00"
     },
     {
       "id": "c3aadf3b2e4f455dfd331fc9",
@@ -772,10 +860,10 @@
       "publishedAt": "2026-07-28T23:00:15+00:00"
     },
     {
-      "id": "5b50029ad6111a42eda4e43a",
+      "id": "edbbf30e9a56fb15f4aa9084",
       "title": "Tech Life",
       "summary": "What do we need to know about agentic AI?",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -880,50 +968,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-27T07:00:09+00:00"
-    },
-    {
-      "id": "965d4a651080b4208c750e7a",
-      "title": "La genèse d’Ubisoft et la revanche des « ploucs » du jeu vidéo : de la campagne du Morbihan aux JO de Paris 2024",
-      "summary": "« La saga Ubisoft » (1/6). L’entreprise a eu 40 ans au printemps 2026. La PME bretonne, cofondée par les cinq frères Guillemot, est devenue un géant mondial du jeu vidéo. Et traverse une violente crise.",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/27/la-genese-d-ubisoft-et-la-revanche-des-ploucs-du-jeu-video-de-la-campagne-du-morbihan-aux-jo-de-paris-2024_6733573_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-27T03:00:27+00:00"
-    },
-    {
-      "id": "09f486c746a85e1898e4dc0a",
-      "title": "Aux Etats-Unis, l’opposition aux data centers grandit et devient un objet politique",
-      "summary": "Un mouvement pour le moment largement « décentralisé et idéologiquement hétérogène » prend forme devant le développement effréné de l’intelligence artificielle et des conflits d’usage qu’elle génère. Donald Trump veut faire payer la facture d’électricité aux grands groupes de l’IA.",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/27/aux-etats-unis-l-opposition-aux-data-centers-grandit-et-devient-un-objet-politique_6733571_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-27T03:00:08+00:00"
-    },
-    {
-      "id": "84404e2c26ed6271402a7152",
-      "title": "Un fabricant chinois de puces s’apprête à réaliser la plus grosse levée de fonds d’Asie grâce au boom de l’IA",
-      "summary": "Le chinois ChangXin Memory Technologies (CXMT) pourrait dépasser les 1 000 milliards de yuans (129 milliards d’euros) de valorisation lundi 27 juillet, après son introduction en Bourse à Shanghaï.",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/26/un-fabricant-chinois-de-puces-s-apprete-a-realiser-la-plus-grosse-levee-de-fonds-d-asie-grace-au-boom-de-l-ia_6733368_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-26T16:45:52+00:00"
-    },
-    {
-      "id": "913d8c153a163c20b47866f2",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-25T10:14:41+00:00"
     },
     {
       "id": "01e1d2f01f4866f742bd04f2",
