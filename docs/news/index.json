@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-07-31T13:42:48.702214+00:00",
+  "updatedAt": "2026-07-31T15:55:18.863888+00:00",
   "items": [
+    {
+      "id": "faf649e28159bfe184b4ddc6",
+      "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+      "summary": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T15:48:34+00:00"
+    },
+    {
+      "id": "3f35f5b8df1bcf737ee32316",
+      "title": "It's Official: Mahershala Ali's Blade Movie Is Dead, and He Has Moved On",
+      "summary": "Mahershala Ali has confirmed his Blade movie is dead and he has officially moved on from the troubled Marvel project.",
+      "url": "https://www.ign.com/articles/its-official-mahershala-alis-blade-movie-is-dead-and-he-has-moved-on",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-31T15:39:45+00:00"
+    },
+    {
+      "id": "c4429855a58b9509120684ec",
+      "title": "Chinatown Wars Is the Unsung Hero of GTA Games",
+      "summary": "Rockstar's experiments with the Nintendo DS resulted in Chinatown Wars, the unsung hero of the GTA series.",
+      "url": "https://www.ign.com/articles/chinatown-wars-is-the-unsung-hero-of-gta-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-31T15:30:00+00:00"
+    },
+    {
+      "id": "89a06f17f92ed6eb124b0cf7",
+      "title": "La plateforme de prédiction Kalshi, accusée d’activité illégale de paris en ligne, poursuivie en justice par l’Etat de New York",
+      "summary": "La procureure générale fait valoir que Kalshi (où les utilisateurs peuvent parier sur des événements d’actualité) viole les lois de l’Etat américain en opérant sans licence appropriée depuis son lancement en 2021.",
+      "url": "https://www.lemonde.fr/international/article/2026/07/31/la-plateforme-de-prediction-kalshi-accusee-d-activite-illegale-de-paris-en-ligne-poursuivie-en-justice-par-l-etat-de-new-york_6737150_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-07-31T15:23:12+00:00"
+    },
+    {
+      "id": "193e7b152fc65352ba8d8e16",
+      "title": "Spider-Man: Brand New Day Looks Set for an Enormous Opening Weekend at the Box Office, but Will It Beat Avengers: Endgame?",
+      "summary": "Spider-Man: Brand New Day is swinging towards box office success having secured the biggest previews haul in North American movie history.",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-looks-set-for-an-enormous-opening-weekend-at-the-box-office-but-will-it-beat-avengers-endgame",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-31T15:21:54+00:00"
+    },
+    {
+      "id": "f174faa762fce5c4dc6990f1",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T15:18:31+00:00"
+    },
+    {
+      "id": "131e74149e74693f18a0388a",
+      "title": "The 4K Mortal Kombat Kollection Has Plummeted to a New Low Price at Amazon",
+      "summary": "Amazon has knocked 50% off the 4K Mortal Kombat Kollection, dropping it down to a brand new low price at the retailer of $32.49.",
+      "url": "https://www.ign.com/articles/the-4k-mortal-kombat-kollection-has-plummeted-to-a-new-low-price-at-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-31T14:30:00+00:00"
+    },
+    {
+      "id": "8e78753dcdc3c11045a88d78",
+      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-07-31T14:26:07+00:00"
+    },
     {
       "id": "de87c98d1f764f5704ca76a0",
       "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-      "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
+      "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-07-31T13:04:04+00:00"
+      "publishedAt": "2026-07-31T14:20:18+00:00"
+    },
+    {
+      "id": "b18808d3f60deca1098a897f",
+      "title": "Sony Says Discontinuation of PlayStation Discs Won't Have Any Negative Impact on Its Business — Now or in the Future",
+      "summary": "Sony’s controversial decision to discontinue PlayStation discs is not having any impact on its business now, and it doesn’t see any negative impact in the future, either.",
+      "url": "https://www.ign.com/articles/sony-says-discontinuation-of-playstation-discs-wont-have-any-negative-impact-on-its-business-now-or-in-the-future",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-31T14:13:15+00:00"
+    },
+    {
+      "id": "2de1c69dadc85c8ebdc35a84",
+      "title": "Grand Theft Auto – The Legacy Review",
+      "summary": "The original GTA’s prehistoric brand of open-world freedom is fascinating in the context of everything that’s come since, but it demands patience, precision, and a paper map by your side.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-the-legacy-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-31T13:59:00+00:00"
+    },
+    {
+      "id": "9cc6febdc6653f7e943e0885",
+      "title": "The Lord of the Rings: The Rings of Power Has a Non-Canon 'Orc With an Arc' Who Turns Against Sauron and Even Writes Poetry",
+      "summary": "The Lord of the Rings: The Rings of Power has a brand new character — invented just for the Amazon show — who is something of a surprise: an “orc with an arc.”",
+      "url": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-has-a-non-canon-orc-with-an-arc-who-turns-against-sauron-and-even-writes-poetry",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-07-31T13:37:37+00:00"
     },
     {
       "id": "c9ca76af5581f7b43e67d772",
@@ -211,17 +332,6 @@
       "publishedAt": "2026-07-31T05:14:17+00:00"
     },
     {
-      "id": "646081016f6269815d451c58",
-      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-31T04:25:49+00:00"
-    },
-    {
       "id": "ec8a535a583fc4067d6da277",
       "title": "En 2018, les frères Guillemot d’Ubisoft contre les « Bolloré boys » de Vivendi",
       "summary": "« La saga Ubisoft » (5/6). Au terme de plus de deux ans d’un feuilleton à rebondissements démarré en 2015, Vivendi échoue à mettre la main sur l’entreprise de jeux vidéo.",
@@ -299,72 +409,6 @@
       "publishedAt": "2026-07-30T23:25:00+00:00"
     },
     {
-      "id": "2206f891ad0934cd821ccb42",
-      "title": "Elden Ring Movie Officially Wraps Filming as Producers Thank Crew for 'Bringing Unique Project to Life'",
-      "summary": "Production has officially wrapped for A24’s Elden Ring movie, as revealed in a now-deleted Instagram post from prop artist Sean Schofield.",
-      "url": "https://www.ign.com/articles/elden-ring-movie-officially-wraps-filming-as-producers-thank-crew-for-bringing-unique-project-to-life",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T23:10:45+00:00"
-    },
-    {
-      "id": "2509081ac8a6b58645208664",
-      "title": "Dungeons & Dragons: World of Warcraft Revealed, Includes Every Playable WOW Species and Class",
-      "summary": "Dungeons & Dragons maker Wizards of the Coast has fully unveiled its big crossover with World of Warcraft.",
-      "url": "https://www.ign.com/articles/dungeons-dragons-world-of-warcraft-revealed-includes-every-playable-wow-species-and-class",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T23:02:09+00:00"
-    },
-    {
-      "id": "26c3d71926f3d4e19e664327",
-      "title": "Dungeons & Dragons 2027 Roadmap Features Mature-Rated Expansion That Comes Shrink-Wrapped With a Warning For Its Violence, Sex and Nudity",
-      "summary": "Dungeons & Dragons will soon include a mature-rated expansion that'll come shrink-wrapped to protect minors from seeing its pages containing \"violence, bloodshed, nudity and sexuality.\"",
-      "url": "https://www.ign.com/articles/dungeons-dragons-2027-roadmap-features-mature-rated-expansion-that-comes-shrink-wrapped-with-a-warning-for-its-violence-sex-and-nudity",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T23:01:30+00:00"
-    },
-    {
-      "id": "94bbdb5a4396caa67fb73acb",
-      "title": "What Does the Spider-Man: Brand New Day Post-Credits Scene Mean for Peter Parker?",
-      "summary": "Yes, Spider-Man: Brand New Day has a post-credits scene, so we've explained it... as best we can.",
-      "url": "https://www.ign.com/articles/what-does-the-spider-man-brand-new-day-post-credits-scene-mean-for-peter-parker",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T23:00:00+00:00"
-    },
-    {
-      "id": "1fce50145f9ce176a2c36302",
-      "title": "Spider-Man Star Tom Holland Wants Symbiote Suit That's as Good as the Games",
-      "summary": "Tom Holland thinks that Marvel's Spider-Man 2 did the symbiote suit so well, that he's unsure if they could pull it off in live-action.",
-      "url": "https://www.ign.com/articles/spider-man-star-tom-holland-wants-symbiote-suit-thats-as-good-as-the-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T22:43:13+00:00"
-    },
-    {
-      "id": "43c8264f22b1b9b5c73b50bb",
-      "title": "Clueless Sequel Series Finally Gets off the Ground with Alicia Silverstone Returning as Cher",
-      "summary": "If you told us the Clueless sequel series was finally happening, it would have earned you an, ‘Ugh, as if!’ But Paramount+ has officially greenlit the project, and Alicia Silverstone is returning as Cher.",
-      "url": "https://www.ign.com/articles/clueless-sequel-series-finally-gets-off-the-ground-with-alicia-silverstone-returning-as-cher",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T22:18:38+00:00"
-    },
-    {
       "id": "3101e5131d4387389ca93732",
       "title": "India wants to join the strawberry superpowers",
       "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
@@ -374,28 +418,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-30T22:04:09+00:00"
-    },
-    {
-      "id": "866680ae2fb834591e5baa03",
-      "title": "Amazon's Exclusive Harry Potter 8-Film 4K Steelbook Library Case Gets a U.S. Listing",
-      "summary": "",
-      "url": "https://www.ign.com/articles/amazons-exclusive-harry-potter-8-film-4k-blu-ray-steelbook-library-case-gets-a-us-listing",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-30T21:38:37+00:00"
-    },
-    {
-      "id": "3b2ab5768642076d2517ca7b",
-      "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
-      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-30T19:16:18+00:00"
     },
     {
       "id": "2aac00d7cab07b49e108c477",
@@ -957,17 +979,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-27T07:53:30+00:00"
-    },
-    {
-      "id": "f8b15e52728ec5d12d5984a6",
-      "title": "« L’IA repose sur une géographie concrète, mettant des territoires au service du calcul, selon une logique de comptoirs »",
-      "summary": "L’essor de l’intelligence artificielle repose sur des infrastructures physiques gourmandes en ressources locales, qui échappent largement au contrôle et à la souveraineté des Etats, observe Joseph Bohbot, professeur de géographie à Sorbonne Université, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/27/l-ia-repose-sur-une-geographie-concrete-mettant-des-territoires-au-service-du-calcul-selon-une-logique-de-comptoirs_6733876_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-27T07:00:09+00:00"
     },
     {
       "id": "913d8c153a163c20b47866f2",
