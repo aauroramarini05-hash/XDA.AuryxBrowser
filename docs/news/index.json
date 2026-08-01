@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-01T10:27:14.454952+00:00",
+  "updatedAt": "2026-08-01T11:56:25.406971+00:00",
   "items": [
+    {
+      "id": "223c734dcc2a202c6d885d2b",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-01T11:52:29+00:00"
+    },
     {
       "id": "37856a1eb3d6bc1d53a992b4",
       "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
@@ -10,7 +21,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-01T10:11:39+00:00"
+      "publishedAt": "2026-08-01T11:00:05+00:00"
+    },
+    {
+      "id": "184080e8d3d19b54dd2443bb",
+      "title": "Au Mexique, des candidats forcés de repasser un examen d’entrée à l’université après des soupçons de fraude à l’IA",
+      "summary": "Les concours d’entrée dans les différentes filières de l’université nationale autonome, que les étudiants passaient pour la première fois à distance, ont reçu des notes beaucoup plus élevées que les années précédentes, laissant planer le doute sur une aide de l’IA.",
+      "url": "https://www.lemonde.fr/international/article/2026/08/01/au-mexique-des-candidats-forces-de-repasser-un-examen-d-entree-a-l-universite-apres-des-soupcons-de-fraude-a-l-intelligence-artificielle_6737212_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-01T11:00:05+00:00"
     },
     {
       "id": "f891e3002e58d0e3fcf6567d",
@@ -24,26 +46,15 @@
       "publishedAt": "2026-08-01T10:02:43+00:00"
     },
     {
-      "id": "35b5e4b4162fecd7f6fb2817",
-      "title": "Uefa has 'lost confidence' in Fifa leadership",
-      "summary": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
+      "id": "62a9871e53970db344a91c58",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-01T09:51:05+00:00"
-    },
-    {
-      "id": "c46e7d56a164858cfac7be6f",
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T08:24:09+00:00"
     },
     {
       "id": "ef833496683b1e4fd6c6dd05",
@@ -913,17 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-27T23:00:06+00:00"
-    },
-    {
-      "id": "913014941d20f832b32a0288",
-      "title": "IA : « La véritable rupture, c’est l’apparition d’une puissance capable d’agir sans être un sujet de droit »",
-      "summary": "Un incident récent chez OpenAI a ravivé la crainte que les modèles d’IA « décident » de se livrer au piratage. Cet événement appelle à repenser la notion d’intention dans le droit pour le rendre opposable aux machines, estime l’historien Julien Broch dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/27/ia-la-veritable-rupture-c-est-l-apparition-d-une-puissance-capable-d-agir-sans-etre-un-sujet-de-droit_6734211_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-27T16:00:10+00:00"
     },
     {
       "id": "01e1d2f01f4866f742bd04f2",
