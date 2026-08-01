@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-01T21:44:33.337989+00:00",
+  "updatedAt": "2026-08-01T22:44:41.061760+00:00",
   "items": [
+    {
+      "id": "55a7fab14abf852ea0bd5db6",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-01T22:34:20+00:00"
+    },
+    {
+      "id": "5dbf38a2bd21974c73c50e07",
+      "title": "Game of Thrones: The Mad King Reveals Full Stage Cast and First Portrait",
+      "summary": "See the first official cast photo for Game of Thrones: The Mad King stage play, featuring King Aerys II, Rhaegar Targaryen, Young Ned Stark, and more.",
+      "url": "https://www.ign.com/articles/game-of-thrones-the-mad-king-cast-first-look",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-01T21:35:11+00:00"
+    },
+    {
+      "id": "d60acd16e3e57bdde80105a7",
+      "title": "Vincent Pastore, The Sopranos Actor, Dies at 80",
+      "summary": "Vincent Pastore, the actor best known for playing Salvatore Bonpensiero in the groundbreaking TV series The Sopranos, has died at 80.",
+      "url": "https://www.ign.com/articles/vincent-pastore-the-sopranos-actor-dies-at-80",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-01T21:34:05+00:00"
+    },
     {
       "id": "b263a7329a7041d7e159312a",
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
@@ -13,15 +46,15 @@
       "publishedAt": "2026-08-01T21:13:17+00:00"
     },
     {
-      "id": "55a7fab14abf852ea0bd5db6",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "id": "007295b7cd71dc2ae1c32353",
+      "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+      "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+      "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-01T20:51:09+00:00"
+      "publishedAt": "2026-08-01T21:03:42+00:00"
     },
     {
       "id": "f2cd59084894691984b072c6",
@@ -486,28 +519,6 @@
       "publishedAt": "2026-07-31T19:46:52+00:00"
     },
     {
-      "id": "4a8e484f8d68f0197c3fbf94",
-      "title": "We Build LEGO Woodland Mushrooms, the First Fungi-Themed Set in the Botanical Collection",
-      "summary": "The LEGO Woodlands Mushrooms set is the first time the wildly popular Botanical collection has gone all in on a fungal theme. It looks amazing, so long as you have delicate enough fingers to put it together.",
-      "url": "https://www.ign.com/articles/we-build-lego-woodlands-mushrooms-set-11505",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-31T19:36:16+00:00"
-    },
-    {
-      "id": "59a719fee9aa9178b2bddac7",
-      "title": "Obsession Star Inde Navarrette Wants to Play Mystique Following Talks With X-Men Director",
-      "summary": "Obsession star Inde Navarrette has named Mystique as the character she wants to play in the Marvel Cinematic Universe (MCU) following talks with X-Men director Jake Schreier.",
-      "url": "https://www.ign.com/articles/obsession-star-inde-navarrette-wants-to-play-mystique-following-talks-with-x-men-director",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-31T19:00:39+00:00"
-    },
-    {
       "id": "831dc50c0c0d88a382c76c00",
       "title": "What triggered the mass migrant crossings into Ceuta?",
       "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
@@ -528,17 +539,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-31T18:10:28+00:00"
-    },
-    {
-      "id": "c8f862816c6bfd4474ed92de",
-      "title": "What's in the Gaza peace deal roadmap?",
-      "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-31T16:00:56+00:00"
     },
     {
       "id": "89a06f17f92ed6eb124b0cf7",
