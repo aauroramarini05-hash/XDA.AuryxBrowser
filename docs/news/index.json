@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T18:56:16.626457+00:00",
+  "updatedAt": "2026-08-02T20:07:08.935411+00:00",
   "items": [
     {
       "id": "e7835c7c93e0d54e93f21b17",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-02T18:04:44+00:00"
+      "publishedAt": "2026-08-02T19:15:57+00:00"
+    },
+    {
+      "id": "d0d3410d5193abf2ece8d86e",
+      "title": "Spider-Man: Brand New Day Comes Close to Passing Avengers: Endgame With Second Biggest Box Office Debut of All Time at $927 Million Globally",
+      "summary": "Spider-Man: Brand New Day combined the power of Tom Holland and the MCU to bring in an estimated $927 million at the global box office during its opening weekend in theaters.",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-comes-close-to-passing-avengers-endgame-with-second-biggest-box-office-debut-of-all-time-at-927-million-globally",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-02T19:15:45+00:00"
     },
     {
       "id": "7c5b2895bb518c8908c9b02e",
@@ -561,17 +572,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-31T21:57:59+00:00"
-    },
-    {
-      "id": "5fac5538aeaca84f513325dd",
-      "title": "Spider-Man: Brand New Day - Our Biggest Burning Questions About the New Marvel Movie",
-      "summary": "Would a real New Yorker eat Little Caesars? We have so many burning questions from Spider-Man: Brand New Day.",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-our-biggest-burning-questions-about-the-new-marvel-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-07-31T21:00:00+00:00"
     },
     {
       "id": "40314497a359d718ef76f06b",
