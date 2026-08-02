@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-02T05:19:08.263610+00:00",
+  "updatedAt": "2026-08-02T08:06:52.791506+00:00",
   "items": [
+    {
+      "id": "03a2ae08e9a9f31d4cdfd82d",
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-02T07:58:51+00:00"
+    },
+    {
+      "id": "091ae14f465fa39f912b4923",
+      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-02T06:24:01+00:00"
+    },
+    {
+      "id": "b263a7329a7041d7e159312a",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-02T05:40:42+00:00"
+    },
+    {
+      "id": "b128117bb9c707006e4d6f30",
+      "title": "La mention « généré par IA » devient obligatoire dans l’UE",
+      "summary": "Une disposition-clé du règlement européen sur l’intelligence artificielle entre en vigueur dimanche 2 août. Les concepteurs et utilisateurs professionnels de systèmes d’IA devront mentionner que leurs contenus ont été créés par cette technologie, sous peine d’amendes.",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/02/intelligence-artificielle-la-mention-genere-par-ia-devient-obligatoire-dans-l-ue_6737268_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-02T05:28:29+00:00"
+    },
+    {
+      "id": "8539fe90d46580009c43d6dd",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-02T05:26:39+00:00"
+    },
     {
       "id": "bd445105f07558aa79cee135",
       "title": "Les IA vont-elles tuer les liens hypertextes, ces briques fondamentales du Web ?",
@@ -11,17 +66,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-02T04:30:34+00:00"
-    },
-    {
-      "id": "4e451fa43db0de2d15d9d212",
-      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-      "summary": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T03:05:16+00:00"
     },
     {
       "id": "f89070630f5054172e866582",
@@ -44,17 +88,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-02T00:29:55+00:00"
-    },
-    {
-      "id": "b263a7329a7041d7e159312a",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T00:02:18+00:00"
     },
     {
       "id": "697581cf7d4b60b91d4a88dd",
@@ -90,17 +123,6 @@
       "publishedAt": "2026-08-01T23:03:35+00:00"
     },
     {
-      "id": "7b7082e6ca0b04fcec2f39ce",
-      "title": "Russian ship defies sanctions to send military vehicles to Mali",
-      "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T23:03:23+00:00"
-    },
-    {
       "id": "d4ef5320f201b526c837c7fb",
       "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
       "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
@@ -123,15 +145,15 @@
       "publishedAt": "2026-08-01T22:57:55+00:00"
     },
     {
-      "id": "03a2ae08e9a9f31d4cdfd82d",
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "id": "4773aed91814c5a141b3a8f2",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-01T22:06:18+00:00"
+      "publishedAt": "2026-08-01T22:23:20+00:00"
     },
     {
       "id": "5dbf38a2bd21974c73c50e07",
@@ -156,8 +178,8 @@
       "publishedAt": "2026-08-01T21:34:05+00:00"
     },
     {
-      "id": "007295b7cd71dc2ae1c32353",
-      "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+      "id": "04108f3095f02418ec765af2",
+      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
       "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
       "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -222,17 +244,6 @@
       "publishedAt": "2026-08-01T17:15:39+00:00"
     },
     {
-      "id": "913b14590d1aad2d076e715e",
-      "title": "Call for 'full review' as pressure grows on Infantino",
-      "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T17:07:46+00:00"
-    },
-    {
       "id": "60ce813d6116997bcef4c958",
       "title": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
       "summary": "",
@@ -288,17 +299,6 @@
       "publishedAt": "2026-08-01T15:30:00+00:00"
     },
     {
-      "id": "8539fe90d46580009c43d6dd",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T15:25:30+00:00"
-    },
-    {
       "id": "c791ac6aaccb51fb779b1911",
       "title": "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch",
       "summary": "The Palworld TCG has officially launched, and so too has a wave of scalpers looking to make a quick buck on developer Pocketpair's new collectible cards.",
@@ -308,17 +308,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-01T14:54:16+00:00"
-    },
-    {
-      "id": "223c734dcc2a202c6d885d2b",
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T13:35:39+00:00"
     },
     {
       "id": "80864f4d773a2292e4763973",
@@ -475,17 +464,6 @@
       "publishedAt": "2026-08-01T00:00:00+00:00"
     },
     {
-      "id": "92113e76abdf46377d14ae33",
-      "title": "Police in the US are making their own true crime podcasts - will it help catch killers?",
-      "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-31T23:42:32+00:00"
-    },
-    {
       "id": "8efca6d3b7c582005ce5662f",
       "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
       "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
@@ -528,17 +506,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-31T21:57:59+00:00"
-    },
-    {
-      "id": "eca225744f3910be784c8e42",
-      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
-      "summary": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-07-31T21:09:39+00:00"
     },
     {
       "id": "5fac5538aeaca84f513325dd",
@@ -858,17 +825,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-29T04:00:20+00:00"
-    },
-    {
-      "id": "b8921953d5eee82747b33a19",
-      "title": "IA : des milliers de cadres, dont des dirigeants d’Anthropic et d’OpenAI, demandent au gouvernement américain de « temporiser » la sortie des nouveaux modèles",
-      "summary": "Plus de 1 100 employés du secteur ont signé une pétition pour freiner le développement automatisé des nouveaux modèles alors qu’ils craignent que ces derniers finissent par dépasser nos capacités à les comprendre ou les contrôler.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/29/intelligence-artificielle-une-petition-pour-temporiser-la-sortie-des-nouveaux-modeles_6735805_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-29T01:59:25+00:00"
     },
     {
       "id": "2d23f02b95e88958f1f2111e",
