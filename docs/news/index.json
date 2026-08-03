@@ -1,16 +1,82 @@
 {
-  "updatedAt": "2026-08-03T12:50:15.984714+00:00",
+  "updatedAt": "2026-08-03T15:38:17.830530+00:00",
   "items": [
     {
-      "id": "63c1c76d31fcc08d078eb755",
-      "title": "Iran denies Trump's claim that new talks will begin on Monday",
-      "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+      "id": "31258ffbe385b928eb10dda9",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T14:38:48+00:00"
+    },
+    {
+      "id": "b00cc79ab7b6d48ed960d4ff",
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T14:20:56+00:00"
+    },
+    {
+      "id": "5940907f13711e31fa0e03b0",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
       "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-03T12:44:09+00:00"
+      "publishedAt": "2026-08-03T14:18:30+00:00"
+    },
+    {
+      "id": "a073f1bc20c7c6e811fa19de",
+      "title": "Nintendo Direct Announced, Focused on Fire Emblem: Fortune's Weave",
+      "summary": "A Nintendo Direct broadcast focused on Fire Emblem: Fortune's Weave will air this week, it's been announced.",
+      "url": "https://www.ign.com/articles/nintendo-direct-announced-focused-on-fire-emblem-fortunes-weave",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T13:50:05+00:00"
+    },
+    {
+      "id": "d5d92b89ab5674c7651116dd",
+      "title": "Warhammer 40,000 Animated Series Produced by Henry Cavill to Tell a 'Long-Form Story' Featuring The Deathwatch",
+      "summary": "The Warhammer 40,000 animated series in development by Amazon will tell a \"long-form story\" featuring The Deathwatch, with Henry Cavill set to serve as an executive producer.",
+      "url": "https://www.ign.com/articles/warhammer-40000-animated-series-produced-by-henry-cavill-to-tell-a-long-form-story-featuring-the-deathwatch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T13:43:44+00:00"
+    },
+    {
+      "id": "9cc21a10b6971d5c0e7adea6",
+      "title": "Upcoming LEGO Sets: Release Dates for 2026 and Beyond",
+      "summary": "A frequently updated list of all the biggest upcoming LEGO sets, along with their release dates, pricing, and more.",
+      "url": "https://www.ign.com/articles/upcoming-lego-set-release-dates",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T13:22:00+00:00"
+    },
+    {
+      "id": "478e053da340073cc916c65d",
+      "title": "Rust Fan Sues Police After Swatting Incident Leaves Him Paralyzed",
+      "summary": "A Rust player left paralyzed by cops in a swatting incident is now suing the police for $176 million.",
+      "url": "https://www.ign.com/articles/rust-fan-sues-police-after-swatting-incident-leaves-him-paralyzed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T12:35:37+00:00"
     },
     {
       "id": "03faba1ce66e9b63953d89c6",
@@ -22,6 +88,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-03T12:20:11+00:00"
+    },
+    {
+      "id": "214cb9bcd6aa1e1e5139b462",
+      "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+      "summary": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T11:49:48+00:00"
     },
     {
       "id": "d3329d902e067b753176247b",
@@ -68,17 +145,6 @@
       "publishedAt": "2026-08-03T10:59:12+00:00"
     },
     {
-      "id": "b00cc79ab7b6d48ed960d4ff",
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-03T10:58:48+00:00"
-    },
-    {
       "id": "08380d77f605dc66ae95ca71",
       "title": "Sudan army drone strike on court session kills 35, rights group says",
       "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
@@ -121,6 +187,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-03T08:40:22+00:00"
+    },
+    {
+      "id": "05a717ea3f7a1a07ee3cf3cf",
+      "title": "Video Game Release Dates: The Biggest Games of August 2026 and Beyond",
+      "summary": "An updated list of video game release dates for PS5, Xbox Series X|S, Nintendo Switch, Switch 2, and PC games.",
+      "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T07:55:00+00:00"
     },
     {
       "id": "20cd02845e46c8fd79018df3",
@@ -376,17 +453,6 @@
       "publishedAt": "2026-08-02T10:59:55+00:00"
     },
     {
-      "id": "b263a7329a7041d7e159312a",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T10:54:44+00:00"
-    },
-    {
       "id": "a6a8708ec000cd487930fdae",
       "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
       "summary": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
@@ -431,17 +497,6 @@
       "publishedAt": "2026-08-02T04:30:15+00:00"
     },
     {
-      "id": "55a7fab14abf852ea0bd5db6",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T00:29:55+00:00"
-    },
-    {
       "id": "697581cf7d4b60b91d4a88dd",
       "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
       "summary": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
@@ -464,39 +519,6 @@
       "publishedAt": "2026-08-01T23:19:16+00:00"
     },
     {
-      "id": "5dbf38a2bd21974c73c50e07",
-      "title": "Game of Thrones: The Mad King Reveals Full Stage Cast and First Portrait",
-      "summary": "See the first official cast photo for Game of Thrones: The Mad King stage play, featuring King Aerys II, Rhaegar Targaryen, Young Ned Stark, and more.",
-      "url": "https://www.ign.com/articles/game-of-thrones-the-mad-king-cast-first-look",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T21:35:11+00:00"
-    },
-    {
-      "id": "d60acd16e3e57bdde80105a7",
-      "title": "Vincent Pastore, The Sopranos Actor, Dies at 80",
-      "summary": "Vincent Pastore, the actor best known for playing Salvatore Bonpensiero in the groundbreaking TV series The Sopranos, has died at 80.",
-      "url": "https://www.ign.com/articles/vincent-pastore-the-sopranos-actor-dies-at-80",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T21:34:05+00:00"
-    },
-    {
-      "id": "cb20dd86df25e482adb91032",
-      "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-      "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-      "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T19:59:57+00:00"
-    },
-    {
       "id": "cd19f2d0aa9f11a07da2a8c3",
       "title": "Crowds line Amsterdam's canals for Pride boat parade",
       "summary": "Costumed participants danced and waved from a colourful flotilla of 80 decorated vessels as they made their way through the city's waterways.",
@@ -506,39 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-01T19:39:48+00:00"
-    },
-    {
-      "id": "a1fd1a9ec0090bb027db1601",
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T17:51:46+00:00"
-    },
-    {
-      "id": "5283eba51ac0d5e36c0982e4",
-      "title": "Barbie 2 Will Have to Start from Scratch if Warner Bros. Can't Make a Deal With Talent by December",
-      "summary": "Negotiations for Barbie 2 have come to a halt, and if Warner Bros. can't make a deal by December 2026, it will lose director Greta Gerwig, writer Noah Baumbach, and stars Margot Robbie and Ryan Gosling.",
-      "url": "https://www.ign.com/articles/barbie-2-will-have-to-start-from-scratch-if-warner-bros-cant-make-a-deal-with-talent-by-december",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T17:15:39+00:00"
-    },
-    {
-      "id": "60ce813d6116997bcef4c958",
-      "title": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-      "summary": "",
-      "url": "https://www.ign.com/articles/best-deals-for-august-1-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T16:40:13+00:00"
     },
     {
       "id": "4bccbc1d8b72b7ed5ff5ef47",
