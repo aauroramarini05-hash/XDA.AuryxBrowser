@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-08-03T01:57:39.086523+00:00",
+  "updatedAt": "2026-08-03T05:39:44.544756+00:00",
   "items": [
+    {
+      "id": "7bf7112f2b5d1aa9c21dba6f",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T03:32:21+00:00"
+    },
+    {
+      "id": "20cd02845e46c8fd79018df3",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T02:43:06+00:00"
+    },
+    {
+      "id": "a97d41d44361ec2dd8b57681",
+      "title": "House of the Dragon: Helaena’s Dream Points to Major Fire & Blood Changes",
+      "summary": "Helaena Targaryen's latest dream in House of the Dragon hints that the HBO series is making major changes to George R.R. Martin's Fire & Blood book canon.",
+      "url": "https://www.ign.com/articles/house-of-the-dragon-helaena-dream-explained-fire-and-blood-changes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T02:15:00+00:00"
+    },
+    {
+      "id": "0d3d815748f66591ef91d201",
+      "title": "House of the Dragon Season 3, Episode 7 Recap and Review",
+      "summary": "House of the Dragon Season 3, Episode 7 Recap and Review: The Targaryens remind us why their civil war is called the Dance of Dragons in a lizard-rich episode.",
+      "url": "https://www.ign.com/articles/house-of-the-dragon-season-3-episode-7-recap-and-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T02:00:00+00:00"
+    },
+    {
+      "id": "9f6363f00b17171bda65e935",
+      "title": "Marvel's Wolverine ESRB Rating Promises 'a Handful of Sequences' Featuring 'Exposed Buttocks'",
+      "summary": "Marvel's Wolverine will have gore, intense violence, strong language, and at least a few scenes featuring \"a character's exposed buttocks,\" according to its Entertainment Software Rating Board (ESRB) rating.",
+      "url": "https://www.ign.com/articles/marvels-wolverine-esrb-rating-promises-a-handful-of-sequences-featuring-exposed-buttocks",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T01:54:47+00:00"
+    },
+    {
+      "id": "9d6e541a428de62a119600aa",
+      "title": "Malaysian boy on trial for allegedly murdering girl in school",
+      "summary": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
+      "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T01:43:16+00:00"
+    },
+    {
+      "id": "61d509fc4a50c13c6934df78",
+      "title": "Massive Attack respond after Singapore ban over Palestine display",
+      "summary": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T01:31:05+00:00"
+    },
     {
       "id": "0b8551b0acd2d2352fef1920",
       "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
@@ -22,6 +99,39 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-03T00:20:22+00:00"
+    },
+    {
+      "id": "7a5503f240b13f814a2c9b8d",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T00:11:18+00:00"
+    },
+    {
+      "id": "0b6e2895de5a2c17a2859860",
+      "title": "'What was my fault?': How India's exam paper leak ended young lives",
+      "summary": "Two families reveal the human toll of India's medical entrance examination paper leak.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-02T23:35:54+00:00"
+    },
+    {
+      "id": "95f61d1e54f94e4e19d8930b",
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-02T23:15:14+00:00"
     },
     {
       "id": "86e79eacd414013ee290a663",
@@ -132,28 +242,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-02T13:00:00+00:00"
-    },
-    {
-      "id": "e48439ca8598192a73055709",
-      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
-      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T11:49:40+00:00"
-    },
-    {
-      "id": "b75470fe6afe1f5151627b3e",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T11:12:00+00:00"
     },
     {
       "id": "b00e69e202239202aec5b7ea",
@@ -275,28 +363,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-01T23:19:16+00:00"
-    },
-    {
-      "id": "cc5fcfa670296fcf70b30cf1",
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T23:03:35+00:00"
-    },
-    {
-      "id": "56c3a3925145dadfc68354e0",
-      "title": "Why Uganda is winning the battle against Ebola as virus spreads in DR Congo",
-      "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
-      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T23:03:15+00:00"
     },
     {
       "id": "4773aed91814c5a141b3a8f2",
@@ -442,28 +508,6 @@
       "publishedAt": "2026-08-01T14:54:16+00:00"
     },
     {
-      "id": "80864f4d773a2292e4763973",
-      "title": "Everything Coming to Apple TV in August",
-      "summary": "",
-      "url": "https://www.ign.com/articles/whats-new-on-apple-tv-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T13:30:00+00:00"
-    },
-    {
-      "id": "3157507726124916bc36cb55",
-      "title": "The MCU Is Introducing a Very Different Version of the X-Men, and That's a Good Thing",
-      "summary": "Spider-Man: Brand New Day sets up a critical piece of the Marvel Cinematic Universe, but it's not going to be like any version we've seen before on the big screen. Major spoilers ahead!",
-      "url": "https://www.ign.com/articles/mcu-different-x-men-spider-man-brand-new-day-sadie-sink",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T13:00:00+00:00"
-    },
-    {
       "id": "4bccbc1d8b72b7ed5ff5ef47",
       "title": "Aux Etats-Unis, le débat monte autour des différents modèles d’IA, sur fond de concurrence chinoise",
       "summary": "Hormis Anthropic, les plus grosses sociétés américaines travaillant sur l’intelligence artificielle ont récemment demandé à Washington de soutenir le développement de la technologie dite « open weight », plus ouverte, dans laquelle s’illustre la Chine.",
@@ -484,28 +528,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-01T11:00:05+00:00"
-    },
-    {
-      "id": "f891e3002e58d0e3fcf6567d",
-      "title": "Infantino on the brink? Who might replace him if he goes?",
-      "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-01T10:02:43+00:00"
-    },
-    {
-      "id": "00e9f2170d86a434c3a49fa5",
-      "title": "Everything Coming to Netflix in August 2026",
-      "summary": "Close out the summer with Chucky, Fast and Furious, Ricky Gervais as a cartoon cat, The Whisper Man, and more... all on Netflix.",
-      "url": "https://www.ign.com/articles/whats-new-on-netflix-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T05:00:00+00:00"
     },
     {
       "id": "a44d9467a49509e8ee431e17",
