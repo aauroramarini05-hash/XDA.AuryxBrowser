@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-08-03T05:39:44.544756+00:00",
+  "updatedAt": "2026-08-03T09:24:51.815360+00:00",
   "items": [
     {
-      "id": "7bf7112f2b5d1aa9c21dba6f",
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "id": "190908e94f5e30d9eed101da",
+      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-03T03:32:21+00:00"
+      "publishedAt": "2026-08-03T08:40:22+00:00"
+    },
+    {
+      "id": "95f61d1e54f94e4e19d8930b",
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T08:27:37+00:00"
+    },
+    {
+      "id": "7a5503f240b13f814a2c9b8d",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T08:03:15+00:00"
     },
     {
       "id": "20cd02845e46c8fd79018df3",
@@ -21,7 +43,62 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-03T02:43:06+00:00"
+      "publishedAt": "2026-08-03T07:30:52+00:00"
+    },
+    {
+      "id": "b00cc79ab7b6d48ed960d4ff",
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T06:53:09+00:00"
+    },
+    {
+      "id": "18b6396557914e342927d197",
+      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+      "summary": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
+      "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T05:31:55+00:00"
+    },
+    {
+      "id": "99e0fdea22246acded626b89",
+      "title": "How TCL’s 2026 TV Range Brings True Competitive PC Gaming to the Couch",
+      "summary": "",
+      "url": "https://www.ign.com/articles/how-tcls-2026-tv-range-brings-true-competitive-pc-gaming-to-the-couch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T04:53:44+00:00"
+    },
+    {
+      "id": "357ba353bdd9567495dff88e",
+      "title": "Outside the Moscow restaurant where bomb killed three",
+      "summary": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T03:53:05+00:00"
+    },
+    {
+      "id": "7bf7112f2b5d1aa9c21dba6f",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-03T03:32:21+00:00"
     },
     {
       "id": "a97d41d44361ec2dd8b57681",
@@ -101,17 +178,6 @@
       "publishedAt": "2026-08-03T00:20:22+00:00"
     },
     {
-      "id": "7a5503f240b13f814a2c9b8d",
-      "title": "Trump suggests new talks with Iran to begin on Monday",
-      "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-03T00:11:18+00:00"
-    },
-    {
       "id": "0b6e2895de5a2c17a2859860",
       "title": "'What was my fault?': How India's exam paper leak ended young lives",
       "summary": "Two families reveal the human toll of India's medical entrance examination paper leak.",
@@ -121,17 +187,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-02T23:35:54+00:00"
-    },
-    {
-      "id": "95f61d1e54f94e4e19d8930b",
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T23:15:14+00:00"
     },
     {
       "id": "86e79eacd414013ee290a663",
@@ -222,17 +277,6 @@
       "publishedAt": "2026-08-02T15:50:59+00:00"
     },
     {
-      "id": "a630bab6c46f7be9caeb7c83",
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T15:48:00+00:00"
-    },
-    {
       "id": "52ea720fc4615cc76413fef8",
       "title": "What the Heck Is Marvel Doing With the Hulk Anyway!?",
       "summary": "After Spider-Man: Brand New Day, we've gotta ask: What the heck is Marvel doing with the Hulk these days anyway!?",
@@ -286,17 +330,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-02T10:20:10+00:00"
-    },
-    {
-      "id": "e9a6d2e3422d642e5f31e653",
-      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T10:11:26+00:00"
     },
     {
       "id": "03a2ae08e9a9f31d4cdfd82d",
@@ -495,17 +528,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-01T15:30:00+00:00"
-    },
-    {
-      "id": "c791ac6aaccb51fb779b1911",
-      "title": "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch",
-      "summary": "The Palworld TCG has officially launched, and so too has a wave of scalpers looking to make a quick buck on developer Pocketpair's new collectible cards.",
-      "url": "https://www.ign.com/articles/palworld-tcg-prices-skyrocket-as-ebay-scalpers-profit-off-of-card-game-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-01T14:54:16+00:00"
     },
     {
       "id": "4bccbc1d8b72b7ed5ff5ef47",
