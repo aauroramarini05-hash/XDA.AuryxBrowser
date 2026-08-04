@@ -1,16 +1,159 @@
 {
-  "updatedAt": "2026-08-04T07:30:43.532481+00:00",
+  "updatedAt": "2026-08-04T10:27:48.844808+00:00",
   "items": [
     {
-      "id": "a4563b5c1d6e577cb7c069c6",
-      "title": "Five dead in Moscow as Ukraine continues warehouse strikes",
+      "id": "e99f35c9d62e05e9b23501bd",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T10:23:51+00:00"
+    },
+    {
+      "id": "0cf9d70496cf2d8c9234978c",
+      "title": "Apple issues new challenge against UK order for access to private user data",
+      "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-04T10:22:40+00:00"
+    },
+    {
+      "id": "f0c9f515c6e14ac0d3745320",
+      "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
+      "summary": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T10:04:53+00:00"
+    },
+    {
+      "id": "75d718172e0da5d10b470103",
+      "title": "'She Ended on a Really Great Note': Jessica Henwick Says She's Turned Down Returning as Colleen Wing in Daredevil: Born Again Season 3",
+      "summary": "Iron Fist star Jessica Henwick has said her character Colleen Wing won't return in Daredevil: Born Again Season 3, despite talks with Marvel.",
+      "url": "https://www.ign.com/articles/she-ended-on-a-really-great-note-jessica-henwick-says-shes-turned-down-returning-as-colleen-wing-in-daredevil-born-again-season-3",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-04T09:41:03+00:00"
+    },
+    {
+      "id": "a6e26dbf76591a85d4be7305",
+      "title": "What is Trump Media's Truth API and why is it controversial?",
+      "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T09:40:47+00:00"
+    },
+    {
+      "id": "144e596a645644749227cb6a",
+      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
       "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-04T07:20:40+00:00"
+      "publishedAt": "2026-08-04T09:35:06+00:00"
+    },
+    {
+      "id": "cccaee4197d697d17eea4a5a",
+      "title": "Arson arrest made over largest of Washington state's wildfires",
+      "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T09:32:12+00:00"
+    },
+    {
+      "id": "685ea4a0b53bd28d92dbff1e",
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "summary": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
+      "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T09:23:06+00:00"
+    },
+    {
+      "id": "0ecb031427857bd9dd6b9205",
+      "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
+      "summary": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
+      "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T09:18:03+00:00"
+    },
+    {
+      "id": "3923c3aa1f00225f351efe47",
+      "title": "Intelligence artificielle : l’illusion du contrôle",
+      "summary": "Après deux incidents reconnus par OpenAI et Anthropic en juillet, il apparaît désormais indispensable de maîtriser les conditions dans lesquelles les systèmes d’IA interagissent avec le monde réel.",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/04/intelligence-artificielle-l-illusion-du-controle_6738387_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-04T09:15:11+00:00"
+    },
+    {
+      "id": "32dd6b939bc99cf7dd9fac34",
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
+      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T09:13:37+00:00"
+    },
+    {
+      "id": "087095455f648e78582f8d69",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T09:11:39+00:00"
+    },
+    {
+      "id": "94f73c3f4b7c5edad69c7dc3",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-04T09:08:40+00:00"
+    },
+    {
+      "id": "8467ed2cbf035e6a20231092",
+      "title": "Spider-Man: No Way Home's Mary Rivera, Ned's Grandma, Has Died Aged 82",
+      "summary": "Mary Rivera, the actress who played Ned's Grandma in Spider-Man: No Way Home, has died aged 82.",
+      "url": "https://www.ign.com/articles/spider-man-no-way-homes-mary-rivera-neds-grandma-has-died-aged-82",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-04T09:00:20+00:00"
     },
     {
       "id": "ae111690ceefa2d091695682",
@@ -22,17 +165,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-04T07:13:40+00:00"
-    },
-    {
-      "id": "94f73c3f4b7c5edad69c7dc3",
-      "title": "US states sue to block Trump tariffs impacting dozens of countries",
-      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T07:11:35+00:00"
     },
     {
       "id": "7578d616baed4ee148ccd948",
@@ -55,17 +187,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-04T04:15:10+00:00"
-    },
-    {
-      "id": "418bd9992973eab7a4992617",
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T03:37:14+00:00"
     },
     {
       "id": "e63dece83b9941a091994e84",
@@ -110,28 +231,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-04T02:29:03+00:00"
-    },
-    {
-      "id": "54a13fa15d91bad655122779",
-      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-      "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
-      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T00:17:48+00:00"
-    },
-    {
-      "id": "087095455f648e78582f8d69",
-      "title": "Analysis: Trump challenged by cold reality from top allies",
-      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T00:02:40+00:00"
     },
     {
       "id": "eff13c8eb4fd201dc20c910e",
@@ -398,17 +497,6 @@
       "publishedAt": "2026-08-03T20:05:00+00:00"
     },
     {
-      "id": "5940907f13711e31fa0e03b0",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-03T19:42:55+00:00"
-    },
-    {
       "id": "58c04c9e0c96e3b6f451af53",
       "title": "40 Streamers Face Off in Third Annual Ludwig’s Streamer Games",
       "summary": "",
@@ -451,28 +539,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-03T19:05:00+00:00"
-    },
-    {
-      "id": "7635a68363fa06f21d3cb56d",
-      "title": "Spider-Man’s Record-Breaking Box Office Clinches It: Marvel as We Know It Is Over",
-      "summary": "The MCU as we know it will suffer due to Spider-Man: Brand New Day's box office success, and it may never be the same again.",
-      "url": "https://www.ign.com/articles/spider-mans-record-breaking-box-office-clinches-it-marvel-as-we-know-it-is-over",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-03T18:44:23+00:00"
-    },
-    {
-      "id": "501f7c6776041422e7ae92ce",
-      "title": "The Steam Frame Might End Up More Expensive Than the Steam Machine",
-      "summary": "In a now-deleted stream, Valve leaker Tyler McVicker suggests the Steam Frame could be more expensive than the Steam Machine.",
-      "url": "https://www.ign.com/articles/the-steam-frame-might-end-up-more-expensive-than-the-steam-machine",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-03T18:20:03+00:00"
     },
     {
       "id": "31258ffbe385b928eb10dda9",
@@ -550,17 +616,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-02T10:59:55+00:00"
-    },
-    {
-      "id": "a6a8708ec000cd487930fdae",
-      "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-      "summary": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
-      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-02T10:20:10+00:00"
     },
     {
       "id": "b128117bb9c707006e4d6f30",
@@ -838,17 +893,6 @@
       "publishedAt": "2026-07-29T19:28:00+00:00"
     },
     {
-      "id": "f374d88bf1fcdd46cea8a3ce",
-      "title": "« L’interdiction des réseaux sociaux avant 15 ans transforme la condition d’exercice de la liberté d’expression »",
-      "summary": "Adoptée le 21 juillet, la proposition de loi implique de vérifier l’âge des internautes et soulève donc d’épineuses questions quant à la préservation de l’anonymat, relève la professeure de droit Brunessen Bertrand dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/29/l-interdiction-des-reseaux-sociaux-avant-15-ans-transforme-la-condition-d-exercice-de-la-liberte-d-anonymat_6736398_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-29T16:30:05+00:00"
-    },
-    {
       "id": "63f82ec14f365777a8523f78",
       "title": "Data centres could pay hundreds of millions in deposits for power demands",
       "summary": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
@@ -869,17 +913,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-29T08:49:27+00:00"
-    },
-    {
-      "id": "2d23f02b95e88958f1f2111e",
-      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-      "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
-      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-28T23:00:15+00:00"
     },
     {
       "id": "edbbf30e9a56fb15f4aa9084",
