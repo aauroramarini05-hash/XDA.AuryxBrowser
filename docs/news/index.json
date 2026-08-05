@@ -1,27 +1,82 @@
 {
-  "updatedAt": "2026-08-05T01:49:09.153821+00:00",
+  "updatedAt": "2026-08-05T04:56:49.729500+00:00",
   "items": [
     {
-      "id": "d9579d8dc3769e5c18ab4f97",
-      "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
-      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "id": "b1333053257f2431969f0581",
+      "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-05T01:35:29+00:00"
+      "publishedAt": "2026-08-05T04:38:05+00:00"
     },
     {
-      "id": "48099a17ecf5901b6a9d9a7c",
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "id": "e26b19d054a32f62b04bdbaf",
+      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-05T04:01:22+00:00"
+    },
+    {
+      "id": "8fe71f25c0a6952210ffb91b",
+      "title": "« Cringe attack » : quand la peur d’être gênant paralyse les jeunes sur les réseaux sociaux",
+      "summary": "La possibilité que des inconnus tombent sur vos contenus en ligne démultiplie la crainte d’être considéré comme « cringe » (« embarrassant ») par une partie de la « gen Z ». Et génère une forme d’autocensure, voire une tentation de repli.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/05/cringe-attack-quand-la-peur-d-etre-genant-paralyse-les-jeunes-sur-les-reseaux-sociaux_6739354_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-05T04:00:32+00:00"
+    },
+    {
+      "id": "67ed8d22f62203b08c36824c",
+      "title": "SpaceX double quasiment son chiffre d’affaires, sans enrayer la chute de son titre récemment introduit en Bourse",
+      "summary": "Les pertes du groupe d’Elon Musk inquiètent les marchés malgré des revenus en forte hausse, portés par Starlink et l’intelligence artificielle. Le développement de cette dernière branche exige des investissements massifs.",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/05/spacex-double-quasiment-son-chiffre-d-affaires-sans-enrayer-la-chute-de-son-titre-recemment-introduit-en-bourse_6739349_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-05T03:58:29+00:00"
+    },
+    {
+      "id": "7fe8fad1aafd765d7a4f362b",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-05T01:05:21+00:00"
+      "publishedAt": "2026-08-05T03:44:30+00:00"
+    },
+    {
+      "id": "33ebcf4b78f962956d45f876",
+      "title": "Save $750 Off Gigabyte's Flagship AORUS Master Gaming Laptop With GeForce RTX 5070 Ti Graphics",
+      "summary": "Gigabyte's most premium gaming laptop.",
+      "url": "https://www.ign.com/articles/gigabyte-aorus-master-rtx-5070-ti-gaming-laptop-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-05T01:45:00+00:00"
+    },
+    {
+      "id": "f52d18001b0b7c6a08bf11f5",
+      "title": "Original Grand Tour Hosts Jeremy Clarkson, Richard Hammond, and James May Will Cameo in the New Season",
+      "summary": "The original former Top Gear trio set to make appearances alongside their replacements in the returning series.",
+      "url": "https://www.ign.com/articles/original-grand-tour-hosts-jeremy-clarkson-richard-hammond-and-james-may-will-cameo-in-the-new-season",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-05T01:14:00+00:00"
     },
     {
       "id": "3a08e14c2344575ce9fde36c",
@@ -233,17 +288,6 @@
       "publishedAt": "2026-08-04T22:08:05+00:00"
     },
     {
-      "id": "e26b19d054a32f62b04bdbaf",
-      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-04T21:57:19+00:00"
-    },
-    {
       "id": "05857e44982d55f7b828f064",
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
@@ -365,10 +409,10 @@
       "publishedAt": "2026-08-04T19:45:58+00:00"
     },
     {
-      "id": "31fa2bc8ec01fd6c9971ab2e",
+      "id": "e38ea93908f76437d10ffd0b",
       "title": "Tech Life",
       "summary": "Electric power is one of several cleaner alternatives to traditional aviation fuel.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy7?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -398,17 +442,6 @@
       "publishedAt": "2026-08-04T19:20:00+00:00"
     },
     {
-      "id": "e1f54e0e3802faf3e69a9638",
-      "title": "Spider-Man: Brand New Day Loses Place in the Top 10 MCU Movies on Rotten Tomatoes Following Record-Breaking Opening",
-      "summary": "Spider-Man: Brand New Day is no longer among the top 10 highest-rated MCU films on Rotten Tomatoes.",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-loses-place-in-the-top-10-mcu-movies-on-rotten-tomatoes-following-record-breaking-opening",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-04T19:19:56+00:00"
-    },
-    {
       "id": "3cdce05c05a8666a9ba4c9f8",
       "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
       "summary": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
@@ -418,17 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-04T19:07:19+00:00"
-    },
-    {
-      "id": "8cc354b98d12e0018af204f9",
-      "title": "Amazon Has a Well-Reviewed 12V 4,000A Cordless Car Jump Starter for Just $25.64 After Coupon",
-      "summary": "Powerful enough to jump start most consumer cars and trucks in the United States (many times over).",
-      "url": "https://www.ign.com/articles/best-cordless-car-jump-starter-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-04T18:40:00+00:00"
     },
     {
       "id": "027ff567ca9ce5ac003d7124",
@@ -444,7 +466,7 @@
     {
       "id": "c6b58d7eb7e814a80b0948f8",
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
       "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -946,28 +968,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-30T09:26:43+00:00"
-    },
-    {
-      "id": "084c6088b7d449058b824fce",
-      "title": "Avec « Assassin’s Creed », le saut de l’ange réussi d’Ubisoft dans un monde ouvert",
-      "summary": "« La saga Ubisoft » (4/6). Dans les années 2000, le studio montréalais d’Ubisoft s’impose comme l’un des meilleurs au monde.",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/30/avec-assassin-s-creed-le-saut-de-l-ange-reussi-d-ubisoft-dans-un-monde-ouvert_6736662_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-30T04:00:12+00:00"
-    },
-    {
-      "id": "c87d84689e49a2010572f4e2",
-      "title": "Des agents d’IA d’OpenAI se sont échappés et piraté plusieurs entreprises : le point sur les faits et les questions qui se posent",
-      "summary": "Deux intelligences artificielles d’OpenAI sont parvenues à s’extirper d’un environnement théoriquement confiné et à se connecter à Internet, piratant plusieurs entreprises pour résoudre un test, et attaquant notamment la plateforme Hugging Face. Un épisode qui soulève de nombreuses questions en matière de sécurité.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/30/la-cyberattaque-de-hugging-face-par-des-ia-d-openai-expliquee-en-quatre-questions_6736657_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-30T03:58:33+00:00"
     },
     {
       "id": "edbbf30e9a56fb15f4aa9084",
