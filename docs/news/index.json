@@ -1,16 +1,71 @@
 {
-  "updatedAt": "2026-08-04T23:55:34.210933+00:00",
+  "updatedAt": "2026-08-05T01:49:09.153821+00:00",
   "items": [
+    {
+      "id": "d9579d8dc3769e5c18ab4f97",
+      "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-05T01:35:29+00:00"
+    },
+    {
+      "id": "48099a17ecf5901b6a9d9a7c",
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-05T01:05:21+00:00"
+    },
+    {
+      "id": "3a08e14c2344575ce9fde36c",
+      "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+      "summary": "Aaron Farinacci, 37, was allegedly spotted near the latest blaze and was found to have matches and a lighter.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-05T00:40:23+00:00"
+    },
     {
       "id": "97d5fc3d228443fdcab347e8",
       "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at his",
+      "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
       "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-04T23:49:42+00:00"
+      "publishedAt": "2026-08-05T00:19:04+00:00"
+    },
+    {
+      "id": "d66963d90bc0b8e9e1403a7b",
+      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-05T00:02:18+00:00"
+    },
+    {
+      "id": "62e8d28126005bf75987481f",
+      "title": "Joke Game Priced at 200 Dollars Rakes In $1.3 Million on Steam Before Thousands of Players Refund It",
+      "summary": "The teenaged developer of a joke game titled This Game Costs 200 Dollars almost made over $1 million before thousands of players refunded it.",
+      "url": "https://www.ign.com/articles/joke-game-priced-at-200-dollars-rakes-in-13-million-on-steam-before-thousands-of-players-refund-it",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-04T23:59:13+00:00"
     },
     {
       "id": "2bf3d429e5a2f810423e2f4d",
@@ -156,8 +211,8 @@
       "publishedAt": "2026-08-04T22:10:00+00:00"
     },
     {
-      "id": "e5779ecd388fce8a5b0c05f2",
-      "title": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
+      "id": "36772db4a014d34088a3e168",
+      "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
       "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
       "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -354,17 +409,6 @@
       "publishedAt": "2026-08-04T19:19:56+00:00"
     },
     {
-      "id": "cccaee4197d697d17eea4a5a",
-      "title": "Arson arrest made over largest of Washington state's wildfires",
-      "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T19:18:45+00:00"
-    },
-    {
       "id": "3cdce05c05a8666a9ba4c9f8",
       "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
       "summary": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
@@ -376,17 +420,6 @@
       "publishedAt": "2026-08-04T19:07:19+00:00"
     },
     {
-      "id": "48099a17ecf5901b6a9d9a7c",
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T19:00:43+00:00"
-    },
-    {
       "id": "8cc354b98d12e0018af204f9",
       "title": "Amazon Has a Well-Reviewed 12V 4,000A Cordless Car Jump Starter for Just $25.64 After Coupon",
       "summary": "Powerful enough to jump start most consumer cars and trucks in the United States (many times over).",
@@ -396,17 +429,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-04T18:40:00+00:00"
-    },
-    {
-      "id": "ac0089f9f4ed0639f70a95cf",
-      "title": "Capcom Is Making a Life-Sized Leon Kennedy Statue for Resident Evil’s 30th Anniversary, and of Course the Internet Is Being Totally Normal About It",
-      "summary": "Capcom is preparing for Resident Evil’s 30th anniversary exhibition in Shibuya, and to celebrate, it’s commissioning a life-sized statue of the beloved horror series’ poster boy, Leon S. Kennedy.",
-      "url": "https://www.ign.com/articles/capcom-is-making-a-life-sized-leon-kennedy-statue-for-resident-evils-30th-anniversary-and-of-course-the-internet-is-being-totally-normal-about-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-04T18:26:01+00:00"
     },
     {
       "id": "027ff567ca9ce5ac003d7124",
@@ -924,17 +946,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-30T09:26:43+00:00"
-    },
-    {
-      "id": "e8f405766db2875366d263b9",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-30T07:23:11+00:00"
     },
     {
       "id": "084c6088b7d449058b824fce",
