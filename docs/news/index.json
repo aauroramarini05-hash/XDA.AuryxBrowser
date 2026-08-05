@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-08-05T07:35:02.494691+00:00",
+  "updatedAt": "2026-08-05T10:26:19.596634+00:00",
   "items": [
+    {
+      "id": "41746068accd36d026023067",
+      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-05T09:54:20+00:00"
+    },
+    {
+      "id": "dfefc5a477b5387f307a5618",
+      "title": "With Avatar's Future Still Uncertain, James Cameron Now Says He Wants to Prioritize 'Other Stories' For the 'Last Act' of His Career",
+      "summary": "Avatar director James Cameron has signaled that he may be ready to move on from the franchise, as the status of its two planned sequels still remains uncertain.",
+      "url": "https://www.ign.com/articles/with-avatars-future-still-uncertain-james-cameron-now-says-he-wants-to-prioritize-other-stories-for-the-last-act-of-his-career",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-05T09:44:22+00:00"
+    },
+    {
+      "id": "1b01075a384ef94f2f756132",
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-05T09:24:18+00:00"
+    },
+    {
+      "id": "e1e91fea5f0f0ec62e2368d4",
+      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+      "summary": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.",
+      "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-05T09:22:52+00:00"
+    },
+    {
+      "id": "e3ff586a36ca7adce999cc10",
+      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+      "summary": "Elon Musk told investors that people were \"underestimating\" his company.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-05T08:53:40+00:00"
+    },
+    {
+      "id": "e69fd5e6edd85bf01aecf712",
+      "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+      "summary": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-05T08:29:30+00:00"
+    },
     {
       "id": "ccaf2a4f7b315f4060a565ee",
       "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
@@ -13,26 +79,37 @@
       "publishedAt": "2026-08-05T07:04:45+00:00"
     },
     {
-      "id": "e6b4172dcb5c0311334e77b9",
-      "title": "Russian ballistic missile strike on Kyiv kills at least 17",
-      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "id": "1c112dfa6b6f4d506c4519c6",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi Season 1 Review",
+      "summary": "Despite some early growing pains, Star Wars: Visions Presents - The Ninth Jedi is a terrific and excitingly unique take on the iconic franchise.",
+      "url": "https://www.ign.com/articles/star-wars-visions-presents-the-ninth-jedi-season-1-review",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-05T06:54:29+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-05T07:01:00+00:00"
     },
     {
-      "id": "e26b19d054a32f62b04bdbaf",
-      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "id": "ffba97f4a6f4f049180e082b",
+      "title": "Ted Lasso Season 4 Premiere Review",
+      "summary": "Ted Lasso Season 4 premiere review: Ted returns with an engaging Kansas City-set season premiere that catches us up with a few key characters, setting the stage for the show’s new soft reboot approach following a three-year absence.",
+      "url": "https://www.ign.com/articles/ted-lasso-season-4-premiere-review",
       "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-05T06:35:48+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-05T07:00:00+00:00"
+    },
+    {
+      "id": "6c5c31ab028e2c7e0d83ada4",
+      "title": "X-Men '97 Season 2, Episode 8 Review & Recap: \"Dead Man's Hand\"",
+      "summary": "X-Men '97 Season 2, Episode 8 features a return fans have been waiting for, so why does it leave us feeling so cold? Read our full review of \"Dead Man's Hand.\"",
+      "url": "https://www.ign.com/articles/x-men-97-season-2-episode-8-review-recap-dead-mans-hand",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-05T07:00:00+00:00"
     },
     {
       "id": "8fe71f25c0a6952210ffb91b",
@@ -46,8 +123,8 @@
       "publishedAt": "2026-08-05T04:00:32+00:00"
     },
     {
-      "id": "67ed8d22f62203b08c36824c",
-      "title": "SpaceX double quasiment son chiffre d’affaires, sans enrayer la chute de son titre récemment introduit en Bourse",
+      "id": "298f35dc174b33974e56d60a",
+      "title": "SpaceX double presque son chiffre d’affaires, sans enrayer la chute de son titre récemment introduit en Bourse",
       "summary": "Les pertes du groupe d’Elon Musk inquiètent les marchés malgré des revenus en forte hausse, portés par Starlink et l’intelligence artificielle. Le développement de cette dernière branche exige des investissements massifs.",
       "url": "https://www.lemonde.fr/economie/article/2026/08/05/spacex-double-quasiment-son-chiffre-d-affaires-sans-enrayer-la-chute-de-son-titre-recemment-introduit-en-bourse_6739349_3234.html",
       "imageUrl": null,
@@ -112,17 +189,6 @@
       "publishedAt": "2026-08-05T00:19:04+00:00"
     },
     {
-      "id": "d66963d90bc0b8e9e1403a7b",
-      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-05T00:02:18+00:00"
-    },
-    {
       "id": "62e8d28126005bf75987481f",
       "title": "Joke Game Priced at 200 Dollars Rakes In $1.3 Million on Steam Before Thousands of Players Refund It",
       "summary": "The teenaged developer of a joke game titled This Game Costs 200 Dollars almost made over $1 million before thousands of players refunded it.",
@@ -156,8 +222,8 @@
       "publishedAt": "2026-08-04T23:30:00+00:00"
     },
     {
-      "id": "fa8ae1d1f25dd2b401f25f94",
-      "title": "How tech is helping firefighters in the battle against wildfires",
+      "id": "f8a6ca5a3b8499e383f50e43",
+      "title": "How tech is helping in the battle against wildfires",
       "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
       "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -189,8 +255,8 @@
       "publishedAt": "2026-08-04T23:13:01+00:00"
     },
     {
-      "id": "7b7837aab0c4cbc72ea7f134",
-      "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+      "id": "d49836fbed5d60c9d2d6c0f0",
+      "title": "The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group",
       "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
       "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -376,39 +442,6 @@
       "publishedAt": "2026-08-04T20:05:00+00:00"
     },
     {
-      "id": "3d6c2ad5f5b71eb104e462e0",
-      "title": "Naoki Hamaguchi Doubles Down on Connecting All Final Fantasy VII Spin-Offs Into Revelation’s Ending",
-      "summary": "Final Fantasy VII Revelation director Naoki Hamaguchi opened up on the game’s connection to the Advent Children film, saying that more than one of FF7’s spin-offs are going to tie into the game’s ending.",
-      "url": "https://www.ign.com/articles/naoki-hamaguchi-doubles-down-on-connecting-all-final-fantasy-vii-spinoffs-into-revelations-ending",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-04T20:04:57+00:00"
-    },
-    {
-      "id": "a4bde5cea72e14bb27133096",
-      "title": "Humble Choice August 2026 Is Live, and It Includes Like a Dragon: Infinite Wealth",
-      "summary": "Get hundreds of dollars worth of Steam games, including Like a Dragon: Infinite Wealth, in this August's Humble Choice.",
-      "url": "https://www.ign.com/articles/humble-choice-august-2026-is-live-and-it-includes-like-a-dragon-infinite-wealth",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-04T19:56:00+00:00"
-    },
-    {
-      "id": "2b51bd4ddb53e8520f391541",
-      "title": "Motorola Razr Fold Review",
-      "summary": "Motorola packs it all in for this foldable, providing great screens, cameras, performance and features, even if it does end up a bit expensive.",
-      "url": "https://www.ign.com/articles/motorola-razr-fold-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-04T19:50:51+00:00"
-    },
-    {
       "id": "0fa2d2ff67f28f73ebcaca3a",
       "title": "More than 170 migrants rescued after boat catches fire in Channel",
       "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
@@ -440,17 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-04T19:25:00+00:00"
-    },
-    {
-      "id": "86f3d64a0f48b1353a9431a5",
-      "title": "The Travel-Friendly Orico Power Strip With AC Outlets and 65W USB Ports Drops Below $20",
-      "summary": "Packs down to the size of a smartphone, cord included.",
-      "url": "https://www.ign.com/articles/oricio-travel-friendly-power-strip-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-04T19:20:00+00:00"
     },
     {
       "id": "3cdce05c05a8666a9ba4c9f8",
