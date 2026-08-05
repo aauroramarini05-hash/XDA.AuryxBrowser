@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-08-05T04:56:49.729500+00:00",
+  "updatedAt": "2026-08-05T07:35:02.494691+00:00",
   "items": [
     {
-      "id": "b1333053257f2431969f0581",
-      "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+      "id": "ccaf2a4f7b315f4060a565ee",
+      "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+      "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-05T07:04:45+00:00"
+    },
+    {
+      "id": "e6b4172dcb5c0311334e77b9",
+      "title": "Russian ballistic missile strike on Kyiv kills at least 17",
       "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-05T04:38:05+00:00"
+      "publishedAt": "2026-08-05T06:54:29+00:00"
     },
     {
       "id": "e26b19d054a32f62b04bdbaf",
@@ -21,7 +32,7 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-08-05T04:01:22+00:00"
+      "publishedAt": "2026-08-05T06:35:48+00:00"
     },
     {
       "id": "8fe71f25c0a6952210ffb91b",
@@ -145,8 +156,8 @@
       "publishedAt": "2026-08-04T23:30:00+00:00"
     },
     {
-      "id": "a1ba37835fedb2e321281415",
-      "title": "Could tech replace firefighters in the battle against wildfires?",
+      "id": "fa8ae1d1f25dd2b401f25f94",
+      "title": "How tech is helping firefighters in the battle against wildfires",
       "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
       "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -409,10 +420,10 @@
       "publishedAt": "2026-08-04T19:45:58+00:00"
     },
     {
-      "id": "e38ea93908f76437d10ffd0b",
+      "id": "31fa2bc8ec01fd6c9971ab2e",
       "title": "Tech Life",
       "summary": "Electric power is one of several cleaner alternatives to traditional aviation fuel.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy7?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -462,17 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-04T18:21:00+00:00"
-    },
-    {
-      "id": "c6b58d7eb7e814a80b0948f8",
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T17:26:06+00:00"
     },
     {
       "id": "cf948aa6ade4144e0625b8ac",
