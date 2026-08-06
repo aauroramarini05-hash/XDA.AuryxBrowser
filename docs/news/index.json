@@ -1,49 +1,27 @@
 {
-  "updatedAt": "2026-08-06T07:36:06.554949+00:00",
+  "updatedAt": "2026-08-06T10:29:07.246624+00:00",
   "items": [
     {
-      "id": "d72fc0ae2c7b381c238b4a09",
-      "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
-      "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
+      "id": "caaa2a3c971a92c0d1b8007b",
+      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+      "summary": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T10:27:08+00:00"
+    },
+    {
+      "id": "b3224a1987d12bf7526be042",
+      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+      "summary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
       "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-06T07:27:17+00:00"
-    },
-    {
-      "id": "e665570ba60fe0f01b0309d2",
-      "title": "Outrage as Ugandan football captain murdered in street gang attack",
-      "summary": "The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T06:04:28+00:00"
-    },
-    {
-      "id": "82817d62d45a6d7154299cfd",
-      "title": "Meta says AI model accessed the internet and hacked another firm",
-      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T05:53:58+00:00"
-    },
-    {
-      "id": "e85d0174c8e6c441106c90bd",
-      "title": "AI or real? BBC analyses viral China disaster videos",
-      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
-      "url": "https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-06T05:29:27+00:00"
+      "publishedAt": "2026-08-06T09:49:24+00:00"
     },
     {
       "id": "d878c3b3ac4f222bad35587e",
@@ -54,7 +32,95 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-08-06T05:00:54+00:00"
+      "publishedAt": "2026-08-06T09:40:18+00:00"
+    },
+    {
+      "id": "15e055ae091117dbe81bca53",
+      "title": "The U.S. Government's Mario, Pokémon and Naruto Meme Posting Could Damage These Franchises, Japanese Officials Warn",
+      "summary": "Japanese officials have repeatedly requested that the U.S. government stop its meme posting involving characters and franchises such as Mario, Pokémon and Naruto.",
+      "url": "https://www.ign.com/articles/the-us-governments-mario-pokmon-and-naruto-meme-posting-could-damage-these-franchises-japanese-officials-warn",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-06T09:33:56+00:00"
+    },
+    {
+      "id": "75367b08c534717f7967c82d",
+      "title": "Iranian footballers who defied Tehran become Australian citizens",
+      "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T09:04:17+00:00"
+    },
+    {
+      "id": "7f13125f2824510320bc4eb0",
+      "title": "Switch 2 Sales Down Year-on-Year After 2025's Explosive Launch, Though Nintendo Insists Adoption Still Compares 'Favorably' to Original Switch",
+      "summary": "Switch 2 sales are down by more than a third compared to the console's explosive launch a year ago, though Nintendo has insisted its new machine's arrival still compares well with that of Switch 1.",
+      "url": "https://www.ign.com/articles/switch-2-sales-down-year-on-year-after-2025s-explosive-launch-though-nintendo-insists-adoption-still-compares-favorably-to-original-switch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-06T09:01:11+00:00"
+    },
+    {
+      "id": "b592996324d32825be34e9f6",
+      "title": "LEGO Mario Kart – Mario & Standard Kart Set Has Hit a New Low Price at Amazon",
+      "summary": "Amazon has dropped the LEGO Mario Kart – Mario & Standard Kart set down to a new low price of $149.99. Compared to its full price, you're saving $20.",
+      "url": "https://www.ign.com/articles/lego-mario-kart-mario-standard-kart-set-has-hit-a-new-low-price-at-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-06T08:57:07+00:00"
+    },
+    {
+      "id": "5609710b45f8e9aaf962bfac",
+      "title": "Nintendo Offers Free Repair Services to Anyone in Area Impacted by Deadly Earthquake",
+      "summary": "Free repair offer comes in conjunction with a donation to the Kumamoto earthquake relief fund effort.",
+      "url": "https://www.ign.com/articles/nintendo-offers-free-repair-services-to-anyone-in-area-impacted-by-deadly-earthquake",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-06T08:19:37+00:00"
+    },
+    {
+      "id": "fc5c940ece4b8f0b24dc648c",
+      "title": "Air India's new CEO faces financial and safety turbulence",
+      "summary": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
+      "url": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T08:18:02+00:00"
+    },
+    {
+      "id": "fd22aa7a81d73a4f422bdf84",
+      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T06:04:28+00:00"
+    },
+    {
+      "id": "60b187fd21c3549f3cb61e9c",
+      "title": "Meta becomes latest firm to say its AI hacked another company",
+      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T05:53:58+00:00"
     },
     {
       "id": "e262400a27c7b9882295e3db",
@@ -222,17 +288,6 @@
       "publishedAt": "2026-08-05T21:54:24+00:00"
     },
     {
-      "id": "3d517c7b768f48204dc28e77",
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-05T21:37:08+00:00"
-    },
-    {
       "id": "a70c832fb0fd42b373d6fbd6",
       "title": "Minecraft Is Coming to Nintendo Switch 2 Soon With an Upgrade Path for Switch 1 Owners",
       "summary": "Minecraft is getting a proper Nintendo Switch 2 version very soon, and Switch 1 owners will be entitled to an upgrade",
@@ -288,9 +343,9 @@
       "publishedAt": "2026-08-05T20:21:54+00:00"
     },
     {
-      "id": "e30ac22d68da8ac7f435a735",
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "id": "e43759f0891ba8d6223a5159",
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
       "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -396,50 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-05T18:19:51+00:00"
-    },
-    {
-      "id": "128a61d845f72d7a3a2cbba3",
-      "title": "The iPhone 18 Pro Will Probably Cost at Least $1,399",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-iphone-18-pro-will-probably-cost-at-least-1399",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-05T17:44:27+00:00"
-    },
-    {
-      "id": "b262759fa9d1a473353da5d3",
-      "title": "14 Years After Its Release, Call of Duty: Black Ops 2 Is One of 2026's Best Selling Games, According to Analysts",
-      "summary": "The recent PS4 and PS5 ports of Call of Duty: Black Ops 1 and 2 are already some of the best-selling games of the year, according to analysts.",
-      "url": "https://www.ign.com/articles/14-years-after-its-release-call-of-duty-black-ops-2-is-one-of-2026s-best-selling-games-according-to-analysts",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-05T17:39:07+00:00"
-    },
-    {
-      "id": "7430c38140fe0387ac8eb393",
-      "title": "Pokémon Developer Game Freak Promises Fixes 'Within a Week' To Its Big Budget RPG Beast of Reincarnation, Following Mixed Response at Launch",
-      "summary": "Game Freak has promised a series of quick fixes after a mixed response to the launch of its big budget RPG Beast of Reincarnation.",
-      "url": "https://www.ign.com/articles/pokmon-developer-game-freak-promises-fixes-within-a-week-to-its-big-budget-rpg-beast-of-reincarnation-following-mixed-response-at-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-05T16:32:25+00:00"
-    },
-    {
-      "id": "7a969982e71c8d6cdc7bf682",
-      "title": "Xbox Console Updates Adding New Capture and Achievement Features",
-      "summary": "Xbox has announced another set of new console features, which will begin rolling out to some users from today.",
-      "url": "https://www.ign.com/articles/xbox-console-updates-adding-new-capture-and-achievement-features",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-05T16:31:47+00:00"
     },
     {
       "id": "15edb886b82235c905feb862",
@@ -902,6 +913,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-31T15:23:12+00:00"
+    },
+    {
+      "id": "b5c7100de2c1b152d727eff8",
+      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-07-31T01:31:50+00:00"
     },
     {
       "id": "edbbf30e9a56fb15f4aa9084",
