@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-06T01:46:05.819498+00:00",
+  "updatedAt": "2026-08-06T04:57:18.151876+00:00",
   "items": [
+    {
+      "id": "e7f2e431b3ee877e486aa7fd",
+      "title": "Meta lance Muse Code, son IA capable d’écrire des logiciels de façon autonome",
+      "summary": "Meta mise sur des tarifs agressifs pour imposer son nouvel outil d’intelligence artificielle sur le marché lucratif de la programmation automatisée, dominé par Anthropic et OpenAI.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/06/meta-lance-muse-code-son-ia-capable-d-ecrire-des-logiciels-de-facon-autonome_6739638_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-06T03:40:42+00:00"
+    },
+    {
+      "id": "82817d62d45a6d7154299cfd",
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T02:33:33+00:00"
+    },
     {
       "id": "287ff0ddc7234e46ebadb7c3",
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
@@ -11,6 +33,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-06T01:19:59+00:00"
+    },
+    {
+      "id": "c8e39bcec13096e2aaf55dd9",
+      "title": "'This Is Not Cool' — BMW Owners Are Annoyed Over a New Spider-Man Ad Forced Into Their Cars",
+      "summary": "BMW owners have discovered that a Spider-Man: Brand New Day ad has been forcefully added to their car's infotainment system.",
+      "url": "https://www.ign.com/articles/this-is-not-cool-bmw-owners-are-annoyed-over-a-new-spider-man-ad-forced-into-their-cars",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-06T00:59:00+00:00"
     },
     {
       "id": "325f3e47f79f928b86da8529",
@@ -44,6 +77,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-05T23:56:29+00:00"
+    },
+    {
+      "id": "d515a9a70f80ac59f6ba0396",
+      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+      "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
+      "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-05T23:28:06+00:00"
     },
     {
       "id": "0a4300bdb2ae31ece25f1979",
@@ -310,17 +354,6 @@
       "publishedAt": "2026-08-05T16:31:47+00:00"
     },
     {
-      "id": "8483105c7002b462f3fbacb9",
-      "title": "Amazon Knocks the LEGO Icons Transformers: Soundwave Set Down to a New All-Time Low Price",
-      "summary": "The LEGO Icons Transformers: Soundwave set has hit its lowest price yet at Amazon of $163.99. Don't miss out on the chance to save $26 on this build we called \"a beautiful 80s dream come true.\"",
-      "url": "https://www.ign.com/articles/amazon-knocks-the-lego-icons-transformers-soundwave-set-down-to-a-new-all-time-low-price",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-05T16:25:49+00:00"
-    },
-    {
       "id": "15edb886b82235c905feb862",
       "title": "El-Sayed's victory sends tremors through Democratic Party",
       "summary": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
@@ -451,17 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-05T11:19:24+00:00"
-    },
-    {
-      "id": "bddcda6d98a6251a9d58ff1b",
-      "title": "Mexican influencer shot dead during livestream",
-      "summary": "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-05T11:00:47+00:00"
     },
     {
       "id": "d49836fbed5d60c9d2d6c0f0",
@@ -627,17 +649,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-04T10:22:40+00:00"
-    },
-    {
-      "id": "0ecb031427857bd9dd6b9205",
-      "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
-      "summary": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
-      "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T09:18:03+00:00"
     },
     {
       "id": "3923c3aa1f00225f351efe47",
@@ -814,17 +825,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-31T15:23:12+00:00"
-    },
-    {
-      "id": "ec8a535a583fc4067d6da277",
-      "title": "En 2018, les frères Guillemot d’Ubisoft contre les « Bolloré boys » de Vivendi",
-      "summary": "« La saga Ubisoft » (5/6). Au terme de plus de deux ans d’un feuilleton à rebondissements démarré en 2015, Vivendi échoue à mettre la main sur l’entreprise de jeux vidéo.",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/31/en-2018-les-freres-guillemot-d-ubisoft-contre-les-bollore-boys-de-vivendi_6737090_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-07-31T04:00:30+00:00"
     },
     {
       "id": "b5c7100de2c1b152d727eff8",
