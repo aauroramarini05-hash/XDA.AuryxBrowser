@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-08-06T04:57:18.151876+00:00",
+  "updatedAt": "2026-08-06T07:36:06.554949+00:00",
   "items": [
     {
-      "id": "e7f2e431b3ee877e486aa7fd",
-      "title": "Meta lance Muse Code, son IA capable d’écrire des logiciels de façon autonome",
-      "summary": "Meta mise sur des tarifs agressifs pour imposer son nouvel outil d’intelligence artificielle sur le marché lucratif de la programmation automatisée, dominé par Anthropic et OpenAI.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/06/meta-lance-muse-code-son-ia-capable-d-ecrire-des-logiciels-de-facon-autonome_6739638_4408996.html",
+      "id": "d72fc0ae2c7b381c238b4a09",
+      "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
+      "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-06T03:40:42+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T07:27:17+00:00"
+    },
+    {
+      "id": "e665570ba60fe0f01b0309d2",
+      "title": "Outrage as Ugandan football captain murdered in street gang attack",
+      "summary": "The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T06:04:28+00:00"
     },
     {
       "id": "82817d62d45a6d7154299cfd",
@@ -21,7 +32,84 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-06T02:33:33+00:00"
+      "publishedAt": "2026-08-06T05:53:58+00:00"
+    },
+    {
+      "id": "e85d0174c8e6c441106c90bd",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+      "url": "https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-06T05:29:27+00:00"
+    },
+    {
+      "id": "d878c3b3ac4f222bad35587e",
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-06T05:00:54+00:00"
+    },
+    {
+      "id": "e262400a27c7b9882295e3db",
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T05:00:54+00:00"
+    },
+    {
+      "id": "28408781b187ff667e95f69a",
+      "title": "Moment first rare tiger in 70 years released in Kazakhstan",
+      "summary": "Umit, a female Amur tiger, has been released as part of a programme to restore the animal's population, which was wiped out in central Asia a century ago.",
+      "url": "https://www.bbc.co.uk/news/videos/cd7l4zrr2qlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T04:59:30+00:00"
+    },
+    {
+      "id": "86df5a81d57403726d483029",
+      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T04:44:22+00:00"
+    },
+    {
+      "id": "d80be93377cdaa9caf9fb196",
+      "title": "Nigerian security forces rescue more than 300 abductees",
+      "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T04:35:33+00:00"
+    },
+    {
+      "id": "e7f2e431b3ee877e486aa7fd",
+      "title": "Meta lance Muse Code, son IA capable d’écrire des logiciels de façon autonome",
+      "summary": "Meta mise sur des tarifs agressifs pour imposer son nouvel outil d’intelligence artificielle sur le marché lucratif de la programmation automatisée, dominé par Anthropic et OpenAI.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/06/meta-lance-muse-code-son-ia-capable-d-ecrire-des-logiciels-de-facon-autonome_6739638_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-06T03:40:41+00:00"
     },
     {
       "id": "287ff0ddc7234e46ebadb7c3",
@@ -136,7 +224,7 @@
     {
       "id": "3d517c7b768f48204dc28e77",
       "title": "Infantino sorry for errors but stays Fifa president",
-      "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+      "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -607,17 +695,6 @@
       "publishedAt": "2026-08-04T19:07:19+00:00"
     },
     {
-      "id": "cf948aa6ade4144e0625b8ac",
-      "title": "Watch: Evacuations as Guatemala volcano erupts",
-      "summary": "The Fuego volcano is located near Escuintla, Chimaltenango, and Sacatepéquez.",
-      "url": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T16:50:07+00:00"
-    },
-    {
       "id": "be22a6cb2b2b5ae6bf257594",
       "title": "Crise de Ceuta : l’impossible quête des origines de la rumeur d’une ouverture de la frontière",
       "summary": "Les messages et vidéos publiés sur Facebook, TikTok ou Instagram semblent avoir largement contribué à l’afflux de candidats à l’exil à Ceuta, fin juillet. A ce stade, rien ne prouve qu’il ait pu s’agir d’une opération de déstabilisation.",
@@ -825,28 +902,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-07-31T15:23:12+00:00"
-    },
-    {
-      "id": "b5c7100de2c1b152d727eff8",
-      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-31T01:31:50+00:00"
-    },
-    {
-      "id": "29a836bd0ce34451517af7bf",
-      "title": "How police are trying to divert teen hackers away from crime",
-      "summary": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-31T00:42:48+00:00"
     },
     {
       "id": "edbbf30e9a56fb15f4aa9084",
