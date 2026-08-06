@@ -1,16 +1,49 @@
 {
-  "updatedAt": "2026-08-06T10:29:07.246624+00:00",
+  "updatedAt": "2026-08-06T12:51:04.149524+00:00",
   "items": [
     {
-      "id": "caaa2a3c971a92c0d1b8007b",
-      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+      "id": "d010035ca57824b9e5e01bf8",
+      "title": "Man charged with killing Scottish aid worker in Greece",
       "summary": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
       "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-06T10:27:08+00:00"
+      "publishedAt": "2026-08-06T12:25:05+00:00"
+    },
+    {
+      "id": "890266c80c8fda7eb5ebe8bc",
+      "title": "Japanese Anime Fan Arrested After Canceling Naruto and One Piece Merchandise Orders Worth $2.7 Million",
+      "summary": "Tokyo police have arrested a woman for obstructing the business of anime company Shueisha, after she allegedly ordered — then canceled — more than 4.3 billion yen's worth of Naruto and One Piece merchandise.",
+      "url": "https://www.ign.com/articles/japanese-anime-fan-arrested-after-canceling-naruto-and-one-piece-merchandise-orders-worth-27-million",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-06T10:58:06+00:00"
+    },
+    {
+      "id": "a3591c7e5d5d8143c0400ed2",
+      "title": "Roblox Blames Falling Player Numbers and In-Game Spending on Its Push to Recommend Less Slop to Kids — And There Being No Replacement for Last Year's Viral Hit Grow a Garden",
+      "summary": "Roblox player numbers and in-game spending have fallen sharply from their peak last summer, when the gaming platform hosted viral hits such as Grow a Garden and Steal the Brainrot.",
+      "url": "https://www.ign.com/articles/roblox-blames-falling-player-numbers-and-in-game-spending-on-its-push-to-recommend-less-slop-to-kids-and-there-being-no-replacement-for-last-years-viral-hit-grow-a-garden",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-06T10:49:02+00:00"
+    },
+    {
+      "id": "86ce51d55b3ae2cdac04c7a5",
+      "title": "Last Chance: Get Up to a £20 Argos Gift Card on PS5 Games Today",
+      "summary": "Today is your last chance to score up to a £20 free Argos gift card on PS5 games, including GTA 6 preorders. Do not miss out before the deal expires tonight.",
+      "url": "https://www.ign.com/articles/argos-ps5-games-gift-card-deal-ends-today",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-06T10:19:33+00:00"
     },
     {
       "id": "b3224a1987d12bf7526be042",
@@ -376,28 +409,6 @@
       "publishedAt": "2026-08-05T19:42:38+00:00"
     },
     {
-      "id": "707d5f82345c6c09ffa22b7b",
-      "title": "Grab a Refurb Switch 2 for $399 Ahead of Next Month's Price Hike",
-      "summary": "This \"grade A\" refurbished\" Switch 2 console is just $399 ahead of Nintendo's upcoming price hike.",
-      "url": "https://www.ign.com/articles/grab-a-refurb-switch-2-for-399-ahead-of-next-months-price-hike",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-05T19:08:31+00:00"
-    },
-    {
-      "id": "0abae798c47d1bf615b42f55",
-      "title": "This Unique 'Solo Journaling RPG' Has a Kickstarter Campaign that's Ending Soon",
-      "summary": "This unique 'solo journaling RPG' comes in the form of an advent calendar, and the Kickstarter campaign is ending soon.",
-      "url": "https://www.ign.com/articles/this-unique-solo-journaling-rpg-has-a-kickstarter-campaign-thats-ending-soon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-05T19:02:21+00:00"
-    },
-    {
       "id": "8ccffeda7d88ca25524d3b79",
       "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
       "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
@@ -418,17 +429,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-05T19:00:32+00:00"
-    },
-    {
-      "id": "f13d376fed408f1936e33064",
-      "title": "Today’s Top Deals: Refurbished Switch 2 Console, LEGO Mario Kart, and Beats Solo 4 Headphones",
-      "summary": "Plus, score the GTA Trilogy on Xbox for $12, more LEGO deals, and other incredible discounts.",
-      "url": "https://www.ign.com/articles/best-deals-for-august-5-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-05T18:55:16+00:00"
     },
     {
       "id": "d3461e1bce2daada7c6adf4b",
@@ -879,7 +879,7 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-08-01T00:00:12+00:00"
+      "publishedAt": "2026-08-01T01:00:12+00:00"
     },
     {
       "id": "f6ebc26b35129615bef1b456",
