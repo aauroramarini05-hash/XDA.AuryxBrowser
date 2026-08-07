@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T04:48:14.274053+00:00",
+  "updatedAt": "2026-08-07T06:04:39.682085+00:00",
   "items": [
     {
       "id": "3f84109a8e83de2ef7598a84",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-07T04:02:18+00:00"
+      "publishedAt": "2026-08-07T05:44:29+00:00"
+    },
+    {
+      "id": "d3d98f735af27f756ac798ca",
+      "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+      "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
+      "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-07T04:52:19+00:00"
     },
     {
       "id": "fb461ee84694ec64c81f69f5",
@@ -35,15 +46,15 @@
       "publishedAt": "2026-08-07T01:57:02+00:00"
     },
     {
-      "id": "5ddae52c4cb0282d735b4762",
-      "title": "Meta condamné à verser 567 millions de dollars supplémentaires au Nouveau-Mexique pour protéger les mineurs sur Facebook et Instagram",
+      "id": "352c1f7a9710d9cbecae57e0",
+      "title": "Meta condamnée au Nouveau-Mexique à verser 567 millions de dollars supplémentaires pour la protection des mineurs sur Facebook et Instagram",
       "summary": "La somme, qui doit financer sur cinq ans des programmes de santé mentale et de prévention pour les jeunes, s’ajoute aux 375 millions de dollars de pénalités civiles infligées en mars.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/07/meta-condamne-a-verser-567-millions-de-dollars-supplementaires-au-nouveau-mexique-pour-proteger-les-mineurs-sur-facebook-et-instagram_6740345_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-07T01:42:12+00:00"
+      "publishedAt": "2026-08-07T01:42:06+00:00"
     },
     {
       "id": "bbd922afb532518c0ea6d6b2",
@@ -70,7 +81,7 @@
     {
       "id": "4b5b6e3158e99c43a223e028",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
@@ -264,6 +275,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-06T21:54:35+00:00"
+    },
+    {
+      "id": "e57c464844fa49c89a4ceb4b",
+      "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
+      "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
+      "url": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T21:49:48+00:00"
     },
     {
       "id": "0ff3a09c5ec650072a5d5be0",
@@ -563,17 +585,6 @@
       "publishedAt": "2026-08-06T15:00:07+00:00"
     },
     {
-      "id": "dc332585722d6068c519d2ec",
-      "title": "Employees make plans for a windfall as SpaceX shares are unlocked",
-      "summary": "SpaceX's shares are unlocked Thursday, and some early employees could see a massive windfall. The BBC's Samira Hussain explains.",
-      "url": "https://www.bbc.co.uk/news/videos/c1e145p5xw5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T14:51:37+00:00"
-    },
-    {
       "id": "d878c3b3ac4f222bad35587e",
       "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
       "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
@@ -651,17 +662,6 @@
       "publishedAt": "2026-08-06T09:49:24+00:00"
     },
     {
-      "id": "75367b08c534717f7967c82d",
-      "title": "Iranian footballers who defied Tehran become Australian citizens",
-      "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T09:04:17+00:00"
-    },
-    {
       "id": "fc5c940ece4b8f0b24dc648c",
       "title": "Air India's new CEO faces financial and safety turbulence",
       "summary": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
@@ -693,17 +693,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-06T05:00:54+00:00"
-    },
-    {
-      "id": "28408781b187ff667e95f69a",
-      "title": "Moment first rare tiger in 70 years released in Kazakhstan",
-      "summary": "Umit, a female Amur tiger, has been released as part of a programme to restore the animal's population, which was wiped out in central Asia a century ago.",
-      "url": "https://www.bbc.co.uk/news/videos/cd7l4zrr2qlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T04:59:30+00:00"
     },
     {
       "id": "86df5a81d57403726d483029",
