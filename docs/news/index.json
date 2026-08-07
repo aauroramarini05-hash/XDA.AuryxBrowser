@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-07T02:10:27.737792+00:00",
+  "updatedAt": "2026-08-07T04:48:14.274053+00:00",
   "items": [
+    {
+      "id": "3f84109a8e83de2ef7598a84",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-07T04:02:18+00:00"
+    },
+    {
+      "id": "fb461ee84694ec64c81f69f5",
+      "title": "Présidentielle 2027 : Glucksmann, Attal, Philippe… les ingérences russes s’invitent dans la campagne",
+      "summary": "Même si les récents actes de désinformation, souvent invraisemblables et à très faible retentissement sur le débat public, semblent inoffensifs, le candidat de Place publique et celui de Renaissance s’en sont inquiétés publiquement. Le gouvernement veut faire adopter un projet de loi à l’automne.",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/07/presidentielle-2027-glucksmann-attal-philippe-les-ingerences-russes-s-invitent-dans-la-campagne_6740451_823448.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-07T03:31:37+00:00"
+    },
     {
       "id": "9d3cc0c405bcd44facf8d657",
       "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
@@ -24,9 +46,20 @@
       "publishedAt": "2026-08-07T01:42:12+00:00"
     },
     {
+      "id": "bbd922afb532518c0ea6d6b2",
+      "title": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
+      "summary": "Officials are still working to contain the blazes that have burned down at least 860 buildings, including hundreds of homes.",
+      "url": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-07T01:10:58+00:00"
+    },
+    {
       "id": "4e209cf3b74fe4f0d871d365",
       "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
+      "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
       "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -55,6 +88,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-07T00:51:40+00:00"
+    },
+    {
+      "id": "92b1fcb42e90753fc503c91e",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-07T00:34:14+00:00"
     },
     {
       "id": "d694bb4bed42a63bd11c31fe",
@@ -187,6 +231,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-06T22:31:18+00:00"
+    },
+    {
+      "id": "6204f1ad8729892afa46d546",
+      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "summary": "Cortis's plea has drawn mixed reactions in a fandom that's obsessed with capturing every moment.",
+      "url": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-06T22:07:11+00:00"
     },
     {
       "id": "debdec263abf52988ef9b5c1",
@@ -662,17 +717,6 @@
       "publishedAt": "2026-08-06T04:44:22+00:00"
     },
     {
-      "id": "d80be93377cdaa9caf9fb196",
-      "title": "Nigerian security forces rescue more than 300 abductees",
-      "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T04:35:33+00:00"
-    },
-    {
       "id": "e7f2e431b3ee877e486aa7fd",
       "title": "Meta lance Muse Code, son IA capable d’écrire des logiciels de façon autonome",
       "summary": "Meta mise sur des tarifs agressifs pour imposer son nouvel outil d’intelligence artificielle sur le marché lucratif de la programmation automatisée, dominé par Anthropic et OpenAI.",
@@ -715,17 +759,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-05T22:00:32+00:00"
-    },
-    {
-      "id": "878a4d20c8f812b4574e3d3d",
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-05T18:19:51+00:00"
     },
     {
       "id": "15edb886b82235c905feb862",
@@ -871,17 +904,6 @@
       "publishedAt": "2026-08-04T23:13:01+00:00"
     },
     {
-      "id": "36772db4a014d34088a3e168",
-      "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-      "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T22:09:50+00:00"
-    },
-    {
       "id": "31fa2bc8ec01fd6c9971ab2e",
       "title": "Tech Life",
       "summary": "Electric power is one of several cleaner alternatives to traditional aviation fuel.",
@@ -1001,17 +1023,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-02T05:28:29+00:00"
-    },
-    {
-      "id": "bd445105f07558aa79cee135",
-      "title": "Les IA vont-elles tuer les liens hypertextes, ces briques fondamentales du Web ?",
-      "summary": "Qu’il s’agisse des chatbots comme ChatGPT ou des « aperçus IA » récemment lancés par Google, la promesse de l’intelligence artificielle est la même : fournir à l’internaute tout ce dont il a besoin, sans qu’il ait à prendre la peine de cliquer sur des liens. Ces derniers sont-ils, dès lors, devenus obsolètes ?",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/02/les-ia-vont-elles-tuer-les-liens-hypertextes-ces-briques-fondamentales-du-web_6737265_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-02T04:30:15+00:00"
     },
     {
       "id": "742f8bb2c32aaf3640e7b7a1",
