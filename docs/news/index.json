@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:38:08.471264+00:00",
+  "updatedAt": "2026-08-07T12:41:42.608782+00:00",
   "items": [
     {
       "id": "ff0a3d50b74f1b04c5f66192",
@@ -10,7 +10,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-07T11:15:58+00:00"
+      "publishedAt": "2026-08-07T12:02:28+00:00"
+    },
+    {
+      "id": "342c3e37d0fbdfc840ce430c",
+      "title": "Amazon Knocks $10 off Physical Nintendo Switch Sports Resort Preorders",
+      "summary": "Amazon has knocked $10 off Nintendo Switch Sports Resort preorders for Switch 2 again, matching digital pricing ahead of its October launch this year.",
+      "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-preorder-deal-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-07T11:49:55+00:00"
+    },
+    {
+      "id": "29278ca47fdb94d7d6f01b62",
+      "title": "LEGO Harry Potter Celebrates 25 Years With Ministry of Magic Set, and The First-Ever Minifigure of a Specific Character",
+      "summary": "LEGO will celebrate a quarter century of its Harry Potter range with the launch of a new Ministry of Magic set, featuring the first-ever Minifigure of Arabella Figg.",
+      "url": "https://www.ign.com/articles/lego-harry-potter-celebrates-25-years-with-ministry-of-magic-set-and-the-first-ever-minifigure-of-a-specific-character",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-07T11:37:08+00:00"
+    },
+    {
+      "id": "22bfa90a4a02d4c851bcfbec",
+      "title": "Brainrot Royale Brings Some Of The Internet’s Wildest Characters To PUBG MOBILE’s World of Wonder",
+      "summary": "",
+      "url": "https://www.ign.com/articles/brainrot-royale-brings-some-of-the-internets-wildest-characters-to-pubg-mobiles-world-of-wonder",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-07T11:31:39+00:00"
+    },
+    {
+      "id": "a05e91a31bf5a1fa67c44f51",
+      "title": "Rockstar Owner Take-Two Confirms GTA 6 Release Date Still on Track, Says 'GTA 6: An Extended Look' Will Help Grow 'Consumers' Passion and Anticipation'",
+      "summary": "Rockstar owner Take-Two has confirmed the current November 19 GTA 6 release date is still on track, and insisted the upcoming Grand Theft Auto VI: An Extended Look will help grow “consumers’ passion and anticipation\" for the game.",
+      "url": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-07T11:30:00+00:00"
     },
     {
       "id": "dbbb85ced728b36540bad518",
@@ -44,6 +88,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-07T10:05:01+00:00"
+    },
+    {
+      "id": "3bef63751797d9ec275c0866",
+      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-07T09:50:54+00:00"
     },
     {
       "id": "c08e73a62334f181de719d60",
@@ -165,17 +220,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-07T01:10:58+00:00"
-    },
-    {
-      "id": "4e209cf3b74fe4f0d871d365",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T01:03:35+00:00"
     },
     {
       "id": "394c9c2a027679950e7c572f",
@@ -409,17 +453,6 @@
       "publishedAt": "2026-08-06T19:29:11+00:00"
     },
     {
-      "id": "850d20bc65ba2793603200c2",
-      "title": "We Build LEGO The Mandalorian's N-1 Starfighter, A Celebration of Star Wars Ship Design",
-      "summary": "We put together the big and gorgeous LEGO set based on The Mandalorian's N-1 Starfighter, with many thoughts about the series and what this ship means along the way.",
-      "url": "https://www.ign.com/articles/we-build-lego-the-mandalorians-n-1-starfighter-75442",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T19:15:45+00:00"
-    },
-    {
       "id": "6267297a89da532c63de3319",
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
@@ -431,28 +464,6 @@
       "publishedAt": "2026-08-06T18:53:51+00:00"
     },
     {
-      "id": "6d7284101095532a0aee3aff",
-      "title": "Sony Is Forcing PSSR 2.0 in Latest PS5 Pro Beta",
-      "summary": "",
-      "url": "https://www.ign.com/articles/sony-is-forcing-pssr-20-in-latest-ps5-pro-beta",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T18:50:30+00:00"
-    },
-    {
-      "id": "20d588a6987a83ca2bbd2f90",
-      "title": "Three First Print Copies of Pokemon Red, Blue, and Yellow Sell for $2 Million in Second-Largest Video Game Transaction Ever",
-      "summary": "Three first print Pokemon games are selling for an eye-watering $2 million to the owner of the Dubai Collection, one of the most prominent and highly-graded collections of video games and trading cards in the world.",
-      "url": "https://www.ign.com/articles/three-first-print-copies-of-pokemon-red-blue-and-yellow-sell-for-2-million-in-second-largest-video-game-transaction-ever",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T18:41:01+00:00"
-    },
-    {
       "id": "d75dc8bb15e40748ea8c5b97",
       "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
       "summary": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
@@ -462,17 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-06T18:37:12+00:00"
-    },
-    {
-      "id": "cb55b412d80f279c11e477f8",
-      "title": "'This Is Unbelievably Scummy' - GTA 6 Fans Are Annoyed By Netflix's Paywalled Extended Look at the Game",
-      "summary": "Grand Theft Auto 6 fans aren't thrilled with Rockstar's decision to release the next look at the game through Netflix.",
-      "url": "https://www.ign.com/articles/this-is-unbelievably-scummy-gta-6-fans-are-annoyed-by-netflixs-paywalled-extended-look-at-the-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T18:20:54+00:00"
     },
     {
       "id": "3734013aa5ca45e387b38a41",
@@ -530,17 +530,6 @@
       "publishedAt": "2026-08-06T15:59:34+00:00"
     },
     {
-      "id": "19cc244a2d30853c7aa4e828",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T15:41:05+00:00"
-    },
-    {
       "id": "242070df98c493e353bf1573",
       "title": "« Avec ses résumés rédigés par l’IA, Google ne vous redirige plus : il vous garde chez lui grâce à la marchandise des autres »",
       "summary": "Depuis le 22 juillet en France, les « aperçus IA » s’affichent en haut de chaque page de résultats du moteur de recherche. En captant la valeur produite par d’autres, le géant numérique se livre à une pratique parasitaire, explique l’avocat Cédric Dubucq, dans une tribune au « Monde ».",
@@ -572,17 +561,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-06T14:30:00+00:00"
-    },
-    {
-      "id": "3735c4d6de795494c194fc69",
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "summary": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T14:20:15+00:00"
     },
     {
       "id": "b243d185173017ff5e07499b",
