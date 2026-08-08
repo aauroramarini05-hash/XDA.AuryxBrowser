@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-08-08T04:05:01.956492+00:00",
+  "updatedAt": "2026-08-08T05:35:38.255327+00:00",
   "items": [
+    {
+      "id": "558e141d4ac726611bb62fd3",
+      "title": "Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
+      "summary": "La plainte dénonce « des faits d’ingérence étrangère, de manipulation de l’information, de fabrication de contenus truqués, susceptibles de porter atteinte aux intérêts fondamentaux de la nation et à la sincérité du scrutin présidentiel à venir ».",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-08T05:28:43+00:00"
+    },
+    {
+      "id": "c70ffb0f17daca6938836593",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T05:15:51+00:00"
+    },
+    {
+      "id": "08866790321f7b761e2c0883",
+      "title": "« Si en plus on nous enlève nos animaux mignons, on se sent trahis » : ce que les vidéos d’animaux générées par IA disent de nous et d’Internet",
+      "summary": "Les images d’adorables chatons, l’un des socles de la culture Internet, sont de plus en plus souvent générées par intelligence artificielle. Symptôme des évolutions du réseau des réseaux, elles provoquent des réactions contrastées.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/08/si-en-plus-on-nous-enleve-nos-animaux-mignons-on-se-sent-trahis-ce-que-les-videos-d-animaux-generees-par-ia-disent-de-nous-et-d-internet_6740822_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-08T04:15:09+00:00"
+    },
+    {
+      "id": "33c19916645c43c2c86f4ce8",
+      "title": "Scale of devastation shocks US city's fire-seasoned residents",
+      "summary": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T00:51:16+00:00"
+    },
+    {
+      "id": "a5237259bcb8fe5719b7c185",
+      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+      "summary": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
+      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T00:29:27+00:00"
+    },
+    {
+      "id": "31fcedebce147b21c254df28",
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T00:02:49+00:00"
+    },
     {
       "id": "7c54f7ea80aa35d0cb3f5408",
       "title": "Sega Is Auctioning Off Shadow The Hedgehog's Real-Life Motorcycle For a Good Cause",
@@ -33,6 +99,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-07T23:31:38+00:00"
+    },
+    {
+      "id": "32e5664d52d7c6c44269c437",
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-07T23:23:12+00:00"
     },
     {
       "id": "b402371d82b8a98dceb33c48",
@@ -275,6 +352,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-07T18:42:04+00:00"
+    },
+    {
+      "id": "93da982d2c5f7825ed4da15d",
+      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+      "summary": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
+      "url": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-07T18:06:58+00:00"
     },
     {
       "id": "52d36d9991f2330642d32441",
@@ -684,17 +772,6 @@
       "publishedAt": "2026-08-06T13:46:27+00:00"
     },
     {
-      "id": "e262400a27c7b9882295e3db",
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-06T05:00:54+00:00"
-    },
-    {
       "id": "e7f2e431b3ee877e486aa7fd",
       "title": "Meta lance Muse Code, son IA capable d’écrire des logiciels de façon autonome",
       "summary": "Meta mise sur des tarifs agressifs pour imposer son nouvel outil d’intelligence artificielle sur le marché lucratif de la programmation automatisée, dominé par Anthropic et OpenAI.",
@@ -706,17 +783,6 @@
       "publishedAt": "2026-08-06T03:40:41+00:00"
     },
     {
-      "id": "d515a9a70f80ac59f6ba0396",
-      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-      "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
-      "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-05T23:28:06+00:00"
-    },
-    {
       "id": "15dd34389490823e6ea22e51",
       "title": "AI or real? BBC analyses viral China disaster videos",
       "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
@@ -726,17 +792,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-05T22:00:32+00:00"
-    },
-    {
-      "id": "15edb886b82235c905feb862",
-      "title": "El-Sayed's victory sends tremors through Democratic Party",
-      "summary": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
-      "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-05T16:04:16+00:00"
     },
     {
       "id": "69234ac1414040c316b3b25e",
@@ -860,17 +915,6 @@
       "publishedAt": "2026-08-04T23:21:47+00:00"
     },
     {
-      "id": "3896edf968e2e653872b27c9",
-      "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
-      "summary": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-04T23:13:01+00:00"
-    },
-    {
       "id": "31fa2bc8ec01fd6c9971ab2e",
       "title": "Tech Life",
       "summary": "Electric power is one of several cleaner alternatives to traditional aviation fuel.",
@@ -924,28 +968,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-04T09:15:11+00:00"
-    },
-    {
-      "id": "b00f6037de3060dabd38f686",
-      "title": "Avec l’introduction des « aperçus IA », « le Web et les applications mobiles pourraient n’avoir été qu’une étape intermédiaire dans la transformation numérique »",
-      "summary": "La fonction AI Overviews de Google, au-delà des effets de son utilisation sur les visites de sites, transforme en profondeur la manière dont l’information est reconstituée et présentée. Elle donne aux modèles d’intelligence artificielle une puissance cognitive inédite, estime le chercheur Henri Isaac, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/04/avec-l-introduction-des-apercus-ia-le-web-et-les-applications-mobiles-pourraient-n-avoir-ete-qu-une-etape-intermediaire-dans-la-transformation-numerique_6738050_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-04T04:15:10+00:00"
-    },
-    {
-      "id": "dcb7e0aad6bccf4686384274",
-      "title": "Cinq jeux vidéo pour faire semblant de travailler pendant les vacances",
-      "summary": "Au diable les randonnées et les baignades : profitez des vacances pour travailler. Louer des cassettes, nettoyer une maison ou encore vendre des vinyles… Le service Pixels vous aide à choisir votre carrière virtuelle avec cette sélection de cinq « Job Simulator ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/04/cinq-jeux-video-pour-faire-semblant-de-travailler-pendant-les-vacances_6737842_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-04T02:30:05+00:00"
     },
     {
       "id": "c5c61119600e90420763415a",
