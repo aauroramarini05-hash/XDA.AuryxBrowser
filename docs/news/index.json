@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-08T12:28:31.005151+00:00",
+  "updatedAt": "2026-08-08T13:38:30.491444+00:00",
   "items": [
+    {
+      "id": "c70ffb0f17daca6938836593",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T13:29:38+00:00"
+    },
+    {
+      "id": "355fba0f6f02ec644a8ecfee",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T13:23:16+00:00"
+    },
+    {
+      "id": "6e425c3b982c8402d7d5508b",
+      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-08T12:36:29+00:00"
+    },
+    {
+      "id": "ad55c4d98ef1a891d78b53d0",
+      "title": "NBA forward Clarke's death due to effects of drugs",
+      "summary": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T12:05:04+00:00"
+    },
     {
       "id": "ccc92ececf5a1ed9b3309a09",
       "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
@@ -11,28 +55,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-08T12:01:42+00:00"
-    },
-    {
-      "id": "228f262ee1d591989a401b38",
-      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
-      "summary": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
-      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T10:19:46+00:00"
-    },
-    {
-      "id": "c70ffb0f17daca6938836593",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T06:12:56+00:00"
     },
     {
       "id": "94019e66f4c7d79f91a2e4a3",
@@ -189,9 +211,9 @@
       "publishedAt": "2026-08-07T22:09:12+00:00"
     },
     {
-      "id": "c142b3b5725774ad9eb557ba",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+      "id": "85d3866396921f20a37a0b06",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+      "summary": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
       "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -959,17 +981,6 @@
       "publishedAt": "2026-08-03T23:21:10+00:00"
     },
     {
-      "id": "d3329d902e067b753176247b",
-      "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
-      "summary": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-03T11:18:10+00:00"
-    },
-    {
       "id": "742f8bb2c32aaf3640e7b7a1",
       "title": "Tech Now",
       "summary": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
@@ -1036,10 +1047,10 @@
       "publishedAt": "2026-07-14T20:00:00+00:00"
     },
     {
-      "id": "c298791cad4488a93e1cd15f",
+      "id": "5fc4fe0ebd4e0d080dd319f4",
       "title": "Tech Now",
       "summary": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
