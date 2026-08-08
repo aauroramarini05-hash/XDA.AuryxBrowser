@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-08-08T17:21:02.311383+00:00",
+  "updatedAt": "2026-08-08T18:23:03.279546+00:00",
   "items": [
     {
-      "id": "6248e3ac26929b55a828acb1",
-      "title": "Bart Simpson Actress Nancy Cartwright Believes The Simpsons Will End With Season 40",
-      "summary": "The Simpsons may only have a few seasons left, according to Bart actress Nancy Cartwright.",
-      "url": "https://www.ign.com/articles/bart-simpson-actress-nancy-cartwright-believes-the-simpsons-will-end-with-season-40",
+      "id": "85abbad29b0ccdd658cee53f",
+      "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-08T16:46:02+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T18:13:49+00:00"
+    },
+    {
+      "id": "c70ffb0f17daca6938836593",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T18:06:25+00:00"
     },
     {
       "id": "7715aeb7e36a6cd226137401",
@@ -21,7 +32,40 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-08T16:34:18+00:00"
+      "publishedAt": "2026-08-08T17:58:42+00:00"
+    },
+    {
+      "id": "ad47eb5ad621aac6d0d6360e",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T17:23:31+00:00"
+    },
+    {
+      "id": "358605c47c327738b0cb72b0",
+      "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-august-8-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-08T17:21:43+00:00"
+    },
+    {
+      "id": "6248e3ac26929b55a828acb1",
+      "title": "Bart Simpson Actress Nancy Cartwright Believes The Simpsons Will End With Season 40",
+      "summary": "The Simpsons may only have a few seasons left, according to Bart actress Nancy Cartwright.",
+      "url": "https://www.ign.com/articles/bart-simpson-actress-nancy-cartwright-believes-the-simpsons-will-end-with-season-40",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-08T16:46:02+00:00"
     },
     {
       "id": "ff89e73c88f54a03f12c245c",
@@ -66,28 +110,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-08T15:51:11+00:00"
-    },
-    {
-      "id": "c70ffb0f17daca6938836593",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T15:49:41+00:00"
-    },
-    {
-      "id": "ad47eb5ad621aac6d0d6360e",
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T15:44:08+00:00"
     },
     {
       "id": "5da7dfc7973eda85a198a0ee",
@@ -442,17 +464,6 @@
       "publishedAt": "2026-08-07T19:04:26+00:00"
     },
     {
-      "id": "33057d16c649cd0dc34f5811",
-      "title": "Today’s Top Deals: Pokémon TCG Chaos Rising Booster Bundle, AMD Ryzen 7 9800X3D CPU, and DOOM The Dark Ages for PC",
-      "summary": "And don’t miss $60 off the AirPods Pro 3, LEGO discounts, and more",
-      "url": "https://www.ign.com/articles/best-deals-for-august-7-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-07T18:42:04+00:00"
-    },
-    {
       "id": "93da982d2c5f7825ed4da15d",
       "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
       "summary": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -572,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-07T01:42:06+00:00"
-    },
-    {
-      "id": "bbd922afb532518c0ea6d6b2",
-      "title": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
-      "summary": "Officials are still working to contain the blazes that have burned down at least 860 buildings, including hundreds of homes.",
-      "url": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T01:10:58+00:00"
     },
     {
       "id": "f23c7074ad6e4500efc7cf0c",
