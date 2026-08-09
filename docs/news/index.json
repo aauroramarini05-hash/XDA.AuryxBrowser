@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-09T09:29:57.757564+00:00",
+  "updatedAt": "2026-08-09T10:23:02.790151+00:00",
   "items": [
+    {
+      "id": "fc50b03dd3935407c72f92dc",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "summary": "The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-09T10:02:52+00:00"
+    },
     {
       "id": "030d1ea6ed2c6c91a344b541",
       "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
@@ -46,6 +57,17 @@
       "publishedAt": "2026-08-09T03:00:44+00:00"
     },
     {
+      "id": "619d8b54bc27be628c2c2af7",
+      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+      "summary": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-09T01:10:50+00:00"
+    },
+    {
       "id": "7aabfbeac6c2af70b4594822",
       "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
       "summary": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
@@ -88,6 +110,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-08T23:19:52+00:00"
+    },
+    {
+      "id": "8da4c8532b4c1230aa59ebd5",
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-08T22:06:44+00:00"
     },
     {
       "id": "7a32360d7111891b19f8ccf1",
@@ -297,39 +330,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-08T04:15:06+00:00"
-    },
-    {
-      "id": "33c19916645c43c2c86f4ce8",
-      "title": "Scale of devastation shocks US city's fire-seasoned residents",
-      "summary": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T00:51:16+00:00"
-    },
-    {
-      "id": "a5237259bcb8fe5719b7c185",
-      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-      "summary": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
-      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T00:29:27+00:00"
-    },
-    {
-      "id": "31fcedebce147b21c254df28",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T00:02:49+00:00"
     },
     {
       "id": "7c54f7ea80aa35d0cb3f5408",
@@ -596,17 +596,6 @@
       "publishedAt": "2026-08-07T14:30:08+00:00"
     },
     {
-      "id": "e721d21a5d1ec73dd2571598",
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T14:20:27+00:00"
-    },
-    {
       "id": "4b5b6e3158e99c43a223e028",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
@@ -616,17 +605,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-07T09:22:03+00:00"
-    },
-    {
-      "id": "ec64a0eb001a28fb6a32fd7f",
-      "title": "German airport drone-bomb: Could Russia be involved?",
-      "summary": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T08:48:16+00:00"
     },
     {
       "id": "aa34a019ff519d24bf98a8fe",
@@ -660,17 +638,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-07T01:42:06+00:00"
-    },
-    {
-      "id": "f23c7074ad6e4500efc7cf0c",
-      "title": "Sudan's invisible children - born in war with no legal identity",
-      "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T00:26:52+00:00"
     },
     {
       "id": "f500ef43cbabb7d1062678cc",
