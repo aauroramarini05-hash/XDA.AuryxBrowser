@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-10T17:43:24.042467+00:00",
+  "updatedAt": "2026-08-10T18:43:06.584454+00:00",
   "items": [
+    {
+      "id": "c46a47cf2d084013ad781d52",
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T18:28:11+00:00"
+    },
+    {
+      "id": "25fb65ea1bd552898ca79519",
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
+      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T18:24:45+00:00"
+    },
+    {
+      "id": "09726a75a92b5053a6178cbc",
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T18:19:41+00:00"
+    },
+    {
+      "id": "b53ce521f9ea5d91b2cbfbfc",
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T17:50:29+00:00"
+    },
+    {
+      "id": "b19fd93164e25536363d9d79",
+      "title": "Save 30% off One of the Coolest and Most Interactive Space-Themed LEGO Sets Ever",
+      "summary": "The LEGO Technic Planet Earth and Moon in Orbit 42179 is on sale for just $51.99.",
+      "url": "https://www.ign.com/articles/lego-technic-planet-earth-and-moon-in-orbit-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T17:50:00+00:00"
+    },
     {
       "id": "1de3641daee10772b1572ab1",
       "title": "Le témoignage d’une femme recueilli par « Le Monde » met en cause Guillaume Pley pour des messages à caractère sexuel lui étant adressés alors qu’elle était mineure",
@@ -11,6 +66,28 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-10T17:22:10+00:00"
+    },
+    {
+      "id": "cfcbd7935aea67bf73c2c290",
+      "title": "Amazon Discounts MTG Commander Decks From Marvel and Strixhaven",
+      "summary": "From assembling the Avengers to blighting your foes, here are the best Magic precon deals right now at Amazon.",
+      "url": "https://www.ign.com/articles/amazon-discounts-mtg-commander-decks-from-marvel-and-strixhaven",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T17:15:00+00:00"
+    },
+    {
+      "id": "5835fea20a4c9ff3299d5585",
+      "title": "Score up to 20% off Select 256GB microSD Express Cards at Amazon",
+      "summary": "A PNY 256GB microSD Express card and a SanDisk 256GB microSD express card have been discounted at Amazon, with the former dropping to $49.99 and the latter hitting $58.99.",
+      "url": "https://www.ign.com/articles/score-up-to-20-off-select-256gb-microsd-express-cards-at-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T17:00:00+00:00"
     },
     {
       "id": "dd4b73f51d369bbaa07558ca",
@@ -68,17 +145,6 @@
       "publishedAt": "2026-08-10T15:58:25+00:00"
     },
     {
-      "id": "25fb65ea1bd552898ca79519",
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T15:54:19+00:00"
-    },
-    {
       "id": "71afa7d36a398956719d94b6",
       "title": "Mark Zuckerberg signe un plaidoyer en faveur de l’IA et annonce un fonds pour les villes accueillant ses centres de données",
       "summary": "Le dirigeant de Meta, possédant Facebook, Instagram et WhatsApp, défend un accès le plus large possible à l’IA et propose que les entreprises développant une IA avancée collaborent avec les pouvoirs publics pour les enjeux de sécurité.",
@@ -132,6 +198,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-10T15:11:41+00:00"
+    },
+    {
+      "id": "41071afbd4550da368d20005",
+      "title": "The Alienware RTX 5090 Gaming PC Drops to $4,780, Nearly the Same Price as Buying the GPU By Itself",
+      "summary": "An RTX 5090 graphics card nowadays goes for at least $4,500 new and $4,000 used.",
+      "url": "https://www.ign.com/articles/dell-alienware-area-51-intel-edition-rtx-5090-gaming-pc-deal-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T15:10:00+00:00"
     },
     {
       "id": "4dc974759cb4b77fb1177aa5",
@@ -266,17 +343,6 @@
       "publishedAt": "2026-08-10T13:00:00+00:00"
     },
     {
-      "id": "c26bf8189beb9b27349103fd",
-      "title": "Battle for Mali base has killed dozens of militants, army says",
-      "summary": "The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison.",
-      "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T12:32:26+00:00"
-    },
-    {
       "id": "a1c53ee4deb57f2c963d9d05",
       "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
       "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
@@ -286,50 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T12:23:21+00:00"
-    },
-    {
-      "id": "4d0e849f321da5efc236cd11",
-      "title": "God of War Fans Agree Ryan Hurst's New Kratos Pic Looks Much Better Than Prime Video's Previous, Widely-Ridiculed Photo",
-      "summary": "God of War fans are reacting positively to a new photo of Ryan Hurst in costume as Kratos, as Prime Video seeks to secure his replacement.",
-      "url": "https://www.ign.com/articles/god-of-war-fans-agree-ryan-hursts-new-kratos-pic-looks-much-better-than-prime-videos-previous-widely-ridiculed-photo",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T12:01:16+00:00"
-    },
-    {
-      "id": "ea87708c8383e71e570b9fc6",
-      "title": "'We're Totally Supporting It' — Take-Two Boss Says Borderlands 4 Performance 'Has Not Affected Our Plans at All' as Fans Await Year 2 Roadmap",
-      "summary": "Take-Two boss Strauss Zelnick has insisted publisher 2K remains committed to Borderlands 4, and that the looter shooter's commercial performance hasn’t affected plans to support the game.",
-      "url": "https://www.ign.com/articles/were-totally-supporting-it-take-two-boss-says-borderlands-4-performance-has-not-affected-our-plans-at-all-as-fans-await-year-2-roadmap",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T11:45:19+00:00"
-    },
-    {
-      "id": "945289247f5e6e46d8f8ee02",
-      "title": "'It's Complicated': Daredevil Star Charlie Cox Responds to Spider-Man: Brand New Day, And The Punisher's Claim He's Never Had a Friend Like Peter Parker",
-      "summary": "Charlie Cox has been asked about a certain scene featuring Frank Castle in Spider-Man: Brand New Day.",
-      "url": "https://www.ign.com/articles/its-complicated-daredevil-star-charlie-cox-responds-to-spider-man-brand-new-day-and-the-punishers-claim-hes-never-had-a-friend-like-peter-parker",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T11:14:34+00:00"
-    },
-    {
-      "id": "29ec1a97ce94ed60bee2608e",
-      "title": "Burnout Revenge Is Actually the Best One",
-      "summary": "Burnout Revenge is actually the best one.",
-      "url": "https://www.ign.com/articles/burnout-revenge-is-actually-the-best-one",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T11:10:00+00:00"
     },
     {
       "id": "abc82a15f40f6eab96c79fd5",
@@ -343,17 +365,6 @@
       "publishedAt": "2026-08-10T10:24:46+00:00"
     },
     {
-      "id": "9d07bb2e22696c8895bbbb92",
-      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T09:33:25+00:00"
-    },
-    {
       "id": "0f66e5864565d6779aa7a7c9",
       "title": "China evacuates one million from homes as massive storm arrives",
       "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
@@ -363,17 +374,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T07:23:54+00:00"
-    },
-    {
-      "id": "7b2255f9bad2a2fd02d3df49",
-      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "summary": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T05:16:40+00:00"
     },
     {
       "id": "5d3189b0c87416d74494fd7c",
@@ -398,17 +398,6 @@
       "publishedAt": "2026-08-10T03:45:19+00:00"
     },
     {
-      "id": "a28344ebc1f3a3bc80077a79",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "summary": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T03:33:51+00:00"
-    },
-    {
       "id": "6fcf063af5c0556cc17b3c12",
       "title": "Evidence that South African special forces murdered top detective shared with BBC",
       "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
@@ -429,39 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-09T21:26:56+00:00"
-    },
-    {
-      "id": "e32e111e495ab2bf17486afb",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-09T21:25:04+00:00"
-    },
-    {
-      "id": "8414a62576309707efedae96",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-09T16:18:10+00:00"
-    },
-    {
-      "id": "051adddfe3559a1afc4d5719",
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-09T12:27:26+00:00"
     },
     {
       "id": "b52c16502aa7c3e5af345bae",
