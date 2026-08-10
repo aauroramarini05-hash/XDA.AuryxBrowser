@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T23:21:23.638329+00:00",
+  "updatedAt": "2026-08-10T01:03:14.112309+00:00",
   "items": [
     {
       "id": "a28344ebc1f3a3bc80077a79",
@@ -10,7 +10,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-09T22:27:53+00:00"
+      "publishedAt": "2026-08-10T00:17:46+00:00"
+    },
+    {
+      "id": "4c742084755dfa108d2d08d5",
+      "title": "Warner Bros. Stirs Controversy After Posting 'Embarrassing' AI Dog Podcast for The End of Oak Street",
+      "summary": "Warner Bros. is under fire after it collaborated with an AI dog podcast to promote Ewan McGregor and Anne Hathaway's new movie, The End of Oak Street.",
+      "url": "https://www.ign.com/articles/warner-bros-stirs-controversy-after-posting-embarrassing-ai-dog-podcast-for-the-end-of-oak-street",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-09T23:26:38+00:00"
+    },
+    {
+      "id": "6fcf063af5c0556cc17b3c12",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-09T23:05:29+00:00"
     },
     {
       "id": "2d43bdc49c8885754e830a0e",
@@ -22,6 +44,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-09T22:02:57+00:00"
+    },
+    {
+      "id": "3de604bac6da109f7be93285",
+      "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+      "summary": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
+      "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-09T21:26:56+00:00"
     },
     {
       "id": "e32e111e495ab2bf17486afb",
@@ -310,17 +343,6 @@
       "publishedAt": "2026-08-08T18:06:25+00:00"
     },
     {
-      "id": "7715aeb7e36a6cd226137401",
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T17:58:42+00:00"
-    },
-    {
       "id": "358605c47c327738b0cb72b0",
       "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
       "summary": "",
@@ -508,17 +530,6 @@
       "publishedAt": "2026-08-07T22:26:55+00:00"
     },
     {
-      "id": "f7f5c73ba424e57fef2ac992",
-      "title": "Madden NFL 27 Review So Far",
-      "summary": "The gridiron calls once again.",
-      "url": "https://www.ign.com/articles/madden-nfl-27-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-07T22:09:12+00:00"
-    },
-    {
       "id": "9fd2502e4ebb0b7ac25b9194",
       "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
       "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
@@ -528,17 +539,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-07T21:24:17+00:00"
-    },
-    {
-      "id": "811212f7058b900ec04eb6ba",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T21:19:27+00:00"
     },
     {
       "id": "cc062206dd67176c1bb71b2f",
@@ -552,39 +552,6 @@
       "publishedAt": "2026-08-07T21:06:50+00:00"
     },
     {
-      "id": "4b817ac3041cbf4868e0155d",
-      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T20:40:56+00:00"
-    },
-    {
-      "id": "93da982d2c5f7825ed4da15d",
-      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
-      "summary": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
-      "url": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T18:06:58+00:00"
-    },
-    {
-      "id": "ff0a3d50b74f1b04c5f66192",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T17:42:54+00:00"
-    },
-    {
       "id": "9c8cb9e32c5c3e9f22b80994",
       "title": "What we know so far about the deadly Thailand shooting",
       "summary": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
@@ -594,17 +561,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-07T17:17:36+00:00"
-    },
-    {
-      "id": "1e5c1f692b2371e2b72fc303",
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T16:13:45+00:00"
     },
     {
       "id": "310e60fa060360f43d655b07",
@@ -627,17 +583,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-07T09:22:03+00:00"
-    },
-    {
-      "id": "aa34a019ff519d24bf98a8fe",
-      "title": "Moment earthquake shakes hospital operating room in Japan",
-      "summary": "Security camera footage shows doctors shielding a patient on the operating table as last month's magnitude 6.8 quake shook Kumamoto General Hospital.",
-      "url": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-07T06:46:34+00:00"
     },
     {
       "id": "fb461ee84694ec64c81f69f5",
