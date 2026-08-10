@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-10T03:44:02.490640+00:00",
+  "updatedAt": "2026-08-10T05:16:50.918005+00:00",
   "items": [
+    {
+      "id": "5d3189b0c87416d74494fd7c",
+      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-10T05:00:32+00:00"
+    },
+    {
+      "id": "bf26ccd3a3d471a3ebb9e7af",
+      "title": "Réseaux sociaux : « Nous pouvons concevoir un environnement numérique qui soutienne le bien-être »",
+      "summary": "Plutôt que d’interdire ou de limiter l’accès aux plateformes numériques, la psychologue Hedda van ’t Land estime, dans une tribune au « Monde », que les autorités devraient réfléchir à l’environnement numérique comme à un enjeu majeur de santé publique.",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/10/reseaux-sociaux-nous-pouvons-concevoir-un-environnement-numerique-qui-soutienne-le-bien-etre_6743045_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-10T03:45:19+00:00"
+    },
     {
       "id": "a28344ebc1f3a3bc80077a79",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
@@ -11,6 +33,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T03:33:51+00:00"
+    },
+    {
+      "id": "92cf2857721e6486d4c7317e",
+      "title": "One Night Only Director Cut 'So Much Nudity' from Film Because Audiences Now Dislike Seeing It",
+      "summary": "Director Will Gluck revealed that he “cut out so much” nudity from One Night Only because he believes modern movie audiences are now too uncomfortable seeing it on screen.",
+      "url": "https://www.ign.com/articles/one-night-only-director-cut-so-much-nudity-from-film-because-audiences-now-dislike-seeing-it",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T03:11:54+00:00"
     },
     {
       "id": "21fa821c5a05050650368af8",
@@ -519,17 +552,6 @@
       "publishedAt": "2026-08-07T23:23:12+00:00"
     },
     {
-      "id": "b402371d82b8a98dceb33c48",
-      "title": "Dwayne Johnson Reacts to Negative Moana Reviews After Disney's Live-Action Remake Bombs",
-      "summary": "Dwayne \"The Rock\" Johnson shared his thoughts about the negative reviews for Disney's live-action Moana remake after it floundered in theaters.",
-      "url": "https://www.ign.com/articles/dwayne-johnson-reacts-to-negative-moana-reviews-after-disneys-live-action-remake-bombs",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-07T22:33:00+00:00"
-    },
-    {
       "id": "9fd2502e4ebb0b7ac25b9194",
       "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
       "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
@@ -849,17 +871,6 @@
       "publishedAt": "2026-08-04T14:15:07+00:00"
     },
     {
-      "id": "8b4227d96fbea309742ff269",
-      "title": "Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant et impliquant Léa Salamé, sa compagne, et Edwy Plenel",
-      "summary": "Le probable candidat à la présidentielle a expliqué que l’attaque le ciblant s’est faite par le biais d’un faux média, reprenant les codes exacts du site d’information « Blast », pour « diffuser une vidéo entièrement truquée ».",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/04/raphael-glucksmann-denonce-une-operation-russe-de-destabilisation-le-visant-et-impliquant-lea-salame-sa-compagne-et-edwy-plenel_6738489_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-04T11:15:44+00:00"
-    },
-    {
       "id": "0cf9d70496cf2d8c9234978c",
       "title": "Apple issues new challenge against UK order for access to private user data",
       "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
@@ -869,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-04T10:22:40+00:00"
-    },
-    {
-      "id": "c5c61119600e90420763415a",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-03T23:21:10+00:00"
     },
     {
       "id": "742f8bb2c32aaf3640e7b7a1",
