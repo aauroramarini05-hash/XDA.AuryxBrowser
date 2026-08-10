@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-08-10T12:46:27.471548+00:00",
+  "updatedAt": "2026-08-10T14:13:55.707344+00:00",
   "items": [
+    {
+      "id": "61577b732fc05446e8f671da",
+      "title": "'Expect Fake Messages': Valve Admits Steam Hardware Owners' Personal Data Likely Stolen",
+      "summary": "Valve has begun notifying recent Steam hardware customers of a personal data breach that may have exposed their name, address, phone number and email.",
+      "url": "https://www.ign.com/articles/expect-fake-messages-valve-admits-steam-hardware-owners-personal-data-likely-stolen",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T13:46:31+00:00"
+    },
+    {
+      "id": "808ae662a787c04c4384f904",
+      "title": "Ultra-Slim RFID-Blocking Wallets Drop to Just $3.49 at Amazon Using This Promo Code",
+      "summary": "This slim minimalist RFID-blocking wallet is down to just $3.49 at Amazon right now if you stack an on-page coupon with a secret promo code at checkout.",
+      "url": "https://www.ign.com/articles/ultra-slim-rfid-blocking-wallet-amazon-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T13:32:28+00:00"
+    },
+    {
+      "id": "a614daf728860159cd40ae07",
+      "title": "Bethesda Veteran Reveals How He Would Have Designed Starfield Differently",
+      "summary": "A former Bethesda developer who worked on Skyrim, Fallout 3, Fallout 4, and Fallout 76 has outlined how he would have designed Starfield had he been in charge of the game — and it sounds very different.",
+      "url": "https://www.ign.com/articles/bethesda-veteran-reveals-how-he-would-have-designed-starfield-differently",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T13:25:37+00:00"
+    },
+    {
+      "id": "ea73ad4a7972332a5864302e",
+      "title": "Penguin's Amazing Spider-Man Classic Collection Is on Sale",
+      "summary": "Save on Penguin’s The Amazing Spider-Man Classic Collection at Amazon. Get 12 iconic 1960s Stan Lee and Steve Ditko stories for under $25.",
+      "url": "https://www.ign.com/articles/penguin-spider-man-classic-collection-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T13:01:23+00:00"
+    },
+    {
+      "id": "e80b565c4040047b44308a83",
+      "title": "After a Decade of No Man's Sky, Players Have Explored Less Than 1% of the Planets",
+      "summary": "No Man’s Sky developer Hello Games is celebrating its 10-year anniversary with an eye-catching stat and a tease for the upcoming update.",
+      "url": "https://www.ign.com/articles/after-a-decade-of-no-mans-sky-players-have-explored-less-than-1-of-the-planets",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T13:00:00+00:00"
+    },
+    {
+      "id": "f0bc082e3a0e907d885b3773",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T12:54:13+00:00"
+    },
     {
       "id": "c26bf8189beb9b27349103fd",
       "title": "Battle for Mali base has killed dozens of militants, army says",
@@ -24,15 +90,15 @@
       "publishedAt": "2026-08-10T12:23:21+00:00"
     },
     {
-      "id": "f0bc082e3a0e907d885b3773",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "id": "4d0e849f321da5efc236cd11",
+      "title": "God of War Fans Agree Ryan Hurst's New Kratos Pic Looks Much Better Than Prime Video's Previous, Widely-Ridiculed Photo",
+      "summary": "God of War fans are reacting positively to a new photo of Ryan Hurst in costume as Kratos, as Prime Video seeks to secure his replacement.",
+      "url": "https://www.ign.com/articles/god-of-war-fans-agree-ryan-hursts-new-kratos-pic-looks-much-better-than-prime-videos-previous-widely-ridiculed-photo",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T12:13:22+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T12:01:16+00:00"
     },
     {
       "id": "ea87708c8383e71e570b9fc6",
@@ -180,7 +246,7 @@
     {
       "id": "7b2255f9bad2a2fd02d3df49",
       "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+      "summary": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
       "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -321,28 +387,6 @@
       "publishedAt": "2026-08-09T20:29:23+00:00"
     },
     {
-      "id": "60b33edd21d64c6a58e066f5",
-      "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-      "summary": "",
-      "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-09T20:26:42+00:00"
-    },
-    {
-      "id": "62c09b0aa8e36d1de2f0a402",
-      "title": "Spider-Man: Brand New Day Swings Closer to $2 Billion in Second Weekend in Theaters, The Odyssey Becomes Highest-Grossing Christopher Nolan Movie of All Time",
-      "summary": "August brought another standout weekend at the box office after Spider-Man: Brand New Day swung closer to $2 billion in theaters, and The Odyssey became the highest-grossing Christopher Nolan movie of all time.",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-swings-closer-to-2-billion-in-second-weekend-in-theaters-the-odyssey-becomes-highest-grossing-christopher-nolan-movie-of-all-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-09T18:45:09+00:00"
-    },
-    {
       "id": "8414a62576309707efedae96",
       "title": "Drones spotted over German base days after Leipzig bomb incident",
       "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
@@ -352,17 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-09T16:18:10+00:00"
-    },
-    {
-      "id": "a27436c9d47bae93bdfdd461",
-      "title": "Netflix Reportedly Delays The Witcher Season 5 to 2027",
-      "summary": "Geralt's return to Netflix seems to have been pushed back, as a new report has stated that The Witcher Season 5 has been delayed until 2027.",
-      "url": "https://www.ign.com/articles/netflix-reportedly-delays-the-witcher-season-5-to-2027",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-09T16:03:41+00:00"
     },
     {
       "id": "7102bb2b0d4cc222ea8826fc",
@@ -385,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-09T12:27:26+00:00"
-    },
-    {
-      "id": "2c570a2c60baea3ac4fe84fe",
-      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-      "summary": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
-      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-09T10:25:54+00:00"
     },
     {
       "id": "b52c16502aa7c3e5af345bae",
@@ -440,28 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-08T23:59:23+00:00"
-    },
-    {
-      "id": "4b3adcb2ed3b3f9bd1143eba",
-      "title": "Mortal Kombat Director 'Not Sure' About Return for Third Movie as Mortal Kombat 3 Remains in Limbo",
-      "summary": "Mortal Kombat movie director Simon McQuoid has cast doubt on his return to the franchise as work on a third movie remains in limbo.",
-      "url": "https://www.ign.com/articles/mortal-kombat-director-not-sure-about-return-for-third-movie-as-mortal-kombat-3-remains-in-limbo",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-08T23:19:52+00:00"
-    },
-    {
-      "id": "7a32360d7111891b19f8ccf1",
-      "title": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
-      "summary": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
-      "url": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-08T22:00:13+00:00"
     },
     {
       "id": "1c601905834bdb91fcd5f90a",
