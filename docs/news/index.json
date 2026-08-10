@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-10T16:43:13.883153+00:00",
+  "updatedAt": "2026-08-10T17:43:24.042467+00:00",
   "items": [
+    {
+      "id": "1de3641daee10772b1572ab1",
+      "title": "Le témoignage d’une femme recueilli par « Le Monde » met en cause Guillaume Pley pour des messages à caractère sexuel lui étant adressés alors qu’elle était mineure",
+      "summary": "« Le Monde » a pu consulter des conversations datées de 2011 sur la messagerie Facebook de Guillaume Pley entre celui-ci et une adolescente de 14 ans. Dans les messages sont évoqués la possibilité d’un « plan à trois » et l’éventualité que l’adolescente fasse sa « première fois » avec lui.",
+      "url": "https://www.lemonde.fr/pixels/video/2026/08/10/le-temoignage-d-une-femme-recueilli-par-le-monde-met-en-cause-guillaume-pley-pour-des-messages-a-caractere-sexuel-lui-etant-adresses-alors-qu-elle-etait-mineure_6743435_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-10T17:22:10+00:00"
+    },
+    {
+      "id": "dd4b73f51d369bbaa07558ca",
+      "title": "Sonic the Hedgehog is Joining Fortnite, and Yes You'll Be Able to Dash Up Walls in the Green Hill Zone",
+      "summary": "Sonic the Hedgehog is joining Fortnite as part of the battle royale's upcoming gaming-themed season.",
+      "url": "https://www.ign.com/articles/sonic-the-hedgehog-is-joining-fortnite-and-yes-youll-be-able-to-dash-up-walls-in-the-green-hill-zone",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T16:43:45+00:00"
+    },
+    {
+      "id": "163f69ebbfa12149ac40b8cc",
+      "title": "Join the IGN Discord!",
+      "summary": "",
+      "url": "https://www.ign.com/articles/join-the-ign-discord",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T16:30:00+00:00"
+    },
+    {
+      "id": "327b70e17e6b95b90559c8ae",
+      "title": "IFA 2026: What to Expect From the World’s Largest Home & Consumer Tech Event",
+      "summary": "More than a trade show; more like a cultural playground.",
+      "url": "https://www.ign.com/articles/ifa-2026-what-to-expect",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T16:25:54+00:00"
+    },
     {
       "id": "66df74ef2feeacd0d83a6cb6",
       "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
@@ -11,6 +55,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T16:10:56+00:00"
+    },
+    {
+      "id": "a32765d73cfe50b43ef45008",
+      "title": "Aliens: Fireteam Elite on Nintendo Switch Shut Down With No Refunds, as Owners Become the Latest Victims of Gaming's Increasingly Digital Future",
+      "summary": "Aliens: Fireteam Elite has had its cloud servers shut down, leaving Nintendo Switch owners unable to play the game without any form of refund.",
+      "url": "https://www.ign.com/articles/aliens-fireteam-elite-on-nintendo-switch-shut-down-with-no-refunds-as-owners-become-the-latest-victims-of-gamings-increasingly-digital-future",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T15:58:25+00:00"
     },
     {
       "id": "25fb65ea1bd552898ca79519",
@@ -277,39 +332,6 @@
       "publishedAt": "2026-08-10T11:10:00+00:00"
     },
     {
-      "id": "5f4335401fa499108e13eff6",
-      "title": "Game of Thrones Is Getting a New 4K Steelbook Collection, Now Up for Preorder",
-      "summary": "This limited edition release is now available to preorder from select retailers ahead of its release date on November 3.",
-      "url": "https://www.ign.com/articles/game-of-thrones-complete-collection-4k-steelbook-set-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T11:08:14+00:00"
-    },
-    {
-      "id": "33038b18d7a4521335fa31b6",
-      "title": "Spider-Man: Brand New Day 4K Steelbook Designs Seemingly Revealed, Since Removed by Amazon",
-      "summary": "Amazon briefly revealed the cover art for Spider-Man: Brand New Day's 4K UHD Steelbook and $150 Collector's Edition before promptly removing the designs from its listings. While fans seem to love the Steelbook artwork, the Collector's Edition cover is getting a much colder reception.",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-4k-steelbook-designs-revealed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T10:47:20+00:00"
-    },
-    {
-      "id": "bb7f7e028dda1835555fe7f8",
-      "title": "Why a Warhammer 40,000 Book Just Sold for $3,150 on eBay",
-      "summary": "A Warhammer 40,000 book just sold on eBay for an eye-watering $3,150 — leaving fans stunned.",
-      "url": "https://www.ign.com/articles/why-a-warhammer-40000-book-just-sold-for-3150-on-ebay",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T10:44:53+00:00"
-    },
-    {
       "id": "abc82a15f40f6eab96c79fd5",
       "title": "World's oceans hit record-high July temperatures",
       "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
@@ -319,17 +341,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T10:24:46+00:00"
-    },
-    {
-      "id": "42f47df0dcae60fa83470360",
-      "title": "Harry Potter Fan Protest Diverts Power Line Planned to 'Go Straight Through' Dobby's Grave",
-      "summary": "Harry Potter fans have successfully campaigned to change plans for a new power line, which would have carved through the site of Dobby's grave.",
-      "url": "https://www.ign.com/articles/harry-potter-fan-protest-diverts-power-line-planned-to-go-straight-through-dobbys-grave",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T10:05:10+00:00"
     },
     {
       "id": "9d07bb2e22696c8895bbbb92",
@@ -792,17 +803,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-05T09:24:18+00:00"
-    },
-    {
-      "id": "8fe71f25c0a6952210ffb91b",
-      "title": "« Cringe attack » : quand la peur d’être gênant paralyse les jeunes sur les réseaux sociaux",
-      "summary": "La possibilité que des inconnus tombent sur vos contenus en ligne démultiplie la crainte d’être considéré comme « cringe » (« embarrassant ») par une partie de la « gen Z ». Et génère une forme d’autocensure, voire une tentation de repli.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/05/cringe-attack-quand-la-peur-d-etre-genant-paralyse-les-jeunes-sur-les-reseaux-sociaux_6739354_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-05T04:00:24+00:00"
     },
     {
       "id": "f8a6ca5a3b8499e383f50e43",
