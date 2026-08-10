@@ -1,16 +1,49 @@
 {
-  "updatedAt": "2026-08-10T15:51:18.501565+00:00",
+  "updatedAt": "2026-08-10T16:43:13.883153+00:00",
   "items": [
     {
-      "id": "a235befab70c619189f833de",
-      "title": "Mark Zuckerberg signe un vaste plaidoyer en faveur de l’IA et annonce un fonds pour les villes accueillant ses centres de données",
+      "id": "66df74ef2feeacd0d83a6cb6",
+      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+      "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T16:10:56+00:00"
+    },
+    {
+      "id": "25fb65ea1bd552898ca79519",
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
+      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T15:54:19+00:00"
+    },
+    {
+      "id": "71afa7d36a398956719d94b6",
+      "title": "Mark Zuckerberg signe un plaidoyer en faveur de l’IA et annonce un fonds pour les villes accueillant ses centres de données",
       "summary": "Le dirigeant de Meta, possédant Facebook, Instagram et WhatsApp, défend un accès le plus large possible à l’IA et propose que les entreprises développant une IA avancée collaborent avec les pouvoirs publics pour les enjeux de sécurité.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/10/mark-zuckerberg-signe-un-vaste-plaidoyer-en-faveur-de-l-ia-et-annonce-un-fonds-pour-les-villes-accueillant-ses-centres-de-donnees_6743420_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-10T15:41:47+00:00"
+      "publishedAt": "2026-08-10T15:41:44+00:00"
+    },
+    {
+      "id": "f7ac23117bc4d593e71090d0",
+      "title": "Marvel's Spider-Man 2 Gets Huge Boost 3 Years After Launch Thanks to Box Office Phenomenon Spider-Man: Brand New Day",
+      "summary": "The box office phenomenon that is Spider-Man: Brand New Day has sparked a surge of interest in Sony video game Marvel’s Spider-Man 2, with players flocking to reinstall the game or buy it anew.",
+      "url": "https://www.ign.com/articles/marvels-spider-man-2-gets-huge-boost-3-years-after-launch-thanks-to-box-office-phenomenon-spider-man-brand-new-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T15:27:35+00:00"
     },
     {
       "id": "d581618714f802e1ba677837",
@@ -22,6 +55,28 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T15:21:27+00:00"
+    },
+    {
+      "id": "8b13c5244fbbbf633116229a",
+      "title": "Curtis '50 Cent' Jackson Joins Payday TV Show as Executive Producer",
+      "summary": "Starbreeze Entertainment and Vice Studio's Payday TV show has added an unexpected name to its team: rapper Curtis \"50 Cent\" Jackson.",
+      "url": "https://www.ign.com/articles/curtis-50-cent-jackson-joins-payday-tv-show-as-executive-producer",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T15:18:49+00:00"
+    },
+    {
+      "id": "0d3ff8dfc9f7bfe635238c96",
+      "title": "Nintendo Is Giving Away a £50 Switch 2 Accessory With Its Latest Console Bundle",
+      "summary": "Nintendo’s new Switch 2 bundle lets you choose a console, game and NSO plan, then add an accessory worth up to £49.99 for free.",
+      "url": "https://www.ign.com/articles/build-nintendo-switch-2-bundle-free-accessory",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T15:11:41+00:00"
     },
     {
       "id": "4dc974759cb4b77fb1177aa5",
@@ -44,17 +99,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T14:43:08+00:00"
-    },
-    {
-      "id": "25fb65ea1bd552898ca79519",
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T14:34:49+00:00"
     },
     {
       "id": "f0bc082e3a0e907d885b3773",
@@ -288,17 +332,6 @@
       "publishedAt": "2026-08-10T10:05:10+00:00"
     },
     {
-      "id": "e70d87a1137642523552c9fe",
-      "title": "Avengers: Doomsday Will Be 'Brutal' for Steve Rogers, Chris Evans Says, as Fans Fear for the Fate of His Child",
-      "summary": "Avengers: Doomsday will be \"brutal\" for Steve Rogers, former Captain America star Chris Evans has teased.",
-      "url": "https://www.ign.com/articles/avengers-doomsday-will-be-brutal-for-steve-rogers-chris-evans-says-as-fans-fear-for-the-fate-of-his-child",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T10:00:10+00:00"
-    },
-    {
       "id": "9d07bb2e22696c8895bbbb92",
       "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
       "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
@@ -363,28 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T03:33:51+00:00"
-    },
-    {
-      "id": "92cf2857721e6486d4c7317e",
-      "title": "One Night Only Director Cut 'So Much Nudity' from Film Because Audiences Now Dislike Seeing It",
-      "summary": "Director Will Gluck revealed that he “cut out so much” nudity from One Night Only because he believes modern movie audiences are now too uncomfortable seeing it on screen.",
-      "url": "https://www.ign.com/articles/one-night-only-director-cut-so-much-nudity-from-film-because-audiences-now-dislike-seeing-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T03:11:54+00:00"
-    },
-    {
-      "id": "21fa821c5a05050650368af8",
-      "title": "House of the Dragon Season 3 Ending Explained and Book Differences",
-      "summary": "Unpack the House of the Dragon Season 3 finale ending, including key betrayals, deaths, dragon devastation, and the biggest book-to-show changes from Fire & Blood.",
-      "url": "https://www.ign.com/articles/house-of-the-dragon-season-3-ending-explained-book-differences",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T02:30:00+00:00"
     },
     {
       "id": "6fcf063af5c0556cc17b3c12",
