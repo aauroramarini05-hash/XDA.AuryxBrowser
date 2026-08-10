@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-08-10T09:08:19.521992+00:00",
+  "updatedAt": "2026-08-10T10:58:42.574716+00:00",
   "items": [
+    {
+      "id": "33038b18d7a4521335fa31b6",
+      "title": "Spider-Man: Brand New Day 4K Steelbook Designs Seemingly Revealed, Since Removed by Amazon",
+      "summary": "Amazon briefly revealed the cover art for Spider-Man: Brand New Day's 4K UHD Steelbook and $150 Collector's Edition before promptly removing the designs from its listings. While fans seem to love the Steelbook artwork, the Collector's Edition cover is getting a much colder reception.",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-4k-steelbook-designs-revealed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T10:47:20+00:00"
+    },
+    {
+      "id": "bb7f7e028dda1835555fe7f8",
+      "title": "Why a Warhammer 40,000 Book Just Sold for $3,150 on eBay",
+      "summary": "A Warhammer 40,000 book just sold on eBay for an eye-watering $3,150 — leaving fans stunned.",
+      "url": "https://www.ign.com/articles/why-a-warhammer-40000-book-just-sold-for-3150-on-ebay",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T10:44:53+00:00"
+    },
+    {
+      "id": "42f47df0dcae60fa83470360",
+      "title": "Harry Potter Fan Protest Diverts Power Line Planned to 'Go Straight Through' Dobby's Grave",
+      "summary": "Harry Potter fans have successfully campaigned to change plans for a new power line, which would have carved through the site of Dobby's grave.",
+      "url": "https://www.ign.com/articles/harry-potter-fan-protest-diverts-power-line-planned-to-go-straight-through-dobbys-grave",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T10:05:10+00:00"
+    },
+    {
+      "id": "55ff8c89b159bac0ed527c21",
+      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T10:03:58+00:00"
+    },
+    {
+      "id": "e70d87a1137642523552c9fe",
+      "title": "Avengers: Doomsday Will Be 'Brutal' for Steve Rogers, Chris Evans Says, as Fans Fear for the Fate of His Child",
+      "summary": "Avengers: Doomsday will be \"brutal\" for Steve Rogers, former Captain America star Chris Evans has teased.",
+      "url": "https://www.ign.com/articles/avengers-doomsday-will-be-brutal-for-steve-rogers-chris-evans-says-as-fans-fear-for-the-fate-of-his-child",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-10T10:00:10+00:00"
+    },
+    {
+      "id": "d581618714f802e1ba677837",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T09:51:07+00:00"
+    },
+    {
+      "id": "9d07bb2e22696c8895bbbb92",
+      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T09:33:25+00:00"
+    },
     {
       "id": "0f66e5864565d6779aa7a7c9",
       "title": "China evacuates one million from homes as massive storm arrives",
@@ -11,6 +88,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T07:23:54+00:00"
+    },
+    {
+      "id": "7b2255f9bad2a2fd02d3df49",
+      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T05:16:40+00:00"
     },
     {
       "id": "5d3189b0c87416d74494fd7c",
@@ -132,17 +220,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-09T21:25:04+00:00"
-    },
-    {
-      "id": "e9136f5206dce322642782f4",
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-09T20:58:18+00:00"
     },
     {
       "id": "1f63f929985e07bfb4eca805",
@@ -398,17 +475,6 @@
       "publishedAt": "2026-08-08T19:00:22+00:00"
     },
     {
-      "id": "c70ffb0f17daca6938836593",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T18:06:25+00:00"
-    },
-    {
       "id": "358605c47c327738b0cb72b0",
       "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
       "summary": "",
@@ -453,28 +519,6 @@
       "publishedAt": "2026-08-08T15:59:37+00:00"
     },
     {
-      "id": "5da7dfc7973eda85a198a0ee",
-      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-08T15:15:17+00:00"
-    },
-    {
-      "id": "20234e9a228e5525e32baae3",
-      "title": "Asus ROG XReal R1 XR Glasses Review",
-      "summary": "",
-      "url": "https://www.ign.com/articles/asus-rog-xreal-r1-xr-glasses-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-08T15:00:00+00:00"
-    },
-    {
       "id": "08d1eee977b330f50d7e9b06",
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
@@ -506,39 +550,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-08T04:15:06+00:00"
-    },
-    {
-      "id": "7c54f7ea80aa35d0cb3f5408",
-      "title": "Sega Is Auctioning Off Shadow The Hedgehog's Real-Life Motorcycle For a Good Cause",
-      "summary": "Sega is auctioning off Shadow the Hedgehog’s real-life Dark Rider motorcycle and giving the proceeds to charity.",
-      "url": "https://www.ign.com/articles/sega-is-auctioning-off-shadow-the-hedgehogs-real-life-motorcycle-for-a-good-cause",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-07T23:40:30+00:00"
-    },
-    {
-      "id": "4fa3c1d7498fb718333e8686",
-      "title": "Jeff VanderMeer Reveals Annihilation Sequel Abdication, the Final Part of the Southern Reach Series",
-      "summary": "Southern Reach creator Jeff VanderMeer has revealed Abdication, the fifth and final book in the series that began with 2014's Annihilation.",
-      "url": "https://www.ign.com/articles/jeff-vandermeer-reveals-annihilation-sequel-abdication-the-final-part-of-the-southern-reach-series",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-07T23:33:30+00:00"
-    },
-    {
-      "id": "afd2e359ebe94ee54716bf82",
-      "title": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
-      "summary": "Marvel Tokon: Fighting Souls stumbled on Steam with \"Mixed\" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and other technical issues.",
-      "url": "https://www.ign.com/articles/marvel-tokon-stumbles-to-mixed-steam-reviews-as-miserable-pc-port-complaints-prompt-response-from-arc-system-works",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-07T23:31:38+00:00"
     },
     {
       "id": "32e5664d52d7c6c44269c437",
