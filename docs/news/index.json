@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-08-11T18:48:48.656140+00:00",
+  "updatedAt": "2026-08-11T19:54:45.593106+00:00",
   "items": [
+    {
+      "id": "5b50029ad6111a42eda4e43a",
+      "title": "Tech Life",
+      "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-11T19:30:00+00:00"
+    },
+    {
+      "id": "a4e6c6f289a71ee7d2284d7a",
+      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+      "summary": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-11T19:27:17+00:00"
+    },
+    {
+      "id": "73b2b5083818c1f221d0547e",
+      "title": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
+      "summary": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
+      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-11T19:12:54+00:00"
+    },
+    {
+      "id": "219dd986fedfd231e85b117e",
+      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-11T19:09:52+00:00"
+    },
+    {
+      "id": "f1c8b3c33428a1342bdfdf8a",
+      "title": "Today’s Top Deals: LEGO Bonsai Trees, Borderlands 4 for PS5, and Switch 2 MicroSD Express Cards",
+      "summary": "Plus, Pokémon TCG Amazon restocks, ‘3 for $39’ 4K Blu-rays, and more.",
+      "url": "https://www.ign.com/articles/best-deals-for-august-11-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T18:55:00+00:00"
+    },
+    {
+      "id": "9aaf4ecc52822bdd73802d97",
+      "title": "Eclipse solaire : les plus beaux soleils noirs du jeu vidéo",
+      "summary": "De « Castlevania » à « Saros » en passant par « Outer Wilds », prenez le temps d’admirer l’alignement des astres depuis votre canapé.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/11/eclipse-solaire-les-plus-beaux-soleils-noirs-du-jeu-video_6744263_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-11T18:52:34+00:00"
+    },
+    {
+      "id": "f21fb9253485f377e446f557",
+      "title": "Bethesda Finally Confirms The Elder Scrolls IV: Oblivion Remastered Patch Is Coming",
+      "summary": "Bethesda has confirnmed a patch for The Elder Scrolls IV: Oblivion Remastered is on the way, with the Nintendo Switch 2 version now out the door.",
+      "url": "https://www.ign.com/articles/bethesda-finally-confirms-the-elder-scrolls-iv-oblivion-remastered-patch-is-coming",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T18:38:28+00:00"
+    },
     {
       "id": "f951e0ac08f2e1888a9f66f3",
       "title": "Former judge removed by Orbán elected Hungarian president",
@@ -13,6 +90,50 @@
       "publishedAt": "2026-08-11T18:34:39+00:00"
     },
     {
+      "id": "816bdeef80868c72baf80ced",
+      "title": "Nvidia's Price Increases Are Live, As RTX 5060 Ti Jumps to Over $800",
+      "summary": "",
+      "url": "https://www.ign.com/articles/nvidias-price-increases-are-live-as-rtx-5060-ti-jumps-to-over-800",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T18:32:39+00:00"
+    },
+    {
+      "id": "b41298a9fde59a4e1b2a75d4",
+      "title": "More Lord of the Rings Remasters Are in the Works Following War in the North Re-Release, Confirms Aspyr",
+      "summary": "Aspyr has plans to re-release more Lord of the Rings games following its shadow drop of The Lord of the Rings: War in the North on modern platforms.",
+      "url": "https://www.ign.com/articles/more-lord-of-the-rings-remasters-are-in-the-works-following-war-in-the-north-re-release-confirms-aspyr",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T18:31:59+00:00"
+    },
+    {
+      "id": "cb552ba6adb6a4633ae1f658",
+      "title": "Marvel Tokon: Fighting Souls Review",
+      "summary": "A gorgeous and innovative fighting game that can appeal to all skill levels.",
+      "url": "https://www.ign.com/articles/marvel-tokon-fighting-souls-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T18:25:29+00:00"
+    },
+    {
+      "id": "330b80acd7cfbbcc71efcb9f",
+      "title": "Silent Hill Creature Designer Responds To Madonna Fans After Music Video Inspiration Remarks Spark Backlash",
+      "summary": "Silent Hill creature designer and illustrator Masahiro Ito is clapping back at Madonna fans after a comment he made about one of her music videos rubbed a vocal group of listeners the wrong way.",
+      "url": "https://www.ign.com/articles/silent-hill-creature-designer-responds-to-madonna-fans-after-music-video-inspiration-remarks-spark-backlash",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T18:21:46+00:00"
+    },
+    {
       "id": "aa5840a8b9938574bec676aa",
       "title": "Meta face à un procès à haut risque financier",
       "summary": "Un procès au civil débute mercredi 12 août contre le groupe propriétaire de Facebook et d’Instagram, accusé de favoriser l’addiction aux réseaux sociaux. Poursuivie par quatre Etats américains, la firme dirigée par Mark Zuckerberg risque une sanction financière très lourde.",
@@ -22,6 +143,39 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-11T18:08:56+00:00"
+    },
+    {
+      "id": "278c49a865af1f9b2f0dfd7c",
+      "title": "Bose's QuietComfort Ultra Wireless Noise Canceling Headphones Drops Below $200, Save Over 50% Off",
+      "summary": "These headphones have no equal in the sub-$200 price category.",
+      "url": "https://www.ign.com/articles/bose-quietcomfort-ultra-wireless-noise-canceling-headphone-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T18:05:00+00:00"
+    },
+    {
+      "id": "5c6d6db37e8038526636f8ef",
+      "title": "Is Batman: Caped Crusader's Joker a Nazi?",
+      "summary": "Is Batman: Caped Crusader's Joker a Nazi? That's one of the questions we pose to voice actor Matthew Needham about this dramatically different Clown Prince of Crime.",
+      "url": "https://www.ign.com/articles/is-batman-caped-crusaders-joker-a-nazi",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T18:00:00+00:00"
+    },
+    {
+      "id": "3f00da091ddbfee05e1bc0bf",
+      "title": "Brandon Sanderson Is Done With the Mistborn Screenplay, but Says 'There Are Many Drafts to Come'",
+      "summary": "Brandon Sanderson announced two weeks ago that he had officially finished the Mistborn screenplay. He mentioned at the time that it is only a first draft, and he expects it's only the first step in a long process.",
+      "url": "https://www.ign.com/articles/brandon-sanderson-is-done-with-the-mistborn-screenplay-but-says-there-are-many-drafts-to-come",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T17:59:33+00:00"
     },
     {
       "id": "e5a7a51be01e5b2bd927f291",
@@ -167,28 +321,6 @@
       "publishedAt": "2026-08-11T16:19:44+00:00"
     },
     {
-      "id": "6f6bd78d181d9c280ba7f142",
-      "title": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
-      "summary": "Mangione's lawyers have yet to signal their defence strategy, while prosecutors are in a battle over evidence.",
-      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-11T16:12:35+00:00"
-    },
-    {
-      "id": "ec41e8e7c740a451d8111a6a",
-      "title": "Beloved Terraria Mod Shut Down Following Sexual Misconduct Allegations, Creators Reportedly Turn Down Streamer xQc's Offer to Save It",
-      "summary": "Development on a beloved Terraria mod is shutting down following sexual misconduct allegations revolving around its lead developer. Meanwhile, the creators of the mod have reportedly turned down an offer to save it from streamer xQc.",
-      "url": "https://www.ign.com/articles/beloved-terraria-mod-shut-down-following-sexual-misconduct-allegations-creators-reportedly-turn-down-streamer-xqcs-offer-to-save-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:12:14+00:00"
-    },
-    {
       "id": "b0278d6592bd6b0b6cd0b40a",
       "title": "Watch: Tide of rubbish blankets Philippines river",
       "summary": "Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain.",
@@ -198,50 +330,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-11T16:10:55+00:00"
-    },
-    {
-      "id": "422696817273fef1e3ad063d",
-      "title": "Get a Complete CyberPowerPC Prebuilt Gaming PC With GeForce RTX 5070 GPU for Just $1,399 Shipped",
-      "summary": "It's even equipped with the latest generation 2026 Intel Ultra 7 Arrow Lake Refresh CPU.",
-      "url": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:10:00+00:00"
-    },
-    {
-      "id": "41071afbd4550da368d20005",
-      "title": "The Alienware RTX 5090 Gaming PC Drops to $4,780, Nearly the Same Price as Buying the GPU By Itself",
-      "summary": "An RTX 5090 graphics card nowadays goes for at least $4,500 new and $4,000 used.",
-      "url": "https://www.ign.com/articles/dell-alienware-area-51-intel-edition-rtx-5090-gaming-pc-deal-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:10:00+00:00"
-    },
-    {
-      "id": "9887940bb62ac2d35257dfa6",
-      "title": "Walmart's Private Label 512GB and 256GB Nintendo Switch 2 Memory Cards Are the Best Deals You Can Get",
-      "summary": "Prices remain constant amidst the memory crisis, but for how long?",
-      "url": "https://www.ign.com/articles/cheapest-nintendo-switch-2-microsd-express-memory-card-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:10:00+00:00"
-    },
-    {
-      "id": "1b2c388ff3c1a0f5cbcc2d04",
-      "title": "The MSI Vector 16\" RTX 5070 Ti Gaming Laptop Drops to $1,399 During Walmart's Back to School Sale",
-      "summary": "The best price I've seen for an RTX 5070 Ti equipped gaming laptop in 2026.",
-      "url": "https://www.ign.com/articles/msi-vector-rtx-5070-ti-gaming-laptop-deal-walmart-back-to-school-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:05:00+00:00"
     },
     {
       "id": "9e2c307270d9ae88587a5b60",
@@ -255,50 +343,6 @@
       "publishedAt": "2026-08-11T16:00:17+00:00"
     },
     {
-      "id": "9194072f7255af8eea1a9422",
-      "title": "Control Resonant Wants 'To Challenge' What’s Come Before In Action Games — IGN First",
-      "summary": "Control Resonant wants 'to challenge' what’s come before in action games. We take a deep dive into Remedy's first full swing at melee combat.",
-      "url": "https://www.ign.com/articles/control-resonant-wants-to-challenge-whats-come-before-in-action-games-ign-first",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:00:00+00:00"
-    },
-    {
-      "id": "5cace7d21e7ba3ef8645dd12",
-      "title": "The X-Files: I Want to Believe - Vrach Frankenshteyn Review",
-      "summary": "If you didn't care for The X-Files: I Want to Believe before now, Chris Carter's \"Vrach Frankenshteyn\" director's cut probably won't change your mind.",
-      "url": "https://www.ign.com/articles/the-x-files-i-want-to-believe-vrach-frankenshteyn-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:00:00+00:00"
-    },
-    {
-      "id": "39164ca16898c4af58527694",
-      "title": "Voidwood, a Fantasy Co-Op Survival Horror Game, Announced for PC",
-      "summary": "Santa Barbara Games, a new developer comprised of former Bethesda, Riot, EA, and other talent, has announced its first game: Voidwood, a 1-4-player fantasy co-op survival horror game with a decidedly Studio Ghibli-esque art style. In it, you and your friends play as children lost in a cursed forest, scavenging for supplies and crafting tools by day",
-      "url": "https://www.ign.com/articles/voidwood-a-fantasy-co-op-survival-horror-game-announced-for-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:00:00+00:00"
-    },
-    {
-      "id": "6b90b03dbd41b90b2e653877",
-      "title": "Where to Buy the Pokémon First Partner Illustration TCG Collection (Series 3)",
-      "summary": "Looking for the Pokémon First Partner Illustration Collection Series 3? Here is where to buy the final TCG box, current stock levels, and retailer prices.",
-      "url": "https://www.ign.com/articles/where-to-buy-pokemon-first-partner-illustration-tcg-collection-series-3",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T16:00:00+00:00"
-    },
-    {
       "id": "1855b5453ae7a7145f99cb88",
       "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
       "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
@@ -308,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-11T15:53:53+00:00"
-    },
-    {
-      "id": "80042500dd6faf34df5d6b73",
-      "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
-      "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-11T15:41:13+00:00"
     },
     {
       "id": "3f5f267dc36e93492a5e1f53",
@@ -407,17 +440,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-11T12:09:26+00:00"
-    },
-    {
-      "id": "98e6eef27f7ec79116ae852f",
-      "title": "Watch: Family escapes home during Colombia earthquake",
-      "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
-      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-11T10:12:21+00:00"
     },
     {
       "id": "d8efdfcb01803835f8d7aeae",
@@ -761,17 +783,6 @@
       "publishedAt": "2026-08-06T23:04:40+00:00"
     },
     {
-      "id": "3734013aa5ca45e387b38a41",
-      "title": "Le parquet de Paris ouvre une enquête sur des soupçons d’ingérence russe visant Raphaël Glucksmann",
-      "summary": "Le probable candidat à la présidentielle, critique virulent de Vladimir Poutine, avait dénoncé mardi une opération de « déstabilisation » après la diffusion d’une vidéo « entièrement truquée » impliquant sa compagne Léa Salamé et le journaliste Edwy Plenel.",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/06/le-parquet-de-paris-ouvre-une-enquete-sur-des-soupcons-d-ingerence-russe-visant-raphael-glucksmann_6740080_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-06T18:15:53+00:00"
-    },
-    {
       "id": "0137e23165cce68f0c67e385",
       "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
       "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
@@ -924,17 +935,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-18T01:00:00+00:00"
-    },
-    {
-      "id": "fa4243fe050db6bcf6ed320d",
-      "title": "Tech Life",
-      "summary": "Surgeons remotely control two human-like robots in an operating theatre.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-14T20:00:00+00:00"
     },
     {
       "id": "5fc4fe0ebd4e0d080dd319f4",
