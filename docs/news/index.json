@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-11T03:26:23.867483+00:00",
+  "updatedAt": "2026-08-11T04:58:17.369403+00:00",
   "items": [
+    {
+      "id": "f692ef4429b9b7f1bf9b91ba",
+      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-11T04:06:07+00:00"
+    },
+    {
+      "id": "ea8bc5bdad49cf32239158b3",
+      "title": "Pourquoi l’IA provoque un nouveau séisme dans les médias, fragilisés par vingt ans de mutations numériques",
+      "summary": "Le déferlement de l’intelligence artificielle, qui pille les contenus journalistiques, favorise les deepfakes et bouleverse la façon de s’informer, met à l’épreuve ce secteur où les plans sociaux se multiplient.",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/11/pourquoi-l-ia-provoque-un-nouveau-seisme-dans-les-medias-fragilises-par-vingt-ans-de-mutations-numeriques_6743753_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-11T04:00:31+00:00"
+    },
+    {
+      "id": "084fd6b4f12e9b6952f3f01d",
+      "title": "Démarchage téléphonique : les nouvelles mesures qui entrent en vigueur le 11 août seront-elles efficaces ?",
+      "summary": "A partir de mardi, tout consommateur devra donner son accord explicite pour être démarché par téléphone. Un nouveau cadre très restrictif, mais qui pourrait malgré tout avoir un impact limité.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/11/demarchage-telephonique-les-nouvelles-mesures-qui-entrent-en-vigueur-le-11-aout-seront-elles-efficaces_6743748_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-11T04:00:01+00:00"
+    },
+    {
+      "id": "387e31397b3913829cda3196",
+      "title": "AU Deals: Save $100 on a Gigabyte OLED Monitor and get Onimusha: Way of the Sword For Free",
+      "summary": "",
+      "url": "https://www.ign.com/articles/gigabyte-oled-monitor-onimusha-way-of-the-sword-for-free-au-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-11T03:31:49+00:00"
+    },
+    {
+      "id": "3f79a1196df20809f218e5f7",
+      "title": "Meta sanctionné pour destruction de preuves dans une affaire de publicités frauduleuses",
+      "summary": "Un juge fédéral californien a estimé que la société a bien détruit ou laissé s’effacer des données essentielles dans une affaire l’opposant au milliardaire australien, Andrew Forrest, qui accuse la maison mère de Facebook d’avoir laissé prospérer de faux contenus numériques utilisant son image.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/11/meta-sanctionne-pour-destruction-de-preuves-dans-une-affaire-de-publicites-frauduleuses_6743711_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-11T03:25:03+00:00"
+    },
     {
       "id": "5193aa61321120e9a2835a18",
       "title": "Get a 36V 500W Adult Electric Bike for $275 Shipped During the AliExpress Back to School Sale",
@@ -22,17 +77,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-11T02:43:01+00:00"
-    },
-    {
-      "id": "f692ef4429b9b7f1bf9b91ba",
-      "title": "At least 132 killed in Colombia's largest earthquake in years",
-      "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-11T01:59:40+00:00"
     },
     {
       "id": "b6e5d7443d65716a8ced5d14",
@@ -132,6 +176,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-10T22:45:00+00:00"
+    },
+    {
+      "id": "6b7f5e43f8322702a270ad78",
+      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "summary": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
+      "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T22:40:23+00:00"
     },
     {
       "id": "67377ed2af07c14ed0464f5c",
@@ -277,6 +332,17 @@
       "publishedAt": "2026-08-10T20:55:34+00:00"
     },
     {
+      "id": "7740d6883475886212f7dc36",
+      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+      "url": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-10T20:45:29+00:00"
+    },
+    {
       "id": "802734eec43ba6c15572ae6d",
       "title": "GameStop Reportedly Considers Dropping eBay Bid for New Partnership Offer",
       "summary": "GameStop CEO Ryan Cohen is reportedly considering dropping his eBay bid for a revised offer that could include a partnership between the two companies.",
@@ -297,17 +363,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-10T20:20:54+00:00"
-    },
-    {
-      "id": "550687997337a390c8166421",
-      "title": "Madden NFL 27 Arcade Edition Is Officially Live on Apple Arcade",
-      "summary": "Madden NFL 27 Arcade Edition has officially launched on Apple Arcade. Get ready to enjoy football with no ads, no in-app purchases, no currencies, and no paywalls.",
-      "url": "https://www.ign.com/articles/madden-nfl-27-arcade-edition-is-officially-live-on-apple-arcade",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-10T20:00:00+00:00"
     },
     {
       "id": "1613a47ee0f1055b68c74f45",
@@ -341,28 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-10T18:24:45+00:00"
-    },
-    {
-      "id": "09726a75a92b5053a6178cbc",
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T18:19:41+00:00"
-    },
-    {
-      "id": "b53ce521f9ea5d91b2cbfbfc",
-      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-10T17:50:29+00:00"
     },
     {
       "id": "1de3641daee10772b1572ab1",
@@ -695,28 +728,6 @@
       "publishedAt": "2026-08-05T22:00:32+00:00"
     },
     {
-      "id": "69234ac1414040c316b3b25e",
-      "title": "Affaire Jean Pormanove : après un procès entre regret et aveuglement face aux violences en ligne, les deux streameurs condamnés",
-      "summary": "Naruto et Safine, jugés pour des violences et humiliations en ligne ayant précédé la mort de Jean Pormanove, ont été condamnés, mercredi, à de la prison avec sursis, une amende et un « bannissement numérique » de six mois par le tribunal correctionnel de Nice.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/05/affaire-jean-pormanove-apres-un-proces-entre-regret-et-aveuglement-face-aux-violences-en-ligne-les-deux-streameurs-condamnes_6739446_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-05T16:00:06+00:00"
-    },
-    {
-      "id": "3cb4d1c4568b339332f73926",
-      "title": "Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie »",
-      "summary": "D’autres personnalités politiques, comme Edouard Philippe ou Raphaël Glucksmann, ont été également visées ces derniers jours par des opérations de déstabilisation en ligne en provenance de Russie.",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/05/presidentielle-2027-gabriel-attal-vise-par-une-ingerence-en-provenance-de-russie-selon-son-entourage_6739444_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-05T15:38:30+00:00"
-    },
-    {
       "id": "e3ff586a36ca7adce999cc10",
       "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
       "summary": "Elon Musk told investors that people were \"underestimating\" his company.",
@@ -737,17 +748,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-05T13:06:43+00:00"
-    },
-    {
-      "id": "a244e9cd0b21dd069a6edc26",
-      "title": "Affaire Jean Pormanove : les deux streamers condamnés à des peines de prison avec sursis",
-      "summary": "Le tribunal correctionnel de Nice a condamné les streamers Owen Cenazandotti, dit « Naruto » à deux ans de prison avec sursis, et Safine Hamadi, dit « Safine », à dix-huit mois de prison. Leurs peines sont assorties d’un « bannissement numérique » de six mois.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/05/affaire-jean-pormanove-les-deux-streamers-condamnes-a-des-peines-de-prison-avec-sursis_6739425_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-05T12:40:41+00:00"
     },
     {
       "id": "d49836fbed5d60c9d2d6c0f0",
