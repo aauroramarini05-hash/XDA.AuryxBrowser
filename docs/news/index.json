@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-12T14:14:33.446821+00:00",
+  "updatedAt": "2026-08-12T15:51:02.616169+00:00",
   "items": [
+    {
+      "id": "6b9987689243c2ec09582046",
+      "title": "Crise de Ceuta : l’UE annonce un « outil de communication » pour renforcer la lutte contre la désinformation sur Meta et TikTok",
+      "summary": "Consécutivement aux événements du 30 et 31 juillet, encouragés par la diffusion d’informations erronées, les autorités européennes disent avoir obtenu des deux géants des réseaux sociaux qu’ils renforcent leur dispositif de vérification des informations.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/12/crise-de-ceuta-l-ue-annonce-un-outil-de-communication-pour-renforcer-la-lutte-contre-la-desinformation-sur-meta-et-tiktok_6745080_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-12T15:37:04+00:00"
+    },
+    {
+      "id": "a4c0281c9b594e6ba1a811ce",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T15:34:47+00:00"
+    },
+    {
+      "id": "fd4912890cf0ce47e896d948",
+      "title": "Les lendemains difficiles du fact-checking après un âge d’or lors de la crise due au Covid-19",
+      "summary": "« Dix ans de post-vérité » (3/5). Le journalisme de vérification, qui a connu un essor sous Trump et atteint son sommet pendant la pandémie, fait désormais face à une triple crise de financement, de confiance et de sens.",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/les-lendemains-difficiles-du-fact-checking-apres-un-age-d-or-lors-de-la-crise-due-au-covid-19_6745075_3451060.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-12T15:00:07+00:00"
+    },
+    {
+      "id": "b6f83a78d868fedbb061e8cc",
+      "title": "Pologne : les données de la moitié de la population exposées par une cyberattaque",
+      "summary": "Les premiers éléments privilégient la piste de cybercriminels agissant dans un but financier, a estimé le ministre de la numérisation, qui a exclu le paiement de toute rançon et promis de poursuivre « sans relâche » les auteurs.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/12/pologne-les-donnees-de-la-moitie-de-la-population-exposees-par-une-cyberattaque_6745073_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-12T14:51:11+00:00"
+    },
+    {
+      "id": "891c0819d1899a2438e4175e",
+      "title": "PS5 Exclusive Ghost of Yōtei Is Getting a New Narrative Expansion, New Combat Survival Mode, and More as Part of a Complete Edition",
+      "summary": "Sony has announced Ghost of Yōtei Complete Edition alongside new content coming to the game.",
+      "url": "https://www.ign.com/articles/ps5-exclusive-ghost-of-ytei-is-getting-a-new-narrative-expansion-new-combat-survival-mode-and-more-as-part-of-a-complete-edition",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T14:10:50+00:00"
+    },
     {
       "id": "a33f54682221d119bedb1ee0",
       "title": "US inflation eases as food and fuel costs cool",
@@ -13,6 +68,17 @@
       "publishedAt": "2026-08-12T14:09:48+00:00"
     },
     {
+      "id": "3c2a59a3efd3b97466191e57",
+      "title": "There Are Many Solid The Elder Scrolls 6 Subtitle Theories Based on Xbox Boss Asha Sharma’s Asterisk-Filled Tease — but Let’s Rule Out Skyrim 2 Right Now",
+      "summary": "Yesterday, Xbox boss Asha Sharma teased The Elder Scrolls 6 with a tweet confirming she’d witnessed a live playthrough of Bethesda’s hotly anticipated open-world fantasy role-playing game. She did so by using asterisks where the subtitle of the game should be, which was all it took to send The Elder Scrolls fans down a rabbit hole from which they h",
+      "url": "https://www.ign.com/articles/there-are-many-solid-the-elder-scrolls-6-subtitle-theories-based-on-xbox-boss-asha-sharmas-asterisk-filled-tease-but-lets-rule-out-skyrim-2-right-now",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T14:05:19+00:00"
+    },
+    {
       "id": "07d5a03f345c9fc8bbb5c826",
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
       "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
@@ -22,6 +88,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-12T14:03:48+00:00"
+    },
+    {
+      "id": "a6d0fba27761b38e5e44445f",
+      "title": "GTA 5’s Trevor Flipped the Bird at Rockstar's Haters",
+      "summary": "The Genius of Grand Theft Auto 5’s Trevor Philips: how Rockstar turned franchise backlash into an iconic character.",
+      "url": "https://www.ign.com/articles/gta-5-trevor-haters",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T14:00:00+00:00"
     },
     {
       "id": "acea4cda7ed15a6fc0c0aa8c",
@@ -136,7 +213,7 @@
     {
       "id": "df2e031a8188ecf2a513c400",
       "title": "Eclipse solaire : filmer ou prendre en photo le phénomène peut-il être dangereux pour vos appareils ?",
-      "summary": "Garder une trace photographique du phénomène est tentant. Mais des précautions sont de mises, aussi bien pour réussir ses photos… que pour ne pas dégrader son smartphone ou son appareil.",
+      "summary": "Garder une trace photographique du phénomène est tentant. Mais des précautions sont de mise, aussi bien pour réussir ses photos… que pour ne pas dégrader son smartphone ou son appareil.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/12/eclipse-filmer-ou-prendre-en-photo-le-phenomene-peut-il-etre-dangereux-pour-vos-appareils_6745047_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -255,17 +332,6 @@
       "publishedAt": "2026-08-12T04:29:02+00:00"
     },
     {
-      "id": "b35b4eeeb42d35ea67ac20f1",
-      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-12T03:44:55+00:00"
-    },
-    {
       "id": "e31e6c9f21ae6a94e531f018",
       "title": "Baby Shark boy set to make K-pop debut",
       "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
@@ -297,17 +363,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-12T02:51:02+00:00"
-    },
-    {
-      "id": "b45e96a01bd6727280f57015",
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-12T00:14:42+00:00"
     },
     {
       "id": "b5edcaea91b9d603fc03f55f",
@@ -396,39 +451,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-11T22:45:00+00:00"
-    },
-    {
-      "id": "52abc7a5f0492117d4d861f6",
-      "title": "Ewan McGregor Wants to Spend the 'Rest of His Career' Playing Obi-Wan Kenobi",
-      "summary": "Ewan McGregor is really eager to pick up his lightsaber for another Obi-Wan Kenobi adventure, should Disney give him the opportunity.",
-      "url": "https://www.ign.com/articles/ewan-mcgregor-wants-to-spend-the-rest-of-his-career-playing-obi-wan-kenobi",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T22:26:10+00:00"
-    },
-    {
-      "id": "09f3fbcdfa283b672ee5128f",
-      "title": "Amazon Is Offering a Great Deal on a RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games",
-      "summary": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
-      "url": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T22:15:00+00:00"
-    },
-    {
-      "id": "8deefc444712a335510d9cae",
-      "title": "Reacher Returns for Season 4 — Here's When You Can Watch New Episodes",
-      "summary": "",
-      "url": "https://www.ign.com/articles/reacher-season-4-episode-release-date-streaming",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T22:11:16+00:00"
     },
     {
       "id": "e765cd434d0be06e6e6a050c",
@@ -750,28 +772,6 @@
       "publishedAt": "2026-08-08T04:15:06+00:00"
     },
     {
-      "id": "cc062206dd67176c1bb71b2f",
-      "title": "Crise de Ceuta : l’Union européenne demande à Meta et TikTok de renforcer la surveillance et la vérification des faits",
-      "summary": "« Les plateformes doivent agir de manière décisive pour préserver l’intégrité de l’espace numérique, en particulier en situation de crise », a déclaré Henna Virkkunen, après des discussions menées entre la Commission européenne et les deux plateformes.",
-      "url": "https://www.lemonde.fr/international/article/2026/08/07/crise-de-ceuta-l-union-europeenne-demande-a-meta-et-tiktok-de-renforcer-la-surveillance-et-la-verification-des-faits_6740540_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-07T21:06:50+00:00"
-    },
-    {
-      "id": "310e60fa060360f43d655b07",
-      "title": "Dans l’enfer des groupes WhatsApp de parents d’élèves : « Je reçois des messages à minuit, en pleines vacances d’été ! »",
-      "summary": "Au cœur du mois d’août, on aurait pu espérer ne plus entendre parler de l’école. Hélas, c’était sans compter sur l’utilisation de l’application de messagerie au fonctionnement plus ou moins canalisé, qui peut se révéler invasive.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/07/dans-l-enfer-des-groupes-whatsapp-de-parents-d-eleves-je-recois-des-messages-a-minuit-en-pleines-vacances-d-ete_6740511_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-07T14:30:08+00:00"
-    },
-    {
       "id": "4b5b6e3158e99c43a223e028",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
@@ -781,17 +781,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-07T09:22:03+00:00"
-    },
-    {
-      "id": "fb461ee84694ec64c81f69f5",
-      "title": "Présidentielle 2027 : Glucksmann, Attal, Philippe… les ingérences russes s’invitent dans la campagne",
-      "summary": "Même si les récents actes de désinformation, souvent invraisemblables et à très faible retentissement sur le débat public, semblent inoffensifs, le candidat de Place publique et celui de Renaissance s’en sont inquiétés publiquement. Le gouvernement veut faire adopter un projet de loi à l’automne.",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/07/presidentielle-2027-glucksmann-attal-philippe-les-ingerences-russes-s-invitent-dans-la-campagne_6740451_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-07T03:31:37+00:00"
     },
     {
       "id": "0137e23165cce68f0c67e385",
