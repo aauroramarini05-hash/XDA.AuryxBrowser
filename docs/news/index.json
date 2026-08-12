@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-12T15:51:02.616169+00:00",
+  "updatedAt": "2026-08-12T16:47:18.929841+00:00",
   "items": [
+    {
+      "id": "c27b7bb80413e73efcf74f16",
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T16:35:52+00:00"
+    },
+    {
+      "id": "a4c0281c9b594e6ba1a811ce",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T16:34:01+00:00"
+    },
+    {
+      "id": "07d5a03f345c9fc8bbb5c826",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T16:14:08+00:00"
+    },
+    {
+      "id": "81839b97406861e32173c746",
+      "title": "LA Lakers to be sold in record $12.5bn deal",
+      "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T16:11:04+00:00"
+    },
+    {
+      "id": "248c439f2794c16f44920a92",
+      "title": "Mel Gibson Says He Still Wants to Direct Lethal Weapon 5, Although It Sounds Like It's in Development Hell",
+      "summary": "Lethal Weapon 5 is still on Mel Gibson’s radar, although it sounds mired in development trouble.",
+      "url": "https://www.ign.com/articles/mel-gibson-says-he-still-wants-to-direct-lethal-weapon-5-although-it-sounds-like-its-in-development-hell",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T15:53:32+00:00"
+    },
     {
       "id": "6b9987689243c2ec09582046",
       "title": "Crise de Ceuta : l’UE annonce un « outil de communication » pour renforcer la lutte contre la désinformation sur Meta et TikTok",
@@ -13,15 +68,48 @@
       "publishedAt": "2026-08-12T15:37:04+00:00"
     },
     {
-      "id": "a4c0281c9b594e6ba1a811ce",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "summary": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "id": "687cb0748951e695eb76b9f7",
+      "title": "‘I Know That He Is a Reviled Person’ — The Social Reckoning Star Jeremy Strong Says He Emailed Mark Zuckerberg to Promise to Approach the Role ‘With Respect’",
+      "summary": "‘I know that he is a reviled person’ — The Social Reckoning star Jeremy Strong says he emailed Mark Zuckerberg to promise to approach the role ‘with respect’.",
+      "url": "https://www.ign.com/articles/i-know-that-he-is-a-reviled-person-the-social-reckoning-star-jeremy-strong-says-he-emailed-mark-zuckerberg-to-promise-to-approach-the-role-with-respect",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-12T15:34:47+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T15:22:26+00:00"
+    },
+    {
+      "id": "56fefdd872f9d3494e8e91ba",
+      "title": "Made By Google 2026 Live Blog: Get Ready For the Pixel 11",
+      "summary": "Every year, Google holds the Made By Google event, where the company reveals its flagship mobile hardware for the next year. This time around, we already know the Pixel 11 is going to be there, but there are sure to be a few surprises up Google's sleeve.",
+      "url": "https://www.ign.com/articles/made-by-google-2026-everything-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T15:21:33+00:00"
+    },
+    {
+      "id": "40897fb0f1f6e061cd4e8704",
+      "title": "Preorder a Google Pixel 11 Smartphone and Get Up to $350 in Amazon Gift Cards",
+      "summary": "Google's latest flagship Android phones are coming soon, and you can get up to $350 in free gift cards when you preorder.",
+      "url": "https://www.ign.com/articles/google-pixel-11-pro-fold-smartphone-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T15:21:30+00:00"
+    },
+    {
+      "id": "5e988aeebf22153b432b17c3",
+      "title": "The AOC 15.6-Inch Portable Monitor Has Dropped to $65 at Best Buy for Today Only",
+      "summary": "The AOC 16T35 15.6-Inch IPS Panel portable monitor has been discounted to $64.99 at Best Buy as part of its Deal of the Day. Act fast to save $25 on it before the deal is gone.",
+      "url": "https://www.ign.com/articles/aoc-156-inch-portable-monitor-on-sale-best-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T15:14:50+00:00"
     },
     {
       "id": "fd4912890cf0ce47e896d948",
@@ -33,6 +121,28 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-12T15:00:07+00:00"
+    },
+    {
+      "id": "bc9e4dbb6a49a1d55b7d4b95",
+      "title": "Fight Night Round 3 on Xbox 360 Was the First ‘Holy Sh*t!’ Game of the HD Era",
+      "summary": "We're looking back at milestone games in the run up to Xbox's 25th anniversary, and today it's time to remember the mind-blowing visuals of Fight Night Round 3.",
+      "url": "https://www.ign.com/articles/fight-night-round-3-on-xbox-360-was-the-first-holy-sht-game-of-the-hd-era",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T15:00:00+00:00"
+    },
+    {
+      "id": "09790af716400af78f824a8f",
+      "title": "The End of Oak Street Review",
+      "summary": "The End of Oak Street hits all the right nostalgic notes for a family adventure clearly inspired by the '80s most iconic sci fi films. David Robert Mitchell pulls from the same back of tricks that made It Follows a cult classic to add just enough plumage to the dinosaurs to make his film more than just a Spielberg impression.",
+      "url": "https://www.ign.com/articles/the-end-of-oak-street-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T15:00:00+00:00"
     },
     {
       "id": "b6f83a78d868fedbb061e8cc",
@@ -77,17 +187,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-12T14:05:19+00:00"
-    },
-    {
-      "id": "07d5a03f345c9fc8bbb5c826",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-12T14:03:48+00:00"
     },
     {
       "id": "a6d0fba27761b38e5e44445f",
@@ -299,28 +398,6 @@
       "publishedAt": "2026-08-12T07:44:44+00:00"
     },
     {
-      "id": "7644a6911af9875937303a07",
-      "title": "What Does X-Men '97 Season 2's Post-Credits Scene Mean for Season 3?",
-      "summary": "Here's everything you need to know about the post-credits scene in the X-Men '97 Season 2 finale and what it means for Season 3.",
-      "url": "https://www.ign.com/articles/x-men-97-season-2-post-credits-scene-explained",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T07:30:00+00:00"
-    },
-    {
-      "id": "a227fe0f99b5f942ac845ce4",
-      "title": "X-Men '97 Season 2 Finale Review & Recap: \"Survival of the Fittest\"",
-      "summary": "X-Men '97 again becomes a victim of its relentless pacing in the Season 2 finale, as the final battle with Apocalypse fails to impress.",
-      "url": "https://www.ign.com/articles/x-men-97-season-2-finale-review-recap-survival-of-the-fittest",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T07:00:00+00:00"
-    },
-    {
       "id": "e5422197dcc87e5a1d1d6f19",
       "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
       "summary": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
@@ -365,17 +442,6 @@
       "publishedAt": "2026-08-12T02:51:02+00:00"
     },
     {
-      "id": "b5edcaea91b9d603fc03f55f",
-      "title": "Zack Snyder Returns to Warner Bros. Lot Years After DCEU Exit",
-      "summary": "Zack Snyder made a surprise return to the Warner Bros. lot years after his messy DCEU exit, sparking speculation about his future with the studio.",
-      "url": "https://www.ign.com/articles/zack-snyder-returns-to-warner-bros-lot-years-after-dceu-exit",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T23:56:53+00:00"
-    },
-    {
       "id": "6f97800d85e18b68c6162c33",
       "title": "These seaside apartments were a ghost city - then police say scammers moved in",
       "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
@@ -398,17 +464,6 @@
       "publishedAt": "2026-08-11T23:11:32+00:00"
     },
     {
-      "id": "5ee143ce0ea58ff759925d41",
-      "title": "Save 50% Off the Ecoflow River 3 Plus Power Station With Detachable Power Bank, Now Just $139",
-      "summary": "This is normally a Costco exclusive product that retails for $280.",
-      "url": "https://www.ign.com/articles/ecoflow-river-3-plus-power-station-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T23:05:00+00:00"
-    },
-    {
       "id": "c5c61119600e90420763415a",
       "title": "Tokenomics: Why making AI pay is tricky",
       "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
@@ -418,39 +473,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-11T23:03:52+00:00"
-    },
-    {
-      "id": "b6e5d7443d65716a8ced5d14",
-      "title": "Ditch the Bubble Level, the Fanttik D2 Pocket Green Laser Level Is Priced Under $30",
-      "summary": "Give up the crooked life.",
-      "url": "https://www.ign.com/articles/fanttik-d2-pocket-green-laser-level-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T22:50:00+00:00"
-    },
-    {
-      "id": "b8914672de2e0d66f51aeda8",
-      "title": "The JSAUX Screen Protector Is Dirt Cheap Insurance for Your Nintendo Switch 2 for Just $7",
-      "summary": "In comes in a three pack, in case you mess up (twice).",
-      "url": "https://www.ign.com/articles/nintendo-switch-screen-protector-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T22:50:00+00:00"
-    },
-    {
-      "id": "5193aa61321120e9a2835a18",
-      "title": "Get a 36V 500W Adult Electric Bike for $275 Shipped During the AliExpress Back to School Sale",
-      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "url": "https://www.ign.com/articles/5th-wheel-electric-bike-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T22:45:00+00:00"
     },
     {
       "id": "e765cd434d0be06e6e6a050c",
@@ -593,7 +615,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-11T15:00:11+00:00"
+      "publishedAt": "2026-08-11T15:00:08+00:00"
     },
     {
       "id": "24f37472078da41af3b02938",
