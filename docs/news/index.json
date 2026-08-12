@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-12T12:46:02.558550+00:00",
+  "updatedAt": "2026-08-12T14:14:33.446821+00:00",
   "items": [
+    {
+      "id": "a33f54682221d119bedb1ee0",
+      "title": "US inflation eases as food and fuel costs cool",
+      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T14:09:48+00:00"
+    },
     {
       "id": "07d5a03f345c9fc8bbb5c826",
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
@@ -10,18 +21,7 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-12T12:16:22+00:00"
-    },
-    {
-      "id": "8fa3b4dc24f9f8e4b87cf0c1",
-      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-      "summary": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
-      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-12T12:10:45+00:00"
+      "publishedAt": "2026-08-12T14:03:48+00:00"
     },
     {
       "id": "acea4cda7ed15a6fc0c0aa8c",
@@ -32,7 +32,7 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-12T12:01:34+00:00"
+      "publishedAt": "2026-08-12T13:55:56+00:00"
     },
     {
       "id": "d43b06b18beb8a9fa00804af",
@@ -43,7 +43,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-12T11:32:17+00:00"
+      "publishedAt": "2026-08-12T13:35:12+00:00"
+    },
+    {
+      "id": "b1748489dce898b54ed27519",
+      "title": "Sony Predicts Influx of New Players as Helldivers 2 Drops on the PlayStation Plus Game Catalog Alongside New Update and Warhammer 40,000 Warbond",
+      "summary": "Helldivers 2 has surprised-dropped on the PlayStation Plus catalog alongside a major new update and the long-awaited Warhammer 40,000 crossover Warbond.",
+      "url": "https://www.ign.com/articles/sony-predicts-influx-of-new-players-as-helldivers-2-drops-on-the-playstation-plus-game-catalog-alongside-new-update-and-warhammer-40000-warbond",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T12:33:31+00:00"
+    },
+    {
+      "id": "195ec00efea3d4be7c5d223f",
+      "title": "The Voice of The Witcher's Geralt Says He'd Sue Every Single AI Platform With His Voice on It 'Into the Ground' if He Could",
+      "summary": "Doug Cockle, the voice behind The Witcher’s Geralt, has hit out at AI platforms that feature his voice, saying he’d sue them if he could.",
+      "url": "https://www.ign.com/articles/the-voice-of-the-witchers-geralt-says-hed-sue-every-single-ai-platform-with-his-voice-on-it-into-the-ground-if-he-could",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T12:15:09+00:00"
+    },
+    {
+      "id": "8fa3b4dc24f9f8e4b87cf0c1",
+      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+      "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T12:10:45+00:00"
+    },
+    {
+      "id": "5dbe2fd116e37ce7e4056a48",
+      "title": "How Wet Hot American Summer Went from Box Office Bomb to Cult Classic",
+      "summary": "David Wain reflects on 25 years of Wet Hot American Summer: We talk with the Wet Hot director about the film's origins and if there could be another follow-up.",
+      "url": "https://www.ign.com/articles/how-wet-hot-american-summer-went-from-box-office-bomb-to-cult-classic",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T12:00:00+00:00"
     },
     {
       "id": "3f488a6176e69519649e0b9c",
@@ -387,17 +431,6 @@
       "publishedAt": "2026-08-11T22:11:16+00:00"
     },
     {
-      "id": "2ac47d89410bacdabd5243a2",
-      "title": "HBO's Harry Potter Casts Nicholas Hoult as Gilderoy Lockhart in Season 2",
-      "summary": "Nicholas Hoult has reportedly been cast as Gilderoy Lockhart in Season 2 of HBO's Harry Potter series, taking over the Defense Against the Dark Arts role.",
-      "url": "https://www.ign.com/articles/harry-potter-hbo-nicholas-hoult-gilderoy-lockhart",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T22:07:40+00:00"
-    },
-    {
       "id": "e765cd434d0be06e6e6a050c",
       "title": "Watch: What is it like to travel on Air Force One with Trump?",
       "summary": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without him.",
@@ -407,28 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-11T21:49:01+00:00"
-    },
-    {
-      "id": "5960c4d9f62de45936ed72ad",
-      "title": "This LEGO Duplo Deal at Amazon Is the Perfect First Set to Buy a Toddler",
-      "summary": "Amazon is running a back-to-school sale on LEGO sets for kids today, and there's one Duplo deal that I had to grab for my 2-year-old son.",
-      "url": "https://www.ign.com/articles/this-lego-duplo-deal-at-amazon-is-the-perfect-first-set-to-buy-a-toddler",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T21:45:00+00:00"
-    },
-    {
-      "id": "9e0955b5b6a076615c7223b9",
-      "title": "Stop Killing Games Joins Dutch Consumer Group's $457M Lawsuit Against Sony Over Digital Store 'Monopoly'",
-      "summary": "The Stop Killing Games movement is officially suing Sony, claiming the company’s “monopoly” over the video game market is blatantly “against the law.”",
-      "url": "https://www.ign.com/articles/stop-killing-games-joins-dutch-consumer-groups-457m-lawsuit-against-sony-over-digital-store-monopoly",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-11T21:35:45+00:00"
     },
     {
       "id": "819d7bcaf274ceec403ed423",
@@ -453,9 +464,9 @@
       "publishedAt": "2026-08-11T21:14:56+00:00"
     },
     {
-      "id": "277f30451ec81b25c8c8fa4e",
-      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-      "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+      "id": "1d913efa7a9d9d6332ed54af",
+      "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
+      "summary": "Deceptions of varying complexity are often used to thwart potential threats, former Secret Service agents say.",
       "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -464,10 +475,10 @@
       "publishedAt": "2026-08-11T20:39:42+00:00"
     },
     {
-      "id": "ab44b95aad8d3869ef7c0fb1",
+      "id": "0cb05b79cd5aea2126391c27",
       "title": "Tech Life",
       "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -495,17 +506,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-11T18:52:30+00:00"
-    },
-    {
-      "id": "f951e0ac08f2e1888a9f66f3",
-      "title": "Former judge removed by Orbán elected Hungarian president",
-      "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
-      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-11T18:34:39+00:00"
     },
     {
       "id": "343dcc9e8b54e12b55169007",
