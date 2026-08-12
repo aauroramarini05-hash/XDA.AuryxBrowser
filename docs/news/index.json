@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-12T16:47:18.929841+00:00",
+  "updatedAt": "2026-08-12T17:51:21.032407+00:00",
   "items": [
+    {
+      "id": "dc92902ff0928f1a218acd68",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T17:47:01+00:00"
+    },
+    {
+      "id": "c2883e37532534c227a99e72",
+      "title": "Discord ordered to suspend livestreams in Brazil",
+      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-12T17:10:31+00:00"
+    },
+    {
+      "id": "a33f54682221d119bedb1ee0",
+      "title": "US inflation eases as food and fuel costs cool",
+      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-12T17:03:05+00:00"
+    },
+    {
+      "id": "9e72e769aa891a42b869e53b",
+      "title": "Halo 2's Midnight Release Turns Into a Hostage Situation in a New Short Film",
+      "summary": "A new short film known as Midnight Drop will turn Halo 2's highly anticipated midnight release into the worst night for a group of gamers.",
+      "url": "https://www.ign.com/articles/halo-2s-midnight-release-turns-into-a-hostage-situation-in-a-new-short-film",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:39:46+00:00"
+    },
+    {
+      "id": "d86f99c0de63dd230b243df2",
+      "title": "Warhammer 40,000: Dawn of War 4 Delayed Out of the September Crush, Dev Updates Roadmap of DLC",
+      "summary": "Warhammer 40,000: Dawn of War 4 has been hit by a delay of two-and-a-half months, forcing an update to the DLC roadmap.",
+      "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-delayed-out-of-the-september-crush-dev-updates-roadmap-of-dlc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:36:50+00:00"
+    },
     {
       "id": "c27b7bb80413e73efcf74f16",
       "title": "Thousands of Canadians call for US ambassador's expulsion",
@@ -24,6 +79,94 @@
       "publishedAt": "2026-08-12T16:34:01+00:00"
     },
     {
+      "id": "fad0e8b9a1592ee67bf942d0",
+      "title": "CD Projekt Confirms Layoffs on The Witcher Multiplayer Spinoff, Issues Statement",
+      "summary": "CD Projekt has confirmed layoffs on The Witcher multiplayer spinoff, codenamed Project Sirius.",
+      "url": "https://www.ign.com/articles/cd-projekt-confirms-layoffs-on-the-witcher-multiplayer-spinoff-issues-statement",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:31:24+00:00"
+    },
+    {
+      "id": "09f3fbcdfa283b672ee5128f",
+      "title": "Amazon Is Offering a Great Deal on a RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games",
+      "summary": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
+      "url": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:20:00+00:00"
+    },
+    {
+      "id": "3ee6b2e8c5cafa82c2b748e6",
+      "title": "The CyberPowerPC RTX 5070 Gaming PC Drops to $1,399 Shipped and Includes Two Upcoming PC Games",
+      "summary": "Get Star Wars Galactic Racer and Tomb Raider: Legacy of Atlantis for free as part of the Intel Gamer Days event.",
+      "url": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:20:00+00:00"
+    },
+    {
+      "id": "cf9459536500cf3ed88c95b4",
+      "title": "PlayStation Plus Game Catalog for August 2026 Confirmed",
+      "summary": "Sony has confirmed the PlayStation Plus Game Catalog for August 2026, which is headlined by Helldivers 2, Kingdom Come Deliverance 2, and Vampire Survivors.",
+      "url": "https://www.ign.com/articles/playstation-plus-game-catalog-for-august-2026-confirmed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:19:56+00:00"
+    },
+    {
+      "id": "4f83112a1487220e8c36a168",
+      "title": "How Absolute Batman Reimagines One of Bruce Wayne's Greatest Tragedies",
+      "summary": "It's not easy being Absolute Batman, as the series delivers its own spin on one of the darkest and most tragic Batman stories of all time.",
+      "url": "https://www.ign.com/articles/how-absolute-batman-reimagines-one-of-bruce-waynes-greatest-tragedies",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:16:51+00:00"
+    },
+    {
+      "id": "4526eced2d7b81c0c5891fb0",
+      "title": "Get a Comfortable Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon",
+      "summary": "Three different styles are on sale.",
+      "url": "https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:15:00+00:00"
+    },
+    {
+      "id": "41071afbd4550da368d20005",
+      "title": "The Alienware RTX 5090 Gaming PC Drops to $4,780, Nearly the Same Price as Buying the GPU By Itself",
+      "summary": "An RTX 5090 graphics card nowadays goes for at least $4,500 new and $4,000 used.",
+      "url": "https://www.ign.com/articles/dell-alienware-area-51-intel-edition-rtx-5090-gaming-pc-deal-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:15:00+00:00"
+    },
+    {
+      "id": "b7c1f5bf928f83dceddde7a3",
+      "title": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
+      "summary": "These aren't some no-name games, they'll otherwise cost $59.99 apiece at launch.",
+      "url": "https://www.ign.com/articles/intel-gamer-days-sale-2026-best-walmart-gaming-pc-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:15:00+00:00"
+    },
+    {
       "id": "07d5a03f345c9fc8bbb5c826",
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
       "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
@@ -44,6 +187,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-12T16:11:04+00:00"
+    },
+    {
+      "id": "aa637cd9f3aa2011a160f6b5",
+      "title": "Coyote vs. Acme Review",
+      "summary": "Coyote vs. Acme shows why Looney Tunes are just as funny now as they’ve ever been, with a film that’s an amazingly meta answer to corporate shenanigans, and an hilarious anvil-dropping, rocket-skate-wearing, Batman and Joker dynamic wrapped in a legal drama.",
+      "url": "https://www.ign.com/articles/coyote-vs-acme-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-12T16:01:29+00:00"
     },
     {
       "id": "248c439f2794c16f44920a92",
@@ -167,17 +321,6 @@
       "publishedAt": "2026-08-12T14:10:50+00:00"
     },
     {
-      "id": "a33f54682221d119bedb1ee0",
-      "title": "US inflation eases as food and fuel costs cool",
-      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-12T14:09:48+00:00"
-    },
-    {
       "id": "3c2a59a3efd3b97466191e57",
       "title": "There Are Many Solid The Elder Scrolls 6 Subtitle Theories Based on Xbox Boss Asha Sharma’s Asterisk-Filled Tease — but Let’s Rule Out Skyrim 2 Right Now",
       "summary": "Yesterday, Xbox boss Asha Sharma teased The Elder Scrolls 6 with a tweet confirming she’d witnessed a live playthrough of Bethesda’s hotly anticipated open-world fantasy role-playing game. She did so by using asterisks where the subtitle of the game should be, which was all it took to send The Elder Scrolls fans down a rabbit hole from which they h",
@@ -187,17 +330,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-12T14:05:19+00:00"
-    },
-    {
-      "id": "a6d0fba27761b38e5e44445f",
-      "title": "GTA 5’s Trevor Flipped the Bird at Rockstar's Haters",
-      "summary": "The Genius of Grand Theft Auto 5’s Trevor Philips: how Rockstar turned franchise backlash into an iconic character.",
-      "url": "https://www.ign.com/articles/gta-5-trevor-haters",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T14:00:00+00:00"
     },
     {
       "id": "acea4cda7ed15a6fc0c0aa8c",
@@ -222,28 +354,6 @@
       "publishedAt": "2026-08-12T13:35:12+00:00"
     },
     {
-      "id": "b1748489dce898b54ed27519",
-      "title": "Sony Predicts Influx of New Players as Helldivers 2 Drops on the PlayStation Plus Game Catalog Alongside New Update and Warhammer 40,000 Warbond",
-      "summary": "Helldivers 2 has surprised-dropped on the PlayStation Plus catalog alongside a major new update and the long-awaited Warhammer 40,000 crossover Warbond.",
-      "url": "https://www.ign.com/articles/sony-predicts-influx-of-new-players-as-helldivers-2-drops-on-the-playstation-plus-game-catalog-alongside-new-update-and-warhammer-40000-warbond",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T12:33:31+00:00"
-    },
-    {
-      "id": "195ec00efea3d4be7c5d223f",
-      "title": "The Voice of The Witcher's Geralt Says He'd Sue Every Single AI Platform With His Voice on It 'Into the Ground' if He Could",
-      "summary": "Doug Cockle, the voice behind The Witcher’s Geralt, has hit out at AI platforms that feature his voice, saying he’d sue them if he could.",
-      "url": "https://www.ign.com/articles/the-voice-of-the-witchers-geralt-says-hed-sue-every-single-ai-platform-with-his-voice-on-it-into-the-ground-if-he-could",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T12:15:09+00:00"
-    },
-    {
       "id": "8fa3b4dc24f9f8e4b87cf0c1",
       "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
       "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
@@ -253,17 +363,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-12T12:10:45+00:00"
-    },
-    {
-      "id": "5dbe2fd116e37ce7e4056a48",
-      "title": "How Wet Hot American Summer Went from Box Office Bomb to Cult Classic",
-      "summary": "David Wain reflects on 25 years of Wet Hot American Summer: We talk with the Wet Hot director about the film's origins and if there could be another follow-up.",
-      "url": "https://www.ign.com/articles/how-wet-hot-american-summer-went-from-box-office-bomb-to-cult-classic",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T12:00:00+00:00"
     },
     {
       "id": "3f488a6176e69519649e0b9c",
@@ -288,28 +387,6 @@
       "publishedAt": "2026-08-12T11:28:02+00:00"
     },
     {
-      "id": "d33c83c272a7eaae37e518d1",
-      "title": "Space Marine 2 Maker Saber Interactive Denies Writer's Claim They Were Replaced by ChatGPT, but Admits Rideshare Stimulator Will Feature AI 'By Necessity'",
-      "summary": "Saber Interactive, the company behind Warhammer 40,000: Space Marine 2, has denied it replaced a writer with ChatGPT, but admitted its new taxi game Rideshare Stimulator uses AI \"by necessity.\"",
-      "url": "https://www.ign.com/articles/space-marine-2-maker-saber-interactive-denies-writers-claim-they-were-replaced-by-chatgpt-but-admits-that-rideshare-stimulator-will-feature-ai-by-necessity",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T11:26:50+00:00"
-    },
-    {
-      "id": "c65fcccd353dbe2b32913d13",
-      "title": "Take-Two Boss Strauss Zelnick Says He Asked to Be a Playable Character in WWE 2K26 Because 'I Thought It Would Be Funny for Insiders' — but Don't Expect Him to Pop Up in GTA 6",
-      "summary": "Take-Two boss Strauss Zelnick has spoken for the first time about his surprise addition to the WWE 2K26 roster in June, saying it was his idea and the DLC did quite well actually. But don’t expect the high-powered CEO to appear in GTA 6.",
-      "url": "https://www.ign.com/articles/take-two-boss-strauss-zelnick-says-he-asked-to-be-a-playable-character-in-wwe-2k26-because-i-thought-it-would-be-funny-for-insiders-but-dont-expect-him-to-pop-up-in-gta-6",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T11:02:07+00:00"
-    },
-    {
       "id": "df2e031a8188ecf2a513c400",
       "title": "Eclipse solaire : filmer ou prendre en photo le phénomène peut-il être dangereux pour vos appareils ?",
       "summary": "Garder une trace photographique du phénomène est tentant. Mais des précautions sont de mise, aussi bien pour réussir ses photos… que pour ne pas dégrader son smartphone ou son appareil.",
@@ -321,50 +398,6 @@
       "publishedAt": "2026-08-12T10:34:56+00:00"
     },
     {
-      "id": "e78efb4a8620114c894e0a2e",
-      "title": "Avengers: Doomsday Advert Cost Marvel $160,000 in Fines After Safety Fears",
-      "summary": "Marvel incurred fines totaling $160,000 to display a lavish Avengers: Doomsday advert during San Diego Comic-Con, despite opposition by city officials.",
-      "url": "https://www.ign.com/articles/avengers-doomsday-advert-cost-marvel-160000-in-fines-after-safety-fears",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T10:17:44+00:00"
-    },
-    {
-      "id": "c7d11dfc8c7c362fcad28c84",
-      "title": "Disney Confirms D23 Kingdom Hearts Panel Details, and Given Who's on It, We're Expecting Kingdom Hearts 4 News",
-      "summary": "Kingdom Hearts 4 news looks set for later this week after Disney confirmed the details of its Kingdom Hearts panel at fan convention D23.",
-      "url": "https://www.ign.com/articles/disney-confirms-d23-kingdom-hearts-panel-details-and-given-whos-on-it-were-expecting-kingdom-hearts-4-news",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T09:58:17+00:00"
-    },
-    {
-      "id": "72858508e0b422dd164ae47c",
-      "title": "Huge Helldivers 2 Patch Adds New Illuminate Enemies, a New Biome 'Full of Fresh Horrors,' a Level Cap Increase and Much More",
-      "summary": "Helldivers 2 developer Arrowhead has released a major update for the game, adding new Illuminate enemies, a new biome, and raising the level cap. Check out the 7.0.0 patch notes.",
-      "url": "https://www.ign.com/articles/huge-helldivers-2-patch-adds-new-illuminate-enemies-a-new-biome-full-of-fresh-horrors-a-level-cap-increase-and-much-more",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T09:49:01+00:00"
-    },
-    {
-      "id": "521dda66ea98fe2c76e6cb13",
-      "title": "The Elder Scrolls 6 Demo to Xbox Leadership Included a Giant Inflatable Rat, Placed Outside Bethesda Offices in Protest at Microsoft's Mass Layoffs",
-      "summary": "Bethesda staff have inflated a giant rat outside the company's offices, during a visit by the Xbox management team to play The Elder Scrolls 6.",
-      "url": "https://www.ign.com/articles/the-elder-scrolls-6-demo-to-xbox-leadership-included-a-giant-inflatable-rat-placed-outside-bethesda-offices-in-protest-at-microsofts-mass-layoffs",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T09:41:40+00:00"
-    },
-    {
       "id": "60cfd8f5648349e8c069d302",
       "title": "Tata Group Chairman N Chandrasekaran to step down in February",
       "summary": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
@@ -374,17 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-12T08:50:52+00:00"
-    },
-    {
-      "id": "5d6b73dcff96ef9ba8152245",
-      "title": "Sony Announces Phantom Blade Zero State of Play and Everyone Knows How the Chat Is Going to Go",
-      "summary": "Promising looking action game Phantom Blade Zero is getting its very own State of Play, but if the reaction to Sony’s announcement is any indication, the chat is going to be overrun with angry comments about Sony’s decision to kill PlayStation discs.",
-      "url": "https://www.ign.com/articles/sony-announces-phantom-blade-zero-state-of-play-and-everyone-knows-how-the-chat-is-going-to-go",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T08:43:35+00:00"
     },
     {
       "id": "95bcf1aac38d67f343cc3e0f",
@@ -880,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-05T09:24:18+00:00"
-    },
-    {
-      "id": "f8a6ca5a3b8499e383f50e43",
-      "title": "How tech is helping in the battle against wildfires",
-      "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
-      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-04T23:21:47+00:00"
     },
     {
       "id": "31fa2bc8ec01fd6c9971ab2e",
