@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:31:37.695082+00:00",
+  "updatedAt": "2026-08-13T23:31:54.233230+00:00",
   "items": [
     {
       "id": "fe7c38abefecd584bdb56d39",
@@ -10,18 +10,40 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-13T22:02:54+00:00"
+      "publishedAt": "2026-08-13T23:06:23+00:00"
     },
     {
-      "id": "a0a4f58b45aade4c6ece678b",
-      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "id": "1c95c1d4eda81b903632689d",
+      "title": "Night School Staff Speak Out After Netflix Shuts Down Developer Following 'Top Tier' Launch of Unhinged",
+      "summary": "Netflix is shuttering its Los Angeles-based game studio Night School, best known for side-scrolling psychological thrillers Oxenfree and Oxenfree 2: Lost Signals.",
+      "url": "https://www.ign.com/articles/night-school-staff-speak-out-after-netflix-shuts-down-developer-following-top-tier-launch-of-unhinged",
       "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-13T22:00:10+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T22:43:14+00:00"
+    },
+    {
+      "id": "3d366c028379c1820f29f8e7",
+      "title": "Satechi’s New Six-Port USB-C Desktop Charger Offers 240W of Power",
+      "summary": "",
+      "url": "https://www.ign.com/articles/satechis-new-six-port-usb-c-desktop-charger-offers-240w-of-power",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T22:07:54+00:00"
+    },
+    {
+      "id": "fca76c9c8b51c135f390c29f",
+      "title": "Barnes & Noble's Annual Book Haul Sale Is Back With Deals on Hardcovers and Special Editions",
+      "summary": "It's as good a reason as any to visit your local Barnes & Noble location and just mill about.",
+      "url": "https://www.ign.com/articles/barnes-and-noble-book-haul-sale-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T22:05:47+00:00"
     },
     {
       "id": "22488ccfee0c5ae0758fa78d",
@@ -286,39 +308,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-13T16:25:00+00:00"
-    },
-    {
-      "id": "b7c1f5bf928f83dceddde7a3",
-      "title": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
-      "summary": "These aren't some no-name games, they'll otherwise cost $59.99 apiece at launch.",
-      "url": "https://www.ign.com/articles/intel-gamer-days-sale-2026-best-walmart-gaming-pc-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T16:25:00+00:00"
-    },
-    {
-      "id": "53fc8418a70a8ea1005e08b8",
-      "title": "The New 2026 Hisense U6 Pro TV Delivers Premium Tech and the Latest Gaming Features at a Budget Price",
-      "summary": "Improvements over the U6 include an even brighter picture, an anti-glare screen, and a built-in subwoofer.",
-      "url": "https://www.ign.com/articles/hisense-u6-pro-gaming-tv-deal-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T16:25:00+00:00"
-    },
-    {
-      "id": "41071afbd4550da368d20005",
-      "title": "The Alienware RTX 5090 Gaming PC Drops to $4,780, Nearly the Same Price as Buying the GPU By Itself",
-      "summary": "An RTX 5090 graphics card nowadays goes for at least $4,500 new and $4,000 used.",
-      "url": "https://www.ign.com/articles/dell-alienware-area-51-intel-edition-rtx-5090-gaming-pc-deal-july-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T16:15:00+00:00"
     },
     {
       "id": "1cedc29002d7b247adb7a499",
@@ -979,6 +968,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-06T15:59:34+00:00"
+    },
+    {
+      "id": "d878c3b3ac4f222bad35587e",
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-06T14:50:54+00:00"
     },
     {
       "id": "31fa2bc8ec01fd6c9971ab2e",
