@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-13T18:49:58.416412+00:00",
+  "updatedAt": "2026-08-13T19:51:19.288468+00:00",
   "items": [
+    {
+      "id": "43af35ef377b56c199c8d4c4",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T19:46:27+00:00"
+    },
+    {
+      "id": "b4e3056833fa5f0e06c50222",
+      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T19:08:49+00:00"
+    },
+    {
+      "id": "fe7c38abefecd584bdb56d39",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T19:07:55+00:00"
+    },
+    {
+      "id": "e15b478d3534d2609435168f",
+      "title": "The New Marvel Legends Action Figures Come With an Alt Art MTG Card",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-new-marvel-legends-action-figures-comes-with-an-alt-art-mtg-card-preorder",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T18:53:49+00:00"
+    },
+    {
+      "id": "15efaed3b35f78fc4aa62b0a",
+      "title": "Matthew McConaughey Explains Why He Turned Down Playing Joel in HBO's The Last of Us Show",
+      "summary": "Matthew McConaughey opened up about being approached to star as Joel in HBO’s The Last of Us series and why he had to turn it down.",
+      "url": "https://www.ign.com/articles/matthew-mcconaughey-explains-why-he-turned-down-playing-joel-in-hbos-the-last-of-us-show",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T18:47:52+00:00"
+    },
     {
       "id": "f6cd593c1b56966bf189fc93",
       "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
@@ -13,15 +68,15 @@
       "publishedAt": "2026-08-13T18:45:51+00:00"
     },
     {
-      "id": "fe7c38abefecd584bdb56d39",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "id": "4a082c301bb4af2973c43aeb",
+      "title": "Diplomacy: The Golden Blade Card Game Review",
+      "summary": "Diplomacy: The Golden Blade is a card game that slims down and shortens the gameplay of the original Diplomacy board game, but it's not necessarily the better for it.",
+      "url": "https://www.ign.com/articles/diplomacy-the-golden-blade-card-game-review",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T18:36:02+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T18:09:44+00:00"
     },
     {
       "id": "97d24eb8da59c952c37efa29",
@@ -156,17 +211,6 @@
       "publishedAt": "2026-08-13T16:15:00+00:00"
     },
     {
-      "id": "43af35ef377b56c199c8d4c4",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T16:05:35+00:00"
-    },
-    {
       "id": "fc0acf510673c60741db0344",
       "title": "The 10 Most Expensive MTG Cards in The Hobbit Set",
       "summary": "Here are the most valuable cards in the Magic: The Gathering x The Hobbit set.",
@@ -233,17 +277,6 @@
       "publishedAt": "2026-08-13T15:16:49+00:00"
     },
     {
-      "id": "bae93357126c07e39e4594d5",
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T15:05:12+00:00"
-    },
-    {
       "id": "b75f718ea50a203f5e756758",
       "title": "Adieu « fake news », bonjour « FIMI » : le lexique de la désinformation fait peau neuve",
       "summary": "« Dix ans de post-vérité » (4/5). A peine Donald Trump élu en 2016, l’anglicisme « fake news » se diffuse dans le monde entier. Ambigu, malmené et récupéré, il est aujourd’hui remplacé par des termes plus techniques.",
@@ -292,39 +325,6 @@
       "title": "Insomniac Says There's Plenty in Marvel's Wolverine to Keep People Playing After the Credits Roll, Including New Game Plus Day-One",
       "summary": "Insomniac has confirmed the various features in Marvel's Wolverine designed to keep people playing after the credits roll.",
       "url": "https://www.ign.com/articles/insomniac-says-theres-plenty-in-marvels-wolverine-to-keep-people-playing-after-the-credits-roll-including-new-game-plus-day-one",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T15:00:00+00:00"
-    },
-    {
-      "id": "67f24f44338f7f6fdafb4357",
-      "title": "Marvel's Wolverine: The Final Preview",
-      "summary": "If Insomniac has proved anything over the last eight years, it’s that they know how to make a hell of a superhero game. Marvel's Spider-Man remains one of the PlayStation 4’s defining action games and a shining example of open-world design, as are both of its follow-ups. Now they’re looking to replicate that magic with Marvel's Wolverine, albeit th",
-      "url": "https://www.ign.com/articles/marvels-wolverine-the-final-preview-insomniac-spider-man",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T15:00:00+00:00"
-    },
-    {
-      "id": "b9cbf3387192854cfa565953",
-      "title": "New Call of Duty Zombies Art Book Tops Amazon Charts and Gets Launch Discount",
-      "summary": "Treyarch’s new Call of Duty Zombies art book takes fans through its rich history, including behind-the-scenes developer interviews and \"never-before-seen\" artwork. It's currently topping several Amazon best-seller charts and has also benefited from a launch week discount.",
-      "url": "https://www.ign.com/articles/call-of-duty-zombies-history-art-book-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T15:00:00+00:00"
-    },
-    {
-      "id": "118c2373eb1018958193c496",
-      "title": "Sabretooth Will Actually Steal Wolverine's Kills When They Team Up in Gameplay",
-      "summary": "Sabretooth sounds like a real jerk in Marvel's Wolverine.",
-      "url": "https://www.ign.com/articles/sabretooth-will-actually-steal-wolverines-kills-when-they-team-up-in-gameplay",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
