@@ -1,10 +1,32 @@
 {
-  "updatedAt": "2026-08-13T17:50:42.529489+00:00",
+  "updatedAt": "2026-08-13T18:49:58.416412+00:00",
   "items": [
     {
-      "id": "a8e54a565ff84401dfaf2ff6",
-      "title": "La plateforme des impôts victime d’une cyberattaque",
-      "summary": "Bercy confirme que le système d’information du fisc a été victime fin juin d’un « accès illégitime », permettant « la consultation et l’extraction de données concernant des particuliers et des professionnels ».",
+      "id": "f6cd593c1b56966bf189fc93",
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T18:45:51+00:00"
+    },
+    {
+      "id": "fe7c38abefecd584bdb56d39",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T18:36:02+00:00"
+    },
+    {
+      "id": "97d24eb8da59c952c37efa29",
+      "title": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
+      "summary": "Bercy confirme une partie des affirmations du pirate, à savoir qu’il avait été repéré, en juin, par les services du ministère de l’économie. Mais ce dernier n’avait alors pas communiqué et n’avait surtout, semble-t-il, pas détecté la fuite de données.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -13,15 +35,37 @@
       "publishedAt": "2026-08-13T17:35:58+00:00"
     },
     {
-      "id": "fe7c38abefecd584bdb56d39",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "id": "278c49a865af1f9b2f0dfd7c",
+      "title": "Bose's QuietComfort Ultra Wireless Noise Canceling Headphones Drops Below $200, Save Over 50% Off",
+      "summary": "These headphones have no equal in the sub-$200 price category.",
+      "url": "https://www.ign.com/articles/bose-quietcomfort-ultra-wireless-noise-canceling-headphone-deal-august-2026",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T17:21:00+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:35:00+00:00"
+    },
+    {
+      "id": "553d49ffda2b135f7b85dc49",
+      "title": "A Court of Thorns and Roses Is Getting an Original Strategy Board Game, and Preorders Are Live",
+      "summary": "Take romantasy to the tabletop and fight for favor across the Courts of Prythian.",
+      "url": "https://www.ign.com/articles/acotar-fate-and-favor-board-game-preorder",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:16:49+00:00"
+    },
+    {
+      "id": "d3977f69938ffde39cd94868",
+      "title": "JSAUX Nintendo Switch 2 Carrying Cases Are on Sale Today: Just Pick Your Style",
+      "summary": "Choose between a slim case, a travel case that can fit your dock, and a sling bag.",
+      "url": "https://www.ign.com/articles/jsaux-nintendo-switch-2-case-deals-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:10:00+00:00"
     },
     {
       "id": "5a07e2759e7d6f50ff0e6f1b",
@@ -44,17 +88,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-13T16:52:15+00:00"
-    },
-    {
-      "id": "f6cd593c1b56966bf189fc93",
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "summary": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T16:45:06+00:00"
     },
     {
       "id": "09f3fbcdfa283b672ee5128f",
@@ -299,17 +332,6 @@
       "publishedAt": "2026-08-13T15:00:00+00:00"
     },
     {
-      "id": "56652e79eaedd27224418d0d",
-      "title": "Why the X-Men Don't Exist in Marvel's Wolverine",
-      "summary": "Insomniac explains why it didn't want the X-Men in Marvel's Wolverine.",
-      "url": "https://www.ign.com/articles/why-the-x-men-dont-exist-in-marvels-wolverine",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T15:00:00+00:00"
-    },
-    {
       "id": "e68bb548c0283f625bf80b9d",
       "title": "Who could replace White House Press Secretary Karoline Leavitt?",
       "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
@@ -321,17 +343,6 @@
       "publishedAt": "2026-08-13T14:56:19+00:00"
     },
     {
-      "id": "13ae753bedc9b39fcfab53ee",
-      "title": "Total War: Warhammer 3 Just Confirmed the Release Date for Its Biggest Piece of DLC in the Series 10-Year History",
-      "summary": "Creative Assembly’s Total War: Warhammer 3 will soon get the biggest piece of DLC in the series’ 10-year history, with Lords of the End Times due out on September 24. Here's everything included.",
-      "url": "https://www.ign.com/articles/total-war-warhammer-3-just-confirmed-the-release-date-for-its-biggest-piece-of-dlc-in-the-series-10-year-history",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T14:54:04+00:00"
-    },
-    {
       "id": "41da09b30b7677bb8f583c27",
       "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
       "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
@@ -341,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-13T14:51:44+00:00"
-    },
-    {
-      "id": "6cfe0488eba4279f85f4ff03",
-      "title": "Magic's Marvel Super Heroes Sealed Collector Boosters Are Back In Stock at Amazon",
-      "summary": "Amazon has restocked Magic: The Gathering Marvel Super Heroes Collector Boosters. They're not cheap, but a box of these is your best chance to score ultra-rare cards featuring Iron Man and Thanos.",
-      "url": "https://www.ign.com/articles/mtg-marvel-collector-boosters-amazon-sealed-in-stock-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T14:48:00+00:00"
     },
     {
       "id": "0628ad0fb647dd5a07bec2c3",
