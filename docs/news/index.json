@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-13T10:53:54.768593+00:00",
+  "updatedAt": "2026-08-13T11:39:35.869353+00:00",
   "items": [
+    {
+      "id": "c0efc51c013f274521332e36",
+      "title": "Twitch critiqué après l’annonce de l’entraînement des IA d’Amazon avec les données de ses utilisateurs",
+      "summary": "En intégrant par défaut les contenus des créateurs à l’entraînement des intelligences artificielles d’Amazon, sa maison mère, Twitch a suscité une vague de protestations.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/13/twitch-critique-apres-l-annonce-de-l-entrainement-des-ia-d-amazon-avec-les-donnees-de-ses-utilisateurs_6745796_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-13T11:27:03+00:00"
+    },
+    {
+      "id": "8fe9ee0f53df57d768b40151",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T11:10:31+00:00"
+    },
+    {
+      "id": "bae93357126c07e39e4594d5",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T11:05:03+00:00"
+    },
+    {
+      "id": "9f175d8dc49cf230d395b3fe",
+      "title": "Spider-Man: Brand New Day Writers Insist That, 'Technically,' Jean Grey Didn't Kill Anyone — or So We Should Believe",
+      "summary": "Spider-Man: Brand New Day's screenwriters have stated that Jean Grey did not actually kill anyone during the movie — \"technically\", at least.",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-writers-insist-that-technically-jean-grey-didnt-kill-anyone-or-so-we-should-believe",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T10:56:07+00:00"
+    },
+    {
+      "id": "0628ad0fb647dd5a07bec2c3",
+      "title": "Zambians voting as president bids for second term",
+      "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T10:51:35+00:00"
+    },
     {
       "id": "3a9847d7c26b3f3c29eb32b0",
       "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
@@ -11,6 +66,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-13T10:39:02+00:00"
+    },
+    {
+      "id": "d48cc0b6d49234fb005df1de",
+      "title": "MTG Marvel Commander Deck Bundle Drops to Lowest Price Ever at Amazon",
+      "summary": "Get the MTG x Marvel Commander Deck bundle for just $199.99 at Amazon. Save $100 on all four decks in this limited-time restock deal.",
+      "url": "https://www.ign.com/articles/mtg-marvel-commander-deck-bundle-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T10:31:11+00:00"
     },
     {
       "id": "7329188cd6e489c4329dc8bb",
@@ -24,6 +90,28 @@
       "publishedAt": "2026-08-13T10:17:04+00:00"
     },
     {
+      "id": "977c73c5fa5a2c5c8b300bb5",
+      "title": "Target Offers 20% Off GTA 6 and Marvel’s Wolverine Preorders for Students and Teachers",
+      "summary": "Students and teachers can save 20% on GTA 6 and Marvel’s Wolverine preorders at Target for a limited time in a new \"Back-to-School\" offer.",
+      "url": "https://www.ign.com/articles/target-gta-6-wolverine-preorder-discount",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T10:16:53+00:00"
+    },
+    {
+      "id": "d9607f6b7377d8644422acd0",
+      "title": "Space Marine 2 Maker Saber Interactive Confirms It Will an Add AI Label to Rideshare Stimulator on Steam Following Controversy",
+      "summary": "The boss of Rideshare Stimulator publisher Saber Interactive has confirmed that an AI label will be added to the game's Steam page, following public criticism.",
+      "url": "https://www.ign.com/articles/space-marine-2-maker-saber-interactive-confirms-it-will-an-add-ai-label-to-rideshare-stimulator-on-steam-following-controversy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T10:01:34+00:00"
+    },
+    {
       "id": "ae4675a618ba48dba3e28ce6",
       "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
       "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
@@ -33,17 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-13T09:54:03+00:00"
-    },
-    {
-      "id": "bae93357126c07e39e4594d5",
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T09:52:30+00:00"
     },
     {
       "id": "a4c0281c9b594e6ba1a811ce",
@@ -110,6 +187,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-13T08:19:28+00:00"
+    },
+    {
+      "id": "84180a8bda6840ffd3b08adc",
+      "title": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
+      "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T08:15:10+00:00"
     },
     {
       "id": "b4895445eb30a9eae16d5dd3",
@@ -440,50 +528,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-12T20:50:27+00:00"
-    },
-    {
-      "id": "6290f46b57854ba26bb93149",
-      "title": "The Miskatonic Tales: Journey to Innsmouth Board Game Plays Like a Tabletop RPG Without a GM",
-      "summary": "Miskatonic Tales: Journey to Innsmouth feels less like a board game and more like a fancy way to run a role-playing game without a GM.",
-      "url": "https://www.ign.com/articles/miskatonic-tales-journey-to-innsmouth-board-game-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T20:18:59+00:00"
-    },
-    {
-      "id": "08dcf776bfa9d953ebbd9c63",
-      "title": "Reddit User Cuts Steam Machine Faceplates Out of Same Marble Michelangelo Used",
-      "summary": "A Reddit user has made Steam Machine faceplates out of marble, and they're absolutely gorgeous. Luckily, you might be able to actually buy one.",
-      "url": "https://www.ign.com/articles/reddit-user-cuts-steam-machine-faceplates-out-of-same-marble-michelangelo-used",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T20:12:19+00:00"
-    },
-    {
-      "id": "1b5bd67e9026a1d4c4bd213c",
-      "title": "Barbie 2 May Not Happen as Warner Bros. and Creative Team Clash Over Pay Demands",
-      "summary": "There's a race to get Barbie 2 made, but a financial feud between Warner Bros. and the film's creative team (including Margot Robbie and Ryan Gosling) could kill the project.",
-      "url": "https://www.ign.com/articles/barbie-2-may-not-happen-as-warner-bros-and-creative-team-clash-over-pay-demands",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T20:11:05+00:00"
-    },
-    {
-      "id": "fe93c13f3592a04afd1361c2",
-      "title": "Halo: Campaign Evolved Sales Estimates Put it at a Nearly 50-50 Split Between Xbox and PS5 Buyers",
-      "summary": "Halo: Campaign Evolved, the recently released Unreal Engine 5 remake of the campaign half of original Xbox killer app Halo: Combat Evolved, has sold 1.2 million copies across Xbox, PlayStation 5, and Steam, according to estimates from Alinea Analytics.",
-      "url": "https://www.ign.com/articles/halo-campaign-evolved-sales-estimates-put-it-at-a-nearly-50-50-split-between-xbox-and-ps5-buyers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-12T20:00:56+00:00"
     },
     {
       "id": "3eb228e03851a9b22b55142b",
@@ -858,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-10T05:00:32+00:00"
-    },
-    {
-      "id": "bf26ccd3a3d471a3ebb9e7af",
-      "title": "Réseaux sociaux : « Nous pouvons concevoir un environnement numérique qui soutienne le bien-être »",
-      "summary": "Plutôt que d’interdire ou de limiter l’accès aux plateformes numériques, la psychologue Hedda van ’t Land estime, dans une tribune au « Monde », que les autorités devraient réfléchir à l’environnement numérique comme à un enjeu majeur de santé publique.",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/10/reseaux-sociaux-nous-pouvons-concevoir-un-environnement-numerique-qui-soutienne-le-bien-etre_6743045_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-10T03:45:19+00:00"
     },
     {
       "id": "4b5b6e3158e99c43a223e028",
