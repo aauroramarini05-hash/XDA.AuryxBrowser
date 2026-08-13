@@ -1,16 +1,49 @@
 {
-  "updatedAt": "2026-08-13T06:09:33.369191+00:00",
+  "updatedAt": "2026-08-13T08:11:54.581696+00:00",
   "items": [
+    {
+      "id": "47d8d97ae499c12491fe87eb",
+      "title": "Twitch faces backlash over Amazon using content to train AI",
+      "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T07:32:07+00:00"
+    },
+    {
+      "id": "205fa5952f1d98efe6445f82",
+      "title": "Indian actor's video with endangered gibbon sparks investigation",
+      "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T07:05:35+00:00"
+    },
+    {
+      "id": "8c9ccd9d57acf8e5cc3c72d9",
+      "title": "Amazon is using Twitch to train generative AI",
+      "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+      "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-13T07:04:31+00:00"
+    },
     {
       "id": "8349d0df57ccf7ab2581247d",
       "title": "Japan protests against Putin visit to disputed islands",
-      "summary": "The Russian leader visited the Kuril islands for the first time, according to state media.",
+      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
       "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-13T05:34:04+00:00"
+      "publishedAt": "2026-08-13T06:21:31+00:00"
     },
     {
       "id": "ecdbaefcdfd8bae7ced44b13",
@@ -43,7 +76,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-13T03:59:23+00:00"
+      "publishedAt": "2026-08-13T03:59:21+00:00"
     },
     {
       "id": "dc92902ff0928f1a218acd68",
@@ -55,17 +88,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-13T03:28:56+00:00"
-    },
-    {
-      "id": "09ffbccc9c945b9554543d72",
-      "title": "Twitch users can now block Amazon from using their content to train AI",
-      "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T02:46:04+00:00"
     },
     {
       "id": "cc91737bd735f80ae8588a7a",
@@ -902,17 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-05T13:06:43+00:00"
-    },
-    {
-      "id": "d49836fbed5d60c9d2d6c0f0",
-      "title": "The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group",
-      "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
-      "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-05T10:29:59+00:00"
     },
     {
       "id": "31fa2bc8ec01fd6c9971ab2e",
