@@ -1,16 +1,49 @@
 {
-  "updatedAt": "2026-08-13T16:45:17.620743+00:00",
+  "updatedAt": "2026-08-13T17:50:42.529489+00:00",
   "items": [
+    {
+      "id": "a8e54a565ff84401dfaf2ff6",
+      "title": "La plateforme des impôts victime d’une cyberattaque",
+      "summary": "Bercy confirme que le système d’information du fisc a été victime fin juin d’un « accès illégitime », permettant « la consultation et l’extraction de données concernant des particuliers et des professionnels ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-13T17:35:58+00:00"
+    },
     {
       "id": "fe7c38abefecd584bdb56d39",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
+      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November.",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-13T16:30:06+00:00"
+      "publishedAt": "2026-08-13T17:21:00+00:00"
+    },
+    {
+      "id": "5a07e2759e7d6f50ff0e6f1b",
+      "title": "Wild Blue Skies Review",
+      "summary": "A decent rail shooter that only sometimes finds the courage to be itself.",
+      "url": "https://www.ign.com/articles/wild-blue-skies-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:00:00+00:00"
+    },
+    {
+      "id": "e5ca67f4cb1a43caee219196",
+      "title": "Air India to test all pilots for banned substances",
+      "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
+      "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-13T16:52:15+00:00"
     },
     {
       "id": "f6cd593c1b56966bf189fc93",
@@ -21,7 +54,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-13T16:24:00+00:00"
+      "publishedAt": "2026-08-13T16:45:06+00:00"
+    },
+    {
+      "id": "09f3fbcdfa283b672ee5128f",
+      "title": "Amazon Is Offering a Great Deal on a RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games",
+      "summary": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
+      "url": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T16:25:00+00:00"
+    },
+    {
+      "id": "3ee6b2e8c5cafa82c2b748e6",
+      "title": "The CyberPowerPC RTX 5070 Gaming PC Drops to $1,399 Shipped and Includes Two Upcoming PC Games",
+      "summary": "Get Star Wars Galactic Racer and Tomb Raider: Legacy of Atlantis for free as part of the Intel Gamer Days event.",
+      "url": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T16:25:00+00:00"
+    },
+    {
+      "id": "b7c1f5bf928f83dceddde7a3",
+      "title": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
+      "summary": "These aren't some no-name games, they'll otherwise cost $59.99 apiece at launch.",
+      "url": "https://www.ign.com/articles/intel-gamer-days-sale-2026-best-walmart-gaming-pc-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T16:25:00+00:00"
+    },
+    {
+      "id": "53fc8418a70a8ea1005e08b8",
+      "title": "The New 2026 Hisense U6 Pro TV Delivers Premium Tech and the Latest Gaming Features at a Budget Price",
+      "summary": "Improvements over the U6 include an even brighter picture, an anti-glare screen, and a built-in subwoofer.",
+      "url": "https://www.ign.com/articles/hisense-u6-pro-gaming-tv-deal-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T16:25:00+00:00"
     },
     {
       "id": "228c251d0b29a3a86bbe5860",
@@ -33,6 +110,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-13T16:20:41+00:00"
+    },
+    {
+      "id": "41071afbd4550da368d20005",
+      "title": "The Alienware RTX 5090 Gaming PC Drops to $4,780, Nearly the Same Price as Buying the GPU By Itself",
+      "summary": "An RTX 5090 graphics card nowadays goes for at least $4,500 new and $4,000 used.",
+      "url": "https://www.ign.com/articles/dell-alienware-area-51-intel-edition-rtx-5090-gaming-pc-deal-july-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T16:15:00+00:00"
     },
     {
       "id": "43af35ef377b56c199c8d4c4",
@@ -90,10 +178,10 @@
       "publishedAt": "2026-08-13T15:30:57+00:00"
     },
     {
-      "id": "63c183dc360ed702d5e31727",
+      "id": "efa3f69c8ff8c4d39cdce94d",
       "title": "Krispy Kreme Is Getting 6 New Pokémon-Themed Donuts",
       "summary": "Krispy Kreme has announced a Pokémon doughnut collection that will be available for a limited time starting August 18.",
-      "url": "https://www.ign.com/articles/krispy-kreme-pokemon-dougnut-30th-anniversary-announcement",
+      "url": "https://www.ign.com/articles/krispy-kreme-pokemon-doughnut-30th-anniversary-announcement",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
@@ -222,8 +310,8 @@
       "publishedAt": "2026-08-13T15:00:00+00:00"
     },
     {
-      "id": "5be522ca5bd48aaa95342c0a",
-      "title": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+      "id": "e68bb548c0283f625bf80b9d",
+      "title": "Who could replace White House Press Secretary Karoline Leavitt?",
       "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
       "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -266,28 +354,6 @@
       "publishedAt": "2026-08-13T14:48:00+00:00"
     },
     {
-      "id": "adef116051db4cd03b56257c",
-      "title": "Batman: Arkham Asylum Marked the End of the ‘Sh*tty Licensed Game’ Era",
-      "summary": "We're looking back at milestone games in the run up to Xbox's 25th anniversary. Today, how Batman: Arkham Asylum redefined both licensed video games and developer Rocksteady.",
-      "url": "https://www.ign.com/articles/batman-arkham-asylum-marked-the-end-of-the-shtty-licensed-game-era",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T14:45:00+00:00"
-    },
-    {
-      "id": "8a924374c7b3b99fb0b0219a",
-      "title": "Tomb Raider: Catalyst, the Next Kingdom Come Game From Warhorse, and Darksiders 4 All Due Out by April 2028",
-      "summary": "Embracer group has offered updates on a number of its upcoming video games, narrowing some release windows for big titles.",
-      "url": "https://www.ign.com/articles/tomb-raider-catalyst-the-next-kingdom-come-game-from-warhorse-and-darksiders-4-all-due-out-by-april-2028",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T14:37:10+00:00"
-    },
-    {
       "id": "0628ad0fb647dd5a07bec2c3",
       "title": "Zambians voting as president bids for second term",
       "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
@@ -308,50 +374,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-13T14:09:05+00:00"
-    },
-    {
-      "id": "25f70a821079bf40211cb130",
-      "title": "Pokémon FireRed and LeafGreen Update Coming This October, as Ruby and Sapphire Speculation Swirls",
-      "summary": "Nintendo Switch versions of Pokémon FireRed and LeafGreen will be updated with Pokémon Home support this fall, as speculation mounts that Ruby, Sapphire and Emerald ports are also on the way.",
-      "url": "https://www.ign.com/articles/pokemon-firered-and-leafgreen-update-coming-this-october-as-ruby-and-sapphire-speculation-swirls",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T14:06:16+00:00"
-    },
-    {
-      "id": "1c12f55488feaa3c51059cac",
-      "title": "Nautus: Echoes from Below Announced for PC",
-      "summary": "Magic Design Studios, the developer behind 2022's excellent Have a Nice Death, has revealed its newest project, called Nautus: Echoes from Below. It's double-sided exploration game, where things are cozy and comfortable on the island surface, but when you take your upgradeable and customizable submarine below the water, things get far more mysterio",
-      "url": "https://www.ign.com/articles/nautus-echoes-from-below-announced-for-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T14:00:00+00:00"
-    },
-    {
-      "id": "79b071295c73809c96d93e34",
-      "title": "Kinetic Publishing 2026 Showcase Roundup",
-      "summary": "",
-      "url": "https://www.ign.com/articles/kinetic-publishing-2026-showcase-roundup",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T13:59:10+00:00"
-    },
-    {
-      "id": "7210d1b1804108462c793bb8",
-      "title": "Rob Zombie’s Firefly Horror Movie Trilogy Gets an Ultimate 4K Collection",
-      "summary": "Rob Zombie's horror movie trilogy including House of 1000 Corpses, The Devil's Rejects, and 3 From Hell, is getting a new 4K collection with lots of bonus items. It's up for preorder now.",
-      "url": "https://www.ign.com/articles/rob-zombies-firefly-horror-movie-trilogy-gets-an-ultimate-4k-collection",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T13:54:04+00:00"
     },
     {
       "id": "706184da9eeb4beaafca2681",
@@ -728,17 +750,6 @@
       "publishedAt": "2026-08-12T13:55:56+00:00"
     },
     {
-      "id": "3f488a6176e69519649e0b9c",
-      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-      "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-12T11:28:05+00:00"
-    },
-    {
       "id": "df2e031a8188ecf2a513c400",
       "title": "Eclipse solaire : filmer ou prendre en photo le phénomène peut-il être dangereux pour vos appareils ?",
       "summary": "Garder une trace photographique du phénomène est tentant. Mais des précautions sont de mise, aussi bien pour réussir ses photos… que pour ne pas dégrader son smartphone ou son appareil.",
@@ -924,17 +935,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-10T23:28:40+00:00"
-    },
-    {
-      "id": "1de3641daee10772b1572ab1",
-      "title": "Le témoignage d’une femme recueilli par « Le Monde » met en cause Guillaume Pley pour des messages à caractère sexuel lui étant adressés alors qu’elle était mineure",
-      "summary": "« Le Monde » a pu consulter des conversations datées de 2011 sur la messagerie Facebook de Guillaume Pley entre celui-ci et une adolescente de 14 ans. Dans les messages sont évoqués la possibilité d’un « plan à trois » et l’éventualité que l’adolescente fasse sa « première fois » avec lui.",
-      "url": "https://www.lemonde.fr/pixels/video/2026/08/10/le-temoignage-d-une-femme-recueilli-par-le-monde-met-en-cause-guillaume-pley-pour-des-messages-a-caractere-sexuel-lui-etant-adresses-alors-qu-elle-etait-mineure_6743435_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-10T17:22:10+00:00"
     },
     {
       "id": "5d3189b0c87416d74494fd7c",
