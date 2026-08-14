@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-08-14T10:02:24.460897+00:00",
+  "updatedAt": "2026-08-14T11:37:08.409270+00:00",
   "items": [
+    {
+      "id": "0ac84e0f31054fe10ec617c0",
+      "title": "Piratage du fisc : l’Etat à nouveau victime d’une fuite de données",
+      "summary": "Le fisc a reconnu, jeudi 13 août, avoir été victime d’un nouveau piratage. L’ampleur de la compromission est encore floue, mais elle pourrait concerner plusieurs centaines de milliers de Français.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/piratage-du-fisc-l-etat-a-nouveau-victime-d-une-fuite-de-donnees_6746246_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-14T11:21:02+00:00"
+    },
+    {
+      "id": "1fb4a70f4907193d530407f6",
+      "title": "Vote counting suspended in Zambia over alleged attacks on polling staff",
+      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-14T11:04:04+00:00"
+    },
+    {
+      "id": "6afb5c95e7ff9f7734909fb7",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-14T10:55:39+00:00"
+    },
+    {
+      "id": "a7c8a4e467d50f6efdcb2b60",
+      "title": "Pokémon TCG: Pitch Black Elite Trainer Boxes Are Back in Stock at Amazon",
+      "summary": "Amazon has restocked Pokémon TCG Pitch Black Elite Trainer Boxes and Booster Bundles at prices below TCGplayer market value. Grab them before they sell out.",
+      "url": "https://www.ign.com/articles/pokemon-tcg-pitch-black-etb-booster-amazon-deals-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-14T10:44:10+00:00"
+    },
+    {
+      "id": "802a1de091465f1745a5d152",
+      "title": "Best Buy Has a Massive 24-Hour Sale on Magic: The Gathering — Now Live",
+      "summary": "Save up to 50% on Magic: The Gathering sets during Best Buy’s 24-hour sale, including deep discounts on new Marvel Super Heroes and TMNT releases, alongside the best commander decks of 2026.",
+      "url": "https://www.ign.com/articles/best-buy-has-a-massive-24-hour-sale-on-magic-the-gathering-now-live",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-14T10:36:36+00:00"
+    },
+    {
+      "id": "920353e4175a116f4e2ea158",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-14T10:36:14+00:00"
+    },
+    {
+      "id": "65327c5668ea49206fd63b6d",
+      "title": "Les bons réflexes à avoir en cas de fuite de données",
+      "summary": "« Données personnelles, la grande fuite » (4/9). Impossible d’empêcher les fuites lorsque l’on confie ses données à des administrations ou à des entreprises. Mais quelques réflexes avant et après la fuite sont cependant bénéfiques.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/les-bons-reflexes-a-avoir-en-cas-de-fuite-de-donnees_6691437_4408997.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-14T10:33:08+00:00"
+    },
+    {
+      "id": "6cf116838ae4c725be0677e9",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-14T10:18:02+00:00"
+    },
     {
       "id": "754beea694ebb47ac370d8fb",
       "title": "Magic: The Gathering's The Hobbit Booster Boxes Secure a New Price Cut on Launch Day",
@@ -35,17 +123,6 @@
       "publishedAt": "2026-08-14T08:39:46+00:00"
     },
     {
-      "id": "6afb5c95e7ff9f7734909fb7",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-14T08:34:19+00:00"
-    },
-    {
       "id": "2e8479f8ca8853ffe479c10a",
       "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
       "summary": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
@@ -55,17 +132,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-14T08:02:35+00:00"
-    },
-    {
-      "id": "598cc3dbfea2a8bd702c3427",
-      "title": "'Unprecedented' rain in Japan kills six people",
-      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-14T07:00:56+00:00"
     },
     {
       "id": "657fe86f6c6f9986e116627c",
@@ -332,28 +398,6 @@
       "publishedAt": "2026-08-13T19:43:38+00:00"
     },
     {
-      "id": "52671f3d6a57e81474d83e47",
-      "title": "Who the Heck is the Amazing Venom, and Why Is He Getting His Own Marvel Series?",
-      "summary": "Marvel Comics is launching The Amazing Venom soon, but who the heck is this new character? Check out our exclusive preview and interview to learn more.",
-      "url": "https://www.ign.com/articles/marvel-comics-amazing-venom-preview-interview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T19:21:42+00:00"
-    },
-    {
-      "id": "273ba0e2080e0e4997b12caa",
-      "title": "Today’s Best Deals: $15 Bluetooth Keychain Controller, DC Comics Sale, and LEGO Succulents",
-      "summary": "Plus, save on an adjustable dumbbell, Nintendo eShop Gift Cards, and plenty more.",
-      "url": "https://www.ign.com/articles/best-deals-for-august-13-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-13T19:10:00+00:00"
-    },
-    {
       "id": "f6cd593c1b56966bf189fc93",
       "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
       "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
@@ -528,28 +572,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-13T10:17:03+00:00"
-    },
-    {
-      "id": "7a0720a6cc2645c5652b4bd7",
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T08:15:10+00:00"
-    },
-    {
-      "id": "205fa5952f1d98efe6445f82",
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T07:05:35+00:00"
     },
     {
       "id": "8c9ccd9d57acf8e5cc3c72d9",
@@ -825,28 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-11T04:00:22+00:00"
-    },
-    {
-      "id": "084fd6b4f12e9b6952f3f01d",
-      "title": "Démarchage téléphonique : les nouvelles mesures qui entrent en vigueur le 11 août seront-elles efficaces ?",
-      "summary": "A partir de mardi, tout consommateur devra donner son accord explicite pour être démarché par téléphone. Un nouveau cadre très restrictif, mais qui pourrait malgré tout avoir un impact limité.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/11/demarchage-telephonique-les-nouvelles-mesures-qui-entrent-en-vigueur-le-11-aout-seront-elles-efficaces_6743748_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-11T04:00:01+00:00"
-    },
-    {
-      "id": "ad5ed8fc0f78b98c1d4ef606",
-      "title": "Meta sanctionnée pour destruction de preuves dans une affaire de publicités frauduleuses",
-      "summary": "Un juge fédéral californien a estimé que la société a bien détruit ou laissé s’effacer des données essentielles dans une affaire l’opposant au milliardaire australien, Andrew Forrest, qui accuse la maison mère de Facebook d’avoir laissé prospérer de faux contenus numériques utilisant son image.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/11/meta-sanctionne-pour-destruction-de-preuves-dans-une-affaire-de-publicites-frauduleuses_6743711_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-11T03:25:01+00:00"
     },
     {
       "id": "5d3189b0c87416d74494fd7c",
