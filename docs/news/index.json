@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-14T05:27:47.886061+00:00",
+  "updatedAt": "2026-08-14T07:10:18.313728+00:00",
   "items": [
+    {
+      "id": "3af828eca3990c2a0a3b90bd",
+      "title": "'Unprecedented' rains in Japan kill six people",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-14T07:00:56+00:00"
+    },
     {
       "id": "657fe86f6c6f9986e116627c",
       "title": "« En France, le développement anarchique des data centers relève davantage du Far West que de l’eldorado numérique »",
@@ -286,17 +297,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-13T19:10:00+00:00"
-    },
-    {
-      "id": "b4e3056833fa5f0e06c50222",
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
-      "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-13T19:08:49+00:00"
     },
     {
       "id": "e15b478d3534d2609435168f",
