@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-15T11:11:10.965472+00:00",
+  "updatedAt": "2026-08-15T12:19:09.754810+00:00",
   "items": [
+    {
+      "id": "877d6b82b90353e05c94e82b",
+      "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
+      "summary": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
+      "url": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-15T12:00:00+00:00"
+    },
+    {
+      "id": "6361b0fe9548395c06fef36a",
+      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-15T11:48:58+00:00"
+    },
+    {
+      "id": "dbe60653d07a800582c9a083",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-15T11:25:32+00:00"
+    },
+    {
+      "id": "8b89c361d482ec3ecabe5212",
+      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "summary": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-15T11:24:24+00:00"
+    },
     {
       "id": "3b6d83fff07d0bba768df54e",
       "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
@@ -44,17 +88,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-15T09:29:31+00:00"
-    },
-    {
-      "id": "6361b0fe9548395c06fef36a",
-      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-15T08:52:55+00:00"
     },
     {
       "id": "9af89144285a7f2e94268607",
@@ -142,7 +175,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-15T04:00:29+00:00"
+      "publishedAt": "2026-08-15T04:00:18+00:00"
     },
     {
       "id": "86a2866c8c69d714a64bfcef",
@@ -365,17 +398,6 @@
       "publishedAt": "2026-08-14T21:20:00+00:00"
     },
     {
-      "id": "9ff3a40d3cda61ef1cfc2ac3",
-      "title": "The Project Hail Mary 4K Blu-ray Drops Under $25 for the First Time Ever",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-project-hail-mary-4k-blu-ray-drops-under-25-for-the-first-time-ever",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-14T21:15:00+00:00"
-    },
-    {
       "id": "7ab21b0c7b9ee4abff692d8d",
       "title": "Dozens injured and thousands evacuated in Croatia wildfire",
       "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
@@ -440,17 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-14T17:03:17+00:00"
-    },
-    {
-      "id": "90eb33f875657225b1097f6d",
-      "title": "Five years after the Taliban swept to power, does the West have any influence?",
-      "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-14T17:00:14+00:00"
     },
     {
       "id": "4f35d305bd5306348197e73b",
@@ -847,17 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-10T05:00:32+00:00"
-    },
-    {
-      "id": "4b5b6e3158e99c43a223e028",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-07T09:22:03+00:00"
     },
     {
       "id": "31fa2bc8ec01fd6c9971ab2e",
