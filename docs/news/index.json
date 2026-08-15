@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:16:55.701110+00:00",
+  "updatedAt": "2026-08-15T06:21:18.882498+00:00",
   "items": [
     {
       "id": "8cd8c74b0793d1a52053a6c3",
@@ -55,6 +55,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-15T04:17:03+00:00"
+    },
+    {
+      "id": "fbd9e5d8c128d431dc0ad30f",
+      "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+      "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-15T04:12:55+00:00"
     },
     {
       "id": "9fd54bc331c904c9deb361d6",
