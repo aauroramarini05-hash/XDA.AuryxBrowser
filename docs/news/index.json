@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-15T14:13:00.130986+00:00",
+  "updatedAt": "2026-08-15T15:11:17.525361+00:00",
   "items": [
+    {
+      "id": "58b3d02dfa520ab664ce4645",
+      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-15T15:09:59+00:00"
+    },
+    {
+      "id": "17b80119048f1fbe653f6095",
+      "title": "South Korea proposes talks to officially end war with North",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-15T14:40:15+00:00"
+    },
+    {
+      "id": "dd430d1d2475be63f997c91e",
+      "title": "Piratage du fisc : le parquet de Paris ouvre une enquête",
+      "summary": "Cette cyberattaque contre le système d’information du fisc a permis d’extraire des données de contribuables et d’entreprises lors d’une opération « plus sophistiquée » que « par le passé », a déploré l’administration fiscale vendredi.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/15/piratage-du-fisc-le-parquet-de-paris-ouvre-une-enquete_6746676_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-15T14:24:31+00:00"
+    },
     {
       "id": "3b6d83fff07d0bba768df54e",
       "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
@@ -11,6 +44,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-15T13:41:09+00:00"
+    },
+    {
+      "id": "0c0e85e14bc0939456b2aa0f",
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "summary": "The annual contest has been taking place in Santa Rosa, California.",
+      "url": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-15T13:41:08+00:00"
     },
     {
       "id": "f7d2d32a5abea4f0166bd10e",
@@ -88,17 +132,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-15T10:34:40+00:00"
-    },
-    {
-      "id": "17b80119048f1fbe653f6095",
-      "title": "South Korea proposes talks to officially end war with North",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-15T09:35:23+00:00"
     },
     {
       "id": "40d71dd8cec63d05e8547e85",
@@ -464,6 +497,17 @@
       "publishedAt": "2026-08-14T17:03:17+00:00"
     },
     {
+      "id": "90eb33f875657225b1097f6d",
+      "title": "Five years after the Taliban swept to power, does the West have any influence?",
+      "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-14T17:00:14+00:00"
+    },
+    {
       "id": "4f35d305bd5306348197e73b",
       "title": "Why is Selena Gomez being sued?",
       "summary": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
@@ -792,17 +836,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-12T15:00:04+00:00"
-    },
-    {
-      "id": "b6f83a78d868fedbb061e8cc",
-      "title": "Pologne : les données de la moitié de la population exposées par une cyberattaque",
-      "summary": "Les premiers éléments privilégient la piste de cybercriminels agissant dans un but financier, a estimé le ministre de la numérisation, qui a exclu le paiement de toute rançon et promis de poursuivre « sans relâche » les auteurs.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/12/pologne-les-donnees-de-la-moitie-de-la-population-exposees-par-une-cyberattaque_6745073_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-12T14:51:11+00:00"
     },
     {
       "id": "c5c61119600e90420763415a",
