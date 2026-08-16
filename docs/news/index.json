@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:15:22.673701+00:00",
+  "updatedAt": "2026-08-16T19:14:25.939597+00:00",
   "items": [
     {
       "id": "80444443dd12444dc6d20dff",
@@ -10,7 +10,40 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-16T18:04:25+00:00"
+      "publishedAt": "2026-08-16T19:03:04+00:00"
+    },
+    {
+      "id": "26281b0aa829813a4e5e6b4c",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-16T19:00:23+00:00"
+    },
+    {
+      "id": "0b443d89b9f42b4adb9d8cdc",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-16T18:46:12+00:00"
+    },
+    {
+      "id": "a1b20ac493e9891d1b5eba3a",
+      "title": "Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix",
+      "summary": "Marvel star Simu Liu has offered a positive update on his long-in-development Sleeping Dogs movie adaptation, saying the film has \"a REAL path forward\" as discussions with game publisher Square Enix continue.",
+      "url": "https://www.ign.com/articles/simu-liu-says-sleeping-dogs-movie-has-a-real-path-forward-amid-dealmaking-with-square-enix",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-16T18:31:08+00:00"
     },
     {
       "id": "1f1c0d6b7acd9fc57d6dd91f",
@@ -46,17 +79,6 @@
       "publishedAt": "2026-08-16T15:25:38+00:00"
     },
     {
-      "id": "fde266dfa0d21a35eabcafed",
-      "title": "Teenager arrested in Virginia State University shooting that injured five",
-      "summary": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-16T15:22:50+00:00"
-    },
-    {
       "id": "95a4126debebe9a4eb981652",
       "title": "Piratage du fisc : Sébastien Lecornu présidera lundi une cellule interministérielle de crise",
       "summary": "L’administration fiscale avait reconnu vendredi cette intrusion dans ses systèmes et ainsi révélé que quelque 700 000 particuliers et professionnels en avaient été victimes.",
@@ -77,17 +99,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-16T13:34:38+00:00"
-    },
-    {
-      "id": "1e1fa598f88ac83d582b192c",
-      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-16T12:53:43+00:00"
     },
     {
       "id": "f9ecf1a5bba9563a8570500a",
@@ -528,17 +539,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-15T04:59:26+00:00"
-    },
-    {
-      "id": "d6fe75a5ff98e97243b86b62",
-      "title": "X-Men Cast Confirmed to Include Inde Navarrette as Rogue, Adam Driver as Mister Sinister, Maya Boyd as Storm, and More | D23 2026",
-      "summary": "Marvel Studios has confirmed a long list of names for its new MCU X-Men movie reboot, with its cast now including Inde Navarrette, Adam Driver, Maya Boyd, and more.",
-      "url": "https://www.ign.com/articles/x-men-cast-confirmed-to-include-inde-navarette-as-rogue-adam-driver-as-mister-sinister-maya-boyd-as-storm-and-more-d23-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-15T04:23:44+00:00"
     },
     {
       "id": "e7bb0b41b324ab3850d3fb4e",
