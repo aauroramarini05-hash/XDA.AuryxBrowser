@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-08-16T03:39:50.442410+00:00",
+  "updatedAt": "2026-08-16T04:26:08.370641+00:00",
   "items": [
     {
-      "id": "4a9245a017eadcdb946d47a0",
-      "title": "Six livres pour devenir incollable sur les jeux vidéo",
-      "summary": "Des rues de « Grand Theft Auto » aux dessins préparatoires de « Clair Obscur. Expedition 33 », en passant par une histoire scientifique du gaming, voici une sélection d’ouvrages récents pour approfondir vos connaissances sur un secteur en évolution constante.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/16/six-livres-pour-devenir-incollable-sur-les-jeux-video_6747051_4408996.html",
+      "id": "3afeefdcff00642eb0b12c6d",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-16T03:00:05+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-16T04:13:32+00:00"
+    },
+    {
+      "id": "4fa831d148a91d0c958d322e",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-16T03:54:11+00:00"
     },
     {
       "id": "474a3f037c8cf93329b4752a",
@@ -21,7 +32,18 @@
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
-      "publishedAt": "2026-08-16T02:46:42+00:00"
+      "publishedAt": "2026-08-16T03:23:07+00:00"
+    },
+    {
+      "id": "4a9245a017eadcdb946d47a0",
+      "title": "Six livres pour devenir incollable sur les jeux vidéo",
+      "summary": "Des rues de « Grand Theft Auto » aux dessins préparatoires de « Clair Obscur. Expedition 33 », en passant par une histoire scientifique du gaming, voici une sélection d’ouvrages récents pour approfondir vos connaissances sur un secteur en évolution constante.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/16/six-livres-pour-devenir-incollable-sur-les-jeux-video_6747051_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-16T03:00:05+00:00"
     },
     {
       "id": "5ff08b78c6b41a9c41d1b84f",
@@ -35,8 +57,8 @@
       "publishedAt": "2026-08-16T00:48:49+00:00"
     },
     {
-      "id": "489bbe3dc153256248a171af",
-      "title": "BBC seeks to subpoena members in Panorama lawsuit",
+      "id": "db952536b47d602839f7837b",
+      "title": "BBC seeks to subpoena family members in Panorama lawsuit",
       "summary": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
       "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -66,17 +88,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-15T23:45:44+00:00"
-    },
-    {
-      "id": "4fa831d148a91d0c958d322e",
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-15T23:34:24+00:00"
     },
     {
       "id": "52a5147c12d5ea9a07c44425",
@@ -110,17 +121,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-15T22:29:45+00:00"
-    },
-    {
-      "id": "3afeefdcff00642eb0b12c6d",
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-15T21:49:12+00:00"
     },
     {
       "id": "a9a8278d2d1812bd6dee835e",
