@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:18:32.495072+00:00",
+  "updatedAt": "2026-08-16T10:14:02.606461+00:00",
   "items": [
     {
       "id": "02d40e9f5e61d2f7979c42d8",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-16T09:04:14+00:00"
+      "publishedAt": "2026-08-16T10:09:10+00:00"
+    },
+    {
+      "id": "d5db06cbe4cb68d72be2851f",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-16T09:27:58+00:00"
     },
     {
       "id": "89ac18263ad5ea6b55617346",
@@ -165,17 +176,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-15T21:10:54+00:00"
-    },
-    {
-      "id": "d5db06cbe4cb68d72be2851f",
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-15T21:03:57+00:00"
     },
     {
       "id": "e0a7bbd9c979e9bcab653be5",
