@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-16T07:23:05.542999+00:00",
+  "updatedAt": "2026-08-16T08:17:30.710489+00:00",
   "items": [
+    {
+      "id": "89ac18263ad5ea6b55617346",
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-16T07:58:02+00:00"
+    },
     {
       "id": "29feff79788367582def129a",
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
@@ -11,17 +22,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-16T07:04:17+00:00"
-    },
-    {
-      "id": "e6f762cf1b1ee75136f08fe6",
-      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-16T06:53:22+00:00"
     },
     {
       "id": "3afeefdcff00642eb0b12c6d",
@@ -693,17 +693,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-14T03:45:05+00:00"
-    },
-    {
-      "id": "d3d655fbd3c69cbb4f665cce",
-      "title": "Watch: What happens if Luigi Mangione pleads guilty today?",
-      "summary": "Attorneys for Mangione, who is accused of killing United Healthcare CEO Brian Thompson, are meeting federal prosecutors on Friday.",
-      "url": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-14T01:19:19+00:00"
     },
     {
       "id": "97d24eb8da59c952c37efa29",
