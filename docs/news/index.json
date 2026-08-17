@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-08-17T08:32:21.770148+00:00",
+  "updatedAt": "2026-08-17T09:31:18.961016+00:00",
   "items": [
-    {
-      "id": "9939987c438d4f636f2e90a9",
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-17T07:41:24+00:00"
-    },
     {
       "id": "28d76b3be15888996f3c95a7",
       "title": "Top Zambian opposition figures arrested days after presidential vote",
@@ -21,7 +10,73 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-17T07:31:36+00:00"
+      "publishedAt": "2026-08-17T09:01:06+00:00"
+    },
+    {
+      "id": "f05b122fd5d9cfa07111397e",
+      "title": "Robert Downey Jr. Returns as Iron Man in Avengers Infinity Defense, a New Attraction Where You'll Fight Thanos at Disneyland's Avengers Campus",
+      "summary": "Robert Downey Jr. will reprise his iconic role of Iron Man for Avengers Infinity Defense, a star-studded new battle against Thanos coming to Disneyland's Avengers Campus.",
+      "url": "https://www.ign.com/articles/robert-downey-jr-returns-as-iron-man-in-avengers-infinity-defense-a-new-attraction-where-youll-fight-thanos-at-disneylands-avengers-campus",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-17T08:59:15+00:00"
+    },
+    {
+      "id": "9939987c438d4f636f2e90a9",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-17T08:47:19+00:00"
+    },
+    {
+      "id": "78bf8161cc50ef7b22928fde",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-17T08:43:12+00:00"
+    },
+    {
+      "id": "489e4972957865463ab60482",
+      "title": "Halloween: The Game Will Actually Be Available in New Zealand After All",
+      "summary": "Developer IllFonic alters course, and the game will now be made available digitally for NZ.",
+      "url": "https://www.ign.com/articles/halloween-the-game-will-actually-be-available-in-new-zealand-after-all",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-17T08:39:53+00:00"
+    },
+    {
+      "id": "61793b0ec2939dc280c2cb6e",
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-17T08:38:41+00:00"
+    },
+    {
+      "id": "e492c9ec1f3d0c7ec17f76e6",
+      "title": "Movie that went viral for terrible animation becomes China box office hit",
+      "summary": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-17T08:35:07+00:00"
     },
     {
       "id": "951564428eee7bf497b6bf92",
@@ -55,17 +110,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-17T05:00:25+00:00"
-    },
-    {
-      "id": "78bf8161cc50ef7b22928fde",
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-17T04:50:56+00:00"
     },
     {
       "id": "fc8c81a3c8b1b8e5bb7447cf",
@@ -200,17 +244,6 @@
       "publishedAt": "2026-08-16T21:20:54+00:00"
     },
     {
-      "id": "ef4f3ea588d1eaebd91bf91d",
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
-      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-16T21:04:27+00:00"
-    },
-    {
       "id": "875df09aa479c6adcb89b5f6",
       "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
       "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
@@ -319,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-16T12:18:09+00:00"
-    },
-    {
-      "id": "8b3fe07b6bcbc48b46b640ff",
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-16T11:35:25+00:00"
     },
     {
       "id": "29feff79788367582def129a",
@@ -486,28 +508,6 @@
       "publishedAt": "2026-08-15T16:45:00+00:00"
     },
     {
-      "id": "33aae2953ec85bd773ab2f0f",
-      "title": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
-      "summary": "",
-      "url": "https://www.ign.com/articles/100-marvels-spider-man-games-with-one-month-of-free-ign-guides-checklists",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-15T16:23:00+00:00"
-    },
-    {
-      "id": "aa127b74f37528aa21c4622c",
-      "title": "I Love Handhelds, But I’m Worried the RAM Crisis is Going to Kill Them",
-      "summary": "Handheld gaming PCs have been getting better every year, but with skyrocketing prices, they might not make much sense to either gamers or manufacturers.",
-      "url": "https://www.ign.com/articles/i-love-handhelds-but-im-worried-the-ram-crisis-is-going-to-kill-them",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-15T16:00:00+00:00"
-    },
-    {
       "id": "366864ab1d7a08b80671d2b2",
       "title": "Piratage du fisc : le parquet de Paris ouvre une enquête ; les usagers concernés seront contactés « à compter de lundi »",
       "summary": "Cette cyberattaque contre le système d’information du fisc a permis d’extraire des données de contribuables et d’entreprises lors d’une opération « plus sophistiquée » que « par le passé », a déploré l’administration fiscale, vendredi.",
@@ -607,8 +607,8 @@
       "publishedAt": "2026-08-14T23:06:27+00:00"
     },
     {
-      "id": "7b1a19b4277900cfc3eeaf2e",
-      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "id": "a50d448c956dee23ee12ef3a",
+      "title": "'I shot Mr Thompson' - What it was like inside court as Mangione pleaded guilty",
       "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
       "url": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
