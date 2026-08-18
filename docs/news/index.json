@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-08-18T15:21:33.300820+00:00",
+  "updatedAt": "2026-08-18T16:20:07.542181+00:00",
   "items": [
+    {
+      "id": "6ba1104011611d8de901df50",
+      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T16:00:30+00:00"
+    },
+    {
+      "id": "a633184d8fb6a5065c498d43",
+      "title": "Fantagraphics Kicks Off a New Manga Imprint With Lovers of the Empire",
+      "summary": "Fantagraphics is kicking off a new curated line of East Asian graphic novels with Lovers of the Empire, and we've got an exclusive preview of this gorgeous book.",
+      "url": "https://www.ign.com/articles/fantagraphics-kicks-off-a-new-manga-imprint-with-lovers-of-the-empire",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T16:00:00+00:00"
+    },
+    {
+      "id": "87f774d43df07ca803244c94",
+      "title": "Control Resonant Developer Announces Last-Minute Delay For Physical Edition",
+      "summary": "Control Resonant has been hit by a last-minute delay that will impact the launch of its physical editions.",
+      "url": "https://www.ign.com/articles/control-resonant-developer-announces-last-minute-delay-for-physical-edition",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T15:58:21+00:00"
+    },
+    {
+      "id": "1553bea51b193e6df2a71a92",
+      "title": "« ChatGPT pour ados » et sa détection d’âge automatique arrivent en France",
+      "summary": "OpenAI lance un nouveau mode à l’intention des adolescents, destiné à raisonner leur usage et à les aider au cours de leurs études. Le robot conversationnel pourra basculer automatiquement vers ce mode si l’utilisateur mineur est détecté comme tel.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/18/chatgpt-pour-ados-qui-s-appuie-sur-une-detection-d-age-automatique-arrive-en-france_6749073_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-18T15:47:49+00:00"
+    },
+    {
+      "id": "84ba842605ff464d55a4d758",
+      "title": "EN DIRECT, piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
+      "summary": "David Amiel, ministre de l’action et des comptes publics, a présenté des « excuses » pour le piratage d’ampleur de la Direction générale des finances publiques (DGFiP) qui a abouti au vol des données personnelles de quelque 700 000 particuliers et entreprises.",
+      "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-du-site-des-impots-le-gouvernement-detaille-les-trois-fuites-de-donnees-qui-concernent-aussi-les-donnees-cadastrales-et-les-successions_6749047_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-18T15:27:23+00:00"
+    },
+    {
+      "id": "43925b81e1020ee0ebc0ad5f",
+      "title": "IGN Awesome Indies/gamescom Studio: Co-Streaming Guidelines",
+      "summary": "IGN Awesome Indies/gamescom Studio: Co-Streaming Guidelines",
+      "url": "https://www.ign.com/articles/ign-gamescom-costreaming-guidelines",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T15:27:07+00:00"
+    },
     {
       "id": "9d67dd89ca5b95e04f050ac9",
       "title": "Archie Lives: We Review Every Title in Oni Press' Ambitious Archie Comics Reboot",
@@ -123,8 +189,8 @@
       "publishedAt": "2026-08-18T12:04:11+00:00"
     },
     {
-      "id": "1da647d21ad62e1e76042295",
-      "title": "Drakong’s New Attack on Titan-Themed Collectible Controllers Come In a Blind Box",
+      "id": "29091ffdc599692d3388c6ed",
+      "title": "Drakong’s New Attack on Titan-Themed Collectible Controllers Come in a Blind Box",
       "summary": "These cute, keychain-sized controllers look a bit like a pixelated NES controller paired with one of several characters from Attack on Titan, and will be available via a somewhat unconventional manner: a blind box.",
       "url": "https://www.ign.com/articles/drakongs-new-attack-on-titan-themed-collectible-controllers-come-in-a-blind-box",
       "imageUrl": null,
@@ -145,8 +211,8 @@
       "publishedAt": "2026-08-18T11:36:50+00:00"
     },
     {
-      "id": "5026d520b3e223fe28263389",
-      "title": "Tomb Raider: Legacy of Atlantis is 'Reimagining' The Series' Original Game With a Focus Meter, Skill Tree and Herb Brewing",
+      "id": "5293e2510946111b65aae3c6",
+      "title": "Tomb Raider: Legacy of Atlantis Is 'Reimagining' The Series' Original Game With a Focus Meter, Skill Tree, and Herb Brewing",
       "summary": "Tomb Raider: Legacy of Atlantis will include an RPG-like skill tree, herb brewing and a new chargable focus meter in its reimagining of the series' first game.",
       "url": "https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-is-reimagining-the-series-original-game-with-a-focus-meter-skill-tree-and-herb-brewing",
       "imageUrl": null,
@@ -154,17 +220,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-18T11:36:04+00:00"
-    },
-    {
-      "id": "eb74e10e89067bb1b20a6c6c",
-      "title": "EN DIRECT, piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
-      "summary": "David Amiel, ministre de l’action et des comptes publics, la direction générale des finances publiques (DGFiP) et l’Agence nationale de la sécurité des systèmes d’information (Anssi) prennent la parole après le piratage de données de millions de personnes.",
-      "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-des-sites-des-impots-quels-risques-quelles-responsabilites-qui-est-concerne-posez-vos-questions_6749047_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-18T11:32:26+00:00"
     },
     {
       "id": "1c16ec769e34efa209ed7f85",
@@ -354,8 +409,8 @@
       "publishedAt": "2026-08-18T05:24:15+00:00"
     },
     {
-      "id": "b347c14d2e480a529247d7e1",
-      "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+      "id": "491cd112693ee9f675c8ba61",
+      "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
       "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
       "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -431,17 +486,6 @@
       "publishedAt": "2026-08-18T00:11:10+00:00"
     },
     {
-      "id": "f80146444ec0852f54bbad45",
-      "title": "Amazon's Game of Thrones T-Shirt Sale Has Some Great House of the Dragon Designs",
-      "summary": "",
-      "url": "https://www.ign.com/articles/game-of-thrones-house-of-the-dragon-t-shirt-sale-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T00:02:00+00:00"
-    },
-    {
       "id": "3288dd4aeaaf33d7488907b6",
       "title": "Watch: Why has Trump shifted on North Korea?",
       "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
@@ -462,28 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-17T23:38:10+00:00"
-    },
-    {
-      "id": "c5c5080fc8a658a4ccd637e6",
-      "title": "The 65\" Samsung S90F 4K QD-OLED TV Drops to $1,198 with Free Shipping on Amazon",
-      "summary": "We picked the S90F as the best gaming TV in 2026.",
-      "url": "https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T23:35:00+00:00"
-    },
-    {
-      "id": "a9f1d6738ec1149b6f1ef125",
-      "title": "US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting",
-      "summary": "A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.",
-      "url": "https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T23:10:03+00:00"
     },
     {
       "id": "7212b71bec17520d64790720",
@@ -541,17 +563,6 @@
       "publishedAt": "2026-08-17T18:01:55+00:00"
     },
     {
-      "id": "6127b34a5839db101a832220",
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-17T18:00:55+00:00"
-    },
-    {
       "id": "e84cda7ed6319640ec3fba5c",
       "title": "Piratage du site des impôts : Sébastien Lecornu demande à l’Anssi, l’agence française de cybersécurité, un « audit approfondi »",
       "summary": "Le chef du gouvernement, qui a présidé une cellule interministérielle de crise, a également demandé « que chaque Français concerné par cet incident soit informé individuellement dans les meilleurs délais ».",
@@ -561,17 +572,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-17T17:11:14+00:00"
-    },
-    {
-      "id": "d8922e41f198e3e8bf3ee631",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-17T16:17:34+00:00"
     },
     {
       "id": "eb4adcb06b727e064737e74e",
@@ -781,17 +781,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-14T13:08:10+00:00"
-    },
-    {
-      "id": "0ac84e0f31054fe10ec617c0",
-      "title": "Piratage du fisc : l’Etat à nouveau victime d’une fuite de données",
-      "summary": "Bercy a reconnu, jeudi 13 août, avoir été la cible d’un nouveau piratage. L’ampleur de la compromission est encore floue, mais elle pourrait concerner plusieurs centaines de milliers de Français.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/piratage-du-fisc-l-etat-a-nouveau-victime-d-une-fuite-de-donnees_6746246_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-14T11:21:00+00:00"
     },
     {
       "id": "3e3da339770b3be7a7a7f349",
