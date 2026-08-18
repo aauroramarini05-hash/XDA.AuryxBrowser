@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-18T14:23:03.435136+00:00",
+  "updatedAt": "2026-08-18T15:21:33.300820+00:00",
   "items": [
+    {
+      "id": "9d67dd89ca5b95e04f050ac9",
+      "title": "Archie Lives: We Review Every Title in Oni Press' Ambitious Archie Comics Reboot",
+      "summary": "We check out the first issues of all three of Oni Press' rebooted Archie comics and find that one series rises above the rest.",
+      "url": "https://www.ign.com/articles/archie-comics-reboot-oni-press-review-sabrina",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "id": "6d886f42cc1c9f778e25bf89",
+      "title": "Avengers Star Sebastian Stan Appears to Confirm He's Playing Harvey Dent AKA Two-Face in The Batman: Part 2",
+      "summary": "Sebastian Stan has seemingly confirmed his role as Harvey Dent, AKA Two-Face, in Matt Reeves' upcoming The Batman: Part 2.",
+      "url": "https://www.ign.com/articles/avengers-star-sebastian-stan-appears-to-confirm-hes-playing-harvey-dent-aka-two-face-in-the-batman-part-2",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T14:55:15+00:00"
+    },
     {
       "id": "405ee012d7512318a08c018e",
       "title": "gamescom 2026: How to Watch and Daily Schedule of the Biggest Gaming Event",
@@ -33,6 +55,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-18T13:15:00+00:00"
+    },
+    {
+      "id": "cfa1015fd63ad4c87f87e1ee",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T13:13:54+00:00"
     },
     {
       "id": "049be0fbc8f8d54b5e65ddf2",
@@ -123,8 +156,8 @@
       "publishedAt": "2026-08-18T11:36:04+00:00"
     },
     {
-      "id": "b1d55f62c0ed0de62befbe19",
-      "title": "EN DIRECT, piratage des sites des impôts et de l’éducation nationale : suivez la conférence de presse du gouvernement",
+      "id": "eb74e10e89067bb1b20a6c6c",
+      "title": "EN DIRECT, piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
       "summary": "David Amiel, ministre de l’action et des comptes publics, la direction générale des finances publiques (DGFiP) et l’Agence nationale de la sécurité des systèmes d’information (Anssi) prennent la parole après le piratage de données de millions de personnes.",
       "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-des-sites-des-impots-quels-risques-quelles-responsabilites-qui-est-concerne-posez-vos-questions_6749047_4408996.html",
       "imageUrl": null,
@@ -453,28 +486,6 @@
       "publishedAt": "2026-08-17T23:10:03+00:00"
     },
     {
-      "id": "6f401cbc621583507b1c83f2",
-      "title": "Save $900 Off the Asus ROG Flow Z13 Ultra-Portable Gaming Laptop During the Best Buy Anniversary Sale",
-      "summary": "This 2.56 pound convertible is better at gaming than most full-sized laptops.",
-      "url": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-bestbuy-anniversary-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T22:55:00+00:00"
-    },
-    {
-      "id": "a9495cf8eab0f02d61f51534",
-      "title": "YouTube Reveals View Count Changes That Will Track Views The Instant Someone Hits Play on a Video",
-      "summary": "YouTube has revealed a new view count update that will see videos accumulate views the instant someone hits play.",
-      "url": "https://www.ign.com/articles/youtube-reveals-view-count-changes-that-will-track-views-the-instant-someone-hits-play-on-a-video",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T22:40:50+00:00"
-    },
-    {
       "id": "7212b71bec17520d64790720",
       "title": "Norway's king admitted to hospital and put on sick leave",
       "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
@@ -506,17 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-17T19:25:05+00:00"
-    },
-    {
-      "id": "951564428eee7bf497b6bf92",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-17T18:39:39+00:00"
     },
     {
       "id": "b33fb27f4dad0081559776bd",
@@ -583,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-17T14:54:18+00:00"
-    },
-    {
-      "id": "380dba1e7594081240c0eeca",
-      "title": "US hiker dies after being struck by lightning on Mount Etna",
-      "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
-      "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-17T12:23:26+00:00"
     },
     {
       "id": "d40cf07bdc8b4decc67d5b8c",
