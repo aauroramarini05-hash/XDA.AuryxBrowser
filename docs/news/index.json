@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-18T19:20:51.625864+00:00",
+  "updatedAt": "2026-08-18T20:13:06.959129+00:00",
   "items": [
+    {
+      "id": "512e115d28692ad5a37ee1c1",
+      "title": "Man in doll-mask chases and threatens Philadelphia residents, police say",
+      "summary": "\"It was just weird, like some twisted game.\"",
+      "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T20:01:34+00:00"
+    },
+    {
+      "id": "734640cf65cfb569159b6f6d",
+      "title": "Tech Life",
+      "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-18T20:00:00+00:00"
+    },
+    {
+      "id": "080a85634e6696e74346d8fa",
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T19:52:32+00:00"
+    },
+    {
+      "id": "ade98e9261f99e3ea0bb7392",
+      "title": "Report: Tom Holland Could Earn Up to $100 Million for Spider-Man: Brand New Day Following Record-Breaking Box Office Success",
+      "summary": "Tom Holland stands to make a massive payday from the staggering success of his latest Spidey movie, Spider-Man: Brand New Day.",
+      "url": "https://www.ign.com/articles/report-tom-holland-could-earn-up-to-100-million-for-spider-man-brand-new-day-following-record-breaking-box-office-success",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T19:44:14+00:00"
+    },
+    {
+      "id": "1b1a286b8fe1a08c1b42de9d",
+      "title": "Skip Binksy Will Now Compete With Sweetpea Golightly for Best TV Character Name in Industry Season 5",
+      "summary": "HBO's finance drama has announced seven new additions for Season 5, including a wellness CFO named Skip Binksy, played by Dianna Agron.",
+      "url": "https://www.ign.com/articles/skip-binksy-will-now-compete-with-sweetpea-golightly-for-best-tv-character-name-in-industry-season-5",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T19:22:25+00:00"
+    },
     {
       "id": "a97961ed16fcb062682731ac",
       "title": "US announces new sanctions on top ICC figures",
@@ -11,6 +66,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-18T19:18:30+00:00"
+    },
+    {
+      "id": "201c21f1e7e4e214bb8ac4bd",
+      "title": "The Practical ASUS ZenScreen 16\" 1080p Portable USB Monitor Is on Sale From Newegg via AliExpress",
+      "summary": "Doubles as a secondary monitor for your laptop or a portable display for your Nintendo Switch or Steam Deck.",
+      "url": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T19:10:00+00:00"
     },
     {
       "id": "76d00dac0f78ccb655ac95ea",
@@ -286,39 +352,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-18T15:27:23+00:00"
-    },
-    {
-      "id": "43925b81e1020ee0ebc0ad5f",
-      "title": "IGN Awesome Indies/gamescom Studio: Co-Streaming Guidelines",
-      "summary": "IGN Awesome Indies/gamescom Studio: Co-Streaming Guidelines",
-      "url": "https://www.ign.com/articles/ign-gamescom-costreaming-guidelines",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T15:27:07+00:00"
-    },
-    {
-      "id": "9d67dd89ca5b95e04f050ac9",
-      "title": "Archie Lives: We Review Every Title in Oni Press' Ambitious Archie Comics Reboot",
-      "summary": "We check out the first issues of all three of Oni Press' rebooted Archie comics and find that one series rises above the rest.",
-      "url": "https://www.ign.com/articles/archie-comics-reboot-oni-press-review-sabrina",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T15:00:00+00:00"
-    },
-    {
-      "id": "6d886f42cc1c9f778e25bf89",
-      "title": "Avengers Star Sebastian Stan Appears to Confirm He's Playing Harvey Dent AKA Two-Face in The Batman: Part 2",
-      "summary": "Sebastian Stan has seemingly confirmed his role as Harvey Dent, AKA Two-Face, in Matt Reeves' upcoming The Batman: Part 2.",
-      "url": "https://www.ign.com/articles/avengers-star-sebastian-stan-appears-to-confirm-hes-playing-harvey-dent-aka-two-face-in-the-batman-part-2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T14:55:15+00:00"
     },
     {
       "id": "cfa1015fd63ad4c87f87e1ee",
@@ -957,17 +990,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-07-25T01:00:00+00:00"
-    },
-    {
-      "id": "8df41e88beb4bc618c879653",
-      "title": "Tech Life",
-      "summary": "Dogs have a great sense of smell. Now machines are being trained to sniff out odours.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy5?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-07-21T20:00:00+00:00"
     },
     {
       "id": "b5950398d0a0b3dc335dfa8a",
