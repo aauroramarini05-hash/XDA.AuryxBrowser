@@ -1,16 +1,71 @@
 {
-  "updatedAt": "2026-08-18T09:22:50.400499+00:00",
+  "updatedAt": "2026-08-18T10:18:15.344858+00:00",
   "items": [
+    {
+      "id": "cc3731e3274658415482708f",
+      "title": "Piratage du site des impôts : la direction générale des finances publiques a informé les contribuables concernés",
+      "summary": "Le courriel envoyé aux personnes concernées précise que l’attaque a reposé sur l’utilisation d’identifiants usurpés : ceux d’un agent de la DGFiP ont été combinés à ceux d’un tiers habilité par l’administration.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/18/piratage-du-site-des-impots-la-direction-generale-des-finances-publiques-a-informe-les-contribuables-concernes_6749005_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-18T09:55:45+00:00"
+    },
     {
       "id": "51e596c0e0b3b67c603bf2f3",
       "title": "Russia warns UK will pay for supplying drones to Ukraine",
-      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "summary": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-18T09:11:57+00:00"
+      "publishedAt": "2026-08-18T09:55:00+00:00"
+    },
+    {
+      "id": "a87711f4b95f2492109979af",
+      "title": "Deus Ex, System Shock, and Thief Developer Legend Warren Spector Announces Retirement",
+      "summary": "Video game developer legend Warren Spector has announced his retirement from video game development.",
+      "url": "https://www.ign.com/articles/deus-ex-system-shock-and-thief-developer-legend-warren-spector-announces-retirement",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T09:38:54+00:00"
+    },
+    {
+      "id": "bd896409a9d994db1fad3a49",
+      "title": "Piratage du fisc : protéger le pacte républicain et le consentement à l’impôt",
+      "summary": "Si une large majorité des Français considèrent encore que s’acquitter de ses impôts est un acte citoyen, le vaste piratage de la direction générale des finances publiques, qui touche plusieurs centaines de milliers de contribuables, alimente dangereusement la défiance face aux gouvernants.",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/18/piratage-du-fisc-proteger-le-pacte-republicain-et-le-consentement-a-l-impot_6748938_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-18T09:30:04+00:00"
+    },
+    {
+      "id": "aef38f4d744de365d71b8f40",
+      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+      "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
+      "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-18T09:26:41+00:00"
+    },
+    {
+      "id": "805cc7bed44ed011d422e329",
+      "title": "Marvel Boss Kevin Feige Teases 'Sagas Upon Sagas' of X-Men Movies, With Young Cast Ready for '100 More'",
+      "summary": "Marvel boss Kevin Feige has teased huge plans for X-Men, and said that \"there can be 100 more\" movies featuring the characters.",
+      "url": "https://www.ign.com/articles/marvel-boss-kevin-feige-teases-sagas-upon-sagas-of-x-men-movies-with-young-cast-ready-for-100-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T09:25:45+00:00"
     },
     {
       "id": "40773fb488977b8a184acb1f",
@@ -134,6 +189,17 @@
       "publishedAt": "2026-08-18T05:02:58+00:00"
     },
     {
+      "id": "dfef0b4993ae69855e1fed2d",
+      "title": "Why Indian law students don't want top judge at their graduation ceremony",
+      "summary": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
+      "url": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T04:16:42+00:00"
+    },
+    {
       "id": "567807c0a7e8f4d3dc5b8a4d",
       "title": "Watch: What we learned from opening statements in Tupac murder trial",
       "summary": "The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited trial gets under way.",
@@ -198,6 +264,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-17T23:42:38+00:00"
+    },
+    {
+      "id": "c5a96658283bf65e031460af",
+      "title": "How a goat given as a graduation gift went viral",
+      "summary": "Described as calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
+      "url": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-17T23:38:10+00:00"
     },
     {
       "id": "c5c5080fc8a658a4ccd637e6",
@@ -365,28 +442,6 @@
       "publishedAt": "2026-08-17T20:19:05+00:00"
     },
     {
-      "id": "5c5b1548e2a35fe0ebadcefd",
-      "title": "New ACOTAR Book Titles and Covers Revealed by Sarah J. Maas",
-      "summary": "",
-      "url": "https://www.ign.com/articles/new-acotar-book-titles-and-covers-revealed-by-sarah-j-maas",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T20:08:53+00:00"
-    },
-    {
-      "id": "eeb8b6b418b95115f5771ba1",
-      "title": "Kingdom Hearts Becomes Second Top-Selling Steam Game in the U.S. After Extended D23 Trailer Sparks Fan Excitement",
-      "summary": "Kingdom Hearts is having a big moment on Steam, becoming the platform’s second best-selling game in the United States following the Kingdom Hearts IV gameplay trailer that was shown at D23 over the weekend.",
-      "url": "https://www.ign.com/articles/kingdom-hearts-becomes-second-top-selling-steam-game-in-the-us-after-extended-d23-trailer-sparks-fan-excitement",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T20:05:22+00:00"
-    },
-    {
       "id": "8f199bd9076062597396aad2",
       "title": "Au Brésil, Discord suspend les directs sur la plateforme après le suicide d’une adolescente",
       "summary": "L’agence brésilienne de protection des données avait ordonné mercredi la suspension des directs sur le réseau social, à la suite de la mort d’une adolescente qui aurait été incitée au suicide sur cette plateforme.",
@@ -431,8 +486,8 @@
       "publishedAt": "2026-08-17T18:03:23+00:00"
     },
     {
-      "id": "25b7fccd23a4f566b98abdd9",
-      "title": "Piratage du fisc : le gouvernement empêtré dans une cyberattaque dénoncée par l’opposition comme « la plus grave de l’histoire de notre pays »",
+      "id": "9fc69f8de1738a31ac5b415d",
+      "title": "Piratage du site des impôts : le gouvernement empêtré dans une cyberattaque dénoncée par l’opposition comme « la plus grave de l’histoire de notre pays »",
       "summary": "Le premier ministre, Sébastien Lecornu, a présidé, lundi, une cellule interministérielle de crise pour faire le point sur le piratage informatique d’ampleur qui a touché l’administration fiscale. Une commission d’enquête pourrait voir le jour au Sénat.",
       "url": "https://www.lemonde.fr/politique/article/2026/08/17/fisc-le-gouvernement-empetre-dans-la-cyberattaque-la-plus-grave-de-l-histoire-de-notre-pays_6748415_823448.html",
       "imageUrl": null,
@@ -453,8 +508,8 @@
       "publishedAt": "2026-08-17T18:00:55+00:00"
     },
     {
-      "id": "412a8f70b5bd863ec26e6d4c",
-      "title": "Piratage du fisc : Sébastien Lecornu demande à l’Anssi, l’agence française de cybersécurité, un « audit approfondi »",
+      "id": "e84cda7ed6319640ec3fba5c",
+      "title": "Piratage du site des impôts : Sébastien Lecornu demande à l’Anssi, l’agence française de cybersécurité, un « audit approfondi »",
       "summary": "Le chef du gouvernement, qui a présidé une cellule interministérielle de crise, a également demandé « que chaque Français concerné par cet incident soit informé individuellement dans les meilleurs délais ».",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/17/piratage-du-fisc-sebastien-lecornu-demande-un-audit-approfondi-a-l-anssi_6748409_4408996.html",
       "imageUrl": null,
@@ -517,17 +572,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-16T23:09:39+00:00"
-    },
-    {
-      "id": "178d27a7af49207cbb19fc4a",
-      "title": "Thailand has a gun problem - 10 million of them",
-      "summary": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-16T22:09:04+00:00"
     },
     {
       "id": "95a4126debebe9a4eb981652",
@@ -640,17 +684,6 @@
       "publishedAt": "2026-08-15T04:00:18+00:00"
     },
     {
-      "id": "f285ee65e77134e9e8191d77",
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-14T23:16:43+00:00"
-    },
-    {
       "id": "618dafc734edb68424dcb6ff",
       "title": "Why tech bosses keep sharing their manifestos about AI",
       "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
@@ -750,28 +783,6 @@
       "publishedAt": "2026-08-14T03:45:05+00:00"
     },
     {
-      "id": "97d24eb8da59c952c37efa29",
-      "title": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
-      "summary": "Bercy confirme une partie des affirmations du pirate, à savoir qu’il avait été repéré, en juin, par les services du ministère de l’économie. Mais ce dernier n’avait alors pas communiqué et n’avait surtout, semble-t-il, pas détecté la fuite de données.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-13T17:35:58+00:00"
-    },
-    {
-      "id": "b75f718ea50a203f5e756758",
-      "title": "Adieu « fake news », bonjour « FIMI » : le lexique de la désinformation fait peau neuve",
-      "summary": "« Dix ans de post-vérité » (4/5). A peine Donald Trump élu en 2016, l’anglicisme « fake news » se diffuse dans le monde entier. Ambigu, malmené et récupéré, il est aujourd’hui remplacé par des termes plus techniques.",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/13/adieu-fake-news-bonjour-fimi-le-lexique-de-la-desinformation-fait-peau-neuve_6745813_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-13T15:00:02+00:00"
-    },
-    {
       "id": "3e3da339770b3be7a7a7f349",
       "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
       "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
@@ -869,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-11T12:09:26+00:00"
-    },
-    {
-      "id": "d35e1de93ecd2e98afe1aaab",
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-11T08:44:52+00:00"
     },
     {
       "id": "31fa2bc8ec01fd6c9971ab2e",
