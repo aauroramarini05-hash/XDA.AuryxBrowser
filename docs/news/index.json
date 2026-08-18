@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-18T12:25:54.561020+00:00",
+  "updatedAt": "2026-08-18T13:35:06.372832+00:00",
   "items": [
+    {
+      "id": "049be0fbc8f8d54b5e65ddf2",
+      "title": "Les pirates du site des impôts affirment avoir aussi dérobé des informations personnelles de millions d’élèves au ministère de l’éducation nationale",
+      "summary": "Le groupe baptisé « ZeroBytes », qui a revendiqué le vol de données fiscales depuis les serveurs de la direction générale des finances publiques, dit également avoir mis la main sur des fichiers concernant des millions d’élèves et des dizaines de milliers d’enseignants.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/18/les-pirates-du-site-des-impots-affirment-avoir-aussi-derobe-des-informations-personnelles-de-millions-d-eleves-au-ministere-de-l-education-nationale_6749056_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-18T13:06:35+00:00"
+    },
+    {
+      "id": "81ce016738e95da511e1cce4",
+      "title": "LEGO Batman Returns Batmobile Set Officially Announced",
+      "summary": "LEGO has announced the first-ever Batman Returns Batmobile set, complete with lots of hidden features and easter eggs from the movie.",
+      "url": "https://www.ign.com/articles/lego-batman-returns-batmobile-set-officially-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T13:01:32+00:00"
+    },
+    {
+      "id": "18b2829d3610fa15151672aa",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T12:36:11+00:00"
+    },
     {
       "id": "b55b798ea2e1c2c3f3c8d0a5",
       "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
@@ -22,17 +55,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "id": "18b2829d3610fa15151672aa",
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-18T11:41:23+00:00"
     },
     {
       "id": "40f776291c1475d3196874bd",
@@ -57,9 +79,9 @@
       "publishedAt": "2026-08-18T11:36:04+00:00"
     },
     {
-      "id": "c5d0883e33aa0879d2af920e",
-      "title": "EN DIRECT, piratage du site des impôts : quels risques ? Quelles responsabilités ? Qui est concerné ? Posez vos questions",
-      "summary": "L’administration fiscale s’est fait voler des données liées aux impôts de centaines de milliers de Français. Des pirates informatiques ayant revendiqué le vol de données affirment les avoir revendues. Nos journalistes répondent à vos questions à partir de 14 h 30.",
+      "id": "422a8cfe2217f6fc36518d17",
+      "title": "EN DIRECT, piratage du site des impôts : « La vague récente de vols de données est spectaculaire, mais l’Etat n’est pas inactif : les auteurs de ces piratages finissent en général par être interpellés »",
+      "summary": "L’administration fiscale s’est fait voler des données liées aux impôts de centaines de milliers de Français. Les mêmes pirates informatiques ont revendiqué, lundi, le piratage d’informations personnelles de millions d’élèves. Nos journalistes répondent à vos questions.",
       "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-des-sites-des-impots-quels-risques-quelles-responsabilites-qui-est-concerne-posez-vos-questions_6749047_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -464,17 +486,6 @@
       "publishedAt": "2026-08-17T21:11:18+00:00"
     },
     {
-      "id": "ed9b61a3ac9b2c5cf277fa92",
-      "title": "GPU Swapping Spree Halted After Suspected Thieves Lose Power During Esports Hotel Heist",
-      "summary": "They would have gotten away with it, too, if it weren't for that meddling electrician.",
-      "url": "https://www.ign.com/articles/gpu-swapping-spree-halted-after-suspected-thieves-lose-power-during-esports-hotel-heist",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T20:57:42+00:00"
-    },
-    {
       "id": "8f199bd9076062597396aad2",
       "title": "Au Brésil, Discord suspend les directs sur la plateforme après le suicide d’une adolescente",
       "summary": "L’agence brésilienne de protection des données avait ordonné mercredi la suspension des directs sur le réseau social, à la suite de la mort d’une adolescente qui aurait été incitée au suicide sur cette plateforme.",
@@ -792,17 +803,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-14T11:21:00+00:00"
-    },
-    {
-      "id": "65327c5668ea49206fd63b6d",
-      "title": "Les bons réflexes à avoir en cas de fuite de données",
-      "summary": "« Données personnelles, la grande fuite » (4/9). Impossible d’empêcher les fuites lorsque l’on confie ses données à des administrations ou à des entreprises. Mais quelques réflexes avant et après la fuite sont cependant bénéfiques.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/les-bons-reflexes-a-avoir-en-cas-de-fuite-de-donnees_6691437_4408997.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-14T10:33:02+00:00"
     },
     {
       "id": "3e3da339770b3be7a7a7f349",
