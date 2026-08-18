@@ -1,16 +1,82 @@
 {
-  "updatedAt": "2026-08-18T20:13:06.959129+00:00",
+  "updatedAt": "2026-08-18T21:14:11.320289+00:00",
   "items": [
     {
-      "id": "512e115d28692ad5a37ee1c1",
-      "title": "Man in doll-mask chases and threatens Philadelphia residents, police say",
-      "summary": "\"It was just weird, like some twisted game.\"",
+      "id": "f9f75c9564816f9b963b5ffa",
+      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
+      "url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T20:48:09+00:00"
+    },
+    {
+      "id": "11187e1ccfd48403a3374493",
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T20:39:36+00:00"
+    },
+    {
+      "id": "b2876193a9cee6d338f6d839",
+      "title": "Walmart Is Offering a Great Deal on a RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games",
+      "summary": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
+      "url": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T20:30:00+00:00"
+    },
+    {
+      "id": "c18233b58d998ecf53b2bfc4",
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "summary": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week.",
       "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-18T20:01:34+00:00"
+      "publishedAt": "2026-08-18T20:27:44+00:00"
+    },
+    {
+      "id": "a97961ed16fcb062682731ac",
+      "title": "US announces new sanctions on top ICC figures",
+      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T20:21:49+00:00"
+    },
+    {
+      "id": "77a248390bebb92078c22d6c",
+      "title": "Wonder Man's Cancellation Was the Last Straw for Me: Why I'm Looking to Other Cinematic Universes for Hope",
+      "summary": "",
+      "url": "https://www.ign.com/articles/wonder-man-cancellation-ended-all-hope-i-had-for-the-future-of-the-mcu",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T20:15:00+00:00"
+    },
+    {
+      "id": "1dbbdb2e4feedc9fa353b234",
+      "title": "Suspect Wearing Chucky Mask Accused of Threatening, Chasing, and Terrifying Philadelphia Residents",
+      "summary": "Police in Philadelphia are on the hunt for a suspect accused of terrorizing citizens while wearing a mask resembling Chucky the doll.",
+      "url": "https://www.ign.com/articles/suspect-wearing-chucky-mask-accused-of-threatening-chasing-and-terrifying-philadelphia-residents",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T20:14:37+00:00"
     },
     {
       "id": "734640cf65cfb569159b6f6d",
@@ -46,6 +112,17 @@
       "publishedAt": "2026-08-18T19:44:14+00:00"
     },
     {
+      "id": "ccda8dc1793845a835531b9d",
+      "title": "Piratage du fisc : le ministère des comptes publics présente ses « excuses » mais peine à contenir la crise",
+      "summary": "David Amiel a dévoilé des premières « mesures d’urgence » après la vaste attaque informatique visant le fisc. Pour ne rien arranger, l’administration fiscale a révélé une nouvelle brèche dans ses systèmes.",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/18/piratage-du-fisc-bercy-presente-ses-excuses-mais-peine-a-contenir-la-crise_6749090_823448.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-18T19:37:01+00:00"
+    },
+    {
       "id": "1b1a286b8fe1a08c1b42de9d",
       "title": "Skip Binksy Will Now Compete With Sweetpea Golightly for Best TV Character Name in Industry Season 5",
       "summary": "HBO's finance drama has announced seven new additions for Season 5, including a wellness CFO named Skip Binksy, played by Dianna Agron.",
@@ -55,17 +132,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-18T19:22:25+00:00"
-    },
-    {
-      "id": "a97961ed16fcb062682731ac",
-      "title": "US announces new sanctions on top ICC figures",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-18T19:18:30+00:00"
     },
     {
       "id": "201c21f1e7e4e214bb8ac4bd",
@@ -277,28 +343,6 @@
       "publishedAt": "2026-08-18T16:25:00+00:00"
     },
     {
-      "id": "11187e1ccfd48403a3374493",
-      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-18T16:22:54+00:00"
-    },
-    {
-      "id": "10feb553aee97554813c1a46",
-      "title": "Dune: Part Three Trailer Kicks Off Ticket Sales, Reveals Edric's Voice",
-      "summary": "We have a new Dune: Part Three trailer to kick off tickets going on sale for what is expected to be one of the biggest movies of 2026.",
-      "url": "https://www.ign.com/articles/dune-part-three-trailer-kicks-off-ticket-sales-reveals-edrics-voice",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T16:05:24+00:00"
-    },
-    {
       "id": "6ba1104011611d8de901df50",
       "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
       "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
@@ -308,28 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-18T16:00:30+00:00"
-    },
-    {
-      "id": "a633184d8fb6a5065c498d43",
-      "title": "Fantagraphics Kicks Off a New Manga Imprint With Lovers of the Empire",
-      "summary": "Fantagraphics is kicking off a new curated line of East Asian graphic novels with Lovers of the Empire, and we've got an exclusive preview of this gorgeous book.",
-      "url": "https://www.ign.com/articles/fantagraphics-kicks-off-a-new-manga-imprint-with-lovers-of-the-empire",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T16:00:00+00:00"
-    },
-    {
-      "id": "87f774d43df07ca803244c94",
-      "title": "Control Resonant Developer Announces Last-Minute Delay For Physical Edition",
-      "summary": "Control Resonant has been hit by a last-minute delay that will impact the launch of its physical editions.",
-      "url": "https://www.ign.com/articles/control-resonant-developer-announces-last-minute-delay-for-physical-edition",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T15:58:21+00:00"
     },
     {
       "id": "1553bea51b193e6df2a71a92",
@@ -847,17 +869,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-14T14:12:17+00:00"
-    },
-    {
-      "id": "4b5c24fbf5e9ea56c1a98a60",
-      "title": "L’interdiction des réseaux sociaux aux moins de 15 ans censurée par le Conseil constitutionnel, au nom de la liberté d’expression",
-      "summary": "Emmanuel Macron a aussitôt réagi en chargeant Sébastien Lecornu de « travailler » à une nouvelle rédaction « juridiquement robuste » de la loi « d’ici au printemps 2027 ». C’était un engagement présidentiel de longue date.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/l-interdiction-des-reseaux-sociaux-aux-moins-de-quinze-ans-censuree-par-le-conseil-constitutionnel_6746255_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-14T13:08:10+00:00"
     },
     {
       "id": "3e3da339770b3be7a7a7f349",
