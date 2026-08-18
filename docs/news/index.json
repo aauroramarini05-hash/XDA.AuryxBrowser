@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-08-18T11:16:20.220142+00:00",
+  "updatedAt": "2026-08-18T12:25:54.561020+00:00",
   "items": [
+    {
+      "id": "b55b798ea2e1c2c3f3c8d0a5",
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "summary": "Recovery efforts continue in what is the country's deadliest transport disaster.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T12:04:11+00:00"
+    },
+    {
+      "id": "1da647d21ad62e1e76042295",
+      "title": "Drakong’s New Attack on Titan-Themed Collectible Controllers Come In a Blind Box",
+      "summary": "These cute, keychain-sized controllers look a bit like a pixelated NES controller paired with one of several characters from Attack on Titan, and will be available via a somewhat unconventional manner: a blind box.",
+      "url": "https://www.ign.com/articles/drakongs-new-attack-on-titan-themed-collectible-controllers-come-in-a-blind-box",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T12:00:00+00:00"
+    },
+    {
+      "id": "18b2829d3610fa15151672aa",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T11:41:23+00:00"
+    },
+    {
+      "id": "40f776291c1475d3196874bd",
+      "title": "'No Disc No Buy' Comments Dominate Sony's Phantom Blade Zero State of Play Livestream, as Planned PlayStation Boycott Nears",
+      "summary": "Sony held its planned Phantom Blade Zero State of Play livestream with — somewhat surprisingly — the comments turned on, and they went exactly how everyone thought they would.",
+      "url": "https://www.ign.com/articles/no-disc-no-buy-comments-dominate-sonys-phantom-blade-zero-state-of-play-livestream-as-planned-playstation-boycott-nears",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T11:36:50+00:00"
+    },
+    {
+      "id": "5026d520b3e223fe28263389",
+      "title": "Tomb Raider: Legacy of Atlantis is 'Reimagining' The Series' Original Game With a Focus Meter, Skill Tree and Herb Brewing",
+      "summary": "Tomb Raider: Legacy of Atlantis will include an RPG-like skill tree, herb brewing and a new chargable focus meter in its reimagining of the series' first game.",
+      "url": "https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-is-reimagining-the-series-original-game-with-a-focus-meter-skill-tree-and-herb-brewing",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T11:36:04+00:00"
+    },
+    {
+      "id": "c5d0883e33aa0879d2af920e",
+      "title": "EN DIRECT, piratage du site des impôts : quels risques ? Quelles responsabilités ? Qui est concerné ? Posez vos questions",
+      "summary": "L’administration fiscale s’est fait voler des données liées aux impôts de centaines de milliers de Français. Des pirates informatiques ayant revendiqué le vol de données affirment les avoir revendues. Nos journalistes répondent à vos questions à partir de 14 h 30.",
+      "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-des-sites-des-impots-quels-risques-quelles-responsabilites-qui-est-concerne-posez-vos-questions_6749047_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-18T11:32:26+00:00"
+    },
+    {
+      "id": "1c16ec769e34efa209ed7f85",
+      "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+      "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
+      "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-18T11:26:26+00:00"
+    },
     {
       "id": "54618a63f13600ec7e6298f7",
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
@@ -37,24 +114,13 @@
     {
       "id": "cc3731e3274658415482708f",
       "title": "Piratage du site des impôts : la direction générale des finances publiques a informé les contribuables concernés",
-      "summary": "Le courriel envoyé aux personnes concernées précise que l’attaque a reposé sur l’utilisation d’identifiants usurpés : ceux d’un agent de la DGFiP ont été combinés à ceux d’un tiers habilité par l’administration.",
+      "summary": "Le courriel envoyé par la direction générale des finances publiques précise que l’attaque a reposé sur l’utilisation d’identifiants usurpés : ceux d’un agent de la DGFiP ont été combinés à ceux d’un tiers habilité par l’administration.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/18/piratage-du-site-des-impots-la-direction-generale-des-finances-publiques-a-informe-les-contribuables-concernes_6749005_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-18T09:55:44+00:00"
-    },
-    {
-      "id": "51e596c0e0b3b67c603bf2f3",
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
-      "summary": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-18T09:55:00+00:00"
     },
     {
       "id": "a87711f4b95f2492109979af",
@@ -76,7 +142,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-18T09:30:04+00:00"
+      "publishedAt": "2026-08-18T09:30:03+00:00"
     },
     {
       "id": "aef38f4d744de365d71b8f40",
@@ -409,39 +475,6 @@
       "publishedAt": "2026-08-17T20:57:42+00:00"
     },
     {
-      "id": "d3c43e60d7a1fa6eed6b96bf",
-      "title": "Spider-Man: Brand New Day Nearly Featured a Different Identity-Swapping Villain Before Sony's Kraven the Hunter Got in the Way",
-      "summary": "Spider-Man: Brand New Day almost introduced a very different identity-swapping villain to the MCU than the one it ended up going with.",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-nearly-featured-a-different-identity-swapping-villain-before-sonys-kraven-the-hunter-got-in-the-way",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T20:41:50+00:00"
-    },
-    {
-      "id": "4f7b69dd1539df8200b0d781",
-      "title": "The $200 TCL 55\" 4K Roku TV Is One of the Best Deals to Come Out of Best Buy's 60th Anniversary Sale",
-      "summary": "Everything you need in a TV at a rock bottom price.",
-      "url": "https://www.ign.com/articles/best-budget-tv-deal-best-buy-anniversary-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T20:40:00+00:00"
-    },
-    {
-      "id": "e2589350e5793a66b9fd27f0",
-      "title": "Every Disney Game on the Nintendo Switch and Switch 2 in 2026",
-      "summary": "If you're looking to get your Disney (or Pixar) fix on the Switch, we've got you covered.",
-      "url": "https://www.ign.com/articles/all-disney-games-on-nintendo-switch-in-order",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-17T20:32:00+00:00"
-    },
-    {
       "id": "8f199bd9076062597396aad2",
       "title": "Au Brésil, Discord suspend les directs sur la plateforme après le suicide d’une adolescente",
       "summary": "L’agence brésilienne de protection des données avait ordonné mercredi la suspension des directs sur le réseau social, à la suite de la mort d’une adolescente qui aurait été incitée au suicide sur cette plateforme.",
@@ -772,17 +805,6 @@
       "publishedAt": "2026-08-14T10:33:02+00:00"
     },
     {
-      "id": "657fe86f6c6f9986e116627c",
-      "title": "« En France, le développement anarchique des data centers relève davantage du Far West que de l’eldorado numérique »",
-      "summary": "Après le retrait du permis de construire d’un projet de centre de données au Bourget, Stéphane Troussel, président du conseil départemental de Seine-Saint-Denis, appelle, dans une tribune au « Monde », à un temps de pause et de concertation, dans l’intérêt des habitants.",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/14/en-france-le-developpement-anarchique-des-data-centers-releve-davantage-du-far-west-que-de-l-eldorado-numerique_6746141_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-14T03:45:05+00:00"
-    },
-    {
       "id": "3e3da339770b3be7a7a7f349",
       "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
       "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
@@ -869,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-11T19:30:00+00:00"
-    },
-    {
-      "id": "63af5a99f417b3b949f42e86",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-11T12:09:26+00:00"
     },
     {
       "id": "31fa2bc8ec01fd6c9971ab2e",
