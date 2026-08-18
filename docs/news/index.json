@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-08-18T22:12:44.503441+00:00",
+  "updatedAt": "2026-08-18T23:13:11.004825+00:00",
   "items": [
+    {
+      "id": "6042eb157efd092b653b8f15",
+      "title": "Meta : en ouverture de son procès en Californie, la maison mère de Facebook et d’Instagram accusée d’avoir « appâté » les enfants",
+      "summary": "Le géant de la tech affronte, devant la justice fédérale, l’accusation d’une trentaine d’Etats américains d’avoir rendu ses réseaux sociaux addictifs pour les mineurs. Le groupe se voit réclamer quelque 193 milliards de dollars et une refonte de ses deux applications phares.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/meta-en-ouverture-de-son-proces-en-californie-la-maison-mere-de-facebook-et-d-instagram-accusee-d-avoir-appate-les-enfants_6749157_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-18T23:02:25+00:00"
+    },
+    {
+      "id": "935906cd5d3eb8a99c6f11c6",
+      "title": "Call of Duty Socials Accidentally Post Placeholder Marketing Image for Modern Warfare 4, Fans Suspect AI Usage",
+      "summary": "The Call of Duty socials team accidentally posted an internal marketing image for Modern Warfare 4, and fans suspect it may be AI-generated.",
+      "url": "https://www.ign.com/articles/call-of-duty-socials-accidentally-post-placeholder-marketing-image-for-modern-warfare-4-fans-suspect-ai-usage",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T23:00:04+00:00"
+    },
+    {
+      "id": "f37896b21e2f90de9f4c8116",
+      "title": "Olivia Cooke Makes a Surprise Return in the Trailer for Slow Horses Season 6",
+      "summary": "The first trailer for Slow Horses Season 6 confirms that Olivia Cooke and Rosalind Eleazar are back.",
+      "url": "https://www.ign.com/articles/olivia-cooke-makes-a-surprise-return-in-the-trailer-for-slow-horses-season-6",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T22:53:08+00:00"
+    },
+    {
+      "id": "0cdeebb325fc942b4c695974",
+      "title": "'She's Doing Nothing Wrong' — Former Peter Pan Actor Defends Viral Fan Accused of 'Stalking' Him at Disneyland",
+      "summary": "A former Disneyland character actor is speaking out to defend a fan who went viral after her social media posts sparked backlash from viewers.",
+      "url": "https://www.ign.com/articles/shes-doing-nothing-wrong-former-peter-pan-actor-defends-viral-fan-accused-of-stalking-him-at-disneyland",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T22:50:55+00:00"
+    },
+    {
+      "id": "de23dce3dfc4b162962bb5cb",
+      "title": "Save 40% Off This Portable Battery-Powered Fan, 20,000mAh Power Bank, and LED Lamp in One",
+      "summary": "Off-grid freedom.",
+      "url": "https://www.ign.com/articles/bougerv-portable-tabletop-fan-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T22:40:00+00:00"
+    },
+    {
+      "id": "94350523efea6daac317d15e",
+      "title": "The Indian activist jailed after taking on a luxury hotel plan",
+      "summary": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T22:18:50+00:00"
+    },
+    {
+      "id": "226b56ea1f2d4995678f6b84",
+      "title": "GTA 6 Gameplay and Map Appear to Leak Online, Group Reportedly Responsible Threatens Rockstar Over All-Digital Future",
+      "summary": "Grand Theft Auto 6 appears to have suffered yet another significant leak after what looks like legitimate gameplay videos and an image of the full map appeared online. Rockstar has yet to comment.",
+      "url": "https://www.ign.com/articles/gta-6-gameplay-and-map-appear-to-leak-online-group-reportedly-responsible-threatens-rockstar-over-all-digital-future",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T22:15:13+00:00"
+    },
+    {
+      "id": "3010768150b5d040f997f1d7",
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-18T22:11:07+00:00"
+    },
     {
       "id": "b0cdde6b80428abc8a3e0fbb",
       "title": "One of Breaking Bad's Best Episodes Is Coming to Theaters Soon",
@@ -244,39 +332,6 @@
       "publishedAt": "2026-08-18T18:40:00+00:00"
     },
     {
-      "id": "92ee39e45b09ff4ac9b25c64",
-      "title": "Uncharted: Drake's Fortune Developer Reveals the Game Had Dynamic Difficulty to Stop Players From Finishing It Too Quickly",
-      "summary": "A former Naughty Dog developer has revealed that Uncharted: Drake's Fortune had dynamic scaling difficulty in order to make the game longer.",
-      "url": "https://www.ign.com/articles/uncharted-drakes-fortune-developer-reveals-the-game-had-dynamic-difficulty-to-stop-players-from-finishing-it-too-quickly",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T18:39:41+00:00"
-    },
-    {
-      "id": "e1cf7423ce859d47132f1578",
-      "title": "GameStop Customer Trades in Hundreds of Broken Consoles for More Than $10,000 in Store Credit",
-      "summary": "A GameStop customer from Clackamas, Oregon is going viral after trading in hundreds of old, busted consoles to earn over $10,000 in store credit from the games retailer.",
-      "url": "https://www.ign.com/articles/gamestop-customer-trades-in-hundreds-of-broken-consoles-for-more-than-10000-in-store-credit",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T18:20:56+00:00"
-    },
-    {
-      "id": "80cd2bc346763a8e67cb968a",
-      "title": "The Gamesir G7 Pro Is the Best Wireless PC Gaming Controller Under $100, And You Can Get It for Half That",
-      "summary": "Gamesir's official AliExpress storefront is offering a huge 35% off discount.",
-      "url": "https://www.ign.com/articles/gamesir-g7-pro-pc-gaming-controller-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T18:20:00+00:00"
-    },
-    {
       "id": "c4a997367ef756fa3f7b0d20",
       "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
       "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
@@ -286,28 +341,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-18T17:54:46+00:00"
-    },
-    {
-      "id": "f9603127b05e6a2657489ecf",
-      "title": "Toy Story 5 Lands on Digital After Massive Box Office Run",
-      "summary": "Toy Story 5 has landed on digital, and the latest Pixar sequel is surprisingly cheap to rent.",
-      "url": "https://www.ign.com/articles/how-to-watch-toy-story-5-streaming",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T17:35:19+00:00"
-    },
-    {
-      "id": "6640cb92df553e2a582139ae",
-      "title": "Get a 1,000W 48V Adult Electric Bike With 28mph Top Speed and 80 Mile Range for Just $240 Shipped",
-      "summary": "Stackable coupon code and PayPal discount drops the price to the lowest ever.",
-      "url": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T17:20:00+00:00"
     },
     {
       "id": "b8901afecd22f9d94b5c8b42",
@@ -695,17 +728,6 @@
       "publishedAt": "2026-08-16T23:21:37+00:00"
     },
     {
-      "id": "fe9f33b52a262209faa20ed5",
-      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
-      "summary": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-16T23:09:39+00:00"
-    },
-    {
       "id": "95a4126debebe9a4eb981652",
       "title": "Piratage du fisc : Sébastien Lecornu présidera lundi une cellule interministérielle de crise",
       "summary": "L’administration fiscale avait reconnu vendredi cette intrusion dans ses systèmes et ainsi révélé que quelque 700 000 particuliers et professionnels en avaient été victimes.",
@@ -860,17 +882,6 @@
       "publishedAt": "2026-08-14T15:00:16+00:00"
     },
     {
-      "id": "811deac8b1ae28a7d7e87bc7",
-      "title": "Piratage du site des impôts : 678 000 usagers concernés, selon un nouveau bilan de la direction générale des finances publiques",
-      "summary": "La DGFiP prévoit d’informer individuellement chaque victime du piratage et d’indiquer les précautions à prendre face à ce vol de données inédit.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/piratage-du-fisc-des-centaines-de-milliers-d-usagers-concernes-la-dgfip-alerte-sur-la-fuite-de-donnees_6746264_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-14T14:12:17+00:00"
-    },
-    {
       "id": "3e3da339770b3be7a7a7f349",
       "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
       "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
@@ -935,17 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-12T17:10:31+00:00"
-    },
-    {
-      "id": "c5c61119600e90420763415a",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-11T23:03:52+00:00"
     },
     {
       "id": "0cb05b79cd5aea2126391c27",
