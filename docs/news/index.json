@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-19T07:30:21.275613+00:00",
+  "updatedAt": "2026-08-19T08:25:08.416380+00:00",
   "items": [
+    {
+      "id": "7252f2befa6d806bf6dd52f1",
+      "title": "En Argentine, Amnesty International alerte sur la surveillance numérique accrue sous la présidence Milei",
+      "summary": "L’organisation de défense des droits dénonce dans un rapport un « recours croissant aux technologies de surveillance » en Argentine depuis l’arrivée au pouvoir de Javier Milei, avec selon elle un « effet dissuasif » sur les libertés, d’expression ou de rassemblement.",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/en-argentine-amnesty-international-alerte-sur-la-surveillance-numerique-accrue-sous-la-presidence-milei_6749738_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-19T08:05:06+00:00"
+    },
     {
       "id": "4745ab20758459ea06f71ba7",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -191,7 +202,7 @@
     {
       "id": "b5e78007bb11ca090cf466c8",
       "title": "Après la cyberattaque autonome contre Hugging Face, OpenAI ralentit le développement de son modèle d’IA le plus avancé",
-      "summary": "De nombreux travaux liés à Astra restent suspendus, le temps de vérifier que cette future intelligence artificielle se comporte comme prévu.",
+      "summary": "A la mi-juillet, un agent autonome reposant sur deux modèles d’OpenAI était sorti, de sa propre initiative, de son milieu de test confiné pour s’aventurer sur Internet et attaquer Hugging Face, plateforme où les développeurs du monde entier partagent leurs modèles d’IA.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/19/apres-la-cyberattaque-autonome-contre-hugging-face-openai-ralentit-le-developpement-de-son-modele-d-ia-le-plus-avance_6749257_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -770,17 +781,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-14T23:06:27+00:00"
-    },
-    {
-      "id": "e4836d662d6339c9abfe0204",
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : le Conseil constitutionnel inflige un camouflet à l’exécutif",
-      "summary": "Le Conseil constitutionnel a jugé qu’en s’appliquant à tous les réseaux sociaux et à tous les mineurs sans distinction, la loi enfreignait la liberté d’expression. Emmanuel Macron a chargé son gouvernement d’aboutir à un nouveau texte avant la fin de son mandat.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-le-conseil-constitutionnel-inflige-un-camouflet-a-l-executif_6746287_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-14T17:05:55+00:00"
     },
     {
       "id": "3e3da339770b3be7a7a7f349",
