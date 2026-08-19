@@ -1,9 +1,163 @@
 {
-  "updatedAt": "2026-08-19T15:21:19.816630+00:00",
+  "updatedAt": "2026-08-19T16:20:06.309885+00:00",
   "items": [
     {
-      "id": "fc9c8e7fb409b6a50c42f4a1",
-      "title": "Piratage du site des impôts : « peu de ministères sont au niveau requis » face aux cyberattaques, reconnaît Sébastien Lecornu",
+      "id": "90f7a78f2367a24fa01d81f4",
+      "title": "« GTA VI » : les motivations nébuleuses derrière de nouvelles fuites supposées d’images du jeu",
+      "summary": "Un groupe baptisé CyberLeek publie depuis mardi des vidéos présentées comme des extraits du très attendu jeu vidéo « Grand Theft Auto VI », qui ne sortira pas avant novembre. Une fuite adossée au lancement d’une cryptomonnaie douteuse.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/gta-vi-les-motivations-nebuleuses-derriere-de-nouvelles-fuites-supposees-d-images-du-jeu_6749896_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-19T16:16:04+00:00"
+    },
+    {
+      "id": "6996d8794e8514447727aa37",
+      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "summary": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-19T16:14:46+00:00"
+    },
+    {
+      "id": "f8dd90f8e498c2745be9094a",
+      "title": "Monzo says issue with card payments and transfers now resolved",
+      "summary": "The digital bank said all of its services were now \"back up and running\"",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-19T16:04:16+00:00"
+    },
+    {
+      "id": "88cf2e690e656783300f3cee",
+      "title": "Google Pixel 11 Pro Review",
+      "summary": "The Pixel 11 Pro isn’t a performance powerhouse nor does it reinvent the wheel with game-changing new features, but it’s a good phone all the same.",
+      "url": "https://www.ign.com/articles/google-pixel-11-pro-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "id": "a9d7d4d1b10ae0be3845ad8e",
+      "title": "‘You Don’t Get XP, But Zones Do’ — How Control Resonant Is Rewriting the Action RPG Rule Book",
+      "summary": "In Control Resonant, taking down Manhattan’s monsters comes with consequences. We take a deep dive into Remedy's new approach to boss design and how killing them changes the world around you.",
+      "url": "https://www.ign.com/articles/you-dont-get-xp-but-zones-do-how-control-resonant-is-rewriting-the-action-rpg-rule-book",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "id": "1b6e0b26313cc31751cd4b5a",
+      "title": "Subnautica 2 Early Access 1.2 Update Out Now Alongside Patch Notes, Dev Donates $100,000 to Ocean Cleanup",
+      "summary": "Subnautica 2 Early Access 1.2 is out now, adding the Buddy System to the underwater survival and crafting game. check out the patch notes in full.",
+      "url": "https://www.ign.com/articles/subnautica-2-early-access-12-update-out-now-alongside-patch-notes-dev-donates-100000-to-ocean-cleanup",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T15:57:58+00:00"
+    },
+    {
+      "id": "ca21386e3b0539f37211e1ef",
+      "title": "How Marvel’s Relaunched Avengers Series Redefines Earth’s Mightiest Heroes",
+      "summary": "Marvel's new Avengers series will redefine what it means to be one of Earth's Mightiest Heroes in 2026. Learn more in our exclusive preview and interview.",
+      "url": "https://www.ign.com/articles/marvel-avengers-relaunch-redefines-team-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T15:57:34+00:00"
+    },
+    {
+      "id": "99f6412ae6cb4f1dfb82ae53",
+      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "summary": "Plans to build on the so-called E1 area - east of Jerusalem - have long been internationally condemned and would in effect divide the occupied West Bank in two.",
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T15:50:22+00:00"
+    },
+    {
+      "id": "102cb005e3727fd36424ae06",
+      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T15:47:31+00:00"
+    },
+    {
+      "id": "bd04c5d03e688529a5f9f887",
+      "title": "Demon Hunter Sues Netflix Over KPop Demon Hunters, as Christian Metal Band Claims Fans Bought Tickets for Wrong Show",
+      "summary": "Christian metal band Demon Hunter is suing KPop Demon Hunters streamer Netflix.",
+      "url": "https://www.ign.com/articles/demon-hunter-sues-netflix-over-kpop-demon-hunters-as-christian-metal-band-claims-fans-bought-tickets-for-wrong-show",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T15:39:42+00:00"
+    },
+    {
+      "id": "d1ab93b9dda54516c0dfb07e",
+      "title": "Jellyfish mesmerise in their own museum in Florida",
+      "summary": "The Jellyfish Museum in Pompano Beach is believed to be the first in the US dedicated entirely to the floating predators.",
+      "url": "https://www.bbc.co.uk/news/videos/c0m7eld12l1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T15:39:08+00:00"
+    },
+    {
+      "id": "0808ef2015e9943f3b686498",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T15:33:32+00:00"
+    },
+    {
+      "id": "046e53638f1f67f2dbb0e57f",
+      "title": "RuneScape: Dragonwilds Confirmed for Day One Xbox Game Pass Launch",
+      "summary": "RuneScape: Dragonwilds will be available as a day one Xbox Game Pass title next month, developer Jagex has announced.",
+      "url": "https://www.ign.com/articles/runescape-dragonwilds-confirmed-for-day-one-xbox-game-pass-launch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T15:24:48+00:00"
+    },
+    {
+      "id": "8fc9bed53c47d75b01585b23",
+      "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
+      "summary": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
+      "url": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T15:12:41+00:00"
+    },
+    {
+      "id": "270e75b469d49bdb5993a545",
+      "title": "Piratage du site des impôts : « Peu de ministères sont au niveau requis » pour faire face aux cyberattaques, reconnaît Sébastien Lecornu",
       "summary": "« Il y a urgence à concevoir et conduire sans délai une réponse opérationnelle plus réactive et plus forte aux cyberattaques que l’Etat rencontre actuellement », a écrit le chef du gouvernement dans un courrier adressé à l’Anssi.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/19/piratage-du-site-des-impots-peu-de-ministeres-sont-au-niveau-requis-face-aux-cyberattaques-reconnait-sebastien-lecornu_6749887_4408996.html",
       "imageUrl": null,
@@ -24,9 +178,20 @@
       "publishedAt": "2026-08-19T15:11:19+00:00"
     },
     {
+      "id": "639bbf6723344184b03333e9",
+      "title": "Mutiny Review",
+      "summary": "Even at a mere 95 minutes, the Jason Statham movie Mutiny feels excessively outstretched.",
+      "url": "https://www.ign.com/articles/mutiny-movie-2026-review-jason-statham",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T15:08:18+00:00"
+    },
+    {
       "id": "03496a165590fc7fffb9f1f3",
       "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
-      "summary": "A Christmas Island resident was surprised to find the massive piece of debris floating off the coast.",
+      "summary": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
       "url": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -90,17 +255,6 @@
       "publishedAt": "2026-08-19T14:16:27+00:00"
     },
     {
-      "id": "593cf3de04200fcd8f06be27",
-      "title": "Monzo down as some users unable to make card payments or transfers",
-      "summary": "The digital bank said it was \"rolling out a fix and moving quickly\" to get the service working again",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-19T14:13:33+00:00"
-    },
-    {
       "id": "a6ca66ce59bf70a62d655756",
       "title": "Sonia Bellina : le corps partiellement calciné retrouvé dans le Gard identifié comme celui de l’influenceuse de 29 ans",
       "summary": "Deux suspects ont été interpellés dans le cadre de l’enquête ouverte pour assassinat, a annoncé, mercredi, le parquet de Nîmes. Le corps « partiellement carbonisé » d’une femme avait été retrouvé le 12 août dans des vignes du village de Saint-Gilles.",
@@ -132,17 +286,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-19T13:54:12+00:00"
-    },
-    {
-      "id": "52ba8ab1eeaea3525b5067f1",
-      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
-      "summary": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T13:53:51+00:00"
     },
     {
       "id": "bc1a49cd43964084fe20e95f",
@@ -178,8 +321,8 @@
       "publishedAt": "2026-08-19T13:00:09+00:00"
     },
     {
-      "id": "78f873c05c46e047d694ca78",
-      "title": "Tides of Annihilation is a Stylish King Arthur-Inspired Slash ‘Em Up that Balances Spectacle with Substance | IGN Preview",
+      "id": "ccc4713b89c9e24a3860f176",
+      "title": "Tides of Annihilation Is a Stylish King Arthur-Inspired Slash ‘Em Up that Balances Spectacle with Substance | IGN Preview",
       "summary": "Hands-on with the Arthurian-inspired action adventure that unleashes a legion of evil into the streets of London.",
       "url": "https://www.ign.com/articles/tides-of-annihilation-is-a-stylish-king-arthur-inspired-slash-em-up-that-balances-spectacle-with-substance-ign-preview",
       "imageUrl": null,
@@ -253,17 +396,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-19T11:39:34+00:00"
-    },
-    {
-      "id": "91d3de930b547a4a61b7e94b",
-      "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
-      "summary": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T11:30:40+00:00"
     },
     {
       "id": "0af73777282bee6bf64ce522",
@@ -376,17 +508,6 @@
       "publishedAt": "2026-08-19T10:40:53+00:00"
     },
     {
-      "id": "62ff947a28c8b34ca25a3584",
-      "title": "Deleted Highlander Action Sequence With The Kurgan Was Cut Because It Was 'Too Good,' Actor Says",
-      "summary": "An actor who starred in a fight sequence cut from the original Highlander movie has revealed what happened, 40 years later.",
-      "url": "https://www.ign.com/articles/deleted-highlander-action-sequence-with-the-kurgan-was-cut-because-it-was-too-good-actor-says",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T10:40:51+00:00"
-    },
-    {
       "id": "8df62b7ac3f97f2106d3e49f",
       "title": "Apparent human remains found in US reservoir as water levels hit record low",
       "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
@@ -407,39 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-19T09:48:16+00:00"
-    },
-    {
-      "id": "a02ca929ed3481a34b97dc94",
-      "title": "'All Good Things Come to an End': Doctor Who Writer Believes Show's Return 'Quietly Won't Happen'",
-      "summary": "Former Doctor Who writer Mark Gatiss believes the BBC's current plan to reboot the show \"quietly won't happen.\"",
-      "url": "https://www.ign.com/articles/all-good-things-come-to-an-end-doctor-who-writer-believes-shows-return-quietly-wont-happen",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T09:41:49+00:00"
-    },
-    {
-      "id": "f0191ea4e4bf4477bdbfd669",
-      "title": "Fast Forever Starts Shooting in December, Confirms Vin Diesel",
-      "summary": "The supposedly final chapter in the Fast & Furious saga should begin shooting before the year is out.",
-      "url": "https://www.ign.com/articles/fast-forever-starts-shooting-in-december-confirms-vin-diesel",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T08:27:55+00:00"
-    },
-    {
-      "id": "dd2351fa24e97e34cb88d3ea",
-      "title": "Avengers: Doomsday Star Sebastian Stan Knows ‘Absolutely Nothing’ About What Happens in the Movie",
-      "summary": "Directors Anthony and Joe Russo keeping the complete script from the cast, as with previous Avengers projects.",
-      "url": "https://www.ign.com/articles/avengers-doomsday-star-sebastian-stan-knows-absolutely-nothing-about-what-happens-in-the-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T08:05:55+00:00"
     },
     {
       "id": "7252f2befa6d806bf6dd52f1",
@@ -475,17 +563,6 @@
       "publishedAt": "2026-08-19T05:00:39+00:00"
     },
     {
-      "id": "102cb005e3727fd36424ae06",
-      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T03:56:35+00:00"
-    },
-    {
       "id": "39e411bf5bd82f9e8b22a045",
       "title": "Au procès de Meta, la firme de Mark Zuckerberg accusée d’avoir ciblé les enfants et minoré les dangers d’Instagram",
       "summary": "L’entreprise est jugée au civil en Californie, poursuivie par 29 Etats fédérés pour avoir trompé les consommateurs et violé la loi fédérale sur la protection des mineurs, en exposant les jeunes utilisateurs à des contenus violents ou sexuels et à des risques d’addiction.",
@@ -495,39 +572,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-19T03:13:39+00:00"
-    },
-    {
-      "id": "165b5ad37bcd93fdb1bd55c4",
-      "title": "The Bose QuietComfort Ultra Wireless Noise Canceling Headphones Drops Below $200 for Back to School",
-      "summary": "These headphones have no equal in the sub-$200 price category.",
-      "url": "https://www.ign.com/articles/bose-quietcomfort-ultra-wireless-noise-canceling-headphone-deal-august-2026-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T02:20:00+00:00"
-    },
-    {
-      "id": "5aed9e1093c9b0b5ce1431ce",
-      "title": "Today’s Top Deals: Dragon Quest III HD-2D Remake, 27\" Samsung Monitor, and LEGO Corvette Stingray",
-      "summary": "Don’t miss Gruv’s 3 for $33 4K Blu-ray sale, a discounted budget gaming mouse, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-august-18-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T01:20:00+00:00"
-    },
-    {
-      "id": "d167a362f7dc83accef08150",
-      "title": "Robin Williams’ Children Revive His Instagram to Fight AI Misuse",
-      "summary": "Robin Williams' children Zak, Zelda, and Cody have revived their late father's Instagram account after a decade to combat rampant AI abuse of his voice and likeness.",
-      "url": "https://www.ign.com/articles/robin-williams-children-revive-instagram-ai-abuse",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T00:58:12+00:00"
     },
     {
       "id": "13a6fec4ea440a26c5312030",
@@ -794,28 +838,6 @@
       "publishedAt": "2026-08-17T14:54:18+00:00"
     },
     {
-      "id": "95a4126debebe9a4eb981652",
-      "title": "Piratage du fisc : Sébastien Lecornu présidera lundi une cellule interministérielle de crise",
-      "summary": "L’administration fiscale avait reconnu vendredi cette intrusion dans ses systèmes et ainsi révélé que quelque 700 000 particuliers et professionnels en avaient été victimes.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/16/piratage-du-fisc-sebastien-lecornu-presidera-lundi-une-cellule-interministerielle-de-crise_6747576_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-16T15:11:49+00:00"
-    },
-    {
-      "id": "f3f856d45160d73a329fd256",
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-16T12:18:09+00:00"
-    },
-    {
       "id": "18a70aa111628c1fac89e623",
       "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
       "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
@@ -869,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-13T13:02:24+00:00"
-    },
-    {
-      "id": "3a9847d7c26b3f3c29eb32b0",
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-13T10:39:02+00:00"
     },
     {
       "id": "0cb05b79cd5aea2126391c27",
