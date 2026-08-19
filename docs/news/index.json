@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-18T23:13:11.004825+00:00",
+  "updatedAt": "2026-08-19T00:42:23.470888+00:00",
   "items": [
+    {
+      "id": "b5e78007bb11ca090cf466c8",
+      "title": "Après la cyberattaque autonome contre Hugging Face, OpenAI ralentit le développement de son modèle d’IA le plus avancé",
+      "summary": "De nombreux travaux liés à Astra restent suspendus, le temps de vérifier que cette future intelligence artificielle se comporte comme prévu.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/apres-la-cyberattaque-autonome-contre-hugging-face-openai-ralentit-le-developpement-de-son-modele-d-ia-le-plus-avance_6749257_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-19T00:38:47+00:00"
+    },
+    {
+      "id": "81c988e6d2aa574bfb4889ef",
+      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
+      "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T00:07:37+00:00"
+    },
+    {
+      "id": "18ed7061878404ad6e61e266",
+      "title": "Brandon Sanderson's Cosmere RPG Starter Set Is Now Being Sold at Target Retail Stores",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-cosmere-rpg-starter-set-board-game-is-now-being-sold-at-target-retail-stores",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-18T23:40:00+00:00"
+    },
+    {
+      "id": "7ef366077840a4abf4c4284a",
+      "title": "The critical tech staying safe by going underground",
+      "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+      "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-18T23:25:21+00:00"
+    },
     {
       "id": "6042eb157efd092b653b8f15",
       "title": "Meta : en ouverture de son procès en Californie, la maison mère de Facebook et d’Instagram accusée d’avoir « appâté » les enfants",
@@ -55,6 +99,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-18T22:40:00+00:00"
+    },
+    {
+      "id": "fa99a473bbc8550cf6b179e1",
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T22:25:46+00:00"
     },
     {
       "id": "94350523efea6daac317d15e",
@@ -321,17 +376,6 @@
       "publishedAt": "2026-08-18T18:40:00+00:00"
     },
     {
-      "id": "0563e4d756ac6bd5c6a46604",
-      "title": "The FlashForge AD5X Multi-Color 3D Printer Drops to Just $208 Shipped at AliExpress",
-      "summary": "The same printer is $350 on Amazon.",
-      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-august-2026-updated-2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T18:40:00+00:00"
-    },
-    {
       "id": "c4a997367ef756fa3f7b0d20",
       "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
       "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
@@ -530,17 +574,6 @@
       "publishedAt": "2026-08-18T08:07:37+00:00"
     },
     {
-      "id": "bab71806e7a9805eb21f0cc2",
-      "title": "Indian student leader ends hunger strike after 16 days",
-      "summary": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
-      "url": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-18T07:27:32+00:00"
-    },
-    {
       "id": "13f9616a7e47a4857c6c1e77",
       "title": "China censors public mourning as it holds former premier's funeral",
       "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
@@ -550,28 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-18T07:17:07+00:00"
-    },
-    {
-      "id": "947ae03764c225eac96cac54",
-      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "summary": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-18T06:53:11+00:00"
-    },
-    {
-      "id": "9012a094dd28aeddb6d337ac",
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
-      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-18T05:24:15+00:00"
     },
     {
       "id": "491cd112693ee9f675c8ba61",
@@ -618,17 +629,6 @@
       "publishedAt": "2026-08-18T04:05:05+00:00"
     },
     {
-      "id": "98934fba8876ecd0a240930d",
-      "title": "Student killed in Philippines Catholic school shooting",
-      "summary": "The alleged shooter, also a student, later took his own life.",
-      "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-18T03:43:53+00:00"
-    },
-    {
       "id": "3288dd4aeaaf33d7488907b6",
       "title": "Watch: Why has Trump shifted on North Korea?",
       "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
@@ -649,17 +649,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-17T23:38:10+00:00"
-    },
-    {
-      "id": "7212b71bec17520d64790720",
-      "title": "Norway's king admitted to hospital and put on sick leave",
-      "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-17T21:34:26+00:00"
     },
     {
       "id": "8f199bd9076062597396aad2",
@@ -871,17 +860,6 @@
       "publishedAt": "2026-08-14T15:32:44+00:00"
     },
     {
-      "id": "49a719f2e7cc7144ad3dea9b",
-      "title": "L’éducation de la société civile, une arme contre la désinformation qui sévit en Europe",
-      "summary": "« Dix ans de post-vérité » (5/5). Les récits manipulateurs prospèrent sur le terreau d’une société dysfonctionnelle. Plusieurs pays européens envisagent désormais les intox comme un problème global et s’attellent à rebâtir la confiance.",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/14/l-education-de-la-societe-civile-une-arme-contre-la-desinformation-qui-sevit-en-europe_6746271_3451060.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-14T15:00:16+00:00"
-    },
-    {
       "id": "3e3da339770b3be7a7a7f349",
       "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
       "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
@@ -935,17 +913,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-12T23:00:47+00:00"
-    },
-    {
-      "id": "c2883e37532534c227a99e72",
-      "title": "Discord ordered to suspend livestreams in Brazil",
-      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-12T17:10:31+00:00"
     },
     {
       "id": "0cb05b79cd5aea2126391c27",
