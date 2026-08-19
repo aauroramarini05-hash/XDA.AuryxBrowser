@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-19T04:27:40.692155+00:00",
+  "updatedAt": "2026-08-19T05:20:49.011736+00:00",
   "items": [
+    {
+      "id": "4745ab20758459ea06f71ba7",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T04:44:41+00:00"
+    },
     {
       "id": "6ca6b187792c7981a344b08b",
       "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
@@ -15,7 +26,7 @@
     {
       "id": "d17e979317e69d6e80f5e683",
       "title": "South Korea shortens war games with US, citing Washington request",
-      "summary": "It comes after Trump announced plans to curtail joint exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -88,17 +99,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-19T02:20:00+00:00"
-    },
-    {
-      "id": "4745ab20758459ea06f71ba7",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T01:31:15+00:00"
     },
     {
       "id": "5aed9e1093c9b0b5ce1431ce",
@@ -431,10 +431,10 @@
       "publishedAt": "2026-08-18T20:14:37+00:00"
     },
     {
-      "id": "e38ea93908f76437d10ffd0b",
+      "id": "734640cf65cfb569159b6f6d",
       "title": "Tech Life",
       "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -453,8 +453,8 @@
       "publishedAt": "2026-08-18T19:52:32+00:00"
     },
     {
-      "id": "ccda8dc1793845a835531b9d",
-      "title": "Piratage du fisc : le ministère des comptes publics présente ses « excuses » mais peine à contenir la crise",
+      "id": "4e4888dca1eedaf225a6218f",
+      "title": "Piratage du fisc : le ministère des comptes publics présente des « excuses », mais peine à contenir la crise",
       "summary": "David Amiel a dévoilé des premières « mesures d’urgence » après la vaste attaque informatique visant le fisc. Pour ne rien arranger, l’administration fiscale a révélé une nouvelle brèche dans ses systèmes.",
       "url": "https://www.lemonde.fr/politique/article/2026/08/18/piratage-du-fisc-bercy-presente-ses-excuses-mais-peine-a-contenir-la-crise_6749090_823448.html",
       "imageUrl": null,
