@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-08-19T10:19:10.950570+00:00",
+  "updatedAt": "2026-08-19T11:16:31.917188+00:00",
   "items": [
+    {
+      "id": "4745ab20758459ea06f71ba7",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T11:00:21+00:00"
+    },
+    {
+      "id": "a344a43420d620e5394314eb",
+      "title": "Don't Skip Your Chance to Compete in The UNO Championship Series, With a $50,000 Grand Finale Prize",
+      "summary": "How good are you at UNO? Toy company Mattel is announcing the UNO World Championship Series, which will offer a $50,000 grand prize.",
+      "url": "https://www.ign.com/articles/dont-skip-your-chance-to-compete-in-the-uno-championship-series-with-a-50000-grand-finale-prize",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T11:00:00+00:00"
+    },
+    {
+      "id": "05b5ca63d9d197eddbbf0203",
+      "title": "L’AMF met en garde contre BitKelTrade, une plateforme de trading frauduleuse usurpant l’identité de médias",
+      "summary": "« Ces sites n’ont qu’un seul but : inciter le lecteur à cliquer sur le lien permettant de rejoindre la plateforme frauduleuse et à remplir un formulaire de contact pour pouvoir être recontacté », insiste l’Autorité des marchés financiers, recommandant aux épargnants de ne pas donner suite et de ne pas transmettre leurs coordonnées.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/l-amf-met-en-garde-contre-bitkeltrade-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias_6749856_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-19T10:59:14+00:00"
+    },
+    {
+      "id": "457d431e621cf3eb69dcd581",
+      "title": "SK Hynix, géant sud-coréen des puces mémoire, annonce des rachats d’actions pour une valeur de 24,9 milliards d’euros",
+      "summary": "A la fin juillet, le président de SK group a acheté pour près de 3 millions d’euros d’actions de l’entreprise, un geste perçu comme une tentative d’afficher sa confiance dans l’entreprise alors que les valeurs du secteur des semi-conducteurs chutaient.",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/19/sk-hynix-geant-sud-coreen-des-puces-memoire-annonce-des-rachats-d-actions-pour-une-valeur-de-24-9-milliards-d-euros_6749855_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-19T10:51:52+00:00"
+    },
+    {
+      "id": "80e7a7e20153d603a81d5123",
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "summary": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T10:47:22+00:00"
+    },
+    {
+      "id": "d1c7d8cd5cec2ca88c3b1849",
+      "title": "The Pokémon Company Cancels 30th Anniversary Card Orders Following 'Cyber Incident,' Warns of Customer Data Breach",
+      "summary": "The Pokémon Company is cancelling orders of Pokémon 30th Anniversary Cards following a \"cyber incident\" that potentially left customer details exposed.",
+      "url": "https://www.ign.com/articles/pokemon-company-cancels-30th-anniversary-card-orders-following-cyber-incident-warns-of-customer-data-breach",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T10:40:53+00:00"
+    },
+    {
+      "id": "62ff947a28c8b34ca25a3584",
+      "title": "Deleted Highlander Action Sequence With The Kurgan Was Cut Because It Was 'Too Good,' Actor Says",
+      "summary": "An actor who starred in a fight sequence cut from the original Highlander movie has revealed what happened, 40 years later.",
+      "url": "https://www.ign.com/articles/deleted-highlander-action-sequence-with-the-kurgan-was-cut-because-it-was-too-good-actor-says",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T10:40:51+00:00"
+    },
+    {
+      "id": "8df62b7ac3f97f2106d3e49f",
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+      "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T10:10:09+00:00"
+    },
     {
       "id": "d9a46ed3b68ef35b3525a270",
       "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
@@ -22,17 +110,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-19T09:41:49+00:00"
-    },
-    {
-      "id": "4745ab20758459ea06f71ba7",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T09:02:08+00:00"
     },
     {
       "id": "f0191ea4e4bf4477bdbfd669",
@@ -431,37 +508,15 @@
       "publishedAt": "2026-08-18T21:54:06+00:00"
     },
     {
-      "id": "c82c68cff36f288053339f2c",
-      "title": "The Baseus 20,000mAh 45W Power Bank With Dual USB-C Cables Drops to $21 After Coupon",
-      "summary": "",
-      "url": "https://www.ign.com/articles/baseus-20000mah-45w-power-bank-deal-august-2026",
+      "id": "5ada1430041b41195f339865",
+      "title": "Why has Russia threatened the UK and what happens next?",
+      "summary": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
+      "url": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T21:40:00+00:00"
-    },
-    {
-      "id": "58f619109292e6d88af0991d",
-      "title": "Barnes & Noble Adds LEGO Wednesday Sets to Its Book Haul Sale Ahead of Their Retirement",
-      "summary": "",
-      "url": "https://www.ign.com/articles/barnes-and-noble-adds-lego-wednesday-sets-to-its-book-haul-sale-ahead-of-their-retirement",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T21:30:00+00:00"
-    },
-    {
-      "id": "1688c337d7dd2063d6978443",
-      "title": "Disney Sues FCC, Alleging Trump Administration Free Speech Retaliation",
-      "summary": "Disney has filed a First Amendment lawsuit against the FCC, claiming the Trump administration is targeting ABC's broadcast licenses in retaliation over speech.",
-      "url": "https://www.ign.com/articles/disney-sues-fcc-first-amendment-lawsuit-abc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T21:13:47+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-18T21:45:17+00:00"
     },
     {
       "id": "f9f75c9564816f9b963b5ffa",
@@ -640,17 +695,6 @@
       "publishedAt": "2026-08-17T19:30:25+00:00"
     },
     {
-      "id": "b33fb27f4dad0081559776bd",
-      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-17T18:03:23+00:00"
-    },
-    {
       "id": "9fc69f8de1738a31ac5b415d",
       "title": "Piratage du site des impôts : le gouvernement empêtré dans une cyberattaque dénoncée par l’opposition comme « la plus grave de l’histoire de notre pays »",
       "summary": "Le premier ministre, Sébastien Lecornu, a présidé, lundi, une cellule interministérielle de crise pour faire le point sur le piratage informatique d’ampleur qui a touché l’administration fiscale. Une commission d’enquête pourrait voir le jour au Sénat.",
@@ -781,28 +825,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-15T11:25:32+00:00"
-    },
-    {
-      "id": "b0118e6f242cb905c30650dd",
-      "title": "A Chypre ou Malte, des start-up très discrètes se disputent le filon des services d’IA érotiques",
-      "summary": "Difficile de savoir qui se cache derrière ces entreprises aux statuts opaques, qui modèrent peu leurs contenus et entraînent leurs IA sur des données à la légalité douteuse.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/15/a-chypre-ou-malte-des-start-up-tres-discretes-se-disputent-le-filon-des-services-d-ia-erotiques_6746578_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-15T05:00:11+00:00"
-    },
-    {
-      "id": "e7bb0b41b324ab3850d3fb4e",
-      "title": "« Je cherchais une manière de réduire ma consommation de vidéos porno » : le succès grandissant des services d’IA érotiques",
-      "summary": "Porté par les progrès de l’intelligence artificielle génératrice de textes et d’images, le « jeu de rôle intime » avec des chatbots a connu un fort essor. Avec des pratiques très variées, mais aussi plutôt genrées.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/15/je-cherchais-une-maniere-de-reduire-ma-consommation-de-videos-porno-le-succes-grandissant-des-services-d-ia-erotiques_6746503_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-15T04:00:18+00:00"
     },
     {
       "id": "618dafc734edb68424dcb6ff",
