@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-19T22:14:49.624654+00:00",
+  "updatedAt": "2026-08-19T23:14:27.593269+00:00",
   "items": [
+    {
+      "id": "e1ce8e1675886d78debcb7d8",
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T23:11:14+00:00"
+    },
+    {
+      "id": "ee6ad5a334c790a54d10ac79",
+      "title": "Preorder SPECS, Snap's First-Ever AR Glasses",
+      "summary": "Lightweight and stylish personal wearable computer.",
+      "url": "https://www.ign.com/articles/preorder-the-specs-ar-glasses-from-snap",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T23:00:00+00:00"
+    },
     {
       "id": "bc1729aad9c39633af0a4381",
       "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
@@ -10,7 +32,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-19T22:04:21+00:00"
+      "publishedAt": "2026-08-19T22:55:37+00:00"
+    },
+    {
+      "id": "0cf37b4342753dc37e33f48b",
+      "title": "Steam Frame Seems to Be On the Horizon as Unboxing and Setup Videos Leak Online",
+      "summary": "After setup videos leaked online, Valve opted to push them out officially.",
+      "url": "https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T22:18:11+00:00"
     },
     {
       "id": "38234442bd724aea51b5dd05",
@@ -222,17 +255,6 @@
       "publishedAt": "2026-08-19T19:09:44+00:00"
     },
     {
-      "id": "e1ce8e1675886d78debcb7d8",
-      "title": "Who is Natalie Harp, Trump's right-hand woman?",
-      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
-      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T19:02:41+00:00"
-    },
-    {
       "id": "c7d241be04dcf6a3c4911a4a",
       "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
       "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
@@ -259,28 +281,6 @@
       "title": "Get a 1,000W 48V Adult Electric Bike With 28mph Top Speed and 80 Mile Range for Just $275 Shipped",
       "summary": "Zip around easier and faster when you go back to school.",
       "url": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T18:10:00+00:00"
-    },
-    {
-      "id": "6f401cbc621583507b1c83f2",
-      "title": "Save $900 Off the Asus ROG Flow Z13 Ultra-Portable Gaming Laptop During the Best Buy Anniversary Sale",
-      "summary": "This 2.56 pound convertible is better at gaming than most full-sized laptops.",
-      "url": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-bestbuy-anniversary-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T18:10:00+00:00"
-    },
-    {
-      "id": "41071afbd4550da368d20005",
-      "title": "The Alienware RTX 5090 Gaming PC Drops to $4,780, Nearly the Same Price as Buying the GPU By Itself",
-      "summary": "An RTX 5090 graphics card nowadays goes for at least $4,500 new and $4,000 used.",
-      "url": "https://www.ign.com/articles/dell-alienware-area-51-intel-edition-rtx-5090-gaming-pc-deal-july-2026",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
