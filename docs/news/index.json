@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-19T08:25:08.416380+00:00",
+  "updatedAt": "2026-08-19T09:23:56.936224+00:00",
   "items": [
+    {
+      "id": "4745ab20758459ea06f71ba7",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T09:02:08+00:00"
+    },
+    {
+      "id": "f0191ea4e4bf4477bdbfd669",
+      "title": "Fast Forever Starts Shooting in December, Confirms Vin Diesel",
+      "summary": "The supposedly final chapter in the Fast & Furious saga should begin shooting before the year is out.",
+      "url": "https://www.ign.com/articles/fast-forever-starts-shooting-in-december-confirms-vin-diesel",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T08:27:55+00:00"
+    },
+    {
+      "id": "76e806312b0df1cb5be27d35",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-19T08:25:03+00:00"
+    },
+    {
+      "id": "dd2351fa24e97e34cb88d3ea",
+      "title": "Avengers: Doomsday Star Sebastian Stan Knows ‘Absolutely Nothing’ About What Happens in the Movie",
+      "summary": "Directors Anthony and Joe Russo keeping the complete script from the cast, as with previous Avengers projects.",
+      "url": "https://www.ign.com/articles/avengers-doomsday-star-sebastian-stan-knows-absolutely-nothing-about-what-happens-in-the-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-19T08:05:55+00:00"
+    },
     {
       "id": "7252f2befa6d806bf6dd52f1",
       "title": "En Argentine, Amnesty International alerte sur la surveillance numérique accrue sous la présidence Milei",
@@ -13,15 +57,15 @@
       "publishedAt": "2026-08-19T08:05:06+00:00"
     },
     {
-      "id": "4745ab20758459ea06f71ba7",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "id": "13a61f33d7b859edfc0f56b9",
+      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "summary": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-19T07:14:50+00:00"
+      "publishedAt": "2026-08-19T07:21:51+00:00"
     },
     {
       "id": "d17e979317e69d6e80f5e683",
@@ -420,28 +464,6 @@
       "publishedAt": "2026-08-18T20:30:00+00:00"
     },
     {
-      "id": "77a248390bebb92078c22d6c",
-      "title": "Wonder Man's Cancellation Was the Last Straw for Me: Why I'm Looking to Other Cinematic Universes for Hope",
-      "summary": "",
-      "url": "https://www.ign.com/articles/wonder-man-cancellation-ended-all-hope-i-had-for-the-future-of-the-mcu",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T20:15:00+00:00"
-    },
-    {
-      "id": "1dbbdb2e4feedc9fa353b234",
-      "title": "Suspect Wearing Chucky Mask Accused of Threatening, Chasing, and Terrifying Philadelphia Residents",
-      "summary": "Police in Philadelphia are on the hunt for a suspect accused of terrorizing citizens while wearing a mask resembling Chucky the doll.",
-      "url": "https://www.ign.com/articles/suspect-wearing-chucky-mask-accused-of-threatening-chasing-and-terrifying-philadelphia-residents",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-18T20:14:37+00:00"
-    },
-    {
       "id": "734640cf65cfb569159b6f6d",
       "title": "Tech Life",
       "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
@@ -519,8 +541,8 @@
       "publishedAt": "2026-08-18T11:26:26+00:00"
     },
     {
-      "id": "12e9d3c508e1db58cb02112b",
-      "title": "Piratage du site des impôts : la direction générale des finances publiques va informer les contribuables concernés",
+      "id": "a85c56d4d58a77a530dff0be",
+      "title": "Piratage du site des impôts : la DGFiP va informer les contribuables concernés",
       "summary": "Le courriel envoyé par la direction générale des finances publiques précise que l’attaque a reposé sur l’utilisation d’identifiants usurpés : ceux d’un agent de la DGFiP ont été combinés à ceux d’un tiers habilité par l’administration.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/18/piratage-du-site-des-impots-la-direction-generale-des-finances-publiques-a-informe-les-contribuables-concernes_6749005_4408996.html",
       "imageUrl": null,
