@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-20T08:26:21.877279+00:00",
+  "updatedAt": "2026-08-20T09:24:10.464270+00:00",
   "items": [
+    {
+      "id": "3b0f8f7f1cc3e1da127b0792",
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T09:14:56+00:00"
+    },
+    {
+      "id": "c93608584c43b48be424f896",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T09:13:18+00:00"
+    },
+    {
+      "id": "7dd385aaef745d0dcbad0dd8",
+      "title": "Resident Evil Requiem on PS5 Drops to a New Low Price at Amazon and Best Buy of $54",
+      "summary": "Resident Evil Requiem on PS5 has dropped to a new low price at Amazon and Best Buy of $53.99, beating out its Prime Day price.",
+      "url": "https://www.ign.com/articles/resident-evil-requiem-ps5-amazon-best-buy-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T08:44:51+00:00"
+    },
     {
       "id": "e962b684e321856e562c9c3e",
       "title": "Four workers dead after being hit by train in Japan",
@@ -13,15 +46,15 @@
       "publishedAt": "2026-08-20T08:14:20+00:00"
     },
     {
-      "id": "3b0f8f7f1cc3e1da127b0792",
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "id": "6daac77ee50299f2885814da",
+      "title": "Former Tekken 8 Director Kohei Ikeda Joins VS Studio, Re-Teams With Tekken Veteran Katsuhiro Harada",
+      "summary": "The news likely won’t come as a surprise to hardcore fighting game fans.",
+      "url": "https://www.ign.com/articles/former-tekken-8-director-kohei-ikeda-joins-vs-studio-re-teams-with-tekken-veteran-katsuhiro-harada",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T07:59:55+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T08:08:16+00:00"
     },
     {
       "id": "3947019641fbc93f12af2ba5",
@@ -33,6 +66,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-20T07:33:11+00:00"
+    },
+    {
+      "id": "44cdb50515d30fd8b1dd5381",
+      "title": "Canadian marathon route was 674m too long",
+      "summary": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T07:15:48+00:00"
     },
     {
       "id": "59d9d9f12f6448ce07c53b95",
@@ -65,7 +109,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-20T06:30:02+00:00"
+      "publishedAt": "2026-08-20T06:30:01+00:00"
     },
     {
       "id": "dea7dd39f679458777a43fa8",
@@ -110,17 +154,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-20T04:17:53+00:00"
-    },
-    {
-      "id": "c93608584c43b48be424f896",
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T03:22:57+00:00"
     },
     {
       "id": "599ec98b57bf8c636c9c1f1d",
@@ -189,9 +222,9 @@
       "publishedAt": "2026-08-20T00:15:00+00:00"
     },
     {
-      "id": "e1ce8e1675886d78debcb7d8",
-      "title": "Who is Natalie Harp, Trump's right-hand woman?",
-      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "id": "f1f187a1fedbf23dfd027d56",
+      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+      "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
       "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -376,28 +409,6 @@
       "publishedAt": "2026-08-19T19:47:32+00:00"
     },
     {
-      "id": "355f50deb5fca98f2c6f0371",
-      "title": "Silver Pines Preview: It Plays and Looks Like If Alan Wake Were Made in the ‘90s",
-      "summary": "Silver Pines' pixelated art is surprisingly fluid and expressive, the voice acting is off-putting and eerie, and every part of the small town you find yourself in is just so ominous and filled with little hair-raising details all over. It’s utterly Lynchian stuff if I ever saw it, and we really like what we've seen so far.",
-      "url": "https://www.ign.com/articles/silver-pines-preview-it-plays-and-looks-like-if-alan-wake-were-made-in-the-90s",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T19:35:22+00:00"
-    },
-    {
-      "id": "5901ac0130f98a2035c49830",
-      "title": "The Witcher 3 NPCs Kept Dropping Their Babies Due to an Unintended Side Effect of a Cut Mechanic",
-      "summary": "The Witcher 3 developers were so focused on making a realistic environment for players that they accidentally created a morbidly hilarious side effect for the game’s female NPCs.",
-      "url": "https://www.ign.com/articles/the-witcher-3-npcs-kept-dropping-their-babies-due-to-an-unintended-side-effect-of-a-cut-mechanic",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T19:16:25+00:00"
-    },
-    {
       "id": "c7d241be04dcf6a3c4911a4a",
       "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
       "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
@@ -561,17 +572,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-19T12:49:14+00:00"
-    },
-    {
-      "id": "60efb8ee475f9d47de3fe0f4",
-      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "summary": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T12:25:30+00:00"
     },
     {
       "id": "f75871cde21e25503ccd283f",
