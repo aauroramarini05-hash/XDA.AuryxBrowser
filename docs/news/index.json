@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-20T09:24:10.464270+00:00",
+  "updatedAt": "2026-08-20T10:20:14.586333+00:00",
   "items": [
+    {
+      "id": "4eb63d01a92b287a94111632",
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T10:11:26+00:00"
+    },
+    {
+      "id": "9de5bd10367ecf5f89e1ff1f",
+      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "summary": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T10:07:48+00:00"
+    },
+    {
+      "id": "dade678209e375cbbb0376b8",
+      "title": "Best Buy’s 60th Anniversary Sale Has Some Great TCG Deals",
+      "summary": "Save on Pokémon, MTG, and Disney Lorcana in Best Buy’s 60th Anniversary Sale, plus compare prices against top deals on Amazon and TCGplayer.",
+      "url": "https://www.ign.com/articles/best-buy-60th-anniversary-sale-tcg-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T10:02:01+00:00"
+    },
+    {
+      "id": "c89b0c21e8c3c8356f9dcc3f",
+      "title": "Mass Effect 5 and BioWare's Future Uncertain Following Buyout, Former EA Manager Now Says",
+      "summary": "A former EA manager has cast doubt on whether Mass Effect 5 will survive the company's recent $55 billion takeover.",
+      "url": "https://www.ign.com/articles/mass-effect-5-and-biowares-future-uncertain-following-buyout-former-ea-manager-now-says",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T09:46:55+00:00"
+    },
+    {
+      "id": "86823800bff3a922e66fd24b",
+      "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
+      "summary": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
+      "url": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-20T09:44:04+00:00"
+    },
     {
       "id": "3b0f8f7f1cc3e1da127b0792",
       "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -10,7 +65,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-20T09:14:56+00:00"
+      "publishedAt": "2026-08-20T09:37:31+00:00"
+    },
+    {
+      "id": "a96b30414c462e7707e49bd8",
+      "title": "Procès de Meta : la société contre l’avidité des plateformes",
+      "summary": "Depuis le 18 août, 29 Etats américains poursuivent la firme de Mark Zuckerberg, propriétaire d’Instagram et de Facebook. Ce procès marquera une prise de conscience sociétale salutaire, comparable au retournement de l’opinion contre les cigarettiers il y a trente ans",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/20/proces-de-meta-la-societe-contre-l-avidite-des-plateformes_6750822_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-20T09:30:10+00:00"
+    },
+    {
+      "id": "1eefd34241d2c52abba9161d",
+      "title": "Yujiro Hanma in Tekken 8: How Do You Balance a Character Famous for Never Losing a Fight?",
+      "summary": "IGN interviews Tekken series chief producer, Naoya Yasuda, to find out more on Yujiro's upcoming addition to the Tekken 8 roster.",
+      "url": "https://www.ign.com/articles/yujiro-hanma-in-tekken-8-how-do-you-balance-a-character-famous-for-never-losing-a-fight",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T09:19:43+00:00"
     },
     {
       "id": "c93608584c43b48be424f896",
@@ -154,17 +231,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-20T04:17:53+00:00"
-    },
-    {
-      "id": "599ec98b57bf8c636c9c1f1d",
-      "title": "Former Liberian vice president charged in drug-trafficking probe",
-      "summary": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
-      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T03:09:24+00:00"
     },
     {
       "id": "32a28861c7d3d33be55b2183",
@@ -374,50 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-19T20:34:39+00:00"
-    },
-    {
-      "id": "0199343e38ec4d5976643015",
-      "title": "Save $320 off Bose's Biggest and Most Immersive Soundbar With Dolby Atmos and TrueSpace Technology",
-      "summary": "The Bose Smart Ultra soundbar drops to its lowest price in 2026.",
-      "url": "https://www.ign.com/articles/bose-smart-ultra-dolby-atmos-soundbar-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T20:05:00+00:00"
-    },
-    {
-      "id": "3e305494f1023f30ab6807fb",
-      "title": "Inde Navarrette Reportedly Passed Up a Role in Heat 2 for Marvel Studio's X-Men Movie",
-      "summary": "Thanks to Inde Navarrette’s breakout performance in Obsession, the star essentially has carte blanche to choose what projects she wants — and Marvel’s X-Men movie was at the top of her list.",
-      "url": "https://www.ign.com/articles/inde-navarrette-reportedly-passed-up-a-role-in-heat-2-for-marvel-studios-x-men-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T20:03:12+00:00"
-    },
-    {
-      "id": "f6fe83566b22d400ff896bed",
-      "title": "Wolverine: Origin III Explores Marvel's Controversial Prequel Arc",
-      "summary": "Marvel is wading into controversial waters again with Wolverine: Origin III - The Dark Age, the latest chapter in the dramatic origin story of the iconic X-Man.",
-      "url": "https://www.ign.com/articles/wolverine-origin-iii-explores-marvels-controversial-prequel-arc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T19:47:32+00:00"
-    },
-    {
-      "id": "c7d241be04dcf6a3c4911a4a",
-      "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-      "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T18:26:21+00:00"
     },
     {
       "id": "ce1f3d48e49527a27c8da31f",
@@ -827,17 +849,6 @@
       "publishedAt": "2026-08-17T19:30:25+00:00"
     },
     {
-      "id": "9fc69f8de1738a31ac5b415d",
-      "title": "Piratage du site des impôts : le gouvernement empêtré dans une cyberattaque dénoncée par l’opposition comme « la plus grave de l’histoire de notre pays »",
-      "summary": "Le premier ministre, Sébastien Lecornu, a présidé, lundi, une cellule interministérielle de crise pour faire le point sur le piratage informatique d’ampleur qui a touché l’administration fiscale. Une commission d’enquête pourrait voir le jour au Sénat.",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/17/fisc-le-gouvernement-empetre-dans-la-cyberattaque-la-plus-grave-de-l-histoire-de-notre-pays_6748415_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-17T18:01:55+00:00"
-    },
-    {
       "id": "18a70aa111628c1fac89e623",
       "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
       "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
@@ -880,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-13T14:09:05+00:00"
-    },
-    {
-      "id": "bdfae6f4125695013560a41f",
-      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-      "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
-      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-13T13:02:24+00:00"
     },
     {
       "id": "0cb05b79cd5aea2126391c27",
