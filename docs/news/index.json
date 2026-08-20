@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-08-20T16:23:04.870397+00:00",
+  "updatedAt": "2026-08-20T17:19:44.416727+00:00",
   "items": [
+    {
+      "id": "25a54d5ea435acb190bd32cf",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T17:14:55+00:00"
+    },
+    {
+      "id": "3d2748636f233bbc20e7f0db",
+      "title": "Modern Warfare 4 Developers Address Need for Balance in Call of Duty",
+      "summary": "The team behind Call of Duty: Modern Warfare 4 believes that players have only gotten better at the game since the franchise became a pop culture juggernaut.",
+      "url": "https://www.ign.com/articles/modern-warfare-4-developers-address-need-for-balance-in-call-of-duty",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T17:01:04+00:00"
+    },
+    {
+      "id": "c8ba726949065018abb8a7eb",
+      "title": "The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More",
+      "summary": "IGN interviews Infinity Ward on all things Call of Duty: Modern Warfare 4 ahead of the beta.",
+      "url": "https://www.ign.com/articles/the-big-call-of-duty-modern-warfare-4-interview-infinity-ward-on-the-beta-matchmaking-and-much-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T17:00:33+00:00"
+    },
+    {
+      "id": "19cf4552b86da8609d9363df",
+      "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
+      "summary": "The app lets users create six-second looping videos and hosts more than two million classic videos.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-20T16:58:37+00:00"
+    },
+    {
+      "id": "edea17ff80c03604e0c867f5",
+      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T16:53:20+00:00"
+    },
+    {
+      "id": "b7ca2b6fa5329615fbf93e73",
+      "title": "Le ministère de l’intérieur piraté depuis la boîte mail d’un fonctionnaire : autopsie d’une intrusion qui révèle les failles informatiques de l’Etat",
+      "summary": "Alors que le gouvernement est pris en défaut après la cyberattaque visant le site des impôts, l’enquête judiciaire portant sur un autre piratage d’envergure, celui des serveurs de Beauvau, révèle que tout est parti de la simple compromission d’identifiants d’un agent du ministère de l’agriculture en Bourgogne.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/20/le-ministere-de-l-interieur-pirate-depuis-la-boite-mail-d-un-fonctionnaire-autopsie-d-une-intrusion-qui-revele-les-failles-informatiques-de-l-etat_6751123_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-20T16:30:06+00:00"
+    },
+    {
+      "id": "f6af84bc200f0b7df6b6f4a7",
+      "title": "Golden Axe: First Look at the New Animated Series Based on the Classic SEGA Game",
+      "summary": "Paramount+ reveals a first look at its upcoming animated Golden Axe TV series based on the classic 1989 SEGA arcade beat 'em up game.",
+      "url": "https://www.ign.com/articles/golden-axe-animated-series-first-look-sega-plot-cast-release-date",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T16:30:00+00:00"
+    },
+    {
+      "id": "ec5b2c6723702d36d27283a9",
+      "title": "PUBG MOBILE X NARUTO SHIPPUDEN INTERVIEW: How PUBG MOBILE Created An Immersive NARUTO Crossover",
+      "summary": "",
+      "url": "https://www.ign.com/articles/pubg-mobile-x-naruto-shippuden-interview-how-pubg-mobile-created-an-immersive-naruto-crossover",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T16:26:00+00:00"
+    },
+    {
+      "id": "5524b344b2104ef81549b23f",
+      "title": "LEGO’s Technic Chevrolet Corvette Stingray Has Raced to a New All-Time Low Price at Amazon and Best Buy",
+      "summary": "Both Amazon and Best Buy have knocked $18 off the cost of the LEGO Technic Chevrolet Corvette Stingray, dropping it to its lowest price yet at the former.",
+      "url": "https://www.ign.com/articles/legos-technic-chevrolet-corvette-stingray-has-raced-to-a-new-all-time-low-price-at-amazon-and-best-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T16:25:57+00:00"
+    },
     {
       "id": "f0f72e369874eec259c49909",
       "title": "Togo charges two French journalists over incorrect documents, rights group says",
@@ -112,8 +211,8 @@
       "publishedAt": "2026-08-20T14:20:36+00:00"
     },
     {
-      "id": "5669083548a4d30052552ff8",
-      "title": "Hidetaka Miyazaki Interview: FromSoftware's Boss On The Duskbloods' TTRPG Influences, the Nintendo Partnership, and the Future of Games",
+      "id": "20348a7de49e250e2c6103a8",
+      "title": "Hidetaka Miyazaki Interview: FromSoftware's Boss 0n The Duskbloods' TTRPG Influences, the Nintendo Partnership, and the Future of Games",
       "summary": "We talked to FromSoftware president and The Duskbloods director Hidetaka Miyazaki after a hands-on preview and shared many of the ideas behind his games and where the team goes from here.",
       "url": "https://www.ign.com/articles/hidetaka-miyazaki-interview-fromsoftware-duskbloods-dark-souls-future-nintendo",
       "imageUrl": null,
@@ -154,17 +253,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-20T13:58:50+00:00"
-    },
-    {
-      "id": "25a54d5ea435acb190bd32cf",
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T13:56:25+00:00"
     },
     {
       "id": "1543b7f15384df96a345383d",
@@ -222,39 +310,6 @@
       "publishedAt": "2026-08-20T13:00:00+00:00"
     },
     {
-      "id": "a3c847911513d1cc9ea0b12f",
-      "title": "Star Trek: Strange New Worlds Review/Recap... Yeah, This Is the One With the Puppets...",
-      "summary": "The puppet episode of Strange New Worlds feels like it got here 20 years too late, with Ethan Peck’s non-puppet Spock standing tall as the hour’s saving grace.",
-      "url": "https://www.ign.com/articles/star-trek-strange-new-worlds-season-4-episode-5-recap-review-puppets",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T13:00:00+00:00"
-    },
-    {
-      "id": "80238df773a93e1a3e85a3dc",
-      "title": "Physical Video Game Dollar Sales Plunged to an All-Time July Low of Just $85 Million in the US",
-      "summary": "New data shows that physical software dollar sales dipped to an all-time July low of $85 million in the US — the worst total since tracking began in 1995.",
-      "url": "https://www.ign.com/articles/physical-video-game-dollar-sales-plunged-to-an-all-time-july-low-of-just-85-million-in-the-us",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T12:59:39+00:00"
-    },
-    {
-      "id": "0826c8a8a66a528d16802d03",
-      "title": "Nintendo Confirms Exactly How Much More Switch 2 Will Soon Cost in The UK",
-      "summary": "Nintendo has now confirmed the Switch 2 price rise details for the U.K., following similar announcements for the U.S., Canada and mainland Europe.",
-      "url": "https://www.ign.com/articles/nintendo-confirms-exactly-how-much-more-switch-2-will-soon-cost-in-the-uk",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T12:44:35+00:00"
-    },
-    {
       "id": "5e3f04fd297a5a28f7fbcb21",
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
       "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
@@ -277,28 +332,6 @@
       "publishedAt": "2026-08-20T12:10:02+00:00"
     },
     {
-      "id": "9d7b434efb30283e37c65df2",
-      "title": "Insidious: A Guide to the Most Menacing Ghosts of the Series",
-      "summary": "A guide to the most menacing ghosts from the Insidious films: Know your demons before they venture out of the Further.",
-      "url": "https://www.ign.com/articles/insidious-a-guide-to-the-most-menacing-ghosts-of-the-series",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T12:00:00+00:00"
-    },
-    {
-      "id": "9e6351eab30a25d492415e69",
-      "title": "Marvel’s Wolverine Limited-Edition PS5 and DualSense Controller Up for Preorder in the UK",
-      "summary": "Marvel's Wolverine for PS5 is getting limited-edition PS5 consoles, covers, and controllers. All of which are now up for preorder in the UK.",
-      "url": "https://www.ign.com/articles/marvel-wolverine-limited-edition-ps5-hardware-where-to-buy-uk",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T11:38:19+00:00"
-    },
-    {
       "id": "4eb63d01a92b287a94111632",
       "title": "Former Liberian vice-president charged in drug-trafficking probe",
       "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
@@ -319,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-20T10:32:31+00:00"
-    },
-    {
-      "id": "c4eede4fa2f406685cdc2455",
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T10:14:47+00:00"
     },
     {
       "id": "9de5bd10367ecf5f89e1ff1f",
@@ -816,17 +838,6 @@
       "publishedAt": "2026-08-18T11:26:26+00:00"
     },
     {
-      "id": "a85c56d4d58a77a530dff0be",
-      "title": "Piratage du site des impôts : la DGFiP va informer les contribuables concernés",
-      "summary": "Le courriel envoyé par la direction générale des finances publiques précise que l’attaque a reposé sur l’utilisation d’identifiants usurpés : ceux d’un agent de la DGFiP ont été combinés à ceux d’un tiers habilité par l’administration.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/18/piratage-du-site-des-impots-la-direction-generale-des-finances-publiques-a-informe-les-contribuables-concernes_6749005_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-18T09:55:44+00:00"
-    },
-    {
       "id": "aef38f4d744de365d71b8f40",
       "title": "AI to help planes avoid climate-warming 'sky graffiti'",
       "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
@@ -880,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-14T23:06:27+00:00"
-    },
-    {
-      "id": "3e3da339770b3be7a7a7f349",
-      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
-      "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-13T14:09:05+00:00"
     },
     {
       "id": "0cb05b79cd5aea2126391c27",
