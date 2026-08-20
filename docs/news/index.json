@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-08-20T12:28:28.912346+00:00",
+  "updatedAt": "2026-08-20T13:38:19.701006+00:00",
   "items": [
+    {
+      "id": "d36f5c08d36ea38e53ec6906",
+      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T13:04:15+00:00"
+    },
+    {
+      "id": "7488e7577e17b25d24ff697a",
+      "title": "Arc Raiders Gets Unlikely Subway Crossover — Buy a Meal for Exclusive Outfits",
+      "summary": "If you want to run around Arc Raiders looking like a Subway sandwich wrapper, now you can via one of the more unlikely collaborations we’ve seen in the world of video games in recent years.",
+      "url": "https://www.ign.com/articles/arc-raiders-gets-unlikely-subway-crossover-buy-a-meal-for-exclusive-outfits",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T13:00:32+00:00"
+    },
+    {
+      "id": "3c98999e311ae22060e050a3",
+      "title": "Au Brésil, Sao Paulo s’enorgueillit de son système de surveillance massif, malgré une efficacité contestée",
+      "summary": "Un réseau de 50 000 caméras liées à un logiciel de reconnaissance faciale a été déployé dans la capitale économique pour lutter contre la criminalité. Plébiscité par la population, le dispositif suscite cependant des inquiétudes en raison d’identifications erronées.",
+      "url": "https://www.lemonde.fr/international/article/2026/08/20/au-bresil-sao-paulo-s-enorgueillit-de-son-systeme-de-surveillance-massif-malgre-une-efficacite-contestee_6750976_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-20T13:00:11+00:00"
+    },
+    {
+      "id": "12f7dcbb9b424b6c1c315951",
+      "title": "IDW Reveals a Bold, Colorful Future for The Twilight Zone",
+      "summary": "IDW's The Twilight Zone series has been extended for another story arc, and we've got an exclusive look at these stunningly colorful new sci-fi tales.",
+      "url": "https://www.ign.com/articles/idw-reveals-a-bold-colorful-future-for-the-twilight-zone",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T13:00:00+00:00"
+    },
+    {
+      "id": "a3c847911513d1cc9ea0b12f",
+      "title": "Star Trek: Strange New Worlds Review/Recap... Yeah, This Is the One With the Puppets...",
+      "summary": "The puppet episode of Strange New Worlds feels like it got here 20 years too late, with Ethan Peck’s non-puppet Spock standing tall as the hour’s saving grace.",
+      "url": "https://www.ign.com/articles/star-trek-strange-new-worlds-season-4-episode-5-recap-review-puppets",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T13:00:00+00:00"
+    },
+    {
+      "id": "80238df773a93e1a3e85a3dc",
+      "title": "Physical Video Game Dollar Sales Plunged to an All-Time July Low of Just $85 Million in the US",
+      "summary": "New data shows that physical software dollar sales dipped to an all-time July low of $85 million in the US — the worst total since tracking began in 1995.",
+      "url": "https://www.ign.com/articles/physical-video-game-dollar-sales-plunged-to-an-all-time-july-low-of-just-85-million-in-the-us",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T12:59:39+00:00"
+    },
+    {
+      "id": "0826c8a8a66a528d16802d03",
+      "title": "Nintendo Confirms Exactly How Much More Switch 2 Will Soon Cost in The UK",
+      "summary": "Nintendo has now confirmed the Switch 2 price rise details for the U.K., following similar announcements for the U.S., Canada and mainland Europe.",
+      "url": "https://www.ign.com/articles/nintendo-confirms-exactly-how-much-more-switch-2-will-soon-cost-in-the-uk",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T12:44:35+00:00"
+    },
+    {
+      "id": "5e3f04fd297a5a28f7fbcb21",
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T12:38:35+00:00"
+    },
     {
       "id": "47c27c9124d89e816d9306d1",
       "title": "Piratage du site des impôts : la cybersécurité de l’Etat est une affaire de volonté politique",
@@ -10,7 +98,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-20T12:10:06+00:00"
+      "publishedAt": "2026-08-20T12:10:02+00:00"
     },
     {
       "id": "9d7b434efb30283e37c65df2",
@@ -59,7 +147,7 @@
     {
       "id": "25a54d5ea435acb190bd32cf",
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -387,17 +475,6 @@
       "publishedAt": "2026-08-20T00:26:27+00:00"
     },
     {
-      "id": "bb2221dd24eea94f5a2b8c00",
-      "title": "Save $75 Off the Nintendo Switch 2 Plus Up to $130 in Best Buy Credit When You Trade in a Switch Console",
-      "summary": "That's up to $205 in total savings, and just fyi the retail price goes up starting September 1.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-trade-in-deal-best-buy-anniversary-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T00:15:00+00:00"
-    },
-    {
       "id": "f1f187a1fedbf23dfd027d56",
       "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
       "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
@@ -407,50 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-19T23:11:14+00:00"
-    },
-    {
-      "id": "044b46c46a10f2218ed16a71",
-      "title": "Mail-Order Media Giant Columbia House Shutting Down After 71 Years",
-      "summary": "Mail-order music and movie club Columbia House is officially shutting down and ceasing new orders after 71 years of operation.",
-      "url": "https://www.ign.com/articles/mail-order-media-giant-columbia-house-shutting-down-after-71-years",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T23:05:35+00:00"
-    },
-    {
-      "id": "ee6ad5a334c790a54d10ac79",
-      "title": "Preorder SPECS, Snap's First-Ever AR Glasses",
-      "summary": "Lightweight and stylish personal wearable computer.",
-      "url": "https://www.ign.com/articles/preorder-the-specs-ar-glasses-from-snap",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T23:00:00+00:00"
-    },
-    {
-      "id": "0cf37b4342753dc37e33f48b",
-      "title": "Steam Frame Seems to Be On the Horizon as Unboxing and Setup Videos Leak Online",
-      "summary": "After setup videos leaked online, Valve opted to push them out officially.",
-      "url": "https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T22:18:11+00:00"
-    },
-    {
-      "id": "38234442bd724aea51b5dd05",
-      "title": "LEGO Fans Are Closer Than Ever to Getting a Studio Ghibli Set",
-      "summary": "",
-      "url": "https://www.ign.com/articles/lego-fans-studio-ghibli-ideas-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T22:00:00+00:00"
     },
     {
       "id": "4745ab20758459ea06f71ba7",
@@ -814,17 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-18T09:55:44+00:00"
-    },
-    {
-      "id": "bd896409a9d994db1fad3a49",
-      "title": "Piratage du fisc : protéger le pacte républicain et le consentement à l’impôt",
-      "summary": "Si une large majorité des Français considèrent encore que s’acquitter de ses impôts est un acte citoyen, le vaste piratage de la direction générale des finances publiques, qui touche plusieurs centaines de milliers de contribuables, alimente dangereusement la défiance face aux gouvernants.",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/18/piratage-du-fisc-proteger-le-pacte-republicain-et-le-consentement-a-l-impot_6748938_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-18T09:30:03+00:00"
     },
     {
       "id": "aef38f4d744de365d71b8f40",
