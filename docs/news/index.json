@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-08-20T07:32:29.941545+00:00",
+  "updatedAt": "2026-08-20T08:26:21.877279+00:00",
   "items": [
     {
-      "id": "3e8c47a57e2586776d8dc2ea",
-      "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "id": "e962b684e321856e562c9c3e",
+      "title": "Four workers dead after being hit by train in Japan",
+      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T08:14:20+00:00"
+    },
+    {
+      "id": "3b0f8f7f1cc3e1da127b0792",
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-20T07:19:40+00:00"
+      "publishedAt": "2026-08-20T07:59:55+00:00"
+    },
+    {
+      "id": "3947019641fbc93f12af2ba5",
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T07:33:11+00:00"
     },
     {
       "id": "59d9d9f12f6448ce07c53b95",
@@ -35,17 +57,6 @@
       "publishedAt": "2026-08-20T06:44:26+00:00"
     },
     {
-      "id": "3947019641fbc93f12af2ba5",
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T06:39:14+00:00"
-    },
-    {
       "id": "7039d56c96a0dae6cce5929a",
       "title": "Piratage du site des impôts : « La crédibilité de l’Etat français est mise à mal quand il échoue à protéger l’une de ses forteresses les plus régaliennes »",
       "summary": "Le piratage des données de 678 000 contribuables est un sujet plus politique que technique, et qui illustre le bilan des dix ans du numérique en France, analyse, dans une tribune au « Monde », Jean-Baptiste Soufron, avocat et ancien secrétaire général du Conseil national du numérique.",
@@ -66,17 +77,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-20T06:08:02+00:00"
-    },
-    {
-      "id": "e962b684e321856e562c9c3e",
-      "title": "Four workers dead after being hit by train in Japan",
-      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T06:02:10+00:00"
     },
     {
       "id": "d55f598149a9074fa7ca4654",
@@ -543,7 +543,7 @@
     {
       "id": "a6ca66ce59bf70a62d655756",
       "title": "Sonia Bellina : le corps partiellement calciné retrouvé dans le Gard identifié comme celui de l’influenceuse de 29 ans",
-      "summary": "Deux suspects ont été interpellés dans le cadre de l’enquête ouverte pour assassinat, a annoncé, mercredi, le parquet de Nîmes. Le corps « partiellement carbonisé » d’une femme avait été retrouvé le 12 août dans des vignes du village de Saint-Gilles.",
+      "summary": "Deux suspects ont été interpellés dans le cadre de l’enquête ouverte pour assassinat, a annoncé, mercredi, le parquet de Nîmes. Le corps « partiellement carbonisé » d’une femme avait été retrouvé le 12 août dans des vignes de la commune de Saint-Gilles.",
       "url": "https://www.lemonde.fr/societe/article/2026/08/19/gard-le-corps-partiellement-calcine-retrouve-a-saint-gilles-identifie-comme-celui-de-l-influenceuse-sonia-bellina_6749881_3224.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
