@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-20T00:42:29.844396+00:00",
+  "updatedAt": "2026-08-20T02:10:59.754653+00:00",
   "items": [
+    {
+      "id": "32a28861c7d3d33be55b2183",
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T02:05:20+00:00"
+    },
     {
       "id": "e7efdb3249c21af410927867",
       "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
@@ -10,7 +21,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-20T00:25:38+00:00"
+      "publishedAt": "2026-08-20T02:02:48+00:00"
+    },
+    {
+      "id": "07a35b6885be8e6777a637a5",
+      "title": "The X-Tech Executive Chair Aims to Upend Premium Models from Herman Miller, Steelcase at a Better Price",
+      "summary": "Battle of the super premium tier chairs.",
+      "url": "https://www.ign.com/articles/x-tech-executive-chair-aims-to-upend-premium-models-from-herman-miller-steelcase",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T01:10:00+00:00"
+    },
+    {
+      "id": "ca52830c5a27761b868cfc7f",
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T00:53:20+00:00"
+    },
+    {
+      "id": "bc1729aad9c39633af0a4381",
+      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "summary": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T00:48:57+00:00"
+    },
+    {
+      "id": "e4150d3d94ef0b03b8ab760c",
+      "title": "Ryan Reynolds Congratulates Christopher Nolan's the Odyssey for Surpassing Deadpool & Wolverine to Become Highest Grossing R-Rated Movie of All Time",
+      "summary": "The one thing Christopher Nolan’s adaptation of an ancient Greek epic and Reynold’s fourth wall-breaking Deadpool flick with Hugh Jackman have in common is that each of them has been the world’s highest grossing R-rated film at one point.",
+      "url": "https://www.ign.com/articles/ryan-reynolds-congratulates-christopher-nolans-the-odyssey-for-surpassing-deadpool-wolverine-to-become-highest-grossing-r-rated-movie-of-all-time",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T00:26:27+00:00"
     },
     {
       "id": "51b4794dc269984b7d132f83",
@@ -22,6 +77,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-20T00:18:01+00:00"
+    },
+    {
+      "id": "bb2221dd24eea94f5a2b8c00",
+      "title": "Save $75 Off the Nintendo Switch 2 Plus Up to $130 in Best Buy Credit When You Trade in a Switch Console",
+      "summary": "That's up to $205 in total savings, and just fyi the retail price goes up starting September 1.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-trade-in-deal-best-buy-anniversary-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T00:15:00+00:00"
     },
     {
       "id": "e1ce8e1675886d78debcb7d8",
@@ -55,17 +121,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-19T23:00:00+00:00"
-    },
-    {
-      "id": "bc1729aad9c39633af0a4381",
-      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T22:55:37+00:00"
     },
     {
       "id": "0cf37b4342753dc37e33f48b",
@@ -255,28 +310,6 @@
       "publishedAt": "2026-08-19T19:13:06+00:00"
     },
     {
-      "id": "9c80649953685566d457cad4",
-      "title": "The 65\" Samsung S90F 4K QD-OLED TV Drops to Its Lowest Price Ever, But Only in Select Regions",
-      "summary": "We picked the S90F as the best gaming TV in 2026.",
-      "url": "https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-best-buy-anniversary-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T19:10:00+00:00"
-    },
-    {
-      "id": "77294cfbd86217b9c645aa5a",
-      "title": "Jason Kelce and Liquid Death Want Your Pee to Cool AI Data Centers",
-      "summary": "Jason Kelce, Garage Beer, and Liquid Death have teamed up to ask you to mail your pee to data centers.",
-      "url": "https://www.ign.com/articles/jason-kelce-and-liquid-death-want-your-pee-to-cool-ai-data-centers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T19:09:44+00:00"
-    },
-    {
       "id": "c7d241be04dcf6a3c4911a4a",
       "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
       "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
@@ -286,17 +319,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-19T18:26:21+00:00"
-    },
-    {
-      "id": "bb6c9258118ba11ec866fcd1",
-      "title": "The Jackery Explorer 240D 80,000mAh Power Bank Drops Below $100 for the First Time",
-      "summary": "Massive capacity, compact size",
-      "url": "https://www.ign.com/articles/the-jackery-explorer-240d-80000mah-power-bank-drops-below-100-for-the-first-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-19T18:20:00+00:00"
     },
     {
       "id": "ce1f3d48e49527a27c8da31f",
@@ -319,17 +341,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-19T17:39:49+00:00"
-    },
-    {
-      "id": "ca52830c5a27761b868cfc7f",
-      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T17:16:28+00:00"
     },
     {
       "id": "17cbd142decf17bc902313f8",
