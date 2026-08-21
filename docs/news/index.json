@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-08-20T23:16:51.121757+00:00",
+  "updatedAt": "2026-08-21T00:45:04.176238+00:00",
   "items": [
+    {
+      "id": "0fd25ad0aa689785fd413a7c",
+      "title": "Netflix Reveals New Cyberpunk: Edgerunners 2 Trailer and Images at Anime NYC",
+      "summary": "A new trailer and images from Cyberpunk: Edgerunners 2 have been revealed by Netflix, giving us a closer look at the high-octane action and heartbreaking tragedy we can expect from this latest foray into Night City.",
+      "url": "https://www.ign.com/articles/netflix-reveals-new-cyberpunk-edgerunners-2-trailer-and-images-at-anime-nyc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-21T00:00:24+00:00"
+    },
+    {
+      "id": "99e4cee06a7bd0c89b6f4fbe",
+      "title": "Netflix Confirms Blue Eye Samurai Will End With Third and Final Season",
+      "summary": "Netflix has revealed that Blue Eye Samurai will officially end with a third and final season.",
+      "url": "https://www.ign.com/articles/netflix-confirms-blue-eye-samurai-will-end-with-third-and-final-season",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-21T00:00:17+00:00"
+    },
+    {
+      "id": "392d7b167e506643121d6dc1",
+      "title": "Netflix Reveals Packed Anime Slate: Full Announcement Rundown, Trailers, and Images",
+      "summary": "Netflix showed off a massive slate of upcoming projects at Anime NYC, including exclusive trailers and images for series like Cyberpunk: Edgerunners 2, The One Piece, Blue Eye Samurai, and more.",
+      "url": "https://www.ign.com/articles/netflix-reveals-packed-anime-slate-full-announcement-rundown-trailers-and-images",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-21T00:00:09+00:00"
+    },
+    {
+      "id": "c1a1c34d63650a861899f9bb",
+      "title": "Double Your PlayStation 5 Storage With This 1TB PCIe M.2 SSD for Just $136.39 Shipped",
+      "summary": "Near-essential PS5 upgrade.",
+      "url": "https://www.ign.com/articles/best-ps5-ssd-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T23:50:00+00:00"
+    },
+    {
+      "id": "90305a096464c235fbef4e5c",
+      "title": "Zoey 101 Star Jamie Lynn Spears Denies Show Was Canceled Because of Teen Pregnancy",
+      "summary": "Former Nickeloden star Jamie Lynn Spears has denied rumors that her show, Zoey 101, was cancelled because of her teen pregnancy.",
+      "url": "https://www.ign.com/articles/zoey-101-star-jamie-lynn-spears-denies-show-was-canceled-because-of-teen-pregnancy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T23:37:41+00:00"
+    },
+    {
+      "id": "130ba31f41e76720e5b22c37",
+      "title": "Why Nigeria's one-time political giant may face extinction",
+      "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T23:21:22+00:00"
+    },
+    {
+      "id": "d19d06ff540e1c23cfba05e0",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T23:16:45+00:00"
+    },
     {
       "id": "372386473a77635c2a7ec5ad",
       "title": "How landscape gardening is being electrified",
@@ -11,6 +88,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-20T23:12:38+00:00"
+    },
+    {
+      "id": "dc9d28ab817b821c1779a8e2",
+      "title": "Newegg Has a 512GB Nintendo Switch 2 Memory Card for Just $95 With Free Shipping",
+      "summary": "Triples your total Switch 2 storage capacity.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-memory-card-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-20T23:10:00+00:00"
     },
     {
       "id": "3f393d65e453c5a121ca5e20",
@@ -46,6 +134,17 @@
       "publishedAt": "2026-08-20T22:10:00+00:00"
     },
     {
+      "id": "931551b8bda76fbdec138426",
+      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T22:01:26+00:00"
+    },
+    {
       "id": "fca2d54a8230cd96d7f7a2fa",
       "title": "Halo: Reach Designer Reveals that Modern Warfare Series Were a 'Huge' Inspiration for Bungie",
       "summary": "Halo: Reach designer Niles Sankey has revealed that the game was massively influenced by the first two Modern Warfare games.",
@@ -66,6 +165,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-20T21:05:00+00:00"
+    },
+    {
+      "id": "b01236225defcafc100c564b",
+      "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+      "summary": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-20T21:03:30+00:00"
     },
     {
       "id": "c26394013bfe61f085522869",
@@ -156,17 +266,6 @@
       "publishedAt": "2026-08-20T19:55:09+00:00"
     },
     {
-      "id": "5a3b7c66137074456a8d8cc5",
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T19:52:48+00:00"
-    },
-    {
       "id": "bd888462a03793b0e4bb6d6b",
       "title": "Thrilljoy Reveals Terrifying Cute IT: Welcome to Derry Pennywise Figures",
       "summary": "Thrilljoy is tackling the terrifying clowns of IT: Welcome to Derry as part of its PIX! line of vinyl figures, and Pennywise has never looked so cute.",
@@ -233,61 +332,6 @@
       "publishedAt": "2026-08-20T18:15:00+00:00"
     },
     {
-      "id": "e3550ce0db25944d5c8d398e",
-      "title": "Jon Favreau Details the ‘Sniper'-Like Shoot of Nat Geo’s Lion and What Comes Next",
-      "summary": "Jon Favreau discusses producing NatGeo's Lion, its similarities to The Lion King, and why the unpredictable wildlife shoot has him considering a different genre for his next project.",
-      "url": "https://www.ign.com/articles/jon-favreau-lion-net-geo-interview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T18:14:40+00:00"
-    },
-    {
-      "id": "eacb773b5e112fa2cd564be7",
-      "title": "Nitro Deck 2 Is Finally Out for Switch 2 Next Week",
-      "summary": "It's nearly here: the Nitro Deck 2 controller for Switch 2 is set to release August 28.",
-      "url": "https://www.ign.com/articles/nitro-deck-2-is-finally-out-for-switch-2-next-week",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T17:52:59+00:00"
-    },
-    {
-      "id": "5ab2d9c52a1e826a795a544b",
-      "title": "The 27\" Samsung OLED Gaming Monitor Drops to $265 for Select Customers, But You Can Game the System",
-      "summary": "Reload, reload, reload.",
-      "url": "https://www.ign.com/articles/samsung-oled-gaming-monitor-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T17:35:00+00:00"
-    },
-    {
-      "id": "b55e9898ff6cd3acc56d7509",
-      "title": "'I Bet Many of You Would Not Like It' — Halo Co-Creator Says He Would Make Series 'Darker' if He Made a New Game",
-      "summary": "The co-creator of Halo claims fans wouldn't like his vision for new games in the series if he were still working on the franchise.",
-      "url": "https://www.ign.com/articles/i-bet-many-of-you-would-not-like-it-halo-co-creator-says-he-would-make-series-darker-if-he-made-a-new-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T17:31:52+00:00"
-    },
-    {
-      "id": "1d057b6ae51eac4e2b74a272",
-      "title": "Pokémon x Crocs Collection Gets 3 More Clog Designs",
-      "summary": "After announcing the Poké Ball clog, Crocs has revealed three more upcoming designs featuring specific Pokémon.",
-      "url": "https://www.ign.com/articles/gengar-jigglypuff-pikachu-clog-reveal-crocs-x-pokemon-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T17:21:17+00:00"
-    },
-    {
       "id": "02e0dc165eef849870d7a4e7",
       "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
@@ -297,17 +341,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-20T17:14:55+00:00"
-    },
-    {
-      "id": "177144396114a3c386154b6e",
-      "title": "Wonder Man Star Was Told the Show's Cancellation Was Due to Viewership Numbers",
-      "summary": "Wonder Man star Yahya Abdul-Mateen II has discussed the official explanation he was given for the show's cancellation, while also calling for \"some real, hard information\" about the optics of the decision, in light of the series' prior renewal.",
-      "url": "https://www.ign.com/articles/wonder-man-star-was-told-the-shows-cancellation-was-due-to-viewership-numbers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T17:11:41+00:00"
     },
     {
       "id": "19cf4552b86da8609d9363df",
@@ -354,17 +387,6 @@
       "publishedAt": "2026-08-20T16:00:27+00:00"
     },
     {
-      "id": "b93f5c79f131e4e02724c4fe",
-      "title": "Landslide at unlicensed Colombian gold mine kills 13",
-      "summary": "Four members of an indigenous family are among the dead, witnesses said.",
-      "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T15:07:57+00:00"
-    },
-    {
       "id": "d36f5c08d36ea38e53ec6906",
       "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
       "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
@@ -409,26 +431,15 @@
       "publishedAt": "2026-08-20T12:10:02+00:00"
     },
     {
-      "id": "4eb63d01a92b287a94111632",
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "id": "c4eede4fa2f406685cdc2455",
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-20T11:08:19+00:00"
-    },
-    {
-      "id": "e962b684e321856e562c9c3e",
-      "title": "Four workers dead after being hit by train in Japan",
-      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T10:32:31+00:00"
+      "publishedAt": "2026-08-20T10:14:47+00:00"
     },
     {
       "id": "86823800bff3a922e66fd24b",
@@ -451,28 +462,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-20T09:30:10+00:00"
-    },
-    {
-      "id": "3947019641fbc93f12af2ba5",
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T07:33:11+00:00"
-    },
-    {
-      "id": "44cdb50515d30fd8b1dd5381",
-      "title": "Canadian marathon route was 674m too long",
-      "summary": "Organisers of the Edmonton Marathon admit their course this year was more than half a kilometre too long.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T07:15:48+00:00"
     },
     {
       "id": "59d9d9f12f6448ce07c53b95",
@@ -508,17 +497,6 @@
       "publishedAt": "2026-08-20T06:08:02+00:00"
     },
     {
-      "id": "d55f598149a9074fa7ca4654",
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "summary": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
-      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T05:45:53+00:00"
-    },
-    {
       "id": "44590fae075c1b2fa0a36f12",
       "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
       "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
@@ -528,17 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-20T05:01:24+00:00"
-    },
-    {
-      "id": "0808ef2015e9943f3b686498",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-20T04:17:53+00:00"
     },
     {
       "id": "32a28861c7d3d33be55b2183",
@@ -715,17 +682,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-19T08:05:06+00:00"
-    },
-    {
-      "id": "6db0d8dc0671c9bcd8eb5ab8",
-      "title": "Families' agonising search for answers as thousands still missing in Gaza",
-      "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-      "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T05:04:00+00:00"
     },
     {
       "id": "f3cc3b2a346b06d792283b05",
