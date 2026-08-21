@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-21T12:27:48.739762+00:00",
+  "updatedAt": "2026-08-21T13:37:34.396037+00:00",
   "items": [
+    {
+      "id": "7fc0eaf11a0d55b6a5119d83",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-21T13:10:39+00:00"
+    },
+    {
+      "id": "4c339432ef2f09b9851bcfa3",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-21T13:07:00+00:00"
+    },
+    {
+      "id": "a08e05a24c2955230adaba7b",
+      "title": "The Duskbloods, Tides of Annihilation, Aliens: Fireteam Elite 2 – Catch Up on IGN's Game Previews This Week ICYMI",
+      "summary": "Your one-stop shop for any game preview coverage you might've missed at IGN this week from The Duskbloods, Tides of Annihilation, Aliens: Fireteam Elite 2, Star Wars: Smuggler's Gambit, and Silver Pines.",
+      "url": "https://www.ign.com/articles/the-duskbloods-tides-of-annihilation-aliens-fireteam-elite-2-catch-up-on-igns-game-previews-this-week-icymi",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-21T13:06:00+00:00"
+    },
+    {
+      "id": "d549b83c32e2a4590207052e",
+      "title": "Exquisite Corpses: Fox Mask Killer Delivers a Blood-Drenched Comic Book Epic",
+      "summary": "The wildly popular action-horror comic Exquisite Corpses is getting a new spinoff focused on the Fox Mask Killer, and we've got a blood-drenched new preview of all the gory fun.",
+      "url": "https://www.ign.com/articles/exquisite-corpses-fox-mask-killer-delivers-a-blood-drenched-comic-book-epic",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-21T13:00:00+00:00"
+    },
     {
       "id": "4799f78a2e1075ed7c7df41b",
       "title": "The Last Night Director Breaks Silence, Gives Small Update on Long-Awaited Pixel-Art Cyberpunk Game",
@@ -44,17 +88,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-21T11:33:47+00:00"
-    },
-    {
-      "id": "4c339432ef2f09b9851bcfa3",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-21T11:31:51+00:00"
     },
     {
       "id": "dd52d0bda9f8cb424a9abd59",
@@ -198,17 +231,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-21T08:38:18+00:00"
-    },
-    {
-      "id": "7fc0eaf11a0d55b6a5119d83",
-      "title": "Five missing after fire in Swiss Alpine town",
-      "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-21T07:06:16+00:00"
     },
     {
       "id": "f8d8435316064102d8741df8",
@@ -484,28 +506,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-20T21:43:11+00:00"
-    },
-    {
-      "id": "9218e7dd5cd0cdfd4bd3ed95",
-      "title": "Malware Disguised as Leaked GTA 6 Copies Are Popping Up on Piracy Sites",
-      "summary": "No, despite claims online, there is not a downloadable and playable build of GTA 6 floating around on piracy sites.",
-      "url": "https://www.ign.com/articles/malware-disguised-as-leaked-gta-6-copies-are-popping-up-on-piracy-sites",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T21:05:00+00:00"
-    },
-    {
-      "id": "c26394013bfe61f085522869",
-      "title": "Get a 1TB USB Flash Drive for Just $83 Shipped From Newegg via AliExpress",
-      "summary": "Cheap storage??",
-      "url": "https://www.ign.com/articles/teamgroup-1tb-usb-drive-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-20T20:55:00+00:00"
     },
     {
       "id": "65e2f207476f018c67e179b1",
