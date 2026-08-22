@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-21T23:14:56.053226+00:00",
+  "updatedAt": "2026-08-22T00:42:32.247450+00:00",
   "items": [
+    {
+      "id": "db792e9e2410953e3b60e574",
+      "title": "Save $800 Off This Top-Tier iBuypower Gaming PC With AMD Ryzen 9 9950X3D CPU and 5090 GPU",
+      "summary": "Decked out config with 32GB of DDR5-6000MHz RAM, massive 4TB SSD, and 3 year warranty.",
+      "url": "https://www.ign.com/articles/ibuypower-rtx-5090-gaming-pc-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-22T00:05:00+00:00"
+    },
+    {
+      "id": "f5679a20efe266c17f92a181",
+      "title": "TikTok paiera 400 millions de dollars pour solder des accusations de collecte illégale de données d’enfants américains",
+      "summary": "Le réseau social est accusé d’avoir « sciemment » laissé des millions d’utilisateurs de moins de 13 ans créer des comptes et collecté leurs informations personnelles sans en informer leurs parents ni obtenir leur consentement.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/22/tiktok-paiera-400-millions-de-dollars-pour-solder-des-accusations-de-collecte-illegale-de-donnees-d-enfants-americains_6752354_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-21T23:31:25+00:00"
+    },
+    {
+      "id": "b785a91fc6c7c075d7f5489c",
+      "title": "Amazon Has Box Set Deals Hidden Deep Within Its BOGO 50% Off Book Sale",
+      "summary": "",
+      "url": "https://www.ign.com/articles/amazon-bogo-book-sale-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-21T23:06:37+00:00"
+    },
     {
       "id": "d45b5c1c4228d50492951020",
       "title": "Double Fine Owns IP and Publishing Rights for All of Its Games Following Xbox Split, Psychonauts Studio Confirms",
@@ -253,28 +286,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-21T19:05:00+00:00"
-    },
-    {
-      "id": "1875542f850126d58f5ab0d8",
-      "title": "Want a Gears of War Lancer Replica? You Can Preorder One Now",
-      "summary": "Preorders are live for a full-scale 1:1 Gears of War Prototype Lancer replica, but it'll set you back $300.",
-      "url": "https://www.ign.com/articles/want-a-gears-of-war-lancer-replica-you-can-preorder-one-now",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-21T18:52:59+00:00"
-    },
-    {
-      "id": "759d6a9b2f2ba1f87e66672c",
-      "title": "A $200 Movie Made by a Chinese Mother and Her Son Just Beat Obsession to Become the World's Most Profitable Film After Making 20,000 Times Its Budget",
-      "summary": "Low-budget Chinese animated film Niu Lai has just become the most profitable movie relative to its budget, beating out Obsession’s previous record in a baffling turn of events.",
-      "url": "https://www.ign.com/articles/a-200-movie-made-by-a-chinese-mother-and-her-son-just-beat-obsession-to-become-the-worlds-most-profitable-film-after-making-20000-times-its-budget",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-21T18:46:28+00:00"
     },
     {
       "id": "42973d5a97636ca30820f7e1",
@@ -783,17 +794,6 @@
       "publishedAt": "2026-08-19T03:13:39+00:00"
     },
     {
-      "id": "b5e78007bb11ca090cf466c8",
-      "title": "Après la cyberattaque autonome contre Hugging Face, OpenAI ralentit le développement de son modèle d’IA le plus avancé",
-      "summary": "A la mi-juillet, un agent autonome reposant sur deux modèles d’OpenAI était sorti, de sa propre initiative, de son milieu de test confiné pour s’aventurer sur Internet et attaquer Hugging Face, plateforme où les développeurs du monde entier partagent leurs modèles d’IA.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/apres-la-cyberattaque-autonome-contre-hugging-face-openai-ralentit-le-developpement-de-son-modele-d-ia-le-plus-avance_6749257_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-19T00:38:44+00:00"
-    },
-    {
       "id": "7ef366077840a4abf4c4284a",
       "title": "The critical tech staying safe by going underground",
       "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
@@ -926,10 +926,10 @@
       "publishedAt": "2026-07-25T01:00:00+00:00"
     },
     {
-      "id": "b5950398d0a0b3dc335dfa8a",
+      "id": "c298791cad4488a93e1cd15f",
       "title": "Tech Now",
       "summary": "Ammie Sekhon goes behind the scenes of WWE to see the tech that supports the show.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002zc0w?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
