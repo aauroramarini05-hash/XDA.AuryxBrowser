@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:16:03.484620+00:00",
+  "updatedAt": "2026-08-22T20:12:24.530633+00:00",
   "items": [
     {
       "id": "3bc544bb905aaad98029032a",
@@ -10,7 +10,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-22T18:20:36+00:00"
+      "publishedAt": "2026-08-22T20:10:00+00:00"
+    },
+    {
+      "id": "515d9272d10012bedafa600f",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-22T20:02:46+00:00"
     },
     {
       "id": "e69dd748bd19a26a6f32b778",
@@ -44,17 +55,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-22T16:30:00+00:00"
-    },
-    {
-      "id": "515d9272d10012bedafa600f",
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-22T16:20:51+00:00"
     },
     {
       "id": "60851956d117da52b5e10ac0",
