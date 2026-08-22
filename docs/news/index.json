@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T04:23:07.440252+00:00",
+  "updatedAt": "2026-08-22T05:18:22.665313+00:00",
   "items": [
     {
       "id": "4a7cdbcab66063112869ff88",
@@ -10,18 +10,40 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-22T03:17:29+00:00"
+      "publishedAt": "2026-08-22T05:15:58+00:00"
     },
     {
-      "id": "59fd28345ba9f7a8acb3c4af",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "id": "4839248ba9983f40487d8c26",
+      "title": "Un capitalisme sobre est-il possible ?",
+      "summary": "« Festival international de journalisme » (6/6). Avec le changement climatique et l’accentuation des activités humaines, comme l’IA, les tensions s’accroissent, notamment en matière d’énergie et d’eau.",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/08/22/un-capitalisme-sobre-est-il-possible_6752761_5463015.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-22T05:00:10+00:00"
+    },
+    {
+      "id": "ece9be113f0a40cd9b1d881d",
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-22T00:40:47+00:00"
+      "publishedAt": "2026-08-22T04:46:33+00:00"
+    },
+    {
+      "id": "dc061a6bc9122242f1b26783",
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+      "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-22T02:39:10+00:00"
     },
     {
       "id": "f981316ee9ef10cf36beda55",
@@ -55,6 +77,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-22T00:05:00+00:00"
+    },
+    {
+      "id": "057e0cae4806e0531503aa06",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "summary": "They will not be working royals when they come back. So what could they be doing instead?",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-22T00:03:10+00:00"
     },
     {
       "id": "f5679a20efe266c17f92a181",
@@ -651,17 +684,6 @@
       "publishedAt": "2026-08-20T06:30:01+00:00"
     },
     {
-      "id": "ce1f3d48e49527a27c8da31f",
-      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-      "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
-      "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T17:46:01+00:00"
-    },
-    {
       "id": "17cbd142decf17bc902313f8",
       "title": "« Je suis en train de scier la branche sur laquelle je suis assis » : ces travailleurs qui filment leurs gestes pour entraîner les IA en Inde",
       "summary": "Vendeur de vêtements, coiffeur, garagiste… De plus en plus de salariés enregistrent des images qui serviront à entraîner des robots conçus pour automatiser leurs tâches. Ce qui, à terme, peut menacer leur emploi.",
@@ -704,17 +726,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-19T16:04:16+00:00"
-    },
-    {
-      "id": "acc2072dfc95ee90b17e455e",
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-19T15:38:38+00:00"
     },
     {
       "id": "270e75b469d49bdb5993a545",
@@ -792,17 +803,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-19T08:05:06+00:00"
-    },
-    {
-      "id": "39e411bf5bd82f9e8b22a045",
-      "title": "Au procès de Meta, la firme de Mark Zuckerberg accusée d’avoir ciblé les enfants et minoré les dangers d’Instagram",
-      "summary": "L’entreprise est jugée au civil en Californie, poursuivie par 29 Etats fédérés pour avoir trompé les consommateurs et violé la loi fédérale sur la protection des mineurs, en exposant les jeunes utilisateurs à des contenus violents ou sexuels et à des risques d’addiction.",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/19/au-proces-de-meta-la-firme-de-mark-zuckerberg-accusee-d-avoir-cible-les-enfants-et-minore-les-dangers-d-instagram_6749391_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-19T03:13:39+00:00"
     },
     {
       "id": "7ef366077840a4abf4c4284a",
