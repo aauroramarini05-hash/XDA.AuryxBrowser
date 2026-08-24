@@ -1,16 +1,71 @@
 {
-  "updatedAt": "2026-08-24T12:28:58.613245+00:00",
+  "updatedAt": "2026-08-24T13:42:19.698777+00:00",
   "items": [
+    {
+      "id": "7bc7178662aa3490e67be034",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-24T13:35:07+00:00"
+    },
+    {
+      "id": "2985aa56df1c2602ad19a847",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-24T13:14:10+00:00"
+    },
+    {
+      "id": "14c000c3e40a92b7ece87dff",
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+      "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-24T13:09:44+00:00"
+    },
+    {
+      "id": "aec4bdbcf883ce67faf25a66",
+      "title": "Exclusive: PokémonXP and 2026 Pokémon World Championships Pokémon Center Merch Reveal",
+      "summary": "See a huge selection of Pokémon merch to be exclusively sold at the 2026 Pokémon World Championships and PokémonXP pop-up Pokémon Center, including a Steiff Pikachu, a rocket backpack, and more.",
+      "url": "https://www.ign.com/articles/exclusive-pokemonxp-and-2026-pokemon-world-championships-pokemon-center-merch-reveal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-24T13:00:00+00:00"
+    },
     {
       "id": "017d1b55c5fc16a6101c9655",
       "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-      "summary": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
+      "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
       "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-24T12:28:16+00:00"
+    },
+    {
+      "id": "f21c2901571f804e0ce64b7b",
+      "title": "7 Magic: The Gathering Crossovers We Want for Universes Beyond in 2027 and Beyond",
+      "summary": "Following Hasbro's tease of more \"fantasy-adjacent\" Magic: The Gathering Universes Beyond sets for 2027, here are our predictions for what could join the lineup next year.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-universes-beyond-latest-predictions-news",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-24T12:28:15+00:00"
     },
     {
       "id": "4e214bc1eb9ab230aef99bb8",
@@ -88,17 +143,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-24T10:40:22+00:00"
-    },
-    {
-      "id": "7bc7178662aa3490e67be034",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-24T10:39:23+00:00"
     },
     {
       "id": "5dda0831464fd6dcbedd20f2",
@@ -297,6 +341,28 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-24T04:01:04+00:00"
+    },
+    {
+      "id": "51725b762ce44fad307b0a73",
+      "title": "The Best LEGO Batman Sets You Can Buy in 2026",
+      "summary": "Although LEGO recently retired a lot of LEGO Batman sets, there are still some great ones left.",
+      "url": "https://www.ign.com/articles/the-best-lego-batman-sets",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-24T04:00:23+00:00"
+    },
+    {
+      "id": "0fd2c1122aaedbfee0b7a310",
+      "title": "We Build The Massive, Multi-Set LEGO Harry Potter Hogwarts Castle, Currently In Progress",
+      "summary": "Here's a look at the current state of the \"in progress\" LEGO Hogwarts Castle, a huge undertaking that's comprised of many smaller sets placed together.",
+      "url": "https://www.ign.com/articles/every-lego-harry-potter-hogwarts-castle-we-build-so-far",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-24T04:00:00+00:00"
     },
     {
       "id": "06a684c2c684314dd406d375",
@@ -519,39 +585,6 @@
       "publishedAt": "2026-08-22T16:00:00+00:00"
     },
     {
-      "id": "64fbf6caacc9dc87ddb113d8",
-      "title": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
-      "summary": "With Metal Gear Solid 4 finally arriving on modern consoles thanks to Master Collection Vol. 2, we take a look back at the game's legacy. Was it really just a big cutscene, or is it Kojima's masterpiece?",
-      "url": "https://www.ign.com/articles/metal-gear-solid-4-the-flawed-masterpiece-kojima-didnt-want-to-make",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-22T15:30:00+00:00"
-    },
-    {
-      "id": "9e46a99b351209f8e9dc4246",
-      "title": "Ultra Graphics Settings Are a Scam: Why High Is Good Enough, if Not Better, for Most Players",
-      "summary": "Most games don’t actually need to be played at Ultra settings to look good. They don’t even need it to look great. To prove it, I turned down the settings in a bunch of great-looking games to see how much difference it really makes. Not only did I find it hard to spot any obvious visual difference in most of the games I tested, but performance went",
-      "url": "https://www.ign.com/articles/ultra-graphics-settings-are-a-scam-why-high-is-good-enough-if-not-better-for-most-players",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-22T14:45:00+00:00"
-    },
-    {
-      "id": "22c4614e2244964c1f9c2699",
-      "title": "Sangster Directs Hammer Review",
-      "summary": "Sangster Directs Hammer review: Severin Films focuses on the considerable contribution of writer/director Jimmy Sangster (and actor Ralph Bates) to Hammer horror film history.",
-      "url": "https://www.ign.com/articles/sangster-directs-hammer-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-22T13:00:00+00:00"
-    },
-    {
       "id": "68b6da1892de992e589cd525",
       "title": "Robot horse and rider steal the spotlight at Chinese conference",
       "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
@@ -561,17 +594,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-22T12:47:28+00:00"
-    },
-    {
-      "id": "f29eba3bdbe9e292df991d19",
-      "title": "Pokémon ETBs are Surprisingly Easy to Get Hold of Right Now on Amazon",
-      "summary": "Amazon has quietly restocked high-demand Pokémon TCG Elite Trainer Boxes below secondary market prices, including hard-to-find Pokémon Center Exclusives and new releases.",
-      "url": "https://www.ign.com/articles/pokemon-tcg-etb-amazon-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-22T11:30:00+00:00"
     },
     {
       "id": "22b0c52a13c7990abb1b356d",
@@ -869,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-18T11:26:26+00:00"
-    },
-    {
-      "id": "aef38f4d744de365d71b8f40",
-      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-      "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-      "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-18T09:26:41+00:00"
     },
     {
       "id": "0cb05b79cd5aea2126391c27",
