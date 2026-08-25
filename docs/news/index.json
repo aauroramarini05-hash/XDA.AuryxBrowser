@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-25T04:30:03.928448+00:00",
+  "updatedAt": "2026-08-25T05:23:24.289819+00:00",
   "items": [
+    {
+      "id": "5c9a4a1adbcf748e585dbcdb",
+      "title": "Désinformation russe : de fausses chaînes Telegram, de fausses vidéos et un vrai-faux think tank israélien",
+      "summary": "Un rapport publié mardi 25 août par OpenAI identifie un vrai-faux centre de réflexion lié à des opérateurs de propagande pro-Kremlin.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/25/desinformation-russe-de-fausses-chaines-telegram-de-fausses-videos-et-un-vrai-faux-think-tank-israelien_6756197_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-25T05:00:09+00:00"
+    },
+    {
+      "id": "e737ecd79c246d43a03315c8",
+      "title": "Songs created by AI banned from Australia's music charts",
+      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-25T04:54:01+00:00"
+    },
     {
       "id": "4b0197e6d997e7a4e78d7b23",
       "title": "Batman: Knightfall Part 1 Is Now Available to Watch Online",
@@ -816,17 +838,6 @@
       "publishedAt": "2026-08-20T16:58:37+00:00"
     },
     {
-      "id": "b7ca2b6fa5329615fbf93e73",
-      "title": "Le ministère de l’intérieur piraté depuis la boîte mail d’un fonctionnaire : autopsie d’une intrusion qui révèle les failles informatiques de l’Etat",
-      "summary": "Alors que le gouvernement est pris en défaut après la cyberattaque visant le site des impôts, l’enquête judiciaire portant sur un autre piratage d’envergure, celui des serveurs de Beauvau, révèle que tout est parti de la simple compromission d’identifiants d’un agent du ministère de l’agriculture en Bourgogne.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/20/le-ministere-de-l-interieur-pirate-depuis-la-boite-mail-d-un-fonctionnaire-autopsie-d-une-intrusion-qui-revele-les-failles-informatiques-de-l-etat_6751123_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-20T16:30:06+00:00"
-    },
-    {
       "id": "86823800bff3a922e66fd24b",
       "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
       "summary": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
@@ -880,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-18T23:25:21+00:00"
-    },
-    {
-      "id": "50c7081bf759de1c34f08e2f",
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-18T22:11:07+00:00"
     },
     {
       "id": "734640cf65cfb569159b6f6d",
