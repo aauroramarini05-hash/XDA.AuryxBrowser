@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-08-25T16:25:22.644998+00:00",
+  "updatedAt": "2026-08-25T17:22:56.811722+00:00",
   "items": [
+    {
+      "id": "715d5d6b5204c2b2453bb949",
+      "title": "Why Even Consider a Projector When Costco Has an Excellent 100\" Hisense 4K TV for Just $1,500?",
+      "summary": "This massive TV even comes with an extended 5 year warranty.",
+      "url": "https://www.ign.com/articles/100-inch-hisense-qd7-4k-tv-deal-labor-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-25T17:10:00+00:00"
+    },
+    {
+      "id": "1daddd48685141dd26a310ec",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-25T16:56:20+00:00"
+    },
+    {
+      "id": "7bfe03ee683d073c77632ddc",
+      "title": "RoboCop TV Show Casts Dan Stevens as Its Star",
+      "summary": "Prime Video's RoboCop TV show has reportedly cast Dan Stevens as its star.",
+      "url": "https://www.ign.com/articles/robocop-tv-show-casts-dan-stevens-as-its-star",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-25T16:54:42+00:00"
+    },
+    {
+      "id": "4b5f7d0e15396cd1581f0ac2",
+      "title": "Call of Duty: Modern Warfare 4 Beta Pushes Unplanned Update to Address Fan Feedback",
+      "summary": "Infinity Ward has pushed an unplanned update for the Call of Duty: Modern Warfare 4 beta in order to quickly address fan feedback.",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-pushes-unplanned-update-to-address-fan-feedback",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-25T16:47:20+00:00"
+    },
+    {
+      "id": "5aecdb74ad42a98d118ba1bc",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-25T16:43:08+00:00"
+    },
+    {
+      "id": "c0f221c405201b05e490d65f",
+      "title": "Cyberattaque dans l’éducation nationale : « les enfants pourront reprendre le chemin des cours », assure Edouard Geffray",
+      "summary": "Un audit complet et la généralisation de la double authentification sont lancés pour éviter de nouvelles fuites de données au ministère.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/25/cyberattaque-dans-l-education-nationale-les-enfants-pourront-reprendre-le-chemin-des-cours-assure-edouard-geffray_6756614_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-25T16:40:02+00:00"
+    },
+    {
+      "id": "7dfe92f8760596701390753a",
+      "title": "The 27\" Samsung OLED Gaming Monitor Drops to $269 for Select Customers, But You Can Game the System",
+      "summary": "Reload, reload, reload.",
+      "url": "https://www.ign.com/articles/samsung-oled-gaming-monitor-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-25T16:35:00+00:00"
+    },
+    {
+      "id": "94a3aa3875fcd09beb34fa14",
+      "title": "Get Two Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
+      "summary": "Most new and returning (non-current) subscribers should be eligible.",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-25T16:25:00+00:00"
+    },
+    {
+      "id": "b9b7e27face5f65de9c11304",
+      "title": "Samsung's Absolutely Massive 57\" Dual 4K Gaming Monitor Drops to the Lowest Price I've Ever Seen",
+      "summary": "Bigger is better.",
+      "url": "https://www.ign.com/articles/samsung-odyssey-g9-gaming-monitor-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-25T16:20:00+00:00"
+    },
     {
       "id": "1741573c37d6aca3615148ae",
       "title": "Le projet de parc d’attractions « Dragon Ball » en Ile-de-France n’a pas encore l’accord des ayants droit japonais",
@@ -10,18 +109,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-25T16:15:12+00:00"
-    },
-    {
-      "id": "e5ada52ee06d1f2decfefdf6",
-      "title": "CIA chief in Moscow for unannounced talks, US media reports",
-      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T16:08:26+00:00"
+      "publishedAt": "2026-08-25T16:15:08+00:00"
     },
     {
       "id": "8ac2bfc4b3c80aa13405d929",
@@ -44,6 +132,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-25T16:01:18+00:00"
+    },
+    {
+      "id": "95c0441090b743ec35c40abb",
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-25T15:58:20+00:00"
     },
     {
       "id": "3d3c4186e7b98275a7614954",
@@ -99,17 +198,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-25T15:15:34+00:00"
-    },
-    {
-      "id": "5aecdb74ad42a98d118ba1bc",
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T14:54:34+00:00"
     },
     {
       "id": "bd08e10f6f0d4892828303e7",
@@ -255,17 +343,6 @@
       "publishedAt": "2026-08-25T11:10:02+00:00"
     },
     {
-      "id": "315f0d5448f15a7fc2bcbe3a",
-      "title": "[UPDATE] GTA 6 Leaker Releases Game Store, Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
-      "summary": "The GTA 6 leaks have continued, this time with two new gameplay videos and a message from the leaker defending their crypto scheme.",
-      "url": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-25T10:52:58+00:00"
-    },
-    {
       "id": "eb3a8bfe29f4d70d1fa5930e",
       "title": "Votre enfant est équipé d’une montre connectée ? Racontez-nous",
       "summary": "Ce petit appareil électronique permet, entre autres, de communiquer avec un enfant pour s’organiser ou de suivre sa position GPS, voire de lui offrir ses premiers instants de sociabilité numérique.",
@@ -275,28 +352,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-25T10:30:09+00:00"
-    },
-    {
-      "id": "ce12faa17585f7a4bbdcf608",
-      "title": "GTA 6 Leak Subpoena: Discord Says It Will 'Evaluate the Validity and Scope Before Responding'",
-      "summary": "Discord has countered online reports about Take-Two’s hunt for the identity of the GTA 6 leaker, saying it has yet to be formally served a subpoena, and when it does receive it, it will take a long, hard look at it before responding.",
-      "url": "https://www.ign.com/articles/gta-6-leak-subpoena-discord-says-it-will-evaluate-the-validity-and-scope-before-responding",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-25T09:54:10+00:00"
-    },
-    {
-      "id": "6c4a7191789581d5040bd72a",
-      "title": "Zach Cregger's Resident Evil Movie Includes First-Person Sequences — and Yes, Umbrella Is Involved",
-      "summary": "Zach Cregger's Resident Evil movie will pay homage to the series' first-person gameplay, newly-released footage has revealed.",
-      "url": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-includes-first-person-sequences-and-yes-umbrella-is-involved",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-25T09:52:29+00:00"
     },
     {
       "id": "2985aa56df1c2602ad19a847",
@@ -310,17 +365,6 @@
       "publishedAt": "2026-08-25T09:50:42+00:00"
     },
     {
-      "id": "2439a30bdaf0e2416ba7ebca",
-      "title": "EXCLUSIVE: Baldur's Gate 3: Astarion Excerpt, Narrated by Neil Newbon Himself",
-      "summary": "IGN has an exclusive excerpt of Baldur’s Gate 3: Astarion, including narration by Astarion actor Neil Newbon himself.",
-      "url": "https://www.ign.com/articles/exclusive-baldurs-gate-3-astarion-excerpt-narrated-by-neil-newbon-himself",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-25T09:50:36+00:00"
-    },
-    {
       "id": "7580f942a860f280f97a17bb",
       "title": "US firefighters say major blaze near Reno about a quarter contained",
       "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
@@ -332,28 +376,6 @@
       "publishedAt": "2026-08-25T09:49:02+00:00"
     },
     {
-      "id": "7612e0076806518913a3db16",
-      "title": "Pokémon Veteran James Turner Rejoins Franchise Following Work on The Plucky Squire",
-      "summary": "Pokémon development veteran James Turner is returning to the world of pocket monsters, after previously leaving to make The Plucky Squire.",
-      "url": "https://www.ign.com/articles/pokemon-veteran-james-turner-rejoins-franchise-following-work-on-the-plucky-squire",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-25T09:03:00+00:00"
-    },
-    {
-      "id": "9115674f3cda44cce395eb0f",
-      "title": "British man charged in Singapore two years after alleged theft at airport",
-      "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T09:01:35+00:00"
-    },
-    {
       "id": "d0f6ad41ae98eaeedfd6d624",
       "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
       "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
@@ -363,17 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-25T08:52:17+00:00"
-    },
-    {
-      "id": "a8191e5f38cb6536a5790024",
-      "title": "Clutch Picks Up a Publisher as Maverick Games Partners with Focus Entertainment",
-      "summary": "Focus Entertainment has announced it has forged a “major publishing partnership” with independent racing studio Maverick Games for its upcoming project, Clutch, after Amazon backed out earlier this year.",
-      "url": "https://www.ign.com/articles/clutch-picks-up-a-publisher-as-maverick-games-partners-with-focus-entertainment",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-25T08:23:37+00:00"
     },
     {
       "id": "727288f5c34480e4dd28c309",
@@ -770,17 +781,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-21T22:36:12+00:00"
-    },
-    {
-      "id": "d9482f2d174ff710c6037946",
-      "title": "Derrière le succès des consoles « rétro », un marché illégal de jeux anciens",
-      "summary": "Souvent produits en Chine et peu onéreux, ces émulateurs permettent de jouer à des milliers de titres produits pour des consoles datées, comme la GameBoy ou la PS1. Si leur existence même n’est pas illégale, ils entretiennent tout de même un marché noir de fichiers violant le droit d’auteur.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/21/derriere-le-succes-des-consoles-retro-un-marche-illegal-de-jeux-anciens_6752283_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-21T18:00:06+00:00"
     },
     {
       "id": "372386473a77635c2a7ec5ad",
