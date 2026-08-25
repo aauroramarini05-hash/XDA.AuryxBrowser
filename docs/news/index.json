@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-08-25T05:23:24.289819+00:00",
+  "updatedAt": "2026-08-25T06:30:14.235581+00:00",
   "items": [
     {
-      "id": "5c9a4a1adbcf748e585dbcdb",
-      "title": "Désinformation russe : de fausses chaînes Telegram, de fausses vidéos et un vrai-faux think tank israélien",
+      "id": "8883f89d2e4fd80770a8100c",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-25T06:16:28+00:00"
+    },
+    {
+      "id": "d9631862124d44e14fc04d45",
+      "title": "Un circuit de propagande russe détecté sur ChatGPT : fausses chaînes Telegram, fausses vidéos et vrai-faux think tank israélien",
       "summary": "Un rapport publié mardi 25 août par OpenAI identifie un vrai-faux centre de réflexion lié à des opérateurs de propagande pro-Kremlin.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/25/desinformation-russe-de-fausses-chaines-telegram-de-fausses-videos-et-un-vrai-faux-think-tank-israelien_6756197_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-25T05:00:09+00:00"
+      "publishedAt": "2026-08-25T05:00:08+00:00"
     },
     {
       "id": "e737ecd79c246d43a03315c8",
@@ -24,6 +35,17 @@
       "publishedAt": "2026-08-25T04:54:01+00:00"
     },
     {
+      "id": "616c0961294bfe94733cfd90",
+      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-25T04:06:34+00:00"
+    },
+    {
       "id": "4b0197e6d997e7a4e78d7b23",
       "title": "Batman: Knightfall Part 1 Is Now Available to Watch Online",
       "summary": "",
@@ -35,17 +57,6 @@
       "publishedAt": "2026-08-25T04:01:00+00:00"
     },
     {
-      "id": "46393124892bf34072f08d8b",
-      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T03:50:06+00:00"
-    },
-    {
       "id": "d67d01c383ef8869448e9ec0",
       "title": "NZ religious sect leader jailed over death of Chinese follower",
       "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
@@ -55,6 +66,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-25T03:07:34+00:00"
+    },
+    {
+      "id": "b9ad3652f7df62a9b502d8b2",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-25T02:51:53+00:00"
     },
     {
       "id": "4dc3507ed276dcf63d6a6cb0",
@@ -79,17 +101,6 @@
       "publishedAt": "2026-08-25T02:08:57+00:00"
     },
     {
-      "id": "c1ebdba578d59146f1c5162c",
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T01:48:24+00:00"
-    },
-    {
       "id": "e35b5f3e574c7936544dae7c",
       "title": "US removes Syria from list of state sponsors of terrorism",
       "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
@@ -110,17 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-25T00:16:35+00:00"
-    },
-    {
-      "id": "bf8b6b692e6cca034edfdd2d",
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-24T23:53:32+00:00"
     },
     {
       "id": "5688040dcdb1fbc7ffaeb74f",
@@ -211,6 +211,17 @@
       "publishedAt": "2026-08-24T22:41:35+00:00"
     },
     {
+      "id": "53229e0ccb6236dc2323a311",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-24T22:13:36+00:00"
+    },
+    {
       "id": "f67491c99c3f98a4ab35a2b2",
       "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
       "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
@@ -220,6 +231,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-24T22:13:20+00:00"
+    },
+    {
+      "id": "c31e9a9f8597c9c5d62b9336",
+      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "summary": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-24T21:58:49+00:00"
     },
     {
       "id": "e9334a07231e462f0b559e32",
@@ -475,17 +497,6 @@
       "publishedAt": "2026-08-24T13:09:44+00:00"
     },
     {
-      "id": "61a99e113246eea107935f5f",
-      "title": "Guinea rubbish landfill collapse kills 31",
-      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-24T11:26:19+00:00"
-    },
-    {
       "id": "edd0dbb33bf30adf7d523870",
       "title": "Four arrested over suspected poisoning of elephants in Kenya",
       "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
@@ -528,17 +539,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-24T09:47:22+00:00"
-    },
-    {
-      "id": "ebaa6ae821818467d94eaeb3",
-      "title": "Four arrested over boxing champion's murder in South Africa",
-      "summary": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
-      "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-24T08:32:46+00:00"
     },
     {
       "id": "047b0bf3a894e82c082bdc1d",
