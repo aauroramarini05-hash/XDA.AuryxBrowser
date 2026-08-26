@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-26T12:32:32.670799+00:00",
+  "updatedAt": "2026-08-26T13:45:15.785396+00:00",
   "items": [
+    {
+      "id": "8d7b7000b560bcaecba1ae30",
+      "title": "Meta agrees to pay up to $16.7bn to settle social media case",
+      "summary": "The deal has been reached during a California federal court trial over claims brought by 29 states.",
+      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-26T13:41:35+00:00"
+    },
+    {
+      "id": "5a597ff57ed6656cb520dd16",
+      "title": "Exclusive: LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals The Joker and Harley Quinn Story Mission and More",
+      "summary": "During our IGN gamescom Studio livestream, we were able to exclusively reveal the LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC trailer, which features an exciting look at the new story mission starring Harley Quinn and the Joker, the Mayhem Mode, and the Sinister Pack.",
+      "url": "https://www.ign.com/articles/exclusive-lego-batman-legacy-of-the-dark-knight-deluxe-edition-mayhem-collection-dlc-trailer-reveals-the-joker-and-harley-quinn-story-mission-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-26T13:10:00+00:00"
+    },
+    {
+      "id": "b3cb08d9175ccce40a2e3919",
+      "title": "Star Wars Zero Company Review",
+      "summary": "An excellent tactical game with the same cinematic feel as the Star Wars Jedi games.",
+      "url": "https://www.ign.com/articles/star-wars-zero-company-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "id": "825676b0da29197f82f8a167",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-26T12:32:47+00:00"
+    },
+    {
+      "id": "dddc8af8847a7c26b5e9f74d",
+      "title": "We’ve Seen The Witcher 3: Songs of the Past in Action, and It’s Looking Like Another Blood & Wine | gamescom 2026",
+      "summary": "We've seen The Witcher 3: Songs of the Past in action - learn about everything we saw on Geralt's new quest to find his missing bard in a cursed garden of thorns.",
+      "url": "https://www.ign.com/articles/weve-seen-the-witcher-3-songs-of-the-past-in-action-and-its-looking-like-another-blood-wine-gamescom-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-26T12:26:26+00:00"
+    },
     {
       "id": "150952509685db25d330cd20",
       "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
@@ -22,17 +77,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-26T12:00:00+00:00"
-    },
-    {
-      "id": "825676b0da29197f82f8a167",
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
-      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-26T11:55:05+00:00"
     },
     {
       "id": "80f878c98214068e6d018190",
@@ -77,6 +121,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-26T11:02:22+00:00"
+    },
+    {
+      "id": "cf11c8841234071f8141131d",
+      "title": "Au Maroc, les hackeurs du groupe Jabaroot publient les noms de 70 000 agents des services de sécurité et de renseignement",
+      "summary": "Une nouvelle fuite de données personnelles a été mise en ligne sur le réseau social Telegram, lundi 24 août. D’après les informations du « Monde », elle serait l’œuvre de cinq anciens agents de la direction générale de la surveillance du territoire exilés en Europe.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/26/au-maroc-les-hackeurs-du-groupe-jabaroot-publient-les-noms-de-70-000-agents-des-services-de-securite-et-de-renseignement_6757367_3212.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-26T11:00:07+00:00"
     },
     {
       "id": "f68ed75c2000dd4b22436513",
@@ -343,39 +398,6 @@
       "publishedAt": "2026-08-26T01:32:07+00:00"
     },
     {
-      "id": "02ea4e4f7328654f71b55161",
-      "title": "Showa American Story: The First Hands-On Preview",
-      "summary": "Showa American Story succeeds in crafting an unforgettable, eccentric B-movie world. However, its deliberate jank and niche style mean its general polish still lags behind other modern AAA action games at this point. The sheer density of cultural parodies is impressive, but whether the game can sustain this tone over a dozens-of-hours-long campaign",
-      "url": "https://www.ign.com/articles/showa-american-story-the-first-hands-on-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-26T01:00:00+00:00"
-    },
-    {
-      "id": "ab0365dc94cee9b68b5749f7",
-      "title": "The Baseus 25,000mAh 140W Laptop Power Bank With Dual USB-C Cables Drops to Just $45.29",
-      "summary": "Even better, you do not need to be an Amazon Prime member to apply this discount.",
-      "url": "https://www.ign.com/articles/baseus-25000mah-140w-power-bank-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-26T00:35:00+00:00"
-    },
-    {
-      "id": "9ff463113ce1d4614871c804",
-      "title": "The Dog Stars Review",
-      "summary": "Ridley Scott's post-apocalyptic survivor drama keeps its feelings about grieving in a triple layer of emotional bubble wrap.",
-      "url": "https://www.ign.com/articles/the-dog-stars-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-26T00:00:00+00:00"
-    },
-    {
       "id": "0e1a1e5f6de1d2606e890f6a",
       "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
       "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
@@ -431,10 +453,10 @@
       "publishedAt": "2026-08-25T21:23:41+00:00"
     },
     {
-      "id": "ab44b95aad8d3869ef7c0fb1",
+      "id": "ac140cb5d431b3f8a9dd81e2",
       "title": "Tech Life",
       "summary": "The government agency that's encouraging high-risk and high-reward research.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -772,17 +794,6 @@
       "publishedAt": "2026-08-22T12:47:28+00:00"
     },
     {
-      "id": "0320ec420e1130e27d16585d",
-      "title": "Amine le Conquérant, guide décapant des châteaux de France",
-      "summary": "Avec son drone, son franc-parler et ses punchlines, le créateur de contenu Amine Kassid, dit « Amine le Conquérant », revigore la vulgarisation historique en partageant ses visites sur les réseaux sociaux. Un succès qui lui vaut aussi d’être victime de cyberharcèlement raciste.",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/08/22/amine-le-conquerant-guide-decapant-des-chateaux-de-france_6752928_4500055.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-22T07:00:00+00:00"
-    },
-    {
       "id": "85d7e0f93c1bcae7651bfc78",
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
@@ -847,17 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-19T16:04:16+00:00"
-    },
-    {
-      "id": "f75871cde21e25503ccd283f",
-      "title": "OpenAI slows down training after its AI carried out hack",
-      "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
-      "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-19T11:19:12+00:00"
     },
     {
       "id": "734640cf65cfb569159b6f6d",
