@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-26T04:30:24.321114+00:00",
+  "updatedAt": "2026-08-26T05:24:53.545474+00:00",
   "items": [
+    {
+      "id": "6022aeaf7705b42410d396dd",
+      "title": "Paul Klotz, essayiste : « La solitude est devenue une ressource délibérément recherchée et exploitée par les acteurs du numérique »",
+      "summary": "Alors que le procès de Meta, accusé d’avoir délibérément rendu les adolescents addictifs à Facebook et à Instagram, bat son plein aux Etats-Unis, l’expert associé à la Fondation Jean Jaurès explique, dans un entretien au « Monde », qu’il existe un « capitalisme de la solitude » entretenu par les plateformes numériques, qui en tirent profit.",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/26/paul-klotz-essayiste-la-solitude-est-devenue-une-ressource-deliberement-recherchee-et-exploitee-par-les-acteurs-du-numerique_6756943_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-26T04:40:13+00:00"
+    },
     {
       "id": "3c219e28febb79ec7a48d42a",
       "title": "Toxic: A Fairy Tale for Grown-Ups Review",
@@ -44,17 +55,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-26T00:00:00+00:00"
-    },
-    {
-      "id": "ad7d09caefa6cb86908658b7",
-      "title": "Firms scramble for battery power in Spain and Portugal",
-      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-25T23:09:31+00:00"
     },
     {
       "id": "adfff8793a4e2bd5c2d6a6f5",
@@ -189,10 +189,10 @@
       "publishedAt": "2026-08-25T20:02:33+00:00"
     },
     {
-      "id": "e38ea93908f76437d10ffd0b",
+      "id": "ac140cb5d431b3f8a9dd81e2",
       "title": "Tech Life",
       "summary": "The government agency that's encouraging high-risk and high-reward research.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -816,17 +816,6 @@
       "publishedAt": "2026-08-22T05:30:01+00:00"
     },
     {
-      "id": "4839248ba9983f40487d8c26",
-      "title": "Un capitalisme sobre est-il possible ?",
-      "summary": "« Festival international de journalisme » (6/6). Avec le changement climatique et l’accentuation des activités humaines, comme l’IA, les tensions s’accroissent, notamment en matière d’énergie et d’eau.",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/08/22/un-capitalisme-sobre-est-il-possible_6752761_5463015.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-22T05:00:09+00:00"
-    },
-    {
       "id": "85d7e0f93c1bcae7651bfc78",
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
@@ -902,6 +891,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-19T11:19:12+00:00"
+    },
+    {
+      "id": "7ef366077840a4abf4c4284a",
+      "title": "The critical tech staying safe by going underground",
+      "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+      "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-18T23:25:21+00:00"
     },
     {
       "id": "734640cf65cfb569159b6f6d",
