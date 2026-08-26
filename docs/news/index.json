@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T02:19:31.017236+00:00",
+  "updatedAt": "2026-08-26T03:44:33.737854+00:00",
   "items": [
     {
       "id": "3c219e28febb79ec7a48d42a",
@@ -11,17 +11,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-26T02:00:00+00:00"
-    },
-    {
-      "id": "89e24ccdb682c7dbd47e27c4",
-      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-      "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-26T01:32:07+00:00"
     },
     {
       "id": "02ea4e4f7328654f71b55161",
@@ -92,13 +81,13 @@
     {
       "id": "9d8f02d9ceeb21da39c38287",
       "title": "Gamescom 2026 : peu d’annonces et quelques bonnes surprises à la soirée d’ouverture du plus grand salon européen du jeu vidéo",
-      "summary": "Avec des nouveautés pour « The Witcher 3 : Wild Hunt » et « Final Fantasy VII Revelation » en tête d’affiche, le salon allemand de la Gamescom, le plus grand du genre en Europe, se tiendra du 26 au 30 août 2026.",
+      "summary": "Avec des nouveautés pour « The Witcher 3 : Wild Hunt » et « Final Fantasy VII Revelation » en tête d’affiche, le salon allemand de la Gamescom, le plus grand du genre en Europe, se tiendra du 26 au 30 août.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/26/gamescom-2026-peu-d-annonces-et-quelques-bonnes-surprises-a-la-soiree-d-ouverture-du-plus-grand-salon-europeen-du-jeu-video_6756661_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-08-25T22:20:49+00:00"
+      "publishedAt": "2026-08-25T22:20:46+00:00"
     },
     {
       "id": "8496fb074e5738b5ea166bc9",
@@ -902,6 +891,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-19T16:04:16+00:00"
+    },
+    {
+      "id": "f75871cde21e25503ccd283f",
+      "title": "OpenAI slows down training after its AI carried out hack",
+      "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+      "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-19T11:19:12+00:00"
     },
     {
       "id": "734640cf65cfb569159b6f6d",
