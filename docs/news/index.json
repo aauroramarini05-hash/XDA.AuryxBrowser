@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-26T10:25:05.208563+00:00",
+  "updatedAt": "2026-08-26T11:20:05.321309+00:00",
   "items": [
+    {
+      "id": "f68ed75c2000dd4b22436513",
+      "title": "Mega Man: Dual Override Feels Like a Perfect Entry Point Into The Series",
+      "summary": "We played Mega Man: Dual Override, which is shaping up to be a perfect entry point into the series.",
+      "url": "https://www.ign.com/articles/mega-man-dual-override-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-26T11:00:00+00:00"
+    },
+    {
+      "id": "132cadcb92fe36dd3568cec8",
+      "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
+      "summary": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-26T10:56:50+00:00"
+    },
     {
       "id": "bcbfffc7cb000e50388c1077",
       "title": "Vous avez délaissé les plateformes de streaming au profit d’un iPod, d’un baladeur MP3 ou d’un lecteur CD ? Racontez-nous",
@@ -33,17 +55,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-26T09:59:37+00:00"
-    },
-    {
-      "id": "552d0c9d28e74dedfa84676a",
-      "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
-      "summary": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-26T09:47:08+00:00"
     },
     {
       "id": "0c606144598eacbb16d72cfe",
@@ -167,6 +178,17 @@
       "publishedAt": "2026-08-26T07:02:00+00:00"
     },
     {
+      "id": "7b59254d5bb2d4f2c0b2c8e3",
+      "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+      "summary": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-26T07:01:45+00:00"
+    },
+    {
       "id": "ed391626118e94359d21d288",
       "title": "Metro 2039: The First Hands-On Preview",
       "summary": "In an age where single-player first-person shooters are slowly going extinct because they only make money for their publisher once while multiplayer live-service shooters vie for our time and attention on a daily basis (and often contain lots of bullsh*t, like microtransactions and/or drawn-out gameplay loops), Metro 2039’s single-player-only craft",
@@ -231,6 +253,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-26T02:00:00+00:00"
+    },
+    {
+      "id": "b3bc8c9f815cb0916882783b",
+      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+      "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-26T01:32:07+00:00"
     },
     {
       "id": "02ea4e4f7328654f71b55161",
@@ -354,15 +387,15 @@
       "publishedAt": "2026-08-25T21:35:16+00:00"
     },
     {
-      "id": "b2e1c8e3387c09d650bc8f24",
-      "title": "Apple's 2nd Generation AirTags Drop to a New Price Low",
-      "summary": "A practical accessory for iPhone owners who tend to lose wallets, keys, remotes.",
-      "url": "https://www.ign.com/articles/apples-2nd-generation-airtags-drop-to-a-new-price-low",
+      "id": "847ed5ce63f3a1654606b05c",
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-25T21:30:00+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-25T21:23:41+00:00"
     },
     {
       "id": "ac140cb5d431b3f8a9dd81e2",
@@ -409,26 +442,15 @@
       "publishedAt": "2026-08-25T19:30:37+00:00"
     },
     {
-      "id": "5aecdb74ad42a98d118ba1bc",
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "id": "b6251d1e82d25cd7e815e1ba",
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+      "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-25T16:43:08+00:00"
-    },
-    {
-      "id": "62efb65faccff2ce1b88deb4",
-      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "summary": "The footage shows dozens of men, women and children sitting in a forest.",
-      "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T16:40:11+00:00"
+      "publishedAt": "2026-08-25T17:12:21+00:00"
     },
     {
       "id": "c0f221c405201b05e490d65f",
@@ -475,17 +497,6 @@
       "publishedAt": "2026-08-25T15:45:09+00:00"
     },
     {
-      "id": "c68e8127042a2770b2885ef7",
-      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
-      "summary": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T15:18:50+00:00"
-    },
-    {
       "id": "fb6cbee9ef3e0bf3361650c8",
       "title": "TikTok sanctionné d’une amende de 25 millions d’euros au Brésil pour des manquements envers les mineurs",
       "summary": "L’Agence nationale de protection des données du Brésil a ordonné à ByteDance Brasil, filiale brésilienne de la plateforme créée en Chine, de « supprimer les données collectées de façon irrégulière ».",
@@ -506,17 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-25T11:54:40+00:00"
-    },
-    {
-      "id": "53229e0ccb6236dc2323a311",
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T11:54:03+00:00"
     },
     {
       "id": "8cc25e5cdaabaef8bea8e288",
@@ -541,28 +541,6 @@
       "publishedAt": "2026-08-25T10:30:09+00:00"
     },
     {
-      "id": "2985aa56df1c2602ad19a847",
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T09:50:42+00:00"
-    },
-    {
-      "id": "7580f942a860f280f97a17bb",
-      "title": "US firefighters say major blaze near Reno about a quarter contained",
-      "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T09:49:02+00:00"
-    },
-    {
       "id": "d0f6ad41ae98eaeedfd6d624",
       "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
       "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
@@ -572,17 +550,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-25T08:52:17+00:00"
-    },
-    {
-      "id": "727288f5c34480e4dd28c309",
-      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-      "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
-      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T07:39:25+00:00"
     },
     {
       "id": "d9631862124d44e14fc04d45",
@@ -605,39 +572,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-25T04:54:01+00:00"
-    },
-    {
-      "id": "d67d01c383ef8869448e9ec0",
-      "title": "NZ religious sect leader jailed over death of Chinese follower",
-      "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T03:07:34+00:00"
-    },
-    {
-      "id": "ce86ce78f059d2091424764e",
-      "title": "French tourist dies in Death Valley after car gets stuck in mud",
-      "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
-      "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T02:08:57+00:00"
-    },
-    {
-      "id": "e35b5f3e574c7936544dae7c",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-25T00:17:25+00:00"
     },
     {
       "id": "82b8aea42952432564b73bb4",
@@ -717,17 +651,6 @@
       "publishedAt": "2026-08-24T15:08:39+00:00"
     },
     {
-      "id": "c0dc1ea6818a74eca6e6b516",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-24T13:56:22+00:00"
-    },
-    {
       "id": "14c000c3e40a92b7ece87dff",
       "title": "Twitch and Amazon face legal action over using livestreams to train AI",
       "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
@@ -748,17 +671,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-24T10:05:22+00:00"
-    },
-    {
-      "id": "047b0bf3a894e82c082bdc1d",
-      "title": "King of Norway's health has worsened, palace says",
-      "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
-      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-24T08:31:55+00:00"
     },
     {
       "id": "15f95b7e2aa82ec0db9d72be",
