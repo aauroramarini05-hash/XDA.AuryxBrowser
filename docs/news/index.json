@@ -1,16 +1,159 @@
 {
-  "updatedAt": "2026-08-27T23:23:06.975204+00:00",
+  "updatedAt": "2026-08-28T08:06:15.356441+00:00",
   "items": [
     {
-      "id": "c3813a046b30cdb6035d9a7d",
-      "title": "Overcooked? Why robotic pizza makers are failing",
-      "summary": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-      "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "id": "32801b840a066d5bd86eca46",
+      "title": "Norway's King Harald dies aged 89",
+      "summary": "The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.",
+      "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-28T08:00:10+00:00"
+    },
+    {
+      "id": "a486be604f190a0e7923675b",
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-28T07:45:05+00:00"
+    },
+    {
+      "id": "6efc3ae9c8009432e8bdf084",
+      "title": "Gamescom 2026 : seize ans après, le retour de « Fable », la plus « British » des séries de jeux de rôle",
+      "summary": "A l’occasion du salon du jeu vidéo de Cologne, Ralph Fulton, cofondateur du studio Playground Games, commente cette licence emblématique très attendue, dont le « reboot » s’identifie d’avantage à un « conte de fées » qu’à de la fantasy.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/28/gamescom-2026-seize-ans-apres-le-retour-de-fable-la-plus-british-des-series-de-jeux-de-role_6758964_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-28T07:00:11+00:00"
+    },
+    {
+      "id": "15227de139a2090c7fa343e2",
+      "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
+      "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
+      "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-28T05:53:05+00:00"
+    },
+    {
+      "id": "8b46c27af5e835dfa62c96d9",
+      "title": "'High risk' of lake breaching and causing second flood, warns China",
+      "summary": "China says a lake formed after a recent landslide near the Nepal-Tibet border may burst in the coming days.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-28T05:50:59+00:00"
+    },
+    {
+      "id": "4276a5bf342e04488bf5f6b9",
+      "title": "How the GTA 6 Map Size Stacks Up to Other Rockstar Games Like RDR2 and GTA 5",
+      "summary": "Grand Theft Auto 6's map is significantly larger than Rockstar's previous games; here's how it compares to the studio's other titles.",
+      "url": "https://www.ign.com/articles/how-the-gta-6-map-size-stacks-up-to-other-rockstar-games-like-rdr2-and-gta-5",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-28T05:35:45+00:00"
+    },
+    {
+      "id": "8db035933b90b88a662fb188",
+      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+      "summary": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-08-27T23:16:02+00:00"
+      "publishedAt": "2026-08-28T05:11:16+00:00"
+    },
+    {
+      "id": "35c9064f0614c5ecfafc6c2f",
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-28T03:41:59+00:00"
+    },
+    {
+      "id": "1c043ad5419705cfc6e1747c",
+      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+      "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
+      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-28T03:23:21+00:00"
+    },
+    {
+      "id": "6daf0decada327833704366b",
+      "title": "Intelligence artificielle : des sanctions de l’administration Trump contre Anthropic annulées par une juge fédérale",
+      "summary": "Washington avait interdit aux agences fédérales d’utiliser les outils d’Anthropic après que l’entreprise eut refusé de laisser l’armée américaine utiliser son chatbot Claude pour des armes létales entièrement autonomes ou la surveillance de masse de la population.",
+      "url": "https://www.lemonde.fr/international/article/2026/08/28/intelligence-artificielle-le-bannissement-d-anthropic-par-l-administration-trump-est-illegal-decide-la-justice-americaine_6758773_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-08-28T03:09:07+00:00"
+    },
+    {
+      "id": "a878d68af3e4e2d8e095e0e8",
+      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+      "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-28T01:43:41+00:00"
+    },
+    {
+      "id": "7ec3a9921e1c0ddcedc4c16d",
+      "title": "The Whisper Man Review",
+      "summary": "The Whisper Man review: Robert De Niro and Adam Scott headline a trope-heavy thriller that feels like a throwback to another era.",
+      "url": "https://www.ign.com/articles/the-whisper-man-review-netflix",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-28T01:00:00+00:00"
+    },
+    {
+      "id": "a643605356c1b0f4152dfa98",
+      "title": "Here's Your Last Chance to Get a Nintendo Switch 2 Console for $399.99 Before the September 1 Price Hike",
+      "summary": "Save $100 off a refurbished Switch 2 console compared to the upcoming list price of $500.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-deal-last-chance",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-27T23:15:00+00:00"
+    },
+    {
+      "id": "07a35b6885be8e6777a637a5",
+      "title": "The X-Tech Executive Chair Aims to Upend Premium Models from Herman Miller, Steelcase at a Better Price",
+      "summary": "Battle of the super premium tier chairs.",
+      "url": "https://www.ign.com/articles/x-tech-executive-chair-aims-to-upend-premium-models-from-herman-miller-steelcase",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-27T23:15:00+00:00"
     },
     {
       "id": "3a2a106f1a3cd619304813da",
@@ -33,17 +176,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-27T23:05:00+00:00"
-    },
-    {
-      "id": "a486be604f190a0e7923675b",
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
-      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-27T22:54:28+00:00"
     },
     {
       "id": "a501b572bfc8c63af215499e",
@@ -77,6 +209,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-27T22:28:24+00:00"
+    },
+    {
+      "id": "834f5f070353756ae3a57597",
+      "title": "What we know after the big Grand Theft Auto 6 preview",
+      "summary": "The official look at the blockbuster video game leaves fans and critics impressed.",
+      "url": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-27T22:10:05+00:00"
     },
     {
       "id": "c52242b99469f9617b6bf10d",
@@ -244,50 +387,6 @@
       "publishedAt": "2026-08-27T19:30:00+00:00"
     },
     {
-      "id": "5095f03816fdd5df6838f30d",
-      "title": "Get a Cordless Rechargeable Electric Air Duster for Your PC Maintenance for Just $19.99",
-      "summary": "Say goodbye to buying compressed air canisters in bulk.",
-      "url": "https://www.ign.com/articles/cordless-electric-air-duster-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-27T19:10:00+00:00"
-    },
-    {
-      "id": "d6004c9726e819a24561f0b7",
-      "title": "GTA 6 Exclusive Preview",
-      "summary": "We visited Rockstar HQ to watch the devs play GTA 6 – what we saw was like stepping into a parallel universe.",
-      "url": "https://www.ign.com/articles/gta-6-exclusive-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-27T19:04:38+00:00"
-    },
-    {
-      "id": "847d698a24fc8295d2ea5d2c",
-      "title": "‘It’s a Step Forward in All Respects’ – Exclusive GTA 6 Interview",
-      "summary": "Our exclusive interview with Rockstar’s Rob Nelson reveals how GTA 6 aims to be “a step forward in all respects.”",
-      "url": "https://www.ign.com/articles/gta-6-rob-nelson-interview-rockstar-north",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-27T19:04:05+00:00"
-    },
-    {
-      "id": "fdd471977dd253d9e4174f2c",
-      "title": "GTA 6 Reveal: 15 New Screenshots, Including 1 Exclusive on IGN",
-      "summary": "GTA 6 is now fully revealed by Rockstar Games, and IGN has 15 brand new screenshots — including one exclusive screenshot.",
-      "url": "https://www.ign.com/articles/gta-6-reveal-15-new-screenshots-including-1-exclusive-on-ign",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-27T19:01:35+00:00"
-    },
-    {
       "id": "cc9af444a4c7c500e3dbc429",
       "title": "Key moments in trial of Lindsay Clancy, the mother accused of murdering her three children",
       "summary": "A jury is deliberating in the trial of the Massachusetts mother charged with murdering her three small children",
@@ -332,17 +431,6 @@
       "publishedAt": "2026-08-27T17:45:05+00:00"
     },
     {
-      "id": "21cc060fcb748815d8e24d39",
-      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
-      "summary": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-27T17:42:04+00:00"
-    },
-    {
       "id": "7770f73299f62daed1bc1098",
       "title": "Two killed in 'domestic violence incident' at school near Berlin",
       "summary": "Police have arrested a 19-year-old male suspect after an incident in which two people were killed near the German capital.",
@@ -354,17 +442,6 @@
       "publishedAt": "2026-08-27T17:07:32+00:00"
     },
     {
-      "id": "a9389c9a20651e037cfd3763",
-      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-      "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-27T17:05:22+00:00"
-    },
-    {
       "id": "6a9451a27443c007b01ee5f2",
       "title": "What we should make of CIA boss's secret trip to Moscow",
       "summary": "There is nothing routine about John Ratcliffe making a secret, 10,000-mile return dash to Moscow, writes Frank Gardner.",
@@ -374,17 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-27T17:02:33+00:00"
-    },
-    {
-      "id": "b96475ce7aadfe07f615afaa",
-      "title": "Tracing the deadly path of the Nepal-Tibet flash flood",
-      "summary": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
-      "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-27T16:13:39+00:00"
     },
     {
       "id": "ed9f86539ad2007d70dbf61a",
@@ -464,17 +530,6 @@
       "publishedAt": "2026-08-27T10:17:45+00:00"
     },
     {
-      "id": "83a5e0210a33c4b4406b5371",
-      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-      "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
-      "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-27T09:50:10+00:00"
-    },
-    {
       "id": "5803f024584c29fa6890a8b8",
       "title": "Sur les réseaux, difficile de parler foot quand on est une femme : « Sale footix, ta place c’est à la cuisine »",
       "summary": "Ce sont des jeunes femmes fans de foot, stars sur les plateformes ou quasi-anonymes, qui ont décidé de partager en ligne leur passion. Toutes sont exposées à la haine en ligne, et voient remise en question leur légitimité à s’exprimer sur le sujet.",
@@ -486,19 +541,8 @@
       "publishedAt": "2026-08-27T08:00:11+00:00"
     },
     {
-      "id": "1c043ad5419705cfc6e1747c",
-      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-      "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
-      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-27T07:09:52+00:00"
-    },
-    {
-      "id": "797843dbb689f506935aec5f",
-      "title": "A la Gamescom 2026, l’insolente deuxième jeunesse du jeu vidéo « The Witcher III: Wild Hunt »",
+      "id": "b40cd8b35c539fcfb97f703f",
+      "title": "A la Gamescom 2026, l’insolente deuxième jeunesse du jeu vidéo « The Witcher III : Wild Hunt »",
       "summary": "Sorti en 2015, le jeu de rôle de CD Projekt RED est remis au goût du jour avec une version remastérisée et l’extension « Songs of the Past », prévue pour 2027. Le salon du jeu vidéo de Cologne a été l’occasion d’un premier aperçu, auquel « Le Monde » a pu assister.",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/27/a-la-gamescom-2026-l-insolente-deuxieme-jeunesse-du-jeu-video-the-witcher-iii-wild-hunt_6758144_4408996.html",
       "imageUrl": null,
@@ -748,28 +792,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-25T20:00:00+00:00"
-    },
-    {
-      "id": "c0f221c405201b05e490d65f",
-      "title": "Cyberattaque dans l’éducation nationale : « les enfants pourront reprendre le chemin des cours », assure Edouard Geffray",
-      "summary": "Un audit complet et la généralisation de la double authentification sont lancés pour éviter de nouvelles fuites de données au ministère.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/25/cyberattaque-dans-l-education-nationale-les-enfants-pourront-reprendre-le-chemin-des-cours-assure-edouard-geffray_6756614_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-25T16:40:02+00:00"
-    },
-    {
-      "id": "1741573c37d6aca3615148ae",
-      "title": "Le projet de parc d’attractions « Dragon Ball » en Ile-de-France n’a pas encore l’accord des ayants droit japonais",
-      "summary": "Le mégaprojet autour du héros créé par Akira Toriyama n’a pas encore obtenu la licence nécessaire, une procédure qui est loin d’être une formalité.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/25/le-projet-de-parc-d-attractions-dragon-ball-en-ile-de-france-n-a-pas-encore-l-accord-des-ayants-droit-japonais_6756609_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-25T16:15:08+00:00"
     },
     {
       "id": "e737ecd79c246d43a03315c8",
