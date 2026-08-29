@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-29T21:24:23.465548+00:00",
+  "updatedAt": "2026-08-29T23:43:54.271893+00:00",
   "items": [
+    {
+      "id": "95b40c4627448912d7139132",
+      "title": "I've been to Gamescom six times - here's what excited me this year",
+      "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+      "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-08-29T23:02:28+00:00"
+    },
+    {
+      "id": "e59f192f9dc1cd8f54acbe3b",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-29T22:40:51+00:00"
+    },
+    {
+      "id": "cdea2aecab29c4d41092c169",
+      "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
+      "summary": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.",
+      "url": "https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-29T22:16:08+00:00"
+    },
+    {
+      "id": "e01bb4bcafa801fc52131505",
+      "title": "The Best Deals Today: Tomodachi Life: Living the Dream, Jurassic Park 4K Collection, Nintendo Switch 2, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-august-29-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-29T21:29:47+00:00"
+    },
     {
       "id": "72b43155ab4dfcd29780b3f9",
       "title": "EA Motive's Iron Man Game Reveal 'Didn't Go as Planned,' But the Leak Has Marvel Fans More Excited Than Ever",
@@ -132,17 +176,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-29T16:30:00+00:00"
-    },
-    {
-      "id": "e59f192f9dc1cd8f54acbe3b",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-29T16:15:56+00:00"
     },
     {
       "id": "f0ee1e7af335b5e8fdb22f36",
@@ -418,28 +451,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-28T22:48:38+00:00"
-    },
-    {
-      "id": "93aea4c7e1df74b690e9c5c2",
-      "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Just $144",
-      "summary": "Open box (excellent condition with no signs of usage) sold and shipped directly from Walmart.",
-      "url": "https://www.ign.com/articles/apple-airpods-pro-3-deal-august-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-28T22:45:00+00:00"
-    },
-    {
-      "id": "123d04959b017cfbad07a087",
-      "title": "Everything Coming to Amazon Prime Video in September",
-      "summary": "",
-      "url": "https://www.ign.com/articles/whats-new-on-amazon-prime-video-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-28T22:30:00+00:00"
     },
     {
       "id": "5c176c9a19cfa70320694914",
@@ -935,17 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-24T16:03:24+00:00"
-    },
-    {
-      "id": "14c000c3e40a92b7ece87dff",
-      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
-      "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
-      "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-24T13:09:44+00:00"
     },
     {
       "id": "734640cf65cfb569159b6f6d",
