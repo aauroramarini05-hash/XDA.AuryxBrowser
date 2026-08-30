@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-08-30T18:16:55.100930+00:00",
+  "updatedAt": "2026-08-30T21:44:47.535003+00:00",
   "items": [
+    {
+      "id": "0f850bf37daa7fd50fbf9e54",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-30T21:15:42+00:00"
+    },
+    {
+      "id": "dbec2dcebdbc692a8bdf78fc",
+      "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+      "summary": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
+      "url": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-30T20:40:02+00:00"
+    },
+    {
+      "id": "95d7eb54cfef6103662eb18f",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-30T20:02:43+00:00"
+    },
+    {
+      "id": "e458f22a27087aa07d50a56f",
+      "title": "Ridley Scott's The Dog Stars Bombs in Theaters With $19 Million Global Opening",
+      "summary": "Ridley Scott's The Dogs Stars bombed at the box office in its first weekend in theaters with an estimated global opening of $19.3 million.",
+      "url": "https://www.ign.com/articles/ridley-scotts-the-dog-stars-bombs-in-theaters-with-19-million-global-opening",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-30T19:49:39+00:00"
+    },
+    {
+      "id": "0c7590d48f4c58b329338177",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-30T18:53:53+00:00"
+    },
+    {
+      "id": "ff92305f0e9eb5ab24dff044",
+      "title": "Star Wars and Jurassic Park VFX Legend Phil Tippett Closes Studio and Auctions Memorabilia",
+      "summary": "Oscar-winning animator Phil Tippett is closing his Berkeley studio and auctioning off legendary Star Wars, Jurassic Park, and RoboCop props and memorabilia.",
+      "url": "https://www.ign.com/articles/phil-tippett-studio-closure-auction",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-30T18:50:26+00:00"
+    },
     {
       "id": "b060f1c9c4a4d94776aa569e",
       "title": "Fable's Main Quest Will Take About 20 Hours to Beat",
@@ -46,17 +112,6 @@
       "publishedAt": "2026-08-30T16:48:13+00:00"
     },
     {
-      "id": "9283298f9594a06844a2aafc",
-      "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
-      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-30T16:48:02+00:00"
-    },
-    {
       "id": "13b2341254ff9a57c4a7f1f6",
       "title": "Russia says it helped to repel Niger attempted coup",
       "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
@@ -77,6 +132,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-30T16:27:56+00:00"
+    },
+    {
+      "id": "57ae600fc9c6e0ce0a8c88b9",
+      "title": "British woman killed in stabbing at German railway station",
+      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-30T16:11:46+00:00"
     },
     {
       "id": "bbcdb43ad916e5ff242991d8",
@@ -178,8 +244,8 @@
       "publishedAt": "2026-08-30T09:08:15+00:00"
     },
     {
-      "id": "dd79238736d380cd7abc899f",
-      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "id": "0dde3fb24b362ad0bd995525",
+      "title": "WhatsApp chat used to launder cash for crime and extremism",
       "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
       "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -409,28 +475,6 @@
       "publishedAt": "2026-08-29T13:55:55+00:00"
     },
     {
-      "id": "956de5a8621338bcb9c50b56",
-      "title": "IGN's Top-Reviewed Nintendo Switch 2 Games",
-      "summary": "Not all Nintendo games are created equal. Here are the 10 best Nintendo games we've played in the Switch 2 generation.",
-      "url": "https://www.ign.com/articles/best-reviewed-nintendo-switch-2-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-29T13:15:00+00:00"
-    },
-    {
-      "id": "16f12ae80715672b15b6c666",
-      "title": "Everything Coming to Netflix in September",
-      "summary": "Welcome in the fall with the xenomorph, some T-virus zombies, Bruce the shark, and more... all on Netflix",
-      "url": "https://www.ign.com/articles/whats-new-on-netflix-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-29T13:00:00+00:00"
-    },
-    {
       "id": "a9adda7a0603773702e6022c",
       "title": "« Il devient urgent de réfléchir à ce que l’IA fait à la recherche académique »",
       "summary": "La vitesse à laquelle progressent les capacités de l’intelligence artificielle annonce un bouleversement dans tous les champs du travail intellectuel, estiment, dans une tribune au « Monde », les philosophes Antonin Broi et Thibaut Giraud, alias Monsieur Phi.",
@@ -440,17 +484,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-29T12:00:10+00:00"
-    },
-    {
-      "id": "3bd8b380b9865c8005c59ca2",
-      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-29T08:48:34+00:00"
     },
     {
       "id": "86eb5f05c3cd3102b036e51e",
@@ -541,17 +574,6 @@
       "publishedAt": "2026-08-29T00:15:19+00:00"
     },
     {
-      "id": "5c176c9a19cfa70320694914",
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-28T21:29:01+00:00"
-    },
-    {
       "id": "79d8fe2ff99d424ff535b5a1",
       "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
       "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
@@ -574,17 +596,6 @@
       "publishedAt": "2026-08-28T17:36:54+00:00"
     },
     {
-      "id": "fed8299f1f94e72e9a170fa9",
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "summary": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-28T17:29:16+00:00"
-    },
-    {
       "id": "1783e93991bae899164e4c09",
       "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
       "summary": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
@@ -605,28 +616,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-28T13:25:19+00:00"
-    },
-    {
-      "id": "2dbb445f3256276716127738",
-      "title": "Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse",
-      "summary": "Some parts of the globe had a chance to see the rare event when the Sun, Earth and Moon line up in the night sky.",
-      "url": "https://www.bbc.co.uk/news/videos/ce3rykzvevno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-28T12:49:55+00:00"
-    },
-    {
-      "id": "3ee59c105a341c6197bc6a4c",
-      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "summary": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
-      "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-28T10:35:06+00:00"
     },
     {
       "id": "6efc3ae9c8009432e8bdf084",
@@ -882,10 +871,10 @@
       "publishedAt": "2026-08-25T23:11:02+00:00"
     },
     {
-      "id": "ac140cb5d431b3f8a9dd81e2",
+      "id": "6eb5c7cb80d2a42bcf80b191",
       "title": "Tech Life",
       "summary": "The government agency that's encouraging high-risk and high-reward research.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
