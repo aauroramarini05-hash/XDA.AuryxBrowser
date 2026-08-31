@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T21:44:47.535003+00:00",
+  "updatedAt": "2026-08-31T00:03:08.920184+00:00",
   "items": [
     {
       "id": "0f850bf37daa7fd50fbf9e54",
@@ -10,7 +10,40 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-08-30T21:15:42+00:00"
+      "publishedAt": "2026-08-30T23:53:03+00:00"
+    },
+    {
+      "id": "29104c2571691828d9434eda",
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-08-30T23:52:27+00:00"
+    },
+    {
+      "id": "8c8b55f835766d20ba74d6a8",
+      "title": "GTA 5's Michael Actor Defends GTA 6 After Doubters Say Rockstar's Games Look Too Similar",
+      "summary": "Ned Luke, the actor behind Grand Theft Auto 5's Michael De Santa, said people who think Grand Theft Auto 6 looks too much like GTA 5 are \"out of their minds.\"",
+      "url": "https://www.ign.com/articles/gta-5s-michael-actor-defends-gta-6-after-doubters-say-rockstars-games-look-too-similar",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-30T22:08:13+00:00"
+    },
+    {
+      "id": "2b2982c7f46a5196e4a5d2eb",
+      "title": "The Best Deals Today: LEGO Star Wars, Dragon Quest I & II HD-2D Remake, Jurassic Park 4K Collection, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-august-30-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-08-30T21:23:16+00:00"
     },
     {
       "id": "dbec2dcebdbc692a8bdf78fc",
@@ -189,17 +222,6 @@
       "publishedAt": "2026-08-30T15:30:00+00:00"
     },
     {
-      "id": "92610b17a1ba93f6a757fa12",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-30T14:25:43+00:00"
-    },
-    {
       "id": "285f8683ea9da367ddd3fcfd",
       "title": "PSA: Nintendo Switch 2 Gets a $50 Price Increase on Tuesday",
       "summary": "Nintendo is raising the price of the Switch 2 to $500 on September 1, meaning this is your last chance to get one before the hike.",
@@ -266,10 +288,10 @@
       "publishedAt": "2026-08-30T04:01:02+00:00"
     },
     {
-      "id": "34e7caffd1e00b40d1513941",
+      "id": "1a0b9be345ab0b15b9da945b",
       "title": "The Pokémon Company on PokémonXP's Lottery System, Long Lines, and Limited Access to Workshops",
       "summary": "",
-      "url": "https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops",
+      "url": "https://www.ign.com/articles/the-pokemon-company-on-pokemonxps-lottery-system-long-lines-and-limited-access-to-workshops",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
@@ -440,28 +462,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-08-29T17:29:26+00:00"
-    },
-    {
-      "id": "0f9959abda833a4285d5d728",
-      "title": "Fibbage Card Game Review",
-      "summary": "",
-      "url": "https://www.ign.com/articles/fibbage-card-game-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-29T16:30:00+00:00"
-    },
-    {
-      "id": "f0ee1e7af335b5e8fdb22f36",
-      "title": "We Played State of Decay 3 and It's in Good Shape Despite the Xbox Upheaval | gamescom 2026",
-      "summary": "State of Decay 3 seems to be showing promise after playing an action-packed 30 minutes of an early alpha build.",
-      "url": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-08-29T15:57:55+00:00"
     },
     {
       "id": "094fe65a0dec5a2a83b6a7cf",
@@ -871,10 +871,10 @@
       "publishedAt": "2026-08-25T23:11:02+00:00"
     },
     {
-      "id": "6eb5c7cb80d2a42bcf80b191",
+      "id": "ac140cb5d431b3f8a9dd81e2",
       "title": "Tech Life",
       "summary": "The government agency that's encouraging high-risk and high-reward research.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
