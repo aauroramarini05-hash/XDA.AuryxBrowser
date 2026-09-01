@@ -1,6 +1,380 @@
 {
-  "updatedAt": "2026-09-01T15:19:20.790882+00:00",
+  "updatedAt": "2026-09-01T19:01:41.588580+00:00",
   "items": [
+    {
+      "id": "0bead10bc82b38025014ca1f",
+      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+      "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T18:26:12+00:00"
+    },
+    {
+      "id": "cd3a18239da33c54d4903569",
+      "title": "The 3-in-1 LEGO Haunted Mansion Drops to a New Low Price, Includes a Haunted Train Build",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-3-in-1-lego-haunted-mansion-drops-to-a-new-low-price-includes-a-haunted-train-build",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T18:11:37+00:00"
+    },
+    {
+      "id": "7f03957c93b32f5c32bc67e7",
+      "title": "Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones During eBay's Labor Day Sale",
+      "summary": "Includes a 2 year warranty.",
+      "url": "https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-ebay-labor-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T18:10:00+00:00"
+    },
+    {
+      "id": "167fd1a182101929c175f723",
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T18:06:58+00:00"
+    },
+    {
+      "id": "b09024ffc35c26a68993cff6",
+      "title": "Amazon Resale Has a Like New Nintendo Switch Pro Controller for Just $48.12 With Free Shipping",
+      "summary": "Switch 2 compatible.",
+      "url": "https://www.ign.com/articles/nintendo-switch-pro-controller-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T18:05:00+00:00"
+    },
+    {
+      "id": "94a3aa3875fcd09beb34fa14",
+      "title": "Get Two Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
+      "summary": "Most new and returning (non-current) subscribers should be eligible.",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T18:05:00+00:00"
+    },
+    {
+      "id": "9f36aeb0d88d35b2730f425c",
+      "title": "The Excellent Sony WH-1000XM5 Noise Canceling Wireless Headphones Drops to $198 on Amazon",
+      "summary": "The best noise canceling over-ear headphones under $200.",
+      "url": "https://www.ign.com/articles/sony-wh1000xm5-noise-canceling-wireless-headphone-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T18:05:00+00:00"
+    },
+    {
+      "id": "9e5d1e48fbda5b2062cb3a8e",
+      "title": "The SCUF Labor Day Sale Is Live: Save Up to 30% Off the Best Performance Gaming Controllers for PC and Xbox",
+      "summary": "Competition grade.",
+      "url": "https://www.ign.com/articles/labor-day-sale-performance-gaming-controller-deals-for-pc-and-xbox",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T18:05:00+00:00"
+    },
+    {
+      "id": "ec3a5c352aa262756095c118",
+      "title": "Today’s Top Deals: Pokémon Destined Rivals ETB, Pragmata for PS5, GameSir Pocket Taco Mobile Controller",
+      "summary": "And don’t miss Best Buy’s MTG sale plus more incredible discounts.",
+      "url": "https://www.ign.com/articles/best-deals-for-september-1-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T18:00:00+00:00"
+    },
+    {
+      "id": "75376603d9561ff8491709c2",
+      "title": "US launches more strikes on Iran as state media reports explosions",
+      "summary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T17:54:01+00:00"
+    },
+    {
+      "id": "fb137dc5d9beb9e50b617111",
+      "title": "Cyberattaque contre l’éducation nationale : dans les académies de Nantes et Toulouse, une « rentrée papier » dans des conditions « dégradées »",
+      "summary": "Si l’accès aux outils numériques a pu être rétabli partout ailleurs depuis le piratage massif fin juillet, les deux académies restent privées de l’ensemble de leurs services informatiques et applications. Un blocage inédit qui oblige au système D.",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/01/cyberattaque-contre-l-education-nationale-dans-les-academies-de-nantes-et-toulouse-une-rentree-papier-dans-des-conditions-degradees_6763520_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-01T17:53:04+00:00"
+    },
+    {
+      "id": "afe7a49620ca54a92d3e804e",
+      "title": "Xbox Game Pass September 2026 Wave 1 Lineup Announced",
+      "summary": "Microsoft has announced the Xbox Game Pass September 2027 Wave 1 lineup, and it includes a Call of Duty blockbuster.",
+      "url": "https://www.ign.com/articles/xbox-game-pass-september-2026-wave-1-lineup-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:47:33+00:00"
+    },
+    {
+      "id": "91603667356ef5806cfd6d25",
+      "title": "LEGO Lord of the Rings Minas Tirith Set Is Now Available at Amazon",
+      "summary": "After being backordered on the LEGO Store for months, LEGO Lord of the Rings: Minas Tirith is finally available and shipping at Amazon.",
+      "url": "https://www.ign.com/articles/lego-lord-of-the-rings-minas-tirith-set-is-now-available-at-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:46:12+00:00"
+    },
+    {
+      "id": "a602b8f890408409ae38ff37",
+      "title": "Wolverine, Control Resonant, and 4 More Big September Games We've Already Played and Can Tell You About",
+      "summary": "September is here, which means the Fall is here, which means some of the biggest games of the year drop this month. We've already played some of the biggest ones, so check out our previews of Marvel's Wolverine, Control Resonant, and more on this page.",
+      "url": "https://www.ign.com/articles/wolverine-control-resonant-and-4-more-big-september-games-weve-already-played-and-can-tell-you-about",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:44:51+00:00"
+    },
+    {
+      "id": "feaaaf72a70e83f98ed2a873",
+      "title": "Rockstar Games Reveals Its Official GTA Online Roleplaying Server, nopixel V",
+      "summary": "Rockstar Games has revealed its official GTA Online roleplaying server, nopixel V, ahead of GTA 6's launch.",
+      "url": "https://www.ign.com/articles/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:37:24+00:00"
+    },
+    {
+      "id": "565ec287210fb7c30ec975d7",
+      "title": "New Street Fighter Trailer Teases Conflict Between Ryu and Ken, and E. Honda Does His Hundred Hand Slap",
+      "summary": "Legendary has dropped a new trailer for the Street Fighter movie showing E. Honda pulling off some of his iconic moves and teasing some unexpected tension between Ryu and Ken.",
+      "url": "https://www.ign.com/articles/new-street-fighter-trailer-teases-conflict-between-ryu-and-ken-and-e-honda-does-his-hundred-hand-slap",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:34:26+00:00"
+    },
+    {
+      "id": "4c4457bba856c08c15d1824e",
+      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "summary": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T17:29:07+00:00"
+    },
+    {
+      "id": "36467b10532aa797f1f649f6",
+      "title": "Ever Wanted to Sleep Inside a Giant Pokéball? In Japan, You'll Soon Have a Chance",
+      "summary": "What is it actually like inside a Pokéball? In Japan, you'll soon be able to find out.",
+      "url": "https://www.ign.com/articles/ever-wanted-to-sleep-inside-a-giant-pokeball-in-japan-youll-soon-have-a-chance",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:20:53+00:00"
+    },
+    {
+      "id": "7fe2398bc31da6a1f6103ab5",
+      "title": "Ridley Scott Reportedly Says Paul Mescal Wasn't ‘Masculine Enough’ for Gladiator 2",
+      "summary": "Director Ridley Scott reportedly blamed Paul Mescal for Gladiator 2's underperformance, claiming the lead actor wasn't “masculine enough” for the role.",
+      "url": "https://www.ign.com/articles/ridley-scott-reportedly-says-paul-mescal-wasnt-masculine-enough-for-gladiator-2",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:20:39+00:00"
+    },
+    {
+      "id": "4cedcc383e402ce081ae1068",
+      "title": "Apple Officially Has a New CEO, but What Does That Mean?",
+      "summary": "",
+      "url": "https://www.ign.com/articles/apple-officially-has-a-new-ceo-but-what-does-that-mean",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:04:16+00:00"
+    },
+    {
+      "id": "42be906e48ef0c040845d7ec",
+      "title": "Comment la course à l’IA nous fait entrer dans le capitalisme linguistique",
+      "summary": "Avec « Dealers de mots », Frédéric Kaplan, titulaire de la chaire Humanités digitales de l’Ecole polytechnique fédérale de Lausanne, nous invite à regarder la quête d’une intelligence artificielle générale comme une véritable ruée vers l’or moderne, qui consiste à s’approprier des millions d’écrits produits par d’autres.",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/01/comment-la-course-a-l-ia-nous-fait-entrer-dans-le-capitalisme-linguistique_6763512_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-01T17:00:03+00:00"
+    },
+    {
+      "id": "afbd8597545b0d39e5327b1d",
+      "title": "Corsair's GALLEON 100 SD Is the Ultimate Streaming Gamer's Keyboard, and It's on Sale Today",
+      "summary": "When only the best will suffice.",
+      "url": "https://www.ign.com/articles/corsairs-galleon-100-sd-gaming-keyboard-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "id": "4ccca4c9d67ee2496ea8abec",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T16:53:40+00:00"
+    },
+    {
+      "id": "c6eaf73bf333936c17edf9f1",
+      "title": "Preorders Have Dropped for Avatar Aang: The Last Airbender’s 4K Steelbook, Out Next February",
+      "summary": "Avatar Aang: The Last Airbender is getting a 4K steelbook release on February 9, 2027. Here's where you can preorder a copy before then.",
+      "url": "https://www.ign.com/articles/avatar-aang-the-last-airbender-4k-steelbook-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T16:41:27+00:00"
+    },
+    {
+      "id": "2c73e1d90a2b3180e218de08",
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "summary": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T16:35:28+00:00"
+    },
+    {
+      "id": "735afc807a1b27f9dbcc58e2",
+      "title": "Pistol in a lake gives hope for French cold case",
+      "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T16:33:29+00:00"
+    },
+    {
+      "id": "f32f03b4255669f527ff5ada",
+      "title": "Godzilla Dev Wants to Do More Remasters, But 'a Lot of Conversations' Need to Happen First",
+      "summary": "Godzilla: Destroy All Monsters Melee Remastered is the only remaster Pipeworks can confirm for now, but \"a lot of stuff is on the table,\" and there are \"a lot of conversations to be had\" in the future.",
+      "url": "https://www.ign.com/articles/godzilla-dev-wants-to-do-more-remasters-but-a-lot-of-conversations-need-to-happen-first",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T16:29:49+00:00"
+    },
+    {
+      "id": "cf94c4bad8d79f5811c32dd9",
+      "title": "Tomb Raider Series Broke UK Crew Safety Laws, Report Confirms, Months After Star Sophie Turner Injured in Separate Incident",
+      "summary": "Amazon MGM Studios' new Tomb Raider series broke health and safety laws during production, just months after filming had to be halted due to star Sophie Turner's on-set injury.",
+      "url": "https://www.ign.com/articles/tomb-raider-series-broke-uk-crew-safety-laws-report-confirms-months-after-star-sophie-turner-injured-in-separate-incident",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T16:28:08+00:00"
+    },
+    {
+      "id": "0412d9a7b4e1fd4de0a236d3",
+      "title": "Call of Duty: Modern Warfare 4 Beta Extended",
+      "summary": "Call of Duty: Modern Warfare 4 developer Infinity Ward has announced that the playable beta for the next first-person shooter in the long-running franchise has been extended until 10pm PT tonight/1am ET tomorrow morning.",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-extended",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-01T16:21:49+00:00"
+    },
+    {
+      "id": "c0f5e0f9ded1491ed5829781",
+      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+      "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T16:11:18+00:00"
+    },
+    {
+      "id": "5f80eb0e00a834dec7927713",
+      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+      "summary": "The EFCC boss says more than five of the dismissed officials are already facing prosecution.",
+      "url": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T15:57:18+00:00"
+    },
+    {
+      "id": "73b9a2eaef519ba9c0ca72a8",
+      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
+      "summary": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T15:48:38+00:00"
+    },
+    {
+      "id": "72fdcab38418c26dd3b3e850",
+      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T15:33:14+00:00"
+    },
+    {
+      "id": "5be42958d0f323f9d3c75e6c",
+      "title": "France targets Shein and Temu with fast fashion fees",
+      "summary": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T15:15:57+00:00"
+    },
     {
       "id": "9fc3d7e4efae8673f70acd12",
       "title": "Norway's new king takes oath as mourners pay respects to his late father",
@@ -24,28 +398,6 @@
       "publishedAt": "2026-09-01T14:00:08+00:00"
     },
     {
-      "id": "72fdcab38418c26dd3b3e850",
-      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-      "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T13:46:05+00:00"
-    },
-    {
-      "id": "73b9a2eaef519ba9c0ca72a8",
-      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
-      "summary": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T13:12:47+00:00"
-    },
-    {
       "id": "6650359f83afdce3050a6e5b",
       "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
       "summary": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
@@ -55,17 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-01T12:58:44+00:00"
-    },
-    {
-      "id": "2c73e1d90a2b3180e218de08",
-      "title": "Trump says US position on Falklands 'one of many' under review",
-      "summary": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T12:54:22+00:00"
     },
     {
       "id": "5b6b38ea7ba88d7d92743286",
@@ -165,28 +506,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-01T09:13:41+00:00"
-    },
-    {
-      "id": "8e5fa37140e716c7da5c1720",
-      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T07:37:24+00:00"
-    },
-    {
-      "id": "0bead10bc82b38025014ca1f",
-      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-      "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
-      "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T07:02:58+00:00"
     },
     {
       "id": "39262c67c41dc69434cbff81",
@@ -310,17 +629,6 @@
       "publishedAt": "2026-08-31T21:28:49+00:00"
     },
     {
-      "id": "ba9f0abcd3cd8af37f14c874",
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
-      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T20:47:38+00:00"
-    },
-    {
       "id": "b1a71d42e294ff08e46a3929",
       "title": "Across Latin America, 'aura battles' burst onto the scene",
       "summary": "Young people across Latin America are taking part in the contests where participants compete to prove who has the most charisma.",
@@ -341,17 +649,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-08-31T18:58:35+00:00"
-    },
-    {
-      "id": "593645675b162fd9448e4811",
-      "title": "Ex-congressman George Santos banned from betting platform for life",
-      "summary": "The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T18:15:12+00:00"
     },
     {
       "id": "dd6394837b7ce2ee98a73a79",
@@ -376,28 +673,6 @@
       "publishedAt": "2026-08-31T16:42:17+00:00"
     },
     {
-      "id": "91a87368699db79a08fbf353",
-      "title": "John Galliano exhibition at New York Met cancelled after backlash",
-      "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T15:30:05+00:00"
-    },
-    {
-      "id": "0ad7328ea1cdf9796f7b9352",
-      "title": "Messi retires from international football with 'nothing left to give'",
-      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T15:18:39+00:00"
-    },
-    {
       "id": "eb4a24b80229bcde411cfd30",
       "title": "Ces internautes qui ne se reconnaissent plus dans le train de vie des influenceurs : « Quand j’ai vu leur niveau de déconnexion, ça m’a tellement révoltée »",
       "summary": "Comme de nombreux créateurs de contenu, Lena Situations a été vivement critiquée, au cours de l’été 2026, pour des comportements et des remarques jugés hors-sol. Passée en dix ans de « meilleure copine » des internautes à superstar, elle s’est produite, lundi 31 août, à l’Accor Arena à Paris.",
@@ -407,17 +682,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-31T15:14:16+00:00"
-    },
-    {
-      "id": "21ef8b1f2476559a9f3326c1",
-      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-      "summary": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
-      "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T15:00:11+00:00"
     },
     {
       "id": "b50d72f342176485619e0a8d",
@@ -473,17 +737,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-31T11:10:33+00:00"
-    },
-    {
-      "id": "fbfc287ed2d74c1daa85ae8f",
-      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-      "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
-      "url": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T10:18:07+00:00"
     },
     {
       "id": "64f877aeeeb6c7d0180c233d",
@@ -726,28 +979,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-27T07:00:09+00:00"
-    },
-    {
-      "id": "764d9c333a4841f8e63920ca",
-      "title": "Comment la Russie cherche à influencer les prochaines élections en Europe",
-      "summary": "De la France aux Etats baltes, en passant par les pays scandinaves et l’Allemagne, les gouvernements s’inquiètent des attaques sur le terrain et de cybercampagnes de désinformation prorusses passées et à venir, alors que les prochains mois seront marqués par plusieurs scrutins importants.",
-      "url": "https://www.lemonde.fr/international/article/2026/08/27/comment-la-russie-cherche-a-influencer-les-prochaines-elections-en-europe_6757903_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-27T04:00:12+00:00"
-    },
-    {
-      "id": "9af43bfb587defeeed8c4351",
-      "title": "Addiction à Facebook et Instagram : Meta s’évite un procès historique et une sanction colossale aux Etats-Unis",
-      "summary": "Menacée d’une amende de 200 milliards de dollars pour avoir délibérément rendu les mineurs dépendants de ses réseaux sociaux, l’entreprise a accepté de limiter l’accès des adolescents à ses plateformes et de verser jusqu’à 18 milliards de dollars pour clore les poursuites, l’équivalent d’un mois de chiffre d’affaires.",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/27/addiction-a-facebook-et-instagram-meta-s-evite-un-proces-historique-et-une-sanction-colossale-aux-etats-unis_6757834_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-27T03:26:50+00:00"
     },
     {
       "id": "d4c83646d271801c0e8c96b5",
