@@ -1,27 +1,126 @@
 {
-  "updatedAt": "2026-09-02T00:41:25.234595+00:00",
+  "updatedAt": "2026-09-02T05:16:25.761428+00:00",
   "items": [
     {
-      "id": "03cbf5231c7416d4de059389",
-      "title": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-      "summary": "The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.",
-      "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-02T00:36:24+00:00"
-    },
-    {
-      "id": "c8b3a23b79c81d0186e54b07",
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "id": "55c3da1456af085353a92ec9",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+      "summary": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
       "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-02T00:13:26+00:00"
+      "publishedAt": "2026-09-02T05:12:07+00:00"
+    },
+    {
+      "id": "9c2e64c326f68580389ab474",
+      "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+      "summary": "Wong, 29, is already in prison on subversion charges under the controversial National Security Law.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T04:29:02+00:00"
+    },
+    {
+      "id": "44df7e567fa27fdda5253351",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T04:23:23+00:00"
+    },
+    {
+      "id": "45d3a1a0d77482c5b1cf0bc5",
+      "title": "IA au travail : une lente réglementation pour éviter les discriminations dans la gestion des ressources humaines",
+      "summary": "Les entreprises sont déjà soumises à certaines interdictions réglementant leur usage de l’intelligence artificielle, comme le recours au traçage des émotions sur le lieu de travail, mais il faudra attendre la fin de 2027 pour que leurs obligations sur le sujet s’élargissent.",
+      "url": "https://www.lemonde.fr/emploi/article/2026/09/02/ia-au-travail-une-lente-reglementation-pour-eviter-les-discriminations-dans-la-gestion-des-ressources-humaines_6763873_1698637.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-02T04:00:44+00:00"
+    },
+    {
+      "id": "a86a0ff331b84c21901abd9d",
+      "title": "The Runner Review",
+      "summary": "Gal Gadot does everything she can to keep Prime Video's The Runner, well, running, but despite some decent set pieces, the film is ultimately unsatisfying.",
+      "url": "https://www.ign.com/articles/the-runner-review-gal-gadot",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T04:00:00+00:00"
+    },
+    {
+      "id": "8c01edc8968ea5703eec5676",
+      "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
+      "summary": "The USS Lincoln is docking close to Pattaya, known for its raucous nightlife, and for sex tourism.",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T02:42:38+00:00"
+    },
+    {
+      "id": "4ccca4c9d67ee2496ea8abec",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T01:59:54+00:00"
+    },
+    {
+      "id": "d45e75bb18d434cd84bda050",
+      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+      "summary": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T01:59:10+00:00"
+    },
+    {
+      "id": "24aab734229927612d73a59d",
+      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+      "summary": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
+      "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T01:32:24+00:00"
+    },
+    {
+      "id": "5c20fe16e3a6efcb1157e7e6",
+      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-02T01:27:34+00:00"
+    },
+    {
+      "id": "138af76751a9b2aa065196ee",
+      "title": "Tiger Woods to change plea after crash arrest",
+      "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T00:26:08+00:00"
     },
     {
       "id": "421625c1c14b4cea48f8ef8c",
@@ -145,6 +244,17 @@
       "publishedAt": "2026-09-01T21:41:05+00:00"
     },
     {
+      "id": "de6b52873e86712cfdd5395e",
+      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
+      "summary": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
+      "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-01T21:27:29+00:00"
+    },
+    {
       "id": "31d8337eb9d48af2fe96cabc",
       "title": "The Harry Potter 11-Film 4K Blu-ray Collection Drops to a New Low Price",
       "summary": "",
@@ -154,17 +264,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-01T21:11:15+00:00"
-    },
-    {
-      "id": "4ccca4c9d67ee2496ea8abec",
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T21:05:22+00:00"
     },
     {
       "id": "190bde49f167c363555ec1a7",
@@ -330,17 +429,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-01T18:52:50+00:00"
-    },
-    {
-      "id": "83db8aef38dd5a6006305605",
-      "title": "Orbitals Review",
-      "summary": "A co-op adventure that nails the feeling of a playable ‘90s anime.",
-      "url": "https://www.ign.com/articles/orbitals-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T18:52:16+00:00"
     },
     {
       "id": "0bead10bc82b38025014ca1f",
@@ -629,17 +717,6 @@
       "publishedAt": "2026-09-01T02:30:45+00:00"
     },
     {
-      "id": "bcaaec07ccfb591f4b0029e9",
-      "title": "US army secretary resigns after months of tension",
-      "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
-      "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T01:01:03+00:00"
-    },
-    {
       "id": "9fba73033ce6191f897ac0f3",
       "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
       "summary": "The rapper's killing became one of popular culture's great mysteries, with countless theories but no arrests until 2023.",
@@ -649,17 +726,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-01T00:31:20+00:00"
-    },
-    {
-      "id": "a4532d3808aa5fd1938d98a6",
-      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T22:38:24+00:00"
     },
     {
       "id": "41428c4745455fdf5281f4aa",
@@ -706,17 +772,6 @@
       "publishedAt": "2026-08-31T19:11:57+00:00"
     },
     {
-      "id": "792f322822f76f1f261202a2",
-      "title": "Festival honouring Dolly Parton set for Nashville and London",
-      "summary": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T18:58:35+00:00"
-    },
-    {
       "id": "dd6394837b7ce2ee98a73a79",
       "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
       "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
@@ -759,28 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-08-31T15:00:09+00:00"
-    },
-    {
-      "id": "73f286fc8ed3b1b803d49938",
-      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-      "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
-      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T14:50:36+00:00"
-    },
-    {
-      "id": "9b7748f47d506a4a3eb8c6d8",
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-      "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-08-31T13:11:35+00:00"
     },
     {
       "id": "aa5959e22236cc5df6bff983",
@@ -1001,17 +1034,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-27T13:24:03+00:00"
-    },
-    {
-      "id": "5803f024584c29fa6890a8b8",
-      "title": "Sur les réseaux, difficile de parler foot quand on est une femme : « Sale footix, ta place c’est à la cuisine »",
-      "summary": "Ce sont des jeunes femmes fans de foot, stars sur les plateformes ou quasi-anonymes, qui ont décidé de partager en ligne leur passion. Toutes sont exposées à la haine en ligne, et voient remise en question leur légitimité à s’exprimer sur le sujet.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/27/sur-les-reseaux-difficile-de-parler-foot-quand-on-est-une-femme-sale-footix-ta-place-c-est-a-la-cuisine_6758210_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-08-27T08:00:11+00:00"
     },
     {
       "id": "d4c83646d271801c0e8c96b5",
