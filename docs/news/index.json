@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-09-02T10:14:09.157764+00:00",
+  "updatedAt": "2026-09-02T14:49:19.550900+00:00",
   "items": [
+    {
+      "id": "8a559038626b1a3fba23aa9b",
+      "title": "Lords call for AI 'kill switch' powers in UK",
+      "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-02T14:41:52+00:00"
+    },
+    {
+      "id": "41a383b2ecf03a3a5ed5103c",
+      "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
+      "summary": "The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T14:40:20+00:00"
+    },
+    {
+      "id": "3130cc2691d4f6383a33c9d7",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T14:34:22+00:00"
+    },
+    {
+      "id": "1844121cef85d2f425668048",
+      "title": "Epomaker Split 70 Keyboard Review",
+      "summary": "The Epomaker Split70 Keyboard offers great ergonomics and an excellent typing feel, but its unconventional layout demands patience.",
+      "url": "https://www.ign.com/articles/epomaker-split-70-keyboard-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T14:15:00+00:00"
+    },
+    {
+      "id": "fa8e6c15fecde09048bd04ba",
+      "title": "The Best LEGO Castle Sets to Build in 2026",
+      "summary": "From Lord of the Rings to Disney, these are the best castle LEGO sets you can buy and build right now.",
+      "url": "https://www.ign.com/articles/the-best-lego-castle-sets",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "id": "bf0918c48d88ac4afdf8496a",
+      "title": "The Big Godzilla: Destroy All Monsters Melee Remastered Interview: Launching Against GTA 6, Cutting Hedorah, and Staying (Mostly) Faithful to a GameCube Classic",
+      "summary": "IGN spoke with Godzilla: Destroy All Monsters Melee Remastered senior designer Simon Strange to hear about the game fans have long pleaded for — but never thought would actually happen.",
+      "url": "https://www.ign.com/articles/the-big-godzilla-destroy-all-monsters-melee-remastered-interview-launching-against-gta-6-cutting-hedorah-and-staying-mostly-faithful-to-a-gamecube-classic",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T13:47:12+00:00"
+    },
+    {
+      "id": "71f76896270c2218a5e598af",
+      "title": "LEGO Advent Calendars for 2026 Are Already on Sale",
+      "summary": "They just came out, but you can already save $10 apiece on all five 2026 LEGO advent calendars, including Star Wars, Marvel, and Disney themes.",
+      "url": "https://www.ign.com/articles/lego-advent-calendars-2026-are-already-on-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T13:29:31+00:00"
+    },
+    {
+      "id": "938b86938bfbcef0c76a635d",
+      "title": "Xbox Acknowledges 'Major Outage' as Sign-In Issues Hit PC and Consoles",
+      "summary": "Microsoft has acknowledged a \"major outage\", with account issues across PC, Xbox Series X/S and other devices.",
+      "url": "https://www.ign.com/articles/xbox-acknowledges-major-outage-as-sign-in-issues-hit-pc-and-consoles",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T13:25:26+00:00"
+    },
+    {
+      "id": "9227d8eadf7be627151de97a",
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T13:17:43+00:00"
+    },
     {
       "id": "44df7e567fa27fdda5253351",
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
@@ -10,7 +109,139 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-02T10:00:08+00:00"
+      "publishedAt": "2026-09-02T13:16:26+00:00"
+    },
+    {
+      "id": "2b599e6964eef13967dd716b",
+      "title": "Viral Gaming Toilet Chair Appears to Resurface Via Facebook Marketplace — Listed as in 'Used' Condition, for $500",
+      "summary": "A viral fan-made Fortnite toilet chair made infamous via TikTok has apparently resurfaced via Facebook Marketplace, with the item priced at $500 and listed as in \"used\" condition.",
+      "url": "https://www.ign.com/articles/viral-gaming-toilet-chair-appears-to-resurface-via-facebook-marketplace-listed-as-in-used-condition-for-500",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T12:29:34+00:00"
+    },
+    {
+      "id": "78b830a7190ca9cd404eabb0",
+      "title": "All 24 Pokémon Movies Are Getting Released in a Giant $400 Poké Ball Blu-ray Collection",
+      "summary": "Preorders are live for this collection, featuring all 24 Pokémon movies, stored in a giant Poké Ball.",
+      "url": "https://www.ign.com/articles/pokemon-24-movie-collection-pokeball-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T12:22:54+00:00"
+    },
+    {
+      "id": "215e40ba373373ea0c5f2cb2",
+      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
+      "summary": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T12:14:31+00:00"
+    },
+    {
+      "id": "24459f8c00652121b8d09f39",
+      "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
+      "summary": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999.",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T12:09:11+00:00"
+    },
+    {
+      "id": "6361a16beeef670f185b8534",
+      "title": "Bus crash on Egypt's Red Sea coast kills 22",
+      "summary": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T12:07:32+00:00"
+    },
+    {
+      "id": "285b5c7377c3bacecabb43af",
+      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
+      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T11:51:46+00:00"
+    },
+    {
+      "id": "246ec99217d2f03bb1c8b008",
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T11:47:11+00:00"
+    },
+    {
+      "id": "bbd97ab14645799862eef3a3",
+      "title": "Madagascar ex-Senate chief sentenced to hard labour over deadly Gen Z protest crackdown",
+      "summary": "At least 22 people were killed and more than 100 injured during last year's unrest, according to the UN.",
+      "url": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T11:34:23+00:00"
+    },
+    {
+      "id": "71bd96eaf68113dcd1bf4b47",
+      "title": "Pokémon Fans Think The Franchise's New TCG Movie Hides a Secret Mega Evolution",
+      "summary": "The reveal of upcoming movie Pokémon: Wild Card hid a brand new Mega Evolution in plain sight, fans believe.",
+      "url": "https://www.ign.com/articles/pokmon-fans-think-the-franchises-new-tcg-movie-hides-a-secret-mega-evolution",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T11:14:56+00:00"
+    },
+    {
+      "id": "96ae3d8e4cd1d3c7c8e654e1",
+      "title": "Criminals publish data of 8.7m people after airports hack",
+      "summary": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
+      "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-02T11:00:59+00:00"
+    },
+    {
+      "id": "da0b38eafa73595e702173cd",
+      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-02T10:04:28+00:00"
+    },
+    {
+      "id": "1d628d8be1309cfff68d56d8",
+      "title": "LEGO PlayStation Images Leak, Revealing Some Incredible PS1 Easter Eggs",
+      "summary": "The long-rumored LEGO PlayStation set has been glimpsed in leaked photos, and it's an impressive recreation of Sony's retro console with a several great Easter eggs.",
+      "url": "https://www.ign.com/articles/lego-playstation-images-leak-revealing-some-incredible-ps1-easter-eggs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-02T09:45:24+00:00"
     },
     {
       "id": "739bf76a0ea93f249e226d7a",
@@ -22,28 +253,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-02T08:56:04+00:00"
-    },
-    {
-      "id": "71b7d36663d627b382092f2e",
-      "title": "Bus crash on Egypt's Red Sea coast kills 16",
-      "summary": "Another 28 people are injured in the accident in the South Sinai governorate, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-02T08:24:24+00:00"
-    },
-    {
-      "id": "52efbba85486a2e916a3e8ad",
-      "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
-      "summary": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule.",
-      "url": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-02T07:48:39+00:00"
     },
     {
       "id": "d8f16c546081241f7bb27308",
@@ -101,17 +310,6 @@
       "publishedAt": "2026-09-02T05:03:09+00:00"
     },
     {
-      "id": "9c2e64c326f68580389ab474",
-      "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-      "summary": "Wong, 29, is already in prison on subversion charges under the controversial National Security Law.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-02T04:29:02+00:00"
-    },
-    {
       "id": "45d3a1a0d77482c5b1cf0bc5",
       "title": "IA au travail : une lente réglementation pour éviter les discriminations dans la gestion des ressources humaines",
       "summary": "Les entreprises sont déjà soumises à certaines interdictions réglementant leur usage de l’intelligence artificielle, comme le recours au traçage des émotions sur le lieu de travail, mais il faudra attendre la fin de 2027 pour que leurs obligations sur le sujet s’élargissent.",
@@ -134,17 +332,6 @@
       "publishedAt": "2026-09-02T04:00:00+00:00"
     },
     {
-      "id": "4ccca4c9d67ee2496ea8abec",
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-02T01:59:54+00:00"
-    },
-    {
       "id": "d45e75bb18d434cd84bda050",
       "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
       "summary": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
@@ -156,17 +343,6 @@
       "publishedAt": "2026-09-02T01:59:10+00:00"
     },
     {
-      "id": "24aab734229927612d73a59d",
-      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
-      "summary": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
-      "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-02T01:32:24+00:00"
-    },
-    {
       "id": "5c20fe16e3a6efcb1157e7e6",
       "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
       "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
@@ -176,17 +352,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-02T01:27:34+00:00"
-    },
-    {
-      "id": "138af76751a9b2aa065196ee",
-      "title": "Tiger Woods to change plea after crash arrest",
-      "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-02T00:26:08+00:00"
     },
     {
       "id": "421625c1c14b4cea48f8ef8c",
@@ -253,17 +418,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-01T22:38:27+00:00"
-    },
-    {
-      "id": "24459f8c00652121b8d09f39",
-      "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
-      "summary": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T22:32:30+00:00"
     },
     {
       "id": "610b578f03a7f519d30174b8",
@@ -343,28 +497,6 @@
       "publishedAt": "2026-09-01T20:38:08+00:00"
     },
     {
-      "id": "5abf8245e2af9016fcc50764",
-      "title": "Save 45% Off Sony's Pulse Gaming Headsets and Earbuds for the PlayStation 5 Console",
-      "summary": "Featuring planar magnetic technology.",
-      "url": "https://www.ign.com/articles/sony-pulse-playstation-gaming-headset-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T20:30:00+00:00"
-    },
-    {
-      "id": "c92719250e7cb0e469a47084",
-      "title": "The Blood of Dawnwalker Proves Unreal 5 Can Be Done Well",
-      "summary": "Just like with Star Wars Zero Company and Halo: Campaign Evolved, The Blood of Dawnwalker runs on Unreal Engine 5, and has been shockingly free of technical problems. The game doesn't have the same issues with crashing and stuttering that Zero Company has, and scales down a lot better than Halo: Campaign Evolved does, although I would still avoid r",
-      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-proves-unreal-5-can-be-done-well",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T20:18:18+00:00"
-    },
-    {
       "id": "9cf088f4c8963b8c71ae4a9d",
       "title": "Tech Life",
       "summary": "AI can only communicate in languages that it's been trained on.",
@@ -374,83 +506,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-01T20:10:00+00:00"
-    },
-    {
-      "id": "da2294949ec1e2664a93b21c",
-      "title": "Christopher Judge Physically Prepared to Play Kratos in Live-Action God of War Series, but Backed Down for This Reason",
-      "summary": "Christopher Judge revealed that he actually started physically preparing to play Kratos in Prime Video’s live-action God of War series before he made himself back down.",
-      "url": "https://www.ign.com/articles/christopher-judge-physically-prepared-to-play-kratos-in-live-action-god-of-war-series-but-backed-down-for-this-reason",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T19:51:52+00:00"
-    },
-    {
-      "id": "5a71a2706aed619b5d447c90",
-      "title": "15 Studio Ghibli Movies Are Getting Blu-ray Steelbook Reprints – Preorders Are Live",
-      "summary": "",
-      "url": "https://www.ign.com/articles/15-studio-ghibli-movies-are-getting-blu-ray-steelbook-reprints-preorders-are-live",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T19:46:43+00:00"
-    },
-    {
-      "id": "956de5a8621338bcb9c50b56",
-      "title": "IGN's Top-Reviewed Nintendo Switch 2 Games",
-      "summary": "Not all Nintendo games are created equal. Here are the 10 best Nintendo games we've played in the Switch 2 generation.",
-      "url": "https://www.ign.com/articles/best-reviewed-nintendo-switch-2-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T19:46:00+00:00"
-    },
-    {
-      "id": "56a86c4c4715b4d92623ffbb",
-      "title": "Robert Pattinson Says The Batman Part 2's Fight Scenes Are 'Significantly Harder' to Perform",
-      "summary": "Robert Pattinson says his age is making it harder to perform the fight scenes in The Batman Part 2.",
-      "url": "https://www.ign.com/articles/robert-pattinson-says-the-batman-part-2s-fight-scenes-are-significantly-harder-to-perform",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T19:44:53+00:00"
-    },
-    {
-      "id": "0e90c79c6f7fb09ce19959c3",
-      "title": "Avengers: Secret Wars Adds Noah Jupe to Highly Secretive Cast",
-      "summary": "Avengers: Secret Wars has added Noah Jupe to its cast in an undisclosed role.",
-      "url": "https://www.ign.com/articles/avengers-secret-wars-adds-noah-jupe-to-highly-secretive-cast",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T19:25:25+00:00"
-    },
-    {
-      "id": "dc2ae8650e5a0248f34d6a61",
-      "title": "Gruv Is Having a Massive DVD Sale on Classic Cartoon Collections",
-      "summary": "",
-      "url": "https://www.ign.com/articles/gruv-classic-cartoon-collection-dvd-labor-day-sale-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T19:01:36+00:00"
-    },
-    {
-      "id": "6c11274a19fd50ce2ba0b88b",
-      "title": "Resident Evil 2 Director Hideki Kamiya Says Capcom Has Grown 'Numb' to How Scary New RE Games Are",
-      "summary": "Hideki Kamiya has confirmed that he was “not joking” when he begged Capcom to make a less-scary version of Resident Evil Requiem for the faint of heart, even arguing that the company has become \"numb\" to how frightening the newer games have gotten.",
-      "url": "https://www.ign.com/articles/resident-evil-2-director-hideki-kamiya-says-capcom-has-grown-numb-to-how-scary-new-re-games-are",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-01T19:01:11+00:00"
     },
     {
       "id": "fb137dc5d9beb9e50b617111",
@@ -484,17 +539,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-01T16:33:29+00:00"
-    },
-    {
-      "id": "c0f5e0f9ded1491ed5829781",
-      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-      "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
-      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-01T16:11:18+00:00"
     },
     {
       "id": "9fc3d7e4efae8673f70acd12",
@@ -858,28 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-08-26T21:49:26+00:00"
-    },
-    {
-      "id": "d9ae34b7279a9e658dc97442",
-      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-26T21:27:23+00:00"
-    },
-    {
-      "id": "28328d01a792220260401ff9",
-      "title": "Xbox boss 'thinking about affordability' of next-gen console",
-      "summary": "In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.",
-      "url": "https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-26T15:38:49+00:00"
     },
     {
       "id": "ac140cb5d431b3f8a9dd81e2",
