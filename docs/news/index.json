@@ -1,27 +1,93 @@
 {
-  "updatedAt": "2026-09-04T05:15:27.944904+00:00",
+  "updatedAt": "2026-09-04T10:12:23.768891+00:00",
   "items": [
     {
-      "id": "e3cedd2b0c364508f9b8fd85",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "summary": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "id": "c0ebd43751b95f53caa42936",
+      "title": "US diesel prices hit an all-time-high",
+      "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-04T05:09:02+00:00"
+      "category": "general",
+      "publishedAt": "2026-09-04T09:59:50+00:00"
     },
     {
-      "id": "11d12e5e4928d5b2c50755f9",
-      "title": "Argentine leader threatens to sanction oil firms working off Falklands",
+      "id": "ebfe9f469682716229625238",
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "summary": "After renewed strikes this week, does either side have an exit strategy?",
+      "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-04T09:14:57+00:00"
+    },
+    {
+      "id": "bfd1fc3b92e68b980ea354fe",
+      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-04T08:23:05+00:00"
+    },
+    {
+      "id": "3743d5487a8d7ae88d2f6ebc",
+      "title": "Amid Concern in Japan, Dragon Ball Producer Toei Animation Denies Involvement in Saudi-France Paris Theme Park",
+      "summary": "Last week, France and Saudi Arabia made the surprise announcement that the Paris region of France will be getting a Dragon Ball theme park. This sparked varied reactions across the internet, with many comments in Japanese expressing concern regarding licensing rights and the lack of Japanese representation. This week, Dragon Ball anime producer Toe",
+      "url": "https://www.ign.com/articles/amid-concern-in-japan-dragon-ball-producer-toei-animation-denies-involvement-in-saudi-france-paris-theme-park",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T08:15:54+00:00"
+    },
+    {
+      "id": "eb770af7d0f70ab2cfdcff00",
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-04T07:00:10+00:00"
+    },
+    {
+      "id": "8e12152d7a6433746f579be1",
+      "title": "« Au cœur de l’Amérique, tout est parfois une farce » : Dan Houser, ex-auteur de « GTA », signe la BD « American Caper »",
+      "summary": "Le cofondateur de Rockstar Games, ex-directeur créatif de la série de jeu vidéo « Grand Theft Auto », publie sa première bande dessinée en France. Un récit choral et corrosif sur les névroses contemporaines des Etats-Unis.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/04/au-c-ur-de-l-amerique-tout-est-parfois-une-farce-dan-houser-ex-auteur-de-gta-signe-la-bd-american-caper_6765739_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-04T07:00:05+00:00"
+    },
+    {
+      "id": "c9d4d77ed60c502ec77e6c22",
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
       "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
       "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-04T05:01:33+00:00"
+      "publishedAt": "2026-09-04T06:52:29+00:00"
+    },
+    {
+      "id": "519cdbe50392426ad42b97b7",
+      "title": "Watch: Moment workers are rescued from Nepal tunnel",
+      "summary": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
+      "url": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-04T04:45:54+00:00"
     },
     {
       "id": "d6339902b91a5deb61704da9",
@@ -35,15 +101,15 @@
       "publishedAt": "2026-09-04T04:06:41+00:00"
     },
     {
-      "id": "2104a22519039406a8ce6673",
-      "title": "De l’école au lycée, l’apprentissage au défi de l’IA : « Une réponse immédiate comble le désir de savoir, mais tue le désir d’apprendre »",
+      "id": "57d992e9212b1d6424f97357",
+      "title": "L’IA rebat les cartes de l’apprentissage, de l’école au lycée : « Une réponse immédiate comble le désir de savoir, mais tue le désir d’apprendre »",
       "summary": "Si l’intelligence artificielle générative est entrée dans la vie des élèves, difficile de savoir quelles transformations elle produira dans leur manière de mémoriser et de raisonner.",
       "url": "https://www.lemonde.fr/societe/article/2026/09/04/de-l-ecole-au-lycee-l-apprentissage-au-defi-de-l-ia-une-reponse-immediate-comble-le-desir-de-savoir-mais-tue-le-desir-d-apprendre_6765591_3224.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-09-04T03:54:41+00:00"
+      "publishedAt": "2026-09-04T03:54:39+00:00"
     },
     {
       "id": "04be1c743e73c56712176beb",
@@ -79,28 +145,6 @@
       "publishedAt": "2026-09-04T02:02:02+00:00"
     },
     {
-      "id": "d3f8228652e9343a4f8834e1",
-      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-      "summary": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-      "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-04T01:26:23+00:00"
-    },
-    {
-      "id": "eb770af7d0f70ab2cfdcff00",
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-04T01:20:32+00:00"
-    },
-    {
       "id": "8e97c48790aeef65cc1db489",
       "title": "Save $3,000 Off the Massive 83\" LG Evo M3 4K OLED TV With Wireless Connectivity and 5 Year Warranty",
       "summary": "LG's biggest and best OLED TV of 2023.",
@@ -110,6 +154,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-04T01:15:00+00:00"
+    },
+    {
+      "id": "9d74f77c6d5ffa366635d944",
+      "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+      "summary": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
+      "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-04T00:55:45+00:00"
     },
     {
       "id": "080c685d7a7850d05ebf4941",
@@ -123,8 +178,8 @@
       "publishedAt": "2026-09-04T00:54:46+00:00"
     },
     {
-      "id": "f4872c2535d2d595fe22f49d",
-      "title": "OpenAI lance GPT-6, son premier modèle d’IA capable de pirater seul des systèmes informatiques très protégés",
+      "id": "208ad169421433f7b4b33792",
+      "title": "OpenAI lance GPT-6, un nouveau modèle d’IA aux capacités avancées en cybersécurité",
       "summary": "Classé par l’entreprise au niveau de risque maximal en matière de cybersécurité, GPT-6 Astra sera disponible « dans les prochains jours » pour les abonnés payants de ChatGPT, l’agent conversationnel utilisé par un milliard de personnes chaque semaine, selon OpenAI.",
       "url": "https://www.lemonde.fr/intelligences-artificielles-generatives/article/2026/09/04/openai-lance-gpt-6-son-premier-modele-d-ia-capable-de-pirater-seul-des-systemes-informatiques-tres-proteges_6765321_6191406.html",
       "imageUrl": null,
@@ -134,8 +189,8 @@
       "publishedAt": "2026-09-04T00:47:42+00:00"
     },
     {
-      "id": "546356e69a77bc0fbf0702e3",
-      "title": "Kenya's chai tea lovers are not happy as the nation's cows run dry",
+      "id": "6c183b35f04358cfdc369214",
+      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
       "summary": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
       "url": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -198,6 +253,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-04T00:00:00+00:00"
+    },
+    {
+      "id": "0dbc815237332309b42ad8a2",
+      "title": "'I lost my savings after a job interview scam'",
+      "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-03T23:41:49+00:00"
     },
     {
       "id": "ab8a11f6376bff14aacfa78f",
@@ -321,17 +387,6 @@
       "publishedAt": "2026-09-03T20:21:57+00:00"
     },
     {
-      "id": "c515537a1bbf27c4160e2965",
-      "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
-      "summary": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
-      "url": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T19:56:34+00:00"
-    },
-    {
       "id": "01251c3a3ea9c1ac671df3ef",
       "title": "Miami-Dade Sheriff and Commissioner Slam City's Proposed GTA 6 Takeover for 'Promoting Fictional Version of Our Community Defined by Crime and Violence'",
       "summary": "The Sheriff of Miami-Dade county is speaking out against Miami’s proposal to celebrate the launch of GTA 6 by decking out the city in advertisements for the highly-anticipated game, arguing that it glorifies crime and undermines the efforts of law enforcement.",
@@ -354,8 +409,8 @@
       "publishedAt": "2026-09-03T18:58:08+00:00"
     },
     {
-      "id": "9c274deea950f60274e33c99",
-      "title": "Fondée par des Français, la start-up d’intelligence artificielle Hugging Face défend son rachat par l’américain Nvidia, au nom de l’« open source »",
+      "id": "709748025c7a64b8c53302ff",
+      "title": "Hugging Face, start-up d’intelligence artificielle fondée par des Français, défend son rachat par l’américain Nvidia, au nom de l’« open source »",
       "summary": "La plateforme de référence pour la publication de modèles d’IA ouverts vient d’être rachetée pour 13 milliards de dollars par le géant mondial des processeurs. Une acquisition qui illustre la difficulté en Europe de conserver ses champions technologiques.",
       "url": "https://www.lemonde.fr/economie/article/2026/09/03/fondee-par-des-francais-la-start-up-d-intelligence-artificielle-hugging-face-defend-son-rachat-par-l-americain-nvidia-au-nom-de-l-open-source_6765217_3234.html",
       "imageUrl": null,
@@ -385,17 +440,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-03T18:47:33+00:00"
-    },
-    {
-      "id": "23e972b3ee4f106ae3d23238",
-      "title": "Minecraft Dungeons 2: Here’s What Comes in Each Edition",
-      "summary": "",
-      "url": "https://www.ign.com/articles/minecraft-dungeons-2-preorder-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-03T18:44:44+00:00"
     },
     {
       "id": "dc879ad81062da2299f8d653",
@@ -450,7 +494,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-09-03T17:30:05+00:00"
+      "publishedAt": "2026-09-03T17:30:00+00:00"
     },
     {
       "id": "acd0fac502be6fe32982abb1",
@@ -486,28 +530,6 @@
       "publishedAt": "2026-09-03T15:48:06+00:00"
     },
     {
-      "id": "81046141cfb37a16865faa7c",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T15:35:47+00:00"
-    },
-    {
-      "id": "b58bd2771e28c3a489e032f1",
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T15:05:57+00:00"
-    },
-    {
       "id": "55d5ad225946e6a24991cfa1",
       "title": "Z Event : dernière édition pour le marathon caritatif des streameurs",
       "summary": "Pour son neuvième et ultime numéro, du 4 au 7 septembre, l’événement espère battre le record de 16 millions d’euros récoltés en 2025. Cette année, pas moins de 22 associations sont bénéficiaires.",
@@ -528,28 +550,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-03T14:42:00+00:00"
-    },
-    {
-      "id": "5e31bcf7cb9851fb69d0852a",
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-      "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T13:54:49+00:00"
-    },
-    {
-      "id": "f35ed9a9059ef4f0a245547f",
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "summary": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T13:07:02+00:00"
     },
     {
       "id": "0fbc4fe30c100f253ce7bf8a",
@@ -574,17 +574,6 @@
       "publishedAt": "2026-09-03T12:44:16+00:00"
     },
     {
-      "id": "a61b0dade65ca6c9c0287421",
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-      "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T12:18:07+00:00"
-    },
-    {
       "id": "01eb6e965c43194e02734a5f",
       "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
       "summary": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
@@ -605,50 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-03T11:26:07+00:00"
-    },
-    {
-      "id": "964783b1218b0373952989de",
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-      "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T10:37:06+00:00"
-    },
-    {
-      "id": "9e8ebcc98e3f1e19cc2bf029",
-      "title": "US man struck by lightning describes 'horrific' experience",
-      "summary": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
-      "url": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T10:01:33+00:00"
-    },
-    {
-      "id": "4ea2f44f51eaa63f8aeaa4dd",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T09:37:34+00:00"
-    },
-    {
-      "id": "3626341f744dea2861898974",
-      "title": "Another White House renovation? A look at Trump's new helipad",
-      "summary": "The facility will be the first of its kind at the White House - though critics feel it alters the property's historic grounds.",
-      "url": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-03T08:14:16+00:00"
     },
     {
       "id": "8694b5c07ba265ee6fbcda7a",
@@ -825,17 +770,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-02T15:00:26+00:00"
-    },
-    {
-      "id": "8bb2a8d53ba26838eb699838",
-      "title": "En Serbie, l’opposition ciblée par le logiciel espion Pegasus",
-      "summary": "Une douzaine de personnes, dont un parlementaire et des étudiants participant au mouvement de protestation contre le pouvoir, ont reçu une notification suggérant qu’elles avaient été visées par le mouchard.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/02/en-serbie-l-opposition-ciblee-par-le-logiciel-espion-pegasus_6764464_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-02T15:00:11+00:00"
     },
     {
       "id": "8a559038626b1a3fba23aa9b",
