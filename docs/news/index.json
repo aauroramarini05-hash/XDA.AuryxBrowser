@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T17:54:42.731657+00:00",
+  "updatedAt": "2026-09-04T20:04:03.190634+00:00",
   "items": [
     {
       "id": "1ba427af68b74929087db3c7",
@@ -10,7 +10,117 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-04T17:26:40+00:00"
+      "publishedAt": "2026-09-04T19:44:40+00:00"
+    },
+    {
+      "id": "78056b83f70f8f40e1691fda",
+      "title": "Hands-On With Acer's Prototype Convertible Handheld PC/Laptop Hybrid",
+      "summary": "It works like a gaming handheld when you want to play, and then you can open it up into a mini, almost Netbook-like PC in just a few short seconds.",
+      "url": "https://www.ign.com/articles/hands-on-with-acers-prototype-convertible-handheld-pclaptop-hybrid",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T19:17:43+00:00"
+    },
+    {
+      "id": "9e5d1e48fbda5b2062cb3a8e",
+      "title": "The SCUF Labor Day Sale Is Live: Save Up to 30% Off the Best Performance Gaming Controllers for PC and Xbox",
+      "summary": "Competition grade.",
+      "url": "https://www.ign.com/articles/labor-day-sale-performance-gaming-controller-deals-for-pc-and-xbox",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T19:15:00+00:00"
+    },
+    {
+      "id": "e36462bbd7048faaaffe030d",
+      "title": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
+      "summary": "Building up the Switch 2 library.",
+      "url": "https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T19:02:00+00:00"
+    },
+    {
+      "id": "174c103eb361c3a9f05c01cf",
+      "title": "Eureka Ergonomic Is Running A Huge Sale for Labor Day",
+      "summary": "Save big on office and gaming furniture.",
+      "url": "https://www.ign.com/articles/eureka-ergonomic-is-running-a-huge-sale-for-labor-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T18:55:00+00:00"
+    },
+    {
+      "id": "d856e9ed9e37d112cafc90d1",
+      "title": "Flexispot's Labor Day Sale Takes Up to 65% Off Office Furniture, Including Our Favorite Standing Desk of 2026",
+      "summary": "Flexispot is best known for its standing desks and ergo chairs, but the brand has since expanded to home furniture.",
+      "url": "https://www.ign.com/articles/flexispots-labor-day-sale-best-standing-desk-deals-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T18:45:00+00:00"
+    },
+    {
+      "id": "bfe898bc13d30113b29d29c8",
+      "title": "GTA 6 for Xbox: You Can Save $10, Today Only",
+      "summary": "Xbox owners can save $10 on Grand Theft Auto 6's ultimate edition using this simple workaround (but it's only available today).",
+      "url": "https://www.ign.com/articles/gta-6-for-xbox-you-can-save-10-today-only",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T18:21:04+00:00"
+    },
+    {
+      "id": "a12b8fbb68f3c07a86ddab80",
+      "title": "New Resident Evil Teaser Trailer Reveals First Glimpse at Creature That Looks a Lot Like Las Plagas",
+      "summary": "A new Spanish-language trailer for Zach Cregger’s Resident Evil movie includes never-before-seen footage of a tentacle-like mutation that looks frighteningly similar to Las Plagas from RE4.",
+      "url": "https://www.ign.com/articles/new-resident-evil-teaser-trailer-reveals-first-look-at-creature-that-seems-a-lot-like-las-plagas",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T18:05:44+00:00"
+    },
+    {
+      "id": "40af2ca6299a5f402037bec0",
+      "title": "Piratage du site des impôts : une note du Sénat pointe des « fragilités structurelles » dans l’infrastructure de Bercy",
+      "summary": "Le ministère n’est toutefois pas le seul concerné par ces points de vulnérabilité, qui vont de la multiplication des accès à distance à l’absence de mécanismes de protection sur certains services.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/04/piratage-de-la-dgfip-une-note-du-senat-pointe-des-fragilites-structurelles-dans-l-infrastructure-de-bercy_6765851_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-04T17:53:45+00:00"
+    },
+    {
+      "id": "d19dd9bbb1a2c05e1b922fa4",
+      "title": "Mrs. Doubtfire Is Releasing on 4K This September – Here’s Where to Preorder It",
+      "summary": "Mrs. Doubtfire, the beloved comedy starring Robin Williams, is officially getting a 4K release on September 29. Here's where it's available to preorder and what bonus features it comes with.",
+      "url": "https://www.ign.com/articles/mrs-doubtfire-4k-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T17:42:57+00:00"
+    },
+    {
+      "id": "6a1d647b3de62533a5ec02df",
+      "title": "DLSS 5 Will Be Coming to Older Graphics Cards After All",
+      "summary": "On Nvidia's forums, an Nvidia employee claimed that the company will be expanding DLSS 5 support to RTX 40 series graphics cards at some point, but we're probably going to be waiting a while for it.",
+      "url": "https://www.ign.com/articles/dlss-5-will-be-coming-to-older-graphics-cards-after-all",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-04T17:32:58+00:00"
     },
     {
       "id": "2421cf2c835665d1442c3567",
@@ -211,17 +321,6 @@
       "publishedAt": "2026-09-04T14:59:13+00:00"
     },
     {
-      "id": "769916ccdd12c3164de7c204",
-      "title": "White House Launches Arcade.Gov, a Minigame Site Where You Catch Immigrants, Build a Tetris Border Wall, and 'Fill Your Kids' Trump Accounts' With Bitcoin",
-      "summary": "Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.",
-      "url": "https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T14:50:33+00:00"
-    },
-    {
       "id": "e67dd98dbef6ecf70fad0f9a",
       "title": "Les meilleurs micro-casques bluetooth et USB",
       "summary": "C’est un accessoire précieux pour se faire parfaitement entendre lors des appels téléphoniques ou les visioconférences avec Zoom, Meet, Teams ou autre. Nous testons 13 micro-casques Bluetooth et USB de marque Jabra, HP, Shokz, Dell, Logitech et AmazonBasics. Nous évaluons leur qualité audio, leur capacité à nettoyer la voix des bruits ambiants et l",
@@ -244,39 +343,6 @@
       "publishedAt": "2026-09-04T14:40:00+00:00"
     },
     {
-      "id": "f7d41001896279502b8c9db9",
-      "title": "Onimusha Shows Why Capcom Is on a Winning Streak",
-      "summary": "Onimusha: Way of the Sword succeeds because it does what Capcom games like Resident Evil 7 and Monster Hunter: World did before it - combine the best of the series' past with the best of the wider industry to create a brilliant modern formula.",
-      "url": "https://www.ign.com/articles/onimusha-shows-why-capcom-is-on-a-winning-streak",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T14:30:00+00:00"
-    },
-    {
-      "id": "4db4136f897273cf1cd59f77",
-      "title": "1 vs. 100 Live Was the Kind of Incredible Creative Risk I'd Like to See Xbox Get Back To",
-      "summary": "I so vividly remember making the time to log on and play 1 vs. 100 in the evenings the game was available, and trying to answer those trivia questions as quickly as possible. You could get on Party Chat with your friends and root for each other to make it into The Mob -- or even The One. I never got to be The One, but I did make it into The Mob onc",
-      "url": "https://www.ign.com/articles/1-vs-100-live-was-the-kind-of-incredible-creative-risk-id-like-to-see-xbox-get-back-to",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T14:21:00+00:00"
-    },
-    {
-      "id": "3d5caa22a95255ea94b158c0",
-      "title": "I'm Getting My Hopes Up for The Ascent 2 After the Developer Told Me It Had Big Franchise Plans",
-      "summary": "The Ascent 2 is a game I’ve hoped developer Neon Giant would make ever since I finished the wonderful The Ascent back in 2021 — and after speaking to the studio at gamescom, I’m convinced it’s now in the works.",
-      "url": "https://www.ign.com/articles/im-getting-my-hopes-up-for-the-ascent-2-after-the-developer-told-me-it-had-big-franchise-plans",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T14:11:17+00:00"
-    },
-    {
       "id": "3b657dcdf65b913048061024",
       "title": "Face à la déferlante de l’IA, l’éducation nationale cherche à s’adapter",
       "summary": "Le Conseil supérieur des programmes planche sur un module, obligatoire pour tous les élèves de seconde dès la rentrée 2027 afin de former les lycéens au bon usage de l’intelligence artificielle. Mais la communauté éducative craint que l’institution ne peine à rattraper une utilisation déjà massive chez les jeunes.",
@@ -288,50 +354,6 @@
       "publishedAt": "2026-09-04T14:02:51+00:00"
     },
     {
-      "id": "fe0feefdca92757e050fe61d",
-      "title": "Odyssey Translator Emily Wilson, Who Slammed Nolan's Movie, Retranslating Homer’s Epic From Scratch",
-      "summary": "Translator Emily Wilson is retranslating Homer's The Odyssey from scratch, following her viral critiques calling Christopher Nolan's blockbuster film adaptation \"abysmal.\"",
-      "url": "https://www.ign.com/articles/emily-wilson-retranslating-the-odyssey-from-scratch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T14:02:00+00:00"
-    },
-    {
-      "id": "cc1e5b96de499e0845925a0f",
-      "title": "Nintendo Confirms 2 Nintendo Direct Broadcasts for Next Week, Including a Dedicated Legend of Zelda 40th Anniversary Broadcast",
-      "summary": "Nintendo has announced a pair of Nintendo Direct broadcasts for next week, including a dedicated Legend of Zelda 40th Anniversary showcase.",
-      "url": "https://www.ign.com/articles/nintendo-confirms-2-nintendo-direct-broadcasts-for-next-week-including-a-dedicated-legend-of-zelda-40th-anniversary-broadcast",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T13:54:32+00:00"
-    },
-    {
-      "id": "673dedc6ce1c5a9e8b3a1856",
-      "title": "Exodus Romance Options Are Not Gender-Locked for Both Male and Female Leads",
-      "summary": "The upcoming Mass Effect-style sci-fi RPG is giving players freedom with relationships and romance options regardless of the gender they choose for their protagonist.",
-      "url": "https://www.ign.com/articles/exodus-romance-options-are-not-gender-locked-for-both-male-and-female-leads",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T13:32:54+00:00"
-    },
-    {
-      "id": "ee00e72e6308cb6e061d5dc9",
-      "title": "Lego Skylines Hands-On Preview: It’s a Cozy, More Relaxing City-Builder",
-      "summary": "If you’re like me and looking for something a little less… punishing, shall we say, Lego Skylines might fit the bill. The developers described it to me as a cozier, simpler city builder. You’ll still have problems – crime, fires, you know, the things cities deal with – but you’ll have time to solve them.",
-      "url": "https://www.ign.com/articles/lego-skylines-hands-on-preview-its-a-cozy-more-relaxing-city-builder",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T13:05:00+00:00"
-    },
-    {
       "id": "eaca1dc60d49e9116eff4fe5",
       "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
       "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
@@ -341,17 +363,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-04T13:00:44+00:00"
-    },
-    {
-      "id": "29a08b94ffa8fe000f51290d",
-      "title": "Exodus Narrative Director Explains Romance, Relationships, and Mass Effect Comparisons in New Sci-Fi RPG",
-      "summary": "The upcoming space opera RPG Exodus has drawn a lot Mass Effect comparisons, and its narrative director worked on both. He explains their differences and more.",
-      "url": "https://www.ign.com/articles/exodus-narrative-director-drew-karpyshyn-explains-romance-and-relationship-systems-building-on-mass-effect",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T13:00:00+00:00"
     },
     {
       "id": "898f442b098d39d34ae982d9",
@@ -836,17 +847,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-03T00:58:44+00:00"
-    },
-    {
-      "id": "1f222520ed3f415aecdbdc78",
-      "title": "L’essor de l’IA freine les ambitions des acteurs du numérique en faveur du climat",
-      "summary": "Selon un rapport publié mercredi, les entreprises du secteur ne parviennent pas à réduire assez rapidement leurs émissions, dans un contexte de besoins accrus en énergie en raison du développement de l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/planete/article/2026/09/03/l-essor-de-l-ia-freine-les-ambitions-des-acteurs-du-numerique-en-faveur-du-climat_6764639_3244.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-03T00:54:21+00:00"
     },
     {
       "id": "d9b3b418eb13d0892305e229",
