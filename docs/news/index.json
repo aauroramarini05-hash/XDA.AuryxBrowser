@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-05T09:41:23.655243+00:00",
+  "updatedAt": "2026-09-05T13:07:09.941380+00:00",
   "items": [
+    {
+      "id": "4a3a54e5d4b8e6ff9898d0df",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-05T12:23:00+00:00"
+    },
+    {
+      "id": "1bcb1d944c1f305829017dbe",
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-05T10:02:29+00:00"
+    },
+    {
+      "id": "e3c9d57e4f6320604b9d8c83",
+      "title": "Tomb Raider: Legacy of Atlantis Could Be Great, But There's Some Things We Can't Ignore...",
+      "summary": "Tomb Raider: Legacy of Atlantis shows massive potential, but controversial changes like skill trees and modern hand-holding threaten to frustrate fans. And some of that food looks very suspicious.",
+      "url": "https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-impressions",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-05T10:00:00+00:00"
+    },
     {
       "id": "22166f83f7f39db2740919f9",
       "title": "Trump signs order to remove endangered species protection for grey wolves",
@@ -46,6 +79,17 @@
       "publishedAt": "2026-09-05T08:00:09+00:00"
     },
     {
+      "id": "6c7fcd675217f030a8d73c5e",
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+      "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-05T07:20:17+00:00"
+    },
+    {
       "id": "6b6e7e65e189bfacf64c89f8",
       "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
       "summary": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
@@ -57,17 +101,6 @@
       "publishedAt": "2026-09-05T06:53:20+00:00"
     },
     {
-      "id": "1bcb1d944c1f305829017dbe",
-      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-05T06:37:46+00:00"
-    },
-    {
       "id": "ca7e473da2b6f29a87780205",
       "title": "OpenAI : des agents IA ont détourné un site Internet plusieurs mois avant le piratage d’Hugging Face, selon des chercheurs",
       "summary": "Ces agents avaient l’autorisation de se rendre sur Internet, mais uniquement à des fins de consultation, pas pour poster du contenu ou en modifier. OpenAI dit « étudier » le rapport, diffusé par un collectif indépendant.",
@@ -77,17 +110,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-05T06:25:06+00:00"
-    },
-    {
-      "id": "60c5bf519153c9f763cb6477",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-05T04:28:21+00:00"
     },
     {
       "id": "d734e6fdde86ad1bda64d03f",
@@ -429,17 +451,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-04T19:17:43+00:00"
-    },
-    {
-      "id": "9e5d1e48fbda5b2062cb3a8e",
-      "title": "The SCUF Labor Day Sale Is Live: Save Up to 30% Off the Best Performance Gaming Controllers for PC and Xbox",
-      "summary": "Competition grade.",
-      "url": "https://www.ign.com/articles/labor-day-sale-performance-gaming-controller-deals-for-pc-and-xbox",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T19:15:00+00:00"
     },
     {
       "id": "b30e320ecf1e5b5cb661a6fe",
