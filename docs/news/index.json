@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-09-05T16:23:57.720103+00:00",
+  "updatedAt": "2026-09-05T18:40:40.193834+00:00",
   "items": [
     {
-      "id": "4a3a54e5d4b8e6ff9898d0df",
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "id": "6985b99fa160a88f71e8dd40",
+      "title": "Primetime Review",
+      "summary": "A blast from the past with a sickly allure, the Robert Pattinson romp Primetime is as garish as its subject: Chris Hansen’s To Catch a Predator.",
+      "url": "https://www.ign.com/articles/primetime-movie-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-05T18:17:37+00:00"
+    },
+    {
+      "id": "4b575f362b79bb8b5cf2e2d9",
+      "title": "The Blood of Dawnwalker Passes 1 Million Copies Sold in Just 2 Days",
+      "summary": "Single-player RPG and new IP The Blood of Dawnwalker has sold 1 million copies just two days after its launch, publisher Bandai Namco and developer Rebel Wolves have announced.",
+      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-passes-1-million-copies-sold-in-just-2-days",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-05T17:30:16+00:00"
+    },
+    {
+      "id": "9de4686e5ad5505545290148",
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-05T16:15:35+00:00"
+      "publishedAt": "2026-09-05T17:18:31+00:00"
+    },
+    {
+      "id": "bbcc0125efd29f56376f7f1e",
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-05T17:15:05+00:00"
+    },
+    {
+      "id": "dde023508c8ce4b32c7459b9",
+      "title": "The Batman Part 2 Set Photos Hint at Arkham-Style Batsuit Upgrade",
+      "summary": "New set photos from The Batman Part II reveal a closer look at Robert Pattinson’s updated Batsuit, drawing comparisons to the iconic Arkham game design.",
+      "url": "https://www.ign.com/articles/the-batman-part-2-set-photos-arkham-suit-upgrade",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-05T16:38:24+00:00"
     },
     {
       "id": "0ff1c81d83f3b61d39229b27",
@@ -24,15 +68,37 @@
       "publishedAt": "2026-09-05T16:14:24+00:00"
     },
     {
-      "id": "bbcc0125efd29f56376f7f1e",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "id": "eaa95421989296644eeaaebc",
+      "title": "How to Navigate Rebecca Yarros' Popular Fourth Wing Book Series",
+      "summary": "",
+      "url": "https://www.ign.com/articles/fourth-wing-books-in-order-empyrean-series-timeline",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-05T16:13:01+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-05T16:10:00+00:00"
+    },
+    {
+      "id": "f742b332ba9e3788bae0e74b",
+      "title": "Bruce Campbell Says He Has 5 Years Left to Live Amid Cancer Battle",
+      "summary": "Evil Dead star Bruce Campbell said he has just five years left to live amid his ongoing battle with cancer.",
+      "url": "https://www.ign.com/articles/bruce-campbell-says-he-has-5-years-left-to-live-amid-cancer-battle",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-05T15:56:12+00:00"
+    },
+    {
+      "id": "9378cfc69e1b30547710cdc6",
+      "title": "The Best Deals Today: Nintendo Switch 2 Consoles, Granblue Fantasy: Relink, Fire Emblem: Fortune's Weave, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-september-5-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-05T15:45:43+00:00"
     },
     {
       "id": "cf3f31ecf2817037c53f463f",
@@ -407,72 +473,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-04T21:50:00+00:00"
-    },
-    {
-      "id": "2cf1ead5252beb74ca5bd573",
-      "title": "Spider-Noir Canceled at Prime Video After One Season",
-      "summary": "Amazon's Prime Video has canceled Nicolas Cage's Spider-Noir after just one season.",
-      "url": "https://www.ign.com/articles/spider-noir-canceled-at-prime-video-after-one-season",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T21:35:39+00:00"
-    },
-    {
-      "id": "f1f9d6f8e32594467b0e6899",
-      "title": "Tetris Responds After Trump Administration Launches 'Build the Wall' Clone Game",
-      "summary": "Official Tetris pages have responded after the Trump administration launched a clone video game called 'Build the Wall.'",
-      "url": "https://www.ign.com/articles/tetris-responds-after-trump-administration-launches-build-the-wall-clone-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T21:10:54+00:00"
-    },
-    {
-      "id": "e2eaa08a061acb0a8e67672a",
-      "title": "Hideki Kamiya Isn't Fussed About the Physical vs. Digital Debate – He Just Wants Games to Be Preserved for Future Generations",
-      "summary": "Hideki Kamiya, creator of Bayonetta and director of Resident Evil 2, says he isn’t too fussed about physical vs digital games; instead, he’s more concerned with preserving games for players to enjoy in the future.",
-      "url": "https://www.ign.com/articles/hideki-kamiya-isnt-fussed-about-the-physical-vs-digital-debate-he-just-wants-games-to-be-preserved-for-future-generations",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T20:47:46+00:00"
-    },
-    {
-      "id": "4e090ef1d6fc575918f01f6b",
-      "title": "9 Game and Movie Trailers Worth Watching This Week",
-      "summary": "Street Fighter, Stranger Than Heaven, buzzy festival movies, horror schlock, a super-stylish indie, and more.",
-      "url": "https://www.ign.com/articles/9-game-and-movie-trailers-this-week-august-29-september-4",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T20:25:26+00:00"
-    },
-    {
-      "id": "182294d985d8fbb052b2105b",
-      "title": "How to Watch Free Movies and TV Shows on Your PS5",
-      "summary": "",
-      "url": "https://www.ign.com/articles/how-to-watch-free-movies-and-tv-shows-on-ps5",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T19:50:59+00:00"
-    },
-    {
-      "id": "c73617912e04410cd656fef1",
-      "title": "Rockstar Censors GTA 6 Extended Look Trailer for China",
-      "summary": "Rockstar Games has published a heavily censored version of the Grand Theft Auto 6 extended look reveal for China.",
-      "url": "https://www.ign.com/articles/rockstar-censors-gta-6-extended-look-trailer-for-china",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T19:48:54+00:00"
     },
     {
       "id": "b30e320ecf1e5b5cb661a6fe",
