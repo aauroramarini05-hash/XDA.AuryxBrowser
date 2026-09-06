@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-06T09:56:36.594841+00:00",
+  "updatedAt": "2026-09-06T13:21:12.846139+00:00",
   "items": [
+    {
+      "id": "a367c512f46b758d7dff2f46",
+      "title": "US envoys meet Zelensky in Ukraine after meeting Putin in Russia",
+      "summary": "Steve Witkoff and Jared Kushner arrive in Kyiv, having held talks with Putin in Moscow on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-06T13:16:21+00:00"
+    },
+    {
+      "id": "0ff1c81d83f3b61d39229b27",
+      "title": "What different world maps get right - and what they get wrong",
+      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-06T12:09:54+00:00"
+    },
+    {
+      "id": "5dce8f088bb0d3a368526219",
+      "title": "Skytech Gaming Blaze 5 Review",
+      "summary": "The Skytech Gaming Blaze 5 is packed with strong mid-tier components in a sleek glassy tower, but there are a few issues that’ll impact your quality of life.",
+      "url": "https://www.ign.com/articles/skytech-gaming-blaze-5-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-06T12:00:00+00:00"
+    },
+    {
+      "id": "ae5fe5906a6054eca5ef0cdf",
+      "title": "« La Chine ne détrônera pas les Etats-Unis en tant que puissance mondiale »",
+      "summary": "Dan Wang, chercheur canado-chinois vivant aux Etats-Unis, consacre aux deux puissances rivales un nouvel ouvrage, intitulé « La Chine à toute vitesse ». Dans un entretien au « Monde », il détaille ce qui les sépare, mais aussi ce qui les réunit.",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/06/la-chine-ne-detronera-pas-les-etats-unis-en-tant-que-puissance-mondiale_6767228_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-06T10:00:14+00:00"
+    },
+    {
+      "id": "283f3b82a087902c46b72dcc",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-06T09:56:39+00:00"
+    },
     {
       "id": "da72c1042924bb485a677200",
       "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
@@ -13,17 +68,6 @@
       "publishedAt": "2026-09-06T08:05:22+00:00"
     },
     {
-      "id": "51bf9cf70467b1e5727fcc7f",
-      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-      "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-06T07:06:50+00:00"
-    },
-    {
       "id": "521edf0836cd3481323e1fae",
       "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
       "summary": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
@@ -33,17 +77,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-06T06:04:51+00:00"
-    },
-    {
-      "id": "d64ee9e59f3ca6c37b44d1f6",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
-      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-06T02:24:16+00:00"
     },
     {
       "id": "4793dd9228b3e6d6213cdaf0",
@@ -198,17 +231,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-05T16:38:24+00:00"
-    },
-    {
-      "id": "0ff1c81d83f3b61d39229b27",
-      "title": "What different world maps get right - and what they get wrong",
-      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-05T16:14:24+00:00"
     },
     {
       "id": "eaa95421989296644eeaaebc",
@@ -530,17 +552,6 @@
       "publishedAt": "2026-09-04T23:02:00+00:00"
     },
     {
-      "id": "729bbb0e33c22a1369e389e3",
-      "title": "Save $400 Off the Asus ROG Flow Z13 Convertible, the Only Decent Gaming Laptop Deal for Labor Day",
-      "summary": "This 2.56 pound convertible is more powerful than the Xbox Ally X20.",
-      "url": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-04T22:50:00+00:00"
-    },
-    {
       "id": "f3f844f2e15d008185efcd77",
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
       "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
@@ -814,17 +825,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-03T15:00:01+00:00"
-    },
-    {
-      "id": "196c740a73598dd65ab22cc4",
-      "title": "L’influenceuse d’extrême droite Mila relaxée en appel pour une raison de procédure après un tweet raciste",
-      "summary": "L’avocat général, tout en établissant la matérialité des injures racistes, avait requis la relaxe pour un problème de procédure sur la qualification des faits. Le parquet avait retenu des injures visant nominativement le plaignant, alors que c’est l’ensemble de la communauté maghrébine qui était visée.",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/03/l-influenceuse-mila-relaxee-en-appel-pour-une-raison-de-procedure-apres-un-tweet-raciste_6765166_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-03T14:42:00+00:00"
     },
     {
       "id": "8694b5c07ba265ee6fbcda7a",
