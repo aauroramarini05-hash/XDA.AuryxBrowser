@@ -1,16 +1,82 @@
 {
-  "updatedAt": "2026-09-09T00:53:35.504454+00:00",
+  "updatedAt": "2026-09-09T05:34:58.416502+00:00",
   "items": [
     {
-      "id": "d50f98474a7c8445bfdf3516",
-      "title": "US slaps import ban on Canadian alcohol and other goods",
-      "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+      "id": "caf460de7fc4f9b7e8202f70",
+      "title": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
+      "summary": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
+      "url": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-09T04:32:02+00:00"
+    },
+    {
+      "id": "391fa2337ccab81ec99f0a9f",
+      "title": "Hong Kong's first leader after British handover dies",
+      "summary": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-09T04:24:30+00:00"
+    },
+    {
+      "id": "2e3ae9225fc26aa7c9ca40a2",
+      "title": "Hands on: Tianji: Shadow of the Ancients",
+      "summary": "Hands on: Tianji: Shadow of the Ancients",
+      "url": "https://www.ign.com/articles/hands-on-tianji-shadow-of-the-ancients",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-09T04:24:22+00:00"
+    },
+    {
+      "id": "baa4cdf646d7870c82507511",
+      "title": "Sur Facebook, le lucratif business des contenus réactionnaires générés par IA",
+      "summary": "Des centaines de pages comportant des contenus d’extrême droite sont publiées à destination du public français, au Sri Lanka, en Algérie ou au Venezuela, et obtiennent des audiences massives dans un but lucratif.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/09/sur-facebook-le-lucratif-business-des-contenus-reactionnaires-generes-par-ia_6768826_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-09T04:00:02+00:00"
+    },
+    {
+      "id": "9a035e0eabef6bab9ca3ecfb",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-09T00:31:31+00:00"
+      "publishedAt": "2026-09-09T03:03:32+00:00"
+    },
+    {
+      "id": "a37c5cf64bf88416bcf700b5",
+      "title": "Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners",
+      "summary": "Netflix is adapting Larry McMurtry’s iconic Western novel Lonesome Dove into a new TV series from East of Eden co-showrunners Zoe Kazan and Jeb Stuart.",
+      "url": "https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-09T02:50:01+00:00"
+    },
+    {
+      "id": "3a9616385e030bca58f8bed5",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-09T01:45:15+00:00"
     },
     {
       "id": "2c230646b1e58787c62d2dde",
@@ -288,17 +354,6 @@
       "publishedAt": "2026-09-08T20:15:00+00:00"
     },
     {
-      "id": "5f721b33a86cbd1ea05ffb75",
-      "title": "Call of Duty Adds Doom Slayer Skin as Part of New Halloween Update",
-      "summary": "Call of Duty's upcoming Halloween event will add the Doom Slayer as a playable operator to the game.",
-      "url": "https://www.ign.com/articles/call-of-duty-adds-doom-slayer-skin-as-part-of-new-halloween-update",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-08T20:04:00+00:00"
-    },
-    {
       "id": "320557d1cda7ccf9e1d53222",
       "title": "Tech Life",
       "summary": "Scammers demand money from Instagram users over fake copyright claims.",
@@ -308,39 +363,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-08T20:00:00+00:00"
-    },
-    {
-      "id": "07c2207555ca96124b1df666",
-      "title": "Nintendo Intentionally Included Loading Screens in The Legend of Zelda: Ocarina of Time Remake, and Fans Are Torn",
-      "summary": "Nintendo has confirmed it intentionally included loading screens in its The Legend of Zelda: Ocarina of Time remake to \"preserve the essence of the original game,\" and the internet isn't in love with the idea.",
-      "url": "https://www.ign.com/articles/nintendo-intentionally-included-loading-screens-in-the-legend-of-zelda-ocarina-of-time-remake-and-fans-are-torn",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-08T19:24:45+00:00"
-    },
-    {
-      "id": "c1ff3b760899b4f2f0ee99ca",
-      "title": "The Live-Action Moana’s 4K Steelbook Is Now Up for Preorder – Here’s Where You Can Grab It",
-      "summary": "2026's live-action Moana is making its way to a physical format with a 4K steelbook alongside regular 4K and Blu-ray releases. Here's where you can preorder them, and what bonus features this release comes with.",
-      "url": "https://www.ign.com/articles/moana-2026-live-action-4k-steelbook-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-08T19:12:33+00:00"
-    },
-    {
-      "id": "3a9616385e030bca58f8bed5",
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-08T19:11:39+00:00"
     },
     {
       "id": "fac618669f8336a52d8e6652",
@@ -506,17 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-08T13:35:28+00:00"
-    },
-    {
-      "id": "81bbda934a67435f05df595a",
-      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "summary": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
-      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-08T11:38:07+00:00"
     },
     {
       "id": "413fd8e43a4ffb76304519bf",
@@ -836,17 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-05T08:00:09+00:00"
-    },
-    {
-      "id": "ca7e473da2b6f29a87780205",
-      "title": "OpenAI : des agents IA ont détourné un site Internet plusieurs mois avant le piratage d’Hugging Face, selon des chercheurs",
-      "summary": "Ces agents avaient l’autorisation de se rendre sur Internet, mais uniquement à des fins de consultation, pas pour poster du contenu ou en modifier. OpenAI dit « étudier » le rapport, diffusé par un collectif indépendant.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/05/openai-des-agents-ia-ont-detourne-un-site-internet-plusieurs-mois-avant-le-piratage-d-hugging-face-selon-des-chercheurs_6766242_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-05T06:25:06+00:00"
     },
     {
       "id": "f2847cd85e2011d178553593",
