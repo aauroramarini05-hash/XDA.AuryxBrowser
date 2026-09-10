@@ -1,16 +1,236 @@
 {
-  "updatedAt": "2026-09-10T07:39:32.251936+00:00",
+  "updatedAt": "2026-09-10T12:31:00.044061+00:00",
   "items": [
     {
-      "id": "89a6199d16f2aa9be69beda0",
-      "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+      "id": "7c13682f6cf23989c15f2d18",
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-10T12:24:54+00:00"
+    },
+    {
+      "id": "d88b049bafd0ed43e92034b2",
+      "title": "Metroid Ravenous UK Preorders Are Live in the UK, Including the £100 Special Edition",
+      "summary": "Metroid Ravenous UK preorders are now live on Nintendo Switch 2. Here is where to secure the physical Special Edition, new amiibo figures, and standard copies.",
+      "url": "https://www.ign.com/articles/metroid-ravenous-uk-preorder-guide",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T12:10:54+00:00"
+    },
+    {
+      "id": "cb851abe7f1fb82ebec54c7e",
+      "title": "Final Fantasy 7 Revelation: Our Big Interview with Director Naoki Hamaguchi and Battle Director Teruki Endo",
+      "summary": "We asked the directors about physical media, how they chose the finale's subtitle, and more.",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-our-big-interview-with-director-naoki-hamaguchi-and-battle-director-teruki-endo",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T12:00:00+00:00"
+    },
+    {
+      "id": "974f2891295fe39215a08659",
+      "title": "Final Fantasy VII Revelation Director Explains Why the Physical Disc Version Requires a Download to Play",
+      "summary": "Final Fantasy VII Revelation director Naoki Hamaguchi has offered an explanation for why the physical disc version of the game on PlayStation 5 and Xbox requires a download to play.",
+      "url": "https://www.ign.com/articles/final-fantasy-vii-revelation-director-explains-why-the-physical-disc-version-requires-a-download-to-play",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T12:00:00+00:00"
+    },
+    {
+      "id": "02e395fdbe65803331e17a4e",
+      "title": "Playing Final Fantasy 7 Revelation Reminded Me of Its Best-in-Class Combat, But It Needs to Stay Focused | IGN Preview",
+      "summary": "The predominant feeling I came away with, however, is that maybe Revelation is getting carried away with stuffing its world with side content for the sake of it. Perhaps that's a symptom of trying to pack as much as possible in an hour-long demo window, but at least I know that Revelation seems to be upholding FF7's title as having my absolute favo",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-hands-on-preview-best-in-class-combat-but-needs-to-stay-focused-why-we-love-ff7",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T12:00:00+00:00"
+    },
+    {
+      "id": "1eaf491bea78c1f4dc1af234",
+      "title": "Runner Review",
+      "summary": "Runner is a paint-by-numbers action-comedy that benefits from Alan Ritchson’s well-practiced stunt craft as well as Owen Wilson’s likable comedic stylings.",
+      "url": "https://www.ign.com/articles/runner-movie-review-alan-ritchson-owen-wilson",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T12:00:00+00:00"
+    },
+    {
+      "id": "0fd4bf18292273453137defb",
+      "title": "The Developers of Upcoming 'Espresso MOBA' Project Zeta Want It to Feel Like a Formula 1 Race",
+      "summary": "Project Zeta is a mashup of multiple live-service genres, but for developer Nirvanana, it’s best described as an “espresso MOBA.”",
+      "url": "https://www.ign.com/articles/the-developers-of-upcoming-espresso-moba-project-zeta-want-it-to-feel-like-a-formula-1-race",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T11:02:58+00:00"
+    },
+    {
+      "id": "33cc66b93d2b43e47049a196",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Is Already $10 Off at Amazon and Walmart",
+      "summary": "Preorder your physical copy of The Legend of Zelda: Ocarina of Time for Switch 2 at Amazon or Walmart to save $10 and secure the limited edition foil cover art as well.",
+      "url": "https://www.ign.com/articles/zelda-ocarina-of-time-remake-preorder-discount",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T10:59:47+00:00"
+    },
+    {
+      "id": "7fabfb83d139c3b9193f551c",
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-10T10:46:24+00:00"
+    },
+    {
+      "id": "3f0d990422aacf981414a366",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-10T10:43:53+00:00"
+    },
+    {
+      "id": "92e4c282a89da42ed2fbc849",
+      "title": "Walmart’s Dropped the LEGO Ideas Mineral Collection Down to $40 During Its Bricktember Sale",
+      "summary": "During its Bricktember sale event, Walmart has knocked the LEGO Ideas Mineral Collection down to $40. That saves you $19.99 compared to paying full price.",
+      "url": "https://www.ign.com/articles/walmarts-dropped-the-lego-ideas-mineral-collection-down-to-40-during-its-bricktember-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T10:26:14+00:00"
+    },
+    {
+      "id": "fa41dec45713e34cc9315f8c",
+      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
       "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
       "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-10T06:56:38+00:00"
+      "publishedAt": "2026-09-10T10:07:19+00:00"
+    },
+    {
+      "id": "12f0e5910c1cd2e983f7257c",
+      "title": "LEGO Astro Bot Set Leaks, Though It Won't Be Available as a Standalone Purchase",
+      "summary": "LEGO will soon launch an adorable Astro Bot set, though you won't be able to pick it up as a standalone purchase.",
+      "url": "https://www.ign.com/articles/lego-astro-bot-set-leaks-though-it-wont-be-available-as-a-standalone-purchase",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T10:00:52+00:00"
+    },
+    {
+      "id": "0f3b1b2ab0a2f978065314da",
+      "title": "« L’opinion publique a une longueur d’avance sur le discours médiatique relatif à l’IA »",
+      "summary": "Tandis que les discours, tantôt technophiles, tantôt alarmistes, sur l’intelligence artificielle saturent les médias, les opinions publiques occidentales se révèlent très pragmatiques quant à la conduite à adopter, note le sociologue Tibor Dessewffy, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/10/l-opinion-publique-a-une-longueur-d-avance-sur-le-discours-mediatique-relatif-a-l-ia_6769732_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-10T10:00:10+00:00"
+    },
+    {
+      "id": "4d740af0c07472551d625200",
+      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+      "summary": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-10T09:35:46+00:00"
+    },
+    {
+      "id": "8a12a1e9147d4d30ce39f3b5",
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-10T09:32:34+00:00"
+    },
+    {
+      "id": "a8ce8def0b202f5835401faf",
+      "title": "GTA 6 Developer Rockstar Says It Will Defend Itself 'Vigorously' From Union Claims as Employment Tribunal Over the Firing of 31 Workers Gets Underway",
+      "summary": "GTA 6 developer Rockstar Games has issued a new statement as it heads to an employment tribunal to face allegations that it unlawfully fired 31 workers.",
+      "url": "https://www.ign.com/articles/gta-6-developer-rockstar-says-it-will-defend-itself-vigorously-from-union-claims-as-employment-tribunal-over-the-firing-of-31-workers-gets-underway",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T09:08:53+00:00"
+    },
+    {
+      "id": "538575e7fedc8073aebdbcad",
+      "title": "GTA 6 DualSense Controller Preorders Are Now Live in the UK",
+      "summary": "Secure your GTA 6 DualSense controller in the UK. Preorders are live for both Vice City-themed PS5 controllers starting at £74.99.",
+      "url": "https://www.ign.com/articles/gta-6-dualsense-controller-preorders-are-now-live-in-the-uk",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T09:06:01+00:00"
+    },
+    {
+      "id": "1a2d5f17145d0b4232b574b3",
+      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+      "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-10T08:44:19+00:00"
+    },
+    {
+      "id": "47780f8020fdb85ac1661ca6",
+      "title": "Nintendo Switch and Switch 2 System Update 23.0.0 Released — Here Are the Full Patch Notes",
+      "summary": "Nintendo has released a fresh firmware update, adding VRR support to Switch 2.",
+      "url": "https://www.ign.com/articles/nintendo-switch-and-switch-2-system-update-2300-released-here-are-the-full-patch-notes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-10T08:42:57+00:00"
+    },
+    {
+      "id": "340a8496a6748f8800e967e6",
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-10T07:12:32+00:00"
     },
     {
       "id": "6fef46228cea8817d0708a8d",
@@ -24,19 +244,8 @@
       "publishedAt": "2026-09-10T06:30:19+00:00"
     },
     {
-      "id": "3f0d990422aacf981414a366",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-10T05:56:38+00:00"
-    },
-    {
-      "id": "b62f785d7a95c72f01eb9191",
-      "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
+      "id": "bb841c2c00c06ee309fd3866",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
       "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
       "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -134,6 +343,17 @@
       "publishedAt": "2026-09-10T00:30:00+00:00"
     },
     {
+      "id": "9dca44a97d8b7c97ead4338d",
+      "title": "Why some experts increasingly fear AI will take over",
+      "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-09T23:17:33+00:00"
+    },
+    {
       "id": "f8af1d4ed444d397f4bdb2cf",
       "title": "If I Were to Buy a (Near) 100\" TV Right Now, I Would Get TCL's QM8L SQD Mini-LED TV Over OLED",
       "summary": "Better than OLED and better than home theater projectors.",
@@ -178,48 +398,26 @@
       "publishedAt": "2026-09-09T22:32:07+00:00"
     },
     {
-      "id": "53e12d347c245f98ea32c465",
-      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-      "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+      "id": "39f2a9d60df659a1bd7fd309",
+      "title": "American football is coming to Australia - can it succeed?",
+      "summary": "The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under.",
+      "url": "https://www.bbc.co.uk/news/articles/crerv93pv9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-09T22:29:13+00:00"
+    },
+    {
+      "id": "37e5d802631b1d8580b8ea72",
+      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
+      "summary": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
       "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-09T22:17:22+00:00"
-    },
-    {
-      "id": "b0bf1fc14b8889f8836168ac",
-      "title": "Some of the Best Batman Movies Are Returning to Theaters This Month",
-      "summary": "Three fan-favorite Batman movies are being re-released in theaters next week in celebration of Batman Day.",
-      "url": "https://www.ign.com/articles/some-of-the-best-batman-movies-are-returning-to-theaters-this-month",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T22:14:03+00:00"
-    },
-    {
-      "id": "4736f5e9c0fccb0da962fb43",
-      "title": "Redwall's 23rd and Final Book Is Finally Getting Published After 16 Years",
-      "summary": "The 23rd and final novel in Brian Jacques’ Redwall series will be published in September 2027, putting an end to the beloved saga after 41 years.",
-      "url": "https://www.ign.com/articles/redwalls-23rd-and-final-book-is-finally-getting-published-after-16-years",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T21:43:47+00:00"
-    },
-    {
-      "id": "2fd20d8f4068975d318ee8a5",
-      "title": "Amazon Has a Dual Motor Electric Standing Desk Frame for Just $99, Just Bring Your Own Desktop",
-      "summary": "The simplest way to get a premium standing desk for a dirt cheap price.",
-      "url": "https://www.ign.com/articles/dual-motor-electric-standing-desk-frame-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T21:40:00+00:00"
     },
     {
       "id": "86c4583a15007e8da652394c",
@@ -233,125 +431,15 @@
       "publishedAt": "2026-09-09T21:23:45+00:00"
     },
     {
-      "id": "6c707b63639b41f8f4ca721b",
-      "title": "Michael Mann Recuts Miami Vice for October Beyond Fest World Premiere",
-      "summary": "Writer-director Michael Mann is taking another crack at his 2006 film, Miami Vice. Miami Vice: Director’s Final Cut will make its world premiere at Beyond Fest in Los Angeles on October 3, 2026.",
-      "url": "https://www.ign.com/articles/miami-vice-directors-final-cut-october-premiere",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T21:05:31+00:00"
-    },
-    {
-      "id": "393bd125135cdc2583042c1c",
-      "title": "Marvel's Guardians of the Galaxy's Surprise Switch 2 Port Has Some Fans Hoping for a Sequel",
-      "summary": "Marvel's Guardians of the Galaxy has re-emerged, five years after its release, with a new Switch 2 version... and some fans hope it could lead to a sequel.",
-      "url": "https://www.ign.com/articles/marvels-guardians-of-the-galaxys-surprise-switch-2-port-has-some-fans-hoping-for-a-sequel",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T20:41:27+00:00"
-    },
-    {
-      "id": "50079db7905d258c7838e23c",
-      "title": "Onimusha: Way of the Sword Is Getting an Official Prequel Webtoon With New Chapters Every Saturday",
-      "summary": "",
-      "url": "https://www.ign.com/articles/onimusha-way-of-the-sword-is-getting-an-official-prequel-webtoon-with-new-chapters-every-saturday",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T20:29:42+00:00"
-    },
-    {
-      "id": "e150769caf3ace232816157f",
-      "title": "How Many Guest Characters Is Too Many? Tokyo Revengers X City of the Wolves Collaboration Sparks Fighting Game Debate",
-      "summary": "The fighting game community is in the middle of a fierce debate over the amount of guest characters coming to Fatal Fury: City of the Wolves.",
-      "url": "https://www.ign.com/articles/how-many-guest-characters-is-too-many-tokyo-revengers-x-city-of-the-wolves-collaboration-sparks-fighting-game-debate",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T20:29:35+00:00"
-    },
-    {
-      "id": "dfb8dc988d1d8c48b768eff4",
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "id": "b72347fa87e8f89cde90b5df",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-09T20:28:04+00:00"
-    },
-    {
-      "id": "f4d8996202ea50a9c7b40936",
-      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T20:00:33+00:00"
-    },
-    {
-      "id": "44b26edb2612d71a0edf2ad4",
-      "title": "Here’s When You Can Preorder iPhone Duo, 18 Pro, AirPods 5, and More",
-      "summary": "Everything you need to know to preorder the new Apple products, including iPhone Duo, AirPods 5, and more.",
-      "url": "https://www.ign.com/articles/preorder-iphone-duo-18-pro-airpods-5-and-more",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T19:58:20+00:00"
-    },
-    {
-      "id": "9ec3d0ad5881d468e652313d",
-      "title": "Ace Combat 8 Dev Says Tasha Was the Game's 'Most Expensive' Character to Design",
-      "summary": "Ace Combat 8: Wings of Theve Brand Director Kazutoki Kono says developers spent so long working on Tasha that she ended up being the “most expensive character” in the entire game.",
-      "url": "https://www.ign.com/articles/ace-combat-8-dev-says-tasha-was-the-games-most-expensive-character-to-design",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T19:46:22+00:00"
-    },
-    {
-      "id": "0067981f9dead4bd2713274f",
-      "title": "Walmart Has a Great Nintendo Switch 2 Console Deal for Anyone Not Interested in Getting the Zelda Edition",
-      "summary": "Pre price hike.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T19:45:00+00:00"
-    },
-    {
-      "id": "fa5b675c9c3d4d581ad3d018",
-      "title": "Apple Announces Foldable iPhone Duo",
-      "summary": "After years of it being rumored, Apple has finally revealed a foldable iPhone, the iPhone Duo at the company's \"Surprise and Shine\" September event. Here's all the camera details, performance specs, and UI improvements Apple is packing into its newest device.",
-      "url": "https://www.ign.com/articles/apple-announces-foldable-iphone-duo",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T19:20:10+00:00"
-    },
-    {
-      "id": "0a6828e85d9be824c8316b38",
-      "title": "Attack on Titan Is Coming to 4DX Theaters, but There's a Catch",
-      "summary": "Attack on Titan is coming to theaters this fall, bringing the beginning of Hajime Isayama’s groundbreaking story and its harrowing end to 4DX and ScreenX cinemas in Japan.",
-      "url": "https://www.ign.com/articles/attack-on-titan-is-coming-to-4dx-theaters-but-theres-a-catch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-09T19:14:14+00:00"
+      "publishedAt": "2026-09-09T21:21:13+00:00"
     },
     {
       "id": "fc9ad1e0e8b6bd2789cb819f",
@@ -365,15 +453,15 @@
       "publishedAt": "2026-09-09T19:10:06+00:00"
     },
     {
-      "id": "970444652fc7ff00f73ab65e",
-      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-      "summary": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
-      "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+      "id": "5150c426f1588ec9be59f387",
+      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+      "summary": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
+      "url": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-09T18:27:35+00:00"
+      "publishedAt": "2026-09-09T19:09:13+00:00"
     },
     {
       "id": "729ccf95d57390b1f9bcb877",
@@ -387,17 +475,6 @@
       "publishedAt": "2026-09-09T17:06:48+00:00"
     },
     {
-      "id": "bf010a79e6e3ddb3afbe50ff",
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T16:46:53+00:00"
-    },
-    {
       "id": "cc63efd58be21ef9e2c029ba",
       "title": "Watch: Norway bids farewell to King Harald",
       "summary": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
@@ -407,17 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-09T16:36:45+00:00"
-    },
-    {
-      "id": "bff07fbd8e199ec301f0f521",
-      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-      "summary": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T16:33:49+00:00"
     },
     {
       "id": "5838ab2ee4ceca2a11103553",
@@ -453,17 +519,6 @@
       "publishedAt": "2026-09-09T15:34:09+00:00"
     },
     {
-      "id": "1a2d5f17145d0b4232b574b3",
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
-      "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T15:01:58+00:00"
-    },
-    {
       "id": "857ce05d6d348d4a43926c43",
       "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
       "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
@@ -473,50 +528,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-09T12:06:40+00:00"
-    },
-    {
-      "id": "acf747489cb8b6629a8fda16",
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "summary": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T11:29:59+00:00"
-    },
-    {
-      "id": "db9aaab7d3c40fed0ca32801",
-      "title": "Colombia's new president loosens gun control rules",
-      "summary": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T11:01:41+00:00"
-    },
-    {
-      "id": "e957189caf09afd1308255b8",
-      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T10:20:40+00:00"
-    },
-    {
-      "id": "49633309589b5142b370bee4",
-      "title": "Family of killed teen call for death penalty in D4vd trial",
-      "summary": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-      "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T09:58:48+00:00"
     },
     {
       "id": "9240dc93591a6b390f562e2e",
@@ -552,17 +563,6 @@
       "publishedAt": "2026-09-09T09:00:08+00:00"
     },
     {
-      "id": "ed5a84b712a270dd51f75bba",
-      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-      "summary": "The billion dollar payout marks the largest divorce settlement in the country's history.",
-      "url": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T08:21:39+00:00"
-    },
-    {
       "id": "1dedf62315dc09fdfb09c1f3",
       "title": "« Les gens qui construisent l’IA croient qu’elle pourrait tous nous tuer d’ici à la fin de la décennie » : le chercheur Jacob Coxon, qui a travaillé pour Anthropic et OpenAI, quitte l’industrie",
       "summary": "« Aucune des deux entreprises n’agit de manière responsable », a écrit le Britannique de 27 ans sur X. Il travaillait depuis trois ans sur le pré-entraînement des modèles d’intelligence artificielle, étape où ces derniers absorbent d’immenses quantités de données.",
@@ -572,39 +572,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-09T07:54:30+00:00"
-    },
-    {
-      "id": "b3d9452685dabb727a9afa6e",
-      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-      "summary": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T07:44:20+00:00"
-    },
-    {
-      "id": "d1b6118e60da8338f904a27e",
-      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T06:42:01+00:00"
-    },
-    {
-      "id": "391fa2337ccab81ec99f0a9f",
-      "title": "Hong Kong's first leader after British handover dies",
-      "summary": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
-      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-09T04:24:30+00:00"
     },
     {
       "id": "0f5895b6da18a82ad6997cf0",
@@ -640,28 +607,6 @@
       "publishedAt": "2026-09-08T23:27:23+00:00"
     },
     {
-      "id": "1f790b0358554aaf156674ae",
-      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
-      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-08T23:11:41+00:00"
-    },
-    {
-      "id": "b5583ce292f54ee27ed684eb",
-      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-      "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-08T23:11:32+00:00"
-    },
-    {
       "id": "b001becee90901692417e564",
       "title": "Should promotion depend on how workers use AI?",
       "summary": "More companies are tying career progression to AI use: is that fair?",
@@ -671,17 +616,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-08T23:05:23+00:00"
-    },
-    {
-      "id": "fbda4d6ec675e5fc8de5877c",
-      "title": "British-Israeli relations at lowest ebb in decades",
-      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-08T21:46:31+00:00"
     },
     {
       "id": "40dd559c55e59f6693592674",
@@ -761,17 +695,6 @@
       "publishedAt": "2026-09-08T11:35:24+00:00"
     },
     {
-      "id": "83d14718876bf85fc899838a",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-08T11:09:54+00:00"
-    },
-    {
       "id": "52e595306360574c40fc6ec8",
       "title": "Emmanuel Macron demande à Ursula von der Leyen une interdiction européenne des réseaux sociaux aux moins de 15 ans",
       "summary": "La présidente de la Commission européenne, qui a promis des propositions après l’été, a dit envisager un accès progressif et gradué pour différentes classes d’âge. Elle abordera le sujet à l’occasion de son discours sur l’état de l’Union, le 16 septembre.",
@@ -825,17 +748,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-08T04:00:01+00:00"
-    },
-    {
-      "id": "a8a4d263558f6dd0c91657a9",
-      "title": "A food safety officer has become a social media star in India - why?",
-      "summary": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
-      "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-07T23:40:39+00:00"
     },
     {
       "id": "49520848b801a9d95e63f62e",
@@ -913,17 +825,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-07T05:00:09+00:00"
-    },
-    {
-      "id": "280995fd7bebcee4214eeb08",
-      "title": "Face au déferlement des affiches utilisant l’IA, la résistance en ligne s’organise",
-      "summary": "Programmes de kermesses, menus de restaurants, annonces de concerts… Les affiches générées par intelligence artificielle ont fleuri dans l’espace public cet été. Une prolifération dénoncée en ligne, en particulier chez les graphistes professionnels, et qui traduit un mouvement plus profond de défiance face à ces technologies.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/07/face-au-deferlement-des-affiches-utilisant-l-ia-dans-l-espace-public-la-resistance-en-ligne-s-organise_6767774_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-07T04:30:09+00:00"
     },
     {
       "id": "f2847cd85e2011d178553593",
