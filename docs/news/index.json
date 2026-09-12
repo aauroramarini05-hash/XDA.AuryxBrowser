@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-12T19:53:40.221244+00:00",
+  "updatedAt": "2026-09-12T21:50:11.358504+00:00",
   "items": [
+    {
+      "id": "4bf2cec9c1ac3098d1915fa7",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-12T21:25:28+00:00"
+    },
+    {
+      "id": "f3fe0f6e7a4c13caabec7d1d",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-12T21:16:47+00:00"
+    },
+    {
+      "id": "6bf1be97dfc10b24bb7b0533",
+      "title": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
+      "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
+      "url": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T21:05:26+00:00"
+    },
+    {
+      "id": "d4ffe7310daa8120bcda78c3",
+      "title": "Overwatch Reveals First Look at New Omnic Hero Coming Later This Year",
+      "summary": "Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago.",
+      "url": "https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T20:28:58+00:00"
+    },
+    {
+      "id": "8aba7620bf27bf1edacfad11",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-12T20:27:25+00:00"
+    },
+    {
+      "id": "d209c653e301d3c041e26069",
+      "title": "Diablo 5 Forging the Next Era Panel: Everything Announced (Updating Live)",
+      "summary": "BlizzCon 2026 came with a lot of surprises, but few were as big as the Diablo 5 reveal – and we're about to learn even more.",
+      "url": "https://www.ign.com/articles/diablo-5-forging-the-next-era-panel-everything-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T19:56:50+00:00"
+    },
+    {
+      "id": "6652e132b71b1acf16aa7535",
+      "title": "X-Men Star Inde Navarrette Teases Her Plan to Nail Rogue’s Southern Accent",
+      "summary": "Obsession breakout Inde Navarrette already has a plan to make sure she nails Rogue's iconic Southern accent in the new X-Men movie.",
+      "url": "https://www.ign.com/articles/x-men-star-inde-navarrette-teases-her-plan-to-nail-rogues-southern-accent",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T19:44:21+00:00"
+    },
     {
       "id": "2d5b810799f54e6c32193eae",
       "title": "Fire at nursing home in Chile kills 16 residents",
@@ -88,17 +165,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-12T17:43:35+00:00"
-    },
-    {
-      "id": "f3fe0f6e7a4c13caabec7d1d",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-12T17:42:38+00:00"
     },
     {
       "id": "f22c29b6b349a3bbe7d0ddbc",
@@ -244,17 +310,6 @@
       "publishedAt": "2026-09-12T14:07:00+00:00"
     },
     {
-      "id": "f133990943d5773e0476f6cd",
-      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T13:56:20+00:00"
-    },
-    {
       "id": "46d16f79f4beb230d1b98b1c",
       "title": "Is Lanterns Hiding a Major Batman Connection?",
       "summary": "We may have yet to meet Batman in the DCU, but one character on Lanterns seemingly shares a major connection to the Dark Knight.",
@@ -288,28 +343,6 @@
       "publishedAt": "2026-09-12T13:00:32+00:00"
     },
     {
-      "id": "e1012287c39f008133af7780",
-      "title": "How a VFX Controversy Propelled the Strange Journey of Na Hong-Jin's Sci-Fi Blockbuster Hope",
-      "summary": "Ten years after The Wailing, director Na Hong-jin has returned with a wild alien movie that's been marketed to every corner of film fandom — and the effort is paying off.",
-      "url": "https://www.ign.com/articles/how-a-vfx-controversy-propelled-the-strange-journey-of-na-hong-jins-sci-fi-blockbuster-hope",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T13:00:00+00:00"
-    },
-    {
-      "id": "7c663ee97cd3e9b1749781c3",
-      "title": "Zeverland Game Designer Discusses Its Unique Take on the Zombie Apocalypse",
-      "summary": "",
-      "url": "https://www.ign.com/articles/zeverland-game-designer-discusses-its-unique-take-on-the-zombie-apocalypse",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T13:00:00+00:00"
-    },
-    {
       "id": "b67d2f7e7811274f81fbb1fc",
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
@@ -321,17 +354,6 @@
       "publishedAt": "2026-09-12T12:15:50+00:00"
     },
     {
-      "id": "c31b00ca4005aca097e02827",
-      "title": "Physint Could Be Xbox's Biggest Gamble Yet",
-      "summary": "Microsoft's Physint hijack is by no means a guaranteed victory, and could be Xbox's biggest gamble yet.",
-      "url": "https://www.ign.com/articles/physint-could-be-xboxs-biggest-gamble-yet",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T12:00:00+00:00"
-    },
-    {
       "id": "df8bad706f750d87a55afcf6",
       "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
       "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
@@ -341,17 +363,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-12T10:00:05+00:00"
-    },
-    {
-      "id": "83b50e30809df893d6394dea",
-      "title": "Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview",
-      "summary": "It wasn't realistic to get a full picture of Planet Zoo 2 from the short time I had with it in this first hands-on, especially when it comes to the business tycoon side, but I'm pretty optimistic overall. I counted 49 species in the encyclopedia, from jellyfish to giraffes, from a variety of environments and biomes. And the ones I got to see in the",
-      "url": "https://www.ign.com/articles/planet-zoo-2-puts-you-right-down-into-the-wild-with-your-animals-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T09:00:00+00:00"
     },
     {
       "id": "df58916b1a598e94b04aaa38",
@@ -440,17 +451,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-12T01:00:00+00:00"
-    },
-    {
-      "id": "3d445716c9d177bb3761a693",
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T00:43:00+00:00"
     },
     {
       "id": "b4691d7708e5f5e0a120ad84",
