@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-09-12T17:32:42.561503+00:00",
+  "updatedAt": "2026-09-12T19:53:40.221244+00:00",
   "items": [
     {
-      "id": "14c229f7a35cbcdfaaedff27",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "id": "2d5b810799f54e6c32193eae",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-12T19:36:50+00:00"
+    },
+    {
+      "id": "96a5680bdd56dd783c40a87b",
+      "title": "Blizzard's Big BlizzCon 2026 Opening Ceremony Mic Drop Is World of Warcraft Forever",
+      "summary": "Blizzard ended its BlizzCon 2026 Opening Ceremony with the announcement of World of Warcraft Forever.",
+      "url": "https://www.ign.com/articles/blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warcraft-forever",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T18:57:39+00:00"
+    },
+    {
+      "id": "7f89510375dbfce49297a12a",
+      "title": "Blizzard Shadow-Drops New Campaign for Warcraft 3 at BlizzCon 2026",
+      "summary": "Blizzard has shadow-dropped a brand new campaign for its real-time strategy game Warcraft 3.",
+      "url": "https://www.ign.com/articles/blizzard-shadow-drops-new-campaign-for-warcraft-3-at-blizzcon-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T18:51:08+00:00"
+    },
+    {
+      "id": "374fa35d7962a31a64fb698a",
+      "title": "Diablo 5 Announced",
+      "summary": "Blizzard has officially announced Diablo 5 at BlizzCon 2026. Set entirely in a post-apocalyptic future 100 years after Diablo 4, the ARPG will release in 2029.",
+      "url": "https://www.ign.com/articles/diablo-5-announced-release-date-2029",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T18:22:01+00:00"
+    },
+    {
+      "id": "71eb925990168e29a9b7533d",
+      "title": "Overwatch 2 Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks",
+      "summary": "Overwatch is getting a brand-new vampire-inspired support hero, as well as the conclusion of Act III in The Reign of Talon storyline and several big character changes.",
+      "url": "https://www.ign.com/articles/overwatch-2-gets-new-vampire-inspired-support-hero-map-and-big-character-reworks",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T17:59:39+00:00"
+    },
+    {
+      "id": "5ea42a0bab13dab50fac3e75",
+      "title": "Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It’s Not Due Out Until 2030",
+      "summary": "It’s been over 15 years since Blizzard’s beloved real-time strategy game, StarCraft 2, came out. Now, a new game in the series has been announced — but it’s still years away.",
+      "url": "https://www.ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T17:51:46+00:00"
+    },
+    {
+      "id": "3462a3d5e2f3b1389af31134",
+      "title": "Animated Diablo Show in the Works at Netflix",
+      "summary": "An animated Diablo show is in the works at Netflix, as announced at Blizzcon 2026, and there could be more to com",
+      "url": "https://www.ign.com/articles/animated-diablo-show-in-the-works-at-netflix",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T17:49:30+00:00"
+    },
+    {
+      "id": "e3fc00911686e2abdd799850",
+      "title": "Heroes of the Storm Gets First New Character in Six Years",
+      "summary": "Announced at Blizzcon 2026, Heroes of the Storm is getting its first new character since Hogger was released in 2020, as well as a new PTR.",
+      "url": "https://www.ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T17:43:35+00:00"
+    },
+    {
+      "id": "f3fe0f6e7a4c13caabec7d1d",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-09-12T17:28:53+00:00"
+      "publishedAt": "2026-09-12T17:42:38+00:00"
+    },
+    {
+      "id": "f22c29b6b349a3bbe7d0ddbc",
+      "title": "Borderlands 4 DLC Character and Free-to-Play Weekend Attract Resurgence on Steam",
+      "summary": "Borderlands 4 is climbing Steam charts as players fall head over heels for its new DLC character – a Vault Hunter named Loveless the Hacker.",
+      "url": "https://www.ign.com/articles/borderlands-4-dlc-character-and-free-to-play-weekend-attract-resurgence-on-steam",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-12T17:41:24+00:00"
+    },
+    {
+      "id": "e2b3884f781223f35400b732",
+      "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
+      "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+      "url": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-12T17:38:21+00:00"
+    },
+    {
+      "id": "891fe34309f2f5eaca0ba878",
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
+      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-12T17:36:20+00:00"
     },
     {
       "id": "8fc31d0e89e7b51e893c2a9d",
@@ -35,17 +156,6 @@
       "publishedAt": "2026-09-12T17:20:00+00:00"
     },
     {
-      "id": "f3fe0f6e7a4c13caabec7d1d",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-12T17:05:34+00:00"
-    },
-    {
       "id": "c8e3d79438aca71307feed68",
       "title": "Uganda's King Oyo buried amid calls for unity over his successor",
       "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
@@ -68,8 +178,8 @@
       "publishedAt": "2026-09-12T16:25:11+00:00"
     },
     {
-      "id": "501ac746dffd60f30c62e45e",
-      "title": "BlizzCon 2026 Opening Ceremony Live Blog: The Future of Warcraft and Diablo Set to Be Revealed Amid StarCraft Rumors",
+      "id": "98ecb23b12cf2eb8ab1aab60",
+      "title": "BlizzCon 2026 Opening Ceremony: Everything Announced",
       "summary": "BlizzCon 2026 is upon is, and IGN is reporting live on all the announcements direct from the opening ceremony. Expect big news on everything from World of Warcraft to Diablo, amid strong rumors of a StarCraft announcement.",
       "url": "https://www.ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors",
       "imageUrl": null,
@@ -110,17 +220,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-12T15:05:53+00:00"
-    },
-    {
-      "id": "1cff1ce0c736f80702956216",
-      "title": "Teen boy rescued after days adrift in Alaskan waters",
-      "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
-      "url": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T15:03:14+00:00"
     },
     {
       "id": "6ba40fa31d7a1831efad2d83",
@@ -266,17 +365,6 @@
       "publishedAt": "2026-09-12T08:04:16+00:00"
     },
     {
-      "id": "81704fa6e5dc1d18fe38be9b",
-      "title": "Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests",
-      "summary": "A debate over “fart gas” has emerged around PlayStation 5 exclusive Marvel’s Wolverine, with some people calling for developer Insomniac to add the ability to disable Logan’s scent trail entirely from the game.",
-      "url": "https://www.ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T07:45:23+00:00"
-    },
-    {
       "id": "58a40adcd801fb761246727c",
       "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
       "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
@@ -354,17 +442,6 @@
       "publishedAt": "2026-09-12T01:00:00+00:00"
     },
     {
-      "id": "0323d43c7a45c429827035a1",
-      "title": "Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor",
-      "summary": "The ultimate ultra-portable laptop for students and professionals on the move.",
-      "url": "https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T00:50:00+00:00"
-    },
-    {
       "id": "3d445716c9d177bb3761a693",
       "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
       "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
@@ -409,72 +486,6 @@
       "publishedAt": "2026-09-11T23:39:01+00:00"
     },
     {
-      "id": "003fc527be795d45e8affece",
-      "title": "Brandon Sanderson's Mistborn Expansion for the Cosmere RPG Is Up for Preorder at Amazon",
-      "summary": "",
-      "url": "https://www.ign.com/articles/mistborn-cosmere-rpg-expansion-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-11T23:15:00+00:00"
-    },
-    {
-      "id": "2cd52076b6932de49b8c27c4",
-      "title": "GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks",
-      "summary": "GTA 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews.",
-      "url": "https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-11T23:04:29+00:00"
-    },
-    {
-      "id": "bc693e83b9a7943ecc4c5b04",
-      "title": "Save 45% Off Citizen's Star Wars Themed Eco-Drive Chronograph Men's Watches",
-      "summary": "The Force is strong with these ones.",
-      "url": "https://www.ign.com/articles/citizens-star-wars-eco-drive-chronograph-mens-watch-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-11T22:55:00+00:00"
-    },
-    {
-      "id": "7393b728a6a3ec965eff8e7d",
-      "title": "Alienware Just Released the World's First 39\" 5K Monitor With RGB Stripe Tandem OLED Technology",
-      "summary": "The best monitor for both gaming and workstation productivity is now shipping.",
-      "url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-11T22:50:00+00:00"
-    },
-    {
-      "id": "2205e239639ee25f5b6ffad6",
-      "title": "The New SteelSeries Aeon Pro Wireless Gaming Controller With Infinite Battery Life Is Now Available",
-      "summary": "Quite possibly the best wireless PC and Xbox gaming controller ever.",
-      "url": "https://www.ign.com/articles/preorder-the-steelseries-aeon-pro-wireless-gaming-controller",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-11T22:50:00+00:00"
-    },
-    {
-      "id": "17fc00a7255b8d3f2901cdda",
-      "title": "The Pokémon Deluxe Character Book Is Basically Your Own Hardcover Pokédex",
-      "summary": "",
-      "url": "https://www.ign.com/articles/pokemon-deluxe-character-guide-book-hands-on",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-11T21:56:47+00:00"
-    },
-    {
       "id": "6b722bbdcf8c5644e0a94f3f",
       "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
       "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
@@ -506,17 +517,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-11T18:00:01+00:00"
-    },
-    {
-      "id": "9a41f5691ecede57ccb84326",
-      "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11",
-      "summary": "They carry distinct memories not from the day itself, but from the moment - years later - they learned about the attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-11T17:21:00+00:00"
     },
     {
       "id": "d9e2e4e4f991b56042b19d32",
@@ -706,17 +706,6 @@
       "publishedAt": "2026-09-10T23:05:47+00:00"
     },
     {
-      "id": "24631365cf94d58bf0f58dc4",
-      "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-      "summary": "The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.",
-      "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-10T22:48:37+00:00"
-    },
-    {
       "id": "e7af8795d3a635388bd53378",
       "title": "Piratage du site des impôts : la CNIL va contrôler le fisc après le vol de données massif survenu durant l’été",
       "summary": "La présidente de l’autorité de protection des données, Marie-Laure Denis, a évoqué la possibilité d’infliger une sanction à la direction générale des finances publiques après le vol de données personnelles de près de 700 000 personnes.",
@@ -858,6 +847,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-08T23:05:23+00:00"
+    },
+    {
+      "id": "40dd559c55e59f6693592674",
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-08T20:57:09+00:00"
     },
     {
       "id": "320557d1cda7ccf9e1d53222",
