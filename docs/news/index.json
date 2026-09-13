@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-13T19:07:19.724826+00:00",
+  "updatedAt": "2026-09-13T21:57:32.370447+00:00",
   "items": [
+    {
+      "id": "d52e438b7308e382ea050e7e",
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T21:17:15+00:00"
+    },
+    {
+      "id": "45772a81b35b146900d346ae",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom Review",
+      "summary": "Shaun the Sheep: The Beast of Mossy Bottom review: The residents of Mossy Bottom farm are baaaaack for their first Halloween adventure.",
+      "url": "https://www.ign.com/articles/shaun-the-sheep-the-beast-of-mossy-bottom-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-13T21:00:00+00:00"
+    },
+    {
+      "id": "316edd809b326060d258f80b",
+      "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch",
+      "summary": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+      "url": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-13T20:36:29+00:00"
+    },
+    {
+      "id": "ef6e5df46e8d49a5a46d0ba5",
+      "title": "‘Hell Yes!’ - Diablo 4 Dev Team Reacts to the Franchise’s New Netflix Show",
+      "summary": "Diablo 4’s lead developers discuss their excitement for the new Diablo Netflix animated series, the game's Switch 2 port, and Season of Hell's Legacy.",
+      "url": "https://www.ign.com/articles/hdiablo-netflix-series-blizzcon-news-interview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-13T20:04:41+00:00"
+    },
+    {
+      "id": "f912b00c168f768a2e0b7e47",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T19:34:36+00:00"
+    },
+    {
+      "id": "ee803a11241e68c5ae14ac83",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T19:14:21+00:00"
+    },
+    {
+      "id": "a3be42baf25159e49fdc5c5a",
+      "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
+      "summary": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
+      "url": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-13T19:02:20+00:00"
+    },
     {
       "id": "8b052aab038018a73e541762",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -11,17 +88,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-13T18:49:37+00:00"
-    },
-    {
-      "id": "0c769d2c21192ae3f46c6c46",
-      "title": "Trump doubles down on united Ireland comments on day two of visit",
-      "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-13T18:49:28+00:00"
     },
     {
       "id": "f376ce0898c4ded62996b307",
@@ -44,17 +110,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-13T18:11:54+00:00"
-    },
-    {
-      "id": "ee803a11241e68c5ae14ac83",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-13T17:38:29+00:00"
     },
     {
       "id": "003f9ff37c3b6492be3ddef9",
@@ -310,17 +365,6 @@
       "publishedAt": "2026-09-12T20:28:58+00:00"
     },
     {
-      "id": "8aba7620bf27bf1edacfad11",
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T20:27:25+00:00"
-    },
-    {
       "id": "f40a55d8f3352380ed3d282a",
       "title": "Diablo 5 Forging the Next Era Panel: Everything Announced",
       "summary": "Blizzard has revealed three classes for Diablo 5, a first look at its UI, and shown off even more as part of its Forging the Next Era panel at BlizzCon 2026.",
@@ -440,50 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-12T17:36:20+00:00"
-    },
-    {
-      "id": "8fc31d0e89e7b51e893c2a9d",
-      "title": "The SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life Drops to $250",
-      "summary": "Wireless free with zero downtime.",
-      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T17:20:00+00:00"
-    },
-    {
-      "id": "d41c66be1323c5c5dbddc3e3",
-      "title": "T-Mobile's Apple iPhone 18 Pro \"On Us\" Deal Explained",
-      "summary": "",
-      "url": "https://www.ign.com/articles/t-mobiles-apple-iphone-18-pro-on-us-deal-explained",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T17:20:00+00:00"
-    },
-    {
-      "id": "a01bb4c894d0536037f669f8",
-      "title": "Level-5 Boss Addresses AI Backlash After Fans Hit Out at Game Reveal Showcase",
-      "summary": "Developer Level-5 has apologized for and explained its use of generative AI after fans spotted 'AI slop' in footage of games like Professor Layton and the Curious Village, DecaPolice, and more.",
-      "url": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T16:25:11+00:00"
-    },
-    {
-      "id": "98ecb23b12cf2eb8ab1aab60",
-      "title": "BlizzCon 2026 Opening Ceremony: Everything Announced",
-      "summary": "BlizzCon 2026 is upon is, and IGN is reporting live on all the announcements direct from the opening ceremony. Expect big news on everything from World of Warcraft to Diablo, amid strong rumors of a StarCraft announcement.",
-      "url": "https://www.ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T16:00:29+00:00"
     },
     {
       "id": "3bf58af2b20c729f3e2653b5",
@@ -827,10 +827,10 @@
       "publishedAt": "2026-09-09T12:06:40+00:00"
     },
     {
-      "id": "320557d1cda7ccf9e1d53222",
+      "id": "6eb5c7cb80d2a42bcf80b191",
       "title": "Tech Life",
       "summary": "Scammers demand money from Instagram users over fake copyright claims.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
