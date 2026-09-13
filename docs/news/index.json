@@ -1,16 +1,126 @@
 {
-  "updatedAt": "2026-09-13T12:57:57.506929+00:00",
+  "updatedAt": "2026-09-13T16:49:47.739604+00:00",
   "items": [
     {
-      "id": "d52a71c2091dbea75dce17aa",
-      "title": "Six dead, 107 rescued after Indonesian ferry capsizes in Java Sea",
-      "summary": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "id": "f5e36236f1af0bdaa40250cf",
+      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T16:33:57+00:00"
+    },
+    {
+      "id": "acc095e6d7fe7544431c7dc7",
+      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-13T16:29:27+00:00"
+    },
+    {
+      "id": "003f9ff37c3b6492be3ddef9",
+      "title": "IA : « La question centrale n’est pas de savoir si les développeurs se soucient de l’humanité, mais qui possède le pouvoir de dire stop »",
+      "summary": "En l’absence de solides freins institutionnels, les entreprises ont tendance, lorsqu’elles sont sous pression, à sacrifier la sécurité de tous pour leur profit, pointe Alejandro Agafonow, professeur de management, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/13/ia-la-question-centrale-n-est-pas-de-savoir-si-les-developpeurs-se-soucient-de-l-humanite-mais-qui-possede-le-pouvoir-de-dire-stop_6772843_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-13T16:00:12+00:00"
+    },
+    {
+      "id": "0c769d2c21192ae3f46c6c46",
+      "title": "Trump doubles down on united Ireland comments on day two of visit",
+      "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T15:42:50+00:00"
+    },
+    {
+      "id": "6855b14082054a8f196fe6fd",
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
+      "summary": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T15:30:43+00:00"
+    },
+    {
+      "id": "1a8a0ede9f1371f0d600e68a",
+      "title": "« Je classe amoureusement mes fichiers MP3 » : pourquoi les baladeurs audio font de nouveaux adeptes",
+      "summary": "Si le streaming domine toujours largement le marché musical, iPod, lecteurs MP3 et lecteurs CD suscitent un regain d’intérêt. Nostalgie, besoin de ralentir, envie de posséder sa musique : leurs adeptes cherchent surtout à retrouver une écoute plus attentive et plus choisie.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/13/je-classe-amoureusement-mes-fichiers-mp3-pourquoi-les-baladeurs-audio-font-de-nouveaux-adeptes_6772804_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-13T15:00:19+00:00"
+    },
+    {
+      "id": "fc093636f38ef13d445ee648",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-13T14:53:40+00:00"
+    },
+    {
+      "id": "547a73a6ab1a2e3f4e45e58b",
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T14:25:56+00:00"
+    },
+    {
+      "id": "87f2ad714f1059e08b234896",
+      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "summary": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T14:01:44+00:00"
+    },
+    {
+      "id": "1a0a3b0f034edcdb7b5ed63b",
+      "title": "Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog",
+      "summary": "",
+      "url": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-13T14:00:00+00:00"
+    },
+    {
+      "id": "761de6d91acda5735a6325dc",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
       "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-13T12:56:39+00:00"
+      "publishedAt": "2026-09-13T13:30:38+00:00"
     },
     {
       "id": "5e6e0da9b8d35b574aee83f7",
@@ -24,26 +134,26 @@
       "publishedAt": "2026-09-13T11:23:42+00:00"
     },
     {
-      "id": "fc093636f38ef13d445ee648",
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-13T11:13:07+00:00"
-    },
-    {
       "id": "06eb92dd4eeff594422ccfb1",
       "title": "Sam Altman annonce qu’OpenAI n’entrera pas en Bourse en 2026, en raison des inquiétudes liés à la sécurité de l’intelligence artificielle",
-      "summary": "« Au vu de tout ce qui se passe en matière de sécurité, le moment serait mal choisi pour entrer en Bourse, et nous ne ressentons pas de pression en ce sens », a déclaré le patron de la société créatrice de ChatGPT.",
+      "summary": "« Au vu de tout ce qui se passe en matière de sécurité, le moment serait mal choisi pour entrer en Bourse, et nous ne ressentons pas de pression en ce sens », a déclaré le patron de la société créatrice de ChatGPT. De son côté, le président américain, Donald Trump, a critiqué ceux qui veulent ralentir le développement de l’IA.",
       "url": "https://www.lemonde.fr/pixels/article/2026/09/13/sam-altman-annonce-qu-openai-n-entrera-pas-en-bourse-en-2026-en-raison-des-inquietudes-lies-a-la-securite-de-l-intelligence-artificielle_6772466_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-13T09:28:45+00:00"
+    },
+    {
+      "id": "0267198401dd01eb946588ab",
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T09:05:10+00:00"
     },
     {
       "id": "1f3c2adcca2e6ddab00f0130",
@@ -66,6 +176,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-13T03:22:00+00:00"
+    },
+    {
+      "id": "67c816aa05ac5ba8c58e3316",
+      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "summary": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T02:41:51+00:00"
     },
     {
       "id": "75eccca73366ea9789261596",
@@ -200,17 +321,6 @@
       "publishedAt": "2026-09-12T19:44:21+00:00"
     },
     {
-      "id": "2d5b810799f54e6c32193eae",
-      "title": "Fire at nursing home in Chile kills 16 residents",
-      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T19:36:50+00:00"
-    },
-    {
       "id": "96a5680bdd56dd783c40a87b",
       "title": "Blizzard's Big BlizzCon 2026 Opening Ceremony Mic Drop Is World of Warcraft Forever",
       "summary": "Blizzard ended its BlizzCon 2026 Opening Ceremony with the announcement of World of Warcraft Forever.",
@@ -332,17 +442,6 @@
       "publishedAt": "2026-09-12T17:20:00+00:00"
     },
     {
-      "id": "c8e3d79438aca71307feed68",
-      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "url": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T16:55:31+00:00"
-    },
-    {
       "id": "a01bb4c894d0536037f669f8",
       "title": "Level-5 Boss Addresses AI Backlash After Fans Hit Out at Game Reveal Showcase",
       "summary": "Developer Level-5 has apologized for and explained its use of generative AI after fans spotted 'AI slop' in footage of games like Professor Layton and the Curious Village, DecaPolice, and more.",
@@ -376,28 +475,6 @@
       "publishedAt": "2026-09-12T15:51:39+00:00"
     },
     {
-      "id": "195682d57e233f626709f5e5",
-      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T15:09:55+00:00"
-    },
-    {
-      "id": "0eb676f6f6860ee90fc1e2bc",
-      "title": "French officials investigate if malicious act caused train derailment",
-      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T15:05:53+00:00"
-    },
-    {
       "id": "6ba40fa31d7a1831efad2d83",
       "title": "The Magic of Disney Animation Proves Walt Disney World’s Mission of Thoughtfully Updating its Historical Attractions Is Working",
       "summary": "We got an early look at The Magic of Disney Animation at Walt Disney World, and it proves that the theme park's mission of thoughtfully updating its historical attractions is working. Check out our first impressions:",
@@ -407,39 +484,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-12T15:00:00+00:00"
-    },
-    {
-      "id": "3936583c83277c227902d10c",
-      "title": "Dragon Quest Monsters: The Withered World Has 500 Beasts to Collect, and They're All Super Weird | IGN Preview",
-      "summary": "So far, Dragon Quest Monsters: The Withered World is shaping up to be another solid and charming entry in the sub-series. The monster-collecting style of RPG is a fairly crowded market these days, but Square Enix's efforts to double down on the charm and wholesomeness of Dragon Quest's world are what make this series so unique and fun to dive into.",
-      "url": "https://www.ign.com/articles/dragon-quest-monsters-the-withered-world-has-500-beasts-to-collect-and-theyre-all-super-weird-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T14:07:00+00:00"
-    },
-    {
-      "id": "b67d2f7e7811274f81fbb1fc",
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T12:15:50+00:00"
-    },
-    {
-      "id": "df8bad706f750d87a55afcf6",
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T10:00:05+00:00"
     },
     {
       "id": "37802d7196e832ea879507e9",
@@ -495,28 +539,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-12T00:35:50+00:00"
-    },
-    {
-      "id": "18fa02d3b1130493ac6eeffb",
-      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-      "summary": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
-      "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T00:24:08+00:00"
-    },
-    {
-      "id": "64f73c074d5e3f564d54d111",
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "summary": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-11T19:44:58+00:00"
     },
     {
       "id": "0185b475e3d9673e860a8665",
@@ -761,17 +783,6 @@
       "publishedAt": "2026-09-10T00:48:35+00:00"
     },
     {
-      "id": "fc9ad1e0e8b6bd2789cb819f",
-      "title": "iPhone Duo : les trois défis qui attendent le smartphone pliable d’Apple",
-      "summary": "Le nouveau mobile d’Apple, dont l’écran central se plie et se déplie comme un livre, adopte un format un peu plus compact que ses concurrents. Parviendra-t-il à séduire plus largement qu’eux, et à corriger les problèmes récurrents des écrans pliables ?",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/09/iphone-duo-les-trois-defis-qui-attendent-le-smartphone-pliable-d-apple_6768960_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-09T19:10:06+00:00"
-    },
-    {
       "id": "729ccf95d57390b1f9bcb877",
       "title": "Google picks Finland for its largest single investment in Europe",
       "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
@@ -781,17 +792,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-09T17:06:48+00:00"
-    },
-    {
-      "id": "88556f7511ef4fa207c518ed",
-      "title": "Meta teste les « notes de la communauté » en Amérique latine pour remplacer le fact-checking",
-      "summary": "L’initiative survient presque deux ans après l’arrêt par Meta du fact-checking aux Etats-Unis, remplacé par ce système fondé sur des contributions d’internautes. Plusieurs études ont montré que ce dispositif était moins efficace que le travail de professionnels pour lutter contre la désinformation.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/09/meta-teste-les-notes-de-la-communaute-en-amerique-latine-pour-remplacer-le-fact-checking_6768940_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-09T16:25:11+00:00"
     },
     {
       "id": "d2230c563b04df0ef79b2b69",
@@ -825,17 +825,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-08T23:27:23+00:00"
-    },
-    {
-      "id": "b001becee90901692417e564",
-      "title": "Should promotion depend on how workers use AI?",
-      "summary": "More companies are tying career progression to AI use: is that fair?",
-      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-08T23:05:23+00:00"
     },
     {
       "id": "320557d1cda7ccf9e1d53222",
