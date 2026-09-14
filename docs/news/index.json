@@ -1,16 +1,104 @@
 {
-  "updatedAt": "2026-09-14T02:32:00.767542+00:00",
+  "updatedAt": "2026-09-14T08:20:05.898941+00:00",
   "items": [
+    {
+      "id": "acdeffbf68d533db2d51970f",
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "summary": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-14T07:15:35+00:00"
+    },
+    {
+      "id": "1f111b27bb59f12133ea45cb",
+      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : la France soumet une nouvelle version de son projet à Bruxelles",
+      "summary": "Le Conseil constitutionnel a considéré, le mois dernier, que le texte adopté par le Parlement portait atteinte à la liberté d’expression, mais a reconnu « l’exigence constitutionnelle de protection de l’intérêt supérieur de l’enfant ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/14/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-le-gouvernement-soumet-une-nouvelle-version-a-bruxelles_6773399_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-14T05:39:25+00:00"
+    },
+    {
+      "id": "fcdd4567660a22cb652a4977",
+      "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
+      "summary": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-14T05:34:13+00:00"
+    },
+    {
+      "id": "b5dcdd9ecd94d76542285063",
+      "title": "Donald Trump invoque la concurrence de la Chine pour refuser une pause dans la course à l’IA",
+      "summary": "Le président des Etats-Unis a estimé, samedi, qu’il fallait devancer Pékin dans ce domaine stratégique, en réponse aux inquiétudes des leaders de l’IA face aux capacités croissantes de leurs modèles. Un débat qui s’installe avant les midterms, sur fond de difficultés de financement pour les géants du secteur.",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/14/donald-trump-invoque-la-concurrence-de-la-chine-pour-refuser-une-pause-dans-la-course-a-l-intelligence-artificielle_6773354_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-14T04:00:08+00:00"
+    },
+    {
+      "id": "ee803a11241e68c5ae14ac83",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-14T03:38:13+00:00"
+    },
+    {
+      "id": "8f47126178054b97ef0b3d79",
+      "title": "The Last of Us Part 2 Multiplayer Mod Cancelled at Sony’s Request",
+      "summary": "A PvP multiplayer mod for The Last of Us Part 2 on PC is no longer going to be released after the mod maker says it was contacted by Sony Interactive Entertainment and asked not to release the project to the public.",
+      "url": "https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-mod-cancelled-at-sonys-request",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-14T02:44:51+00:00"
+    },
+    {
+      "id": "9f90589db17a2c267c506f67",
+      "title": "Lanterns Season 1, Episode 5 Review & Recap: \"Lights Out\"",
+      "summary": "Lanterns wraps up its 2016 storyline with a real bang, as the situation in Rushville devolves into all-out war. Read our full review of Episode 5.",
+      "url": "https://www.ign.com/articles/lanterns-season-1-episode-5-review-recap-lights-out",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-14T02:00:00+00:00"
+    },
     {
       "id": "4d73717cc6c1728022b10f91",
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-14T01:58:59+00:00"
+    },
+    {
+      "id": "3d261171f4fe9d3346a487d0",
+      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "summary": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-14T01:12:20+00:00"
     },
     {
       "id": "d24531d4b80c6d6639229649",
@@ -88,17 +176,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-13T19:34:36+00:00"
-    },
-    {
-      "id": "ee803a11241e68c5ae14ac83",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-13T19:14:21+00:00"
     },
     {
       "id": "a3be42baf25159e49fdc5c5a",
@@ -266,15 +343,15 @@
       "publishedAt": "2026-09-13T09:05:10+00:00"
     },
     {
-      "id": "1f3c2adcca2e6ddab00f0130",
-      "title": "« Ces vidéos finissent par te faire adhérer à certaines idées sur le supposé rôle de la femme » : ces jeunes consommatrices attirées par les contenus des « tradwives »",
+      "id": "8f5f6370a50ee5ec38ee1ba3",
+      "title": "Sur les réseaux sociaux, ces jeunes consommatrices attirées par les contenus des « tradwives »",
       "summary": "Sur les réseaux, les épouses (au foyer) traditionnelles réunissent une communauté majoritairement féminine. Alors que les jeunes femmes françaises sont de plus en plus féministes, le phénomène suscite des interrogations : qui sont ces « tradwatcheuses », et pourquoi le font-elles ?",
       "url": "https://www.lemonde.fr/campus/article/2026/09/13/ces-videos-finissent-par-te-faire-adherer-a-certaines-idees-sur-le-suppose-role-de-la-femme-ces-jeunes-consommatrices-attirees-par-les-contenus-des-tradwives_6772231_4401467.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-09-13T05:00:09+00:00"
+      "publishedAt": "2026-09-13T05:00:06+00:00"
     },
     {
       "id": "db7d4abd3c7b291459d3604c",
@@ -286,6 +363,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-13T03:22:00+00:00"
+    },
+    {
+      "id": "1b0feef9dba67044925a05dc",
+      "title": "'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris",
+      "summary": "Thousands turned out to witness Céline Dion perform in Paris on Saturday, her first show after a six year illness-induced hiatus.",
+      "url": "https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-13T02:59:29+00:00"
     },
     {
       "id": "67c816aa05ac5ba8c58e3316",
@@ -451,39 +539,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-12T18:22:01+00:00"
-    },
-    {
-      "id": "d3b0c6aafe7eaa5778e5ba77",
-      "title": "Overwatch Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks",
-      "summary": "Overwatch is getting a brand-new vampire-inspired support hero, as well as the conclusion of Act III in The Reign of Talon storyline and several big character changes.",
-      "url": "https://www.ign.com/articles/overwatch-2-gets-new-vampire-inspired-support-hero-map-and-big-character-reworks",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T17:59:39+00:00"
-    },
-    {
-      "id": "5ea42a0bab13dab50fac3e75",
-      "title": "Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It’s Not Due Out Until 2030",
-      "summary": "It’s been over 15 years since Blizzard’s beloved real-time strategy game, StarCraft 2, came out. Now, a new game in the series has been announced — but it’s still years away.",
-      "url": "https://www.ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-12T17:51:46+00:00"
-    },
-    {
-      "id": "891fe34309f2f5eaca0ba878",
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T17:36:20+00:00"
     },
     {
       "id": "3bf58af2b20c729f3e2653b5",
@@ -695,17 +750,6 @@
       "publishedAt": "2026-09-11T04:26:34+00:00"
     },
     {
-      "id": "0f6675c09ea8a4709a0ef144",
-      "title": "Brother of Muslim police cadet killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
-      "summary": "Zeshan Hamdani speaks out after push back against New York Mayor Zohran Mamdani, who is Muslim, attending 9/11 events.",
-      "url": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-11T04:10:24+00:00"
-    },
-    {
       "id": "cb5f82e68493efe140d196fa",
       "title": "« L’étude PISA crée la panique, alors que des enquêtes montrent depuis vingt ans que les réseaux sociaux tuent chez les jeunes la lecture et la connaissance »",
       "summary": "Les écrans vampirisent le temps disponible des enfants. Or, lire un livre est la base de tous les savoirs, rappelle Michel Guerrin, rédacteur en chef au « Monde », dans sa chronique.",
@@ -748,39 +792,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-10T23:05:47+00:00"
-    },
-    {
-      "id": "e7af8795d3a635388bd53378",
-      "title": "Piratage du site des impôts : la CNIL va contrôler le fisc après le vol de données massif survenu durant l’été",
-      "summary": "La présidente de l’autorité de protection des données, Marie-Laure Denis, a évoqué la possibilité d’infliger une sanction à la direction générale des finances publiques après le vol de données personnelles de près de 700 000 personnes.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/11/piratage-du-site-des-impots-la-cnil-va-controler-le-fisc-apres-le-vol-de-donnees-massif-survenu-durant-l-ete_6770181_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-10T22:14:47+00:00"
-    },
-    {
-      "id": "1bfbc0ecf25b06473c29da9b",
-      "title": "Drone display recreates the Twin Towers over New York City",
-      "summary": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-10T14:19:26+00:00"
-    },
-    {
-      "id": "0f3b1b2ab0a2f978065314da",
-      "title": "« L’opinion publique a une longueur d’avance sur le discours médiatique relatif à l’IA »",
-      "summary": "Tandis que les discours, tantôt technophiles, tantôt alarmistes, sur l’intelligence artificielle saturent les médias, les opinions publiques occidentales se révèlent très pragmatiques quant à la conduite à adopter, note le sociologue Tibor Dessewffy, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/10/l-opinion-publique-a-une-longueur-d-avance-sur-le-discours-mediatique-relatif-a-l-ia_6769732_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-10T10:00:10+00:00"
     },
     {
       "id": "9039a19e9c71d8e26e4cbaac",
