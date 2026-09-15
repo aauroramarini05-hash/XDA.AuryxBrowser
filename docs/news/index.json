@@ -1,16 +1,137 @@
 {
-  "updatedAt": "2026-09-15T14:00:30.251660+00:00",
+  "updatedAt": "2026-09-15T18:35:46.323219+00:00",
   "items": [
     {
-      "id": "39889e804809d448c782bbf2",
-      "title": "More than 100,000 people in Japan are now aged 100 or older",
-      "summary": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
-      "url": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+      "id": "fb078fdca421422d54d67e2c",
+      "title": "The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month",
+      "summary": "Better than Amazon's Prime Day deal.",
+      "url": "https://www.ign.com/articles/amazon-audible-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T18:30:00+00:00"
+    },
+    {
+      "id": "96261ca76ad4187646d02f35",
+      "title": "Zack Snyder Says 300 Is the ‘Gayest Movie Ever Made,' Defends The Last Photograph Amid Online Backlash",
+      "summary": "Zach Snyder is going viral off the heels of his latest movie, The Last Photograph, as well as his subsequent interview with Variety where he responded to the backlash against the film and made a few eyebrow-raising remarks about his previous work.",
+      "url": "https://www.ign.com/articles/zack-snyder-says-300-is-the-gayest-movie-ever-made-defends-the-last-photograph-amid-online-backlash",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T18:25:23+00:00"
+    },
+    {
+      "id": "4351f25d8ad9e936ad76c8e2",
+      "title": "The 2026 AOVOPRO 48V 500W Electric Scooter with 22-Mile Range and 22mph Top Speed Drops to $122",
+      "summary": "The most powerful e-scooter I've seen for under $150.",
+      "url": "https://www.ign.com/articles/aovopro-48v-500w-adult-electric-scooter-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T18:00:00+00:00"
+    },
+    {
+      "id": "756047b2bbb5fc1131c92afd",
+      "title": "The Classic Carcassonne Board Game Drops to Its Lowest Price in Years",
+      "summary": "Back to the basics.",
+      "url": "https://www.ign.com/articles/carcassonne-board-game-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T18:00:00+00:00"
+    },
+    {
+      "id": "17624b84025be04a2f0227c4",
+      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "summary": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-15T13:43:15+00:00"
+      "publishedAt": "2026-09-15T17:54:46+00:00"
+    },
+    {
+      "id": "de18e05257a88925612be5f8",
+      "title": "British woman abducted in Malawi, police say",
+      "summary": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-15T17:44:45+00:00"
+    },
+    {
+      "id": "c4cac757dd94cf1be3b40bce",
+      "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+      "summary": "The US has confirmed it deployed a space weapon in Earth's orbit, the first time it has acknowledged such offensive capabilities.",
+      "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-15T17:35:02+00:00"
+    },
+    {
+      "id": "78daf5397ac1062d62bc6626",
+      "title": "Casino Royale Is Returning to Theaters for the Film's 20th Anniversary",
+      "summary": "Daniel Craig's first James Bond film, Casino Royale, is returning to theaters very soon for the film's 20th anniversary.",
+      "url": "https://www.ign.com/articles/casino-royale-is-returning-to-theaters-for-the-films-20th-anniversary",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T17:26:21+00:00"
+    },
+    {
+      "id": "7e7db36ec9066ea74063ba86",
+      "title": "IA : un ancien chercheur de Google DeepMind alerte à son tour sur un risque existentiel",
+      "summary": "Après plusieurs incidents impliquant des agents d’intelligence artificielle, les mises en garde et les initiatives pour mieux encadrer l’IA se multiplient. OpenAI, Anthropic et Google DeepMind envisagent un organe commun de supervision des risques, tandis que Mistral, qui reconnaît des dangers réels, conteste les appels à ralentir le développement ",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/15/ia-un-ancien-chercheur-de-google-deepmind-alerte-a-son-tour-sur-un-risque-existentiel_6774468_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-15T17:08:57+00:00"
+    },
+    {
+      "id": "29a77efd8696d619bbc78435",
+      "title": "« Cybercombattante » : dans les coulisses des enquêtes visant hackeurs, escrocs et pédocriminels",
+      "summary": "Mi-récit, mi-autobiographie, le livre de Johanna Brousse, la patronne du « parquet cyber » français, lève un coin de voile sur le travail des enquêteurs et des magistrats spécialisés.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/15/cybercombattante-dans-les-coulisses-des-enquetes-visant-hackeurs-escrocs-et-pedocriminels_6774466_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-15T17:00:31+00:00"
+    },
+    {
+      "id": "1452611d605c98f24670127f",
+      "title": "Xbox Game Pass September 2026 Wave 2 Lineup Announced",
+      "summary": "Microsoft has announced the Xbox Game Pass September 2027 Wave 2 lineup, and it includes Dune Awakening, plus Minecraft Dungeons 2 and Gears of War: E-Day for Ultimate and PC subscribers.",
+      "url": "https://www.ign.com/articles/xbox-game-pass-september-2026-wave-2-lineup-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:56:47+00:00"
+    },
+    {
+      "id": "009d5447c1e84fc2e9ceb792",
+      "title": "Aliens: Fireteam Elite 2's Nintendo Switch 2 Version Delayed to Early 2027",
+      "summary": "Cold Iron Studios, developer of the recently released four-player co-op PvE sequel Aliens: Fireteam Elite 2, has announced that the Nintendo Switch 2 version has been pushed back to early 2027. It was originally planned to ship this month.",
+      "url": "https://www.ign.com/articles/aliens-fireteam-elite-2s-nintendo-switch-2-version-delayed-to-early-2027",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:55:22+00:00"
     },
     {
       "id": "1d4d26a153d0ce43c74f473d",
@@ -21,18 +142,29 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-15T13:33:16+00:00"
+      "publishedAt": "2026-09-15T16:55:04+00:00"
     },
     {
-      "id": "43f799298630eb1579c1c186",
-      "title": "Exterminauts Wants You to Live a 9-to-5 Life that Bites Back | IGN Preview",
-      "summary": "Exterminauts is chaotic. Whether you’re blowing your friends up by accident or getting knocked off of a tall structure you’re trying to fix or just reacting to stuff going wrong on the fly, you’re always making decisions and dealing with something beyond your control, and according to the developers, that’s intentional. I felt it during my demo, an",
-      "url": "https://www.ign.com/articles/exterminauts-wants-you-to-live-a-9-to-5-life-that-bites-back-ign-preview",
+      "id": "852aec2122680f4fc0158193",
+      "title": "Every Persona Game and Spin-Off in Order",
+      "summary": "A complete timeline of Shin Megami Tensei's most beloved spin-off.",
+      "url": "https://www.ign.com/articles/persona-games-in-order",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
-      "publishedAt": "2026-09-15T13:31:00+00:00"
+      "publishedAt": "2026-09-15T16:32:00+00:00"
+    },
+    {
+      "id": "1ab0adcf1dfbe24611265d8a",
+      "title": "Today’s Top Deals: $13 Resident Evil for PS5, Samsung Switch 2 Memory Card, and MTG Lorwyn Eclipsed",
+      "summary": "Plus, be sure to check out new Pokemon TCG restocks and even more discounts",
+      "url": "https://www.ign.com/articles/best-deals-for-september-15-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:30:00+00:00"
     },
     {
       "id": "68fb804b1967e129d2773e19",
@@ -43,18 +175,194 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-15T13:05:36+00:00"
+      "publishedAt": "2026-09-15T16:13:41+00:00"
     },
     {
-      "id": "ef0ca46f41609fde047b0210",
-      "title": "Forgotten Island Review",
-      "summary": "Forgotten Island review: An emotional, funny, folklore-filled adventure about friendship.",
-      "url": "https://www.ign.com/articles/forgotten-island-review",
+      "id": "353d6292d099079b2a1ced52",
+      "title": "Fable Developer Explains Why Xbox 'Protected' the Project Over Its Long Development Cycle, Amid Layoffs and Studio Closures Elsewhere",
+      "summary": "Fable maker Playground Games has detailed how its upcoming RPG survived a decade in development, amid layoffs and studio closures across the rest of Xbox.",
+      "url": "https://www.ign.com/articles/fable-developer-explains-why-xbox-protected-the-project-over-its-long-development-cycle-amid-layoffs-and-studio-closures-elsewhere",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
-      "publishedAt": "2026-09-15T13:00:00+00:00"
+      "publishedAt": "2026-09-15T16:10:07+00:00"
+    },
+    {
+      "id": "0323d43c7a45c429827035a1",
+      "title": "Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor",
+      "summary": "The ultimate ultra-portable laptop for students and professionals on the move.",
+      "url": "https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:10:00+00:00"
+    },
+    {
+      "id": "540ee74dd4f0ef913e79b2a2",
+      "title": "The OG Nintendo Switch Pro Controller Drops to $56 During Nintendo's Customer Appreciation Sale",
+      "summary": "Switch 2 compatible.",
+      "url": "https://www.ign.com/articles/nintendo-switch-pro-controller-deal-customer-appreciation-sale-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:10:00+00:00"
+    },
+    {
+      "id": "c8cbad6cb214fe960a2a0341",
+      "title": "Rockstar Games Begins Teasing GTA 6's Soundtrack With Travis Scott, Future, Morgan Wallen, and More",
+      "summary": "Rockstar Games has begun teasing the soundtrack for Grand Theft Auto 6 with new artwork from Future, Travis Scott, and other artists.",
+      "url": "https://www.ign.com/articles/rockstar-games-begins-teasing-gta-6s-soundtrack-with-travis-scott-future-morgan-wallen-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:06:58+00:00"
+    },
+    {
+      "id": "94a3aa3875fcd09beb34fa14",
+      "title": "Get Two Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
+      "summary": "Most new and returning (non-current) subscribers should be eligible.",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-august-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:05:00+00:00"
+    },
+    {
+      "id": "e356c6350cc840f323272df4",
+      "title": "Walmart Has a 512GB Nintendo Switch 2 Memory Card for $75 With Hidden YMMV Coupon, 256GB for $37",
+      "summary": "You'll need to get this sooner or later if you're an avid Switch gamer.",
+      "url": "https://www.ign.com/articles/best-microsd-express-memory-card-deal-for-nintendo-switch-2-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:05:00+00:00"
+    },
+    {
+      "id": "de617a60861b4b7ebe282814",
+      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+      "summary": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-15T16:01:54+00:00"
+    },
+    {
+      "id": "dd8066307af22ea1f17f2157",
+      "title": "Golden Axe Animated Series Review",
+      "summary": "Golden Axe Animated Series review: Mike McMahan brings Lower Decks energy to this animated adaptation of the game series.",
+      "url": "https://www.ign.com/articles/golden-axe-animated-series-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:00:00+00:00"
+    },
+    {
+      "id": "7e239af8e0dfaef831f32409",
+      "title": "Select Resident Evil Games Are on Sale as Part of Best Buy’s Deal of the Day, Including Requiem",
+      "summary": "Best Buy's Deal of the Day page features a selection of Resident Evil games on sale for 35% off, including this year's Resident Evil Requiem.",
+      "url": "https://www.ign.com/articles/select-resident-evil-games-are-on-sale-as-part-of-best-buys-deal-of-the-day-including-requiem",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T16:00:00+00:00"
+    },
+    {
+      "id": "634a651be83193c6f663c4c2",
+      "title": "Amazon Announces the Dates for Its Next Prime Day Sale",
+      "summary": "Amazon has revealed that its next Prime exclusive shopping event, Prime Big Deal Days runs October 6-7, so there's not long to wait.",
+      "url": "https://www.ign.com/articles/amazon-prime-day-october-sale-announcement-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T15:39:48+00:00"
+    },
+    {
+      "id": "c6eca12f925a2c9aaba17005",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-15T15:31:34+00:00"
+    },
+    {
+      "id": "1e863000858f4d6158ecb6b3",
+      "title": "Metroid Ravenous Preorders Are Already $10 Off at Amazon and Walmart",
+      "summary": "Save $10 on physical copies of Metroid Ravenous for Nintendo Switch 2 at Walmart, plus learn how a promo code could potentially drop the price even further to $49.88.",
+      "url": "https://www.ign.com/articles/metroid-ravenous-preorder-discount",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T15:24:21+00:00"
+    },
+    {
+      "id": "5197daa018e31f8aa4c6fe64",
+      "title": "Apex Legends Art Director Says Street Fighter 6 Pushed Devs to Give Characters the 'Thickest Thighs' They've Ever Had",
+      "summary": "Apex Legends art director Alisa Rastorgueva revealed that the developers pushed the limits of the game’s character models so far for its collaboration with Street Fighter 6 that its heroes became “thicker” than ever.",
+      "url": "https://www.ign.com/articles/apex-legends-art-director-says-street-fighter-6-pushed-devs-to-give-characters-the-thickest-thighs-theyve-ever-had",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "id": "e774a02cf70645da65d6bc5d",
+      "title": "Ash from Mount Etna grounds flights at Sicily airport",
+      "summary": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-15T14:35:04+00:00"
+    },
+    {
+      "id": "3689070d1bdc53a53b75dcda",
+      "title": "What weapon could the US have put into space?",
+      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-15T14:23:14+00:00"
+    },
+    {
+      "id": "ffc946dada15628585d41ac0",
+      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
+      "summary": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-15T14:21:14+00:00"
+    },
+    {
+      "id": "39889e804809d448c782bbf2",
+      "title": "More than 100,000 people in Japan are now aged 100 or older",
+      "summary": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
+      "url": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-15T13:43:15+00:00"
     },
     {
       "id": "51e06e5d5c5726fe57402081",
@@ -68,50 +376,6 @@
       "publishedAt": "2026-09-15T12:59:21+00:00"
     },
     {
-      "id": "3e16c36290ec0a7fb621f3fb",
-      "title": "Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback",
-      "summary": "Marvel’s Wolverine developer Insomniac has said it’s planning to “further refine the player experience” based on feedback, while insisting it’s “incredibly proud” of the game.",
-      "url": "https://www.ign.com/articles/wolverine-developer-insomniac-promises-to-further-refine-the-player-experience-based-on-feedback",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T12:15:21+00:00"
-    },
-    {
-      "id": "c5846a18c00eabd22d7194c1",
-      "title": "The Creep Tapes Season 3 Review",
-      "summary": "The Creep Tapes Season 3 review: A mean, hilarious, and utterly horrifying season.",
-      "url": "https://www.ign.com/articles/the-creep-tapes-season-3-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T12:00:00+00:00"
-    },
-    {
-      "id": "484ab6b6c44c94440e0447d8",
-      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-      "summary": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-15T11:49:33+00:00"
-    },
-    {
-      "id": "7c4560a792c650d698dc6ac4",
-      "title": "Wardogs Sells 2 Million Copies in 5 Days as Early Access Shooter Blows Up on Steam",
-      "summary": "Wardogs’ incredible success has seen it sell 2 million copies after just five days of release.",
-      "url": "https://www.ign.com/articles/wardogs-sells-2-million-copies-in-5-days-as-early-access-shooter-blows-up-on-steam",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T11:44:27+00:00"
-    },
-    {
       "id": "9bf2479e37e12fe5114c7541",
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
@@ -121,61 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-15T11:40:00+00:00"
-    },
-    {
-      "id": "eacdf0bd803a783c792c2a6c",
-      "title": "Buffy the Vampire Slayer Reboot Cancellation Means Fans Will Never Discover if Buffy and Angel Ended Up Together, Sarah Michelle Gellar Jokes",
-      "summary": "Hulu's shock cancellation of its Buffy the Vampire Slayer reboot means that fans will never discover if Buffy and Angel ultimately ended up together.",
-      "url": "https://www.ign.com/articles/buffy-the-vampire-slayer-reboot-cancellation-means-fans-will-never-discover-if-buffy-and-angel-ended-up-together-sarah-michelle-gellar-jokes",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T11:38:20+00:00"
-    },
-    {
-      "id": "2b72e124099764ff9cf3c7a0",
-      "title": "Trump Calls AI Safety Warnings a 'Hoax,' Refuses to Back Guardrails Anthropic and OpenAI Insist Are Needed to Help Prevent Human Extinction",
-      "summary": "Donald Trump has called AI safety warnings a “hoax” in response to claims the technology has a greater than 10% chance of killing all humans.",
-      "url": "https://www.ign.com/articles/trump-calls-ai-safety-warnings-a-hoax-refuses-to-back-guardrails-anthropic-and-openai-insist-are-needed-to-help-prevent-human-extinction",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T11:17:33+00:00"
-    },
-    {
-      "id": "eae7bf5302a8ae52bfcf5770",
-      "title": "Is Eternal Darkness Getting a Remaster? Nightdive Studios Raises Hopes That the GameCube Classic Will Return",
-      "summary": "Hopes of an Eternal Darkness: Sanity's Requiem remaster have been raised by an intriguing comment from Nightdive Studios.",
-      "url": "https://www.ign.com/articles/is-eternal-darkness-getting-a-remaster-nightdive-studios-raises-hopes-that-the-gamecube-classic-will-return",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T10:40:56+00:00"
-    },
-    {
-      "id": "f69089ae7a16265fb12e6cba",
-      "title": "US Confirms for the First Time It Has Deployed a Space Weapon in Earth's Orbit",
-      "summary": "It sounds like something ripped straight out of a science fiction war movie, but it is now a reality: the U.S. has, for the first time, confirmed it has deployed a space weapon in Earth’s orbit.",
-      "url": "https://www.ign.com/articles/us-confirms-for-the-first-time-it-has-deployed-a-space-weapon-in-earths-orbit",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T09:52:22+00:00"
-    },
-    {
-      "id": "3824fa6052a09912b2b20668",
-      "title": "James Bond Game 007 First Light Delayed Until 2027 on Nintendo Switch 2",
-      "summary": "James Bond game 007 First Light has been delayed yet again on Nintendo Switch 2, and will now arrive in March 2027.",
-      "url": "https://www.ign.com/articles/james-bond-game-007-first-light-delayed-until-2027-on-nintendo-switch-2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T09:44:58+00:00"
     },
     {
       "id": "f749d8208634aed1a695226d",
@@ -200,28 +409,6 @@
       "publishedAt": "2026-09-15T09:07:35+00:00"
     },
     {
-      "id": "24741a97aa044a4878a9e7a0",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-15T08:49:31+00:00"
-    },
-    {
-      "id": "53b70b0fb99e3f3804e58e19",
-      "title": "US confirms for first time it has deployed space weapons",
-      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-      "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-15T08:48:28+00:00"
-    },
-    {
       "id": "c31ddac4d224122e3260e781",
       "title": "TotalEnergies s’allie à Mistral pour révolutionner l’exploration pétrolière grâce à l’intelligence artificielle",
       "summary": "Avec un partenariat de 100 millions d’euros sur trois ans, TotalEnergies et Mistral veulent notamment optimiser la gestion des réservoirs de pétrole et de gaz.",
@@ -231,17 +418,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-15T08:02:51+00:00"
-    },
-    {
-      "id": "24bf6d976fafaeabf86c9161",
-      "title": "China tightens travel restrictions for citizens",
-      "summary": "Observers say the new rules will further tighten the Chinese government's control over its citizens.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-15T06:43:09+00:00"
     },
     {
       "id": "822833e9d88e8f605df59445",
@@ -299,39 +475,6 @@
       "publishedAt": "2026-09-15T01:08:55+00:00"
     },
     {
-      "id": "d324990a173a9c3146ea4170",
-      "title": "Marvel's Wolverine Actor Liam McIntyre Isn't Fazed by Players' Brutal Comments About the Game",
-      "summary": "Wolverine actor Liam McIntyre has seen what fans are saying about him and Insomniac's latest superhero game, but it's no skin off his nose.",
-      "url": "https://www.ign.com/articles/marvels-wolverine-actor-liam-mcintyre-isnt-fazed-by-players-brutal-comments-about-the-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T00:21:43+00:00"
-    },
-    {
-      "id": "0a4d87a22ae56c38b5cc9cc1",
-      "title": "2026 Emmy Award Winners: The Full List",
-      "summary": "",
-      "url": "https://www.ign.com/articles/2026-emmy-awards-winners",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T23:30:00+00:00"
-    },
-    {
-      "id": "174783bbd736a8f7c1c6d477",
-      "title": "Save $10 Off the LEGO Nintendo Game Boy Building Set With Walmart's Hidden Coupon Code",
-      "summary": "A must own set for any LEGO fan and Nintendo gamer.",
-      "url": "https://www.ign.com/articles/lego-game-boy-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T23:30:00+00:00"
-    },
-    {
       "id": "e45798986824358a0739e4ec",
       "title": "Pubs in England and Wales to allow digital ID apps to prove age",
       "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
@@ -354,39 +497,6 @@
       "publishedAt": "2026-09-14T22:56:44+00:00"
     },
     {
-      "id": "7829cf6ef0952212674e8f54",
-      "title": "Wardogs Players Are Avoiding One of the Game's Factions Because It Has a Stigma of Attracting the Stupidest Players",
-      "summary": "Wardogs players are avoiding the game's Lonestar faction, as they seemingly attract the worst players and lose the most games.",
-      "url": "https://www.ign.com/articles/wardogs-players-are-avoiding-one-of-the-games-factions-because-it-has-a-stigma-of-attracting-the-stupidest-players",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T22:21:21+00:00"
-    },
-    {
-      "id": "da79152463664edebf2df1c7",
-      "title": "EU Kids Act Could Require Gamers to Prove Their Age Before Playing Certain Games",
-      "summary": "The EU Kids Act will be presented before the European Parliament on Thursday, and if passed, will have a meaningful impact on gamers of all ages if they want access to certain kinds of games.",
-      "url": "https://www.ign.com/articles/eu-kids-act-could-require-gamers-to-prove-their-age-before-playing-certain-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T22:05:56+00:00"
-    },
-    {
-      "id": "c6bca4d143e21d8cf1b1c13b",
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-14T22:04:14+00:00"
-    },
-    {
       "id": "023f7f6ad92c33ae41a456be",
       "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
       "summary": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
@@ -398,28 +508,6 @@
       "publishedAt": "2026-09-14T21:58:41+00:00"
     },
     {
-      "id": "cec669e8ec10c3239a0e1d26",
-      "title": "The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $135 Shipped",
-      "summary": "The best entry-level 3D printer deal.",
-      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T21:30:00+00:00"
-    },
-    {
-      "id": "4157832abd8f7485c9d03902",
-      "title": "This Fantasy Party Game Combines Drinking Rules With D&D-Themed Gameplay",
-      "summary": "",
-      "url": "https://www.ign.com/articles/this-fantasy-party-game-combines-drinking-rules-with-dd-themed-gameplay-is-on-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T21:30:00+00:00"
-    },
-    {
       "id": "f082cc3055ee3009de228602",
       "title": "Legendary costume designer Bob Mackie dies aged 87",
       "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
@@ -429,50 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-14T21:29:12+00:00"
-    },
-    {
-      "id": "f7b148f68e5eff339ae46bc6",
-      "title": "Xbox CEO Asha Sharma May Have Personally Responded to Your Customer Support Ticket",
-      "summary": "New-ish Xbox CEO Asha Sharma has had a busy first six months on the job, including killing the divisive \"This is Xbox\" marketing campaign, slashing Xbox Game Pass Ultimate's subscription price, and unfortunately also overseeing mass layoffs and development studio spin-outs. But as Sharma has gotten settled in her job, she's also been spending time ",
-      "url": "https://www.ign.com/articles/xbox-ceo-asha-sharma-may-have-personally-responded-to-your-customer-support-ticket",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T21:20:07+00:00"
-    },
-    {
-      "id": "8fc31d0e89e7b51e893c2a9d",
-      "title": "The SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life Drops to $250",
-      "summary": "Wireless free with zero downtime.",
-      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T20:35:00+00:00"
-    },
-    {
-      "id": "8f77f70f897c35722a7230d9",
-      "title": "Dog Breeders Are Offering Puppies in Exchange for Pokemon Cards",
-      "summary": "The card collecting community is in an uproar after two dog breeders were caught offering to trade their French Bulldog puppies in exchange for Pokémon cards, highlighting a growing issue within the space.",
-      "url": "https://www.ign.com/articles/dog-breeders-are-offering-puppies-in-exchange-for-pokemon-cards",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-14T20:16:13+00:00"
-    },
-    {
-      "id": "88a07821ab1940dcb82a6747",
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "summary": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-14T18:26:20+00:00"
     },
     {
       "id": "7430917acaafdd369b498c5d",
@@ -495,28 +539,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-14T17:05:31+00:00"
-    },
-    {
-      "id": "6239f554d3ef41c92a47369a",
-      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-      "summary": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-14T16:48:10+00:00"
-    },
-    {
-      "id": "57164c572318b0c632d46798",
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-14T16:23:42+00:00"
     },
     {
       "id": "6bde35c80d6c37806eaec9ed",
@@ -552,17 +574,6 @@
       "publishedAt": "2026-09-14T15:09:27+00:00"
     },
     {
-      "id": "de122d3391383e7d7e9cc3b0",
-      "title": "Flash flooding interrupts half-marathon, submerges cars",
-      "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-14T15:01:28+00:00"
-    },
-    {
       "id": "a71d386272107da922075b6c",
       "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
       "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
@@ -596,17 +607,6 @@
       "publishedAt": "2026-09-14T12:00:08+00:00"
     },
     {
-      "id": "00ebd4bc9acc93fe6504f0fc",
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-14T11:31:39+00:00"
-    },
-    {
       "id": "4e34f65b76b81edfc3f8a587",
       "title": "« Le débat croissant sur l’“IApocalypse” est aussi et surtout une histoire de gros sous »",
       "summary": "Alors que les dirigeants du secteur de l’intelligence artificielle alertent sur les risques existentiels de leur technologie, Anthropic s’apprête à réaliser la plus importante entrée en Bourse de l’histoire. Un dangereux paradoxe que Nicolas Chapuis, correspondant du « Monde » à New York, explore dans sa chronique.",
@@ -627,17 +627,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-14T09:01:47+00:00"
-    },
-    {
-      "id": "78a8001a55e7cc8b3c5c14de",
-      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-      "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
-      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-14T08:58:27+00:00"
     },
     {
       "id": "1f111b27bb59f12133ea45cb",
@@ -728,17 +717,6 @@
       "publishedAt": "2026-09-13T09:28:45+00:00"
     },
     {
-      "id": "0267198401dd01eb946588ab",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-13T09:05:10+00:00"
-    },
-    {
       "id": "8f5f6370a50ee5ec38ee1ba3",
       "title": "Sur les réseaux sociaux, ces jeunes consommatrices attirées par les contenus des « tradwives »",
       "summary": "Sur les réseaux, les épouses (au foyer) traditionnelles réunissent une communauté majoritairement féminine. Alors que les jeunes femmes françaises sont de plus en plus féministes, le phénomène suscite des interrogations : qui sont ces « tradwatcheuses », et pourquoi le font-elles ?",
@@ -750,17 +728,6 @@
       "publishedAt": "2026-09-13T05:00:06+00:00"
     },
     {
-      "id": "67c816aa05ac5ba8c58e3316",
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "summary": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-13T02:41:51+00:00"
-    },
-    {
       "id": "fb70c188f48e1f30c561f040",
       "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
       "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
@@ -770,28 +737,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-12T23:51:05+00:00"
-    },
-    {
-      "id": "3f3a9cd637b18872be8b69bb",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T22:00:28+00:00"
-    },
-    {
-      "id": "4bf2cec9c1ac3098d1915fa7",
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-12T21:25:28+00:00"
     },
     {
       "id": "f3fe0f6e7a4c13caabec7d1d",
@@ -871,17 +816,6 @@
       "publishedAt": "2026-09-12T00:35:50+00:00"
     },
     {
-      "id": "0185b475e3d9673e860a8665",
-      "title": "La mise en garde de 25 médailles Fields : « Les objectifs des entreprises d’IA et ceux de la communauté mathématique divergent profondément »",
-      "summary": "En dépit des prouesses mathématiques réalisées par l’intelligence artificielle, un collectif rassemblant 25 lauréats de la médaille Fields s’inquiète, dans une tribune au « Monde », du tort causé par ces technologies à leur discipline.",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/11/la-mise-en-garde-de-25-medailles-fields-les-objectifs-des-entreprises-d-ia-et-ceux-de-la-communaute-mathematique-divergent-profondement_6770630_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-11T18:00:01+00:00"
-    },
-    {
       "id": "092fb0ff08739da3039857f2",
       "title": "UK government rejects 'kill switch' idea for dangerous AI",
       "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
@@ -891,17 +825,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-11T15:07:07+00:00"
-    },
-    {
-      "id": "1b605e30a0d4e24174821263",
-      "title": "L’IA Claude parvient à formaliser en onze jours la démonstration du dernier théorème de Fermat",
-      "summary": "L’agent d’Anthropic a traduit cette preuve d’une complexité hors norme dans un langage de programmation, permettant de la vérifier automatiquement. Cette expérience ouvre la voie à de possibles progrès dans la validation des résultats mathématiques.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/11/l-ia-claude-parvient-a-formaliser-en-onze-jours-la-demonstration-du-dernier-theoreme-de-fermat_6770606_1650684.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-11T15:00:35+00:00"
     },
     {
       "id": "b37e8361c599e2f8ec1e5e6b",
