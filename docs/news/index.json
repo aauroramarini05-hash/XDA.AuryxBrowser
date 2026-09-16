@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-09-16T02:30:17.568492+00:00",
+  "updatedAt": "2026-09-16T08:05:51.496173+00:00",
   "items": [
+    {
+      "id": "632f0159c1a064a0f610b39f",
+      "title": "At least 12 killed after war-damaged Gaza building collapses",
+      "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living.",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-16T07:58:22+00:00"
+    },
+    {
+      "id": "9cdc88a404395893e6a3afb5",
+      "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+      "summary": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-16T07:00:58+00:00"
+    },
+    {
+      "id": "c980e51f2903badefc6dcadc",
+      "title": "Trails In The Sky 2nd Chapter Review",
+      "summary": "An impressive remake which captures everything that made the original so endearing.",
+      "url": "https://www.ign.com/articles/trails-in-the-sky-2nd-chapter-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "id": "7ccf06e3f2302c4ef74fedd8",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-16T06:57:32+00:00"
+    },
+    {
+      "id": "0f13f85ebf65587ce0aac00d",
+      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "summary": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-16T06:12:04+00:00"
+    },
+    {
+      "id": "a34b40282648027c43d05492",
+      "title": "Runaway horse captured by police on motorbikes",
+      "summary": "The unharmed horse escaped from its owner before the start of a parade in New Mexico",
+      "url": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-16T05:57:23+00:00"
+    },
+    {
+      "id": "2b0e12f9aad4fc42f4107aab",
+      "title": "Mark Zuckerberg, patron de Meta, rejette les appels à ralentir le développement de l’IA",
+      "summary": "Le groupe, qui investit jusqu’à 145 milliards de dollars cette année dans ses infrastructures d’IA, bataille contre toute régulation susceptible de le ralentir. « Les gens ne voudront pas utiliser des agents qui ne sont pas alignés sur leurs intérêts et qui ne font pas ce qu’ils demandent », a défendu le dirigeant de Meta.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/16/ia-le-patron-de-meta-mark-zuckerberg-rejette-les-appels-a-ralentir-son-developpement_6774782_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-16T03:25:48+00:00"
+    },
+    {
+      "id": "af2a1a5a9638082d2ffeaef7",
+      "title": "Bernie Sanders, figure de la gauche américaine, et Steve Bannon, imprécateur du trumpisme, s’unissent pour dénoncer les « oligarques » de l’IA",
+      "summary": "Lors d’une conférence à Washington, le 15 septembre, le sénateur du Vermont et l’animateur national-populiste ont alerté sur la nécessité de ralentir et d’encadrer les progrès de l’intelligence artificielle, sans s’entendre sur les moyens pour y parvenir.",
+      "url": "https://www.lemonde.fr/international/article/2026/09/16/etats-unis-face-aux-risques-incontroles-de-l-ia-la-figure-de-la-gauche-bernie-sanders-et-l-imprecateur-maga-steve-bannon-affichent-leur-convergence_6774747_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-16T03:00:05+00:00"
+    },
+    {
+      "id": "b78265293164bf1b708889d7",
+      "title": "Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now",
+      "summary": "Wo Long 2: Wings of Ember, the upcoming action-soulslike sequel from Team Ninja (Nier, Ninja Gaiden), will be released on March 4, 2027 for PC, PS5, Xbox Series X|S (including day one on Xbox Game Pass Ultimate), and Nintendo Switch 2. Meanwhile, a free playable alpha demo is available now on PS5, Xbox Series X|S, and PC. The demo will only be acti",
+      "url": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-release-date-demo-available-now",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-16T01:54:46+00:00"
+    },
     {
       "id": "9fb21c689a7bee5b03c1f15f",
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
@@ -22,17 +121,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-16T01:02:00+00:00"
-    },
-    {
-      "id": "0625e46a75bc63302873a28c",
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-16T00:59:20+00:00"
     },
     {
       "id": "9e9605f0f1e2e558bc3dd34e",
@@ -288,17 +376,6 @@
       "publishedAt": "2026-09-15T18:00:00+00:00"
     },
     {
-      "id": "756047b2bbb5fc1131c92afd",
-      "title": "The Classic Carcassonne Board Game Drops to Its Lowest Price in Years",
-      "summary": "Back to the basics.",
-      "url": "https://www.ign.com/articles/carcassonne-board-game-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T18:00:00+00:00"
-    },
-    {
       "id": "de18e05257a88925612be5f8",
       "title": "British woman abducted in Malawi, police say",
       "summary": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
@@ -319,17 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-15T17:35:02+00:00"
-    },
-    {
-      "id": "78daf5397ac1062d62bc6626",
-      "title": "Casino Royale Is Returning to Theaters for the Film's 20th Anniversary",
-      "summary": "Daniel Craig's first James Bond film, Casino Royale, is returning to theaters very soon for the film's 20th anniversary.",
-      "url": "https://www.ign.com/articles/casino-royale-is-returning-to-theaters-for-the-films-20th-anniversary",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-15T17:26:21+00:00"
     },
     {
       "id": "7e7db36ec9066ea74063ba86",
@@ -550,17 +616,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-14T22:56:44+00:00"
-    },
-    {
-      "id": "023f7f6ad92c33ae41a456be",
-      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
-      "summary": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
-      "url": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-14T21:58:41+00:00"
     },
     {
       "id": "f082cc3055ee3009de228602",
@@ -825,28 +880,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-12T04:20:07+00:00"
-    },
-    {
-      "id": "9bf6ea628f541aa69a9ddd3f",
-      "title": "L’administration fiscale peut-elle utiliser les réseaux sociaux pour contrôler les contribuables ?",
-      "summary": "Les données collectées peuvent servir de preuve pour justifier des redressements, prévient Adrien Merchadier, avocat chez CMS Francis Lefebvre.",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/12/l-administration-fiscale-peut-elle-utiliser-les-reseaux-sociaux-pour-controler-les-contribuables_6770941_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-12T04:00:01+00:00"
-    },
-    {
-      "id": "a5556d56ee9a06a511d94189",
-      "title": "Communiquer vraiment avec son animal, un fantasme en passe de se réaliser ?",
-      "summary": "« Au bestiaire ! ». Une firme chinoise commercialise un collier qui permettrait de traduire en langage humain les sons émis par son animal de compagnie. Une invention qui s’inscrit dans une pratique en vogue : la communication animale. Mais peut-on vraiment dialoguer avec son chat ou son chien ?",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/09/12/communiquer-vraiment-avec-son-animal-un-fantasme-en-passe-de-se-realiser_6770839_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-12T03:30:07+00:00"
     },
     {
       "id": "5b739babbd8ce5b6ac0d07f6",
