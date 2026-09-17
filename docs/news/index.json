@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-16T23:25:19.291208+00:00",
+  "updatedAt": "2026-09-17T02:34:18.651932+00:00",
   "items": [
+    {
+      "id": "e5e9059d6bada18de31b7f3a",
+      "title": "La Californie impose de mentionner l’utilisation de l’IA dans les publicités",
+      "summary": "A partir du 1ᵉʳ janvier 2027, les publicités utilisant des acteurs créés avec l’IA devront arborer un message explicatif. Une disposition valable à la télévision, à la radio et aussi sur Internet et sur les réseaux sociaux, sous peine de sanctions.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/17/la-californie-impose-de-mentionner-l-utilisation-de-l-ia-dans-les-publicites_6775700_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-17T01:02:42+00:00"
+    },
+    {
+      "id": "dc14273b1277b65d1cd4ac64",
+      "title": "Slow Horses Season 6, Episode 1 Review — 'Circle of Life'",
+      "summary": "Apple TV's spy series Slow Horses is back just a year after Season 5 with a Season 6 premiere that's still feels as familiar as ever, even with new writing leadership.",
+      "url": "https://www.ign.com/articles/slow-horses-season-6-episode-1-review-circle-of-life",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-17T00:41:50+00:00"
+    },
+    {
+      "id": "e0e413220afd11212597c03a",
+      "title": "US interest rates raised for first time in three years",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-17T00:40:17+00:00"
+    },
+    {
+      "id": "334e544e2ae64d1b22674646",
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-17T00:32:05+00:00"
+    },
+    {
+      "id": "c2db826092e4321f6de855f9",
+      "title": "The SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life Drops to a New Low",
+      "summary": "Wireless freedom with zero downtime.",
+      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-blemished-box-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-16T23:45:00+00:00"
+    },
+    {
+      "id": "4d73b00aad532b618afc52eb",
+      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "summary": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-16T23:41:57+00:00"
+    },
+    {
+      "id": "a89f0795920da1ac12a21ba3",
+      "title": "Save an Extra 10% Off the New SteelSeries Aeon Pro Wireless Gaming Controller With Infinite Battery Life",
+      "summary": "Quite possibly the best wireless PC and Xbox gaming controller ever.",
+      "url": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-16T23:40:00+00:00"
+    },
     {
       "id": "789d49be6d9d663ee9e4ec66",
       "title": "Would you buy branded clothing from your favourite tech firm?",
@@ -11,6 +88,28 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-16T23:18:47+00:00"
+    },
+    {
+      "id": "5b5995ef694db99e0c1d4210",
+      "title": "LittleBigPlanet Developer Reportedly Working on Animal Crossing-Like Game for 2027 Release",
+      "summary": "LittleBigPlanet developer Media Molecule is reportedly working on a new social-sim game, similar to Animal Crossing, and it may release next year.",
+      "url": "https://www.ign.com/articles/littlebigplanet-developer-reportedly-working-on-animal-crossing-like-game-for-2027-release",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-16T23:05:32+00:00"
+    },
+    {
+      "id": "579494c9e33e16b3c6fb4510",
+      "title": "GPT-6 Astra Plays Minecraft, Gets So Depressed After Creeper Destroys Its Progress That It Farms Potatoes for Hours",
+      "summary": "OpenAI’s newest model, GPT-6 Astra, got so depressed after a creeper upended its progress in Minecraft that it listlessly farmed potatoes for hours and grew paranoid of anything green.",
+      "url": "https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-16T22:41:56+00:00"
     },
     {
       "id": "53cf9f183d9d27b04315200c",
@@ -35,19 +134,8 @@
       "publishedAt": "2026-09-16T22:23:02+00:00"
     },
     {
-      "id": "e0e413220afd11212597c03a",
-      "title": "US interest rates raised for first time in three years",
-      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-16T22:16:51+00:00"
-    },
-    {
-      "id": "5b47290d867760061002d54b",
-      "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+      "id": "99a270fa110dada32351552a",
+      "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
       "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
       "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -244,17 +332,6 @@
       "publishedAt": "2026-09-16T18:51:13+00:00"
     },
     {
-      "id": "b0114318260ece800e8b9f32",
-      "title": "The 4TB Seagate One Touch USB Portable Hard Drive Drops to $159.99 at B&H Photo",
-      "summary": "The best price for 4TB of portable storage in today's overpriced market.",
-      "url": "https://www.ign.com/articles/seagate-one-touch-usb-portable-hard-drive-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-16T18:45:00+00:00"
-    },
-    {
       "id": "fa8087076640b8c8c6bd22c6",
       "title": "Photos show widespread damage at US sites from Iranian attacks",
       "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
@@ -264,50 +341,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-16T18:36:16+00:00"
-    },
-    {
-      "id": "6f3c8315cd94c6714d79cb90",
-      "title": "Marvel's Wolverine Players Are Testing Its Motorcycle Sequence to See if Logan Can Die if You Don't Touch the Controller",
-      "summary": "Marvel’s Wolverine has kicked off no end of debates on social media, with the latest of these centering around a chase sequence that sees Logan weaving through traffic on a motorcycle.",
-      "url": "https://www.ign.com/articles/marvels-wolverine-players-are-testing-its-motorcycle-sequence-to-see-if-logan-can-die-if-you-dont-touch-the-controller",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-16T18:33:21+00:00"
-    },
-    {
-      "id": "06a81305f151c263c005d5b6",
-      "title": "Quentin Tarantino’s New Novel The Adventures of Cliff Booth Is Up for Preorder",
-      "summary": "Quentin Tarantino has a new novel coming out in December called The Adventures of Cliff Booth. It's a novelization of the upcoming Brad Pitt movie, and it's available to preorder now.",
-      "url": "https://www.ign.com/articles/quentin-tarantinos-new-novel-the-adventures-of-cliff-booth-is-up-for-preorder",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-16T18:29:19+00:00"
-    },
-    {
-      "id": "16a05f54f8d0a3ec0d87a54f",
-      "title": "Pirate Who Cracked Denuvo Games Like Resident Evil Requiem Plans to Keep Doing So Despite Being Sued",
-      "summary": "A pirate known for cracking games that utilize the DRM software Denuvo is being hit with a lawsuit... but that isn't stopping them from continuing on.",
-      "url": "https://www.ign.com/articles/pirate-who-cracked-denuvo-games-like-resident-evil-requiem-plans-to-continue-doing-so-despite-being-sued",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-16T18:24:25+00:00"
-    },
-    {
-      "id": "72e691ca8097d57caf4ecfca",
-      "title": "Humble’s Isometric Immersion CRPG Pack Gets You 11 Exciting Games for Just $23",
-      "summary": "Humble’s Isometric Immersion CRPG Pack includes 11 games that have a total value of $291, but you can grab them all for your PC library for as low as $23.",
-      "url": "https://www.ign.com/articles/humble-bundle-isometric-immersion-crpg-pack",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-16T18:12:41+00:00"
     },
     {
       "id": "e0bbe9c95ef26e1535491a4a",
@@ -440,17 +473,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-16T13:00:00+00:00"
-    },
-    {
-      "id": "334e544e2ae64d1b22674646",
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-16T12:36:51+00:00"
     },
     {
       "id": "fbdb670c58363ca37406fcc7",
@@ -805,17 +827,6 @@
       "publishedAt": "2026-09-14T15:09:27+00:00"
     },
     {
-      "id": "0a8052739460ef9aa6c52fee",
-      "title": "Johan Theuret, directeur général adjoint de la métropole de Rennes : « Chaque cyberattaque renforce l’idée que l’administration demande beaucoup sans protéger suffisamment »",
-      "summary": "La cybersécurité se mue en enjeu de politique publique, tant celle-ci ne protège pas seulement des systèmes, mais aussi la relation entre les citoyens et l’administration, alerte le cofondateur du think tank Le Sens du service public, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/14/johan-theuret-directeur-general-adjoint-de-la-metropole-de-rennes-chaque-cyberattaque-renforce-l-idee-que-l-administration-demande-beaucoup-sans-proteger-suffisamment_6773787_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-14T12:00:11+00:00"
-    },
-    {
       "id": "643da570c722b9e4939759f8",
       "title": "Why are there concerns AI could threaten humanity, and how real are they?",
       "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
@@ -880,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-12T01:00:19+00:00"
-    },
-    {
-      "id": "b4691d7708e5f5e0a120ad84",
-      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-12T00:35:50+00:00"
     },
     {
       "id": "320557d1cda7ccf9e1d53222",
