@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-09-19T19:05:49.409306+00:00",
+  "updatedAt": "2026-09-19T21:57:25.644283+00:00",
   "items": [
     {
-      "id": "b988ce78cd563343c2a6d8f7",
-      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-      "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+      "id": "c610ddd0c6e5ba2a5d88c3cf",
+      "title": "Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze",
+      "summary": "Big Bang Theory spinoff Stuart Fails to Save the Universe featured a surprise fight between a live-action Flash and Mr. Freeze, but the show's creators originally wanted a different DC hero cameo.",
+      "url": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-19T21:29:25+00:00"
+    },
+    {
+      "id": "0093542e7e76b96c4af972a9",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-19T21:01:56+00:00"
+    },
+    {
+      "id": "b994ed9682609bb8a8614e74",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-19T17:50:14+00:00"
+      "publishedAt": "2026-09-19T20:16:07+00:00"
+    },
+    {
+      "id": "e5fdde6f4eec66845d21ba56",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-19T19:13:49+00:00"
+    },
+    {
+      "id": "89af373b114437fde28b71e3",
+      "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
+      "summary": "The Last of Us game director Bruce Straley has apologized to the God of War Laufey team after his comments about modern AAA games brought \"uninvited and unnecessary negative attention.\"",
+      "url": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-19T19:08:59+00:00"
     },
     {
       "id": "4384b5d467f37e50641bb3fe",
@@ -55,17 +99,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-19T15:35:00+00:00"
-    },
-    {
-      "id": "e5fdde6f4eec66845d21ba56",
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-19T15:19:39+00:00"
     },
     {
       "id": "cafec4c540d6ce946a63d9b6",
@@ -220,17 +253,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-19T06:04:53+00:00"
-    },
-    {
-      "id": "83a8fb7f7aa50aa90fc17144",
-      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-      "summary": "Residents later received the all-clear after explosions were reported in the capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-19T04:20:47+00:00"
     },
     {
       "id": "bf6c6f70461c652be280b83d",
@@ -451,28 +473,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-18T21:06:26+00:00"
-    },
-    {
-      "id": "e356c6350cc840f323272df4",
-      "title": "Walmart Has a 512GB Nintendo Switch 2 Memory Card for $75 With Hidden YMMV Coupon, 256GB for $37",
-      "summary": "You'll need to get this sooner or later if you're an avid Switch gamer.",
-      "url": "https://www.ign.com/articles/best-microsd-express-memory-card-deal-for-nintendo-switch-2-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-18T21:00:00+00:00"
-    },
-    {
-      "id": "fb0c7c5337b5e2942570bdad",
-      "title": "The Witch Hat Atelier Manga Box Set Gets a Major Price Cut at Amazon Ahead of Season 2",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-witch-hat-atelier-manga-box-set-gets-a-major-price-cut-at-amazon-ahead-of-season-2",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-18T20:52:58+00:00"
     },
     {
       "id": "ce7b709fd37507fdd2bb2e08",
