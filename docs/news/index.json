@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-09-18T22:05:29.099706+00:00",
+  "updatedAt": "2026-09-19T00:48:39.723355+00:00",
   "items": [
+    {
+      "id": "c2ad331b219421e2a5d2ac62",
+      "title": "Sam Altman, le patron d’OpenAI, interviendra au Conseil de sécurité des Nations unies",
+      "summary": "Le PDG de l’entreprise qui a développé ChatGPT doit faire une présentation, mercredi 23 septembre, à New York, au cours d’une réunion organisée à l’initiative de la France, dans un contexte de fortes inquiétudes autour des risques liés à l’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-19T00:39:55+00:00"
+    },
+    {
+      "id": "b038ce0114a2fb78efa86a79",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+      "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-19T00:03:53+00:00"
+    },
+    {
+      "id": "c3f70758476c8a25d088dec9",
+      "title": "The SteelSeries Arctis Nova Pro Omni Gaming Headset Drops to the Lowest Price Ever at Amazon Resale",
+      "summary": "A wireless gaming headset with infinite battery life.",
+      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-september-2026-2",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-18T23:50:00+00:00"
+    },
+    {
+      "id": "be0fe28975ed5fb37bc7c3ea",
+      "title": "Walmart Just Discounted Over a Dozen Nintendo Switch Games, Plus Get an Extra $10 With This Secret Coupon",
+      "summary": "It's a good time to be a Switch gamer.",
+      "url": "https://www.ign.com/articles/nintendo-switch-customer-appreciation-sale-at-walmart-plus-secret-coupon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-18T23:45:00+00:00"
+    },
+    {
+      "id": "e2418330f12fc1deb174b42b",
+      "title": "Save 15% Off the SteelSeries Arctis Nova Pro Omni Gaming Headset AND Get a Free $110 Aerox 3 Mouse",
+      "summary": "$170 in total savings.",
+      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-18T23:30:00+00:00"
+    },
+    {
+      "id": "64ad4c25a4efbbe240aa21c5",
+      "title": "The New SteelSeries Aeon Pro Wireless Gaming Controller With Infinite Battery Life Is Now Available",
+      "summary": "Quite possibly the best wireless PC and Xbox gaming controller ever.",
+      "url": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-18T23:30:00+00:00"
+    },
     {
       "id": "82e5362664c6e14cc1dc00f2",
       "title": "Trump says he is banning CNN and Politico from White House",
@@ -10,7 +76,95 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-18T21:45:19+00:00"
+      "publishedAt": "2026-09-18T23:26:48+00:00"
+    },
+    {
+      "id": "b7f12f2e2b9df4523bb8356d",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "summary": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-18T23:18:02+00:00"
+    },
+    {
+      "id": "947c1bbad89eb4326294a09d",
+      "title": "Would Australians support a smart glasses ban?",
+      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-18T23:15:10+00:00"
+    },
+    {
+      "id": "b2d2165000709a135015c17f",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "summary": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-18T23:07:16+00:00"
+    },
+    {
+      "id": "adc3911245d1d428482eb587",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-18T23:04:41+00:00"
+    },
+    {
+      "id": "0a1cf4d68e195bb5ffb05555",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-18T23:03:38+00:00"
+    },
+    {
+      "id": "673af866e03be330a84d4447",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-18T22:58:55+00:00"
+    },
+    {
+      "id": "3050a189e34ff0996fabd5e2",
+      "title": "Final Fantasy 7 Revelation Director Warns of 200GB Install Size for Remake Trilogy's Final Chapter",
+      "summary": "Final Fantasy 7 Revelation will require around 200GB of storage when it launches next year, director Naoki Hamaguchi has warned.",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-director-warns-of-200gb-install-size-for-remake-trilogys-final-chapter",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-18T22:26:58+00:00"
+    },
+    {
+      "id": "216a1e3b7475f3c127f84578",
+      "title": "Save an Extra $400 Off the Gorgeous 34\" LG GX90 Ultra-Wide 240Hz G-Sync OLED Gaming Monitor",
+      "summary": "Curvalicious.",
+      "url": "https://www.ign.com/articles/lg-gx90-oled-gaming-monitor-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-18T21:55:00+00:00"
     },
     {
       "id": "7107195582dfdcdb129a7f63",
@@ -244,17 +398,6 @@
       "publishedAt": "2026-09-18T17:15:02+00:00"
     },
     {
-      "id": "29bcd39418bdba1d46afc569",
-      "title": "Get Final Fantasy VII Remake Intergrade Switch 2 Edition for Under $9 by Following This 1 Easy Step",
-      "summary": "We're getting close to wrapping up this trilogy.",
-      "url": "https://www.ign.com/articles/final-fantasy-7-remake-intergrade-for-switch-2-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-18T17:15:00+00:00"
-    },
-    {
       "id": "370f208903f8d9f66582c513",
       "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
       "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
@@ -264,61 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-18T17:10:58+00:00"
-    },
-    {
-      "id": "bbb81699756bb239df4669ec",
-      "title": "Get a 20,000mAh Power Bank That Quadruples Your Total Nintendo Switch 2 Playtime for Just $14",
-      "summary": "Never run out of juice again.",
-      "url": "https://www.ign.com/articles/kesguar-20000-mah-power-bank-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-18T17:10:00+00:00"
-    },
-    {
-      "id": "d959607797b6d55ed4e380bc",
-      "title": "Exclusive: First Look at Hirayasumi Anime Episode 1 to Be Revealed in New York City in October",
-      "summary": "IGN can exclusively reveal that the first-ever public screening of Hirayasumi Anime will take place during a one-night event on October 7 at New York City's Japan Society, giving fans an early look at Episode 1 before the series officially debuts in 2027.",
-      "url": "https://www.ign.com/articles/exclusive-first-look-at-hirayasumi-anime-episode-1-to-be-revealed-in-new-york-city-in-october",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-18T17:00:00+00:00"
-    },
-    {
-      "id": "9041fcd8ac99fe0ff3ca9d6d",
-      "title": "The 10 Coolest Pokémon TCG 30th Celebration Cards",
-      "summary": "Here's our top 10 picks for the coolest and most artistically inspired Pokémon TCG 30th Celebration cards we've found so far, including Jirachi, Mew, Sylveon, and a few other budget-friendly fan favorites.",
-      "url": "https://www.ign.com/articles/pokemon-30th-celebration-coolest-cards",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-18T17:00:00+00:00"
-    },
-    {
-      "id": "e8aea00cbed0d67f94e433e8",
-      "title": "Zach Cregger's Resident Evil Surpasses Sonic the Hedgehog 3 to Become Highest-Rated Video Game Movie of All Time",
-      "summary": "Zach Cregger's Resident Evil is out today, and it's already the highest-rated video game movie of all time on Rotten Tomatoes.",
-      "url": "https://www.ign.com/articles/zach-creggers-resident-evil-surpasses-sonic-the-hedgehog-3-to-become-highest-rated-video-game-movie-of-all-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-18T16:55:25+00:00"
-    },
-    {
-      "id": "12907d3c897add9f2b368bd0",
-      "title": "Save $10 Off Your Grand Theft Auto VI Limited Edition PS5 DualSense Controller Preorder",
-      "summary": "Prepare yourself for Vice City.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-vi-limited-edition-ps5-dualsense-controller-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-18T16:50:00+00:00"
     },
     {
       "id": "ed19b1d43b14ac25f9cba05c",
@@ -563,17 +651,6 @@
       "publishedAt": "2026-09-17T14:13:15+00:00"
     },
     {
-      "id": "03940cc8b25f872d49db9b43",
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "summary": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-17T13:47:36+00:00"
-    },
-    {
       "id": "d999d01a31221e505eb88a66",
       "title": "Comment OpenAI s’engage à mieux communiquer quand des incidents impliquent ses modèles d’IA",
       "summary": "L’entreprise, dont des modèles d’IA avaient contourné les contrôles pour pirater Hugging Face durant l’été 2026, assure que les incidents surprenants ou inquiétants seront désormais systématiquement documentés.",
@@ -605,17 +682,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-17T08:22:12+00:00"
-    },
-    {
-      "id": "73370aebd54566f5834cc6fa",
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-17T05:00:36+00:00"
     },
     {
       "id": "c27c18f3f503a9f5aca4b11b",
@@ -706,17 +772,6 @@
       "publishedAt": "2026-09-16T21:50:33+00:00"
     },
     {
-      "id": "574fcc4561130abd2359462f",
-      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
-      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-16T21:24:24+00:00"
-    },
-    {
       "id": "6004076b2dbe5107c4184137",
       "title": "Avec « La Team », l’émission phare de feu Game One est de retour à l’antenne avec une équipe inchangée",
       "summary": "Neuf mois après la fermeture de la chaîne de télévision dédiée aux jeux vidéo, l’équipe de son émission phare reprend du service. La première de « La Team » a été diffusée mercredi sur France TV Slash, le canal numérique de France Télévisions.",
@@ -750,28 +805,6 @@
       "publishedAt": "2026-09-16T15:30:07+00:00"
     },
     {
-      "id": "c751b3b025bab546fd2621b5",
-      "title": "Les « gilets jaunes » de retour le 17 octobre : itinéraire d’une rumeur née sur TikTok",
-      "summary": "Des appels prétendument « officiels » à relancer le mouvement né en novembre 2018 sont apparus ces derniers jours sur les réseaux sociaux. Ils semblent en réalité relayer une vidéo devenue virale par hasard.",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/16/les-gilets-jaunes-de-retour-le-17-octobre-itineraire-d-une-rumeur-nee-sur-tiktok_6775349_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-16T14:32:49+00:00"
-    },
-    {
-      "id": "a0b757ad08746d3aeda16b92",
-      "title": "Carney's new love-in with EU has everything to do with Trump",
-      "summary": "The Canadian PM is in Strasbourg this week seeking a \"unique alliance\" - and there is one clear catalyst.",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-16T11:08:01+00:00"
-    },
-    {
       "id": "7ccf06e3f2302c4ef74fedd8",
       "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
       "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
@@ -781,17 +814,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-16T10:02:05+00:00"
-    },
-    {
-      "id": "b8188d037e318d78f8a67511",
-      "title": "Why Trump is all-in on AI despite the warnings",
-      "summary": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
-      "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-16T08:41:44+00:00"
     },
     {
       "id": "817141480d7d6eba2293a4d3",
@@ -858,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-13T18:49:37+00:00"
-    },
-    {
-      "id": "f376ce0898c4ded62996b307",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-13T18:20:22+00:00"
     },
     {
       "id": "5b739babbd8ce5b6ac0d07f6",
