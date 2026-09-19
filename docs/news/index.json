@@ -1,16 +1,82 @@
 {
-  "updatedAt": "2026-09-19T09:59:19.676549+00:00",
+  "updatedAt": "2026-09-19T13:44:52.679820+00:00",
   "items": [
     {
-      "id": "ddc6f8c4e4402125e83fa59f",
-      "title": "Deadly shark attack prompts rare kill order in Western Australia",
-      "summary": "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.",
+      "id": "6468c3ac0db16a9cf525fc11",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-19T13:39:32+00:00"
+    },
+    {
+      "id": "f5f835fa96c5562eaba31add",
+      "title": "L’IA, un outil à double tranchant pour les climatologues",
+      "summary": "Si l’intelligence artificielle permet d’affiner les prédictions, elle reste très consommatrice d’eau et d’énergie. Les scientifiques s’accordent sur la nécessité d’un usage raisonné et alertent sur l’importance, pour les institutions publiques, de garder la main sur les modèles.",
+      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/19/l-ia-un-outil-a-double-tranchant-pour-les-climatologues_6777722_6065879.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-19T13:00:03+00:00"
+    },
+    {
+      "id": "8c8aa47381b75a77bdf33333",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
       "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-19T09:19:12+00:00"
+      "publishedAt": "2026-09-19T11:50:22+00:00"
+    },
+    {
+      "id": "673af866e03be330a84d4447",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "summary": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-19T11:36:55+00:00"
+    },
+    {
+      "id": "1ebc3b0964ee061f7be719d8",
+      "title": "Les Etats-Unis ont renoncé à l’arraisonnement d’un navire chinois au Moyen-Orient, envisagé sur la base d’un rapport en partie rédigé par IA, selon CNN",
+      "summary": "L’incident intervient alors que l’armée et les services de renseignement américains accélèrent l’intégration de l’IA, de l’analyse du renseignement à la sélection de cibles.",
+      "url": "https://www.lemonde.fr/international/article/2026/09/19/les-etats-unis-ont-renonce-a-l-arraisonnement-d-un-navire-chinois-au-moyen-orient-envisage-sur-la-base-d-un-rapport-en-partie-redige-par-ia-selon-cnn_6777674_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-19T11:03:32+00:00"
+    },
+    {
+      "id": "daede05cb8bc76eff6b3a7b1",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-19T10:27:37+00:00"
+    },
+    {
+      "id": "1bef5216776af9e5fd6948cb",
+      "title": "La menace de microbes dangereux fabriqués avec l’aide de l’intelligence artificielle se concrétise",
+      "summary": "Alors que les premiers virus conçus par IA viennent d’être décrits par une équipe américaine, le géant Anthropic annonce avoir été confronté à des tentatives de détournement de ses modèles pour créer de nouveaux agents pathogènes.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/19/la-menace-de-microbes-dangereux-fabriques-avec-l-aide-de-l-intelligence-artificielle-se-concretise_6777637_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-19T09:56:25+00:00"
     },
     {
       "id": "6327408fc33ab7aef33cf3fe",
@@ -66,17 +132,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-19T05:36:36+00:00"
-    },
-    {
-      "id": "6468c3ac0db16a9cf525fc11",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-19T04:27:11+00:00"
     },
     {
       "id": "83a8fb7f7aa50aa90fc17144",
@@ -264,17 +319,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-18T23:03:38+00:00"
-    },
-    {
-      "id": "673af866e03be330a84d4447",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-18T22:58:55+00:00"
     },
     {
       "id": "3050a189e34ff0996fabd5e2",
@@ -772,17 +816,6 @@
       "publishedAt": "2026-09-17T03:00:12+00:00"
     },
     {
-      "id": "e5e9059d6bada18de31b7f3a",
-      "title": "La Californie impose de mentionner l’utilisation de l’IA dans les publicités",
-      "summary": "A partir du 1ᵉʳ janvier 2027, les publicités utilisant des acteurs créés avec l’IA devront arborer un message explicatif. Une disposition valable à la télévision, à la radio et aussi sur Internet et sur les réseaux sociaux, sous peine de sanctions.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/17/la-californie-impose-de-mentionner-l-utilisation-de-l-ia-dans-les-publicites_6775700_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-17T01:02:42+00:00"
-    },
-    {
       "id": "0e0bd29cae7fe893df0a9e05",
       "title": "Snapchat open to putting time limits on teens, boss tells BBC",
       "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
@@ -814,28 +847,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-16T22:13:36+00:00"
-    },
-    {
-      "id": "8465a3b68c2ef53c47d0e94e",
-      "title": "La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises",
-      "summary": "Des pirates ont usurpé l’identité d’une agence gouvernementale pour obtenir des données sensibles de clients. Une enquête a été ouverte en Italie et le régulateur britannique de la protection des données examine des informations après un « signalement ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/16/la-banque-en-ligne-britannique-revolut-se-dit-victime-d-une-escroquerie-sophistiquee-des-donnees-clients-compromises_6775534_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-16T21:50:33+00:00"
-    },
-    {
-      "id": "6004076b2dbe5107c4184137",
-      "title": "Avec « La Team », l’émission phare de feu Game One est de retour à l’antenne avec une équipe inchangée",
-      "summary": "Neuf mois après la fermeture de la chaîne de télévision dédiée aux jeux vidéo, l’équipe de son émission phare reprend du service. La première de « La Team » a été diffusée mercredi sur France TV Slash, le canal numérique de France Télévisions.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/16/avec-la-team-l-emission-phare-de-feue-game-one-est-de-retour-a-l-antenne-avec-une-equipe-inchangee_6775452_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-16T18:00:09+00:00"
     },
     {
       "id": "7ccf06e3f2302c4ef74fedd8",
