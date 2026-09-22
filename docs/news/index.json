@@ -1,16 +1,324 @@
 {
-  "updatedAt": "2026-09-22T10:37:55.827719+00:00",
+  "updatedAt": "2026-09-22T15:16:47.631695+00:00",
   "items": [
+    {
+      "id": "66c948d7941d2fe26e9ee6a1",
+      "title": "« A bord du “Titanic” de l’IA, les passagers paniquent, même si le paquebot n’a pas encore heurté l’iceberg »",
+      "summary": "Personne ne semble pouvoir freiner le navire de l’intelligence artificielle, constate Arnaud Leparmentier, dans sa chronique. A la proue, l’industrie de la tech s’égosille ; sur la passerelle de navigation, c’est la cacophonie ; et, en troisième classe, les Européens pérorent, dépassés. Mais y a-t-il seulement un iceberg en vue ?",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/22/a-bord-du-titanic-de-l-ia-les-passagers-paniquent-meme-si-le-paquebot-n-a-pas-encore-heurte-l-iceberg_6780251_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-22T15:15:04+00:00"
+    },
+    {
+      "id": "daa2290479b1210069f33e57",
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
+      "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T14:57:37+00:00"
+    },
+    {
+      "id": "4118690723cc83aa5c4899b2",
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-22T14:51:39+00:00"
+    },
+    {
+      "id": "2900175218c36299adb96411",
+      "title": "Father admits causing death of his son in Cyprus hotel fall",
+      "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T14:31:34+00:00"
+    },
+    {
+      "id": "0f823fcfc930227b783de9df",
+      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+      "summary": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T14:23:39+00:00"
+    },
+    {
+      "id": "767ff8a1e5a52179bd0ed8dd",
+      "title": "Adidas Officially Launches Limited-Edition Pokémon Collection",
+      "summary": "",
+      "url": "https://www.ign.com/articles/where-to-buy-adidas-x-pokemon-30th-anniversary-collection",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T14:17:11+00:00"
+    },
+    {
+      "id": "0f454290821e8e1f9592f5cf",
+      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
+      "summary": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
+      "url": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T14:16:42+00:00"
+    },
+    {
+      "id": "0b1a1a308de0759cebef185c",
+      "title": "Microsoft Signals Intention to Close Down Ninja Theory After Deals to Save the Hellblade Developer Fall Through",
+      "summary": "Microsoft has signalled its intention to close down Hellblade developer Ninja Theory after two deals to save the Xbox studio fell through.",
+      "url": "https://www.ign.com/articles/microsoft-signals-intention-to-close-down-ninja-theory-after-deals-to-save-the-hellblade-developer-fall-through",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T14:03:24+00:00"
+    },
+    {
+      "id": "0b71006baae3a67561010236",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T14:03:20+00:00"
+    },
+    {
+      "id": "d6025d3a6e8396e036a8dc68",
+      "title": "CONFIRMED: Microsoft Hands Halo to Call of Duty Developer Activision as Part of Seismic Xbox Studios Shakeup",
+      "summary": "Microsoft has today confirmed that the next mainline Halo game will be developed by Call of Duty maker Activision, with mass layoffs hitting Halo Studios amid a significant restructure of its Xbox studios setup.",
+      "url": "https://www.ign.com/articles/confirmed-microsoft-hands-halo-to-call-of-duty-developer-activision-as-part-of-huge-xbox-studios-shakeup",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T14:00:00+00:00"
+    },
+    {
+      "id": "a6c7efa960898265c29bed71",
+      "title": "Handing Halo to Activision Makes Business Sense, but Is That Enough To Save the Series?",
+      "summary": "The next Halo game will be developed by Activision, but is the slick Call of Duty development pipeline enough to save Master Chief?",
+      "url": "https://www.ign.com/articles/handing-halo-to-activision-makes-business-sense-but-is-that-enough-to-save-the-series",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T14:00:00+00:00"
+    },
+    {
+      "id": "fe57d7388c404f7e196417da",
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T13:58:42+00:00"
+    },
+    {
+      "id": "303767222b082d2360cd9702",
+      "title": "A l’Assemblée générale de l’ONU, le secrétaire général, Antonio Guterres, parle du « spectre d’un nettoyage ethnique » en Cisjordanie occupée",
+      "summary": "Dans son discours d’ouverture, il est notamment revenu sur la situation en Cisjordanie, mais aussi sur la responsabilité des géants pétroliers et la coopération en matière d’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/international/article/2026/09/22/antonio-guterres-evoque-le-spectre-d-un-nettoyage-ethnique-en-cisjordanie-a-l-assemblee-generale-de-l-onu_6780172_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-22T13:58:38+00:00"
+    },
+    {
+      "id": "8c52dfe61730457e2f979cef",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T13:49:22+00:00"
+    },
+    {
+      "id": "11f27bd0d6e7e88926241dec",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T13:39:09+00:00"
+    },
+    {
+      "id": "a9bfd3757a14d2f10f0648c6",
+      "title": "« En tant que “crétin digital”, je trouve le débat sur les écrans frustrant »",
+      "summary": "La génération qui a grandi avec les écrans est rarement invitée à donner son avis sur le monde numérique, alors même qu’elle en connaît bien le fonctionnement, estime le chercheur en informatique Marc Damie, dans une tribune au « Monde ». Il appelle à la régulation des géants du secteur, plutôt qu’à la stigmatisation des comportements.",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/22/en-tant-que-cretin-digital-je-trouve-le-debat-sur-les-ecrans-frustrant_6780102_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-22T13:00:08+00:00"
+    },
+    {
+      "id": "fbbf4c2e67700c65fcb8602a",
+      "title": "Heart of the Beast Review: Brad Pitt and His Combat Dog Go Ruffin' It in the Wild",
+      "summary": "Heart of the Beast is a gripping wilderness survival film that will work especially well on dog lovers and those who like to see Brad Pitt get beaten up.",
+      "url": "https://www.ign.com/articles/heart-of-the-beast-review-brad-pitt",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "id": "b4d4c2e556b315b53f70c2f6",
+      "title": "Why is the Bab al-Mandab Strait so important?",
+      "summary": "The BBC's Frank Gardner explains why the narrow waterway is key to oil transportation and the world economy.",
+      "url": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T12:57:59+00:00"
+    },
+    {
+      "id": "98613741ceaf11e292de572a",
+      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T12:54:14+00:00"
+    },
+    {
+      "id": "e9791e154a249c72c8a0dc6a",
+      "title": "Converse retire une publicité accusée de références à l’imagerie du Ku Klux Klan et s’excuse après la polémique sur les réseaux sociaux",
+      "summary": "Le député démocrate de Louisiane Troy Carter estime que « la souffrance des noirs n’est pas un outil publicitaire » et demande à Nike et à Converse de rendre des comptes sur la conception et la validation de cette campagne.",
+      "url": "https://www.lemonde.fr/international/article/2026/09/22/converse-retire-une-publicite-accusee-de-references-a-l-imagerie-du-ku-klux-klan-et-s-excuse-apres-la-polemique-sur-les-reseaux-sociaux_6780098_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-22T12:36:44+00:00"
+    },
+    {
+      "id": "e6330e2140d64d9ca67609fa",
+      "title": "DCU Chief James Gunn Hits Back at Lanterns Criticism Over 'Killing' Hal Jordan 'Right Away'",
+      "summary": "DC Universe co-CEO James Gunn has hit back at criticism of HBO show Lanterns for apparently killing Hal Jordan “right away.”",
+      "url": "https://www.ign.com/articles/dcu-chief-james-gunn-hits-back-at-lanterns-criticism-over-killing-hal-jordan-right-away",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T12:28:01+00:00"
+    },
+    {
+      "id": "2b18655193558dd6d12b10a6",
+      "title": "What is the White House pool and why is it in a row with Trump?",
+      "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T12:26:31+00:00"
+    },
+    {
+      "id": "64093e0ba829e5c16516fe3b",
+      "title": "« Nous devons transmettre à tous les élèves l’envie d’écrire pour qu’ils ne soient pas soumis à l’IA »",
+      "summary": "L’opération « Reconquête de l’écrit », destinée à ce que les écoliers ne délèguent pas à l’intelligence artificielle leur droit de penser, remet l’écriture au cœur même de la pédagogie de la langue française, soutient l’un de ses initiateurs, le linguiste Alain Bentolila, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/22/nous-devons-transmettre-a-tous-les-eleves-l-envie-d-ecrire-pour-qu-ils-ne-soient-pas-soumis-a-l-ia_6780095_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-22T12:00:07+00:00"
+    },
+    {
+      "id": "31de85e9283900cfb5ec6661",
+      "title": "Lanterns: Could Hal Jordan Still Be Alive?",
+      "summary": "Don't count Hal Jordan out yet on Lanterns. Here's why the iconic Green Lantern might not be as dead as he seems...",
+      "url": "https://www.ign.com/articles/lanterns-could-hal-jordan-still-be-alive",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T12:00:00+00:00"
+    },
+    {
+      "id": "43b8ad5d7902f6836361f8a3",
+      "title": "'Risky and Gutsy': Resident Evil Movie Star Austin Abrams Reveals His First Reaction to The Film's 'Shocking' Finale",
+      "summary": "Resident Evil movie star Austin Abrams has recalled his initial reaction to the film's finale, which he believes is \"crazy and shocking.\"",
+      "url": "https://www.ign.com/articles/risky-and-gutsy-resident-evil-movie-star-austin-abrams-reveals-his-first-reaction-to-the-films-shocking-finale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T11:59:01+00:00"
+    },
     {
       "id": "0ce9657190cdbdb4b7a399af",
       "title": "British man missing after diving into Lake Como to rescue teenager",
-      "summary": "The UK Foreign Office says it is supporting the man's family and working with local authorities.",
+      "summary": "The man had jumped in to save a father and son in difficulty in the water, local officials say.",
       "url": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-22T10:29:40+00:00"
+      "publishedAt": "2026-09-22T11:44:34+00:00"
+    },
+    {
+      "id": "1de362199da4b003f57dad7b",
+      "title": "'I'm Too Old': Marvel Star Says He's Officially Retired From His Beloved Guardians of the Galaxy Role as Rocket Raccoon",
+      "summary": "Marvel actor Sean Gunn has officially retired from his role playing Guardians of the Galaxy and Avengers hero Rocket Raccoon.",
+      "url": "https://www.ign.com/articles/im-too-old-marvel-star-says-hes-officially-retired-from-his-beloved-guardians-of-the-galaxy-role-as-rocket-raccoon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T11:28:38+00:00"
+    },
+    {
+      "id": "61f9ecc698ea8a27d1d2f462",
+      "title": "Doctor in court to face Rwanda genocide charges in UK",
+      "summary": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
+      "url": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T11:25:19+00:00"
+    },
+    {
+      "id": "a1c62de7d3eb629c48b2159d",
+      "title": "Mounim Sabhi, un influenceur soupçonné de violences et d’humiliations en direct, placé en garde à vue",
+      "summary": "Les vidéos de M. Sabhi, diffusées sur les plateformes TikTok, Kick et Twitch, cumulent des centaines de milliers de vues. Elles mettaient en scène des violences et humiliations infligées à des personnes précaires hébergées dans un manoir dans le Loir-et-Cher.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/22/mounim-sabhi-un-createur-de-contenus-soupconne-de-violences-et-d-humiliations-en-direct-place-en-garde-a-vue_6780091_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-22T11:05:02+00:00"
     },
     {
       "id": "fa6805d21851467db51d9b7a",
@@ -21,29 +329,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-22T10:25:25+00:00"
+      "publishedAt": "2026-09-22T10:42:47+00:00"
     },
     {
-      "id": "dfe504728d7923b08614aa52",
-      "title": "To Kill A Mockingbird first edition found in London charity shop",
-      "summary": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+      "id": "b7a71c7234329065e48b2aaf",
+      "title": "The Legend of Zelda Movie Actress Posts Cryptic Tease, Raising Hopes for an Imminent Trailer",
+      "summary": "The Legend of Zelda movie star Bo Bragason has raised hopes of an imminent trailer release for Nintendo's upcoming film.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-movie-actress-posts-cryptic-tease-raising-hopes-for-an-imminent-trailer",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T10:11:36+00:00"
-    },
-    {
-      "id": "006ea6765f8fb7c0754195fd",
-      "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-      "summary": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T10:01:29+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T10:28:25+00:00"
     },
     {
       "id": "974ec845bfe83020cb0f37bb",
@@ -79,19 +376,8 @@
       "publishedAt": "2026-09-22T09:00:00+00:00"
     },
     {
-      "id": "8c52dfe61730457e2f979cef",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T08:57:08+00:00"
-    },
-    {
-      "id": "60a1e25aa8a8e8c42521a5f7",
-      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "id": "433a70da8473e0763beda9b8",
+      "title": "Major US outlets suspend shared Trump coverage in protest at media ban",
       "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
       "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -99,17 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-22T08:17:15+00:00"
-    },
-    {
-      "id": "11f27bd0d6e7e88926241dec",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T07:14:12+00:00"
     },
     {
       "id": "b35047a032f6f94eeefe95b9",
@@ -167,8 +442,8 @@
       "publishedAt": "2026-09-22T04:30:05+00:00"
     },
     {
-      "id": "8a175747be711b58fde7ef24",
-      "title": "Watch: What to expect as world leaders descend on New York - and who won't be there",
+      "id": "208754f23cb00e24312a81e5",
+      "title": "What to expect as world leaders descend on New York - and who won't be there",
       "summary": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
       "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -288,50 +563,6 @@
       "publishedAt": "2026-09-21T23:24:47+00:00"
     },
     {
-      "id": "93840b51863b7fff74b3633d",
-      "title": "Halloween: The Game Review",
-      "summary": "Halloween: The Game nails the atmosphere but not the execution, undercut by bugs, good ideas not fully realized, and a lack of variety.",
-      "url": "https://www.ign.com/articles/halloween-the-game-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T23:00:00+00:00"
-    },
-    {
-      "id": "5ca2b3fb7fbbd0a51dfb5fec",
-      "title": "Call of Duty YouTuber Launches Petition to Remove Skill-Based Matchmaking Following Successful Destiny Protests",
-      "summary": "Call of Duty YouTuber Tdawgsmitty has started a petition to remove skill-based matchmaking in the FPS franchise following successful Destiny protests.",
-      "url": "https://www.ign.com/articles/call-of-duty-youtuber-launches-petition-to-remove-skill-based-matchmaking-following-successful-destiny-protests",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T22:54:40+00:00"
-    },
-    {
-      "id": "8c32f32dbe7943a3ae792f40",
-      "title": "Bloodborne Movie Reveal Reactions Were '80% Critical,' Jacksepticeye Says",
-      "summary": "Bloodborne movie producer and YouTuber Jacksepticeye has teased more details about the upcoming animated adaptation after reactions to his involvement were \"80% critical.\"",
-      "url": "https://www.ign.com/articles/bloodborne-movie-reveal-reactions-were-80-critical-jacksepticeye-says",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T22:41:11+00:00"
-    },
-    {
-      "id": "7e7948b47717e4dd21bd0a60",
-      "title": "Get an Xbox Wireless Controller Bundled With a $50 Xbox Gift Card for Just $79.99 at Newegg",
-      "summary": "You're basically getting the controller for $29.99.",
-      "url": "https://www.ign.com/articles/xbox-wireless-controller-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T22:40:00+00:00"
-    },
-    {
       "id": "a13e7231e522a9b85dfd8c85",
       "title": "Intelligence artificielle : plus de vingt pays, dont l’Allemagne et le Canada, appellent à une supervision humaine renforcée",
       "summary": "Les dirigeants de plusieurs pays, ainsi que la présidente de la Commission européenne, Ursula von der Leyen, s’inquiètent que le développement de l’IA puisse dépasser notre capacité à la contrôler. Les grandes puissances dans le domaine – les Etats-Unis, la Chine, mais aussi la France – n’ont pas signé cette déclaration commune.",
@@ -341,127 +572,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-21T22:36:25+00:00"
-    },
-    {
-      "id": "a1e4fd24fc8726c4d4d34eae",
-      "title": "Pokémon Scalper Reportedly Arrested After Punching Man in the Face Over 30th Anniversary Target Drop",
-      "summary": "A Pokémon scalper has reportedly been arrested and trespassed after punching a man in a viral confrontation that resulted in a four-year-old child getting hurt in the chaos.",
-      "url": "https://www.ign.com/articles/pokemon-scalper-reportedly-arrested-after-punching-man-in-the-face-over-30th-anniversary-target-drop",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T22:15:31+00:00"
-    },
-    {
-      "id": "df5eee1c7937d4607038fc20",
-      "title": "Star Wars Encyclopedias Are Deeply Discounted for Amazon Prime Members Right Now",
-      "summary": "",
-      "url": "https://www.ign.com/articles/star-wars-encyclopedias-on-sale-amazon-prime-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T22:05:18+00:00"
-    },
-    {
-      "id": "98b1d6be870d2a26644beaf2",
-      "title": "The MSI Vector 16\" RTX 5070 Ti Gaming Laptop Drops to $1,399, Will Probably Beat Upcoming Prime Day Deals",
-      "summary": "The best price I've seen for an RTX 5070 Ti equipped gaming laptop in 2026.",
-      "url": "https://www.ign.com/articles/msi-vector-rtx-5070-ti-gaming-laptop-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T21:55:00+00:00"
-    },
-    {
-      "id": "f0cb9f5cac8ac49e50cb2732",
-      "title": "Rockstar Games Is Taking Down Footage and Images of Scrapped GTA 5 DLC And Early Version of Leaked GTA 6 Map",
-      "summary": "Take-Two Interactive, the parent company of Rockstar Games, has begun taking down videos and posts about leaked GTA 5 and GTA 6 content.",
-      "url": "https://www.ign.com/articles/rockstar-games-is-taking-down-footage-and-images-of-scrapped-gta-5-dlc-and-early-version-of-leaked-gta-6-map",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T21:48:48+00:00"
-    },
-    {
-      "id": "0765b0a5949993e392116a2e",
-      "title": "Get a Cordless Electric Air Duster for Your PC Maintenance for Just $17 Ahead of Prime Day",
-      "summary": "Say goodbye to buying compressed air canisters in bulk.",
-      "url": "https://www.ign.com/articles/cordless-electric-air-duster-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T21:25:00+00:00"
-    },
-    {
-      "id": "6a28d5a2451b81c97207e3ec",
-      "title": "Indie Game Developer Accuses Studio of Using AI to Rip Off His Viral Potato Peeling Game",
-      "summary": "An indie game developer has accused a fellow dev of using AI to rip off his game, a first-person, physics-based title where players peel potatoes.",
-      "url": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T21:05:44+00:00"
-    },
-    {
-      "id": "5002f56ca280298fa769ce34",
-      "title": "Infantino says he is open to talks over Fifa reform",
-      "summary": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T19:50:57+00:00"
-    },
-    {
-      "id": "99f8c6f650be54f2728517f5",
-      "title": "First UK charges brought over 1994 Rwanda genocide",
-      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T17:48:23+00:00"
-    },
-    {
-      "id": "6ac0cf0303dbc19265774095",
-      "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
-      "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-      "url": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T17:06:16+00:00"
-    },
-    {
-      "id": "fefe2d132ee96f7b95e42039",
-      "title": "Seven Ethiopian rebel groups form new alliance",
-      "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T17:02:47+00:00"
-    },
-    {
-      "id": "dceb869902524fa8332fc03f",
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T16:54:56+00:00"
     },
     {
       "id": "cfe4eac28de4265a0394fcc6",
@@ -508,17 +618,6 @@
       "publishedAt": "2026-09-21T13:00:31+00:00"
     },
     {
-      "id": "b819780f015725c1c948a940",
-      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-      "summary": "A report says the attacks, of which there have been at least 68, were not self-defence.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T12:08:56+00:00"
-    },
-    {
       "id": "9582d38a0df5dd5ee7dfb2df",
       "title": "Google : l’Irlande condamne le moteur de recherche à une amende de 403 millions d’euros pour manquement au traitement des données de géolocalisation",
       "summary": "Le régulateur irlandais sanctionne le groupe américain au titre du RGPD, deux mois après l’amende de 890 millions d’euros de Bruxelles.",
@@ -561,39 +660,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-21T09:30:00+00:00"
-    },
-    {
-      "id": "52509052fed6a8eff73251bf",
-      "title": "'No surprises' as results emerge in Russian parliamentary election",
-      "summary": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
-      "url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T06:58:30+00:00"
-    },
-    {
-      "id": "2f656355608cadd9ea19887e",
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T00:05:11+00:00"
-    },
-    {
-      "id": "513d474e0c36069a15574315",
-      "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
-      "summary": "Workers in northern Sri Lanka accidentally uncovered the country's largest mass grave – and reopened wounds from its civil war.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-20T22:28:15+00:00"
     },
     {
       "id": "9aded6f71494358479de263b",
@@ -695,50 +761,6 @@
       "publishedAt": "2026-09-19T13:00:03+00:00"
     },
     {
-      "id": "1ebc3b0964ee061f7be719d8",
-      "title": "Les Etats-Unis ont renoncé à l’arraisonnement d’un navire chinois au Moyen-Orient, envisagé sur la base d’un rapport en partie rédigé par IA, selon CNN",
-      "summary": "L’incident intervient alors que l’armée et les services de renseignement américains accélèrent l’intégration de l’IA, de l’analyse du renseignement à la sélection de cibles.",
-      "url": "https://www.lemonde.fr/international/article/2026/09/19/les-etats-unis-ont-renonce-a-l-arraisonnement-d-un-navire-chinois-au-moyen-orient-envisage-sur-la-base-d-un-rapport-en-partie-redige-par-ia-selon-cnn_6777674_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-19T11:03:32+00:00"
-    },
-    {
-      "id": "1bef5216776af9e5fd6948cb",
-      "title": "La menace de microbes dangereux fabriqués avec l’aide de l’intelligence artificielle se concrétise",
-      "summary": "Alors que les premiers virus conçus par IA viennent d’être décrits par une équipe américaine, le géant Anthropic annonce avoir été confronté à des tentatives de détournement de ses modèles pour créer de nouveaux agents pathogènes.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/19/la-menace-de-microbes-dangereux-fabriques-avec-l-aide-de-l-intelligence-artificielle-se-concretise_6777637_1650684.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-19T09:56:25+00:00"
-    },
-    {
-      "id": "6327408fc33ab7aef33cf3fe",
-      "title": "Gemini, l’IA de Google, s’est introduit dans les systèmes de trois entreprises lors d’un test au mois de mai",
-      "summary": "L’entreprise n’a pas précisé quelle version de Gemini était impliquée, expliquant seulement qu’il ne s’agissait pas de son modèle le plus récent.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/19/gemini-l-ia-de-google-s-introduit-dans-les-systemes-de-trois-entreprises-lors-d-un-test_6777501_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-19T08:25:54+00:00"
-    },
-    {
-      "id": "bf6c6f70461c652be280b83d",
-      "title": "L’administration Trump déstabilisée par la déferlante IA avant la visite de Xi Jinping",
-      "summary": "La chaîne CNN a révélé, vendredi, qu’une erreur d’une intelligence artificielle a failli provoquer l’assaut d’un navire chinois soupçonné de transporter du matériel nucléaire près d’Ormuz. Le président américain, lui, craint que l’éclatement de la bulle IA conduise à une récession, selon le « New York Times ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/19/etats-unis-la-deferlante-ia-destabilise-l-administration-trump-avant-la-visite-de-xi-jinping_6777224_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-19T04:04:12+00:00"
-    },
-    {
       "id": "0867642fac582103c899000d",
       "title": "Tech Now",
       "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
@@ -750,17 +772,6 @@
       "publishedAt": "2026-09-19T01:00:00+00:00"
     },
     {
-      "id": "c2ad331b219421e2a5d2ac62",
-      "title": "Sam Altman, le patron d’OpenAI, interviendra au Conseil de sécurité des Nations unies",
-      "summary": "Le PDG de l’entreprise qui a développé ChatGPT doit faire une présentation, mercredi 23 septembre, à New York, au cours d’une réunion organisée à l’initiative de la France, dans un contexte de fortes inquiétudes autour des risques liés à l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-19T00:39:53+00:00"
-    },
-    {
       "id": "947c1bbad89eb4326294a09d",
       "title": "Would Australians support a smart glasses ban?",
       "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
@@ -770,17 +781,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-18T23:15:10+00:00"
-    },
-    {
-      "id": "ed19b1d43b14ac25f9cba05c",
-      "title": "Avec le Kids Act, l’Europe veut redéfinir en profondeur les règles qui régissent les réseaux sociaux accessibles aux mineurs",
-      "summary": "Interdiction des mécanismes « addictifs », algorithmes bridés, limitation de l’accès au micro ou à la caméra, empêchement de contacter un mineur inconnu… Au-delà de l’interdiction aux moins de 13 ans, le texte européen présenté cette semaine prévoit pour les plateformes des mesures très contraignantes qui concernent tous les mineurs.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/18/avec-le-kids-act-l-europe-veut-redefinir-en-profondeur-les-regles-qui-regissent-les-reseaux-sociaux-accessibles-aux-mineurs_6776827_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-18T16:17:49+00:00"
     },
     {
       "id": "c0860c279963c276ec6a29d7",
@@ -891,17 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-14T23:07:56+00:00"
-    },
-    {
-      "id": "556ea3d8ebff7bea0485f891",
-      "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-      "summary": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-14T17:05:31+00:00"
     },
     {
       "id": "5b739babbd8ce5b6ac0d07f6",
