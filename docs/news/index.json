@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-09-22T05:38:38.908794+00:00",
+  "updatedAt": "2026-09-22T10:37:55.827719+00:00",
   "items": [
+    {
+      "id": "0ce9657190cdbdb4b7a399af",
+      "title": "British man missing after diving into Lake Como to rescue teenager",
+      "summary": "The UK Foreign Office says it is supporting the man's family and working with local authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T10:29:40+00:00"
+    },
+    {
+      "id": "fa6805d21851467db51d9b7a",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T10:25:25+00:00"
+    },
+    {
+      "id": "dfe504728d7923b08614aa52",
+      "title": "To Kill A Mockingbird first edition found in London charity shop",
+      "summary": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T10:11:36+00:00"
+    },
+    {
+      "id": "006ea6765f8fb7c0754195fd",
+      "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+      "summary": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T10:01:29+00:00"
+    },
+    {
+      "id": "974ec845bfe83020cb0f37bb",
+      "title": "Can you take the 'London' out of London Fashion Week?",
+      "summary": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+      "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T09:27:28+00:00"
+    },
+    {
+      "id": "1de7b99d2f9e212f1d3c91f5",
+      "title": "Here's Your First Look at 3 Cards From Pokémon TCG: Mega Evolution — Delta Reign, Due to Launch This November",
+      "summary": "IGN can today reveal three new Pokémon card designs from the upcoming set Pokémon TCG: Mega Evolution — Delta Reign.",
+      "url": "https://www.ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T09:00:42+00:00"
+    },
+    {
+      "id": "ae8dc6c443c2ebf2470370f5",
+      "title": "How Long Is Silent Hill: Townfall?",
+      "summary": "Five different IGN editors played through Silent: Hill Townfall in five different ways to find out how long Konami's new survival horror is, depending on playstyle.",
+      "url": "https://www.ign.com/articles/how-long-is-silent-hill-townfall",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T09:00:00+00:00"
+    },
+    {
+      "id": "8c52dfe61730457e2f979cef",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T08:57:08+00:00"
+    },
+    {
+      "id": "60a1e25aa8a8e8c42521a5f7",
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T08:17:15+00:00"
+    },
     {
       "id": "11f27bd0d6e7e88926241dec",
       "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
@@ -10,7 +109,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-22T05:16:07+00:00"
+      "publishedAt": "2026-09-22T07:14:12+00:00"
+    },
+    {
+      "id": "b35047a032f6f94eeefe95b9",
+      "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
+      "summary": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T05:58:35+00:00"
+    },
+    {
+      "id": "781a9c9365496f1c8caab1d8",
+      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T05:57:46+00:00"
+    },
+    {
+      "id": "284f5a08889497b412c9458b",
+      "title": "Injustice 3 Leak Reportedly Reveals 2 Playable Characters",
+      "summary": "Injustice 3 will feature one character fans will expect and one who perhaps comes as a surprise, according to a fresh leak.",
+      "url": "https://www.ign.com/articles/injustice-3-leak-reportedly-reveals-2-playable-characters",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-22T05:50:03+00:00"
+    },
+    {
+      "id": "1ce8d553a67ee8626ab0ee0d",
+      "title": "Outrage in India over viral video of teen molested and her friend beaten",
+      "summary": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger.",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T05:14:42+00:00"
     },
     {
       "id": "616b74fb40557fbe06f2bf27",
@@ -21,7 +164,18 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-09-22T04:30:14+00:00"
+      "publishedAt": "2026-09-22T04:30:05+00:00"
+    },
+    {
+      "id": "8a175747be711b58fde7ef24",
+      "title": "Watch: What to expect as world leaders descend on New York - and who won't be there",
+      "summary": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
+      "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T04:05:58+00:00"
     },
     {
       "id": "10f1d557733792c35e821d93",
@@ -35,15 +189,26 @@
       "publishedAt": "2026-09-22T04:00:00+00:00"
     },
     {
-      "id": "25ac1415ecc94b4d7c093064",
-      "title": "Une province canadienne attaque en justice OpenAI, derrière ChatGPT, après la tuerie de Tumbler Ridge en février",
-      "summary": "La Colombie-Britannique a annoncé poursuivre le géant de l’intelligence artificielle en Californie « pour ne pas avoir informé les forces de l’ordre des menaces proférées sur sa plateforme », avant la fusillade qui a fait neufs morts, dont la responsable de la tuerie.",
+      "id": "f1124bfc1e3144da8e5e102d",
+      "title": "Une province canadienne attaque en justice OpenAI, derrière ChatGPT, à la suite de la tuerie de Tumbler Ridge en février",
+      "summary": "La Colombie-Britannique a annoncé poursuivre le géant de l’intelligence artificielle en Californie « pour ne pas avoir informé les forces de l’ordre des menaces proférées sur sa plateforme », avant la fusillade qui a fait neuf morts, dont la responsable de la tuerie.",
       "url": "https://www.lemonde.fr/international/article/2026/09/22/une-province-canadienne-attaque-en-justice-openai-derriere-chatgpt-apres-la-tuerie-de-tumbler-ridge-en-fevrier_6779544_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-22T01:45:03+00:00"
+    },
+    {
+      "id": "0ad757b47abe20ab303a2fd8",
+      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+      "summary": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-22T01:44:17+00:00"
     },
     {
       "id": "caf460de7fc4f9b7e8202f70",
@@ -57,17 +222,6 @@
       "publishedAt": "2026-09-22T01:11:02+00:00"
     },
     {
-      "id": "8c52dfe61730457e2f979cef",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T01:04:16+00:00"
-    },
-    {
       "id": "8c167da70fe7393a5b0648b7",
       "title": "Get a Lenovo Legion Go S Ryzen Z2 Go Handheld Gaming PC in Excellent Condition for Under $500",
       "summary": "It's more powerful than the Xbox Ally and uses SteamOS like the Steam Deck.",
@@ -77,17 +231,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-22T00:40:00+00:00"
-    },
-    {
-      "id": "314575e9bb6719416c36d464",
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T00:16:06+00:00"
     },
     {
       "id": "b8b20265878b559cf62de02f",
@@ -110,6 +253,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-21T23:53:45+00:00"
+    },
+    {
+      "id": "92a399b8ec374ca0c2165862",
+      "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
+      "summary": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
+      "url": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-21T23:32:04+00:00"
     },
     {
       "id": "9a6388741294a2b1220884a5",
@@ -255,61 +409,6 @@
       "publishedAt": "2026-09-21T21:05:44+00:00"
     },
     {
-      "id": "d7a657a4ca64903322fea84b",
-      "title": "Daredevil: Born Again Will Reportedly End With Season 3, Showrunner Departs Amidst Post-Production",
-      "summary": "Daredevil: Born Again will reportedly end with its upcoming third season.",
-      "url": "https://www.ign.com/articles/daredevil-born-again-will-reportedly-end-with-season-3-showrunner-departs-amidst-post-production",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T20:53:26+00:00"
-    },
-    {
-      "id": "6c7d506139b7cd81ae1c8ed1",
-      "title": "Blizzard Says StarCraft 'Won't Be Exclusive' When It Launches in 2030",
-      "summary": "Blizzard has confirmed its open-world StarCraft shooter \"won't be exclusive\" to Xbox platforms when it launches in 2030.",
-      "url": "https://www.ign.com/articles/blizzard-says-starcraft-wont-be-exclusive-when-it-launches-in-2030",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T20:45:15+00:00"
-    },
-    {
-      "id": "877e044b65880c9b005a00fb",
-      "title": "Best Buy Is Offering $900 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop for One Day Only",
-      "summary": "Premium all-metal build quality.",
-      "url": "https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-21T20:35:00+00:00"
-    },
-    {
-      "id": "316a0bac925c269bc67ed87a",
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T20:26:41+00:00"
-    },
-    {
-      "id": "7312add5bb3df24fb2e60096",
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
-      "summary": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T20:21:18+00:00"
-    },
-    {
       "id": "5002f56ca280298fa769ce34",
       "title": "Infantino says he is open to talks over Fifa reform",
       "summary": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
@@ -319,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-21T19:50:57+00:00"
-    },
-    {
-      "id": "0a4e639981af450f82ca5ca3",
-      "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-      "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T19:01:36+00:00"
     },
     {
       "id": "99f8c6f650be54f2728517f5",
@@ -387,17 +475,6 @@
       "publishedAt": "2026-09-21T16:52:12+00:00"
     },
     {
-      "id": "99cf74a79d91936dd3f80248",
-      "title": "London Fashion Week 2026: The five trends we'll see in spring",
-      "summary": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T16:23:25+00:00"
-    },
-    {
       "id": "b09956c3d5282b713741f9fc",
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
       "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
@@ -429,17 +506,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-21T13:00:31+00:00"
-    },
-    {
-      "id": "1db951d2946336d8546b22e8",
-      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
-      "summary": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T12:30:54+00:00"
     },
     {
       "id": "b819780f015725c1c948a940",
@@ -497,17 +563,6 @@
       "publishedAt": "2026-09-21T09:30:00+00:00"
     },
     {
-      "id": "938f30a46455b3f5e64ca4d7",
-      "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
-      "summary": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T07:20:27+00:00"
-    },
-    {
       "id": "52509052fed6a8eff73251bf",
       "title": "'No surprises' as results emerge in Russian parliamentary election",
       "summary": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
@@ -517,61 +572,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-21T06:58:30+00:00"
-    },
-    {
-      "id": "57c3199ab437d21759f5c799",
-      "title": "'Far from their best' to 'a joy to watch' - ranking Premier League teams' start to season",
-      "summary": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T06:51:48+00:00"
-    },
-    {
-      "id": "106dfeda5c033d84b40911d4",
-      "title": "Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'",
-      "summary": "Patrick Clancy gives his first interview since his wife's mistrial over the killing of their three young children.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T05:52:57+00:00"
-    },
-    {
-      "id": "9bd90ec4c5eef016feb1be42",
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T05:50:56+00:00"
-    },
-    {
-      "id": "81a46ed9c8b6d95eb67a8968",
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T04:00:38+00:00"
-    },
-    {
-      "id": "fe2600ea18729841682064cf",
-      "title": "Watch: Dramatic moment a cargo ship crashes into another vessel",
-      "summary": "Verified footage appears to show a cargo ship colliding with a fishing boat near Singapore, with investigators still working to establish exactly when and how the crash happened.",
-      "url": "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T02:27:52+00:00"
     },
     {
       "id": "2f656355608cadd9ea19887e",
@@ -585,17 +585,6 @@
       "publishedAt": "2026-09-21T00:05:11+00:00"
     },
     {
-      "id": "cb65be04b411361b0b420725",
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-      "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-20T23:12:31+00:00"
-    },
-    {
       "id": "513d474e0c36069a15574315",
       "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
       "summary": "Workers in northern Sri Lanka accidentally uncovered the country's largest mass grave – and reopened wounds from its civil war.",
@@ -605,17 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-20T22:28:15+00:00"
-    },
-    {
-      "id": "201840baa7acf992ab42dffc",
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
-      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-20T19:04:11+00:00"
     },
     {
       "id": "9aded6f71494358479de263b",
@@ -629,28 +607,6 @@
       "publishedAt": "2026-09-20T18:00:05+00:00"
     },
     {
-      "id": "41a999688e6b30ba0633f526",
-      "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-      "summary": "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-20T17:25:49+00:00"
-    },
-    {
-      "id": "01b0f6bb4f31a57650be0f84",
-      "title": "Trump says triumphal arch will be military complex with drones and snipers",
-      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-20T16:36:43+00:00"
-    },
-    {
       "id": "ef89591f0e1e33e5706e58bc",
       "title": "« Albator, le corsaire de l’espace » revient avec son bel équipage, en version haute définition et non censurée",
       "summary": "La série animée réalisée par Rintaro, dont la première diffusion en France remonte aux années 1980, fait sa réapparition sur la chaîne Mangas. En quarante ans, la bravoure du capitaine et le message qu’il porte ont traversé le temps, sans ambages.",
@@ -660,17 +616,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-20T15:30:13+00:00"
-    },
-    {
-      "id": "cbb0dc8a5ef0fe769b2ee08d",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-20T10:45:39+00:00"
     },
     {
       "id": "def849610607c3cf8d5f1c40",
@@ -715,28 +660,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-20T03:00:14+00:00"
-    },
-    {
-      "id": "b994ed9682609bb8a8614e74",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-19T23:49:26+00:00"
-    },
-    {
-      "id": "0ea3ff5e983c7be6a2a10ce5",
-      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-19T23:18:18+00:00"
     },
     {
       "id": "ec18ae6bff01f6dbec884bbf",
