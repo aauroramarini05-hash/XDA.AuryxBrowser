@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-09-23T01:04:48.774564+00:00",
+  "updatedAt": "2026-09-23T07:01:01.075733+00:00",
   "items": [
     {
-      "id": "a7801d3cfdd5f9a3933c296f",
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-      "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "id": "63747f73723ce83f28fc8a84",
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-23T01:00:09+00:00"
+      "publishedAt": "2026-09-23T06:12:56+00:00"
+    },
+    {
+      "id": "a2c6bbd445c3afc6987b649b",
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-23T01:35:56+00:00"
+    },
+    {
+      "id": "eccfc7deca72009f36a13397",
+      "title": "Watch: Key moments from Andy Burnham's first UN speech",
+      "summary": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
+      "url": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T01:25:47+00:00"
     },
     {
       "id": "a37f88e409d4678f8e6fae4a",
@@ -145,9 +167,9 @@
       "publishedAt": "2026-09-22T22:14:57+00:00"
     },
     {
-      "id": "9506238a44ade506d89f96c7",
-      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
-      "summary": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.",
+      "id": "6fe8e5c0cf8a0826d86145f9",
+      "title": "As Trump and Xi talk, China surges ahead with its AI ambitions",
+      "summary": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
       "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
@@ -169,7 +191,7 @@
     {
       "id": "dcee1fb991c8777a105a1002",
       "title": "Thélyson Orélien accusé d’avoir utilisé l’IA pour son livre « C’était ça ou mourir »",
-      "summary": "Le premier roman de l’écrivain québécois d’origine haïtienne est un des succès de la rentrée littéraire. La polémique a été impulsée par un compte anonyme sur le réseau social X, qui prétend s’appuyer sur un outil de détection baptisé Pangram.",
+      "summary": "Le premier roman de l’écrivain québécois d’origine haïtienne est l’un des succès de la rentrée littéraire. La polémique a été impulsée par un compte anonyme sur le réseau social X, qui prétend s’appuyer sur un outil de détection baptisé « Pangram ».",
       "url": "https://www.lemonde.fr/pixels/article/2026/09/22/thelyson-orelien-accuse-d-avoir-utilise-l-ia-pour-son-livre-c-etait-ca-ou-mourir_6780300_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -629,17 +651,6 @@
       "publishedAt": "2026-09-22T04:30:05+00:00"
     },
     {
-      "id": "208754f23cb00e24312a81e5",
-      "title": "What to expect as world leaders descend on New York - and who won't be there",
-      "summary": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-      "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T04:05:58+00:00"
-    },
-    {
       "id": "f1124bfc1e3144da8e5e102d",
       "title": "Une province canadienne attaque en justice OpenAI, derrière ChatGPT, à la suite de la tuerie de Tumbler Ridge en février",
       "summary": "La Colombie-Britannique a annoncé poursuivre le géant de l’intelligence artificielle en Californie « pour ne pas avoir informé les forces de l’ordre des menaces proférées sur sa plateforme », avant la fusillade qui a fait neuf morts, dont la responsable de la tuerie.",
@@ -858,17 +869,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-16T23:41:57+00:00"
-    },
-    {
-      "id": "789d49be6d9d663ee9e4ec66",
-      "title": "Would you buy branded clothing from your favourite tech firm?",
-      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-16T23:18:47+00:00"
     },
     {
       "id": "42669b47f51c97bac0b03341",
