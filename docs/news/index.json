@@ -1,38 +1,247 @@
 {
-  "updatedAt": "2026-09-23T18:04:18.261465+00:00",
+  "updatedAt": "2026-09-23T21:53:48.930125+00:00",
   "items": [
+    {
+      "id": "50feac4e5da75199485e5bc9",
+      "title": "Malgré la polémique autour du roman de Thélyson Orélien, les libraires continuent à le défendre",
+      "summary": "L’auteur du succès de la rentrée, « C’était ça ou mourir » publié chez Grasset, est accusé d’avoir utilisé l’IA pour son livre. Des libraires affirment ne pas vouloir priver leurs rayons de ce succès commercial.",
+      "url": "https://www.lemonde.fr/culture/article/2026/09/23/malgre-la-polemique-autour-du-roman-de-thelyson-orelien-les-libraires-continuent-a-le-defendre_6781058_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-23T21:39:48+00:00"
+    },
+    {
+      "id": "e9e95cd9e9e3e9170004efaf",
+      "title": "Warhammer 40,000: Dawn of War 4 Hard Mode Is No Joke — Watch AI-Controlled Orks Wipe the Floor With 2 Developers Playing Space Marines",
+      "summary": "When developers show off their games, they tend to defeat the enemy AI in spectacular fashion. But that’s exactly the opposite of what happens in the gameplay King Art Games just released for its upcoming real-time strategy game Warhammer 40,000: Dawn of War 4.",
+      "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-hard-mode-is-no-joke-watch-ai-controlled-orks-wipe-the-floor-with-2-developers-playing-space-marines",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T21:35:56+00:00"
+    },
+    {
+      "id": "1bbf96203a4bb7370d6bd72f",
+      "title": "Meta Connect 2026 Live Blog – What's Next for VR?",
+      "summary": "Just a week after the Steam Frame finally debuted and presented Valve's vision for VR gaming, Meta is getting ready to take the stage at Meta Connect 2026.",
+      "url": "https://www.ign.com/articles/meta-connect-2026-everything-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T21:30:00+00:00"
+    },
+    {
+      "id": "b60ec89cfafd862d5b371460",
+      "title": "Watch: The arms race in space explained",
+      "summary": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T21:29:04+00:00"
+    },
+    {
+      "id": "0287ebdf902f074560f871a3",
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T21:26:14+00:00"
+    },
+    {
+      "id": "bbbbcc7a2a904327957c6d0c",
+      "title": "Producer of Zach Cregger's Resident Evil Movie Reportedly Working on New Silent Hill Film",
+      "summary": "A new report from The Wall Street Journal states that Roy Lee, who produced Zach Cregger’s hugely-successful Resident Evil movie, is now working on a Silent Hill film.",
+      "url": "https://www.ign.com/articles/producer-of-zach-creggers-resident-evil-movie-reportedly-working-on-new-silent-hill-film",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T21:23:50+00:00"
+    },
+    {
+      "id": "3d317471d2d8159b8a89792a",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T21:16:00+00:00"
+    },
+    {
+      "id": "100cac77cd3f9d05539ceefb",
+      "title": "Polémique Thélyson Orélien : comment fonctionne le détecteur de textes générés par IA, Pangram, et à quel point est-il fiable ?",
+      "summary": "La start-up américaine Pangram, qui se targue de pouvoir démasquer les textes rédigés par une intelligence artificielle avec un taux de confiance très élevé, est au cœur de la polémique qui touche Thélyson Orélien et son roman « C’était ça ou mourir ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/23/pangram-comment-fonctionnent-les-detecteurs-de-textes-generes-par-ia-et-a-quel-point-sont-ils-fiables_6781025_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-23T21:11:42+00:00"
+    },
+    {
+      "id": "c9347accaee2ca67be1d90a7",
+      "title": "Robert Pattinson Reacts to Fans Asking for Him to Play the Joker After Primetime Performance Goes Viral",
+      "summary": "Robert Pattinson’s captivating performance as Chris Hansen in A24’s Primetime has sparked an unexpected trend; fans are now wondering what Pattinson’s take on the Joker would look like.",
+      "url": "https://www.ign.com/articles/robert-pattinson-reacts-to-fans-asking-for-him-to-play-the-joker-after-primetime-performance-goes-viral",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T20:46:27+00:00"
+    },
+    {
+      "id": "8149918251d881affc179a17",
+      "title": "The Conjuring Gets Its First-Ever Video Game Coming to Netflix Next Month",
+      "summary": "The Conjuring is coming to Netflix in the form of a video game, marking the franchise’s first foray into the medium after releasing ten films over the last decade.",
+      "url": "https://www.ign.com/articles/the-conjuring-gets-its-first-ever-video-game-coming-to-netflix-next-month",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T20:21:21+00:00"
+    },
+    {
+      "id": "65e9b11bf35188cd479ecd5d",
+      "title": "The Grond LEGO Set Is Free When You Buy LEGO Lord of the Rings Minas Tirith",
+      "summary": "LEGO has brought back the Grond battering ram set as a free Gift with Purchase when you buy the massive LEGO Lord of the Rings Minas Tirith.",
+      "url": "https://www.ign.com/articles/grond-lego-set-is-free-when-you-buy-lego-lord-of-the-rings-minas-tirith",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T19:14:27+00:00"
+    },
     {
       "id": "0cfa7ab9c218be10deb955e0",
       "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "summary": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\".",
+      "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
       "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-23T18:03:35+00:00"
+      "publishedAt": "2026-09-23T18:51:12+00:00"
     },
     {
-      "id": "3cc3e18d5c2f44bb225efb8c",
-      "title": "Teddy Riner visé par des messages racistes, le parquet de Paris ouvre une enquête",
+      "id": "87d34a9c4c69f87ce6f223fd",
+      "title": "Game of Thrones Star Kit Harington Isn't a Gamer, but He's Excited for Grand Theft Auto 6",
+      "summary": "Game of Thrones star Kit Harington has confessed that he isn't much of a gamer, but wants to play Grand Theft Auto 6.",
+      "url": "https://www.ign.com/articles/game-of-thrones-star-kit-harington-isnt-a-gamer-but-hes-excited-for-grand-theft-auto-6",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T18:50:42+00:00"
+    },
+    {
+      "id": "95403fdb0e3caee83836a209",
+      "title": "Save Over 50% Off One of the Coolest Desktop Charging Stations I've Ever Seen",
+      "summary": "Features three AC outlets and four USB-C ports with up to 240W of maximum power output.",
+      "url": "https://www.ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-ive-ever-seen",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T18:50:00+00:00"
+    },
+    {
+      "id": "fc086352168e40ec73ce1218",
+      "title": "Marvel Tokon: Fighting Souls PC Sales Figures and Player Count Spark Worry From Players About Game's Longevity",
+      "summary": "It’s been over a month since Marvel Tokon: Fighting Souls released, and its early sales figures and player counts on PC are sparking concern within the fighting game community about its longevity.",
+      "url": "https://www.ign.com/articles/marvel-tokon-fighting-souls-pc-sales-figures-and-player-count-spark-worry-from-players-about-games-longevity",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T18:45:50+00:00"
+    },
+    {
+      "id": "74649d7ead0de82d5a1b6f9a",
+      "title": "The Legend of Zelda: Tears of the Kingdom for Switch Drops to $38.97 After This Walmart Coupon",
+      "summary": "10/10 IGN \"Masterpiece\".",
+      "url": "https://www.ign.com/articles/legend-of-zelda-tears-of-the-kingdom-for-switch-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T18:20:00+00:00"
+    },
+    {
+      "id": "4b6593ee253c044939492714",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T18:15:31+00:00"
+    },
+    {
+      "id": "b519e27e7c072e17513cf0ac",
+      "title": "Crocodile Dundee Is Getting a 4K Steelbook Edition for Its 40th Anniversary",
+      "summary": "Crocodile Dundee, the 1980s blockbuster hit, is getting the 4K steelbook treatment in honor of its 40th anniversary.",
+      "url": "https://www.ign.com/articles/crocodile-dundee-4k-steelbook-edition-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T18:14:21+00:00"
+    },
+    {
+      "id": "87bfdbac54af96b8173e1000",
+      "title": "Today’s Top Deals: PS5 SSDs, Xbox and Nintendo Gift Cards, and LEGO Star Wars",
+      "summary": "Plus, don’t miss discounts on gaming PCs, physical Switch games, and more.",
+      "url": "https://www.ign.com/articles/best-deals-for-september-23-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T18:10:00+00:00"
+    },
+    {
+      "id": "ca0ec4424023266f9bdb9aa7",
+      "title": "Teddy Riner visé par des messages racistes en ligne, le parquet de Paris ouvre une enquête",
       "summary": "Le quintuple champion olympique a été pris à partie sur les médias proches de l’extrême droite ou sur les réseaux sociaux pour avoir exprimé lors de l’émission « Stade 2 » son « angoisse » de « la montée de l’extrême droite ».",
       "url": "https://www.lemonde.fr/politique/article/2026/09/23/teddy-riner-vise-par-des-messages-racistes-le-parquet-de-paris-ouvre-une-enquete_6780956_823448.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-09-23T18:02:18+00:00"
+      "publishedAt": "2026-09-23T18:02:14+00:00"
     },
     {
-      "id": "28fee79af119fcbf5bafa316",
-      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-      "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
-      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "id": "f37c22b9fefcbfe4f74d4776",
+      "title": "4 Burning Doomsday Questions We Have After Avengers: Endgame Encore",
+      "summary": "The new scenes from Avengers: Endgame Encore have leaked online, and they raise some very interesting questions about the plot of Avengers: Doomsday. Let's break it all down.",
+      "url": "https://www.ign.com/articles/4-burning-doomsday-questions-we-have-after-avengers-endgame-encore",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T17:58:19+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T17:58:37+00:00"
+    },
+    {
+      "id": "87a967d7798d9057432f4b97",
+      "title": "Tolkien's Silmarillion Illustrated Edition Drops to Its Lowest Price Ever for Amazon Prime Members",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-silmarillion-illustrated-edition-book-deal-september-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T17:46:05+00:00"
     },
     {
       "id": "bf14288d1ee8310e71c6b224",
@@ -46,37 +255,37 @@
       "publishedAt": "2026-09-23T17:40:59+00:00"
     },
     {
-      "id": "2ddf9069dec6c4871672c2e8",
-      "title": "EN DIRECT, Assemblée générale de l’ONU : le président iranien accuse les Etats-Unis de terrorisme, Marco Rubio met en garde Israël sur la Cisjordanie",
-      "summary": "La journée a notamment été marquée par le discours accusateur de Massoud Pezeshkian et celui du secrétaire d’Etat américain, avant l’intervention de Volodymir Zelensky, attendue dans la soirée.",
+      "id": "20d9140a829d67959f680653",
+      "title": "EN DIRECT, ONU : les patrons d’OpenAI et d’Anthropic exposent les « risques » que pose l’IA et promettent de ralentir « autant que nécessaire »",
+      "summary": "Sam Altman, Dario Amodei, ainsi que le Français Clément Delangue, cofondateur de Hugging Face, s’expriment devant le Conseil de sécurité, à New York, où la question de l’intelligence artificielle y est abordée pour la première fois.",
       "url": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-assemblee-generale-de-l-onu-le-president-iranien-accuse-les-etats-unis-de-terrorisme-marco-rubio-met-en-garde-israel-sur-la-cisjordanie_6780906_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-09-23T17:36:22+00:00"
+      "publishedAt": "2026-09-23T17:36:19+00:00"
     },
     {
-      "id": "4b6593ee253c044939492714",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T17:34:44+00:00"
-    },
-    {
-      "id": "32b091d16a4be156246c8bd4",
-      "title": "Grand Theft Auto 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
-      "summary": "Grand Theft Auto 6 shirts that were given away for free exclusively at Tokyo Game Show 2026 are already being resold online for hundreds of dollars.",
+      "id": "ab3e91ee981fcd3dd6bcc91f",
+      "title": "GTA 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
+      "summary": "GTA 6 shirts that were given away for free exclusively at Tokyo Game Show 2026 are already being resold online for hundreds of dollars.",
       "url": "https://www.ign.com/articles/grand-theft-auto-6-shirts-given-away-for-free-at-tokyo-game-show-are-being-resold-online-for-hundreds-of-dollars",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-23T17:30:01+00:00"
+    },
+    {
+      "id": "5e3d4b231889093259027252",
+      "title": "How to Watch Dragon Ball in Order: Series, Sagas, and Movies",
+      "summary": "From the mind of the legendary Akira Toriyama, the Dragon Ball timeline includes seven anime series and over twenty movies and specials. Here's how to watch it all in order.",
+      "url": "https://www.ign.com/articles/dragon-ball-anime-and-movies-in-order",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T17:21:00+00:00"
     },
     {
       "id": "ae08d7c1fa3dfdb7913f3fe6",
@@ -134,94 +343,6 @@
       "publishedAt": "2026-09-23T16:50:00+00:00"
     },
     {
-      "id": "fb078fdca421422d54d67e2c",
-      "title": "The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month",
-      "summary": "Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.",
-      "url": "https://www.ign.com/articles/amazon-audible-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T16:50:00+00:00"
-    },
-    {
-      "id": "7393b728a6a3ec965eff8e7d",
-      "title": "Alienware Just Released the World's First 39\" 5K Monitor With RGB Stripe Tandem OLED Technology",
-      "summary": "The best monitor for both gaming and workstation productivity is now shipping.",
-      "url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T16:45:00+00:00"
-    },
-    {
-      "id": "11c53c1f65979795f7647dcb",
-      "title": "After Asking Very Nicely For a Skin, Madison Beer Joins Fortnite Tomorrow",
-      "summary": "Madison Beer is the latest music icon to join the world of Fortnite, after previously issuing a public call to Epic Games for her to become a skin.",
-      "url": "https://www.ign.com/articles/after-asking-very-nicely-for-a-skin-madison-beer-joins-fortnite-tomorrow",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T16:30:41+00:00"
-    },
-    {
-      "id": "65bc79db3064290e82b9c089",
-      "title": "Scrapped GTA 5 Story DLC Might Have Taken the Series Overseas for the First Time in 15 Years",
-      "summary": "Grand Theft Auto 5's story DLC was seemingly going to take players to Paris, if leaked footage is anything to go by.",
-      "url": "https://www.ign.com/articles/scrapped-gta-5-story-dlc-might-have-taken-the-series-overseas-for-the-first-time-in-15-years",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T16:20:41+00:00"
-    },
-    {
-      "id": "7db319d009c162057180c0f7",
-      "title": "Iconic Paranormal Detective Cal McDonald Returns in Plague of Evil and Other Stories",
-      "summary": "30 Days of Night co-creator Steve Niles is returning to one of his most beloved characters in the new hard-boiled horror short story collection Cal McDonald: Plague of Evil and Other Stories.",
-      "url": "https://www.ign.com/articles/iconic-paranormal-detective-cal-mcdonald-returns-in-plague-of-evil-and-other-stories",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T16:00:00+00:00"
-    },
-    {
-      "id": "8ea6975c1a24aef5da28e6f6",
-      "title": "LEGO One Piece Exclusive Character Posters Revealed",
-      "summary": "IGN can exclusively reveal six new character posters from the upcoming two-part LEGO One Piece special, streaming on Netflix on September 29.",
-      "url": "https://www.ign.com/articles/lego-one-piece-character-posters-revealed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T16:00:00+00:00"
-    },
-    {
-      "id": "eab2586c321028897d627e9d",
-      "title": "Paramount+ Reveals New York Comic Con Lineup: Dexter, Avatar, and Star Trek - Exclusive",
-      "summary": "Paramount+ has revealed its full New York Comic Con lineup, featuring exclusive sneak peeks and cast panels for Dexter: Resurrection, Avatar: Seven Havens, and Star Trek: Starfleet Academy.",
-      "url": "https://www.ign.com/articles/paramount-plus-nycc-lineup-dexter-avatar-star-trek",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T16:00:00+00:00"
-    },
-    {
-      "id": "769b2bf5b5b76ec78204ec47",
-      "title": "Bethesda Boss Issues Memo to Staff After Xbox Moves Obsidian Into the Fallout Company",
-      "summary": "The boss of Bethesda has issued a memo to staff reassuring them that Obsidian Entertainment remains “distinct” despite being absorbed into the company as part of this week’s seismic Xbox studios reorganisation.",
-      "url": "https://www.ign.com/articles/bethesda-boss-issues-memo-to-staff-after-xbox-moves-obsidian-into-the-fallout-company",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T15:59:50+00:00"
-    },
-    {
       "id": "60c187595e6d49ff67ceb76e",
       "title": "Pornhub investigated over its age checks",
       "summary": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
@@ -231,17 +352,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-23T15:56:44+00:00"
-    },
-    {
-      "id": "5aac2b45766eb5d5296d61b8",
-      "title": "Some Fans Seem to Think The Witcher 3 Remastered Looks Worse Than the Original in Official Comparison Clip",
-      "summary": "The Witcher 3 fans have reacted to an official comparison clip featuring a snippet of side-by-side gameplay from the original game and the upcoming remaster, with some saying the new version actually looks worse.",
-      "url": "https://www.ign.com/articles/fans-seem-to-think-the-witcher-3-remastered-looks-worse-than-the-original",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T15:50:24+00:00"
     },
     {
       "id": "334c3562bc05dabfefc0a086",
@@ -266,50 +376,6 @@
       "publishedAt": "2026-09-23T15:37:20+00:00"
     },
     {
-      "id": "af33e4bcd38f6a011b3bdf29",
-      "title": "72-Year-Old Pokémon Collector Arrested After Illegally Tracking Woman Who Restocked Local Stores",
-      "summary": "A 72-year-old Pokémon card collector has been arrested for illegally tracking a woman who restocked local stores.",
-      "url": "https://www.ign.com/articles/72-year-old-pokemon-collector-arrested-after-illegally-tracking-woman-who-restocked-local-stores",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T15:27:26+00:00"
-    },
-    {
-      "id": "d3be65130e68583c4d2d6e58",
-      "title": "Yet Another Disney+ Price Hike Is Coming — and It's Reportedly Due This Week",
-      "summary": "Disney plans to raise the price of Disney+ this week, according to a new report.",
-      "url": "https://www.ign.com/articles/yet-another-disney-price-hike-is-coming-and-its-reportedly-due-this-week",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T15:16:16+00:00"
-    },
-    {
-      "id": "a19493ebd95d5a55e487f553",
-      "title": "Monster Hunter Wilds: Ascendance Might Be the Endgame I’ve Been Waiting For | IGN Preview",
-      "summary": "The first taste of Monster Hunter Wilds: Ascendance already has me salivating. The new tricks, new (and returning) monsters, and brand new suite of boosts are going to significantly disrupt how I do my builds, and how I approach hunts. Just thinking about it now has my synapses firing, and there are still so many weapons who're boosted actions I ha",
-      "url": "https://www.ign.com/articles/monster-hunter-wilds-ascendance-might-be-the-endgame-ive-been-waiting-for-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T15:08:00+00:00"
-    },
-    {
-      "id": "920cb60e9b6ebf3e0d1fea21",
-      "title": "Sony Patent Would Let You Tap Your Card or Phone on Your PlayStation Controller to Make a Payment",
-      "summary": "Sony filed a patent called \"video game controller-driven information transfer,\" and describes a controller with NFC capabilities, which would let you tap your phone or your credit card to your controller to send information to your console.",
-      "url": "https://www.ign.com/articles/sony-patent-would-let-you-tap-your-card-or-phone-on-your-playstation-controller-to-make-a-payment",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T14:54:21+00:00"
-    },
-    {
       "id": "e73c6c4a0c4cae3d5d100432",
       "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
       "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
@@ -321,39 +387,6 @@
       "publishedAt": "2026-09-23T14:32:42+00:00"
     },
     {
-      "id": "95751e4ecae21b99c8b7d4de",
-      "title": "White House rolling out red carpet for historic Xi Jinping visit",
-      "summary": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T14:32:37+00:00"
-    },
-    {
-      "id": "f5efbb2e5a6f89c34cfe665a",
-      "title": "Marvel Rivals Needs an Intervention",
-      "summary": "Poor balancing, toxic players, and a flawed approach to cosmetics have put Marvel Rivals in a bad place. It desperately needs an intervention to turn its troubles around.",
-      "url": "https://www.ign.com/articles/marvel-rivals-needs-an-intervention",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T14:30:00+00:00"
-    },
-    {
-      "id": "cc2a331260ac2aad8a8e8210",
-      "title": "Xbox Mythic Achievement Will Be Microsoft's Version of a Platinum Trophy — And It Has an Extravagant Unlock Sound",
-      "summary": "Microsoft is expected to imminently launch Xbox Mythic Achievements, its own version of PlayStation's platinum Trophies, and you can now hear how they will sound when unlocked.",
-      "url": "https://www.ign.com/articles/xbox-mythic-achievement-will-be-microsofts-version-of-a-platinum-trophy-and-it-has-an-extravagant-unlock-sound",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-23T14:10:21+00:00"
-    },
-    {
       "id": "1ddb33a4db25540f14b30f34",
       "title": "Eleven killed in mass shooting at house in South Africa",
       "summary": "One of those killed is believed to be a pregnant woman, police said.",
@@ -363,17 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-23T14:02:55+00:00"
-    },
-    {
-      "id": "24e5c1e71737d6e0965a2fca",
-      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
-      "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T13:20:19+00:00"
     },
     {
       "id": "b60bb2991b1aeda1affc6707",
@@ -420,17 +442,6 @@
       "publishedAt": "2026-09-23T12:01:37+00:00"
     },
     {
-      "id": "56e5783e462bec032270819b",
-      "title": "South Sudan's president dissolves government ahead of country's first elections",
-      "summary": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-      "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T11:16:25+00:00"
-    },
-    {
       "id": "6955466b3b2788e02e6fb145",
       "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
       "summary": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
@@ -440,17 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-23T11:00:09+00:00"
-    },
-    {
-      "id": "1e2a6a6b02ce4978ca39fca3",
-      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
-      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T09:48:50+00:00"
     },
     {
       "id": "bba73d41c18197e574bb6602",
@@ -508,17 +508,6 @@
       "publishedAt": "2026-09-23T01:35:56+00:00"
     },
     {
-      "id": "eccfc7deca72009f36a13397",
-      "title": "Watch: Key moments from Andy Burnham's first UN speech",
-      "summary": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
-      "url": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T01:25:47+00:00"
-    },
-    {
       "id": "8f350e213cc2b0e5abbbe11e",
       "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
       "summary": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
@@ -539,17 +528,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-22T23:03:48+00:00"
-    },
-    {
-      "id": "fc2625f1342c4ef3ff1d639f",
-      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
-      "summary": "Delegations from across the world attended the United Nations General Assembly in New York.",
-      "url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T22:33:44+00:00"
     },
     {
       "id": "c647b2c7cf7a381f9824cf68",
@@ -583,17 +561,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-22T21:55:21+00:00"
-    },
-    {
-      "id": "81fe46c49d3ecfe56fb70154",
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T21:36:55+00:00"
     },
     {
       "id": "4e83340ebc34abf3e45c2e7b",
@@ -781,28 +748,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-21T22:36:25+00:00"
-    },
-    {
-      "id": "49f778aa2bff38221ef829b3",
-      "title": "Les données, matière première de l’économie des « tokens » et enjeu majeur pour l’intelligence artificielle",
-      "summary": "Pas d’IA générative sans « jetons », ces unités – fragment de mot, caractère ou ponctuation – utilisées par les grands modèles de langage pour traiter un texte et générer des réponses. Une nouvelle économie est née.",
-      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/21/les-donnees-matiere-premiere-de-l-economie-des-tokens-et-enjeu-majeur-pour-l-intelligence-artificielle_6779130_6065879.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-21T13:00:31+00:00"
-    },
-    {
-      "id": "9582d38a0df5dd5ee7dfb2df",
-      "title": "Google : l’Irlande condamne le moteur de recherche à une amende de 403 millions d’euros pour manquement au traitement des données de géolocalisation",
-      "summary": "Le régulateur irlandais sanctionne le groupe américain au titre du RGPD, deux mois après l’amende de 890 millions d’euros de Bruxelles.",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/21/google-l-irlande-condamne-le-moteur-de-recherche-a-une-amende-de-403-millions-d-euros-pour-manquement-au-traitement-des-donnees-de-geolocalisation_6779051_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-21T11:06:22+00:00"
     },
     {
       "id": "ec18ae6bff01f6dbec884bbf",
