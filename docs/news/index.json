@@ -1,6 +1,281 @@
 {
-  "updatedAt": "2026-09-23T07:01:01.075733+00:00",
+  "updatedAt": "2026-09-23T13:08:28.768832+00:00",
   "items": [
+    {
+      "id": "5ff669492dc9c50e7b91fbdd",
+      "title": "En direct : l’Iran et l’IA au menu de l’Assemblée générale de l’ONU",
+      "summary": "Le président iranien, Massoud Pezeshkian, doit s’exprimer, mercredi, à la tribune des Nations unies. L’intelligence artificielle et ses risques pour la sécurité mondiale seront l’autre grand sujet brûlant de la journée.",
+      "url": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-l-iran-et-l-ia-au-menu-de-l-assemblee-generale-de-l-onu_6780906_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-23T13:00:41+00:00"
+    },
+    {
+      "id": "b60bb2991b1aeda1affc6707",
+      "title": "Les data sur l’apprentissage, au cœur du débat public sur le système scolaire français",
+      "summary": "Les statistiques sur les élèves sont foisonnantes, en particulier depuis la mise en place des évaluations nationales standardisées, en 2018. Mais, si ces chiffres constituent une mine pour la recherche en sciences de l’éducation, ils risquent d’être instrumentalisés à des fins politiques.",
+      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/23/les-data-sur-l-apprentissage-au-c-ur-du-debat-public-sur-le-systeme-scolaire-francais_6780904_6065879.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-23T13:00:21+00:00"
+    },
+    {
+      "id": "3503add8dc4e3f2f85aa189f",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T12:31:31+00:00"
+    },
+    {
+      "id": "28fee79af119fcbf5bafa316",
+      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T12:24:02+00:00"
+    },
+    {
+      "id": "6d51b05aab73234dffd9c50e",
+      "title": "Dolly Parton's manager accuses her nephew of threats and intimidation",
+      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T12:22:53+00:00"
+    },
+    {
+      "id": "8f0d5e29174acaf87aa263fd",
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-23T12:01:37+00:00"
+    },
+    {
+      "id": "ab150b4410016f27d6d89496",
+      "title": "The Best Video Game Movies and TV Shows",
+      "summary": "From Netflix animations to live-action survival horrors, these are the best video game movies and TV shows.",
+      "url": "https://www.ign.com/articles/the-best-video-game-movies-and-tv-shows",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "id": "dde66fb4c053047a79a2dcb2",
+      "title": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
+      "summary": "There are fears of a return to war in the northern region as tensions between the government and TPLF escalate.",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T11:42:52+00:00"
+    },
+    {
+      "id": "09104fbdee2ce0a183821389",
+      "title": "Avengers: Endgame Encore Leaks Reveal New Ending and Additional Scenes That Connect to Avengers: Doomsday, Including Several Unannounced Cast Members",
+      "summary": "Four new scenes included in Avengers: Endgame Encore have leaked online, including a tweaked ending to the 2019 Marvel blockbuster.",
+      "url": "https://www.ign.com/articles/avengers-endgame-encore-leaks-reveal-new-ending-and-additional-scenes-that-connect-to-avengers-doomsday-including-several-unannounced-cast-members",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T11:40:27+00:00"
+    },
+    {
+      "id": "16d79f71634a476606b86800",
+      "title": "‘Vice City’ Trademark Abandoned by WWE ahead of GTA 6 launch",
+      "summary": "With GTA 6 imminent, it appears that WWE was trying to trademark the term ‘Vice City,’ before abandoning plans to do so.",
+      "url": "https://www.ign.com/articles/vice-city-trademark-abandoned-by-wwe-ahead-of-gta-6-launch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T11:33:38+00:00"
+    },
+    {
+      "id": "24e5c1e71737d6e0965a2fca",
+      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+      "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T11:18:28+00:00"
+    },
+    {
+      "id": "b05f2dad3d44700284e17144",
+      "title": "Frodo's Back! Set Photos From The Lord of the Rings: The Hunt for Gollum Offer Behind-the-Scenes Look at Prequel Movie",
+      "summary": "Warner Bros. has released set photos from The Lord of the Rings: The Hunt for Gollum to celebrate Hobbit Day, revealing a first look at Frodo and the Shire.",
+      "url": "https://www.ign.com/articles/frodos-back-set-photos-from-the-lord-of-the-rings-the-hunt-for-gollum-offer-behind-the-scenes-look-at-prequel-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T11:09:40+00:00"
+    },
+    {
+      "id": "6955466b3b2788e02e6fb145",
+      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+      "summary": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
+      "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T11:00:09+00:00"
+    },
+    {
+      "id": "e324d3518873bd3ae274235f",
+      "title": "Star Wars Zero Company Estimated to Have Sold 1 Million, With Nearly 70% on Steam",
+      "summary": "Star Wars Zero Company is estimated to have sold 1 million copies, with the majority of those sales coming from Steam.",
+      "url": "https://www.ign.com/articles/star-wars-zero-company-estimated-to-have-sold-1-million-with-nearly-70-on-steam",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T10:44:16+00:00"
+    },
+    {
+      "id": "082300bb96d4f562fac635e9",
+      "title": "George Lucas Says His Changes to The Original Star Wars Trilogy Were Justified as Movies Always Get 'Yanked Out of Your Hands' For Release",
+      "summary": "Star Wars creator George Lucas has defended his frequent tweaks to the series' original movies, while acknowledging \"a lot of people got upset\" about the changes.",
+      "url": "https://www.ign.com/articles/george-lucas-says-his-changes-to-the-original-star-wars-trilogy-were-justified-as-movies-always-get-yanked-out-of-your-hands-for-release",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T10:34:53+00:00"
+    },
+    {
+      "id": "202e87448e52be519252abc4",
+      "title": "McDonald's Tests Ads — or 'Post-Purchase Content' — for Other Brands on Menu Screens After You Place Your Order",
+      "summary": "McDonald’s is testing ads from other brands that appear on the digital menu screen after you place your order.",
+      "url": "https://www.ign.com/articles/mcdonalds-tests-ads-or-post-purchase-content-for-other-brands-on-menu-screens-after-you-place-your-order",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T09:49:06+00:00"
+    },
+    {
+      "id": "1e2a6a6b02ce4978ca39fca3",
+      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
+      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T09:48:50+00:00"
+    },
+    {
+      "id": "bba73d41c18197e574bb6602",
+      "title": "L’IA pour la première fois en débat au Conseil de sécurité de l’ONU",
+      "summary": "Les dirigeants d’OpenAI et d’Anthropic, ainsi que le Français Clément Delangue, cofondateur de Hugging Face, doivent s’exprimer, mercredi, à New York. Mardi, la France s’est tenue à l’écart d’une « déclaration » portée par 20 pays, réclamant des mesures contraignantes face à la course à l’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/international/article/2026/09/23/l-ia-pour-la-premiere-fois-en-debat-au-conseil-de-securite-de-l-onu_6780876_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-23T09:28:27+00:00"
+    },
+    {
+      "id": "60c187595e6d49ff67ceb76e",
+      "title": "Pornhub investigated over its age checks",
+      "summary": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-23T09:12:21+00:00"
+    },
+    {
+      "id": "5e1d5d4e417831031e4c9af2",
+      "title": "« La folle course de l’IA vient briser la dimension désinflationniste de la nouvelle économie »",
+      "summary": "Nous assistons à un retour des pressions sur les prix et sur les taux lié à la boulimie de croissance des acteurs de l’intelligence artificielle, observe, dans sa chronique au « Monde », Philippe Askenazy.",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/23/la-folle-course-de-l-ia-vient-briser-la-dimension-desinflationniste-de-la-nouvelle-economie_6780870_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-23T09:00:11+00:00"
+    },
+    {
+      "id": "dfb8f525172057aafe003222",
+      "title": "All-Star Superman Writer Grant Morrison Delivers His Verdict on Supergirl and Jason Momoa's Lobo",
+      "summary": "Comic book legend Grant Morrison has delivered his verdict on the DC Universe’s Supergirl movie — and in doing so had some choice words for Jason Momoa’s Lobo.",
+      "url": "https://www.ign.com/articles/all-star-superman-writer-grant-morrison-delivers-his-verdict-on-supergirl-and-jason-momoas-lobo",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T08:57:29+00:00"
+    },
+    {
+      "id": "26fbe827882df48b1863b072",
+      "title": "Quand la chasse aux pédocriminels en ligne devient un spectacle",
+      "summary": "Le film « Primetime », en salle ce mercredi, revient sur l’histoire de « To Catch a Predator », célèbre émission de télévision américaine des années 2000 mettant en scène des pièges tendus aux pédocriminels. Aujourd’hui, cette « chasse » se fait désormais en ligne et en direct sur Twitch et TikTok, non sans s’attirer les critiques.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/23/quand-la-chasse-aux-pedocriminels-en-ligne-devient-un-spectacle_6780791_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-23T07:18:01+00:00"
+    },
+    {
+      "id": "1ddb33a4db25540f14b30f34",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "summary": "One of those killed is believed to be a pregnant woman, police said.",
+      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T07:02:52+00:00"
+    },
+    {
+      "id": "f8b6f3b42459c8662aaf1988",
+      "title": "Brothers Season 1 Review",
+      "summary": "Brothers Season 1 review: Well, at least Woody and Matthew are having fun together…",
+      "url": "https://www.ign.com/articles/brothers-season-1-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-23T07:00:00+00:00"
+    },
+    {
+      "id": "bf14288d1ee8310e71c6b224",
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "summary": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
+      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T06:47:49+00:00"
+    },
     {
       "id": "63747f73723ce83f28fc8a84",
       "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
@@ -11,6 +286,28 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-23T06:12:56+00:00"
+    },
+    {
+      "id": "caf20829480312f8d865c905",
+      "title": "Reports of violence against women in Gaza surge, UN agency finds",
+      "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T05:02:26+00:00"
+    },
+    {
+      "id": "9f4c0986aac0af20306dbe42",
+      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "summary": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T04:20:12+00:00"
     },
     {
       "id": "a2c6bbd445c3afc6987b649b",
@@ -55,6 +352,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-23T00:18:16+00:00"
+    },
+    {
+      "id": "8f350e213cc2b0e5abbbe11e",
+      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+      "summary": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
+      "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-23T00:05:34+00:00"
     },
     {
       "id": "23f56002dfb54f125344116b",
@@ -167,9 +475,9 @@
       "publishedAt": "2026-09-22T22:14:57+00:00"
     },
     {
-      "id": "6fe8e5c0cf8a0826d86145f9",
-      "title": "As Trump and Xi talk, China surges ahead with its AI ambitions",
-      "summary": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
+      "id": "c647b2c7cf7a381f9824cf68",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "summary": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
       "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
@@ -178,8 +486,8 @@
       "publishedAt": "2026-09-22T22:04:31+00:00"
     },
     {
-      "id": "7ef6fe56904c5956ed768332",
-      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+      "id": "0fd7644d6378c3503c45aa1f",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
       "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
       "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -244,50 +552,6 @@
       "publishedAt": "2026-09-22T20:59:00+00:00"
     },
     {
-      "id": "15c26c3e163225daad388764",
-      "title": "Halo Studios Cinematic Director Promoted and Laid Off Within the Same Week as Xbox's Brutal Restructuring Continues",
-      "summary": "Halo Studios cinematic director Josh Daniels has confirmed that he was promoted and laid off within the same week amid news that Activision has now taken over the next Halo game.",
-      "url": "https://www.ign.com/articles/halo-studios-cinematic-director-promoted-and-laid-off-within-the-same-week-as-xboxs-brutal-restructuring-continues",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T20:41:47+00:00"
-    },
-    {
-      "id": "73b1a878c8dec10a0241ac28",
-      "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
-      "summary": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T20:26:52+00:00"
-    },
-    {
-      "id": "a9ead74cb9e927adee8c85ce",
-      "title": "I Just Found Out About a Budget-Friendly Hotel Backed by Hilton That More People Should Know About for the 2026 Holiday Season",
-      "summary": "The franchise is all about reliable essentials, efficiency and simplicity.",
-      "url": "https://www.ign.com/articles/new-budget-friendly-hotel-spark-by-hilton-holiday-travel",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T20:20:00+00:00"
-    },
-    {
-      "id": "196d45adc7d4275bc6c02ef1",
-      "title": "The Best Physical Switch Game Deals in Nintendo’s Customer Appreciation Sale",
-      "summary": "You can save 30% on a ton of physical Switch games in Nintendo's Customer Appreciation Sale, ending September 26.",
-      "url": "https://www.ign.com/articles/best-physical-switch-game-deals-in-nintendos-customer-appreciation-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T20:09:31+00:00"
-    },
-    {
       "id": "87547a529b98e3b3429b818a",
       "title": "Tech Life",
       "summary": "China is competing with the United States and other nations to develop AI.",
@@ -297,17 +561,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-22T20:00:00+00:00"
-    },
-    {
-      "id": "fafd57f2d827b726a3b285df",
-      "title": "Garfield - Escape from Monday Review",
-      "summary": "A lackluster 3D platformer that leaves you feline hungry for something better.",
-      "url": "https://www.ign.com/articles/garfield-escape-from-monday-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T19:53:45+00:00"
     },
     {
       "id": "0b71006baae3a67561010236",
@@ -321,39 +574,6 @@
       "publishedAt": "2026-09-22T19:47:44+00:00"
     },
     {
-      "id": "dc990de9b4a8c9a6f1bb9677",
-      "title": "Disney Launches New 'Bookcessories' Featuring Iconic Characters From Star Wars and Animated Classics",
-      "summary": "",
-      "url": "https://www.ign.com/articles/disney-launches-new-bookcessories-line-of-products",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T19:42:09+00:00"
-    },
-    {
-      "id": "a4b28cb18aa749809241f1b4",
-      "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming Laptop Deals",
-      "summary": "The best prices I've seen all year on gaming laptops with RTX 5060 to 5080.",
-      "url": "https://www.ign.com/articles/the-walmart-geforce-week-sale-has-black-friday-worthy-gaming-laptop-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T19:40:00+00:00"
-    },
-    {
-      "id": "b8cc7aac3774d3dbb65ff5f8",
-      "title": "Roku's Newly Released 65\" 4K OLED TV Drops to a Bargain Price of $799.99 Ahead of Prime Day",
-      "summary": "Likewise, the 55\" TV drops to $699.99.",
-      "url": "https://www.ign.com/articles/roku-pro-series-4k-oled-tv-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T19:30:00+00:00"
-    },
-    {
       "id": "2b18655193558dd6d12b10a6",
       "title": "What is the White House pool and why is it in a row with Trump?",
       "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
@@ -363,17 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-22T19:25:16+00:00"
-    },
-    {
-      "id": "4b44b2cdb6d53c718b49208e",
-      "title": "Resident Evil Fans Debate the Divisive Ending of Zach Cregger's Movie",
-      "summary": "The ending of Zach Cregger’s Resident Evil movie has proven to be a divisive one, and fans are at odds as to whether or not it was a “good” conclusion to the film’s ultimately tragic story.",
-      "url": "https://www.ign.com/articles/resident-evil-fans-debate-the-divisive-ending-of-zach-creggers-movie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-22T19:17:54+00:00"
     },
     {
       "id": "0202ea94bd39e21b4dd34df9",
@@ -409,37 +618,15 @@
       "publishedAt": "2026-09-22T18:18:21+00:00"
     },
     {
-      "id": "cab734821c621772dc8e3a0c",
-      "title": "Infomaniak, l’acteur suisse qui milite pour l’autonomie numérique européenne",
-      "summary": "Data centers moins énergivores, souveraineté numérique, protection des données et gouvernance originale : l’hébergeur helvétique indépendant, en plein développement, coche toutes les cases d’une alternative aux Big Tech. Les clients européens effrayés par les Gafam se bousculent au portillon.",
+      "id": "915d4e3b65c726576d90c8f3",
+      "title": "Infomaniak, l’hébergeur suisse indépendant qui milite pour l’autonomie numérique européenne",
+      "summary": "Data centers moins énergivores, souveraineté numérique, protection des données et gouvernance originale : l’entreprise helvétique, en plein développement, coche toutes les cases d’une alternative aux Big Tech. Les clients européens effrayés par les Gafam se bousculent au portillon.",
       "url": "https://www.lemonde.fr/economie/article/2026/09/22/infomaniak-l-acteur-suisse-qui-milite-pour-l-autonomie-numerique-europeenne_6780283_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-09-22T18:00:01+00:00"
-    },
-    {
-      "id": "a55a88de96fe55d7d29c73e9",
-      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-      "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T16:57:55+00:00"
-    },
-    {
-      "id": "54b8bc1bd9fa320ddcae712e",
-      "title": "Top South African policeman charged with sexual offences",
-      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T16:54:41+00:00"
+      "publishedAt": "2026-09-22T18:00:00+00:00"
     },
     {
       "id": "102780b2c19dcb0d47133ca0",
@@ -497,17 +684,6 @@
       "publishedAt": "2026-09-22T14:23:39+00:00"
     },
     {
-      "id": "0f454290821e8e1f9592f5cf",
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "summary": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
-      "url": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T14:16:42+00:00"
-    },
-    {
       "id": "fe57d7388c404f7e196417da",
       "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
       "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
@@ -541,17 +717,6 @@
       "publishedAt": "2026-09-22T13:49:22+00:00"
     },
     {
-      "id": "11f27bd0d6e7e88926241dec",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T13:39:09+00:00"
-    },
-    {
       "id": "a9bfd3757a14d2f10f0648c6",
       "title": "« En tant que “crétin digital”, je trouve le débat sur les écrans frustrant »",
       "summary": "La génération qui a grandi avec les écrans est rarement invitée à donner son avis sur le monde numérique, alors même qu’elle en connaît bien le fonctionnement, estime le chercheur en informatique Marc Damie, dans une tribune au « Monde ». Il appelle à la régulation des géants du secteur, plutôt qu’à la stigmatisation des comportements.",
@@ -561,17 +726,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-22T13:00:08+00:00"
-    },
-    {
-      "id": "b4d4c2e556b315b53f70c2f6",
-      "title": "Why is the Bab al-Mandab Strait so important?",
-      "summary": "The BBC's Frank Gardner explains why the narrow waterway is key to oil transportation and the world economy.",
-      "url": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T12:57:59+00:00"
     },
     {
       "id": "98613741ceaf11e292de572a",
@@ -618,28 +772,6 @@
       "publishedAt": "2026-09-22T11:05:02+00:00"
     },
     {
-      "id": "fa6805d21851467db51d9b7a",
-      "title": "Eleven injured in shooting outside Turkish school",
-      "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T10:42:47+00:00"
-    },
-    {
-      "id": "d4b0ea9e8460c21ca234d2ca",
-      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-      "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-22T06:03:22+00:00"
-    },
-    {
       "id": "616b74fb40557fbe06f2bf27",
       "title": "IA et emploi : la nouvelle étude qui légitime de s’inquiéter",
       "summary": "Une récente étude montre, pour la première fois en France, un net déclin des offres d’emploi pour les métiers les plus exposés à l’IA générative, décrit l’économiste Thomas Breda dans sa chronique.",
@@ -660,17 +792,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-22T01:45:03+00:00"
-    },
-    {
-      "id": "92a399b8ec374ca0c2165862",
-      "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
-      "summary": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-21T23:32:04+00:00"
     },
     {
       "id": "a13e7231e522a9b85dfd8c85",
@@ -715,61 +836,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-21T10:30:02+00:00"
-    },
-    {
-      "id": "f35509fdf8e9a7c0f0bdac8d",
-      "title": "Du mannequin virtuel au vendeur audio, les nouveautés à base d’IA des start-up pour faire dépenser toujours plus les internautes",
-      "summary": "De nombreuses jeunes entreprises ont développé des outils d’intelligence artificielle destinés à améliorer les ventes ou à renforcer la productivité des distributeurs et des marques.",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/21/du-mannequin-virtuel-au-vendeur-audio-les-nouveautes-a-base-d-ia-des-start-up-pour-faire-depenser-toujours-plus-les-internautes_6778946_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-21T09:30:00+00:00"
-    },
-    {
-      "id": "9aded6f71494358479de263b",
-      "title": "OnlyFans bientôt interdit ? Pourquoi l’article 25 de la loi intégrale contre les violences sexuelles fait débat",
-      "summary": "Discuté en commission à partir de lundi, un texte de loi vise les nouveaux géants de la pornographie, comme OnlyFans ou MYM, qui permettent l’achat et la vente directe de contenus pour adultes. Les parlementaires veulent élargir le régime de lutte contre le proxénétisme.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/20/onlyfans-bientot-interdit-pourquoi-l-article-25-de-la-loi-integrale-contre-les-violences-sexuelles-fait-debat_6778410_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-20T18:00:05+00:00"
-    },
-    {
-      "id": "ef89591f0e1e33e5706e58bc",
-      "title": "« Albator, le corsaire de l’espace » revient avec son bel équipage, en version haute définition et non censurée",
-      "summary": "La série animée réalisée par Rintaro, dont la première diffusion en France remonte aux années 1980, fait sa réapparition sur la chaîne Mangas. En quarante ans, la bravoure du capitaine et le message qu’il porte ont traversé le temps, sans ambages.",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/20/albator-le-corsaire-de-l-espace-revient-avec-son-bel-equipage-en-version-haute-definition-et-non-censuree_6778393_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-20T15:30:13+00:00"
-    },
-    {
-      "id": "def849610607c3cf8d5f1c40",
-      "title": "Comment TikTok est devenu en dix ans la bête noire des autorités",
-      "summary": "Le réseau social préféré des adolescents fête ses 10 ans, le 20 septembre. Une décennie ponctuée de polémiques, qui ont fait de TikTok une cible de choix pour les régulateurs américains et européens.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/20/comment-tiktok-est-devenu-en-dix-ans-la-bete-noire-des-autorites_6778089_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-20T04:30:09+00:00"
-    },
-    {
-      "id": "3977605240b9975f8a237932",
-      "title": "IA : « Le spectre du Terminator est paradoxalement moins effrayant que les autres monstres qui nous guettent »",
-      "summary": "Convoquer l’imaginaire de la science-fiction au profit de prédictions apocalyptiques nous détourne des véritables dangers et défis posés par l’intelligence artificielle, estime dans sa chronique Damien Leloup, journaliste au service Pixels du « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/20/ia-le-spectre-du-terminator-est-paradoxalement-moins-effrayant-que-les-autres-monstres-qui-nous-guettent_6778048_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-20T03:30:11+00:00"
     },
     {
       "id": "ec18ae6bff01f6dbec884bbf",
@@ -847,28 +913,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-17T09:18:57+00:00"
-    },
-    {
-      "id": "130064c6d4287796128de500",
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-17T08:22:12+00:00"
-    },
-    {
-      "id": "0e0bd29cae7fe893df0a9e05",
-      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-16T23:41:57+00:00"
     },
     {
       "id": "42669b47f51c97bac0b03341",
