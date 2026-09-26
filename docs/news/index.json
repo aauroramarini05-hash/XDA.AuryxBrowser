@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-09-25T23:42:49.342366+00:00",
+  "updatedAt": "2026-09-26T02:40:42.531418+00:00",
   "items": [
+    {
+      "id": "1d1ae88eb25394924efd4b66",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "summary": "OpenAI said its bots access public data from the US Census and the Securities and Exchange Commission, which looks over US stocks and investors",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-26T02:33:09+00:00"
+    },
+    {
+      "id": "ccc774631821ecc0037dd6ef",
+      "title": "TikTok accepte de limiter le temps d’écran des adolescents dans un accord à plus de 100 millions de dollars avec l’Alabama",
+      "summary": "Comme Meta, maison mère de Facebook et d’Instagram, TikTok devra imposer par défaut aux jeunes de 13 à 17 ans une limite quotidienne de deux heures, restreindre leur accès entre minuit et 6 heures et suspendre les notifications pendant les heures de cours.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/26/tiktok-accepte-de-limiter-le-temps-d-ecran-des-adolescents-en-alabama-pour-s-eviter-un-proces_6782872_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-26T01:48:23+00:00"
+    },
+    {
+      "id": "030c13ceb174b1e1a6a6e431",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-26T01:24:31+00:00"
+    },
+    {
+      "id": "75a60cfc167557b5c7b35234",
+      "title": "Des agents IA d’OpenAI ont fait fuiter sur Internet des images d’utilisateurs de ChatGPT",
+      "summary": "Le géant de l’intelligence artificielle (IA) a reconnu, vendredi, que des liens menant vers des contenus de ses propres usagers ont été mis en ligne par erreur. Ce nouveau comportement incontrôlé vient s’ajouter à la longue liste des incidents impliquant des IA de l’entreprise américaine.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-26T01:09:11+00:00"
+    },
+    {
+      "id": "5ad325105b7972c9366c3659",
+      "title": "Tech Now",
+      "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-26T01:00:00+00:00"
+    },
+    {
+      "id": "97a197bd9e813fa84758afb9",
+      "title": "How to Play the Silent Hill Games in Order",
+      "summary": "",
+      "url": "https://www.ign.com/articles/silent-hill-games-in-order",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-26T00:45:00+00:00"
+    },
+    {
+      "id": "8cb23201cd4a781a0781299f",
+      "title": "EA Sports FC 27 Review",
+      "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
+      "url": "https://www.ign.com/articles/ea-sports-fc-27-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-25T23:50:24+00:00"
+    },
+    {
+      "id": "a381695972d8013e4506a587",
+      "title": "Are Ethiopians marching back to war in Tigray?",
+      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-25T23:42:39+00:00"
+    },
+    {
+      "id": "5f54b3ceac08d4aba26b6935",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-25T23:38:48+00:00"
+    },
     {
       "id": "f792a8c9df28d10b113c466b",
       "title": "Inside iconic horror game Silent Hill's Scottish makeover",
@@ -24,15 +123,48 @@
       "publishedAt": "2026-09-25T23:26:34+00:00"
     },
     {
-      "id": "ba568ffb9e31cc72e5cd9c6e",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "id": "d26de098b1ea92da278935eb",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-25T22:43:54+00:00"
+      "category": "general",
+      "publishedAt": "2026-09-25T23:20:48+00:00"
+    },
+    {
+      "id": "906f2c6b920ef54978b3ac38",
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-25T23:08:02+00:00"
+    },
+    {
+      "id": "cc751c7bd7355bf54e07b1b1",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-25T23:05:40+00:00"
+    },
+    {
+      "id": "b8ed59696e6e97ab8b2a05a2",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-25T22:12:48+00:00"
     },
     {
       "id": "41dfaa9a6693e7700bba5ba3",
@@ -211,17 +343,6 @@
       "publishedAt": "2026-09-25T18:51:00+00:00"
     },
     {
-      "id": "016926ab9b8d02ef6baab247",
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-25T18:36:30+00:00"
-    },
-    {
       "id": "53b40223eb25e60ae0b715fa",
       "title": "Trump's plans for massive arch move ahead",
       "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
@@ -253,6 +374,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-25T18:00:04+00:00"
+    },
+    {
+      "id": "669e1509325c517e71fefd20",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "summary": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-25T17:59:03+00:00"
     },
     {
       "id": "7907723ffb1c4bbeccb1a048",
@@ -288,17 +420,6 @@
       "publishedAt": "2026-09-25T17:47:16+00:00"
     },
     {
-      "id": "fb078fdca421422d54d67e2c",
-      "title": "The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month",
-      "summary": "Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.",
-      "url": "https://www.ign.com/articles/amazon-audible-deal-september-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-25T17:40:00+00:00"
-    },
-    {
       "id": "610114aaef889ac0714d040e",
       "title": "La propriétaire française d’un vaste patrimoine immobilier à Dubaï écrouée à Paris",
       "summary": "Svetlana A. a été récemment mise en examen et placée en détention par une juge d’instruction parisienne, dans le cadre d’une enquête pour escroquerie et association de malfaiteurs.",
@@ -308,17 +429,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-25T17:32:44+00:00"
-    },
-    {
-      "id": "0a71222c8ab2f7d023d5f62d",
-      "title": "Philips OneBlade 360 Drops to £35 at Amazon UK Ahead of Prime Big Deal Days",
-      "summary": "Grab the Philips OneBlade Hybrid 360 for £34.99 at Amazon UK ahead of Prime Big Deal Days, saving 36% on one of the most versatile shavers available.",
-      "url": "https://www.ign.com/articles/philips-oneblade-360-amazon-prime-big-deal-days-early-offer",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-25T17:30:00+00:00"
     },
     {
       "id": "aed7b06105b02b23fe46d300",
@@ -352,6 +462,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-25T16:01:50+00:00"
+    },
+    {
+      "id": "457b334ee85b63794d7d9bb4",
+      "title": "Thousands turn out to greet Pope in France",
+      "summary": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
+      "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-25T15:44:55+00:00"
     },
     {
       "id": "35cbb70f8325bc32e01fecf9",
@@ -651,28 +772,6 @@
       "publishedAt": "2026-09-24T19:32:59+00:00"
     },
     {
-      "id": "652eadd81f6f5dd1329d5157",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-24T19:18:12+00:00"
-    },
-    {
-      "id": "75d4a8769895267f508082ae",
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-24T19:02:36+00:00"
-    },
-    {
       "id": "4da25b4ad50417bea1d109ff",
       "title": "Watch: UN delegates walk out of Netanyahu speech",
       "summary": "The Israeli delegation cheered in support during Netanyahu's speech. Nada Tawfik in New York explains what happened.",
@@ -717,28 +816,6 @@
       "publishedAt": "2026-09-24T18:00:04+00:00"
     },
     {
-      "id": "f7456efd722ea8f714149944",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-24T17:55:44+00:00"
-    },
-    {
-      "id": "b88e4aa58973df409ce9e1f0",
-      "title": "Muse, l’assistant d’IA que Meta veut imposer dans la vie quotidienne",
-      "summary": "Lancé début septembre, Muse s’est rapidement hissé en tête des téléchargements aux Etats-Unis. Avec cet assistant capable d’agir à la place de l’utilisateur, Meta ambitionne de démocratiser les agents d’IA, au prix de nouvelles questions sur la vie privée.",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/24/avec-muse-meta-veut-imposer-son-assistant-d-ia-dans-la-vie-quotidienne_6781549_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-24T15:54:50+00:00"
-    },
-    {
       "id": "9a368c1acf41e41f6a63a913",
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
@@ -748,28 +825,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-24T15:42:07+00:00"
-    },
-    {
-      "id": "909c68c2f86ec06ae39bceed",
-      "title": "« Après le débat sur les risques des IA, un autre sur leur “conscience” se profile dans la Silicon Valley »",
-      "summary": "Le directeur de la filiale d’intelligence artificielle de Microsoft, Mustafa Suleyman, regrette que certains, comme la start-up Anthropic, promeuvent l’idée de « bien-être » des modèles d’IA, détaille Alexandre Piquard, journaliste au service Economie, dans sa chronique au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/24/apres-le-debat-sur-les-risques-des-ia-un-autre-sur-leur-conscience-se-profile-dans-la-silicon-valley_6781538_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-24T15:00:24+00:00"
-    },
-    {
-      "id": "46d493829cab4a751ce80889",
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-24T14:37:34+00:00"
     },
     {
       "id": "2a4867bb3d363a00148930a2",
@@ -816,17 +871,6 @@
       "publishedAt": "2026-09-24T05:18:26+00:00"
     },
     {
-      "id": "ab8461a4c0bd3b7229285b76",
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-24T00:50:24+00:00"
-    },
-    {
       "id": "249519fb8bc1dbd78c28bd67",
       "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
       "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
@@ -836,28 +880,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-24T00:15:46+00:00"
-    },
-    {
-      "id": "93011c1faf19347182a53450",
-      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
-      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T23:58:50+00:00"
-    },
-    {
-      "id": "15a83eacd9d8160ea2fa8697",
-      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-      "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T23:42:38+00:00"
     },
     {
       "id": "a865d2170eb19022cae751f0",
@@ -902,17 +924,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-23T22:01:17+00:00"
-    },
-    {
-      "id": "6ae2947f63b6bc61ace51ae0",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "summary": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
-      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T21:29:04+00:00"
     },
     {
       "id": "87547a529b98e3b3429b818a",
@@ -990,17 +1001,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-01T20:10:00+00:00"
-    },
-    {
-      "id": "742f8bb2c32aaf3640e7b7a1",
-      "title": "Tech Now",
-      "summary": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-08-01T01:00:12+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
