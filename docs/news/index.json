@@ -1,21 +1,153 @@
 {
-  "updatedAt": "2026-09-26T02:40:42.531418+00:00",
+  "updatedAt": "2026-09-26T08:08:23.578908+00:00",
   "items": [
+    {
+      "id": "fc6fbe2229831f4e32eef632",
+      "title": "Les affichettes conçues par l’IA : « Oui, c’est moche, mais ça fait le taf »",
+      "summary": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, l’uniformisation graphique des affiches conçues par l’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/26/les-affichettes-concues-par-l-ia-oui-c-est-moche-mais-ca-fait-le-taf_6783108_4500055.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-26T08:00:24+00:00"
+    },
+    {
+      "id": "7031e014e8c20519d9b51b01",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-26T07:21:30+00:00"
+    },
+    {
+      "id": "587b3141b50e2b49768fe94a",
+      "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
+      "summary": "Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.",
+      "url": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-26T06:42:12+00:00"
+    },
+    {
+      "id": "e2033f549bd0052294b00823",
+      "title": "Bangkok declares disaster as heavy rains spark flooding",
+      "summary": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
+      "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-26T06:28:58+00:00"
+    },
+    {
+      "id": "f1f7038f6c50e47fa6dbf5a8",
+      "title": "IA : Washington et Pékin vont se doter d’un canal de communication spécifique aux incidents",
+      "summary": "Annoncé par la Maison Blanche à l’issue de la visite d’Etat de Xi Jinping, ce mécanisme s’accompagne d’un dialogue bilatéral sur la « super-intelligence », alors que les deux rivaux divergent sur l’encadrement de la technologie.",
+      "url": "https://www.lemonde.fr/international/article/2026/09/26/ia-washington-et-pekin-vont-se-doter-d-un-canal-de-communication-dedie-aux-incidents_6783095_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-26T05:59:35+00:00"
+    },
+    {
+      "id": "e2effe4c3131416968022d78",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-26T05:09:09+00:00"
+    },
+    {
+      "id": "5f54b3ceac08d4aba26b6935",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-26T05:03:09+00:00"
+    },
+    {
+      "id": "c42db9ea5c2cb040d9e36529",
+      "title": "Privés d’un outil destiné à récupérer des preuves numériques cruciales pour leurs enquêtes, des magistrats français interpellent le gouvernement",
+      "summary": "Des textes européens permettant aux magistrats de solliciter de manière plus rapide, simple et fiable des éléments de preuves auprès des entreprises du numérique ne peuvent être appliqués en France. Des magistrats sonnent l’alerte.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/26/prives-d-un-outil-destine-a-recuperer-des-preuves-numeriques-cruciales-pour-leurs-enquetes-des-magistrats-francais-interpellent-le-gouvernement_6783055_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-26T05:00:07+00:00"
+    },
+    {
+      "id": "bd9c0bf40b4cb2c2bfd254b0",
+      "title": "« Chaque jour, nous prenons le risque de retarder l’arrestation d’un meurtrier ou d’un violeur, faute d’appliquer le mécanisme européen e-Evidence »",
+      "summary": "Un magistrat allemand ou italien peut désormais obtenir rapidement des preuves numériques détenues par une plateforme installée dans un autre pays de l’UE. Un juge français, non, et il est urgent d’y remédier, plaident, dans une tribune au « Monde », deux magistrats et un spécialiste de droit du numérique.",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/26/chaque-jour-nous-prenons-le-risque-de-retarder-l-arrestation-d-un-meurtrier-ou-d-un-violeur-faute-d-appliquer-le-mecanisme-europeen-e-evidence_6783021_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-26T04:30:15+00:00"
+    },
+    {
+      "id": "b389732e78271622929c3a46",
+      "title": "Piratage des fichiers de l’Etat : comment nous nous sommes habitués à partager nos données sans compter",
+      "summary": "L’utilisation des nouvelles technologies contribue à fragiliser un compromis ancien entre l’Etat et les administrés sur l’échange d’informations personnelles. Petite histoire du consentement (ou pas) au recueil et à l’emploi de nos data.",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/26/piratage-des-fichiers-de-l-etat-comment-nous-nous-sommes-habitues-a-partager-nos-donnees-sans-compter_6783020_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-26T04:30:10+00:00"
+    },
+    {
+      "id": "ca668bb215ab29ce28e42f23",
+      "title": "VIDÉO | L’IA peut-elle nous tuer ?",
+      "summary": "Un vent de panique a secoué le monde de l’intelligence artificielle après un été marqué par des incidents de cybersécurité impliquant des agents d’IA. Pour autant, la perspective d’une extinction de l’humanité causée par une intelligence artificielle reste à ce stade seulement théorique.",
+      "url": "https://www.lemonde.fr/videos/video/2026/09/26/video-l-ia-peut-elle-nous-tuer_6783011_1669088.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-26T04:00:34+00:00"
+    },
     {
       "id": "1d1ae88eb25394924efd4b66",
       "title": "OpenAI bots meddled with multiple US government agency sites",
-      "summary": "OpenAI said its bots access public data from the US Census and the Securities and Exchange Commission, which looks over US stocks and investors",
+      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
       "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-09-26T02:33:09+00:00"
+      "publishedAt": "2026-09-26T02:50:56+00:00"
+    },
+    {
+      "id": "f91474b747b69fdbd1ba8ce4",
+      "title": "Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D",
+      "summary": "Chris Hansen says he was more confused than offended by Lance Oppenheim’s Primetime, and is answering this dramatized version of events with his own documentary.",
+      "url": "https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-26T02:17:48+00:00"
     },
     {
       "id": "ccc774631821ecc0037dd6ef",
       "title": "TikTok accepte de limiter le temps d’écran des adolescents dans un accord à plus de 100 millions de dollars avec l’Alabama",
-      "summary": "Comme Meta, maison mère de Facebook et d’Instagram, TikTok devra imposer par défaut aux jeunes de 13 à 17 ans une limite quotidienne de deux heures, restreindre leur accès entre minuit et 6 heures et suspendre les notifications pendant les heures de cours.",
+      "summary": "Comme Meta, la maison mère de Facebook et d’Instagram, TikTok devra imposer par défaut aux jeunes de 13 à 17 ans une limite quotidienne de deux heures, restreindre leur accès entre minuit et 6 heures et suspendre les notifications pendant les heures de cours.",
       "url": "https://www.lemonde.fr/pixels/article/2026/09/26/tiktok-accepte-de-limiter-le-temps-d-ecran-des-adolescents-en-alabama-pour-s-eviter-un-proces_6782872_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -44,6 +176,17 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-26T01:09:11+00:00"
+    },
+    {
+      "id": "8d6688dbe475082c07d481f4",
+      "title": "Watch: Karaoke and butterflies - US cities celebrate Dolly Parton Day",
+      "summary": "The day is observed on 25 September, or 9/25, as a nod to the late Queen of Country's hit song 9 to 5.",
+      "url": "https://www.bbc.co.uk/news/videos/crvgyye2w772o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-26T01:06:33+00:00"
     },
     {
       "id": "5ad325105b7972c9366c3659",
@@ -88,17 +231,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-25T23:42:39+00:00"
-    },
-    {
-      "id": "5f54b3ceac08d4aba26b6935",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-25T23:38:48+00:00"
     },
     {
       "id": "f792a8c9df28d10b113c466b",
@@ -343,6 +475,17 @@
       "publishedAt": "2026-09-25T18:51:00+00:00"
     },
     {
+      "id": "d8090d05586510eb1b6fb42f",
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-25T18:41:13+00:00"
+    },
+    {
       "id": "53b40223eb25e60ae0b715fa",
       "title": "Trump's plans for massive arch move ahead",
       "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
@@ -396,28 +539,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-25T17:57:02+00:00"
-    },
-    {
-      "id": "0ae68f5fee698789947084d2",
-      "title": "Today’s Best Deals: Switch 2 Console, MTG x The Hobbit, and Pokémon Pitch Black",
-      "summary": "Don’t miss the final days of Walmart’s GeForce week and more discounts.",
-      "url": "https://www.ign.com/articles/best-deals-for-september-25-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-25T17:50:00+00:00"
-    },
-    {
-      "id": "b0b487b7611680f48d2ee3db",
-      "title": "Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch",
-      "summary": "Microsoft debuted Copilot+ about two years ago in an effort to bring AI PCs to the mainstream. Now it seems like they're already going away.",
-      "url": "https://www.ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-25T17:47:16+00:00"
     },
     {
       "id": "610114aaef889ac0714d040e",
@@ -673,39 +794,6 @@
       "publishedAt": "2026-09-25T05:54:07+00:00"
     },
     {
-      "id": "f6355a67257da5c229329a9b",
-      "title": "« Le cas Thélyson Orélien, accusé d’écrire avec l’IA, est un séisme pour le monde littéraire, qui campe sur l’image de l’écrivain solitaire »",
-      "summary": "Si l’intelligence artificielle se niche dans un livre de qualité, en l’occurrence « C’était ça ou mourir » du romancier canado-haïtien, en tête des ventes et en lice pour le prix Goncourt, où va-t-on ? Sans doute faut-il l’accepter, estime Michel Guerrin, rédacteur en chef au « Monde », dans sa chronique.",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/25/le-cas-thelyson-orelien-accuse-d-ecrire-avec-l-ia-est-un-seisme-pour-le-monde-litteraire-qui-campe-sur-l-image-de-l-ecrivain-solitaire_6781936_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-25T04:01:42+00:00"
-    },
-    {
-      "id": "00789b74c1eb2851e12fafe6",
-      "title": "Présidentielle 2027 : une IA « souveraine », unique consensus de candidats aux visions opposées",
-      "summary": "Un grand débat sur le thème de l’intelligence artificielle entre les représentants des candidats à l’élection présidentielle aura lieu vendredi 25 septembre à Marseille. Du rôle de l’école aux risques qui pèsent sur l’emploi en passant par la régulation, les postulants à l’Elysée rivalisent de propositions aux contours encore flous.",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-une-ia-souveraine-unique-consensus-de-candidats-aux-visions-opposees_6781933_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-25T04:00:24+00:00"
-    },
-    {
-      "id": "8ae5ddf65d2b712125d7c7da",
-      "title": "L’IA au service des artisans et des métiers manuels : « Même si elle m’aide, l’intelligence artificielle ne pourra jamais goûter mes produits à ma place… »",
-      "summary": "Moins menacés que dans d’autres secteurs par ce nouvel outil, certains artisans l’intègrent toutefois dans leur pratique professionnelle. Mais les formations restent pour l’instant en retrait sur le sujet.",
-      "url": "https://www.lemonde.fr/campus/article/2026/09/25/l-ia-au-service-des-artisans-et-des-metiers-manuels-meme-si-elle-m-aide-l-intelligence-artificielle-ne-pourra-jamais-gouter-mes-produits-a-ma-place_6781929_4401467.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-25T04:00:01+00:00"
-    },
-    {
       "id": "d0b4db26fec64ffb41619d81",
       "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
       "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
@@ -715,17 +803,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-25T03:57:09+00:00"
-    },
-    {
-      "id": "61a29d327a9f1aa9495a7a58",
-      "title": "Thélyson Orélien voit la tournée promotionnelle de son roman suspendue par son éditeur au Canada",
-      "summary": "Le salon du livre de l’Estrie, au Québec, a également annoncé, jeudi, exclure de sa programmation l’auteur, accusé d’avoir utilisé l’intelligence artificielle pour écrire son roman à succès « C’était ça ou mourir ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/25/l-ecrivain-thelyson-orelien-voit-la-tournee-promotionnelle-de-son-roman-suspendue-par-son-editeur-au-canada_6781893_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-25T03:40:18+00:00"
     },
     {
       "id": "bdcc3c26fc7445c78c3e7f4b",
@@ -761,39 +838,6 @@
       "publishedAt": "2026-09-24T23:03:53+00:00"
     },
     {
-      "id": "d406e1642b170e8f881d068a",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-24T19:32:59+00:00"
-    },
-    {
-      "id": "4da25b4ad50417bea1d109ff",
-      "title": "Watch: UN delegates walk out of Netanyahu speech",
-      "summary": "The Israeli delegation cheered in support during Netanyahu's speech. Nada Tawfik in New York explains what happened.",
-      "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-24T18:29:29+00:00"
-    },
-    {
-      "id": "c511062108fe7589bac2c4c4",
-      "title": "Assemblée générale de l’ONU : « Accuser Israël de génocide, c’est le pire mensonge du siècle », déclare Benyamin Nétanyahou. Retrouvez notre direct",
-      "summary": "« Ils accusent Israël, le minuscule Israël, de colonialisme ; quel colonialisme ? », s’est exclamé Benyamin Nétanyahou. « Parmi eux, il y a des gens au Royaume-Uni et en France. Bon sang, ce sont eux qui ont inventé le terme », a-t-il lancé.",
-      "url": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-onu-des-dizaines-de-delegations-quittent-l-assemblee-generale-au-moment-du-discours-de-benyamin-netanyahou_6780906_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-24T18:21:28+00:00"
-    },
-    {
       "id": "7c8dcc96b9981f198d1c73e4",
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
@@ -803,17 +847,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-24T18:06:40+00:00"
-    },
-    {
-      "id": "e0e52aa7b482aceb779777b6",
-      "title": "IA et littérature : « Personne, dans cette querelle, ne se demande si un écrivain a le droit de travailler avec une machine »",
-      "summary": "L’écrivain Sébastien Bailly regrette, dans une tribune au « Monde » que les auteurs n’aient le choix qu’entre deux postures vis-à-vis de l’intelligence artificielle : celle de l’innocent ou celle du tricheur. Lui revendique la possibilité pour un écrivain d’utiliser cet outil, en toute transparence.",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/24/ia-et-litterature-personne-dans-cette-querelle-ne-se-demande-si-un-ecrivain-a-le-droit-de-travailler-avec-une-machine_6781575_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-24T18:00:04+00:00"
     },
     {
       "id": "9a368c1acf41e41f6a63a913",
@@ -891,17 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-23T23:14:10+00:00"
-    },
-    {
-      "id": "662680f87e51f4e9694c86d7",
-      "title": "A red carpet and military flyover - How Trump welcomed Xi",
-      "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
-      "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-23T23:03:56+00:00"
     },
     {
       "id": "17106d5f90eec921eb311461",
