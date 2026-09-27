@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T08:44:22.175584+00:00",
+  "updatedAt": "2026-09-27T14:25:25.275462+00:00",
   "items": [
     {
       "id": "8198a43e63fad63a3e5be021",
@@ -10,7 +10,62 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-09-27T08:40:02+00:00"
+      "publishedAt": "2026-09-27T14:09:22+00:00"
+    },
+    {
+      "id": "903409b82a17a474036f85d6",
+      "title": "Corsair Gaming Headsets See Early Prime Big Deal Days Discounts on Amazon UK",
+      "summary": "Save early on Corsair gaming headsets at Amazon UK ahead of Prime Big Deal Days, featuring wireless VOID v2 and wired HS65 SURROUND models.",
+      "url": "https://www.ign.com/articles/corsair-gaming-headset-early-prime-big-deal-days-uk",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-27T13:00:00+00:00"
+    },
+    {
+      "id": "cdf6f7d4cb2aa5d2e8a60ef7",
+      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-27T12:36:57+00:00"
+    },
+    {
+      "id": "47b0bb20a8cdf7304309eca9",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-27T12:34:26+00:00"
+    },
+    {
+      "id": "6f74ca08d60618d92bc64098",
+      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-27T11:38:03+00:00"
+    },
+    {
+      "id": "7aee7919fe54dc5557dab17d",
+      "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+      "summary": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
+      "url": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-27T08:51:23+00:00"
     },
     {
       "id": "7a6e16372834e7ab4680af51",
@@ -33,17 +88,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-27T04:45:08+00:00"
-    },
-    {
-      "id": "a16d3030721015678a5d0b25",
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-27T04:23:09+00:00"
     },
     {
       "id": "e09f25b746b84404f26e0289",
@@ -112,8 +156,8 @@
       "publishedAt": "2026-09-27T00:30:00+00:00"
     },
     {
-      "id": "3a4859d41c3013ac168443db",
-      "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+      "id": "a57b6852a8788bc939d6085e",
+      "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
       "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
       "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -198,17 +242,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-26T19:49:18+00:00"
-    },
-    {
-      "id": "894b08235cc963b805b2c957",
-      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-26T19:48:06+00:00"
     },
     {
       "id": "e2effe4c3131416968022d78",
@@ -418,17 +451,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-26T14:59:57+00:00"
-    },
-    {
-      "id": "d021eb4d13c62d49f4533996",
-      "title": "Philips Sonicare Electric Toothbrushes See Early Prime Big Deal Days Discounts on Amazon UK",
-      "summary": "Score early Amazon Prime Big Deal Days savings on Philips Sonicare electric toothbrushes in the UK, from the budget-friendly 2100 Series to the premium DiamondClean Prestige.",
-      "url": "https://www.ign.com/articles/philips-sonicare-electric-toothbrush-early-prime-big-deal-days-uk",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-26T13:00:00+00:00"
     },
     {
       "id": "c27ec354f2435e05373c4b5f",
