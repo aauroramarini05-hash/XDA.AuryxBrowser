@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-09-29T22:52:11.230353+00:00",
+  "updatedAt": "2026-09-30T01:45:16.914337+00:00",
   "items": [
+    {
+      "id": "cc5a7984a4cef31a006e573f",
+      "title": "Refusant de brider l’intelligence artificielle, Donald Trump met en scène l’autorégulation de ses acteurs",
+      "summary": "A un mois des élections de mi-mandat, le président américain a réuni autour de lui, mardi à la Maison Blanche, les principaux patrons du secteur, procédant à un recadrage de sa communication sur ce sujet explosif.",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/30/refusant-de-brider-l-intelligence-artificielle-donald-trump-met-en-scene-l-autoregulation-de-ses-acteurs_6785824_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-09-30T00:45:06+00:00"
+    },
+    {
+      "id": "2db8a2df9adf4747b3af560d",
+      "title": "'The Train Isn't Stopping' — Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches",
+      "summary": "Diablo 4 director Brent Gibson is telling fans not to worry about the game after Diablo 5’s announcement sparked concerns about the former title’s lifespan.",
+      "url": "https://www.ign.com/articles/the-train-isnt-stopping-diablo-4-director-promises-the-game-will-still-receive-support-well-after-diablo-5-launches",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-29T23:54:28+00:00"
+    },
+    {
+      "id": "15f27cec2fdfb63048860223",
+      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-29T23:47:10+00:00"
+    },
+    {
+      "id": "5f3bcf11d6faab2d27e64a13",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-09-29T23:33:34+00:00"
+    },
+    {
+      "id": "98662029269d161f40f105a1",
+      "title": "Original God of War Creator Defends Laufey's Creative Director From Harassment After His Critical Remarks Go Viral",
+      "summary": "David Jaffe, the creator, co-writer, and director for the original God of War game, has cleared up his viral comments about Ariel Lawrence, creative director for Laufey.",
+      "url": "https://www.ign.com/articles/original-god-of-war-creator-defends-laufeys-creative-director-from-harassment-after-his-critical-remarks-go-viral",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-29T23:21:54+00:00"
+    },
+    {
+      "id": "1016e527a157e53ca381265c",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-29T23:15:29+00:00"
+    },
+    {
+      "id": "c528acd78d9f980a84aafec5",
+      "title": "The start-ups hoping to return battery making to the US",
+      "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-09-29T23:06:50+00:00"
+    },
+    {
+      "id": "56bdefb9201dab196c2e0e25",
+      "title": "GTA 6's Game of the Year Chances Have Been Called Into Question",
+      "summary": "GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.",
+      "url": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-29T22:55:18+00:00"
+    },
+    {
+      "id": "7a203cc36fe994c23211e3eb",
+      "title": "Everything Coming to Amazon Prime Video in October",
+      "summary": "",
+      "url": "https://www.ign.com/articles/whats-new-on-prime-video-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-09-29T22:45:00+00:00"
+    },
     {
       "id": "8027fb23a57d25a24aab575c",
       "title": "South Africa to clean up high-risk areas after 12 women killed",
@@ -66,17 +165,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-09-29T22:13:13+00:00"
-    },
-    {
-      "id": "99e11741adde59e33e59c552",
-      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-      "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-29T22:06:18+00:00"
     },
     {
       "id": "e11196f46444c6d4bd94f511",
@@ -321,17 +409,6 @@
       "publishedAt": "2026-09-29T18:15:41+00:00"
     },
     {
-      "id": "7725ae3d89237bb9309136b6",
-      "title": "Crocs x Chainsaw Man Collection Revealed With 4 New Clog Designs",
-      "summary": "",
-      "url": "https://www.ign.com/articles/crocs-x-chainsaw-man-foot-locker-collaboration-reveal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-29T17:41:06+00:00"
-    },
-    {
       "id": "7b09a44ff4bbba36ab90c947",
       "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
       "summary": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
@@ -341,17 +418,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-29T17:31:30+00:00"
-    },
-    {
-      "id": "56babd3aaf7b6d9b21f066b6",
-      "title": "The Steam Frame: VR’s Future or the Beginning of the End?",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-steam-frame-vrs-future-or-the-beginning-of-the-end",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-29T17:30:00+00:00"
     },
     {
       "id": "4900f34b45f9d0d522f8fab8",
@@ -374,17 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-29T17:14:10+00:00"
-    },
-    {
-      "id": "af18f21a8aa4f88c979766c6",
-      "title": "Why Control Resonant Developer Remedy Avoided Using Yellow Paint to Guide Players",
-      "summary": "Control Resonant's director has explained how the team chose to handle exploration in a way that doesn't feel like it is holding the player's hand with things like yellow paint.",
-      "url": "https://www.ign.com/articles/why-control-resonant-developer-remedy-avoided-using-yellow-paint-to-guide-players",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-29T17:09:33+00:00"
     },
     {
       "id": "f555c8339e95964ebb4b4ede",
@@ -418,17 +473,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-29T16:55:43+00:00"
-    },
-    {
-      "id": "80aac996f1d395d71a27fdfd",
-      "title": "The Witcher 3 Fans Relieved to Find Low-Polygon Pigeons Have Survived the Remaster Process",
-      "summary": "The Witcher 3 Remastered brings tons of graphics improvements, but developer CD Projekt Red has left one incredibly important creature as it was: the pigeon.",
-      "url": "https://www.ign.com/articles/the-witcher-3-fans-relieved-to-find-low-polygon-pigeons-have-survived-the-remaster-process",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-09-29T16:51:58+00:00"
     },
     {
       "id": "605c3ccb48fc37fa7b333e89",
@@ -528,17 +572,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-29T13:38:06+00:00"
-    },
-    {
-      "id": "b399915f5f2a9f2e53629b38",
-      "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-      "summary": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-29T13:29:04+00:00"
     },
     {
       "id": "25498243722a27897d8ddcd5",
@@ -682,17 +715,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-09-29T01:12:52+00:00"
-    },
-    {
-      "id": "887c55de656ab650b6205e7f",
-      "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
-      "summary": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
-      "url": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-29T00:50:19+00:00"
     },
     {
       "id": "a3188df429e3dcd1d03da227",
@@ -860,17 +882,6 @@
       "publishedAt": "2026-09-26T08:00:24+00:00"
     },
     {
-      "id": "f1f7038f6c50e47fa6dbf5a8",
-      "title": "IA : Washington et Pékin vont se doter d’un canal de communication spécifique aux incidents",
-      "summary": "Annoncé par la Maison Blanche à l’issue de la visite d’Etat de Xi Jinping, ce mécanisme s’accompagne d’un dialogue bilatéral sur la « super-intelligence », alors que les deux rivaux divergent sur l’encadrement de la technologie.",
-      "url": "https://www.lemonde.fr/international/article/2026/09/26/ia-washington-et-pekin-vont-se-doter-d-un-canal-de-communication-dedie-aux-incidents_6783095_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-26T05:59:35+00:00"
-    },
-    {
       "id": "1d1ae88eb25394924efd4b66",
       "title": "OpenAI bots meddled with multiple US government agency sites",
       "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
@@ -957,28 +968,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-24T18:06:40+00:00"
-    },
-    {
-      "id": "9a368c1acf41e41f6a63a913",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-24T15:42:07+00:00"
-    },
-    {
-      "id": "2a4867bb3d363a00148930a2",
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-24T14:08:38+00:00"
     },
     {
       "id": "87547a529b98e3b3429b818a",
