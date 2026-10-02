@@ -1,9 +1,108 @@
 {
-  "updatedAt": "2026-10-02T01:53:35.427268+00:00",
+  "updatedAt": "2026-10-02T07:45:33.682231+00:00",
   "items": [
     {
-      "id": "f23724b5433302df5ed73b06",
-      "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+      "id": "5d88b37262b2ef636ba650fc",
+      "title": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
+      "summary": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T07:42:09+00:00"
+    },
+    {
+      "id": "2b55731d6b50cb0acba8ba18",
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T07:31:52+00:00"
+    },
+    {
+      "id": "2dace074f38f63890323dfd1",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T05:42:07+00:00"
+    },
+    {
+      "id": "abdade5c59da53f98e2c1cd9",
+      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+      "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T04:21:31+00:00"
+    },
+    {
+      "id": "7ecb4c31f039543ef10dcbc5",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T03:09:13+00:00"
+    },
+    {
+      "id": "f58a9c8ad0a87c16ef68b83a",
+      "title": "IA dans la littérature : prompter, c’est tromper ?",
+      "summary": "Après la suppression de Thélyson Orélien de la liste des finalistes du prix Goncourt car l’auteur est soupçonné d’avoir écrit son roman à l’aide de l’intelligence artificielle, ce podcast s’interroge sur la transformation du monde littéraire à l’ère de l’IA, avec Michaël Szadkowski et Nicolas Six, journalistes au service Pixels du « Monde ».",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/10/02/ia-dans-la-litterature-prompter-c-est-tromper_6786792_5463015.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-02T03:00:25+00:00"
+    },
+    {
+      "id": "be0e831de59de7a075a00607",
+      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+      "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+      "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T02:49:44+00:00"
+    },
+    {
+      "id": "411b6fb98492adadb39a1b0d",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T02:11:34+00:00"
+    },
+    {
+      "id": "5d4226937b866d29948ea6ec",
+      "title": "HBO's War Season 1 Premiere Review and Recap",
+      "summary": "Our recap and review of HBO's War series premiere, starring Dominic West and Sienna Miller as a high-profile divorce erupts into a vicious legal battle.",
+      "url": "https://www.ign.com/articles/hbo-war-series-premiere-recap-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-02T02:00:00+00:00"
+    },
+    {
+      "id": "ec65932023b3d25bdf5ee7b0",
+      "title": "OpenAI fires workers for mishandling 'sensitive information'",
       "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
       "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -13,9 +112,20 @@
       "publishedAt": "2026-10-02T01:34:56+00:00"
     },
     {
-      "id": "3b74dc184d9bd8f24fc0eda5",
-      "title": "OpenAI exclut trois chercheurs en sécurité de l’IA accusés de fuites d’informations sensibles",
-      "summary": "La start-up fait état de plusieurs manquements, dont l’un concerne des informations communiquées à un groupe extérieur d’évaluation de l’intelligence artificielle.",
+      "id": "31c8b044c5c0d97d2e319b23",
+      "title": "Cornell students voice frustration at public hearing over rape case",
+      "summary": "The BBC's Nada Tawfik was at the hearing, where the university's Student Assembly led a discussion around safety concerns and sexual violence on campus.",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8e8jpnpy5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T01:29:16+00:00"
+    },
+    {
+      "id": "0f44e9c74c280e5eb2af47c2",
+      "title": "OpenAI licencie trois chercheurs en sécurité accusés de fuites d’informations sensibles",
+      "summary": "La start-up fait état de plusieurs manquements, dont l’un concerne des informations communiquées à un groupe extérieur chargé d’évaluer l’intelligence artificielle.",
       "url": "https://www.lemonde.fr/pixels/article/2026/10/02/openai-exclut-trois-chercheurs-en-securite-de-l-ia-accuses-de-fuites-d-informations-sensibles_6786658_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -35,6 +145,17 @@
       "publishedAt": "2026-10-02T00:00:00+00:00"
     },
     {
+      "id": "a22401168310c602e1efaccf",
+      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+      "summary": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-01T23:46:12+00:00"
+    },
+    {
       "id": "a06e81f0ba03fee4db35abc2",
       "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
       "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
@@ -44,6 +165,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-01T23:45:06+00:00"
+    },
+    {
+      "id": "2bbc388e90dcf73ab20902ac",
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "summary": "Amid global tumult, the two countries alliance is not the only unlikely pairing.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-01T23:42:33+00:00"
     },
     {
       "id": "edee7e7e456c9c848aa5fe46",
@@ -57,6 +189,17 @@
       "publishedAt": "2026-10-01T23:37:56+00:00"
     },
     {
+      "id": "3b62237f25b51a1fcd67fda1",
+      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+      "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-01T23:32:59+00:00"
+    },
+    {
       "id": "7d4720d4acdbe242a46fb81a",
       "title": "Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti",
       "summary": "Viral internet short film Portrait of God is getting the Hollywood treatment, with Chase Infiniti set to star in a feature length adaptation of the YouTube-famous horror video.",
@@ -68,15 +211,15 @@
       "publishedAt": "2026-10-01T23:09:57+00:00"
     },
     {
-      "id": "411b6fb98492adadb39a1b0d",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "id": "c1db243a22b2b3b5369951df",
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-01T22:52:19+00:00"
+      "publishedAt": "2026-10-01T23:00:05+00:00"
     },
     {
       "id": "07a35b6885be8e6777a637a5",
@@ -110,6 +253,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-01T22:28:45+00:00"
+    },
+    {
+      "id": "2918b398166765951e0ea111",
+      "title": "Why are these endangered moths swarming Australia's east coast?",
+      "summary": "The sudden influx of Bogong moths has caused a stir in cities like Sydney and Canberra, with people filming them infiltrating their homes and cars.",
+      "url": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-01T22:26:05+00:00"
     },
     {
       "id": "c35ba59393e792c0fb00713d",
@@ -211,6 +365,17 @@
       "publishedAt": "2026-10-01T20:30:00+00:00"
     },
     {
+      "id": "6a17eebc6c0cddcbbd9d1cb5",
+      "title": "What we know about Christa Pike’s condition after failed execution",
+      "summary": "The BBC’s Ione Wells reports from outside the Tennessee hospital where Pike is said to have arrived Wednesday night after surviving two lethal injection attempts.",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-01T20:09:34+00:00"
+    },
+    {
       "id": "8aaef4cefccd8f98f1be0c73",
       "title": "We Build LEGO SpongeBob SquarePants Bikini Bottom: a F.U.N. Build for Nostalgic Adults",
       "summary": "We build the SpongeBob SquarePants: Bikini Bottom LEGO set, which offers a massive dose of nostalgia for millennial adults.",
@@ -310,15 +475,15 @@
       "publishedAt": "2026-10-01T19:01:55+00:00"
     },
     {
-      "id": "c83bfa807eafa39238192e7d",
-      "title": "Amazon’s 3 for $33 Sale on 4K UHD Movies Is Back",
-      "summary": "Amazon's ultra-popular 3 for $33 sale on 4K UHD movies is back, and it's live until October 10.",
-      "url": "https://www.ign.com/articles/amazons-3-for-33-sale-on-4k-uhd-movies-october-2026",
+      "id": "ce70d4d5d38e244d58e1d9da",
+      "title": "SpaceX launches crew to ISS",
+      "summary": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
+      "url": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-01T18:30:08+00:00"
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-01T16:32:17+00:00"
     },
     {
       "id": "ffdb2e699602d8fa3889e583",
@@ -398,28 +563,6 @@
       "publishedAt": "2026-10-01T14:05:55+00:00"
     },
     {
-      "id": "4e3d14ec5fb740ff6c226bb0",
-      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
-      "summary": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m).",
-      "url": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T13:57:28+00:00"
-    },
-    {
-      "id": "f9318f5595b19b864d295c13",
-      "title": "Watch: Why are students protesting at schools in France?",
-      "summary": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France.",
-      "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T12:31:18+00:00"
-    },
-    {
       "id": "b0283c2db11bd3f1f1ada8ae",
       "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
       "summary": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
@@ -440,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-01T12:00:14+00:00"
-    },
-    {
-      "id": "08326274c61e77dcbe1a0bfc",
-      "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
-      "summary": "Victims often have to navigate both university and local law enforcement processes to find justice.",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T11:40:35+00:00"
     },
     {
       "id": "4c6e6b72e0649108724b67ee",
@@ -508,17 +640,6 @@
       "publishedAt": "2026-10-01T08:30:02+00:00"
     },
     {
-      "id": "3d086f820f845d4cad968402",
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T07:04:27+00:00"
-    },
-    {
       "id": "811bc0268c1cbe3a962dee92",
       "title": "K-pop star convicted of violating military service law",
       "summary": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work.",
@@ -574,50 +695,6 @@
       "publishedAt": "2026-10-01T02:57:43+00:00"
     },
     {
-      "id": "118464779fe2b4fa7375629f",
-      "title": "California bans child marriage, a practice still legal in 32 US states",
-      "summary": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T00:57:04+00:00"
-    },
-    {
-      "id": "2f233ed4257b34b08c975af7",
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T00:08:23+00:00"
-    },
-    {
-      "id": "51f7b00abf2aa5b10b5e9c39",
-      "title": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
-      "summary": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-30T23:41:34+00:00"
-    },
-    {
-      "id": "d356e9a4bc10836ad64a2ed9",
-      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-      "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-30T23:25:23+00:00"
-    },
-    {
       "id": "0a59a02e3b86daea58dfee64",
       "title": "Tiny image sparks big backlash in Nikon photo contest",
       "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
@@ -629,17 +706,6 @@
       "publishedAt": "2026-09-30T23:10:19+00:00"
     },
     {
-      "id": "d5bfc703836c35bf6acf1f7d",
-      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-30T23:10:06+00:00"
-    },
-    {
       "id": "fe2a423072acebaff9d9781d",
       "title": "The AI telling farmers when to harvest",
       "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
@@ -649,28 +715,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-30T23:02:21+00:00"
-    },
-    {
-      "id": "1c23abfc2b0f8716713ba2c0",
-      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
-      "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-30T21:38:54+00:00"
-    },
-    {
-      "id": "9458f29e791e2d710e15bb3e",
-      "title": "Passengers describe stabbing on Israel-bound plane",
-      "summary": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
-      "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-30T15:07:00+00:00"
     },
     {
       "id": "a98a756273e0cf98cd83fb81",
@@ -715,28 +759,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-30T11:34:43+00:00"
-    },
-    {
-      "id": "c4dae9ba2da2682131453982",
-      "title": "Couple describes relief at rescue after whale destroys their yacht",
-      "summary": "Jeremy and Jemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
-      "url": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-30T11:01:58+00:00"
-    },
-    {
-      "id": "eb91c4d73bb78c070fa04a6a",
-      "title": "Luxury prison in Indonesia demolished after public outcry",
-      "summary": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital.",
-      "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-09-30T10:41:03+00:00"
     },
     {
       "id": "7f3e942b368e6079ce9b1b44",
@@ -849,10 +871,10 @@
       "publishedAt": "2026-09-29T22:15:01+00:00"
     },
     {
-      "id": "5b50029ad6111a42eda4e43a",
+      "id": "187fcc37fb8bb557e5ac7c69",
       "title": "Tech Life",
       "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
@@ -880,17 +902,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-09-29T17:08:08+00:00"
-    },
-    {
-      "id": "7c494386179519042945d945",
-      "title": "Piratage du site des impôts : un rapport officiel détaille les failles qui ont permis le vol des données de centaines de milliers de Français",
-      "summary": "L’agence chargée de la cybersécurité, l’Anssi, démontre notamment des « lacunes dans la supervision » des systèmes informatiques de la direction générale des finances publiques, touchée cet été par une cyberattaque historique.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/29/piratage-du-site-des-impots-un-rapport-officiel-detaille-les-failles-qui-ont-permis-le-vol-des-donnees-de-centaines-de-milliers-de-francais_6785671_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-09-29T16:55:43+00:00"
     },
     {
       "id": "5ad325105b7972c9366c3659",
