@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-10-02T23:26:16.633971+00:00",
+  "updatedAt": "2026-10-03T03:01:40.072023+00:00",
   "items": [
+    {
+      "id": "618cd4904d55281cdb1ae3c0",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-03T02:23:07+00:00"
+    },
+    {
+      "id": "daed890e1fdeae24f9304d28",
+      "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
+      "summary": "The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with potentially disastrous real-world consequences if actually consumed.",
+      "url": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-03T02:18:57+00:00"
+    },
+    {
+      "id": "aa0eb05d4db9f3e229855716",
+      "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
+      "summary": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+      "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-03T01:33:39+00:00"
+    },
+    {
+      "id": "9ed6157714ae9ed96248dbbd",
+      "title": "Tech Now",
+      "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-03T01:00:00+00:00"
+    },
+    {
+      "id": "221eee0d1d66fc137c83af13",
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T23:56:21+00:00"
+    },
+    {
+      "id": "a04e8637bd61f92b310c5cc3",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T23:37:13+00:00"
+    },
+    {
+      "id": "a7fc324d329432380effab83",
+      "title": "Women given shorts at Oktoberfest to prevent upskirting",
+      "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T23:16:03+00:00"
+    },
+    {
+      "id": "1a87daaedfd5614e52700381",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T23:06:00+00:00"
+    },
+    {
+      "id": "21e6b6999202a0f5558716a2",
+      "title": "The vanishing world of India's street magicians",
+      "summary": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
+      "url": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T22:59:05+00:00"
+    },
     {
       "id": "91ab55de80f1517253ea8001",
       "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
@@ -103,7 +202,7 @@
     {
       "id": "241ea93f57d6b6fbbefc2b6c",
       "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -200,17 +299,6 @@
       "publishedAt": "2026-10-02T18:00:00+00:00"
     },
     {
-      "id": "6c3802ab2e39d8502fdbb630",
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-02T17:44:08+00:00"
-    },
-    {
       "id": "e2f62fe71455cf8b66f27a90",
       "title": "GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More",
       "summary": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\" and much more.",
@@ -277,17 +365,6 @@
       "publishedAt": "2026-10-02T16:15:00+00:00"
     },
     {
-      "id": "3b56dea1441ec3c6d1994077",
-      "title": "Disney+ Shows and Movies Are Now Headed to Netflix, Including Ice Age and Percy Jackson",
-      "summary": "Disney plans to license a mix of legacy titles and currently-streaming TV shows to Netflix as part of a new deal between the two firms. In the deal, Netflix will host select Disney content for its 325 million subscribers.",
-      "url": "https://www.ign.com/articles/disney-licenses-netflix",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-02T16:10:59+00:00"
-    },
-    {
       "id": "2dace074f38f63890323dfd1",
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
@@ -297,17 +374,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-02T16:08:25+00:00"
-    },
-    {
-      "id": "b878ea9436e7dec1746619cd",
-      "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
-      "summary": "DC Studios co-CEOs James Gunn and Peter Safran will seemingly keep their vision for the DCU alive following the Paramount-Warner Bros. merger.",
-      "url": "https://www.ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-02T15:53:56+00:00"
     },
     {
       "id": "945278fbc51a2eb38da65e94",
@@ -341,6 +407,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-02T15:26:37+00:00"
+    },
+    {
+      "id": "709392a1c2676f39bbe78ebc",
+      "title": "Watch: Why students in France are protesting",
+      "summary": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
+      "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-02T15:02:15+00:00"
     },
     {
       "id": "ea797a96eaab2cbbb5ffdb66",
@@ -385,17 +462,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-02T12:00:10+00:00"
-    },
-    {
-      "id": "bdd4b912ff50e9e658ec1707",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-02T11:52:04+00:00"
     },
     {
       "id": "78fa828953e386ca5434d5ed",
@@ -508,17 +574,6 @@
       "publishedAt": "2026-10-02T00:02:03+00:00"
     },
     {
-      "id": "a22401168310c602e1efaccf",
-      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
-      "summary": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T23:46:12+00:00"
-    },
-    {
       "id": "a06e81f0ba03fee4db35abc2",
       "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
       "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
@@ -539,17 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-01T23:42:33+00:00"
-    },
-    {
-      "id": "3b62237f25b51a1fcd67fda1",
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T23:32:59+00:00"
     },
     {
       "id": "c1db243a22b2b3b5369951df",
@@ -794,17 +838,6 @@
       "publishedAt": "2026-10-01T04:30:00+00:00"
     },
     {
-      "id": "ad6d854c520e57d79345dbaf",
-      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
-      "summary": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T03:52:20+00:00"
-    },
-    {
       "id": "d957edfc40cbb7f7f1ddd6d8",
       "title": "Japan raises permanent residency fee by 20 times",
       "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
@@ -1023,17 +1056,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-08T20:00:00+00:00"
-    },
-    {
-      "id": "f2847cd85e2011d178553593",
-      "title": "Tech Now",
-      "summary": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-05T01:00:18+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
