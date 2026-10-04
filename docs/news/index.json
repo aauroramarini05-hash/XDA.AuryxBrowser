@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-04T00:15:03.281330+00:00",
+  "updatedAt": "2026-10-04T06:32:07.529610+00:00",
   "items": [
+    {
+      "id": "2b882b3ea0148430fc7965cb",
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-04T06:19:17+00:00"
+    },
+    {
+      "id": "709e888ca945c6251a6f8af1",
+      "title": "Rare tornado whips through small Australian town",
+      "summary": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+      "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-04T04:15:36+00:00"
+    },
+    {
+      "id": "707251a40a62ad9dd97785ff",
+      "title": "« On ne peut pas abandonner la culture à l’IA » : vers l’émergence d’une labellisation « 100 % humain » ?",
+      "summary": "Dans la course à l’intelligence artificielle générative et à la robotique, il devient difficile de distinguer le « made in human » du reste. Certains tentent de mettre en place des labels « garanti sans IA » ou de revenir à une esthétique bricolée et artisanale. Car, à l’ère du soupçon, comment protéger la « créativité humaine » ?",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/10/04/on-ne-peut-pas-abandonner-la-culture-a-l-ia-vers-l-emergence-d-une-labellisation-100-humain_6788000_4497916.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-04T03:55:06+00:00"
+    },
+    {
+      "id": "4f8b7eef9b3bb9a1aac3d67f",
+      "title": "Debris found from plane that went missing off US coast",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-04T03:49:06+00:00"
+    },
+    {
+      "id": "16a1d291b49f788205238e7e",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-04T03:42:15+00:00"
+    },
     {
       "id": "74395747fd39738361fd42cf",
       "title": "Cornell president says university 'must do better' after frat house rape allegations",
@@ -44,17 +99,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-03T22:03:45+00:00"
-    },
-    {
-      "id": "b912085d5d8564e0e56dd10b",
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-03T21:16:21+00:00"
     },
     {
       "id": "0a64d339eb006a33bcc7c2b4",
@@ -136,7 +180,7 @@
     {
       "id": "4b57af186d24e7e5aefe90bc",
       "title": "'I Did My Best' — Final Fantasy 7 Revelation Director Responds to Fans Asking for Full Disc Version",
-      "summary": "Final Fantasy 7 Revelation Naoki Hamaguchi said he did his best to fight for a disc release as the industry heads toward a \"future where physical media is essentially disc-less.\"",
+      "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi said he did his best to fight for a disc release as the industry heads toward a \"future where physical media is essentially disc-less.\"",
       "url": "https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version",
       "imageUrl": null,
       "source": "IGN All",
@@ -156,17 +200,6 @@
       "publishedAt": "2026-10-03T16:16:49+00:00"
     },
     {
-      "id": "e22cc3ae993adfd61c8b63d2",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-03T14:27:33+00:00"
-    },
-    {
       "id": "e6635f2c0316446f4cdbc5c7",
       "title": "Why has Brazil accused the US of election interference?",
       "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
@@ -176,17 +209,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-03T13:52:13+00:00"
-    },
-    {
-      "id": "16a1d291b49f788205238e7e",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-03T13:34:11+00:00"
     },
     {
       "id": "5041f6f676f7d2611e8535d7",
@@ -574,17 +596,6 @@
       "publishedAt": "2026-10-02T15:30:01+00:00"
     },
     {
-      "id": "709392a1c2676f39bbe78ebc",
-      "title": "Watch: Why students in France are protesting",
-      "summary": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
-      "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-02T15:02:15+00:00"
-    },
-    {
       "id": "ea797a96eaab2cbbb5ffdb66",
       "title": "Monique Canto-Sperber, philosophe : « Un livre écrit par une IA, quand il ne se désigne pas comme tel, revient à tromper le lecteur sur la nature même de l’écrit »",
       "summary": "En écho à l’affaire Thélyson Orélien, l’autrice de « La Fin de la culture française » propose, dans une tribune au « Monde », d’apposer dorénavant sur les livres une déclaration de l’auteur afin de sécuriser le lien avec son lecteur et l’économie du secteur.",
@@ -649,17 +660,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-02T09:08:06+00:00"
-    },
-    {
-      "id": "10048d2e18a654a66800b361",
-      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
-      "summary": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
-      "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-02T08:46:37+00:00"
     },
     {
       "id": "1f7f627eb29a613a8ab2e64c",
@@ -770,17 +770,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-01T20:30:47+00:00"
-    },
-    {
-      "id": "6a17eebc6c0cddcbbd9d1cb5",
-      "title": "What we know about Christa Pike’s condition after failed execution",
-      "summary": "The BBC’s Ione Wells reports from outside the Tennessee hospital where Pike is said to have arrived Wednesday night after surviving two lethal injection attempts.",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-01T20:09:34+00:00"
     },
     {
       "id": "bdd33c78a38bcfa18e0a0595",
@@ -935,17 +924,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-01T04:30:11+00:00"
-    },
-    {
-      "id": "af8951ff9c2c787280b0d023",
-      "title": "IA : aux Etats-Unis, la justice saisie des incidents de sécurité provoqués par des agents d’OpenAI",
-      "summary": "Une ONG poursuit la société qui développe ChatGPT après le piratage de la plateforme Hugging Face. Une première qui pose la question de la responsabilité des géants de la tech alors que le débat sur les besoins de régulation et de ralentissement de la recherche divise le secteur.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/01/intelligence-artificielle-aux-etats-unis-la-justice-saisie-des-incidents-de-securite-provoques-par-des-agents-ia_6786450_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-01T04:30:00+00:00"
     },
     {
       "id": "0a59a02e3b86daea58dfee64",
