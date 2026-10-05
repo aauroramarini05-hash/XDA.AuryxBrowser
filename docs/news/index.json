@@ -1,6 +1,215 @@
 {
-  "updatedAt": "2026-10-05T03:10:25.589749+00:00",
+  "updatedAt": "2026-10-05T11:00:07.545469+00:00",
   "items": [
+    {
+      "id": "6f824baf175cfff5dc2c7bf2",
+      "title": "US air force removes all bombers from British military base RAF Fairford",
+      "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T10:39:09+00:00"
+    },
+    {
+      "id": "5c7ad31e1af7de3463dfe608",
+      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
+      "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T10:37:58+00:00"
+    },
+    {
+      "id": "902de537d2e4da7e416bee1a",
+      "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
+      "summary": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T10:23:26+00:00"
+    },
+    {
+      "id": "ccd5361e5133a62849b77b10",
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-05T10:03:38+00:00"
+    },
+    {
+      "id": "89aff4154fdfbe4582a5475d",
+      "title": "Une vidéo scientifique primée modifiée par intelligence artificielle",
+      "summary": "Le vainqueur du concours organisé par Nikon a reconnu avoir recouru à des retouches par IA, après que des biologistes ont signalé la présence de structures biologiquement improbables.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/05/une-video-scientifique-primee-modifiee-par-intelligence-artificielle_6788519_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-05T10:00:47+00:00"
+    },
+    {
+      "id": "18c0ceb25503874896bf80f3",
+      "title": "'The Movie Still Hasn't Made Any Money': Dakota Johnson is Happy to Joke About Madame Web Being One of Hollywood's Worst Ever Flops",
+      "summary": "Madame Web star Dakota Johnson has joked about her widely-panned superhero movie's status as a box office bomb.",
+      "url": "https://www.ign.com/articles/the-movie-still-hasnt-made-any-money-dakota-johnson-is-happy-to-joke-about-madame-web-being-one-of-hollywoods-worst-ever-flops",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-05T09:27:58+00:00"
+    },
+    {
+      "id": "0752416e16ee95c581fe1877",
+      "title": "How Spain's housing crisis has resulted in an early general election",
+      "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
+      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T09:03:30+00:00"
+    },
+    {
+      "id": "cfce721a3480056c28f73a28",
+      "title": "En France et au Québec, les différentes stratégies d’évaluation des étudiants à l’ère de l’IA",
+      "summary": "Alors que l’intelligence artificielle générative peut désormais notoirement améliorer, voire produire, une dissertation, les enseignants universitaires français et québécois tentent de déterminer ce que l’on peut encore évaluer, et comment.",
+      "url": "https://www.lemonde.fr/le-monde-evenements/article/2026/10/05/en-france-et-au-quebec-les-differentes-strategies-d-evaluation-des-etudiants-a-l-ere-de-l-ia_6788511_4333359.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-05T09:00:29+00:00"
+    },
+    {
+      "id": "2baa79e61481b24a1540cbd8",
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T08:29:12+00:00"
+    },
+    {
+      "id": "a66b8cfb6f63561c2a4c511f",
+      "title": "Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research",
+      "summary": "Rockstar has discussed travelling across Florida with gang members and cops for GTA 6 research, and hovering in a helicopter above a Beyonce concert.",
+      "url": "https://www.ign.com/articles/gta-6-research-gang-members",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-05T08:29:00+00:00"
+    },
+    {
+      "id": "a1eeaa8d93e8439b6438056b",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T08:22:41+00:00"
+    },
+    {
+      "id": "1196c0f680787ee9252b0c48",
+      "title": "Au Danemark, 8,8 millions de personnes concernées par une importante fuite de données du registre national",
+      "summary": "Les auteurs de cette intrusion, non identifiés, ont pu accéder aux noms, adresses et numéros de sécurité sociale d’environ 80 % des personnes enregistrées, selon le gouvernement danois.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/05/au-danemark-environ-8-8-millions-de-personnes-concernees-par-une-importante-fuite-de-donnees-du-registre-national_6788499_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-05T08:12:36+00:00"
+    },
+    {
+      "id": "19aec415fdd4d2069d035385",
+      "title": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA",
+      "summary": "L’actuel directeur du renseignement américain vient d’être nommé par Donald Trump au poste de référent du gouvernement sur l’intelligence artificielle. Une désignation qui intervient alors que l’inquiétude monte sur le contrôle de cette technologie.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/05/aux-etats-unis-jay-clayton-le-nouvel-homme-fort-de-l-ia_6788485_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-05T05:00:00+00:00"
+    },
+    {
+      "id": "6fd16df889338d515e834ba8",
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T04:51:24+00:00"
+    },
+    {
+      "id": "23fae0f81d3e48eacb58ec83",
+      "title": "France closes up to 500 schools Monday over student protests",
+      "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T04:49:14+00:00"
+    },
+    {
+      "id": "82d625aabb2ece42639d3256",
+      "title": "« Je sais qu’on aura toujours besoin d’humains dans ce domaine » : les professions du lien à l’abri d’un remplacement par l’IA",
+      "summary": "Les métiers qui mettent au cœur de leur pratique l’empathie et la présence sont plutôt épargnés par la révolution en cours opérée par l’intelligence artificielle sur le marché du travail. Mais s’ils peuvent apparaître comme un choix de carrière stratégique, ils restent dans les faits dévalués, sous-payés et très souvent pénibles.",
+      "url": "https://www.lemonde.fr/campus/article/2026/10/05/je-sais-qu-on-aura-toujours-besoin-d-humains-dans-ce-domaine-les-professions-du-lien-a-l-abri-d-un-remplacement-par-l-ia_6788482_4401467.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-05T04:30:11+00:00"
+    },
+    {
+      "id": "ca86d00de448f0d82e0faed1",
+      "title": "All six passengers presumed dead after plane went missing off US coast",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T04:00:35+00:00"
+    },
+    {
+      "id": "0674e3f513dafbb9ddb7fa4c",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-05T03:16:16+00:00"
+    },
+    {
+      "id": "2703751699845869e2b353e7",
+      "title": "Lanterns Star Kyle Chandler's Hal Jordan Is a Superhero Casting That Rivals Robert Downey Jr.'s Iron Man, Fans Say",
+      "summary": "Lanterns Season 1 is over, and the verdict is in: Fans say Kyle Chandler's Hal Jordan rivals Robert Downey Jr.'s Iron Man as one of the best superhero casting choices of all time.",
+      "url": "https://www.ign.com/articles/lanterns-star-kyle-chandlers-hal-jordan-is-a-superhero-casting-that-rivals-robert-downey-jrs-iron-man-fans-say",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-05T03:12:07+00:00"
+    },
     {
       "id": "046ddc00b5a9f173af0abfa3",
       "title": "Les dessous de « Legend », le média à succès sur YouTube",
@@ -11,28 +220,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-05T03:00:21+00:00"
-    },
-    {
-      "id": "a67ac9e76ba9c2dfc3555979",
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-05T02:40:51+00:00"
-    },
-    {
-      "id": "b80c70e3727924dab2fb9fbe",
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-05T02:32:21+00:00"
     },
     {
       "id": "54be16a0e9edbd5eb464a9bc",
@@ -57,17 +244,6 @@
       "publishedAt": "2026-10-04T23:48:07+00:00"
     },
     {
-      "id": "a29f9e84af3a436aece6aaff",
-      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-04T23:29:18+00:00"
-    },
-    {
       "id": "eb133092a6e91a2db1db3f5b",
       "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
       "summary": "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
@@ -77,6 +253,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-04T23:04:35+00:00"
+    },
+    {
+      "id": "28b3c3fbb43e13b6285edab6",
+      "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
+      "summary": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-04T22:11:33+00:00"
     },
     {
       "id": "0e30ce9301c08a1903155b74",
@@ -99,17 +286,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-04T21:11:39+00:00"
-    },
-    {
-      "id": "7fe3e96c42d5049751289eca",
-      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-04T20:14:49+00:00"
     },
     {
       "id": "e8c2709d4c56d30f69fb7e86",
@@ -200,17 +376,6 @@
       "publishedAt": "2026-10-04T15:55:14+00:00"
     },
     {
-      "id": "57bc11cbc7120b1cf219612a",
-      "title": "US Marine arrested over murder of woman in Japan's Okinawa",
-      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-04T14:36:57+00:00"
-    },
-    {
       "id": "08a5ce441c838032f9f22071",
       "title": "Watch: What we know about Russian strikes on Kyiv bridges",
       "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
@@ -220,17 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-04T14:25:32+00:00"
-    },
-    {
-      "id": "2baa79e61481b24a1540cbd8",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-04T13:33:05+00:00"
     },
     {
       "id": "f2ba8d68a922f00bacb2deaf",
@@ -266,17 +420,6 @@
       "publishedAt": "2026-10-04T08:48:50+00:00"
     },
     {
-      "id": "2b882b3ea0148430fc7965cb",
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-04T06:19:17+00:00"
-    },
-    {
       "id": "709e888ca945c6251a6f8af1",
       "title": "Rare tornado whips through small Australian town",
       "summary": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
@@ -299,28 +442,6 @@
       "publishedAt": "2026-10-04T03:55:03+00:00"
     },
     {
-      "id": "16a1d291b49f788205238e7e",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-04T03:42:15+00:00"
-    },
-    {
-      "id": "74395747fd39738361fd42cf",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-04T00:11:25+00:00"
-    },
-    {
       "id": "36eb5abfc477e944921abfa0",
       "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
       "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
@@ -341,17 +462,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-03T23:30:06+00:00"
-    },
-    {
-      "id": "97dd15696fc555a643ccd1bc",
-      "title": "US father and son arrested after 'gas station heroin' deaths",
-      "summary": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-03T22:39:06+00:00"
     },
     {
       "id": "04b3af4ec7bd3eb92274eda2",
@@ -442,39 +552,6 @@
       "publishedAt": "2026-10-03T16:21:11+00:00"
     },
     {
-      "id": "e6635f2c0316446f4cdbc5c7",
-      "title": "Why has Brazil accused the US of election interference?",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-03T13:52:13+00:00"
-    },
-    {
-      "id": "5041f6f676f7d2611e8535d7",
-      "title": "Carrie, Avatar, and More of the Most Anticipated Movies and TV Shows to Stream in October",
-      "summary": "From yet another Mike Flanagan adaptation of a Stephen King story to a Friday the 13th prequel series and the Season 1 finale of Lanterns, here are our picks for what to stream this month.",
-      "url": "https://www.ign.com/articles/carrie-avatar-and-more-of-the-most-anticipated-movies-and-tv-shows-to-stream-in-october",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-03T13:00:00+00:00"
-    },
-    {
-      "id": "588057d1b8373024db30c9f7",
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-03T12:26:30+00:00"
-    },
-    {
       "id": "4dda611527bffe4e7b1e0ec7",
       "title": "Les « battles d’aura », ces duels parodiques à coups de mèmes qui se sont matérialisés dans les collèges et les lycées de France",
       "summary": "Des places de centres-villes aux lycées bloqués, des ados mettent en scène des postures issues de phénomènes Internet. Une blague issue du Web devenue un « mouvement social à la fois hors ligne et en ligne », selon une experte.",
@@ -484,17 +561,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-03T09:30:01+00:00"
-    },
-    {
-      "id": "82979a42c4c16f312c3f3b5e",
-      "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
-      "summary": "From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now",
-      "url": "https://www.ign.com/articles/save-big-on-tolkiens-lord-of-the-rings-and-hobbit-books-ahead-of-prime-day",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-03T08:40:36+00:00"
     },
     {
       "id": "5aeccf0b6a1f772645aecd3f",
@@ -517,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-03T03:30:04+00:00"
-    },
-    {
-      "id": "daed890e1fdeae24f9304d28",
-      "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
-      "summary": "The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with potentially disastrous real-world consequences if actually consumed.",
-      "url": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-03T02:18:57+00:00"
     },
     {
       "id": "9ed6157714ae9ed96248dbbd",
@@ -662,17 +717,6 @@
       "publishedAt": "2026-10-02T03:00:08+00:00"
     },
     {
-      "id": "0f44e9c74c280e5eb2af47c2",
-      "title": "OpenAI licencie trois chercheurs en sécurité accusés de fuites d’informations sensibles",
-      "summary": "La start-up fait état de plusieurs manquements, dont l’un concerne des informations communiquées à un groupe extérieur chargé d’évaluer l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/02/openai-exclut-trois-chercheurs-en-securite-de-l-ia-accuses-de-fuites-d-informations-sensibles_6786658_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-02T00:02:03+00:00"
-    },
-    {
       "id": "a06e81f0ba03fee4db35abc2",
       "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
       "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
@@ -682,50 +726,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-01T23:45:06+00:00"
-    },
-    {
-      "id": "8cb3b4a1c55970dfc2079b6c",
-      "title": "Immobilier : SeLoger cherche à étendre son influence en région en rachetant Ouest-France Immo",
-      "summary": "La plateforme d’annonces immobilières acquiert celle du groupe SIPA Ouest-France, espérant atteindre 80 % de part de marché en Bretagne, dans les Pays de la Loire et en Normandie.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/01/immobilier-seloger-cherche-a-etendre-son-influence-en-region-en-rachetant-ouest-france-immo_6786557_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-01T16:00:03+00:00"
-    },
-    {
-      "id": "637fa8f288bcd309f8d02bad",
-      "title": "IA militaire : la France à l’assaut de la domination américaine sur les réseaux classifiés de l’OTAN",
-      "summary": "Le projet Arcadia, présenté le 29 septembre, vise à fusionner massivement les données des armées françaises pour accroître leur efficacité opérationnelle. Une âpre bataille est lancée contre les groupes américains Palantir et Anduril dans le cadre de la modernisation des structures de l’Alliance atlantique.",
-      "url": "https://www.lemonde.fr/international/article/2026/10/01/ia-militaire-la-france-a-l-assaut-de-la-domination-americaine-sur-les-reseaux-classifies-de-l-otan_6786550_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-01T15:34:08+00:00"
-    },
-    {
-      "id": "44db49c22a48a6bd54d0fbd8",
-      "title": "Le Français devenu, par amour pour un influenceur TikTok, l’indispensable petite main des arnaqueurs au « refund »",
-      "summary": "En permettant à des clients, pour la plupart Américains, de se faire rembourser indûment des achats en ligne, Damien P., 24 ans, avait amassé plus de 700 000 euros. Une somme ensuite dilapidée en cadeaux virtuels sur TikTok.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/01/le-francais-devenu-par-amour-pour-un-influenceur-tiktok-l-indispensable-petite-main-des-arnaqueurs-au-refund_6786542_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-01T15:00:08+00:00"
-    },
-    {
-      "id": "1d9e6702195cd4efe7328f4a",
-      "title": "Souveraineté numérique : « L’Europe doit tracer une voie entre le libertarianisme technologique américain et le techno-autoritarisme chinois »",
-      "summary": "L’ingénieure générale de l’armement du ministère des armées, Virginie Rozière, suggère, dans une tribune au « Monde », de créer une « communauté européenne du code et des algorithmes » afin de garantir l’indépendance du Vieux Continent.",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/01/souverainete-numerique-l-europe-doit-tracer-une-voie-entre-le-libertarianisme-technologique-americain-et-le-techno-autoritarisme-chinois_6786512_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-01T12:00:14+00:00"
     },
     {
       "id": "4c6e6b72e0649108724b67ee",
