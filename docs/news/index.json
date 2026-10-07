@@ -1,16 +1,423 @@
 {
-  "updatedAt": "2026-10-07T06:42:48.540042+00:00",
+  "updatedAt": "2026-10-07T14:04:24.072713+00:00",
   "items": [
     {
-      "id": "619fb83ebd6ea734442138a6",
-      "title": "Pourquoi les maisons d’édition n’étaient pas préparées à l’IA ?",
-      "summary": "Si l’auteur Thélyson Orélien s’est effectivement aidé de l’IA, qu’est-ce que cela dit des performances des IA génératives, mais aussi du rapport des écrivains à l’écriture et de notre propre rapport à la littérature ?",
-      "url": "https://www.lemonde.fr/flux-video-immersif/video/2026/10/07/pourquoi-les-maisons-d-edition-n-etaient-pas-preparees-a-l-ia_6789547_6717263.html",
+      "id": "f6a92c44b61d5aee04a3c11c",
+      "title": "Scream’s 30th Anniversary Collector’s Set Includes a Bloody Cordless Phone",
+      "summary": "The '90s horror classic Scream is getting a 30th anniversary collector's set that includes the movie in 4K along with detective case files and a bloody cordless phone.",
+      "url": "https://www.ign.com/articles/screams-30th-anniversary-collectors-set-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T13:29:34+00:00"
+    },
+    {
+      "id": "74f496c89aef160a2402b57c",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+      "summary": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T13:02:17+00:00"
+    },
+    {
+      "id": "f6795f9beaef4c7862bb0344",
+      "title": "The Social Reckoning Review",
+      "summary": "Jeremy Strong is captivating as an almost alien-like incarnation of Mark Zuckerberg and a smart and sympathetic Mikey Madison shines as the whistleblower who outed Facebook’s corporate secrets. But filmmaker Aaron Sorkin’s work here proves a mixed bag, delivering a sharp script but bringing it to life with workman-like direction.",
+      "url": "https://www.ign.com/articles/the-social-reckoning-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T13:00:00+00:00"
+    },
+    {
+      "id": "f9775569a1a2e48c572f0a13",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T12:58:03+00:00"
+    },
+    {
+      "id": "9959f85b6f5371bb3af0022d",
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T12:46:39+00:00"
+    },
+    {
+      "id": "c8be81abf8cdc45f2eb22b7e",
+      "title": "Save 33% On This Disney Lorcana Starter Set for Prime Day",
+      "summary": "Two decks, boxes, counters and a rulebook, all for under $20? Sounds like a great deal to us.",
+      "url": "https://www.ign.com/articles/save-33-on-this-disney-lorcana-starter-set-for-prime-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T12:36:10+00:00"
+    },
+    {
+      "id": "1882232b626614b35cb286ed",
+      "title": "GTA 6: The Big Interview",
+      "summary": "The in-depth interview with Rockstar North's Rob Nelson in full, as he played through 30 minutes of the game ahead of the Netflix reveal.",
+      "url": "https://www.ign.com/articles/gta-6-the-big-interview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T12:30:00+00:00"
+    },
+    {
+      "id": "f99762ac68616468075bac4d",
+      "title": "Pokémon Center Rolls Out Invite-Only Access for Ascended Heroes Elite Trainer Box",
+      "summary": "Pokémon Center is rolling out an Invite-Only queue to combat scalpers and restock the wildly popular Mega Evolution—Ascended Heroes Elite Trainer Box.",
+      "url": "https://www.ign.com/articles/pokemon-center-ascended-heroes-etb-invite-only-restock",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T12:30:00+00:00"
+    },
+    {
+      "id": "8ba9fc532095b77bab4f12ff",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T12:16:58+00:00"
+    },
+    {
+      "id": "467df535c1caf3c427c9077d",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "summary": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T12:09:59+00:00"
+    },
+    {
+      "id": "2751213875ce3d4107861018",
+      "title": "Carrie Ending Explained: Who Lived, Who Died, and What Could Mike Flanagan Have in Mind Next for This Universe?",
+      "summary": "Mike Flanagan's Carrie has arrived on Prime Video. So who lived, who died, and what could be next in this universe?",
+      "url": "https://www.ign.com/articles/carrie-ending-explained-mike-flanagan-who-lived-who-died",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T12:00:00+00:00"
+    },
+    {
+      "id": "30e20d2f9c8f8abe3bdfed52",
+      "title": "Disney Lorcana TCG’s Hyperia City Expansion: First Hands-On Impressions",
+      "summary": "Get an early look at Disney Lorcana’s upcoming Hyperia City expansion, featuring more Pixar characters from the Coco franchise and more.",
+      "url": "https://www.ign.com/articles/disney-lorcana-tcgs-hyperia-city-expansion-first-hands-on-impressions",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T12:00:00+00:00"
+    },
+    {
+      "id": "c8a7bd5a9ba294e33cf1408b",
+      "title": "Someone Used AI to Make Minecraft Playable Inside Twitter With Working Multiplayer, and Immediately Sold Sponsorships via Crypto",
+      "summary": "The AI video game clone explosion continues at pace. Now, someone has made Minecraft playable inside X / Twitter with working multiplayer.",
+      "url": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T11:59:07+00:00"
+    },
+    {
+      "id": "a7bf741f367cee3e7982bec9",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T11:51:52+00:00"
+    },
+    {
+      "id": "bf38fca6ed95b03c6b7d4f9e",
+      "title": "Pragmata Drops to Lowest Price Ever on Switch 2 and Xbox for Prime Day",
+      "summary": "Capcom's acclaimed sci-fi action game Pragmata is down to $39.99 on Nintendo Switch 2 and Xbox during Amazon Prime Big Deal Days. Save $20 before the deal expires at the end of the day on October 7.",
+      "url": "https://www.ign.com/articles/pragmata-prime-day-best-deal-ps5-switch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T11:51:09+00:00"
+    },
+    {
+      "id": "792b54605e38839dcf96486b",
+      "title": "New Ape Escape Reportedly in Development at Sonic Mania Team",
+      "summary": "A new Ape Escape video game is reportedly in the works, helmed by the team that successfully rebooted a certain blue hedgehog with Sonic Mania.",
+      "url": "https://www.ign.com/articles/ape-escape-reboot-planned-sonic-mania-team",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T10:55:25+00:00"
+    },
+    {
+      "id": "049b1914001ce2522b24dd0a",
+      "title": "Deux membres du collectif Balance ton Claude : « Les auteurs qui mentent à leurs lecteurs dévaluent l’ensemble de la production écrite »",
+      "summary": "Pierre-Thomas Eckert et Samuel Fitoussi, à l’origine de l’affirmation selon laquelle le roman « C’était ça ou mourir », de Thélyson Orélien, était produit par une IA, justifient leur démarche dans une tribune au « Monde », et renvoient à leurs critiques les accusations en « obsession identitaire ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/07/deux-membres-du-collectif-balance-ton-claude-les-auteurs-qui-mentent-a-leurs-lecteurs-devaluent-l-ensemble-de-la-production-ecrite_6789585_3232.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-10-07T06:00:07+00:00"
+      "publishedAt": "2026-10-07T10:30:07+00:00"
+    },
+    {
+      "id": "a97ea1cf2bb26ca8fcf6b95b",
+      "title": "Resident Evil Requiem Writer Teases DLC Plans, Immediately Says He Probably Shouldn't Have",
+      "summary": "Screenwriter Haris Orkin has teased plans for Resident Evil Requiem’s DLC.",
+      "url": "https://www.ign.com/articles/resident-evil-requiem-dlc-plans",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T10:25:21+00:00"
+    },
+    {
+      "id": "38f0a15be378f07fccc07c1b",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T10:12:36+00:00"
+    },
+    {
+      "id": "04f141ee633e65ebf2996491",
+      "title": "Warhammer 40,000: Dawn of War 4 Dev Says It's Got More Single-Player Content Than Any Other RTS Ever at Launch",
+      "summary": "How big is the Warhammer 40,000: Dawn of War 4 campaign? According to developer King Art Games, it’s so big it dwarfs the campaigns from all the previous games in the series — and might have more single-player content at launch than any other RTS ever.",
+      "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-dev-says-its-got-more-single-player-content-than-any-other-rts-ever-at-launch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T10:09:35+00:00"
+    },
+    {
+      "id": "ccdfee123e4147f51bbc032f",
+      "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+      "summary": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T10:01:47+00:00"
+    },
+    {
+      "id": "ce6701ccf1bf06f8dc7a2ddf",
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "summary": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T09:49:31+00:00"
+    },
+    {
+      "id": "a0806acadafef34ce20be6bb",
+      "title": "California pair charged with abusing at least 14 surrogate-born children",
+      "summary": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+      "url": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T09:38:00+00:00"
+    },
+    {
+      "id": "7b2780696fbf9da61f5fd946",
+      "title": "The Acer Nitro Radeon RX 9070 XT Gaming PC Drops to Just $1,699 for Prime Day, Excels at 4K Gaming",
+      "summary": "The Radeon RX 9070 XT nearly matches the peformance of the now-$1,000+ GeForce RTX 5070 Ti.",
+      "url": "https://www.ign.com/articles/acer-nitro-radeon-rx-9070-xt-gaming-pc-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T09:30:00+00:00"
+    },
+    {
+      "id": "a155ac7eef0e6a116cbd473c",
+      "title": "Footage From Canceled Perfect Dark Reboot Surfaces, Showing Off Fruit Physics and Parkour",
+      "summary": "New footage of Xbox’s canceled Perfect Dark reboot has appeared online, via a report from gaming website MP1ST.",
+      "url": "https://www.ign.com/articles/perfect-dark-reboot-footage-leak",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T09:28:08+00:00"
+    },
+    {
+      "id": "0fd31f7352de281497304a84",
+      "title": "Un Américain condamné à dix-huit mois de prison pour une arnaque à la musique générée par IA sur des plateformes de streaming",
+      "summary": "Michael Smith avait mis en ligne des milliers de morceaux générés par intelligence artificielle et les avait fait écouter en boucle par une armée de faux comptes. Un stratagème qui lui avait permis d’obtenir plus de 8 millions de dollars de royalties.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/07/un-americain-condamne-a-dix-huit-mois-de-prison-pour-une-arnaque-a-la-musique-generee-par-ia-sur-des-plateformes-de-streaming_6789577_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-07T09:01:47+00:00"
+    },
+    {
+      "id": "c79a0e52bfaf38ece21b2d28",
+      "title": "Dans les modèles d’IA, la langue française veut aussi avoir son mot à dire",
+      "summary": "Le français est ultraminoritaire dans les mégabases de données d’entraînement utilisées par les grands modèles de langage des intelligences artificielles génératives. Mais l’hégémonie de l’anglais n’est pas une fatalité : des initiatives émergent pour bâtir une souveraineté numérique francophone.",
+      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/10/07/dans-les-modeles-d-ia-la-langue-francaise-veut-aussi-avoir-son-mot-a-dire_6789576_6065879.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-07T09:00:23+00:00"
+    },
+    {
+      "id": "b551ac475244115f18f5f61d",
+      "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
+      "summary": "Why settle for just a TV when you can get the entire home theater.",
+      "url": "https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T08:30:00+00:00"
+    },
+    {
+      "id": "e4659e12f7f462093b2d8e87",
+      "title": "India's opposition leader dragged on to bus as police break up protest",
+      "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T07:45:47+00:00"
+    },
+    {
+      "id": "d47fd6aa47171e1799fd8b35",
+      "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to $179 for Amazon Prime Day",
+      "summary": "Lowest price in months.",
+      "url": "https://www.ign.com/articles/apple-airpods-pro-3-deal-amazon-october-prime-day-sale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T07:45:00+00:00"
+    },
+    {
+      "id": "465716951eb738400e41bbbd",
+      "title": "The Possibly Retired LEGO Super Mario World: Mario & Yoshi Drops to Its Lowest Price Ever for Prime Day",
+      "summary": "We built this and we loved it.",
+      "url": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-amazon-october-prime-day-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T07:45:00+00:00"
+    },
+    {
+      "id": "48503e2fb2b26195f30f26de",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "summary": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
+      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-07T07:37:16+00:00"
+    },
+    {
+      "id": "09335b3f1e01ec930bba6e23",
+      "title": "Amazon Prime Big Deal Days 2026: Today Is the Last Day to Score the Best October Sales",
+      "summary": "Prime Day: Part 2 is nearly over.",
+      "url": "https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T07:30:00+00:00"
+    },
+    {
+      "id": "3edd260d3d4d11fb3a53100f",
+      "title": "Le technofascisme, ou la radicalisation de la Silicon Valley",
+      "summary": "Cette notion a émergé comme une manière de saisir la nature inédite du projet politique qui semble modeler le second mandat de Donald Trump, tout en suscitant un débat conceptuel entre ceux qui l’emploient.",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/07/le-technofascisme-ou-la-radicalisation-de-la-silicon-valley_6789560_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-07T07:29:16+00:00"
+    },
+    {
+      "id": "1867432aeb6c5547383e0260",
+      "title": "The Amazon Prime Day Audible Deal Ends Tonight: Pay $0.99 Per Month and Get $20 in Audible Credit",
+      "summary": "This time it appears to be for both Amazon Prime and non-Prime members.",
+      "url": "https://www.ign.com/articles/amazon-october-prime-day-sale-2026-audible-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T07:20:00+00:00"
+    },
+    {
+      "id": "2a24c0a47012ad3038b42954",
+      "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
+      "summary": "Gain access to Paramount's new fall lineup including Avatar: Seven Havens, Dexter: Resurrection, and more.",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-07T07:15:00+00:00"
+    },
+    {
+      "id": "65a362d5ee0e6acc69d12dfa",
+      "title": "Rainmakers: The drones used to seed clouds",
+      "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-07T07:09:32+00:00"
+    },
+    {
+      "id": "3fcfd296b4d5b9631c2afc60",
+      "title": "Elon Musk veut lever 40 milliards de dollars de dette pour acheter des puces Nvidia destinées à équiper ses data centers",
+      "summary": "Le « Financial Times » a révélé, mardi, que SpaceX, la firme du milliardaire, a lancé une opération visant à financer l’achat de puces pour en équiper les data centers. Ce nouvel emprunt massif illustre l’imprudente course aux capitaux entraînée par le développement de l’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/07/ia-elon-musk-veut-lever-40-milliards-de-dollars-de-dette-pour-acheter-des-puces-nvidia_6789552_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-07T06:56:48+00:00"
     },
     {
       "id": "5b73577dd7a8053bbb2fa375",
@@ -35,136 +442,15 @@
       "publishedAt": "2026-10-07T05:00:21+00:00"
     },
     {
-      "id": "1bf3d62304da97fc9faaaacc",
-      "title": "Amazon Prime Big Deal Days 2026: The Best October Sales We've Found So Far",
-      "summary": "Prime Day: Part 2 has arrived.",
-      "url": "https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-07T04:45:00+00:00"
-    },
-    {
-      "id": "8c5da4b3fc3ba18330544c55",
-      "title": "Pornhub returns to Australia but only for adults with Apple devices",
-      "summary": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
+      "id": "2940edb0112240cf5c9d3481",
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "summary": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-07T04:39:59+00:00"
-    },
-    {
-      "id": "8d06012f8c1d6ca8ecaa5d6a",
-      "title": "For Prime Day Only, This 2026 TV Packs in All the Features a Gamer Needs at a Supremely Affordable Price",
-      "summary": "You don't need to wait until Black Friday.",
-      "url": "https://www.ign.com/articles/hisense-4k-tv-deal-amazon-october-prime-day-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-07T04:35:00+00:00"
-    },
-    {
-      "id": "1b65ae785cf5206e81f062f5",
-      "title": "Former Australian bishop jailed for sexually abusing young men",
-      "summary": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-07T04:22:07+00:00"
-    },
-    {
-      "id": "38f0a15be378f07fccc07c1b",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-07T00:56:59+00:00"
-    },
-    {
-      "id": "364bb06e4edfcae250848ccc",
-      "title": "Save 30% Off the LEGO Technic Peugeot Hybrid Hypercar During the October Prime Day Sale",
-      "summary": "Glow in the dark.",
-      "url": "https://www.ign.com/articles/lego-technic-peugeot-hybrid-hypercar-deal-amazon-october-prime-day-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-07T00:45:00+00:00"
-    },
-    {
-      "id": "465716951eb738400e41bbbd",
-      "title": "The Possibly Retired LEGO Super Mario World: Mario & Yoshi Drops to Its Lowest Price Ever for Prime Day",
-      "summary": "We built this and we loved it.",
-      "url": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-amazon-october-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-07T00:35:00+00:00"
-    },
-    {
-      "id": "6fd92ee3d5073d9bc83e0875",
-      "title": "Save 37% Off Fanttik T1 Max Cordless Soldering Iron Kit During the Amazon October Prime Day Sale",
-      "summary": "An essential tool for tinkering hobbyists.",
-      "url": "https://www.ign.com/articles/fanttik-t1-max-cordless-soldering-iron-deal-amazon-october-prime-day-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-07T00:05:00+00:00"
-    },
-    {
-      "id": "44ff0450a56633a3518fc1ed",
-      "title": "Amazon Is Discounting All Things Pokémon for October Prime Day This Year",
-      "summary": "",
-      "url": "https://www.ign.com/articles/best-pokemon-deals-amazon-october-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T23:48:40+00:00"
-    },
-    {
-      "id": "32d609e4320ffe0295618fa3",
-      "title": "Pick Up a 25-in-1 Hoto Precision Electric Screwdriver Set for Just $23 During the October Prime Day Sale",
-      "summary": "A super handy tool if you're constantly fiddling with small electronics.",
-      "url": "https://www.ign.com/articles/hoto-precision-electric-screwdriver-deal-amazon-october-prime-day-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T23:20:00+00:00"
-    },
-    {
-      "id": "97cb285b65505c26555b22ab",
-      "title": "Classic Board Games Are Dropping to All-Time Low Prices in Amazon's Prime Day Sale",
-      "summary": "",
-      "url": "https://www.ign.com/articles/best-board-game-deals-amazon-october-prime-day-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T23:15:36+00:00"
-    },
-    {
-      "id": "7303c5dcb54ca6cd799a1064",
-      "title": "Hideo Kojima Acknowledges Fan-Made P.T. Port That Runs Natively on PC",
-      "summary": "Hideo Kojima has acknowledged a fan-made port of P.T. that allows the game to run natively on Windows, making it playable for a wide majority of users after it was relegated to PS4 hell.",
-      "url": "https://www.ign.com/articles/hideo-kojima-acknowledges-fan-made-pt-port-that-runs-natively-on-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T23:14:46+00:00"
+      "publishedAt": "2026-10-06T23:42:35+00:00"
     },
     {
       "id": "9ed8dd795a08f9250d3e3581",
@@ -189,28 +475,6 @@
       "publishedAt": "2026-10-06T23:01:22+00:00"
     },
     {
-      "id": "07c1d3d920c5a7ff2b217745",
-      "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
-      "summary": "\"While the excitement for GTA VI and Xbox is great to see, it has also led to some misreporting,\" states Xbox Chief Strategy Officer Matthew Ball.",
-      "url": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T22:42:41+00:00"
-    },
-    {
-      "id": "c6c9423d9c45f34481953ea6",
-      "title": "The Best UK LEGO Deals This Prime Day Include Pokémon, Star Wars, and More",
-      "summary": "We're expecting some of these LEGO sets to sell out fast, so be sure to check the Prime Day deals swiftly",
-      "url": "https://www.ign.com/articles/the-best-uk-lego-deals-this-prime-day-include-pokmon-star-wars-and-more",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T22:28:55+00:00"
-    },
-    {
       "id": "4840788fcaac7bce3d34f233",
       "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
       "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
@@ -220,72 +484,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-06T22:17:56+00:00"
-    },
-    {
-      "id": "5934f3c4639fc32957ab6369",
-      "title": "The Daniel Craig 007 4K Blu-ray Collection Is at Its Lowest Price of 2026",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-daniel-craig-007-4k-blu-ray-collection-is-at-its-lowest-price-of-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T22:14:00+00:00"
-    },
-    {
-      "id": "56e8cdd2f7200b3b0be0b77f",
-      "title": "'This Needs to Change' — PlayStation Fan Gets PSN Account Hacked and Restored, Acknowledges Others May Not Be as Lucky",
-      "summary": "PlayStation fans are questioning the security of their PSN accounts as yet another prominent community member had their account hacked and stolen.",
-      "url": "https://www.ign.com/articles/this-needs-to-change-playstation-fan-gets-psn-account-hacked-and-restored-acknowledges-others-may-not-be-as-lucky",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T22:10:40+00:00"
-    },
-    {
-      "id": "0a7aece9955f3b431d31fee9",
-      "title": "Insomniac Finally Lets Players Toggle Wolverine's Story-Related Scent Trails on and Off With a 'Hint' Button",
-      "summary": "In the latest patch for Marvel’s Wolverine, Insomniac has enabled the long-awaited option for players to choose whether or not they want to use the game’s visible scent trails.",
-      "url": "https://www.ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T22:07:53+00:00"
-    },
-    {
-      "id": "070b0dc26ae81db8d7e8531b",
-      "title": "Ex-Activision CEO Bobby Kotick Joins Skydance Board of Directors Following WB-Paramount Merger",
-      "summary": "Former Activision CEO Bobby Kotick, who stepped down from running the Call of Duty publisher after Microsoft completed its $69 billion acquisition of Activision-Blizzard-King, is joining David Ellison's board of directors at the newly christened Skydance following Paramount's now-completed acquisition of Warner Bros. Discovery.",
-      "url": "https://www.ign.com/articles/ex-activision-ceo-bobby-kotick-joins-skydance-board-of-directors-following-wb-paramount-merger",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T22:05:29+00:00"
-    },
-    {
-      "id": "b080207631b4c08b6747b0a6",
-      "title": "The $899 ABS Cyclone RTX 5060 Gaming PC Is More Powerful AND Less Expensive Than the Steam Machine",
-      "summary": "Capable 1080p gaming rig with room for future upgrades.",
-      "url": "https://www.ign.com/articles/abs-cyclone-rtx-5060-gaming-pc-deal-better-than-steam-machine",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T21:45:00+00:00"
-    },
-    {
-      "id": "fe8f243b0e19bb4c62ed512f",
-      "title": "Aion 2's Character Creator Is Going Viral for Its Bust Size Options, or Lack Thereof",
-      "summary": "Aion 2, a free-to-play MMO action RPG, is going viral for its character creation settings — more specifically, for how busty you can make your female character.",
-      "url": "https://www.ign.com/articles/aion-2s-character-creator-is-going-viral-for-its-bust-size-options-or-lack-thereof",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T21:36:07+00:00"
     },
     {
       "id": "fdffbea822c33dcea8dafcbe",
@@ -299,39 +497,6 @@
       "publishedAt": "2026-10-06T21:22:22+00:00"
     },
     {
-      "id": "7eec2f0f0abe61eed53ce049",
-      "title": "Score Up to 35% Off Ninja Appliances for Prime Day Big Deal Days",
-      "summary": "Upgrade your kitchen on a budget.",
-      "url": "https://www.ign.com/articles/ninja-appliances-deals-prime-day-big-deal-days-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T21:19:44+00:00"
-    },
-    {
-      "id": "e37d56bee60e58cb39e423c6",
-      "title": "Wizards of the Coast Union Demands Company Stop Pushing Generative AI",
-      "summary": "The Dungeons & Dragons and Magic: The Gathering teams at Wizards of the Coast have just announced they're unionizing, joining the Wizards of the Coast-CWA (UWOTC-CWA) union formed by the Arena team earlier this year. In a letter of demands, the union has urged Hasbro and Wizards of the Coast leaders to stop pushing generative AI.",
-      "url": "https://www.ign.com/articles/wizards-of-the-coast-union-demands-company-stop-pushing-generative-ai",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T21:10:06+00:00"
-    },
-    {
-      "id": "1c823d5ecde571dc5e0e7cef",
-      "title": "Cellucor Is Offering Up to 35% Off Its Popular Energy and Fat-Burning Supplements at Amazon During October Prime Day",
-      "summary": "",
-      "url": "https://www.ign.com/articles/cellucor-fitness-supplements-sale-amazon-prime-big-deal-days-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-06T21:06:05+00:00"
-    },
-    {
       "id": "38fb1ffd064cb455644271ab",
       "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
       "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
@@ -343,31 +508,9 @@
       "publishedAt": "2026-10-06T20:40:01+00:00"
     },
     {
-      "id": "4736bd118b550c3f2ec4637b",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-06T20:15:31+00:00"
-    },
-    {
-      "id": "ae51c4e758ee186b0458770f",
-      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-      "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-06T19:53:45+00:00"
-    },
-    {
       "id": "f30f25f8ffa4dd5d33d64b45",
       "title": "Tech Life",
-      "summary": "What is a supercomputer for? How does it work? And who gets to use it? We explain all.",
+      "summary": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
@@ -396,17 +539,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-06T18:07:49+00:00"
-    },
-    {
-      "id": "dbbbaf24c39aae5a2f0e83c9",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-06T18:03:19+00:00"
     },
     {
       "id": "84e2b510018aa10557128022",
@@ -486,17 +618,6 @@
       "publishedAt": "2026-10-06T13:00:06+00:00"
     },
     {
-      "id": "1c6b535c5cc2d304fa93d66d",
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-06T11:24:19+00:00"
-    },
-    {
       "id": "fad2b4e8207eff3e0c7d0c28",
       "title": "Italian PM files to trademark her voice against AI threats",
       "summary": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.",
@@ -506,28 +627,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-06T11:24:10+00:00"
-    },
-    {
-      "id": "799cce4cca4345474f903b64",
-      "title": "Former German spy chief arrested for espionage and treason",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-06T10:05:42+00:00"
-    },
-    {
-      "id": "305a16a10c01c2915fa47382",
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-      "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-06T09:48:37+00:00"
     },
     {
       "id": "336f390290c2179b02691981",
@@ -695,17 +794,6 @@
       "publishedAt": "2026-10-05T05:00:00+00:00"
     },
     {
-      "id": "6fd16df889338d515e834ba8",
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-05T04:51:24+00:00"
-    },
-    {
       "id": "82d625aabb2ece42639d3256",
       "title": "« Je sais qu’on aura toujours besoin d’humains dans ce domaine » : les professions du lien à l’abri d’un remplacement par l’IA",
       "summary": "Les métiers qui mettent au cœur de leur pratique l’empathie et la présence sont plutôt épargnés par la révolution en cours opérée par l’intelligence artificielle sur le marché du travail. Mais s’ils peuvent apparaître comme un choix de carrière stratégique, ils restent dans les faits dévalués, sous-payés et très souvent pénibles.",
@@ -715,50 +803,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-05T04:30:11+00:00"
-    },
-    {
-      "id": "046ddc00b5a9f173af0abfa3",
-      "title": "Les dessous de « Legend », le média à succès sur YouTube",
-      "summary": "En seulement trois ans, « Legend » est devenu l’un des médias les plus populaires de YouTube. Son créateur, Guillaume Pley, mène des entretiens au long cours où se croisent anonymes, personnalités politiques ou polémiques. Dans ce podcast, Vincent Manilève, journaliste au « Monde » spécialiste des influenceurs, raconte l’ascension de l’animateur et",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/10/05/les-dessous-de-legend-le-media-a-succes-sur-youtube_6788469_5463015.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-05T03:00:21+00:00"
-    },
-    {
-      "id": "0b4581b9c98039c19ed95975",
-      "title": "IA : sommes-nous tous devenus des imposteurs ?",
-      "summary": "Elle corrige nos e-mails avant qu’on les envoie, reformule nos idées « en mieux », génère en quelques secondes ce qui nous prenait une heure : l’intelligence artificielle générative, censée nous faire gagner du temps, installe chez de nombreux actifs un doute permanent : suis-je encore capable de faire ce travail seul ?",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/10/04/ia-sommes-nous-tous-devenus-des-imposteurs_6788326_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-04T18:00:04+00:00"
-    },
-    {
-      "id": "7db155578c5b80c9fe95125f",
-      "title": "Dans les coulisses de Viginum, la cellule gouvernementale d’experts qui traque les ingérences étrangères sur Internet",
-      "summary": "Au sein d’une cellule d’experts, ce service traque les évolutions du cyberespace, sur TikTok ou ailleurs. Les « attaquants » sont parfois étatiques, parfois non, ce qui nécessite d’avoir une approche globale, sur tout un écosystème.",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/04/a-viginum-les-analystes-cherchent-a-anticiper-les-ingerences-etrangeres-si-on-s-arrete-a-la-menace-prorusse-on-se-coupe-d-une-partie-du-sujet_6788259_4355770.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-04T12:00:06+00:00"
-    },
-    {
-      "id": "3e190ea6bcd406c9d50090f4",
-      "title": "Présidentielle 2027 : de « nouvelles règles » pour encadrer les podcasts politiques envisagées par l’Arcom",
-      "summary": "Le régulateur de l’audiovisuel envisage de « nouvelles règles » pour encadrer les podcasts dans lesquels sont invitées des personnalités politiques. Ces contenus échappent pour l’instant à son contrôle direct.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/04/presidentielle-2027-l-arcom-engage-une-concertation-sur-l-encadrement-des-podcasts-politiques_6788180_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-04T08:48:50+00:00"
     },
     {
       "id": "9ed6157714ae9ed96248dbbd",
@@ -814,17 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-01T10:05:25+00:00"
-    },
-    {
-      "id": "0a59a02e3b86daea58dfee64",
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
-      "url": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-30T23:10:19+00:00"
     },
     {
       "id": "187fcc37fb8bb557e5ac7c69",
