@@ -1,42 +1,416 @@
 {
-  "updatedAt": "2026-10-08T14:14:04.523558+00:00",
+  "updatedAt": "2026-10-08T20:23:06.618377+00:00",
   "items": [
     {
-      "id": "e4afcb1efe90ea5b236b564d",
-      "title": "No, I Have Not Seen Jason’s Penis in GTA 6",
-      "summary": "IGN cannot confirm or deny if GTA 6 will feature full-frontal nudity, but we can confirm that we have not seen Jason's penis.",
-      "url": "https://www.ign.com/articles/no-i-have-not-seen-jasons-penis-in-gta-6",
+      "id": "b901e375231969cb8eb64ebf",
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T13:46:57+00:00"
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-08T19:57:04+00:00"
     },
     {
-      "id": "71f1d1b83edca24053ba5a4a",
-      "title": "The Witcher 3: Wild Hunt – Remastered Patch Adds Bloom Toggles on Console and Larger Lighting Changes",
-      "summary": "The Witcher 3: Wild Hunt – Remastered just got a significant update to tweak the presentation of CD Projekt’s RPG epic. Check out the patch notes.",
-      "url": "https://www.ign.com/articles/bloom-toggle-console-the-witcher-3-remastered",
+      "id": "a01a11c57b36225a1f3b572e",
+      "title": "Jessica Chastain Reveals the ‘Painful’ Secret to her Terrifying Smile in Other Mommy",
+      "summary": "Jessica Chastain explained how she pulled off the terrifying facial expression she makes as the Other Mommy, saying that physical “pain” was a central part of getting her uncanny smile just right.",
+      "url": "https://www.ign.com/articles/jessica-chastain-reveals-the-painful-secret-to-her-terrifying-smile-in-other-mommy",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
-      "publishedAt": "2026-10-08T13:32:51+00:00"
+      "publishedAt": "2026-10-08T19:41:54+00:00"
+    },
+    {
+      "id": "4001f94eb836b7ac0733c2e9",
+      "title": "Xbox XP's First Task Should Be the Halo Movie We Never Got",
+      "summary": "Microsoft has just announced Xbox XP, a new division aimed at getting cool experiences – be they movies, TV shows, theme park attractions, etc. – made out of its many intellectual properties. And that's how Microsoft can erase the memory of the TV show you probably already forgot anyway. No, I'm not suggesting that they necessarily dust off Garland",
+      "url": "https://www.ign.com/articles/xbox-xps-first-task-should-be-the-halo-movie-we-never-got",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T19:19:49+00:00"
+    },
+    {
+      "id": "71d9564691ea1a1201662714",
+      "title": "Marvel Television and Marvel Animation New York Comic Con 2026 Panel [Live Updates]",
+      "summary": "IGN is reporting live from New York Comic Con 2026, where Marvel Television and Marvel Animation are set to make announcements at a special panel event. Check out our live blog for all the news.",
+      "url": "https://www.ign.com/articles/marvel-television-animation-new-york-comic-con-2026-panel-disney-plus",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T19:17:20+00:00"
+    },
+    {
+      "id": "4cfc5d8bfb0caf82947010b3",
+      "title": "Forza Horizon 6 Is Finally Coming to PS5 in January Alongside First Expansion",
+      "summary": "Forza Horizon 6 is finally coming to PS5 in January, and it will launch alongside a major expansion to the game.",
+      "url": "https://www.ign.com/articles/forza-horizon-6-is-finally-coming-to-ps5-in-january-alongside-first-expansion",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T19:11:07+00:00"
+    },
+    {
+      "id": "f9be8b46f91860c965c9a97b",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T19:10:06+00:00"
+    },
+    {
+      "id": "6c658c361befa96c5ed9a447",
+      "title": "Matchbox The Movie Review",
+      "summary": "Matchbox The Movie is glitzy, glossy and hollow, never even trying to present something original. Everything is safe and familiar and easy, which has always been Hollywood's go-to answer for trying to hit as many quadrants as possible, thus potentially making the most money.",
+      "url": "https://www.ign.com/articles/matchbox-the-movie-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:58:21+00:00"
+    },
+    {
+      "id": "fd01530fede80b2d421d92d7",
+      "title": "MrBeast Auctions Off the Original Sketch of His Logo With Estimated Value of $20,000",
+      "summary": "The original pencil sketch of Jimmy ‘MrBeast’ Donaldson’s famous logo is being auctioned off, and experts estimate that it could be worth over $20,000.",
+      "url": "https://www.ign.com/articles/mrbeast-auctions-off-the-original-sketch-of-his-logo-with-estimated-value-of-20000",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:55:23+00:00"
+    },
+    {
+      "id": "0455a38ccd48026cb35903ae",
+      "title": "Backrooms Is Up for Preorder on 4K UHD and Blu-ray",
+      "summary": "The psychological horror movie Backrooms is getting a home release in November, when it hits 4K UHD Blu-ray for the first time.",
+      "url": "https://www.ign.com/articles/backrooms-is-up-for-preorder-on-4k-uhd-and-blu-ray",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:51:44+00:00"
+    },
+    {
+      "id": "6025c6e0359d372b251312b8",
+      "title": "The Skytech Ryzen Edition RTX 5070 Prebuilt Gaming PC Drops to $1,499.99 at Amazon",
+      "summary": "An excellent affordable rig for 1080p and 1440p gaming.",
+      "url": "https://www.ign.com/articles/skytech-ryzen-edition-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:40:00+00:00"
+    },
+    {
+      "id": "3c78c34f9dcf2ddde1424372",
+      "title": "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray | NYCC 2026",
+      "summary": "The Critical Role performer is also the real-life wife of the voice of Vincent Valentine.",
+      "url": "https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:19:41+00:00"
+    },
+    {
+      "id": "f6c652ca4e710ea3f6289167",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T18:17:28+00:00"
+    },
+    {
+      "id": "1da2bbc54be006bea25ea885",
+      "title": "A Live-Action Cyberpunk 2077 Movie Is in the Works at Paramount",
+      "summary": "Paramount Pictures is developing a live-action Cyberpunk 2077 film.",
+      "url": "https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:11:35+00:00"
+    },
+    {
+      "id": "d39d601fb519cd78685ebd83",
+      "title": "Arrow Co-Creator Shares Details and Concept Art for Canceled Green Lantern Show That Shares Striking Similarities to HBO's Lanterns",
+      "summary": "Concept art for a canceled Green Lanterns show has been shared online by a co-creator of the CW’s Arrow series, showing what the Emerald Knights’ adventures almost looked like before HBO pivoted to Lanterns, instead.",
+      "url": "https://www.ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:10:10+00:00"
+    },
+    {
+      "id": "5f72c88f4f09a73c581de1a8",
+      "title": "Today’s Top Deals: MTG Card Sets, Zelda Switch Pro Controller, and a $20 Glorious Gaming Mouse",
+      "summary": "Even with Prime Big Deal Days behind us, the savings continue today on Pokémon TCG, LEGO, and more.",
+      "url": "https://www.ign.com/articles/best-deals-for-october-8-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:10:00+00:00"
+    },
+    {
+      "id": "588544b3d9375ccf4d2c0ca2",
+      "title": "Joe Manganiello Reveals Being Cast as Deathstroke in Ben Affleck's Batman Movie Motivated Him to Overcome Near-Fatal Health Crisis",
+      "summary": "Actor Joe Manganiello has shared a hellish story about how being cast as Deathstroke in Ben Affleck's scrapped Batman movie motivated to overcome drastic health issues.",
+      "url": "https://www.ign.com/articles/joe-manganiello-reveals-being-cast-as-deathstroke-in-ben-afflecks-batman-movie-motivated-him-to-overcome-near-fatal-health-crisis",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T18:09:28+00:00"
+    },
+    {
+      "id": "8fc8d3086a6a8497f27c3a98",
+      "title": "Elsa Godart, psychanalyste : « La génération du selfie a grandi avec le sentiment que son reflet ne lui appartenait jamais totalement »",
+      "summary": "« Réflexion faite » (3/6). Pour la philosophe et psychanalyste Elsa Godart, « le selfie n’a rien de pathologique ». Se prendre et se reprendre en photo est, pour les ados, une manière de maîtriser leur image, mais aussi de se saisir de leur identité.",
+      "url": "https://www.lemonde.fr/intimites/article/2026/10/08/elsa-godart-psychanalyste-la-generation-du-selfie-a-grandi-avec-le-sentiment-que-son-reflet-ne-lui-appartenait-jamais-totalement_6790282_6190330.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-08T18:00:11+00:00"
+    },
+    {
+      "id": "d47bb9f6c603a6b43f07feca",
+      "title": "Save $200 Off the 2026 MacBook Air With New Apple M5 Chip During the Prime Day Sale",
+      "summary": "First major drop since the price hike earlier this year.",
+      "url": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-amazon-october-prime-day-sale-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T17:50:00+00:00"
+    },
+    {
+      "id": "c368194c91bf97eb610df065",
+      "title": "The Judge Dredd/Biker Mice From Mars Crossover Spawns an Epic Action Figure - NYCC 2026",
+      "summary": "",
+      "url": "https://www.ign.com/articles/judge-dredd-biker-mice-from-mars-crossover-throttle-action-figure",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T17:45:00+00:00"
+    },
+    {
+      "id": "aa54c948565b6a0b047abc39",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T17:38:59+00:00"
+    },
+    {
+      "id": "4d674c611aa999f4696f9233",
+      "title": "Get a Preowned Asus Xbox Ally X Ryzen Z2 Extreme Handheld Gaming PC for as Low as $790 at Best Buy",
+      "summary": "One of the most powerful gaming handhelds on the market, and hundreds of dollars cheaper than the competition.",
+      "url": "https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T17:25:00+00:00"
+    },
+    {
+      "id": "6326d318b718d3df13cbea0e",
+      "title": "The Beats Studio Pro Noise Canceling Headphones Drops to the Lowest Price Ever for Prime Day",
+      "summary": "The best Prime Day headphone deal so far.",
+      "url": "https://www.ign.com/articles/beats-studio-pro-wireless-noise-canceling-headphone-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T17:25:00+00:00"
+    },
+    {
+      "id": "7ab84f37b847a170d9867c0b",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T17:16:32+00:00"
+    },
+    {
+      "id": "509ff22d1a3239177b6f7d3f",
+      "title": "Save 50% Off the Massive 98\" TCL QM8L 4K TV With Super Quantum Dot Technology During Prime Day",
+      "summary": "At this size, it's a better option than even OLED.",
+      "url": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal-amazon-october-prime-day-sale-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T17:10:00+00:00"
+    },
+    {
+      "id": "12ae85b383014cbf9837ce6a",
+      "title": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $69.99 While Supplies Last",
+      "summary": "Switch 2 compatible.",
+      "url": "https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T17:10:00+00:00"
+    },
+    {
+      "id": "8c6467fb180447752750eef0",
+      "title": "« Dans les livres d’Enrique Vila-Matas, qu’est-ce qui différencie ses citations, réelles ou inventées, du grand pillage par les machines ? »",
+      "summary": "Le feuilleton littéraire de Tiphaine Samoyault, à propos d’« Un canon de chambre noire », de l’écrivain catalan Enrique Vila-Matas, où il est question d’androïdes lettrés.",
+      "url": "https://www.lemonde.fr/livres/article/2026/10/08/dans-les-livres-d-enrique-vila-matas-qu-est-ce-qui-differencie-ses-citations-reelles-ou-inventees-du-grand-pillage-par-les-machines_6790269_3260.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-08T17:00:05+00:00"
+    },
+    {
+      "id": "47eca62f14931952c15fe213",
+      "title": "LEGO’s Kpop Demon Hunters Derpy Tiger and Sussie Bird Set Hits New Low at Amazon With 20% Discount",
+      "summary": "LEGO's Kpop Demon Hunters Derpy Tiger and Sussie Bird set has dropped to its lowest price yet at Amazon of $56, a 20% discount from its original list price.",
+      "url": "https://www.ign.com/articles/legos-kpop-demon-hunters-derpy-tiger-and-sussie-bird-set-hits-new-low-at-amazon-with-20-discount",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "id": "b2593ec8958814654800cafe",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T16:54:37+00:00"
     },
     {
       "id": "577faa3a28575617c07a56d1",
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "summary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
       "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-08T12:43:56+00:00"
+      "publishedAt": "2026-10-08T16:31:29+00:00"
     },
     {
-      "id": "54e3aca8bea16eb25c782fc2",
-      "title": "Italy overhauls electoral system after fiercely contested debate",
+      "id": "561a88a5478f5f110d59a9e0",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-08T16:29:33+00:00"
+    },
+    {
+      "id": "e55b1d0bd1552a9ee5babbfa",
+      "title": "Dans les journaux du Groupe EBRA, l’IA au cœur d’un appel à la grève",
+      "summary": "Le Syndicat national des journalistes appelle à un arrêt de travail, vendredi 9 octobre, dans les neuf quotidiens du groupe de presse, pour protester contre un plan prévoyant une réduction de près de 10 % des effectifs et un recours accru à l’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/08/dans-les-journaux-du-groupe-ebra-l-ia-au-c-ur-d-un-appel-a-la-greve_6790262_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-08T16:29:22+00:00"
+    },
+    {
+      "id": "3d05e6c75374051297c90dd8",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "summary": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T16:24:05+00:00"
+    },
+    {
+      "id": "68931227c38ad1800208dcaf",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T16:23:09+00:00"
+    },
+    {
+      "id": "1e9a29688ade8e296815cd18",
+      "title": "Au studio de jeux vidéo Quantic Dream, une grève contre le licenciement d’un délégué syndical dans un contexte tendu",
+      "summary": "Selon le Syndicat des travailleurs et travailleuses du jeu vidéo, une centaine de salariés de ce studio français connu pour le titre « Detroit : Become Human » ont débrayé jeudi 8 octobre à Paris. L’entreprise souhaite supprimer 91 postes dans les prochains mois.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/08/au-studio-quantic-dream-de-paris-une-greve-contre-le-licenciement-d-un-delegue-syndical-dans-un-contexte-tendu_6790259_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-08T16:16:58+00:00"
+    },
+    {
+      "id": "c66d1904d205bc33e40c93e8",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T15:21:46+00:00"
+    },
+    {
+      "id": "07d7a51f5c0787401032df30",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T15:02:32+00:00"
+    },
+    {
+      "id": "9bccedd5008b37958d0b9dd9",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "summary": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T14:10:58+00:00"
+    },
+    {
+      "id": "d0316adf00240c84f7e725fb",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -57,17 +431,6 @@
       "publishedAt": "2026-10-08T12:11:31+00:00"
     },
     {
-      "id": "12fa65b2db337d64f980e862",
-      "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
-      "summary": "GTA 6 leaker Cyberleek has returned to publish a 24-minute gameplay video that has left fans scrambling to issue spoiler warnings across the internet.",
-      "url": "https://www.ign.com/articles/gta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T12:08:10+00:00"
-    },
-    {
       "id": "919354cb36920f2907092292",
       "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
       "summary": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
@@ -77,28 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-08T12:04:25+00:00"
-    },
-    {
-      "id": "29977304d4bb0d42c4094052",
-      "title": "Xbox Announces New XP Entertainment Division to Make Movies, TV, and More",
-      "summary": "Xbox has announced a new TV, movies, and entertainment division called XP. It will be headed up by Kayleen Walters, a Lucasfilm veteran who moves over from her most recent post at Minecraft maker Mojang, for whom she was president – and also served as an executive producer on last year's A Minecraft Movie.",
-      "url": "https://www.ign.com/articles/xbox-announces-new-xp-entertainment-division-to-make-movies-tv-and-more",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T12:00:22+00:00"
-    },
-    {
-      "id": "3b18173d58528ff7a1fa8c36",
-      "title": "Hellraiser: Revival Review",
-      "summary": "While the studded scalp of otherworld antagonist Pinhead absolutely looks the part, it’s a shame that little else in Hellraiser: Revival has been nailed to anywhere near the same extent.",
-      "url": "https://www.ign.com/articles/hellraiser-revival-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T12:00:00+00:00"
     },
     {
       "id": "0177e69ca71705c4d094cd4e",
@@ -123,50 +464,6 @@
       "publishedAt": "2026-10-08T11:31:22+00:00"
     },
     {
-      "id": "4ce8c083c3ab763399bb5fec",
-      "title": "The Australian Government Helps Workers Know Their Rights for Taking Time Off for GTA 6",
-      "summary": "Australia's workplace regulator, The Fair Work Ombudsman, has put out a helpful graphic for people who might want to take time off when GTA 6 comes out this November.",
-      "url": "https://www.ign.com/articles/australian-government-time-off-gta-6",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T11:20:38+00:00"
-    },
-    {
-      "id": "e4cb9401206de020d764fb12",
-      "title": "Wizards of the Coast Confirms Reprints for Popular MTG Warhammer 40K Commander Decks",
-      "summary": "In a statement to IGN, Wizards of the Coast has confirmed a new \"small\" reprint run for the incredibly popular MTG Warhammer 40K Commander Decks.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-warhammer-40k-commander-decks-reprint-confirmed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T11:20:17+00:00"
-    },
-    {
-      "id": "561a88a5478f5f110d59a9e0",
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-08T11:01:29+00:00"
-    },
-    {
-      "id": "6891a29049f0650fd699f054",
-      "title": "CBS News Amazed by Accuracy of GTA 6, Highlights Miami Similarities in New Report",
-      "summary": "CBS News has reported on the accuracy of GTA 6’s Vice City, a fictionalized recreation of The Magic City. The Miami office of CBS News looked at major locations and brings on experts to talk about how accurate Rockstar’s open world is, from PortMiami to South Beach, Wynwood to the Everglades.",
-      "url": "https://www.ign.com/articles/cbs-news-amazed-accuracy-gta-6",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T11:00:15+00:00"
-    },
-    {
       "id": "37e4b85a9e59151965d76c74",
       "title": "A la première du « Legend Tour », un public conquis d’avance malgré les polémiques visant Guillaume Pley",
       "summary": "L’animateur star de YouTube, objet depuis l’été d’enquêtes l’accusant d’avoir échangé des messages à caractère sexuel avec des mineures, décline son concept d’interviews dans les salles de spectacle. Lors de la première, mercredi 7 octobre, il a annoncé une série d’entretiens politiques, en vue de l’élection présidentielle.",
@@ -176,50 +473,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-08T10:38:34+00:00"
-    },
-    {
-      "id": "68931227c38ad1800208dcaf",
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-08T09:56:02+00:00"
-    },
-    {
-      "id": "94d30f1044f8757629d68ce3",
-      "title": "Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich",
-      "summary": "A vtuber is at the center of a controversy in the Wardogs community surrounding exploits.",
-      "url": "https://www.ign.com/articles/wardogs-streamer-banned-for-exploits",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T09:29:19+00:00"
-    },
-    {
-      "id": "c66d1904d205bc33e40c93e8",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-08T08:18:36+00:00"
-    },
-    {
-      "id": "07d7a51f5c0787401032df30",
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-08T08:13:52+00:00"
     },
     {
       "id": "9ef651b1ca15b1ab54915be1",
@@ -233,17 +486,6 @@
       "publishedAt": "2026-10-08T07:15:45+00:00"
     },
     {
-      "id": "0c47acb372039d3486d488ab",
-      "title": "Below Review",
-      "summary": "Below is Netflix’s go at a “What if Jaws but…” type of story set in Newfoundland starring Josh Hartnett that starts off with a promising hook and closes with a hole-y, disappointing end.",
-      "url": "https://www.ign.com/articles/below-netflix-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T07:01:00+00:00"
-    },
-    {
       "id": "22b09459b74c0c309c9a436e",
       "title": "L’IA générative gèle l’embauche des jeunes dans les métiers exposés",
       "summary": "Depuis que l’intelligence artificielle a été rendue accessible au grand public, en novembre 2022, les embauches des 21-29 ans dans les métiers qui y sont les plus confrontés se contractent, selon une étude conjointe de la Banque de France et du Laboratoire de l’innovation et du futur du travail, rattaché à HEC.",
@@ -253,28 +495,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "id": "0657d4208a9eb53de77768e8",
-      "title": "Tom Cruise’s Digger Reportedly Positioned to Lose $250 Million",
-      "summary": "",
-      "url": "https://www.ign.com/articles/tom-cruises-digger-reportedly-positioned-to-lose-250-million",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T06:34:25+00:00"
-    },
-    {
-      "id": "67de516f99278ed3f119ee90",
-      "title": "Jeremy Clarkson Will Return to His Automotive Roots for One-Off Special ‘Jeremy Grows a Car’",
-      "summary": "Jeremy Grows a Car: A Clarkson’s Farm Special will air on Prime in 2027.",
-      "url": "https://www.ign.com/articles/jeremy-clarkson-will-return-to-his-automotive-roots-for-one-off-special-jeremy-grows-a-car",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T05:35:34+00:00"
     },
     {
       "id": "be9ec9d384c5a904d04aeedc",
@@ -288,6 +508,17 @@
       "publishedAt": "2026-10-08T05:10:40+00:00"
     },
     {
+      "id": "3cb2ef94ea1cc6f3a837ac52",
+      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+      "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-08T05:06:09+00:00"
+    },
+    {
       "id": "38e004ab54fac902a55a47f4",
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
@@ -297,28 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-08T05:00:44+00:00"
-    },
-    {
-      "id": "1116ce04639a6a58cb1221c9",
-      "title": "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
-      "summary": "Developer Fuse Games aims to release an update to increase party size from three to six players “within the first few weeks of launch.”",
-      "url": "https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T04:17:47+00:00"
-    },
-    {
-      "id": "80a6131e0addb1da0921e19c",
-      "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
-      "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-08T03:41:34+00:00"
     },
     {
       "id": "29c1d7d63f4cfbc8cad59d5f",
@@ -365,17 +574,6 @@
       "publishedAt": "2026-10-08T03:00:50+00:00"
     },
     {
-      "id": "2f6745556c8f5189b22fbac2",
-      "title": "Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards",
-      "summary": "Mixtape developer Beethoven & Dinosaur has won a trifecta of awards at the 2026 AGDAs, including Excellence in Visual Art, Excellence in Sound Design, and Game of the Year.",
-      "url": "https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T02:36:46+00:00"
-    },
-    {
       "id": "35a04c75f95facd569be8a2c",
       "title": "AI chip boom pushes Samsung profits to record $80bn",
       "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
@@ -407,50 +605,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-08T00:46:36+00:00"
-    },
-    {
-      "id": "b551ac475244115f18f5f61d",
-      "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
-      "summary": "Why settle for just a TV when you can get the entire home theater.",
-      "url": "https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T00:30:00+00:00"
-    },
-    {
-      "id": "09335b3f1e01ec930bba6e23",
-      "title": "Amazon Prime Big Deal Days 2026: Today Is the Last Day to Score the Best October Sales",
-      "summary": "Prime Day: Part 2 is nearly over.",
-      "url": "https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T00:15:00+00:00"
-    },
-    {
-      "id": "84d9158bda0c3adc4bf6eb70",
-      "title": "The 8BitDo Ultimate 2C Wireless PC Gaming Controller Drops to $23.99 for Prime Day",
-      "summary": "Compatible with Windows PC, Android, and Steam Deck.",
-      "url": "https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-amazon-october-prime-day-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T00:15:00+00:00"
-    },
-    {
-      "id": "08d48e8f9719a6ea8b9b1eb8",
-      "title": "10 Last-Minute Deals to Grab Before Prime Big Deal Days End",
-      "summary": "You only have a few hours left to save big on video games, TVs, LEGO, and more.",
-      "url": "https://www.ign.com/articles/10-last-minute-deals-prime-big-deal-days-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-08T00:05:00+00:00"
     },
     {
       "id": "fc6df6ef41508530909367a6",
@@ -497,31 +651,9 @@
       "publishedAt": "2026-10-07T23:18:40+00:00"
     },
     {
-      "id": "0454104680bb892db3102e34",
-      "title": "Save $500 Off the Powerful Skytech Ryzen X3D GeForce RTX 5070 Prebuilt Gaming PC at Walmart",
-      "summary": "Better than Prime Day deals.",
-      "url": "https://www.ign.com/articles/skytech-geforce-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-07T23:10:00+00:00"
-    },
-    {
-      "id": "bd1f4baafedf696561a70b30",
-      "title": "Bit Reactor CEO Welcomes Return of Some Furloughed Staff for 'Continued Support' of Star Wars Zero Company",
-      "summary": "Bit Reactor, the developer of Star Wars Zero Company, has begun returning some of its staff to the team after furloughing an estimated 80% of employees just before the game’s launch.",
-      "url": "https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-07T22:52:00+00:00"
-    },
-    {
       "id": "44ba8d0d818cd0ab1de05fd9",
       "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
-      "summary": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
+      "summary": "Federal prosecutors in New York filed an updated indictment on Thursday",
       "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -561,17 +693,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-07T20:34:17+00:00"
-    },
-    {
-      "id": "f7cc0f45e36eae0d449b4cce",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-07T19:30:51+00:00"
     },
     {
       "id": "0448ab1455214bc497039f41",
@@ -717,17 +838,6 @@
       "publishedAt": "2026-10-06T23:01:22+00:00"
     },
     {
-      "id": "4840788fcaac7bce3d34f233",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
-      "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-06T22:17:56+00:00"
-    },
-    {
       "id": "fdffbea822c33dcea8dafcbe",
       "title": "Watch: Riot police clash with school protesters and use tear gas in France",
       "summary": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
@@ -871,50 +981,6 @@
       "publishedAt": "2026-10-06T07:03:35+00:00"
     },
     {
-      "id": "6b9a27f64b09a3e1f1090b31",
-      "title": "Avec « Le Fondateur », Giuliano da Empoli semble subjugué par son sujet, un patron de la tech inspiré de Peter Thiel",
-      "summary": "Dans son nouveau roman, l’écrivain et essayiste nous plonge dans l’univers des entrepreneurs de la tech, dénonçant les menaces qu’ils représententent pour la démocratie.",
-      "url": "https://www.lemonde.fr/livres/article/2026/10/06/avec-le-fondateur-giuliano-da-empoli-semble-subjugue-par-son-sujet-un-patron-de-la-tech-inspire-de-peter-thiel_6788937_3260.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-06T05:00:12+00:00"
-    },
-    {
-      "id": "6283276bfc4924e35e46e5db",
-      "title": "L’administration française appelée à ne pas foncer tête baissée dans l’IA : « Le précédent de la dématérialisation invite à la prudence »",
-      "summary": "Dans un rapport, publié mardi 6 octobre, le collectif Le Sens du service public pointe une « accélération technologique sans véritable cap politique » et redoute une fracture numérique ainsi que des difficultés d’accès aux droits.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/06/l-histoire-de-la-dematerialisation-invite-a-la-prudence-l-administration-publique-appelee-a-ne-pas-foncer-tete-baissee-dans-l-ia_6788935_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-06T04:55:07+00:00"
-    },
-    {
-      "id": "04a9217d67a14c77c56de1ee",
-      "title": "Comment King’s Cross, quartier autrefois sulfureux de Londres, est devenu un pôle européen de l’IA autour de DeepMind",
-      "summary": "Le Royaume-Uni revendique le titre de première puissance d’Europe en matière d’intelligence artificielle. A Londres, un écosystème s’est constitué dans le quartier de King’s Cross autour de la société DeepMind, filiale de Google.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/06/comment-king-s-cross-quartier-autrefois-sulfureux-de-londres-est-devenu-un-pole-europeen-de-l-ia-autour-de-deepmind_6788823_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-06T03:00:17+00:00"
-    },
-    {
-      "id": "84d2670e123b180db0b46c4e",
-      "title": "IA : des associations prévoient de manifester jeudi à Paris pour réclamer une convention citoyenne",
-      "summary": "Médecins urgentistes, traducteurs, familles et écrivains se retrouveront jeudi devant l’Accor Arena, à Paris, où Bpifrance réunit des entrepreneurs autour de l’IA.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/05/ia-des-associations-prevoient-de-manifester-jeudi-a-paris-pour-reclamer-une-convention-citoyenne_6788580_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-05T18:41:22+00:00"
-    },
-    {
       "id": "49a5b87bdca67a9a76dee47d",
       "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
       "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
@@ -924,17 +990,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-05T16:13:21+00:00"
-    },
-    {
-      "id": "ccd5361e5133a62849b77b10",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-05T10:03:38+00:00"
     },
     {
       "id": "9ed6157714ae9ed96248dbbd",
