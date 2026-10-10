@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-10-10T10:16:51.986088+00:00",
+  "updatedAt": "2026-10-10T16:01:51.029532+00:00",
   "items": [
+    {
+      "id": "34d7bf37c53e80188ee98b27",
+      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T15:58:06+00:00"
+    },
+    {
+      "id": "e0f58ee9e2f1aeb2c80aa0d2",
+      "title": "King warns malicious online actors are evolving tactics",
+      "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-10T15:56:32+00:00"
+    },
+    {
+      "id": "e43d98f06556118ef5f9a230",
+      "title": "Hands-on Impressions of Hoid's Storybook Collection by Brandon Sanderson",
+      "summary": "",
+      "url": "https://www.ign.com/articles/hands-on-impressions-of-hoids-storybook-cosmere-collection-by-brandon-sanderson",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T15:30:00+00:00"
+    },
+    {
+      "id": "163eed48fc7af531159586bf",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T15:23:47+00:00"
+    },
+    {
+      "id": "497a163ccbf4983f84977da2",
+      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T15:05:55+00:00"
+    },
+    {
+      "id": "ce8b6508ffe6506aaf517f19",
+      "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
+      "summary": "Star Citizen developer Cloud Imperium Games has pulled back the curtain on single-player spinoff Squadron 42 with a new cinematic trailer, the launch of Steam wishlists, and a full cast reveal.",
+      "url": "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T15:00:00+00:00"
+    },
+    {
+      "id": "f814d75c33d4dd6b35cf54d6",
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T14:58:55+00:00"
+    },
+    {
+      "id": "98dc60bfcc9cc40bd508b207",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T14:49:32+00:00"
+    },
+    {
+      "id": "7c0dab3e4926468a307c1a3f",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T14:24:14+00:00"
+    },
+    {
+      "id": "8b54a7e4779ec21857d020bd",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T14:16:50+00:00"
+    },
+    {
+      "id": "7f7bbbaeec1e4f553fc284c5",
+      "title": "Ray Gunn Review",
+      "summary": "Director Brad Bird’s Ray Gunn is a love letter to film noir and old-school science fiction, beautifully bringing its retro-futuristic world to life with great style and attention to detail.",
+      "url": "https://www.ign.com/articles/ray-gunn-review-brad-bird-netflix",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T13:45:00+00:00"
+    },
+    {
+      "id": "d1d3ca888af4891cbbfdd2a0",
+      "title": "« Sur l’IA, l’Europe ne peut pas attendre que les risques deviennent plus évidents »",
+      "summary": "Les universitaires américaines Marine Collins Ragnet et Katerina Siira enjoignent à la Commission européenne, dans une tribune au « Monde », de ne pas perdre de temps pour activer les outils dont elle dispose afin de réguler les entreprises d’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/10/sur-l-ia-l-europe-ne-peut-pas-attendre-que-les-risques-deviennent-plus-evidents_6790999_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-10T13:00:26+00:00"
+    },
+    {
+      "id": "9ec96decafe08f19217fb359",
+      "title": "Soylent Green Blu-ray Review",
+      "summary": "Soylent Green Blu-ray review: The future, sadly, is now.",
+      "url": "https://www.ign.com/articles/soylent-green-blu-ray-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T12:45:00+00:00"
+    },
+    {
+      "id": "c4d21fc2aa49045ab645d61e",
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T12:29:31+00:00"
+    },
+    {
+      "id": "e48066b492596352f7e900d0",
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T12:28:51+00:00"
+    },
+    {
+      "id": "9dc89db666a59576b9892c98",
+      "title": "Call of Duty: Modern Warfare Story Recap – What You Need To Know Ahead of MW4",
+      "summary": "The whole story of Call of Duty's rebooted Modern Warfare saga ends in this month's MW4. Catch up on everything you need to know before you play, including all the stuff that happened in Warzone's cutscenes.",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-story-recap",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T12:00:00+00:00"
+    },
     {
       "id": "f264fae227216c11484996cd",
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
@@ -57,17 +233,6 @@
       "publishedAt": "2026-10-10T08:38:45+00:00"
     },
     {
-      "id": "0e7f1f15d508d853d92f3f42",
-      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-      "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T08:29:59+00:00"
-    },
-    {
       "id": "d48c0470c1792349f5f89098",
       "title": "Discord, le réseau social au cœur du procès de Rohan Rane, accusé de ne pas assez protéger les mineurs",
       "summary": "La plateforme américaine, populaire chez les jeunes et les joueurs, est aussi régulièrement utilisée par des groupuscules ultraviolents, à l’image de celui fondé par l’étudiant indien, qui imposait des tortures sexuelles à des mineures, condamné vendredi. L’association e-Enfance alerte, par ailleurs, sur « l’explosion » de l’extorsion sexuelle qui ",
@@ -101,17 +266,6 @@
       "publishedAt": "2026-10-10T04:51:57+00:00"
     },
     {
-      "id": "7c0dab3e4926468a307c1a3f",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T04:38:20+00:00"
-    },
-    {
       "id": "ccd5bdc1c634a5484a48db2a",
       "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
       "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
@@ -132,17 +286,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-10T04:30:09+00:00"
-    },
-    {
-      "id": "4f29edd83851cc3db1abf242",
-      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-      "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T04:07:11+00:00"
     },
     {
       "id": "937d3a88d22d82bc48bb37d0",
@@ -176,17 +319,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-10T00:36:42+00:00"
-    },
-    {
-      "id": "6d7dd54f22f7ca76fa997b64",
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T00:13:12+00:00"
     },
     {
       "id": "9184b38c23f8a2c5e5982f87",
@@ -253,17 +385,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-09T22:45:02+00:00"
-    },
-    {
-      "id": "ef4f8472faecbc508eb60678",
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T22:41:21+00:00"
     },
     {
       "id": "fd5a7a831653124cb9d4d2c3",
@@ -354,17 +475,6 @@
       "publishedAt": "2026-10-09T21:49:35+00:00"
     },
     {
-      "id": "0dd7f4bd7f64e5e1992ea81b",
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T21:26:30+00:00"
-    },
-    {
       "id": "bfb8ae56cfe50bf41b03874d",
       "title": "Turok the Dinosaur Hunter Returns for Skybound Visions Imprint - NYCC 2026",
       "summary": "Iconic dinosaur hunter Turok is finally making a comeback in 2027, as Skybound kicks off an ambitious new imprint dubbed Skybound Visions.",
@@ -420,28 +530,6 @@
       "publishedAt": "2026-10-09T20:20:00+00:00"
     },
     {
-      "id": "6ff95a0465d9e96e8573c9cf",
-      "title": "Bill Murray Is a Ghostbuster Once Again... in a Car Ad",
-      "summary": "Bill Murray has reprised the role of Dr. Peter Venkman in a new advertisement for Rivian electric vehicles that sees the original Ghostbuster respond to a call of Slimer terrorizing a suburban house by pulling up in the \"Ecto-R1,\" aka a Rivian R1S SUV decked out like the original Ecto-1 ambulance/hearse.",
-      "url": "https://www.ign.com/articles/bill-murray-is-a-ghostbuster-once-againin-a-car-ad",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T20:07:24+00:00"
-    },
-    {
-      "id": "fbea26c8228a5707c1839556",
-      "title": "Lucasfilm Games Producer Responds After Galactic Racer Character Biddy Blas Goes Viral",
-      "summary": "If you’ve been on gaming Twitter recently, you’ve probably seen a clip from Star Wars: Galactic Racer making the rounds on your timeline — specifically, a player’s interaction with a character named Biddy Blas.",
-      "url": "https://www.ign.com/articles/lucasfilm-games-producer-responds-after-galactic-racer-character-biddy-blas-goes-viral",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T20:00:58+00:00"
-    },
-    {
       "id": "2898a8fba73906d194db9a52",
       "title": "Thai Queen makes first solo flight in fighter jet",
       "summary": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
@@ -451,50 +539,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-09T19:48:26+00:00"
-    },
-    {
-      "id": "78e11bd87875f8617886d875",
-      "title": "Is Marvel's Zodiac Actually an Agents of SHIELD Revival?",
-      "summary": "The Marvel Cinematic Universe is expanding once again, because Marvel Studios has announced at New York Comic Con a new “spy thriller” called Zodiac. But could this actually be an Agents of SHIELD revival?",
-      "url": "https://www.ign.com/articles/is-marvel-zodiac-series-actually-an-agents-of-shield-revival",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T19:46:58+00:00"
-    },
-    {
-      "id": "469689356bd17c37e972e406",
-      "title": "The Gorgeous 27\" Acer Nitro QD-OLED Gaming Monitor With 240Hz Refresh Rate Drops to $269 at Walmart",
-      "summary": "Better than Prime Day.",
-      "url": "https://www.ign.com/articles/acer-nitro-qd-oled-gaming-monitor-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T19:45:00+00:00"
-    },
-    {
-      "id": "e3133c904336af6d524f96ab",
-      "title": "Skate Developer Promises More Creative Tools Are Coming After ReSkate Modding Platform Goes Viral",
-      "summary": "Full Circle, the developer of Skate, published a statement addressing community mods following the viral launch of a fan-made modding platform called ReSkate.",
-      "url": "https://www.ign.com/articles/skate-developer-promises-more-creative-tools-are-coming-after-reskate-modding-platform-goes-viral",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T19:31:29+00:00"
-    },
-    {
-      "id": "5378b5dc3ec2af568a37045e",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T18:40:10+00:00"
     },
     {
       "id": "462f8081e7300b1ed356f93c",
@@ -596,17 +640,6 @@
       "publishedAt": "2026-10-09T15:25:56+00:00"
     },
     {
-      "id": "d6461ae14b4ea73d358d3246",
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T15:24:43+00:00"
-    },
-    {
       "id": "ffc03e518565ae1d35c3f7cb",
       "title": "Quand l’IA devient le guide de voyage pour planifier ses vacances : « Le secteur touristique est à un point de bascule »",
       "summary": "De l’inspiration à la réservation, l’intelligence artificielle s’immisce à toutes les étapes des vacances. Hôtels, agences ou destinations cherchent à ne pas rater le virage. Une révolution qui soulève des questions sur les erreurs, le risque de standardisation, l’emploi et le coût environnemental.",
@@ -616,28 +649,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-09T15:23:56+00:00"
-    },
-    {
-      "id": "617cfc245b386b9ca4784e8c",
-      "title": "Two Renoir paintings stolen from French museum are recovered",
-      "summary": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T14:25:18+00:00"
-    },
-    {
-      "id": "0cfd909d898e4baeab1d6e42",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T13:50:25+00:00"
     },
     {
       "id": "60c16f36daaa6432b649198e",
@@ -660,39 +671,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-09T12:30:11+00:00"
-    },
-    {
-      "id": "f015cd78ea4ff56340cb72ec",
-      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-      "summary": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T11:44:49+00:00"
-    },
-    {
-      "id": "d640959def144103b092578d",
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T11:35:00+00:00"
-    },
-    {
-      "id": "080607a8b2752c4ab00905d9",
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "summary": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T10:54:21+00:00"
     },
     {
       "id": "5a5fd9a78eecaf3790b3e430",
@@ -728,17 +706,6 @@
       "publishedAt": "2026-10-09T09:30:49+00:00"
     },
     {
-      "id": "be1fac605e752235343113f9",
-      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T09:09:03+00:00"
-    },
-    {
       "id": "573aaf93162b94e69fef6e36",
       "title": "« Oui, on va perdre certains contrats » : à Montréal, le marché de l’emploi des jeunes diplômés bouleversé par l’IA",
       "summary": "Alors que la ville québécoise s’impose comme un pôle attractif de l’intelligence artificielle, des étudiants et de nouveaux arrivants sur le marché de l’emploi en escomptent de nouvelles aubaines. D’autres redoutent de voir leurs compétences rapidement dépassées.",
@@ -748,17 +715,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-09T09:00:00+00:00"
-    },
-    {
-      "id": "1227851810c19680d359139e",
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T08:28:57+00:00"
     },
     {
       "id": "3b40b999923a4d2ec5fab0f6",
@@ -794,17 +750,6 @@
       "publishedAt": "2026-10-09T07:05:01+00:00"
     },
     {
-      "id": "f6c652ca4e710ea3f6289167",
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T03:36:41+00:00"
-    },
-    {
       "id": "fb03be13c85a441f1cf452e1",
       "title": "Les ambiguïtés sur le chiffre d’affaires d’OpenAI effraient Wall Street",
       "summary": "Les projections attribuaient à la société créatrice de ChatGPT un chiffre d’affaires de 68 milliards de dollars, mais il s’établit en réalité à 50 milliards de dollars. La firme a par ailleurs reporté son entrée en Bourse à début 2027, en raison des débats sur les risques que fait courir l’intelligence artificielle.",
@@ -814,28 +759,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-09T03:00:28+00:00"
-    },
-    {
-      "id": "414db5ef940eb6eda34d0312",
-      "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
-      "summary": "Pike's lawyers say her recovery is \"remarkable\" as they give an update on her condition after she survived an execution attempt by lethal injection.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T02:09:45+00:00"
-    },
-    {
-      "id": "e82612cd9d9bd6d0588aa3d4",
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-08T23:11:10+00:00"
     },
     {
       "id": "3965f4c2f7e5ad8ed184a5f8",
@@ -959,17 +882,6 @@
       "publishedAt": "2026-10-07T23:50:29+00:00"
     },
     {
-      "id": "d205f262835edfa9276f31a2",
-      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-      "summary": "The research found that important guardrails for teens using ChatGPT often failed.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-07T20:34:17+00:00"
-    },
-    {
       "id": "af4db2addfc9128d5c2c6504",
       "title": "Contenus intimes volés : la justice fait fermer une plateforme vendant les images de plus de 17 000 femmes, dont des mineures",
       "summary": "Soupçonnés d’en être les administrateurs, deux frères de 21 et 25 ans ont été arrêtés dans le nord de la France, où les enquêteurs ont saisi près de 700 000 euros en cryptomonnaies.",
@@ -990,17 +902,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-07T14:49:15+00:00"
-    },
-    {
-      "id": "62efe51cac92b744911e11df",
-      "title": "« On est encore au Moyen Age » : dans l’e-sport, les femmes en première ligne des violences sexistes et sexuelles",
-      "summary": "Un streameur et commentateur réputé de « League of Legends » a été mis en examen en juillet pour viol, selon les informations du « Monde ». Un cas révélateur des violences sexuelles qui n’épargnent pas l’e-sport, un secteur très masculin au sein duquel la parole des femmes peine à être écoutée.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/07/on-est-encore-au-moyen-age-dans-l-e-sport-les-femmes-en-premiere-ligne-des-violences-sexistes-et-sexuelles_6789614_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-07T14:30:03+00:00"
     },
     {
       "id": "f30f25f8ffa4dd5d33d64b45",
