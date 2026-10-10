@@ -1,16 +1,115 @@
 {
-  "updatedAt": "2026-10-10T16:01:51.029532+00:00",
+  "updatedAt": "2026-10-10T20:23:26.037094+00:00",
   "items": [
     {
-      "id": "34d7bf37c53e80188ee98b27",
-      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-      "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+      "id": "6b93da28ee6c5eab93e46bab",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T19:28:28+00:00"
+    },
+    {
+      "id": "d3ac950715c440702f5c5998",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T19:08:17+00:00"
+    },
+    {
+      "id": "bc037014013f47673c3067da",
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T18:37:10+00:00"
+    },
+    {
+      "id": "e6b95ae2eefccc3cfe4b6ff9",
+      "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
+      "summary": "We spoke to Crystal Lake showrunner Brad Caleb Kane, star Linda Cardellini, and other cast members about retelling the Friday the 13th story.",
+      "url": "https://www.ign.com/articles/crystal-lake-showrunner-on-retelling-the-friday-the-13th-story-its-always-ripe-for-reinterpretation",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T18:27:48+00:00"
+    },
+    {
+      "id": "03f0fdaff845f5fa0e05fe0e",
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T18:22:29+00:00"
+    },
+    {
+      "id": "d61e51a8eddde2f5d2c2bfa3",
+      "title": "DC Legend Grant Morrison Criticizes 'Morally and Legally Incoherent' Lanterns Finale",
+      "summary": "DC veteran Grant Morrison reviewed Lanterns, and they had more than a few criticisms of its \"morally and legally incoherent\" finale.",
+      "url": "https://www.ign.com/articles/dc-legend-grant-morrison-criticizes-morally-and-legally-incoherent-lanterns-finale",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T18:16:30+00:00"
+    },
+    {
+      "id": "7c79ccd74c3998c1add00c1b",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
       "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-10T15:58:06+00:00"
+      "publishedAt": "2026-10-10T17:44:26+00:00"
+    },
+    {
+      "id": "798680187b80cbbb6afcf413",
+      "title": "Nicolas Cage Says He'll 'Probably Not Work With' Amazon Again After Declining Spider-Noir AI Waiver",
+      "summary": "Nicolas Cage said he'll \"probably not work with\" Amazon again after declining to sign a waiver to use AI on Spider-Noir.",
+      "url": "https://www.ign.com/articles/nicolas-cage-says-hell-probably-never-work-with-amazon-again-after-declining-spider-noir-ai-waiver",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T17:06:33+00:00"
+    },
+    {
+      "id": "b845ee17304ad0dd3c4d424f",
+      "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+      "summary": "The GTA 6 leaker has reportedly threatened to release a build of the game with the full story mode played to the end, as part of their heavily criticized crypto scheme.",
+      "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T16:23:47+00:00"
+    },
+    {
+      "id": "92c43b732677a542d2168833",
+      "title": "Blumhouse Gives Updates on Paranormal Activity 8, Saw 11, River, Something Is Killing the Children, and More | NYCC 2026",
+      "summary": "Friday night at New York Comic Con was all about Blumhouse, with a 90 minute \"Blumfest\" panel that was devoted to a ton of upcoming films from the combined forces of Jason Blum's Blumhouse and James Wan's Atomic Monster.",
+      "url": "https://www.ign.com/articles/blumhouse-atomic-monster-nycc-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T16:13:51+00:00"
     },
     {
       "id": "e0f58ee9e2f1aeb2c80aa0d2",
@@ -46,17 +145,6 @@
       "publishedAt": "2026-10-10T15:23:47+00:00"
     },
     {
-      "id": "497a163ccbf4983f84977da2",
-      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
-      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T15:05:55+00:00"
-    },
-    {
       "id": "ce8b6508ffe6506aaf517f19",
       "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
       "summary": "Star Citizen developer Cloud Imperium Games has pulled back the curtain on single-player spinoff Squadron 42 with a new cinematic trailer, the launch of Steam wishlists, and a full cast reveal.",
@@ -88,17 +176,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-10T14:49:32+00:00"
-    },
-    {
-      "id": "7c0dab3e4926468a307c1a3f",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T14:24:14+00:00"
     },
     {
       "id": "8b54a7e4779ec21857d020bd",
@@ -464,50 +541,6 @@
       "publishedAt": "2026-10-09T21:50:47+00:00"
     },
     {
-      "id": "e7983971b7a2bcec5a0fd073",
-      "title": "Gears of War: E-Day Estimated Sales Reach Just 230,000 in First Week, Analyst Says",
-      "summary": "Xbox console exclusive Gears of War: E-Day is reportedly off to a soft start after reaching an estimated 230,000 copies sold in its first week.",
-      "url": "https://www.ign.com/articles/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T21:49:35+00:00"
-    },
-    {
-      "id": "bfb8ae56cfe50bf41b03874d",
-      "title": "Turok the Dinosaur Hunter Returns for Skybound Visions Imprint - NYCC 2026",
-      "summary": "Iconic dinosaur hunter Turok is finally making a comeback in 2027, as Skybound kicks off an ambitious new imprint dubbed Skybound Visions.",
-      "url": "https://www.ign.com/articles/turok-the-dinosaur-hunter-returns-for-skybound-visions-imprint-nycc-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T21:00:00+00:00"
-    },
-    {
-      "id": "8bc969e692c7f71481626309",
-      "title": "The Street Fighter 2 Bonus Stage Car Is Real and You Can Win It",
-      "summary": "The General is teaming up with Capcom to bring the destroyable car from Street Fighter II to life, and you have a chance to win it — along with more than $25,000 in gas money.",
-      "url": "https://www.ign.com/articles/the-street-fighter-2-bonus-stage-car-is-real-and-you-can-win-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T20:47:37+00:00"
-    },
-    {
-      "id": "75b421a6c7c2adf2b70edf44",
-      "title": "Marvel Comics Reveals New Captain Marvel Series and Daredevil #700 - NYCC 2026",
-      "summary": "Marvel dropped some big announcements at NYCC, including Daredevil #700 and a brand-new Captain Marvel series from Kamala Khan co-creator G. Willow Wilson.",
-      "url": "https://www.ign.com/articles/marvel-comics-reveals-new-captain-marvel-series-and-daredevil-700-nycc-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T20:30:00+00:00"
-    },
-    {
       "id": "4a62512dea736657ade34641",
       "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
       "summary": "The BBC's Nada Tawfik goes through new dramatic body cam footage that shows the tense moments when police arrive on scene.",
@@ -517,17 +550,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-09T20:20:09+00:00"
-    },
-    {
-      "id": "cbd9a36b39114a574053f0e6",
-      "title": "Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones With Extended 2 Year Warranty",
-      "summary": "One of the best noise canceling headphones you can get.",
-      "url": "https://www.ign.com/articles/sony-wh-1000xm6-noise-canceling-headphone-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T20:20:00+00:00"
     },
     {
       "id": "2898a8fba73906d194db9a52",
