@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-10-09T23:43:39.462323+00:00",
+  "updatedAt": "2026-10-10T03:29:51.022465+00:00",
   "items": [
+    {
+      "id": "36b8b009a8463bd9095c28d7",
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T01:58:56+00:00"
+    },
+    {
+      "id": "0f84069d86717cf352cf2878",
+      "title": "Tech Now",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-10T01:00:00+00:00"
+    },
+    {
+      "id": "7c0dab3e4926468a307c1a3f",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T00:45:51+00:00"
+    },
+    {
+      "id": "90a4d4d98948332099ac7d11",
+      "title": "Magic: The Gathering Returns to Marvel with Darkhold Destiny",
+      "summary": "Magic the Gathering and Marvel have already crossed over a couple of times with Spider-Man and the Marvel Super Heroes set last year. But for its third Marvel set, MTG is getting spooky with Darkhold Destiny.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T00:36:42+00:00"
+    },
+    {
+      "id": "6d7dd54f22f7ca76fa997b64",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T00:13:12+00:00"
+    },
+    {
+      "id": "9184b38c23f8a2c5e5982f87",
+      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+      "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-10T00:00:08+00:00"
+    },
+    {
+      "id": "1336b2d9d648bb7e1a061a8f",
+      "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
+      "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through.",
+      "url": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-09T23:56:23+00:00"
+    },
+    {
+      "id": "550a6e8d1e40fd6cc342c44c",
+      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+      "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-09T23:24:33+00:00"
+    },
+    {
+      "id": "b70ea166baa7af2bfb35c508",
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-09T23:02:07+00:00"
+    },
+    {
+      "id": "6a349b48732600dcb73f0a61",
+      "title": "Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview",
+      "summary": "While our earlier previews described a giant open-world game absolutely chock-full of activities, it was nice to see that the story-intense linear bits are still there, and just as dramatic as they were in the first two games. Final Fantasy VII Revelation will ultimately be the conclusion to this massive remake trilogy, and I can just tell that som",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-09T22:58:43+00:00"
+    },
     {
       "id": "f1802bfa471009deeed5c344",
       "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
@@ -46,6 +156,17 @@
       "publishedAt": "2026-10-09T22:40:00+00:00"
     },
     {
+      "id": "a2b5bd712081c2be2d7bf32b",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-09T22:30:22+00:00"
+    },
+    {
       "id": "f9b8b1a9322c86ae64c2af83",
       "title": "A Street Fighter Movie Sequel Is Already Being Written, but There’s a Catch",
       "summary": "Director Kitao Sakurai confirmed that he’s already hard at work writing up a sequel to his upcoming Street Fighter film, but whether or not it gets made all depends on how the first movie performs.",
@@ -57,8 +178,8 @@
       "publishedAt": "2026-10-09T22:26:40+00:00"
     },
     {
-      "id": "dc9d21257b98cbf599685df8",
-      "title": "Magic: The Gathering at NYCC Live Blog – Get Ready For Darkhold Destiny",
+      "id": "3084d1990d964e7ad52dec9c",
+      "title": "Magic: The Gathering Darkhold Destiny Panel – Everything Announced",
       "summary": "Earlier this year at MagicCon in Las Vegas, Wizards of the Coast revealed its in-universe sets for 2027, but that only covered three of the six planned sets. The other three are Universes Beyond — the card game's crossover brand — and now we know about another one, Darkhold Destiny, the new Marvel set.",
       "url": "https://www.ign.com/articles/magic-the-gathering-at-nycc-everything-announced",
       "imageUrl": null,
@@ -88,17 +209,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-09T21:55:51+00:00"
-    },
-    {
-      "id": "e614661773ae751b54342a32",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T21:54:28+00:00"
     },
     {
       "id": "2d13d3538bae3ae8733e52e7",
@@ -255,39 +365,6 @@
       "publishedAt": "2026-10-09T19:25:00+00:00"
     },
     {
-      "id": "5dfc3572892fdc4833a42233",
-      "title": "Save Over 50% Off the Sony WH-1000XX Stainless Steel Noise Canceling Wireless Headphones",
-      "summary": "Possibly the best deal on ultra-premium headphones during Prime Day, but not from Amazon.",
-      "url": "https://www.ign.com/articles/sony-wh-1000xx-the-collexion-noise-canceling-wireless-headphone-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T19:25:00+00:00"
-    },
-    {
-      "id": "ffda8c6992b48a7d6ab0b52f",
-      "title": "Blade Runner 2099: What Happens When the Replicants Are Running the World?",
-      "summary": "In an exclusive interview with IGN, Blade Runner 2099 showrunner Silka Luisa says the new series will be an \"undercover police story\" that’s \"quintessential Blade Runner.\"",
-      "url": "https://www.ign.com/articles/blade-runner-2099-what-happens-when-the-replicants-are-running-the-world",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T19:00:00+00:00"
-    },
-    {
-      "id": "f0083905712311d1804fb4c8",
-      "title": "Pretty Little Liars Star Keegan Allen Says He Was Robbed at Gunpoint in Bloody Video",
-      "summary": "Keegan Allen, best known for his role as Toby Cavanaugh in Pretty Little Liars, uploaded a shocking video to Instagram on the night of October 8, showing himself breathless and covered in blood.",
-      "url": "https://www.ign.com/articles/pretty-little-liars-star-keegan-allen-says-he-was-robbed-at-gunpoint-in-bloody-video",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T18:51:39+00:00"
-    },
-    {
       "id": "5378b5dc3ec2af568a37045e",
       "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
@@ -319,17 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-09T17:37:10+00:00"
-    },
-    {
-      "id": "6d7dd54f22f7ca76fa997b64",
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T17:36:09+00:00"
     },
     {
       "id": "677357fca9abc61a344a0a5d",
@@ -629,17 +695,6 @@
       "publishedAt": "2026-10-09T07:05:01+00:00"
     },
     {
-      "id": "35bb93584c03931bff0b1d89",
-      "title": "Why Elon Musk is taking on India's richest man over Starlink",
-      "summary": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T06:42:37+00:00"
-    },
-    {
       "id": "3abaa8932a195cadc3b32ad6",
       "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
       "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
@@ -682,17 +737,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-09T02:09:45+00:00"
-    },
-    {
-      "id": "5923a160b46eb09ec3bc3248",
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-08T23:14:02+00:00"
     },
     {
       "id": "e82612cd9d9bd6d0588aa3d4",
@@ -1001,17 +1045,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-15T19:30:00+00:00"
-    },
-    {
-      "id": "5b739babbd8ce5b6ac0d07f6",
-      "title": "Tech Now",
-      "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-12T01:00:19+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
