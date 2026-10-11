@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-10T23:59:45.968940+00:00",
+  "updatedAt": "2026-10-11T04:54:35.511458+00:00",
   "items": [
+    {
+      "id": "718a7a8fc44759433d7a7e52",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T03:57:22+00:00"
+    },
+    {
+      "id": "6b93da28ee6c5eab93e46bab",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T01:41:29+00:00"
+    },
+    {
+      "id": "ef768b29c40d2b83886ece85",
+      "title": "Naruto Teasers Reveal New Shadow Rising Manga and Anime Crossover Series",
+      "summary": "Naruto is alive and well, as author Masashi Kishimoto has announced a new manga called Shadow Rising – and a new anime crossover series is on the way, too.",
+      "url": "https://www.ign.com/articles/naruto-teasers-reveal-new-shadow-rising-manga-and-anime-crossover-series",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-11T00:00:43+00:00"
+    },
+    {
+      "id": "071d6c43c9500c2ba1c849d8",
+      "title": "Blade Runner 2099 Trailer Teases Replicant Mystery With Hunter Schafer and Michelle Yeoh",
+      "summary": "Prime Video has published a new Blade Runner 2099 trailer, revealing more about the mystery surrounding its missing Replicants, as well as the roles Hunter Schafer and Michelle Yeoh play in the story.",
+      "url": "https://www.ign.com/articles/blade-runner-2099-trailer-teases-replicant-mystery-with-hunter-schafer-and-michelle-yeoh",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-10T23:55:59+00:00"
+    },
     {
       "id": "0fd97097000dbc2028750072",
       "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
@@ -22,17 +66,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-10T23:19:55+00:00"
-    },
-    {
-      "id": "e721668c0d52be925f686b27",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T22:40:56+00:00"
     },
     {
       "id": "d46ddcc26d64631ea8865e29",
@@ -77,17 +110,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-10T20:15:00+00:00"
-    },
-    {
-      "id": "6b93da28ee6c5eab93e46bab",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T19:28:28+00:00"
     },
     {
       "id": "55ba77927d0b9c3c08c74eea",
@@ -530,17 +552,6 @@
       "publishedAt": "2026-10-09T22:45:02+00:00"
     },
     {
-      "id": "fd5a7a831653124cb9d4d2c3",
-      "title": "Is The Exorcist: Martyrs a Sequel to The Exorcist III? Mike Flanagan Reveals All",
-      "summary": "The Exorcist: Martyrs director Mike Flanagan joins IGN to break down the horror sequel's new trailer and explain how it builds on the foundation of The Exorcist III.",
-      "url": "https://www.ign.com/articles/the-exorcist-martyrs-trailer-breakdown-mike-flanagan",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T22:40:00+00:00"
-    },
-    {
       "id": "a2b5bd712081c2be2d7bf32b",
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
@@ -550,17 +561,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-09T22:30:22+00:00"
-    },
-    {
-      "id": "f9b8b1a9322c86ae64c2af83",
-      "title": "A Street Fighter Movie Sequel Is Already Being Written, but There’s a Catch",
-      "summary": "Director Kitao Sakurai confirmed that he’s already hard at work writing up a sequel to his upcoming Street Fighter film, but whether or not it gets made all depends on how the first movie performs.",
-      "url": "https://www.ign.com/articles/a-street-fighter-movie-sequel-is-already-being-written-but-theres-a-catch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-09T22:26:40+00:00"
     },
     {
       "id": "682a7b8743b74c4f27683984",
