@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-11T21:16:18.679642+00:00",
+  "updatedAt": "2026-10-12T00:51:27.987828+00:00",
   "items": [
+    {
+      "id": "376c52ec3992b0666a38545d",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-11T23:07:35+00:00"
+    },
+    {
+      "id": "fa7479841fdd2c9b7b0aab7c",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T22:45:58+00:00"
+    },
+    {
+      "id": "2b3baadd74d94433bf494d79",
+      "title": "Artemis Fowl Animated TV Show Greenlit With Eoin Colfer as Executive Producer",
+      "summary": "Artemis Fowl is coming back to TV screens in the form of an animated show on Disney Channel and Disney+.",
+      "url": "https://www.ign.com/articles/artemis-fowl-animated-tv-show-greenlit-with-eoin-colfer-as-executive-producer",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-11T22:28:55+00:00"
+    },
+    {
+      "id": "3ea9de335ed774f48636afcf",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T21:36:40+00:00"
+    },
+    {
+      "id": "ec6e7461ae088ed765a015be",
+      "title": "Resident Evil Overtakes Weapons as Zach Cregger's Highest-Grossing Film, The Social Reckoning Bombs",
+      "summary": "Resident Evil beat Weapons to become Zach Cregger's highest-grossing film while The Social Reckoning bombed at the box office.",
+      "url": "https://www.ign.com/articles/resident-evil-overtakes-weapons-as-zach-creggers-highest-grossing-film-the-social-reckoning-bombs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-11T21:19:21+00:00"
+    },
     {
       "id": "f6811cc6697653226b277ed0",
       "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
@@ -11,6 +66,28 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-11T21:12:44+00:00"
+    },
+    {
+      "id": "29f6a5c8cfc07a58ba775e93",
+      "title": "The Best Deals Today: Doom: The Dark Ages, Star Wars Zero Company, 007 4K Blu-ray, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-october-11-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-11T21:09:22+00:00"
+    },
+    {
+      "id": "7712004158e5bf14785e606f",
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T20:55:02+00:00"
     },
     {
       "id": "185cb47c55938e44275a17c0",
@@ -44,17 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-11T17:27:24+00:00"
-    },
-    {
-      "id": "e4eb7918dfd82aca3864bbf1",
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-11T16:41:37+00:00"
     },
     {
       "id": "c6d5ef54358ff14d34d20531",
@@ -453,17 +519,6 @@
       "publishedAt": "2026-10-10T14:13:13+00:00"
     },
     {
-      "id": "7f7bbbaeec1e4f553fc284c5",
-      "title": "Ray Gunn Review",
-      "summary": "Director Brad Bird’s Ray Gunn is a love letter to film noir and old-school science fiction, beautifully bringing its retro-futuristic world to life with great style and attention to detail.",
-      "url": "https://www.ign.com/articles/ray-gunn-review-brad-bird-netflix",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-10T13:45:00+00:00"
-    },
-    {
       "id": "d1d3ca888af4891cbbfdd2a0",
       "title": "« Sur l’IA, l’Europe ne peut pas attendre que les risques deviennent plus évidents »",
       "summary": "Les universitaires américaines Marine Collins Ragnet et Katerina Siira enjoignent à la Commission européenne, dans une tribune au « Monde », de ne pas perdre de temps pour activer les outils dont elle dispose afin de réguler les entreprises d’intelligence artificielle.",
@@ -475,17 +530,6 @@
       "publishedAt": "2026-10-10T13:00:26+00:00"
     },
     {
-      "id": "9ec96decafe08f19217fb359",
-      "title": "Soylent Green Blu-ray Review",
-      "summary": "Soylent Green Blu-ray review: The future, sadly, is now.",
-      "url": "https://www.ign.com/articles/soylent-green-blu-ray-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-10T12:45:00+00:00"
-    },
-    {
       "id": "e48066b492596352f7e900d0",
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
       "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
@@ -495,17 +539,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-10T12:28:51+00:00"
-    },
-    {
-      "id": "9dc89db666a59576b9892c98",
-      "title": "Call of Duty: Modern Warfare Story Recap – What You Need To Know Ahead of MW4",
-      "summary": "The whole story of Call of Duty's rebooted Modern Warfare saga ends in this month's MW4. Catch up on everything you need to know before you play, including all the stuff that happened in Warzone's cutscenes.",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-story-recap",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-10T12:00:00+00:00"
     },
     {
       "id": "f264fae227216c11484996cd",
@@ -563,17 +596,6 @@
       "publishedAt": "2026-10-10T07:00:03+00:00"
     },
     {
-      "id": "b5b6cf27ce51854bf8fc1417",
-      "title": "How the trial of murdered Australian brothers and US friend unfolded",
-      "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
-      "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T06:04:35+00:00"
-    },
-    {
       "id": "b7f4adb559e2495d623cb151",
       "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
       "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
@@ -605,28 +627,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-10T01:00:00+00:00"
-    },
-    {
-      "id": "4a62512dea736657ade34641",
-      "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
-      "summary": "The BBC's Nada Tawfik goes through new dramatic body cam footage that shows the tense moments when police arrive on scene.",
-      "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T20:20:09+00:00"
-    },
-    {
-      "id": "2898a8fba73906d194db9a52",
-      "title": "Thai Queen makes first solo flight in fighter jet",
-      "summary": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
-      "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-09T19:48:26+00:00"
     },
     {
       "id": "462f8081e7300b1ed356f93c",
@@ -880,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-08T01:59:54+00:00"
-    },
-    {
-      "id": "fc6df6ef41508530909367a6",
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-07T23:50:29+00:00"
     },
     {
       "id": "f30f25f8ffa4dd5d33d64b45",
