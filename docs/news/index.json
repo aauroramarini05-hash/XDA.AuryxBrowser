@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-10-12T00:51:27.987828+00:00",
+  "updatedAt": "2026-10-12T06:48:03.565034+00:00",
   "items": [
+    {
+      "id": "0b9f4afb0391351f8be519fb",
+      "title": "Watch: How did Roman Abramovich's advisors help hide his wealth?",
+      "summary": "Working with the Bureau of Investigative Journalism, BBC Panorama reveals how the Russian billionaire hid his wealth with the help of Deloitte.",
+      "url": "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-12T06:35:02+00:00"
+    },
+    {
+      "id": "0527f55cddcc15c629b9e9c7",
+      "title": "Documents falsified to evade tax on Abramovich's wealth",
+      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-12T05:00:52+00:00"
+    },
+    {
+      "id": "d842a5e475c4bb95e1f25314",
+      "title": "Doom 2016 Composer Mick Gordon Says \"F##k AI\"",
+      "summary": "Doom 2016 Composer Mick Gordon Says \"F##k AI\"",
+      "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-fk-ai",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-12T03:00:00+00:00"
+    },
+    {
+      "id": "28099460b848fc27cc261470",
+      "title": "Doom 2016 Composer Mick Gordon Says He'd Return to the Doom Series \"In a Heartbeat\"",
+      "summary": "Doom 2016 Composer Mick Gordon Says He'd Return to the Doom Series \"In a Heartbeat\"",
+      "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-hed-return-to-the-doom-series-in-a-heartbeat",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-12T00:01:09+00:00"
+    },
+    {
+      "id": "8090581c2dbf40af4ae65389",
+      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "summary": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T23:48:25+00:00"
+    },
+    {
+      "id": "70904f0413e8b571a5742419",
+      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
+      "summary": "The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
+      "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T23:33:24+00:00"
+    },
+    {
+      "id": "3f434cf1e438181e44bd9f27",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T23:18:45+00:00"
+    },
+    {
+      "id": "196108c7ae05b298f3bc7b53",
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T23:13:51+00:00"
+    },
+    {
+      "id": "606858d46ebd6528d0a7d82d",
+      "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-11T23:13:20+00:00"
+    },
     {
       "id": "376c52ec3992b0666a38545d",
       "title": "AI is less regulated than milk, says Microsoft president",
@@ -35,9 +134,9 @@
       "publishedAt": "2026-10-11T22:28:55+00:00"
     },
     {
-      "id": "3ea9de335ed774f48636afcf",
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "id": "982ca0be5b07408007715008",
+      "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
+      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
       "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -99,17 +198,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-11T19:26:12+00:00"
-    },
-    {
-      "id": "1110ae22b4ec5cefa67f1d13",
-      "title": "Orangutans released back into Borneo forest after devastating fires",
-      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-11T19:08:04+00:00"
     },
     {
       "id": "903dbaa7a0bcebf35efde4ed",
@@ -233,17 +321,6 @@
       "publishedAt": "2026-10-11T12:46:33+00:00"
     },
     {
-      "id": "988f92979a6085c0aa959d76",
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-11T12:03:52+00:00"
-    },
-    {
       "id": "b02ca39a48f1f21328077981",
       "title": "Derrière le site complotiste Géopolitique profonde, plagiat, IA et sous-traitance à Madagascar",
       "summary": "Ce site majeur de la complosphère française fait appel à des rédacteurs malgaches pour copier-coller des articles trouvés sur Internet et les soumettre à une intelligence artificielle chargée de leur donner une tonalité « plutôt pro-droite, pro-Trump, pro-Poutine, anti-UE ».",
@@ -252,18 +329,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-10-11T12:00:07+00:00"
-    },
-    {
-      "id": "5d03862f09b0737fe8aff0e1",
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-11T11:11:42+00:00"
+      "publishedAt": "2026-10-11T12:00:01+00:00"
     },
     {
       "id": "9a91f42d8d34dae417bb961b",
@@ -286,17 +352,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-11T08:00:02+00:00"
-    },
-    {
-      "id": "ce2b5375a0a2d5a27c78c101",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-11T05:05:43+00:00"
     },
     {
       "id": "ef768b29c40d2b83886ece85",
@@ -334,7 +389,7 @@
     {
       "id": "d46ddcc26d64631ea8865e29",
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "summary": "A desperate junta is in a war of attrition against ethnic militias and civilian resistance.",
       "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -365,17 +420,6 @@
       "publishedAt": "2026-10-10T20:15:00+00:00"
     },
     {
-      "id": "55ba77927d0b9c3c08c74eea",
-      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
-      "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
-      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T19:25:03+00:00"
-    },
-    {
       "id": "e6b95ae2eefccc3cfe4b6ff9",
       "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
       "summary": "We spoke to Crystal Lake showrunner Brad Caleb Kane, star Linda Cardellini, and other cast members about retelling the Friday the 13th story.",
@@ -387,17 +431,6 @@
       "publishedAt": "2026-10-10T18:27:48+00:00"
     },
     {
-      "id": "03f0fdaff845f5fa0e05fe0e",
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T18:22:29+00:00"
-    },
-    {
       "id": "d61e51a8eddde2f5d2c2bfa3",
       "title": "DC Legend Grant Morrison Criticizes 'Morally and Legally Incoherent' Lanterns Finale",
       "summary": "DC veteran Grant Morrison reviewed Lanterns, and they had more than a few criticisms of its \"morally and legally incoherent\" finale.",
@@ -407,17 +440,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-10T18:16:30+00:00"
-    },
-    {
-      "id": "7c79ccd74c3998c1add00c1b",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T17:44:26+00:00"
     },
     {
       "id": "798680187b80cbbb6afcf413",
@@ -464,17 +486,6 @@
       "publishedAt": "2026-10-10T15:56:32+00:00"
     },
     {
-      "id": "e43d98f06556118ef5f9a230",
-      "title": "Hands-on Impressions of Hoid's Storybook Collection by Brandon Sanderson",
-      "summary": "",
-      "url": "https://www.ign.com/articles/hands-on-impressions-of-hoids-storybook-cosmere-collection-by-brandon-sanderson",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-10T15:30:00+00:00"
-    },
-    {
       "id": "163eed48fc7af531159586bf",
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
@@ -484,28 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-10T15:23:47+00:00"
-    },
-    {
-      "id": "ce8b6508ffe6506aaf517f19",
-      "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
-      "summary": "Star Citizen developer Cloud Imperium Games has pulled back the curtain on single-player spinoff Squadron 42 with a new cinematic trailer, the launch of Steam wishlists, and a full cast reveal.",
-      "url": "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-10T15:00:00+00:00"
-    },
-    {
-      "id": "f814d75c33d4dd6b35cf54d6",
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T14:58:55+00:00"
     },
     {
       "id": "dd47950d935eab2005663f60",
@@ -528,17 +517,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-10T13:00:26+00:00"
-    },
-    {
-      "id": "e48066b492596352f7e900d0",
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-10T12:28:51+00:00"
     },
     {
       "id": "f264fae227216c11484996cd",
