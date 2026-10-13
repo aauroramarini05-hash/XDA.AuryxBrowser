@@ -1,10 +1,274 @@
 {
-  "updatedAt": "2026-10-13T19:40:07.744079+00:00",
+  "updatedAt": "2026-10-13T23:32:02.968795+00:00",
   "items": [
+    {
+      "id": "d57371ca64e34edfefa95825",
+      "title": "How long will humans be needed for translation?",
+      "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-13T23:05:29+00:00"
+    },
+    {
+      "id": "31e16e5fea72bdd4e5127c2b",
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-13T23:04:39+00:00"
+    },
+    {
+      "id": "a21ab6c9e841f02c7d56fa60",
+      "title": "Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life",
+      "summary": "This controller is shaping up to be one of the best wireless PC and Xbox gaming controllers on the market.",
+      "url": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T22:40:00+00:00"
+    },
+    {
+      "id": "5678a3c1794d9dd6df3f2999",
+      "title": "The Bose QuietComfort Noise Canceling Headphones Retail for $359, But You Can Get a Pair for Just $123",
+      "summary": "Ships directly from Bose.",
+      "url": "https://www.ign.com/articles/bose-quietcomfort-noise-canceling-headphone-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T22:35:00+00:00"
+    },
+    {
+      "id": "af2e7c2e01ce403b73dba2db",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T22:29:55+00:00"
+    },
+    {
+      "id": "766484156764913cb34a69cb",
+      "title": "Razer Reveals New Pokémon Gaming Headsets Featuring Sylveon, Charizard, and Lucario",
+      "summary": "",
+      "url": "https://www.ign.com/articles/razer-reveals-3-new-pokemon-gaming-headsets-based-on-sylveon-charizard-lucario",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T22:28:45+00:00"
+    },
+    {
+      "id": "448bda2d2fdf84340a2f818a",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T22:14:33+00:00"
+    },
+    {
+      "id": "2d13b3fc184af5c220e0ad7d",
+      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T22:07:40+00:00"
+    },
+    {
+      "id": "6f5ccaf433813dde06f74d18",
+      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T22:02:09+00:00"
+    },
+    {
+      "id": "ef38f2beb250cc24e5365f16",
+      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T22:01:43+00:00"
+    },
+    {
+      "id": "93fb789130d43272f752c46b",
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T22:00:20+00:00"
+    },
+    {
+      "id": "3dcf2a752a9d9712d3bfdd2c",
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T21:42:49+00:00"
+    },
+    {
+      "id": "e346ece2a93a7f8d8a32409e",
+      "title": "The Slick Looking TSA-Approved Talix 20,000mAh 140W Power Bank Drops to $39 Shipped",
+      "summary": "Fast charges the most powerful handheld gaming PCs or MacBook Pro laptops, with style.",
+      "url": "https://www.ign.com/articles/talix-20000mah-140w-power-bank-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T21:30:00+00:00"
+    },
+    {
+      "id": "f895901f640b0d5a7b262a5d",
+      "title": "Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?",
+      "summary": "We are just a little over 30 days until the release of GTA 6, which begs the question: will you be taking time off of work or school to play it?",
+      "url": "https://www.ign.com/articles/will-you-be-taking-time-off-work-or-school-for-gta-6s-release-next-month",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T20:47:09+00:00"
+    },
+    {
+      "id": "ca090952421ad39e7ddbbc41",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T20:46:06+00:00"
+    },
+    {
+      "id": "51eb917135ea2f92bc61da9e",
+      "title": "OpenAI annonce l’arrestation d’un employé soupçonné d’avoir posé un micro dans l’entreprise",
+      "summary": "L’employé, que le créateur de ChatGPT avait signalé au FBI, est accusé d’avoir caché un « appareil d’enregistrement sophistiqué » dans une salle de réunion, et d’avoir voulu en installer d’autres dans des espaces sensibles. Il a été licencié le 9 octobre, jour de son arrestation.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/13/openai-annonce-l-arrestation-d-un-employe-soupconne-d-avoir-pose-un-micro-dans-l-entreprise_6793179_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-13T20:41:19+00:00"
+    },
+    {
+      "id": "9eb2610eaf047d43b7b27bbf",
+      "title": "SPECS, Snap's First-Ever AR Glasses, Ships Out This Fall",
+      "summary": "A new, lightweight and stylish personal wearable computer.",
+      "url": "https://www.ign.com/articles/specs-snaps-first-ever-ar-glasses-ships-out-this-fall",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T20:40:00+00:00"
+    },
+    {
+      "id": "a9e351abd6dae2784a773297",
+      "title": "The Steelseries Arctis Nova Pro Omni Gaming Headset With Infinite Battery Life Drops to a New Price Low",
+      "summary": "Successor to the venerable Arctis Nova Pro.",
+      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T20:25:00+00:00"
+    },
+    {
+      "id": "111e7d029c5d60cb7102c287",
+      "title": "I Didn't Want a Greta Gerwig Narnia Movie... Until I Watched the Magician's Nephew Trailer",
+      "summary": "We didn't think the world needed a Narnia reboot, at least until the trailer for Greta Gerwig's The Magician's Nephew showed us just how wrong we were.",
+      "url": "https://www.ign.com/articles/magicians-nephew-trailer-greta-gerwig-narnia",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T20:21:41+00:00"
+    },
+    {
+      "id": "6a7d975d61a26dd3afb07ecf",
+      "title": "Send in the Clown Gameplay Trailer Focuses On Its Hilarious, One-and-Only Turn-Based RPG Battle | IGN Fan Fest 2026",
+      "summary": "As part of IGN Fan Fest 2026: Fall Edition, we can reveal a new gameplay trailer for Send in the Clown, the upcoming one-hour comedy RPG where players become history's least-appreciated clown as he tries to save a 12-year-old's birthday from her brat brother.",
+      "url": "https://www.ign.com/articles/send-in-the-clown-gameplay-trailer-focuses-on-its-hilarious-one-and-only-turn-based-rpg-battle",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T20:00:00+00:00"
+    },
+    {
+      "id": "7be07908da3e1ff2485f53c8",
+      "title": "The Talix 20,000mAh Power Bank With 190W of Total Power Output Over USB-C Drops to Just $29.99",
+      "summary": "Can fast charge the 2026 Apple MacBook Pro 16\" M5, ASUS ROG Xbox Ally X20, and more.",
+      "url": "https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T20:00:00+00:00"
+    },
+    {
+      "id": "a346439c7786f81e59b3f576",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-13T19:51:14+00:00"
+    },
+    {
+      "id": "3763574db34774cae82ee875",
+      "title": "K/DA Reactivates Social Accounts, Fueling Rumors of the Virtual K-Pop Group’s Comeback After 6 Years",
+      "summary": "Official K/DA accounts have been updated for the first time in six years. New profile and banner images continue to show the existing promotional art from the All Out era, now with the addition of hot pink flames. The reactivated accounts have also wiped existing posts, fueling rumors that the virtual girl group is gearing up for a comeback.",
+      "url": "https://www.ign.com/articles/kda-reactivates-social-accounts-fueling-rumors-of-the-virtual-k-pop-groups-comeback",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T19:45:50+00:00"
+    },
+    {
+      "id": "284d2eb2182c7753aa4fef44",
+      "title": "Tech Life",
+      "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-13T19:45:00+00:00"
+    },
     {
       "id": "140c01a1d086c9b30709e2f8",
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
       "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -13,26 +277,37 @@
       "publishedAt": "2026-10-13T19:23:28+00:00"
     },
     {
-      "id": "7e750c5a17388abb42fbfd73",
-      "title": "Saudi coalition strikes fuel depot near Yemen's capital",
-      "summary": "The Houthis have warned Saudi Arabia that they will retaliate by targeting the Saudi cities of Riyadh and Dammam.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "id": "5e3dc468adfc0dd86b4e0caa",
+      "title": "Get a Bose Soundbar for Under $100 With eBay's Early Holiday 25% Off Coupon Code",
+      "summary": "An affordable yet significant upgrade from your anemic built-in TV speakers.",
+      "url": "https://www.ign.com/articles/bose-solo-soundbar-deal-october-2026",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T18:55:50+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T19:20:00+00:00"
     },
     {
-      "id": "a346439c7786f81e59b3f576",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "summary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years.",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "id": "52c1401d363cf0402f9b5975",
+      "title": "Officially Licensed Fallout Bookends Are Up for Preorder for a Whopping $325",
+      "summary": "",
+      "url": "https://www.ign.com/articles/officially-licensed-fallout-bookends-are-up-for-preorder",
       "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T18:54:17+00:00"
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T19:02:57+00:00"
+    },
+    {
+      "id": "a86d504fcbc711283405aa3d",
+      "title": "Xbox Announces Xbox Labs, Aimed in Part at Getting Improved Old-Gen Games Playable in Web Browsers",
+      "summary": "Xbox has announced Xbox Labs, a new initiative aimed at getting games to more people in more places — with a particular emphasis on web browsers.",
+      "url": "https://www.ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-13T19:00:00+00:00"
     },
     {
       "id": "4b3bcfd4c0b5dfa66d8e028e",
@@ -101,17 +376,6 @@
       "publishedAt": "2026-10-13T18:25:28+00:00"
     },
     {
-      "id": "1d43685a27cbd82610548b1b",
-      "title": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
-      "summary": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T18:24:03+00:00"
-    },
-    {
       "id": "fc32a05787e5fe61ac66a079",
       "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
       "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
@@ -134,28 +398,6 @@
       "publishedAt": "2026-10-13T18:12:32+00:00"
     },
     {
-      "id": "f796062d79d5d9c78ad21fe1",
-      "title": "Carrie-Anne Moss on Her New Series Yaga and That John Wick 'Throwaway Line'",
-      "summary": "arrie-Anne Moss discusses her new AMC+ thriller Yaga, her lifelong interest in Baba Yaga folklore, and how she really feels about that meta John Wick line.",
-      "url": "https://www.ign.com/articles/carrie-anne-moss-yaga-amc-john-wick",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T18:00:00+00:00"
-    },
-    {
-      "id": "2579cf5d464f1c7851e4d1b9",
-      "title": "Save $500 Off the Acer Predator RTX 5080 Prebuilt Gaming PC With 32GB of RAM and 1TB SSD",
-      "summary": "Play every game comfortably in 4K.",
-      "url": "https://www.ign.com/articles/acer-predator-rtx-5080-gaming-pc-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T18:00:00+00:00"
-    },
-    {
       "id": "19e151152cf03b7268168b5e",
       "title": "Argentina targets UK in legal claim over Falklands oil exploration",
       "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
@@ -165,28 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-13T17:36:43+00:00"
-    },
-    {
-      "id": "0b236c7527d085562624bbf6",
-      "title": "Today’s Best Deals: Borderlands 4, Nothing Headphones, and MTG Lorwyn Eclipsed",
-      "summary": "Don’t miss out on 2-for-$25 4K horror flicks, LEGO discounts, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-october-13-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T17:30:00+00:00"
-    },
-    {
-      "id": "d101fc89801284251cb62ce6",
-      "title": "Nvidia Brings DLSS 5 to Hogwarts Legacy, but Some Fans Can't Tell the Difference",
-      "summary": "About a month after it debuted in NBA 2K27, DLSS 5 is now being added to Hogwarts Legacy, with a new, faster model.",
-      "url": "https://www.ign.com/articles/nvidia-brings-dlss-5-to-hogwarts-legacy-but-some-fans-cant-tell-the-difference",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T17:28:55+00:00"
     },
     {
       "id": "c915e3cfd47b0cd8dfdff36a",
@@ -222,72 +442,6 @@
       "publishedAt": "2026-10-13T17:04:37+00:00"
     },
     {
-      "id": "3cdbf7e378879d920301c8c4",
-      "title": "9 Newly Announced Games From IGN Fan Fest: Fall Edition to Add to Your Wishlist",
-      "summary": "Looking for your next gaming obsession? From relaxing adventures to terrifying horrors, here are 9 newly announced games from IGN Fan Fest: Fall Edition to add to your Steam wishlist.",
-      "url": "https://www.ign.com/articles/ign-fan-fest-fall-edition-9-new-games-wishlist",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T17:00:00+00:00"
-    },
-    {
-      "id": "21fcba8584ef89e4abe49050",
-      "title": "ID@Xbox Showcase Returns in October With 18 Games",
-      "summary": "Find out how to watch the ID@Xbox October 2026 Showcase on IGN, including start times, streaming platforms, and included games like at The Wolf Among Us Remastered.",
-      "url": "https://www.ign.com/articles/id-xbox-showcase-october-2026-how-to-watch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T17:00:00+00:00"
-    },
-    {
-      "id": "51ff170f0ad45c3912c67f39",
-      "title": "The X-Files Officially Reopen: Hulu Gives Series Order to Ryan Coogler's Reboot",
-      "summary": "Ryan Coogler's long-gestating reboot of The X-Files is a go, as Hulu has given the project a full series order.",
-      "url": "https://www.ign.com/articles/the-x-files-officially-reopen-hulu-gives-series-order-to-ryan-cooglers-reboot",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T16:57:03+00:00"
-    },
-    {
-      "id": "d7c33dd2a1f72fce3defb53e",
-      "title": "Over 1 Million Characters Have Been Made in the WoW Forever Beta",
-      "summary": "It's no secret that World of Warcraft Forever has been incredibly popular since entering its beta last month, but now, over 1 million characters have been made.",
-      "url": "https://www.ign.com/articles/over-1-million-characters-have-been-made-in-the-wow-forever-beta",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T16:51:32+00:00"
-    },
-    {
-      "id": "914064f6716a4dc6c1ccf687",
-      "title": "Sony Announces $350 All-Black PS5, but You Probably Can't Buy It",
-      "summary": "After a few price increases, the PS5 will now set you back $599 for the Digital edition, but Sony has just announced a cheaper $350 console – but it's exclusive to Japan.",
-      "url": "https://www.ign.com/articles/sony-announces-350-all-black-ps5-but-you-probably-cant-buy-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T16:49:54+00:00"
-    },
-    {
-      "id": "f4e84c651ecea25b1ab43a8b",
-      "title": "Pan’s Labyrinth Is Getting a Gorgeous 20th Anniversary 4K Steelbook – Here’s Where To Preorder It",
-      "summary": "Guillermo del Toro's film Pan’s Labyrinth is getting a 20th Anniversary Collector’s Edition 4K steelbook. While its release date is still to be determined, preorders for it are officially live for $35.39.",
-      "url": "https://www.ign.com/articles/pans-labyrinth-20th-anniversary-4k-steelbook-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T16:44:58+00:00"
-    },
-    {
       "id": "4fa680e6b570f19d65b555f6",
       "title": "Lunettes connectées : le régulateur européen demande de rendre « clairement visibles » les fonctions d’enregistrement au nom du respect de la vie privée",
       "summary": "Le Comité européen de la protection des données propose notamment de doter de ces appareils « des LED lumineuses, des signaux sonores, des commandes vocales, des notifications respectueuses de la vie privée sur smartphone ou encore grâce à un design distinctif » lorsqu’ils sont utilisés pour filmer ou enregistrer du son.",
@@ -297,28 +451,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-13T16:32:06+00:00"
-    },
-    {
-      "id": "73d87fbc2a6bac049a948d12",
-      "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
-      "summary": "Universal cables perfect for your Switch 2, Steam Deck, or iPhone 18.",
-      "url": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T16:15:00+00:00"
-    },
-    {
-      "id": "6d461ea3aa562cfc56ee69a7",
-      "title": "For This Week Only, the Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop With 32GB of RAM Drops to $1,449",
-      "summary": "Strong gaming chops in a slim and lightweight chassis.",
-      "url": "https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T16:10:00+00:00"
     },
     {
       "id": "a2973baaa7264b7b6b79641e",
@@ -341,28 +473,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-13T15:52:15+00:00"
-    },
-    {
-      "id": "cc47eb8133d68da053cfae22",
-      "title": "$150 God of War Laufey Collector Box Revealed, No Game Included",
-      "summary": "God of War Laufey is the next big game to get a collector box without the game itself.",
-      "url": "https://www.ign.com/articles/150-god-of-war-laufey-collector-box-revealed-no-game-included",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T15:35:05+00:00"
-    },
-    {
-      "id": "cd157f297ce4b2102ca1deb1",
-      "title": "Crystal Lake Review",
-      "summary": "Review: Crystal Lake works in large part thanks to Linda Cardellini’s turn as Pamela Voorhees, while showrunner Brad Caleb Kane brings a thorough knowledge of the original Friday the 13th movies to the series.",
-      "url": "https://www.ign.com/articles/crystal-lake-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T15:30:00+00:00"
     },
     {
       "id": "ffd37ac4da4940824461b378",
@@ -409,17 +519,6 @@
       "publishedAt": "2026-10-13T14:14:49+00:00"
     },
     {
-      "id": "4435ba7168bde94dca66c497",
-      "title": "Ex-president named leader of new DR Congo rebel coalition",
-      "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
-      "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T13:40:45+00:00"
-    },
-    {
       "id": "c4043058cc4d2433afc46e0f",
       "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
       "summary": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
@@ -429,17 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-13T13:27:31+00:00"
-    },
-    {
-      "id": "c9cdce78c086d4e3a759e08a",
-      "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-      "summary": "LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T13:23:45+00:00"
     },
     {
       "id": "c1926627ee87d288556c4d98",
@@ -462,17 +550,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-13T12:03:51+00:00"
-    },
-    {
-      "id": "733b8d8a3ba9653574b020b9",
-      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-      "summary": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
-      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T11:18:44+00:00"
     },
     {
       "id": "ccb4e8334d7c7baafc515783",
@@ -508,39 +585,6 @@
       "publishedAt": "2026-10-13T08:03:34+00:00"
     },
     {
-      "id": "c5fc72835c8f5658a8df3cf9",
-      "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-      "summary": "Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T05:02:57+00:00"
-    },
-    {
-      "id": "d6852d304a50d39a6fb8b0c8",
-      "title": "Where the US midterm elections will be won and lost",
-      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T05:02:44+00:00"
-    },
-    {
-      "id": "9052f27b322a3786965c5fea",
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T05:02:34+00:00"
-    },
-    {
       "id": "d131878ee414fb1710f790bd",
       "title": "A quel point ChatGPT a-t-il progressé depuis son lancement ?",
       "summary": "Compréhension, raisonnement, créativité… Les chatbots IA ont franchi en bientôt quatre ans plusieurs paliers importants. Les tests en la matière montrent qu’ils restent toutefois gaffeurs, et que leur « tête » demeure plus pleine que bien faite.",
@@ -574,17 +618,6 @@
       "publishedAt": "2026-10-13T01:19:07+00:00"
     },
     {
-      "id": "b0d5e73d78d631ed9fe0b81d",
-      "title": "Boardroom feud tests trusted Indian business empire",
-      "summary": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-12T23:10:32+00:00"
-    },
-    {
       "id": "3e5e92992aed6159173f8940",
       "title": "The island where locals say data centres are taking their water",
       "summary": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
@@ -605,17 +638,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-12T17:29:45+00:00"
-    },
-    {
-      "id": "e969db6ce1bc3cf2d3d1a74f",
-      "title": "What could Trump's energy ceasefire mean for Ukraine?",
-      "summary": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
-      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-12T15:51:30+00:00"
     },
     {
       "id": "1586f597340413b719af9f3a",
@@ -682,17 +704,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-12T07:47:37+00:00"
-    },
-    {
-      "id": "21bb36ab42f281ac0a589b71",
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-12T05:00:52+00:00"
     },
     {
       "id": "b02ca39a48f1f21328077981",
@@ -805,17 +816,6 @@
       "publishedAt": "2026-10-10T01:00:00+00:00"
     },
     {
-      "id": "462f8081e7300b1ed356f93c",
-      "title": "Primaire à gauche : le vote est prolongé jusqu’à dimanche 18 heures, en raison de la cyberattaque qui a visé la plateforme",
-      "summary": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie. A 19 heures, vendredi soir, le scrutin ne comptait que 20 000 votants sur 140 000 inscrits.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-le-vote-prolonge-jusqu-a-dimanche-18-heures-en-raison-de-la-cyberattaque-qui-a-vise-la-plateforme_6790554_823449.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-09T17:49:57+00:00"
-    },
-    {
       "id": "91179671a118c858994368c1",
       "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
       "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
@@ -858,28 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-09T07:14:30+00:00"
-    },
-    {
-      "id": "83a8dc366c5513561c6494c6",
-      "title": "'Careless use of AI is the real threat - not the ghost stories'",
-      "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
-      "url": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-09T07:05:01+00:00"
-    },
-    {
-      "id": "3965f4c2f7e5ad8ed184a5f8",
-      "title": "Why are more roofs not made of solar tiles?",
-      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-08T23:09:56+00:00"
     },
     {
       "id": "f30f25f8ffa4dd5d33d64b45",
@@ -946,17 +924,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-19T01:00:00+00:00"
-    },
-    {
-      "id": "42669b47f51c97bac0b03341",
-      "title": "Tech Life",
-      "summary": "What should children learn in a world transformed by artificial intelligence?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-15T19:30:00+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
