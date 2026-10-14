@@ -1,6 +1,347 @@
 {
-  "updatedAt": "2026-10-14T08:13:25.385400+00:00",
+  "updatedAt": "2026-10-14T14:12:37.392815+00:00",
   "items": [
+    {
+      "id": "fdf705de7c6629657d1b0312",
+      "title": "'The Library Loads 30x Faster’ – The New, Much Speedier Epic Games Launcher Has Arrived",
+      "summary": "The newly rebuilt Epic Games Launcher is now available to download in preview, and it promises speedier load times than both the old version and Steam.",
+      "url": "https://www.ign.com/articles/the-library-loads-30x-faster-the-new-much-speedier-epic-games-launcher-has-arrived",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T13:55:04+00:00"
+    },
+    {
+      "id": "1bc10a2e619470dddd44acce",
+      "title": "Borderlands 4 Plummets to $20 at Amazon, Hitting New Low Price",
+      "summary": "Borderlands 4 on PS5 and Xbox Series X has dropped to $19.91 at Amazon. That's 60% off its list price, but also marks a brand new low for it at the retailer.",
+      "url": "https://www.ign.com/articles/borderlands-4-plummets-to-20-at-amazon-hitting-new-low-price",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T13:49:04+00:00"
+    },
+    {
+      "id": "adc24cd6f145c4632b967171",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T13:41:51+00:00"
+    },
+    {
+      "id": "efa45d4633774477f331bcff",
+      "title": "US inflation rises more than expected ahead of midterm elections",
+      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T13:40:36+00:00"
+    },
+    {
+      "id": "4a193844397d313730d70ce8",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T13:11:17+00:00"
+    },
+    {
+      "id": "6d3002cb7949c9d38e5c4299",
+      "title": "Thélyson Orélien soutenu par son éditeur québécois après son démenti sur l’IA",
+      "summary": "L’écrivain canado-haïtien, accusé d’avoir utilisé l’IA pour écrire son premier roman, « C’était ça ou mourir », est sorti de son silence mardi pour se défendre de cette accusation, tout en reconnaissant des faits de plagiat dans d’autres textes.",
+      "url": "https://www.lemonde.fr/livres/article/2026/10/14/thelyson-orelien-soutenu-par-son-editeur-quebecois-apres-son-dementi-sur-l-ia_6793744_3260.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-14T13:10:40+00:00"
+    },
+    {
+      "id": "915b26532722e4c2749bb9dd",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T13:09:51+00:00"
+    },
+    {
+      "id": "a2203c03967d099b7f86374c",
+      "title": "29 New Changes in the Zelda: Ocarina of Time Remake — Redesigned Puzzles, Updated Miniboss Fights, and Deeper Dialogue",
+      "summary": "I played more than an hour of The Legend of Zelda: Ocarina of Time on Switch 2, and as someone who’s finished the original several times, I noticed a lot of small changes that shine some light on the thought process behind recreating this adventure. It seems everything was on the table when considering what to tweak: altered puzzles more closely fi",
+      "url": "https://www.ign.com/articles/29-new-changes-in-the-zelda-ocarina-of-time-remake-redesigned-puzzles-updated-miniboss-fights-and-deeper-dialogue",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "id": "340f6f97ca250178c58e8bca",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Is Surprisingly More Different Than You Think | IGN Preview",
+      "summary": "The Legend of Zelda: Ocarina of Time is far from a 1:1 remake. When I played it, I found familiar rooms containing redesigned challenges that change how the world and player function. I spoke to old friends who had new things to say that added texture to Hyrule and its people. And, I unpacked how its updated controls and detailed art design redefin",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-more-different-than-you-think-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "id": "0f09044736846d0a79a719e8",
+      "title": "GTA 6 Leaker Releases New Gameplay Video Showing Snippets of the Final Missions, Declares 'The End of the Road' After Crypto Scheme Collapses",
+      "summary": "Cyberleek has released a new GTA 6 gameplay video showing snippets of the ending, and declared \"the end of the road\" after their crypto scheme collapsed.",
+      "url": "https://www.ign.com/articles/gta-6-leaker-releases-new-gameplay-video-showing-snippets-of-the-final-missions-declares-the-end-of-the-road-after-crypto-scheme-collapses",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T12:47:35+00:00"
+    },
+    {
+      "id": "51c7704fcd17e5ea1b002486",
+      "title": "Deathstroke Star Joe Manganiello Speaks Out About Ben Affleck's Canceled Batman Movie",
+      "summary": "Deathstroke actor Joe Manganiello has opened up about the impact the cancellation of Ben Affleck’s Batman movie had on him.",
+      "url": "https://www.ign.com/articles/deathstroke-star-speaks-out-ben-affleck-cancelled-batman-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T12:27:50+00:00"
+    },
+    {
+      "id": "d61c0ea94f0fa7b966060eb5",
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T12:26:13+00:00"
+    },
+    {
+      "id": "5c029babce27df5dc4237924",
+      "title": "Sense and Sensibility Review",
+      "summary": "Sense and Sensibility review: A plain Jane adaptation of a classic romance.",
+      "url": "https://www.ign.com/articles/sense-and-sensibility-2026-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T12:00:00+00:00"
+    },
+    {
+      "id": "158b1056a5d23959015a6349",
+      "title": "Rockstar Pushes Back on Rumor GTA 6 Cost More Than $1.5 Billion to Make, but It's Still Probably the Most Expensive Video Game of All Time",
+      "summary": "Rockstar has insisted GTA 6 did not cost more than $1.5 billion to make, countering an online rumor, but it’s still probably the most expensive video game of all time.",
+      "url": "https://www.ign.com/articles/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billion-to-make-but-its-still-probably-the-most-expensive-video-game-of-all-time",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T11:53:58+00:00"
+    },
+    {
+      "id": "8e7edddf2deaae6dcca2bcda",
+      "title": "Amazon Has a Sale on MTG x Marvel Super Heroes Boosters Right Now, Including Some Big Price Drops",
+      "summary": "Save big bucks on Magic: The Gathering’s Marvel Super Heroes set at Amazon, including Commander precons, Play Boosters, and some sneaky Collector bundles before Darkhold Destiny launches next year.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-marvel-super-hero-deals-amazon-new",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T11:39:35+00:00"
+    },
+    {
+      "id": "bf7080693537b7c7abe27d59",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "summary": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T11:24:25+00:00"
+    },
+    {
+      "id": "13da1488f5a4748d09640082",
+      "title": "Battlefield 6 Skins With Way Too Many Pistols and Spelling Errors Spark AI Accusations",
+      "summary": "Battlefield 6 has come under fire from fans after its latest battle pass was found to include new character skins with some pretty clear design flaws.",
+      "url": "https://www.ign.com/articles/battlefield-6-skins-generative-ai-accusations",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T11:19:39+00:00"
+    },
+    {
+      "id": "ca090952421ad39e7ddbbc41",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T11:17:51+00:00"
+    },
+    {
+      "id": "2beb1e51864cf43ea8c0d660",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T11:08:47+00:00"
+    },
+    {
+      "id": "16c4c9fb355b1488be6c2d3e",
+      "title": "Mini PCs Are All The Rage: See What All The Fuss Is About With This AliExpress Deal That Saves You Hundreds",
+      "summary": "Save big on this Windows 11 mini PC from GMKtec and get to work for a fraction of the cost of a rival model.",
+      "url": "https://www.ign.com/articles/mini-pcs-are-all-the-rage-see-what-all-the-fuss-is-about-with-this-aliexpress-deal-that-saves-you-hundreds",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T10:59:10+00:00"
+    },
+    {
+      "id": "b825112e482241a8d3cb7d3b",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T10:50:11+00:00"
+    },
+    {
+      "id": "ae8b806d3d7567abcb636945",
+      "title": "GTA 6 Developer Rockstar Insists Its Next Game Won't Take Another 8 Years to Make",
+      "summary": "Rockstar has promised that its next game following GTA 6 won’t take as long to come out, although it failed to hint at what it might be.",
+      "url": "https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T10:48:41+00:00"
+    },
+    {
+      "id": "4ca156621a641959edb55d30",
+      "title": "Pokémon TCG: Delta Reign Booster Bundle Preorders Have Already Gotten a $25 Price Drop at Walmart — Now $55 for Six Packs",
+      "summary": "Preorder the Pokémon TCG Delta Reign Booster Bundle for $54.49 at Walmart, nearly $20 below market price and $10 cheaper than Amazon.",
+      "url": "https://www.ign.com/articles/pokemon-tcg-delta-reign-booster-bundle-walmart-preorder-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T10:47:44+00:00"
+    },
+    {
+      "id": "25777290f6a66af8633f64dc",
+      "title": "Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed for Campaign, DMZ, and the Full Game",
+      "summary": "Activision has confirmed the global release times and preload details for Call of Duty: Modern Warfare 4, which launches in various parts over the coming weeks.",
+      "url": "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T10:23:20+00:00"
+    },
+    {
+      "id": "a346439c7786f81e59b3f576",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T10:08:26+00:00"
+    },
+    {
+      "id": "fe3f3eb1846426f7568a7c1b",
+      "title": "« Les futurs incidents seront bien plus dommageables » : plus de 200 chercheurs spécialisés dans l’IA réclament des « changements immédiats »",
+      "summary": "Cette lettre paraît après une série d’incidents au cours desquels des IA d’OpenAI, d’Anthropic et de Meta sont sorties de leur milieu confiné pour pirater d’autres organisations.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/14/ia-plus-de-200-chercheurs-reclament-des-changements-immediats-pour-prevenir-des-incidents-majeurs_6793717_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-14T09:49:04+00:00"
+    },
+    {
+      "id": "d9e845eefeefa0e9612fda0e",
+      "title": "Ubisoft Cuts 70 Staff From Skull and Bones Dev, Shuts Down Trials Studio RedLynx",
+      "summary": "The cuts and studio shutdowns continue at Ubisoft, this time with layoffs hitting the developer of Skull and Bones and the closure of Trials maker RedLynx.",
+      "url": "https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-14T09:40:47+00:00"
+    },
+    {
+      "id": "183ddf7af43812bb7517d5c5",
+      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
+      "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T09:25:03+00:00"
+    },
+    {
+      "id": "3052143d5883d088486f3d53",
+      "title": "« Epic Games, le créateur de “Fortnite”, confie les premiers rôles aux machines et l’assume : c’était ça ou mourir »",
+      "summary": "Dans une industrie du jeu vidéo minée par les coûts, le recours à l’intelligence artificielle paraît inévitable. Cette évolution soulève une question essentielle pour la création : jusqu’où aller sans perdre son âme ?, se demande Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/14/epic-games-le-createur-de-fortnite-confie-les-premiers-roles-aux-machines-et-l-assume-c-etait-ca-ou-mourir_6793676_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-14T08:45:13+00:00"
+    },
+    {
+      "id": "99f80413b473d19da5536d1b",
+      "title": "Orange investit dans un nouveau câble sous-marin pour relier l’Europe continentale aux centres de données en Irlande",
+      "summary": "Cette nouvelle autoroute de fibre optique reliera directement l’Irlande, la France, l’Espagne et le Portugal à partir de 2029. Elle a vocation à fournir un accès ultrarapide aux data centers irlandais des géants de la tech utilisés pour l’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/14/orange-investit-dans-un-nouveau-cable-sous-marin-pour-relier-l-europe-continentale-aux-centres-de-donnees-en-irlande_6793672_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-14T08:30:09+00:00"
+    },
+    {
+      "id": "22713e7932ad30858db37cde",
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-14T08:27:17+00:00"
+    },
     {
       "id": "d8bee1c96628bc51e276ca52",
       "title": "Russia arrests Japanese journalist on spying charges",
@@ -13,59 +354,15 @@
       "publishedAt": "2026-10-14T08:00:03+00:00"
     },
     {
-      "id": "ca090952421ad39e7ddbbc41",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "id": "ceeefea95a6e2c6f37e721c2",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-14T07:23:46+00:00"
-    },
-    {
-      "id": "8206c0fbe01af634588f1da3",
-      "title": "'Spray and pray': How AI job applications can backfire",
-      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-14T06:52:33+00:00"
-    },
-    {
-      "id": "35b05e2f6dc922534911ab09",
-      "title": "Turkey police raid opposition TV station, halting live broadcasts",
-      "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
-      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-14T06:32:02+00:00"
-    },
-    {
-      "id": "448bda2d2fdf84340a2f818a",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-14T04:36:06+00:00"
-    },
-    {
-      "id": "af2e7c2e01ce403b73dba2db",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-14T04:20:17+00:00"
+      "publishedAt": "2026-10-14T05:00:35+00:00"
     },
     {
       "id": "f591c5ca650a20725652b6f4",
@@ -90,8 +387,8 @@
       "publishedAt": "2026-10-14T03:30:15+00:00"
     },
     {
-      "id": "77d4e9c861b6d085561725cd",
-      "title": "Jensen Huang, patron de Nvidia, Jensen Huang, s’assume en « optimiste » sur les risques de l’IA, la souveraineté ou l’emploi",
+      "id": "1acd35160e2d796bb233f39e",
+      "title": "Jensen Huang, patron de Nvidia, s’assume en « optimiste » sur les risques de l’IA, la souveraineté ou l’emploi",
       "summary": "Le PDG du leader mondial des puces électroniques était de passage à Paris mardi pour annoncer plusieurs investissements en France, notamment dans Doctolib.",
       "url": "https://www.lemonde.fr/economie/article/2026/10/14/le-patron-de-nvidia-jensen-huang-s-assume-en-optimiste-sur-les-risques-de-l-ia-la-souverainete-ou-l-emploi_6793390_3234.html",
       "imageUrl": null,
@@ -134,9 +431,9 @@
       "publishedAt": "2026-10-14T01:20:00+00:00"
     },
     {
-      "id": "f11c09ab1ab711f0adc50827",
-      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
-      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "id": "5a227f4f44a522e0fe65149c",
+      "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
+      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park.",
       "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -154,17 +451,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-14T00:30:00+00:00"
-    },
-    {
-      "id": "adc24cd6f145c4632b967171",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T23:42:22+00:00"
     },
     {
       "id": "9a8b89e98565969d65fbc5a5",
@@ -233,28 +519,6 @@
       "publishedAt": "2026-10-13T22:40:00+00:00"
     },
     {
-      "id": "5678a3c1794d9dd6df3f2999",
-      "title": "The Bose QuietComfort Noise Canceling Headphones Retail for $359, But You Can Get a Pair for Just $123",
-      "summary": "Ships directly from Bose.",
-      "url": "https://www.ign.com/articles/bose-quietcomfort-noise-canceling-headphone-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T22:35:00+00:00"
-    },
-    {
-      "id": "766484156764913cb34a69cb",
-      "title": "Razer Reveals New Pokémon Gaming Headsets Featuring Sylveon, Charizard, and Lucario",
-      "summary": "",
-      "url": "https://www.ign.com/articles/razer-reveals-3-new-pokemon-gaming-headsets-based-on-sylveon-charizard-lucario",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T22:28:45+00:00"
-    },
-    {
       "id": "2d13b3fc184af5c220e0ad7d",
       "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
       "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
@@ -310,114 +574,15 @@
       "publishedAt": "2026-10-13T21:42:49+00:00"
     },
     {
-      "id": "e346ece2a93a7f8d8a32409e",
-      "title": "The Slick Looking TSA-Approved Talix 20,000mAh 140W Power Bank Drops to $39 Shipped",
-      "summary": "Fast charges the most powerful handheld gaming PCs or MacBook Pro laptops, with style.",
-      "url": "https://www.ign.com/articles/talix-20000mah-140w-power-bank-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T21:30:00+00:00"
-    },
-    {
-      "id": "f895901f640b0d5a7b262a5d",
-      "title": "Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?",
-      "summary": "We are just a little over 30 days until the release of GTA 6, which begs the question: will you be taking time off of work or school to play it?",
-      "url": "https://www.ign.com/articles/will-you-be-taking-time-off-work-or-school-for-gta-6s-release-next-month",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T20:47:09+00:00"
-    },
-    {
       "id": "51eb917135ea2f92bc61da9e",
       "title": "OpenAI annonce l’arrestation d’un employé soupçonné d’avoir posé un micro dans l’entreprise",
-      "summary": "L’employé, que le créateur de ChatGPT avait signalé au FBI, est accusé d’avoir caché un « appareil d’enregistrement sophistiqué » dans une salle de réunion, et d’avoir voulu en installer d’autres dans des espaces sensibles. Il a été licencié le 9 octobre, jour de son arrestation.",
+      "summary": "L’employé, que le créateur de ChatGPT avait signalé au FBI, est accusé d’avoir caché un « appareil d’enregistrement sophistiqué » dans une salle de réunion. Il a été licencié le 9 octobre, jour de son arrestation.",
       "url": "https://www.lemonde.fr/international/article/2026/10/13/openai-annonce-l-arrestation-d-un-employe-soupconne-d-avoir-pose-un-micro-dans-l-entreprise_6793179_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-13T20:41:19+00:00"
-    },
-    {
-      "id": "9eb2610eaf047d43b7b27bbf",
-      "title": "SPECS, Snap's First-Ever AR Glasses, Ships Out This Fall",
-      "summary": "A new, lightweight and stylish personal wearable computer.",
-      "url": "https://www.ign.com/articles/specs-snaps-first-ever-ar-glasses-ships-out-this-fall",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T20:40:00+00:00"
-    },
-    {
-      "id": "a9e351abd6dae2784a773297",
-      "title": "The Steelseries Arctis Nova Pro Omni Gaming Headset With Infinite Battery Life Drops to a New Price Low",
-      "summary": "Successor to the venerable Arctis Nova Pro.",
-      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T20:25:00+00:00"
-    },
-    {
-      "id": "111e7d029c5d60cb7102c287",
-      "title": "I Didn't Want a Greta Gerwig Narnia Movie... Until I Watched the Magician's Nephew Trailer",
-      "summary": "We didn't think the world needed a Narnia reboot, at least until the trailer for Greta Gerwig's The Magician's Nephew showed us just how wrong we were.",
-      "url": "https://www.ign.com/articles/magicians-nephew-trailer-greta-gerwig-narnia",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T20:21:41+00:00"
-    },
-    {
-      "id": "6a7d975d61a26dd3afb07ecf",
-      "title": "Send in the Clown Gameplay Trailer Focuses On Its Hilarious, One-and-Only Turn-Based RPG Battle | IGN Fan Fest 2026",
-      "summary": "As part of IGN Fan Fest 2026: Fall Edition, we can reveal a new gameplay trailer for Send in the Clown, the upcoming one-hour comedy RPG where players become history's least-appreciated clown as he tries to save a 12-year-old's birthday from her brat brother.",
-      "url": "https://www.ign.com/articles/send-in-the-clown-gameplay-trailer-focuses-on-its-hilarious-one-and-only-turn-based-rpg-battle",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T20:00:00+00:00"
-    },
-    {
-      "id": "7be07908da3e1ff2485f53c8",
-      "title": "The Talix 20,000mAh Power Bank With 190W of Total Power Output Over USB-C Drops to Just $29.99",
-      "summary": "Can fast charge the 2026 Apple MacBook Pro 16\" M5, ASUS ROG Xbox Ally X20, and more.",
-      "url": "https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T20:00:00+00:00"
-    },
-    {
-      "id": "a346439c7786f81e59b3f576",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T19:51:14+00:00"
-    },
-    {
-      "id": "3763574db34774cae82ee875",
-      "title": "K/DA Reactivates Social Accounts, Fueling Rumors of the Virtual K-Pop Group’s Comeback After 6 Years",
-      "summary": "Official K/DA accounts have been updated for the first time in six years. New profile and banner images continue to show the existing promotional art from the All Out era, now with the addition of hot pink flames. The reactivated accounts have also wiped existing posts, fueling rumors that the virtual girl group is gearing up for a comeback.",
-      "url": "https://www.ign.com/articles/kda-reactivates-social-accounts-fueling-rumors-of-the-virtual-k-pop-groups-comeback",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T19:45:50+00:00"
     },
     {
       "id": "284d2eb2182c7753aa4fef44",
@@ -440,72 +605,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-13T19:23:28+00:00"
-    },
-    {
-      "id": "5e3dc468adfc0dd86b4e0caa",
-      "title": "Get a Bose Soundbar for Under $100 With eBay's Early Holiday 25% Off Coupon Code",
-      "summary": "An affordable yet significant upgrade from your anemic built-in TV speakers.",
-      "url": "https://www.ign.com/articles/bose-solo-soundbar-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T19:20:00+00:00"
-    },
-    {
-      "id": "52c1401d363cf0402f9b5975",
-      "title": "Officially Licensed Fallout Bookends Are Up for Preorder for a Whopping $325",
-      "summary": "",
-      "url": "https://www.ign.com/articles/officially-licensed-fallout-bookends-are-up-for-preorder",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T19:02:57+00:00"
-    },
-    {
-      "id": "a86d504fcbc711283405aa3d",
-      "title": "Xbox Announces Xbox Labs, Aimed in Part at Getting Improved Old-Gen Games Playable in Web Browsers",
-      "summary": "Xbox has announced Xbox Labs, a new initiative aimed at getting games to more people in more places — with a particular emphasis on web browsers.",
-      "url": "https://www.ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T19:00:00+00:00"
-    },
-    {
-      "id": "4b3bcfd4c0b5dfa66d8e028e",
-      "title": "The Best Street Fighter Anime You've Never Seen",
-      "summary": "The latest Street Fighter movie is hurricane-kicking its way into theaters on October 16 — but did you know there was a critically acclaimed animated film that came out decades before it?",
-      "url": "https://www.ign.com/articles/the-best-street-fighter-anime-youve-never-seen",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T18:49:19+00:00"
-    },
-    {
-      "id": "2a24c0a47012ad3038b42954",
-      "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
-      "summary": "Gain access to Paramount's new fall lineup including Avatar: Seven Havens, Dexter: Resurrection, and more.",
-      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-13T18:40:00+00:00"
-    },
-    {
-      "id": "2beb1e51864cf43ea8c0d660",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T18:25:28+00:00"
     },
     {
       "id": "fc32a05787e5fe61ac66a079",
@@ -572,17 +671,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-13T15:59:07+00:00"
-    },
-    {
-      "id": "a15e82ea4c142273dec68674",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T15:52:15+00:00"
     },
     {
       "id": "ffd37ac4da4940824461b378",
@@ -717,28 +805,6 @@
       "publishedAt": "2026-10-12T11:03:04+00:00"
     },
     {
-      "id": "cec2e0050d8e7a32759d46e4",
-      "title": "Stéphane Nepton, l’artiste qui fait voyager les savoirs ancestraux dans les nouvelles technologies",
-      "summary": "Après deux décennies dans l’industrie du jeu vidéo, le Québécois issu du peuple innu met la création numérique au service des cultures des Premières Nations. Avec une conviction : les peuples autochtones doivent pouvoir s’en emparer pour raconter eux-mêmes leur histoire.",
-      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/10/12/stephane-nepton-l-artiste-qui-fait-voyager-les-savoirs-ancestraux-dans-les-nouvelles-technologies_6792601_6065879.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-12T09:00:06+00:00"
-    },
-    {
-      "id": "7111ef230f877b745b355034",
-      "title": "Au Royaume-Uni, Slough, capitale européenne des centres de données, se rebelle",
-      "summary": "L’opposition est vive dans le pays face aux nombreux projets de centres de données mis en consultation. Elle n’est nulle part plus apparente qu’à Slough, une ville du Berkshire qui en compte déjà une quarantaine.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/12/au-royaume-uni-slough-capitale-europeenne-des-centres-de-donnees-se-rebelle_6792597_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-12T08:00:09+00:00"
-    },
-    {
       "id": "376c52ec3992b0666a38545d",
       "title": "AI is less regulated than milk, says Microsoft president",
       "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
@@ -748,28 +814,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-12T07:47:37+00:00"
-    },
-    {
-      "id": "b02ca39a48f1f21328077981",
-      "title": "Derrière le site complotiste Géopolitique profonde, plagiat, IA et sous-traitance à Madagascar",
-      "summary": "Ce site majeur de la complosphère française fait appel à des rédacteurs malgaches pour copier-coller des articles trouvés sur Internet et les soumettre à une intelligence artificielle chargée de leur donner une tonalité « plutôt pro-droite, pro-Trump, pro-Poutine, anti-UE ».",
-      "url": "https://www.lemonde.fr/afrique/article/2026/10/11/derriere-le-site-complotiste-geopolitique-profonde-plagiat-ia-et-sous-traitance-a-madagascar_6791783_3212.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-11T12:00:01+00:00"
-    },
-    {
-      "id": "a54aa4f67973ef2e22adfd3b",
-      "title": "La fin contrariée du grand chantier d’installation de la fibre optique en France",
-      "summary": "Entre les difficultés à raccorder les derniers logements, le coût des réseaux ruraux et les malfaçons, l’achèvement de ce gigantesque chantier suscite des inquiétudes.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/11/la-fin-contrariee-du-grand-chantier-d-installation-de-la-fibre-optique-en-france_6791510_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-11T08:00:02+00:00"
     },
     {
       "id": "e0f58ee9e2f1aeb2c80aa0d2",
