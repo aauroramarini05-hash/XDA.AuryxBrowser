@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-14T02:49:41.315559+00:00",
+  "updatedAt": "2026-10-14T08:13:25.385400+00:00",
   "items": [
+    {
+      "id": "d8bee1c96628bc51e276ca52",
+      "title": "Russia arrests Japanese journalist on spying charges",
+      "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T08:00:03+00:00"
+    },
+    {
+      "id": "ca090952421ad39e7ddbbc41",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T07:23:46+00:00"
+    },
+    {
+      "id": "8206c0fbe01af634588f1da3",
+      "title": "'Spray and pray': How AI job applications can backfire",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-14T06:52:33+00:00"
+    },
+    {
+      "id": "35b05e2f6dc922534911ab09",
+      "title": "Turkey police raid opposition TV station, halting live broadcasts",
+      "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T06:32:02+00:00"
+    },
     {
       "id": "448bda2d2fdf84340a2f818a",
       "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
@@ -10,7 +54,73 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-14T01:56:57+00:00"
+      "publishedAt": "2026-10-14T04:36:06+00:00"
+    },
+    {
+      "id": "af2e7c2e01ce403b73dba2db",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T04:20:17+00:00"
+    },
+    {
+      "id": "f591c5ca650a20725652b6f4",
+      "title": "« A moyen terme, l’IA va contraindre les Etats à revoir en profondeur leurs systèmes fiscaux »",
+      "summary": "En remplaçant massivement des emplois, l’intelligence artificielle va éroder les recettes fiscales des Etats qui reposent largement sur la taxation du travail, souligne Marie Charrel, journaliste au « Monde », dans sa chronique.",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/14/a-moyen-terme-l-ia-va-contraindre-les-etats-a-revoir-en-profondeur-leurs-systemes-fiscaux_6793393_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-14T04:00:07+00:00"
+    },
+    {
+      "id": "a6ad9440f40767ca165b8f8a",
+      "title": "Présidentielle 2027 : l’Arcom réfléchit à des mécanismes de régulation pour les podcasts politiques les plus influents",
+      "summary": "Gaspard G, Guillaume Pley, Sam Zirah, etc., friands d’interviews de candidats à la présidentielle, sont invités par l’Autorité de régulation de la communication audiovisuelle et numérique à la réflexion pour un code de bonne conduite partagé.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/14/presidentielle-2027-l-arcom-reflechit-a-des-mecanismes-de-regulation-pour-les-podcasts-politiques-les-plus-influents_6793388_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-14T03:30:15+00:00"
+    },
+    {
+      "id": "77d4e9c861b6d085561725cd",
+      "title": "Jensen Huang, patron de Nvidia, Jensen Huang, s’assume en « optimiste » sur les risques de l’IA, la souveraineté ou l’emploi",
+      "summary": "Le PDG du leader mondial des puces électroniques était de passage à Paris mardi pour annoncer plusieurs investissements en France, notamment dans Doctolib.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/14/le-patron-de-nvidia-jensen-huang-s-assume-en-optimiste-sur-les-risques-de-l-ia-la-souverainete-ou-l-emploi_6793390_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-14T03:30:15+00:00"
+    },
+    {
+      "id": "648ecda96fa794ab79f6ca4c",
+      "title": "En Italie, Giorgia Meloni veut faire de sa voix une marque pour lutter contre les « deepfakes »",
+      "summary": "La présidente du conseil tente de se protéger contre ces montages ultraréalistes reprenant l’image de personnalités pour diffuser de fausses informations.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/14/en-italie-giorgia-meloni-veut-faire-de-sa-voix-une-marque-pour-lutter-contre-les-deepfakes_6793319_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-14T03:00:34+00:00"
+    },
+    {
+      "id": "30abb96fccbdb654db70a1d8",
+      "title": "Lena Dunham's Girls to return for limited HBO run",
+      "summary": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-14T02:09:30+00:00"
     },
     {
       "id": "21183329d11dff17a18b367c",
@@ -44,17 +154,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-14T00:30:00+00:00"
-    },
-    {
-      "id": "ca090952421ad39e7ddbbc41",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-14T00:17:00+00:00"
     },
     {
       "id": "adc24cd6f145c4632b967171",
@@ -112,17 +211,6 @@
       "publishedAt": "2026-10-13T23:05:29+00:00"
     },
     {
-      "id": "31e16e5fea72bdd4e5127c2b",
-      "title": "Is it OK for jobseekers or employers to use AI?",
-      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-13T23:04:39+00:00"
-    },
-    {
       "id": "3ac5a40c727ccab26a73514b",
       "title": "Peak Has Been Leaked for PS5 by the ESRB",
       "summary": "The beloved co-op adventure game, Peak, has been leaked for PS5 by the ESRB.",
@@ -154,17 +242,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-13T22:35:00+00:00"
-    },
-    {
-      "id": "af2e7c2e01ce403b73dba2db",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T22:29:55+00:00"
     },
     {
       "id": "766484156764913cb34a69cb",
@@ -200,8 +277,8 @@
       "publishedAt": "2026-10-13T22:02:09+00:00"
     },
     {
-      "id": "ef38f2beb250cc24e5365f16",
-      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "id": "2f3a209b10480f2e53b97d8a",
+      "title": "Who's to blame for the toxic haze choking South East Asia?",
       "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
       "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -222,8 +299,8 @@
       "publishedAt": "2026-10-13T22:00:20+00:00"
     },
     {
-      "id": "3dcf2a752a9d9712d3bfdd2c",
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "id": "69ee2404e63b49e431f1d479",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
       "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -442,17 +519,6 @@
       "publishedAt": "2026-10-13T18:23:22+00:00"
     },
     {
-      "id": "19e151152cf03b7268168b5e",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T17:36:43+00:00"
-    },
-    {
       "id": "c915e3cfd47b0cd8dfdff36a",
       "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
       "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
@@ -464,15 +530,15 @@
       "publishedAt": "2026-10-13T17:10:50+00:00"
     },
     {
-      "id": "68992fba5ae669d93e72ab73",
-      "title": "IA : l’entreprise américaine Nvidia entre au capital du français Doctolib en tant qu’actionnaire minoritaire",
-      "summary": "Cette participation de cet acteur majeur des puces au capital de la plateforme française a vocation à « lancer la révolution de l’intelligence artificielle en Europe », a déclaré le patron de Nvidia, Jensen Huang.",
+      "id": "d9d9ba17434881ebc84adb4b",
+      "title": "Doctolib : Nvidia va entrer au capital en tant qu’actionnaire minoritaire pour « lancer la révolution de l’IA en Europe »",
+      "summary": "L’entreprise américaine a investi au moins 8 milliards de dollars en Europe l’année dernière, a précisé son patron, Jensen Huang, affirmant avoir également investi dans les entreprises d’IA françaises Genesis IA et Pigment.",
       "url": "https://www.lemonde.fr/pixels/article/2026/10/13/ia-l-entreprise-americaine-nvidia-entre-au-capital-du-francais-doctolib-en-tant-qu-actionnaire-minoritaire_6793162_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-10-13T17:06:03+00:00"
+      "publishedAt": "2026-10-13T17:06:01+00:00"
     },
     {
       "id": "96c289d551a6b4ae153175aa",
@@ -527,7 +593,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-10-13T15:04:16+00:00"
+      "publishedAt": "2026-10-13T15:04:14+00:00"
     },
     {
       "id": "48941b7d79a7d3c130f962d2",
@@ -563,17 +629,6 @@
       "publishedAt": "2026-10-13T13:27:31+00:00"
     },
     {
-      "id": "afc23a87653574b7dc5ddbfc",
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T12:03:51+00:00"
-    },
-    {
       "id": "ccb4e8334d7c7baafc515783",
       "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
       "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
@@ -594,17 +649,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-13T09:00:24+00:00"
-    },
-    {
-      "id": "63086fb73d50cdc55987ea7f",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-13T08:03:34+00:00"
     },
     {
       "id": "d131878ee414fb1710f790bd",
@@ -739,17 +783,6 @@
       "publishedAt": "2026-10-10T15:56:32+00:00"
     },
     {
-      "id": "d1d3ca888af4891cbbfdd2a0",
-      "title": "« Sur l’IA, l’Europe ne peut pas attendre que les risques deviennent plus évidents »",
-      "summary": "Les universitaires américaines Marine Collins Ragnet et Katerina Siira enjoignent à la Commission européenne, dans une tribune au « Monde », de ne pas perdre de temps pour activer les outils dont elle dispose afin de réguler les entreprises d’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/10/sur-l-ia-l-europe-ne-peut-pas-attendre-que-les-risques-deviennent-plus-evidents_6790999_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-10T13:00:26+00:00"
-    },
-    {
       "id": "f264fae227216c11484996cd",
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
@@ -770,39 +803,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-10T09:31:14+00:00"
-    },
-    {
-      "id": "dcfc9770729473c8dae7c4fe",
-      "title": "La Turquie interdit les réseaux sociaux aux moins de 15 ans à partir du 1ᵉʳ novembre",
-      "summary": "Si la nouvelle législation vise avant tout à protéger les mineurs, elle entre en vigueur dans une période de restrictions de la liberté d’expression par Ankara, notamment dans les milieux LGBT+, les médias et l’espace politique.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/10/la-turquie-interdit-les-reseaux-sociaux-aux-moins-de-15-ans-a-partir-du-1-novembre_6790981_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-10T09:06:58+00:00"
-    },
-    {
-      "id": "d48c0470c1792349f5f89098",
-      "title": "Discord, le réseau social au cœur du procès de Rohan Rane, accusé de ne pas assez protéger les mineurs",
-      "summary": "La plateforme américaine, populaire chez les jeunes et les joueurs, est aussi régulièrement utilisée par des groupuscules ultraviolents, à l’image de celui fondé par l’étudiant indien, qui imposait des tortures sexuelles à des mineures, condamné vendredi. L’association e-Enfance alerte, par ailleurs, sur « l’explosion » de l’extorsion sexuelle qui ",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/10/discord-le-reseau-social-au-c-ur-du-proces-de-rohan-rane-accuse-de-ne-pas-assez-proteger-les-mineurs_6790966_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-10T07:00:03+00:00"
-    },
-    {
-      "id": "edf792e6d03d4876b82f8434",
-      "title": "Nouveau coup de massue d’OpenAI sur les mathématiciens : « Ils ont annihilé mon domaine de recherche »",
-      "summary": "Après les dernières annonces de l’entreprise américaine sur la résolution de plusieurs centaines de problèmes de maths, le médaillé Fields Hugo Duminil-Copin évoque un « démantèlement » de sa discipline. Il craint en particulier les conséquences de l’intelligence artificielle sur l’avenir des jeunes.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/10/nouveau-coup-de-massue-d-openai-sur-les-mathematiciens-ils-ont-annihile-mon-domaine-de-recherche_6790951_1650684.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-10T04:30:03+00:00"
     },
     {
       "id": "0f84069d86717cf352cf2878",
