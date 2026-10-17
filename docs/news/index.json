@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-17T07:20:23.295262+00:00",
+  "updatedAt": "2026-10-17T11:52:03.698723+00:00",
   "items": [
+    {
+      "id": "91a9be7c17b0add6ad82059e",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-17T10:46:41+00:00"
+    },
     {
       "id": "f48c4868a67ca213870c1f72",
       "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
@@ -10,7 +21,7 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-17T06:49:48+00:00"
+      "publishedAt": "2026-10-17T09:58:17+00:00"
     },
     {
       "id": "229caa1b7e96b0b78e7dfde3",
@@ -21,7 +32,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-17T06:39:40+00:00"
+      "publishedAt": "2026-10-17T09:42:13+00:00"
+    },
+    {
+      "id": "fb690d5f481b9c50c7313295",
+      "title": "La Chine veut contrôler la sortie de ses IA à l’étranger",
+      "summary": "Pékin a annoncé son intention d’encadrer les exportations de technologies d’intelligence artificielle les plus avancées, rompant ainsi avec la promotion affichée jusqu’alors d’une approche relativement ouverte.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/17/la-chine-veut-controler-la-sortie-de-ses-ia-a-l-etranger_6796167_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-17T09:30:00+00:00"
     },
     {
       "id": "c76be8216bdf1a6fc1a0e53e",
@@ -32,7 +54,18 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-17T05:20:40+00:00"
+      "publishedAt": "2026-10-17T09:14:10+00:00"
+    },
+    {
+      "id": "c22890fc176ac33e230f9d73",
+      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+      "summary": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-17T05:01:40+00:00"
     },
     {
       "id": "556cd9b129bcb1c45b1b4eec",
@@ -90,6 +123,17 @@
       "publishedAt": "2026-10-17T02:33:09+00:00"
     },
     {
+      "id": "7604d46024ad2ca337c30879",
+      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-17T01:55:45+00:00"
+    },
+    {
       "id": "6c0620c5506563df8e47cd3b",
       "title": "The uncertain future of Canada's 30 rescued belugas",
       "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
@@ -112,6 +156,17 @@
       "publishedAt": "2026-10-17T00:41:58+00:00"
     },
     {
+      "id": "42e62468237569b7c1c2c632",
+      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-17T00:38:34+00:00"
+    },
+    {
       "id": "4075378a80f6dc2a33f6d0cd",
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
@@ -121,17 +176,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-16T23:54:35+00:00"
-    },
-    {
-      "id": "76971dcdee0580b581c7cb13",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T23:20:37+00:00"
     },
     {
       "id": "6b49c36299e89531a5cf5d93",
@@ -400,7 +444,7 @@
     {
       "id": "ed5f1d986f64d3ee75e3d3f8",
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
       "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
@@ -453,17 +497,6 @@
       "publishedAt": "2026-10-16T15:04:01+00:00"
     },
     {
-      "id": "67612b2f69322320e270ba82",
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T14:57:51+00:00"
-    },
-    {
       "id": "f4672f57ab0276b7e184f266",
       "title": "Arnaques bancaires : lors d’une « opération non autorisée », la banque doit d’abord rembourser le client",
       "summary": "La Cour de justice de l’Union européenne rappelle un principe existant depuis de nombreuses années, mais qui n’est pas toujours respecté par les banques.",
@@ -475,17 +508,6 @@
       "publishedAt": "2026-10-16T14:38:50+00:00"
     },
     {
-      "id": "dfc90a925c9bd61cbd3c9451",
-      "title": "Albanian protests turn violent: What we know",
-      "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T14:33:32+00:00"
-    },
-    {
       "id": "5b0cc135b08371c2a12051e3",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
@@ -495,17 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-16T14:31:04+00:00"
-    },
-    {
-      "id": "c6ff7a42525732382bfce79b",
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T14:21:32+00:00"
     },
     {
       "id": "ce49f3648ed8c4bad286793d",
@@ -530,17 +541,6 @@
       "publishedAt": "2026-10-16T12:16:26+00:00"
     },
     {
-      "id": "effa881c023829daa79791aa",
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T11:44:31+00:00"
-    },
-    {
       "id": "e37bd3ba7b61ea38f59cc777",
       "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
       "summary": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
@@ -561,17 +561,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-16T09:00:04+00:00"
-    },
-    {
-      "id": "7bee5a3271676338dac1c884",
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T08:45:54+00:00"
     },
     {
       "id": "ad58c51c1b2a54ed93902631",
@@ -596,28 +585,6 @@
       "publishedAt": "2026-10-16T05:12:48+00:00"
     },
     {
-      "id": "d3d1dfe045c06b859a514840",
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T05:00:17+00:00"
-    },
-    {
-      "id": "ac188cd55e34df360a17bd4a",
-      "title": "They fled Russia, but the West sent them back",
-      "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T04:57:28+00:00"
-    },
-    {
       "id": "776ce2a32693d4715d3af880",
       "title": "Manifestation du 17 octobre : l’appel à se mobiliser circule largement en ligne, sans savoir comment cela va se traduire dans la rue",
       "summary": "De nombreuses publications sur les réseaux mettent en scène l’espoir de voir émerger des « gilets jeunes », une convergence entre la mobilisation lycéenne et le mouvement parti d’une colère contre les prix de l’essence.",
@@ -627,17 +594,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-16T03:00:23+00:00"
-    },
-    {
-      "id": "d36b165169134ad7466ff230",
-      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-15T23:38:46+00:00"
     },
     {
       "id": "6a7fac6a28c4ea006f0c01d7",
@@ -651,28 +607,6 @@
       "publishedAt": "2026-10-15T23:27:57+00:00"
     },
     {
-      "id": "9703170c506e85d35bbc2a24",
-      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-15T23:27:21+00:00"
-    },
-    {
-      "id": "0d0197f7f920be56259c71c6",
-      "title": "Are student protests being manipulated ahead of France's presidential election?",
-      "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-15T23:25:06+00:00"
-    },
-    {
       "id": "c064bd32279621b2b06f77b7",
       "title": "Living with a stink? Technology might help",
       "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
@@ -682,17 +616,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-15T23:18:21+00:00"
-    },
-    {
-      "id": "5f93dc601b5094c112943101",
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-15T17:47:22+00:00"
     },
     {
       "id": "91d4836ebbdce11d4de3f96c",
@@ -726,17 +649,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-15T15:38:59+00:00"
-    },
-    {
-      "id": "4b69fe52990c26b89e87c4b5",
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-15T15:26:16+00:00"
     },
     {
       "id": "e076c59a5e241f117dbafafb",
@@ -858,17 +770,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-14T08:45:13+00:00"
-    },
-    {
-      "id": "99f80413b473d19da5536d1b",
-      "title": "Orange investit dans un nouveau câble sous-marin pour relier l’Europe continentale aux centres de données en Irlande",
-      "summary": "Cette nouvelle autoroute de fibre optique reliera directement l’Irlande, la France, l’Espagne et le Portugal à partir de 2029. Elle a vocation à fournir un accès ultrarapide aux data centers irlandais des géants de la tech utilisés pour l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/14/orange-investit-dans-un-nouveau-cable-sous-marin-pour-relier-l-europe-continentale-aux-centres-de-donnees-en-irlande_6793672_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-14T08:30:09+00:00"
     },
     {
       "id": "22713e7932ad30858db37cde",
