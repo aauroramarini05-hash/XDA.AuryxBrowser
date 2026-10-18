@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-18T02:15:22.121755+00:00",
+  "updatedAt": "2026-10-18T07:34:35.219577+00:00",
   "items": [
+    {
+      "id": "9ef2df46f4569d62cf90dbe6",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-18T07:09:23+00:00"
+    },
+    {
+      "id": "f74a6585418cb6bacb4dfb8c",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-18T05:56:20+00:00"
+    },
+    {
+      "id": "0948c9c7bb82f956102f280f",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-18T05:04:31+00:00"
+    },
+    {
+      "id": "4df04d6f1dddb2ff6ef8b61b",
+      "title": "« La cyberattaque visant les congélateurs des supermarchés montre à quel point Internet et le monde physique sont désormais imbriqués »",
+      "summary": "Les hackeurs ne s’intéressent pas qu’à nos données. Leurs actions, comme le piratage, dans la nuit du 11 au 12 octobre, de plusieurs centaines de magasins, entraînant la destruction de grandes quantités de nourriture, ont des conséquences matérielles très concrètes, explique Damien Leloup, journaliste au service Pixels, dans sa chronique.",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/18/la-cyberattaque-visant-les-congelateurs-des-supermarches-montre-a-quel-point-internet-et-le-monde-physique-sont-desormais-imbriques_6796994_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-18T04:00:25+00:00"
+    },
     {
       "id": "229caa1b7e96b0b78e7dfde3",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -77,17 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-17T20:53:00+00:00"
-    },
-    {
-      "id": "77326f257139a4a81f219d4a",
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T20:52:17+00:00"
     },
     {
       "id": "4f831371de60ef34bf5bd77f",
@@ -310,17 +343,6 @@
       "publishedAt": "2026-10-17T02:33:09+00:00"
     },
     {
-      "id": "7604d46024ad2ca337c30879",
-      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-      "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T01:55:45+00:00"
-    },
-    {
       "id": "6c0620c5506563df8e47cd3b",
       "title": "The uncertain future of Canada's 30 rescued belugas",
       "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
@@ -341,28 +363,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-17T00:41:58+00:00"
-    },
-    {
-      "id": "42e62468237569b7c1c2c632",
-      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-      "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T00:38:34+00:00"
-    },
-    {
-      "id": "4075378a80f6dc2a33f6d0cd",
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T23:54:35+00:00"
     },
     {
       "id": "6b49c36299e89531a5cf5d93",
@@ -814,17 +814,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-14T09:49:04+00:00"
-    },
-    {
-      "id": "3052143d5883d088486f3d53",
-      "title": "« Epic Games, le créateur de “Fortnite”, confie les premiers rôles aux machines et l’assume : c’était ça ou mourir »",
-      "summary": "Dans une industrie du jeu vidéo minée par les coûts, le recours à l’intelligence artificielle paraît inévitable. Cette évolution soulève une question essentielle pour la création : jusqu’où aller sans perdre son âme ?, se demande Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/14/epic-games-le-createur-de-fortnite-confie-les-premiers-roles-aux-machines-et-l-assume-c-etait-ca-ou-mourir_6793676_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-14T08:45:13+00:00"
     },
     {
       "id": "22713e7932ad30858db37cde",
