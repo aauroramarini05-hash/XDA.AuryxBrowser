@@ -1,21 +1,87 @@
 {
-  "updatedAt": "2026-10-18T22:04:53.286443+00:00",
+  "updatedAt": "2026-10-19T00:37:32.871461+00:00",
   "items": [
     {
-      "id": "1f293f096a86b1ecba20b284",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "id": "c6b70bb7cae63cb418587506",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-18T21:37:56+00:00"
+      "publishedAt": "2026-10-19T00:06:25+00:00"
+    },
+    {
+      "id": "e140c1dd9d5147f09c964d5f",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-18T23:28:45+00:00"
+    },
+    {
+      "id": "b723b6e80d1a6f03485ceb34",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-18T23:24:59+00:00"
+    },
+    {
+      "id": "38e626d80095dbcdba2e0810",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-18T23:20:15+00:00"
+    },
+    {
+      "id": "83e73aa392181f0236944195",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-18T23:06:09+00:00"
+    },
+    {
+      "id": "af1b1074ea368e1d9fb7562e",
+      "title": "Jesse Eisenberg Says He 'Couldn't Get Movie Studio Parts' After Winning His Batman v. Superman Razzie",
+      "summary": "Jesse Eisenberg says he \"couldn't get into studio movie parts\" because he won a Worst Supporting Actor Razzie for playing Lex Luthor in Batman v. Superman.",
+      "url": "https://www.ign.com/articles/jesse-eisenberg-says-he-couldnt-get-movie-studio-parts-after-winning-his-batman-v-superman-razzie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-18T22:37:38+00:00"
+    },
+    {
+      "id": "96269d4fe09d50d1052e22be",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-18T22:22:51+00:00"
     },
     {
       "id": "406a00aea7afebe608c8bed2",
       "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
       "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -176,17 +242,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-18T04:00:25+00:00"
-    },
-    {
-      "id": "229caa1b7e96b0b78e7dfde3",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T01:10:25+00:00"
     },
     {
       "id": "7b03cf4984e3ef6aecbdf03c",
@@ -398,17 +453,6 @@
       "publishedAt": "2026-10-17T09:30:00+00:00"
     },
     {
-      "id": "c76be8216bdf1a6fc1a0e53e",
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "summary": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T09:14:10+00:00"
-    },
-    {
       "id": "556cd9b129bcb1c45b1b4eec",
       "title": "« Je demande à Foucault son avis » : quand les chatbots invitent à dialoguer avec vos célébrités préférées",
       "summary": "« Sur le feed. » S’épancher auprès de la romancière Jane Austen, philosopher avec Foucault, évoquer Mai 68 avec de Gaulle… Nombreuses sont les IA génératives qui proposent de discuter avec des personnages célèbres, réels ou fictifs. Et de plus en plus nombreux sont les utilisateurs qui se laissent prendre au jeu de ces chatbots élaborés. Avec plus ",
@@ -440,17 +484,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-17T03:30:11+00:00"
-    },
-    {
-      "id": "bb85d5046111321258c3a948",
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T03:11:10+00:00"
     },
     {
       "id": "b3c67ab6c40ed44300c8465b",
@@ -550,17 +583,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-16T21:20:00+00:00"
-    },
-    {
-      "id": "eb7f99d34159ebc3f404e143",
-      "title": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
-      "summary": "The developers behind Castlevania: Belmont’s Curse are enthusiastic about the “horny” fanart they’ve seen of the game’s characters, saying they specifically made them \"hot\" to appeal to fans.",
-      "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-16T21:03:50+00:00"
     },
     {
       "id": "72b224052cbb5adba11b39aa",
@@ -880,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-13T15:59:07+00:00"
-    },
-    {
-      "id": "ccb4e8334d7c7baafc515783",
-      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-      "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-13T09:34:43+00:00"
     },
     {
       "id": "0f84069d86717cf352cf2878",
