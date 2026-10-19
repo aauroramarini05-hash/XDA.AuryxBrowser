@@ -1,27 +1,214 @@
 {
-  "updatedAt": "2026-10-19T05:30:36.719837+00:00",
+  "updatedAt": "2026-10-19T11:37:45.659485+00:00",
   "items": [
     {
-      "id": "9716d7a4698287fb89056e57",
-      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "id": "4d3b31b010d06bbf551a9a97",
+      "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
+      "summary": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T11:23:36+00:00"
+    },
+    {
+      "id": "cba72309234dfbd118a78c00",
+      "title": "It Took 4 Google AI Agents Over 27 Hours to Defeat the Ender Dragon in Minecraft Without Help From Humans",
+      "summary": "Google researchers have released a paper claiming that four Google Gemini 4 Argon AI agents just beat Minecraft without any help from humans. It took them just over 27 hours to take down the Ender Dragon in what is believed to be a world first.",
+      "url": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T10:56:01+00:00"
+    },
+    {
+      "id": "7472cab51e309a73f98aeef7",
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T10:33:12+00:00"
+    },
+    {
+      "id": "d890443965b594442143d80c",
+      "title": "Modder Uses AI to Put Shadow of War's Nemesis System in Rockstar's Red Dead Redemption 2",
+      "summary": "There’s a new Red Dead Redemption 2 mod inspired by Middle-earth: Shadow of War’s Nemesis System, which tracks how individual enemies feel about you.",
+      "url": "https://www.ign.com/articles/red-dead-redemption-2-enrage-mod-nemesis-system",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T10:32:10+00:00"
+    },
+    {
+      "id": "ad4778885ea89c4771e67ece",
+      "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
+      "summary": "Call of Duty co-creator Vince Zampella is honoured in the credits of the Modern Warfare 4 Campaign.",
+      "url": "https://www.ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T10:17:11+00:00"
+    },
+    {
+      "id": "6ada10f1982bcacb29987c6a",
+      "title": "David Harbour Says He Really Didn't Drop a Big Avengers: Doomsday Spoiler",
+      "summary": "David Harbour insists he definitely did not spoil Avengers: Doomsday.",
+      "url": "https://www.ign.com/articles/david-harbour-says-he-really-didnt-drop-a-big-avengers-doomsday-spoiler",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T10:10:09+00:00"
+    },
+    {
+      "id": "8be355ee2f930ad5e5c00576",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T09:40:44+00:00"
+    },
+    {
+      "id": "2ed9e436b37f2696b4ff6f1a",
+      "title": "Musk and Anthropic pledge public share giveaways",
+      "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-19T09:38:25+00:00"
+    },
+    {
+      "id": "7e494145f826bfe1c2f1ba60",
+      "title": "Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty",
+      "summary": "One Modern Warfare 4 campaign player has already finished YOLO mode, an ultra hard setting with realistic damage, where you go right back to the start when you die. Here's how they did it.",
+      "url": "https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T09:34:28+00:00"
+    },
+    {
+      "id": "4f4dda6e30de1ea157baa80f",
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T09:24:33+00:00"
+    },
+    {
+      "id": "8211c13b0ed926236db25eec",
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T09:11:42+00:00"
+    },
+    {
+      "id": "1d954f5cb624f85614add4c8",
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T08:17:19+00:00"
+    },
+    {
+      "id": "a6f689dbe18a44940563d396",
+      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
+      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T07:46:54+00:00"
+    },
+    {
+      "id": "27ba6dbda39026af9314a558",
+      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+      "summary": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T07:35:06+00:00"
+    },
+    {
+      "id": "404a88878f6e8883ed87c81b",
+      "title": "Cyberpunk: Edgerunners 2 Review",
+      "summary": "Cyberpunk: Edgerunners 2 review: Welcome back to Night City, but beware the corpos.",
+      "url": "https://www.ign.com/articles/cyberpunk-edgerunners-2-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T07:01:00+00:00"
+    },
+    {
+      "id": "da8f2a0952ce45164ae2a7e5",
+      "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+      "summary": "Violence broke out across France, with more than half a million people taking to the streets over the weekend.",
+      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T06:40:35+00:00"
+    },
+    {
+      "id": "309809eb4f65ab487e048358",
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T06:29:55+00:00"
+    },
+    {
+      "id": "5a8ca83f357f3d606fe73ae4",
+      "title": "China's growth accelerates as AI boom helps boost exports",
       "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
       "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-10-19T05:17:35+00:00"
+      "publishedAt": "2026-10-19T06:08:02+00:00"
     },
     {
-      "id": "088c41d8de0e8d24c05d745e",
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "id": "e0a1dc0be4c40451be602da6",
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-19T05:07:21+00:00"
+      "publishedAt": "2026-10-19T06:00:18+00:00"
     },
     {
       "id": "ae6adbd0b9d6ea2f4e07a48f",
@@ -35,39 +222,6 @@
       "publishedAt": "2026-10-19T04:54:25+00:00"
     },
     {
-      "id": "c94fb6ee59dd9e60080efd88",
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-19T04:30:59+00:00"
-    },
-    {
-      "id": "0bde2eb71c793f88748585b3",
-      "title": "France's government under pressure after weekend of widespread violence",
-      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T04:16:46+00:00"
-    },
-    {
-      "id": "7472cab51e309a73f98aeef7",
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T03:44:02+00:00"
-    },
-    {
       "id": "5e41442ecfd714abf41209bd",
       "title": "Influenceurs sous la critique : la fin d’une époque ?",
       "summary": "Déconnectés, insensibles aux causes politiques et écologiques… Cet été, les créateurs de contenu ont été particulièrement critiqués par une partie de leur communauté. Dans ce podcast, Vincent Manilève et Aurélien Defer, journalistes au « Monde », retracent dix ans de mutation du milieu de l’influence et analysent l’évolution du lien parasocial qui ",
@@ -79,17 +233,6 @@
       "publishedAt": "2026-10-19T03:00:05+00:00"
     },
     {
-      "id": "309809eb4f65ab487e048358",
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T02:41:50+00:00"
-    },
-    {
       "id": "94325d7b7e05bedb956ec620",
       "title": "The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade",
       "summary": "The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade",
@@ -99,17 +242,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-19T02:37:59+00:00"
-    },
-    {
-      "id": "543ab81c6bb00bf2e164b94a",
-      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
-      "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T01:50:48+00:00"
     },
     {
       "id": "fb045db80a0f2e13ed813fdb",
@@ -167,17 +299,6 @@
       "publishedAt": "2026-10-18T23:20:15+00:00"
     },
     {
-      "id": "83e73aa392181f0236944195",
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T23:06:09+00:00"
-    },
-    {
       "id": "af1b1074ea368e1d9fb7562e",
       "title": "Jesse Eisenberg Says He 'Couldn't Get Movie Studio Parts' After Winning His Batman v. Superman Razzie",
       "summary": "Jesse Eisenberg says he \"couldn't get into studio movie parts\" because he won a Worst Supporting Actor Razzie for playing Lex Luthor in Batman v. Superman.",
@@ -187,17 +308,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-18T22:37:38+00:00"
-    },
-    {
-      "id": "96269d4fe09d50d1052e22be",
-      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T22:22:51+00:00"
     },
     {
       "id": "406a00aea7afebe608c8bed2",
@@ -231,17 +341,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-18T19:55:44+00:00"
-    },
-    {
-      "id": "59770643bb82f62ec091b1fb",
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T19:53:27+00:00"
     },
     {
       "id": "20d035267c037950fe3414bb",
@@ -288,39 +387,6 @@
       "publishedAt": "2026-10-18T15:56:06+00:00"
     },
     {
-      "id": "c1e74e197bbacd6d6f930464",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T15:46:10+00:00"
-    },
-    {
-      "id": "b03a9baa25619db133f13e98",
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-      "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T13:47:07+00:00"
-    },
-    {
-      "id": "484c4877a83b8268f40acc85",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T12:16:14+00:00"
-    },
-    {
       "id": "1171e7bdc9ecb2da262e3b41",
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
       "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
@@ -330,17 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-18T11:09:32+00:00"
-    },
-    {
-      "id": "dec11e4404a83dd299add6be",
-      "title": "Parisians wake up to protest damage and looted shops",
-      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T10:58:39+00:00"
     },
     {
       "id": "0948c9c7bb82f956102f280f",
@@ -409,17 +464,6 @@
       "publishedAt": "2026-10-17T21:27:10+00:00"
     },
     {
-      "id": "348827b864cec9e724f4e015",
-      "title": "Anti-government protesters battle with police in Albania",
-      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T20:53:00+00:00"
-    },
-    {
       "id": "4f831371de60ef34bf5bd77f",
       "title": "No further action against government adviser's wife over Palestine Action post, police say",
       "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
@@ -473,39 +517,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-17T15:52:41+00:00"
-    },
-    {
-      "id": "ccec9bb72fefabe67f171df0",
-      "title": "7 Crazy Movie Premises That Actually Worked",
-      "summary": "Before Whalefall, these crazy movie premises actually worked too.",
-      "url": "https://www.ign.com/articles/crazy-movie-premises-that-actually-worked",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T13:00:00+00:00"
-    },
-    {
-      "id": "89e47500c30338e70ebc9cdb",
-      "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
-      "summary": "At New York Comic Con, I got a chance to sit down with Wizards of the Coast Principal Game Designer James Wyatt to talk about the first Universes Beyond expansion for D&D.",
-      "url": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T13:00:00+00:00"
-    },
-    {
-      "id": "607771bbddd5b3a5c971de8f",
-      "title": "The Street Fighter Movie Makes a Mistake Mortal Kombat Already Learned From",
-      "summary": "Why are fighting game movies so scared of fighting tournaments? The Street Fighter movie is just the latest example.",
-      "url": "https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T12:00:00+00:00"
     },
     {
       "id": "fb690d5f481b9c50c7313295",
@@ -574,17 +585,6 @@
       "publishedAt": "2026-10-17T00:41:58+00:00"
     },
     {
-      "id": "6b49c36299e89531a5cf5d93",
-      "title": "Red Rising Greenlit for Movie Adaptation With Author Pierce Brown to Produce",
-      "summary": "The Red Rising book series by author Pierce Brown has officially been greenlit for a movie adaptation from Paramount Pictures, with Hunger Games alum Francis Lawrence to direct.",
-      "url": "https://www.ign.com/articles/red-rising-greenlit-for-movie-adaptation-with-author-pierce-brown-to-produce",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-16T23:08:54+00:00"
-    },
-    {
       "id": "953a60dce9dd8ba95c288374",
       "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
       "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
@@ -594,28 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-16T23:07:18+00:00"
-    },
-    {
-      "id": "deab196813aa00e437de11ea",
-      "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
-      "summary": "James Gunn has shot down rumors that Milly Alcock was fired as Supergirl and confirmed that he'll show Peter Safran an early cut of Man of Tomorrow later today.",
-      "url": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-16T22:48:07+00:00"
-    },
-    {
-      "id": "bd88f2c62ffa8e739dcdfd5a",
-      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns",
-      "summary": "Professional Super Smash Bros. player Jason 'Mew2King' Zimmerman has responded after his post about a bug infestation in his home resulted in him being banned from a competitive tournament.",
-      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-16T21:54:09+00:00"
     },
     {
       "id": "28762a220709de6efa36dd87",
@@ -638,17 +616,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-16T18:11:29+00:00"
-    },
-    {
-      "id": "3611f763978dcfc13e6c5eaf",
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T16:00:30+00:00"
     },
     {
       "id": "0cead5e067a278b2a4027cb2",
