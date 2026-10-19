@@ -1,10 +1,340 @@
 {
-  "updatedAt": "2026-10-19T11:37:45.659485+00:00",
+  "updatedAt": "2026-10-19T17:59:35.848897+00:00",
   "items": [
     {
-      "id": "4d3b31b010d06bbf551a9a97",
-      "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
-      "summary": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
+      "id": "120cf9f3ad0c09185e73d76e",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T17:18:04+00:00"
+    },
+    {
+      "id": "35e0de554c15f5093e29379f",
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T16:32:47+00:00"
+    },
+    {
+      "id": "e346ece2a93a7f8d8a32409e",
+      "title": "The Slick Looking TSA-Approved Talix 20,000mAh 140W Power Bank Drops to $39 Shipped",
+      "summary": "Fast charges the most powerful handheld gaming PCs or MacBook Pro laptops, with style.",
+      "url": "https://www.ign.com/articles/talix-20000mah-140w-power-bank-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T16:30:00+00:00"
+    },
+    {
+      "id": "90ceb4cbd41b20a7ba0d49b4",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-19T16:22:12+00:00"
+    },
+    {
+      "id": "fdf095a6b1953efba75744c9",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T16:20:51+00:00"
+    },
+    {
+      "id": "bafaa516396dac60ea23965c",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T16:16:51+00:00"
+    },
+    {
+      "id": "53d60e205253127f33781288",
+      "title": "Pillages du 17 octobre : Vinted, eBay et Leboncoin sommés d’empêcher la revente d’objets volés",
+      "summary": "Les ministres du commerce et du numérique ont convoqué plusieurs plateformes afin de s’assurer de leur coopération pour identifier d’éventuels revendeurs de produits provenant des boutiques attaquées lors du week-end, en parallèle des manifestations.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/19/pillages-du-17-octobre-vinted-ebay-et-leboncoin-sommes-d-empecher-la-revente-d-objets-voles_6797561_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-19T16:02:08+00:00"
+    },
+    {
+      "id": "fa4312e53e6c926575c7416d",
+      "title": "Les mangas, avec leurs figures rebelles et résilientes, s’invitent dans les manifestations",
+      "summary": "Les personnages de « One Piece », « Naruto » ou « Dragon Ball » sont souvent invoqués dans les défilés et sur les réseaux sociaux.",
+      "url": "https://www.lemonde.fr/culture/article/2026/10/19/les-mangas-avec-leurs-figures-rebelles-et-resilientes-s-invitent-dans-les-manifestations_6797560_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-19T16:00:25+00:00"
+    },
+    {
+      "id": "d336be264d2c8051cd9de5e1",
+      "title": "Abbott & Costello Join Forces With Kolchak the Night Stalker in Horror Crossover Special",
+      "summary": "Comedy icons Abbott & Costello are returning to comics for the first time in half a century, and they're joining forces with none other than Kolchak the Night Stalker.",
+      "url": "https://www.ign.com/articles/abbott-costello-join-forces-with-kolchak-the-night-stalker-in-horror-crossover-special",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T16:00:00+00:00"
+    },
+    {
+      "id": "8873e7543b639067e8f7c751",
+      "title": "PlayStation Shadowdrops Saros Zenith Update With Boss Rush, New Game+ and Fancy Golden Crown Powerups",
+      "summary": "A new update for Saros dropped today, adding some new features to the hectic Housemarque shooter.",
+      "url": "https://www.ign.com/articles/saros-zenith-update-boss-rush-new-game-plus",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T15:57:20+00:00"
+    },
+    {
+      "id": "e056dedff3299f81a97ee74e",
+      "title": "Don't Miss Out on Amazon's Fall Audible Deal: Pay $0.99 Per Month Plus Get $20 Credit",
+      "summary": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
+      "url": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T15:55:00+00:00"
+    },
+    {
+      "id": "7bd6a5509e58c7b989d56b2d",
+      "title": "PlayStation 6 RAM and Storage Alone May Cost $680, According to Leaker",
+      "summary": "The PlayStation 6 hasn't even been announced yet, but little rumors pop up now and then that add speculation on what to expect from Sony's next-gen console. The latest is a shocking claim that the RAM and storage configuration of the console will cost more than the entirety of the PS5.",
+      "url": "https://www.ign.com/articles/playstation-6-ram-and-storage-alone-may-cost-680-according-to-leaker",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T15:51:58+00:00"
+    },
+    {
+      "id": "4770bec735f2f026cfbdad6d",
+      "title": "Amazon Discounts Final Fantasy 7 Rebirth and More to Record Lows in Early Black Friday Sale",
+      "summary": "Amazon and Best Buy have both dropped early Black Friday sales on select Square Enix games that features big price cuts on Final Fantasy 7 Remake Intergrade, Final Fantasy 7 Rebirth, and loads more.",
+      "url": "https://www.ign.com/articles/square-enix-early-black-friday-sales",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T15:31:39+00:00"
+    },
+    {
+      "id": "7da26329024bab9001c892f8",
+      "title": "Apple’s Brand-New 2026 M6 Mac Mini Is Already Up to $150 Off",
+      "summary": "Apple's brand-new Mac mini desktop computer with an M6 chip just came out last month, but it's already on sale for up to $150 off at Amazon.",
+      "url": "https://www.ign.com/articles/apple-2026-m6-mac-mini-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T15:31:17+00:00"
+    },
+    {
+      "id": "56953724c1e7b2f0e947b176",
+      "title": "The 10 Best Call of Duty Multiplayer Games",
+      "summary": "Call of Duty has been the king of FPS multiplayer for years, but what is the king of kings? Black Ops? Modern Warfare 2? Here's our pick of the 10 best COD games for PvP.",
+      "url": "https://www.ign.com/articles/the-best-call-of-duty-multiplayer-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T15:30:00+00:00"
+    },
+    {
+      "id": "b5354cb3d47b1960d3db6444",
+      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+      "summary": "France is used to protests but the violence and damage seen across the country is shocking many people.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T15:21:03+00:00"
+    },
+    {
+      "id": "a111cf95d0700dfe36c6d8c6",
+      "title": "With GTA 6's Dating System Incoming, a Surprising Percentage of Adults Think Investing in a Video Game Relationship Is Cheating",
+      "summary": "With GTA 6's Dating System Incoming, a Surprising Percentage of Adults Think Investing in a Video Game Relationship Is Cheating.",
+      "url": "https://www.ign.com/articles/gta-6-dating-system-cheating",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T15:16:54+00:00"
+    },
+    {
+      "id": "0cb2b4a18f79f1d2353626dc",
+      "title": "Mobilisation du 17 octobre : sur les réseaux sociaux, des images de violences particulièrement virales",
+      "summary": "Pillages et affrontements de samedi ont été largement filmés et diffusés, pour certains en direct, notamment sur TikTok.",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/19/mobilisation-du-17-octobre-sur-les-reseaux-sociaux-des-images-de-violences-particulierement-virales_6797548_823448.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-19T15:00:07+00:00"
+    },
+    {
+      "id": "1bfa03a7b8d6869f5db249d1",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T14:13:18+00:00"
+    },
+    {
+      "id": "12815608e94380c722d9cc3a",
+      "title": "Australian MP critically injured after being hit by car in apparent attack",
+      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T14:09:54+00:00"
+    },
+    {
+      "id": "c44ceb12af78ab847cf8edab",
+      "title": "Catalonia's former rebel president can return to Spain, court rules",
+      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T14:06:53+00:00"
+    },
+    {
+      "id": "ce7d6ee76ed984a9343d2ac9",
+      "title": "Election présidentielle au Brésil : Meta a vingt-quatre heures pour prouver que la plateforme réserve le même traitement à Lula et à Flavio Bolsonaro",
+      "summary": "Le président de gauche a accusé la plateforme américaine de restreindre la circulation de ses contenus sur Instagram et WhatsApp.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/19/election-presidentielle-au-bresil-meta-a-24-heures-pour-prouver-que-la-plate-forme-reserve-le-meme-traitement-a-lula-et-flavio-bolsonaro_6797534_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-19T13:59:31+00:00"
+    },
+    {
+      "id": "4f4dda6e30de1ea157baa80f",
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T13:44:57+00:00"
+    },
+    {
+      "id": "d1c5646088ab94ca494bf8a7",
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T13:42:41+00:00"
+    },
+    {
+      "id": "9d569a3bc3b4964321d0a099",
+      "title": "Is Call of Duty: Modern Warfare 4 Really the End of the Rebooted Modern Warfare Story? Infinity Ward Responds",
+      "summary": "Is Call of Duty: Modern Warfare 4 really the end of the rebooted Modern Warfare story? We asked Infinity Ward.",
+      "url": "https://www.ign.com/articles/is-call-of-duty-modern-warfare-4-really-the-end-of-the-rebooted-modern-warfare-story-infinity-ward-responds",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T13:29:09+00:00"
+    },
+    {
+      "id": "63210720ba25432488bfe8c9",
+      "title": "Uber wins bid to throw out £200m black cab claims",
+      "summary": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
+      "url": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-19T12:58:39+00:00"
+    },
+    {
+      "id": "074d5ce98da869cd49a5b5f5",
+      "title": "Après les pillages du 17 octobre, les cagnottes en soutien aux commerçants se multiplient en ligne, avec des risques d’arnaques",
+      "summary": "Sur Internet, certains commerçants appellent au soutien après le saccage de leur boutique le 17 octobre, quand d’autres, dont les images sont devenues virales malgré eux, se voient offrir des milliers d’euros par les internautes.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/19/apres-les-pillages-du-17-octobre-les-cagnottes-en-soutien-aux-commercants-se-multiplient-en-ligne-avec-des-risques-d-arnaques_6797523_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-19T12:35:33+00:00"
+    },
+    {
+      "id": "29de33599e287692392eaa53",
+      "title": "League of Legends Virtual K-Pop Group K/DA Reemerge After 6 Years of Silence With New Single and Music Video From the Makers of Arcane",
+      "summary": "After six years of silence, Riot Games' League of Legends-themed virtual K-pop girl group, K/DA, has returned with Firestarter, a comeback single created by the animation studio behind Arcane.",
+      "url": "https://www.ign.com/articles/league-of-legends-virtual-k-pop-group-kda-reemerge-after-6-years-of-silence-with-new-single-and-music-video-from-the-makers-of-arcane",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T12:14:38+00:00"
+    },
+    {
+      "id": "1302b97d3725bca91a6bd2f6",
+      "title": "French Game Store Employee Goes Viral for Defending the Door During Riots",
+      "summary": "A cost-of-living crisis amid escalating fuel and housing costs have kicked off a wave of protests across France, and as is tradition, some have taken advantage of the chaos and started looting stores. Through it all, one French video game store employee has gone viral for aura farming while defending the sanctity of his shop.",
+      "url": "https://www.ign.com/articles/french-game-store-employee-goes-viral-for-defending-riots",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-19T11:44:52+00:00"
+    },
+    {
+      "id": "1852f839b730c9a7acdf0fcb",
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T11:41:24+00:00"
+    },
+    {
+      "id": "bb07837e877100c16793e945",
+      "title": "Italy plans tougher security measures after violent protests",
+      "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
       "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -22,17 +352,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-19T10:56:01+00:00"
-    },
-    {
-      "id": "7472cab51e309a73f98aeef7",
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T10:33:12+00:00"
     },
     {
       "id": "d890443965b594442143d80c",
@@ -101,17 +420,6 @@
       "publishedAt": "2026-10-19T09:34:28+00:00"
     },
     {
-      "id": "4f4dda6e30de1ea157baa80f",
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T09:24:33+00:00"
-    },
-    {
       "id": "8211c13b0ed926236db25eec",
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
       "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
@@ -132,17 +440,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-19T08:17:19+00:00"
-    },
-    {
-      "id": "a6f689dbe18a44940563d396",
-      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
-      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T07:46:54+00:00"
     },
     {
       "id": "27ba6dbda39026af9314a558",
@@ -178,17 +475,6 @@
       "publishedAt": "2026-10-19T06:40:35+00:00"
     },
     {
-      "id": "309809eb4f65ab487e048358",
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T06:29:55+00:00"
-    },
-    {
       "id": "5a8ca83f357f3d606fe73ae4",
       "title": "China's growth accelerates as AI boom helps boost exports",
       "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
@@ -209,17 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-19T06:00:18+00:00"
-    },
-    {
-      "id": "ae6adbd0b9d6ea2f4e07a48f",
-      "title": "Australian Greens senator denies claims of misconduct towards women",
-      "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T04:54:25+00:00"
     },
     {
       "id": "5e41442ecfd714abf41209bd",
@@ -266,17 +541,6 @@
       "publishedAt": "2026-10-19T00:06:25+00:00"
     },
     {
-      "id": "e140c1dd9d5147f09c964d5f",
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T23:28:45+00:00"
-    },
-    {
       "id": "b723b6e80d1a6f03485ceb34",
       "title": "Don't fall for this - how to protect yourself from AI scams",
       "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
@@ -299,17 +563,6 @@
       "publishedAt": "2026-10-18T23:20:15+00:00"
     },
     {
-      "id": "af1b1074ea368e1d9fb7562e",
-      "title": "Jesse Eisenberg Says He 'Couldn't Get Movie Studio Parts' After Winning His Batman v. Superman Razzie",
-      "summary": "Jesse Eisenberg says he \"couldn't get into studio movie parts\" because he won a Worst Supporting Actor Razzie for playing Lex Luthor in Batman v. Superman.",
-      "url": "https://www.ign.com/articles/jesse-eisenberg-says-he-couldnt-get-movie-studio-parts-after-winning-his-batman-v-superman-razzie",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-18T22:37:38+00:00"
-    },
-    {
       "id": "406a00aea7afebe608c8bed2",
       "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
       "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
@@ -321,50 +574,6 @@
       "publishedAt": "2026-10-18T21:00:22+00:00"
     },
     {
-      "id": "eebbc3d3c54eec4af06672ce",
-      "title": "Taika Waititi Says His Star Wars Movie Is 'on Ice'",
-      "summary": "Director Taika Waititi has confirmed his long-in-development Star Wars movie is officially \"on ice.\"",
-      "url": "https://www.ign.com/articles/taika-waititi-says-his-star-wars-movie-is-on-ice",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-18T20:50:43+00:00"
-    },
-    {
-      "id": "b3279b098c126c99b3c69aaf",
-      "title": "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
-      "summary": "Silent Hill developer Bloober Team wants to make physical versions of its games \"for as long as possible.\"",
-      "url": "https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-18T19:55:44+00:00"
-    },
-    {
-      "id": "20d035267c037950fe3414bb",
-      "title": "Street Fighter Tops the Box Office With $51 Million Opening Weekend Amid Lackluster Reviews",
-      "summary": "Capcom's Street Fighter movie spun up $51.1 million in its opening weekend, securing its place atop the global box office despite some not-so-great reviews.",
-      "url": "https://www.ign.com/articles/street-fighter-tops-the-box-office-with-51-million-opening-weekend-amid-lackluster-reviews",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-18T18:17:45+00:00"
-    },
-    {
-      "id": "dd525fa6b27483696962c9a1",
-      "title": "The Best Deals Today: The Adventures of Elliot, Pikmin 4, Mouse: P.I. For Hire, and More",
-      "summary": "",
-      "url": "https://www.ign.com/articles/best-deals-for-october-18-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-18T17:20:53+00:00"
-    },
-    {
       "id": "c43766df2bc2869daf478fde",
       "title": "« Une large partie de la communauté scientifique considère que les risques liés à l’IA sont significatifs »",
       "summary": "L’idée qu’un « marketing de la peur » serait développé dans l’intérêt des entreprises d’intelligence artificielle fait fi des menaces réelles que l’IA fait peser sur l’humanité, alertent des spécialistes du secteur dans une tribune au « Monde ».",
@@ -374,17 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-18T16:00:01+00:00"
-    },
-    {
-      "id": "032ed6a7d7f166b2ce614ae5",
-      "title": "Quentin Tarantino Says He's 'Written a Script' for 10th and Final Film, But He Wants to 'Live' Before Making It",
-      "summary": "Quentin Tarantino has confirmed he's \"written a script\" for his 10th and final film, but he's going to \"live\" a little before making it.",
-      "url": "https://www.ign.com/articles/quentin-tarantino-says-hes-written-a-script-for-10th-and-final-film-but-he-wants-to-live-before-making-it",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-18T15:56:06+00:00"
     },
     {
       "id": "1171e7bdc9ecb2da262e3b41",
@@ -420,28 +618,6 @@
       "publishedAt": "2026-10-18T04:00:25+00:00"
     },
     {
-      "id": "7b03cf4984e3ef6aecbdf03c",
-      "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
-      "summary": "The developer behind Russian roulette anime game Drunken Goddess Reflux has canceled its plans for a public Steam demo, citing concerns over potential AI copycats.",
-      "url": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T23:00:23+00:00"
-    },
-    {
-      "id": "f249e75367d80aae2f75f555",
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T22:09:50+00:00"
-    },
-    {
       "id": "f904bff4dddb9bbc96006423",
       "title": "How day of protests unfolded as disorder breaks out across France",
       "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
@@ -453,17 +629,6 @@
       "publishedAt": "2026-10-17T21:33:17+00:00"
     },
     {
-      "id": "8257e9ee2fc20dedac1bc000",
-      "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
-      "summary": "The Battlefield 6 team has responded after players took aim at a few controversial cosmetics added in Season 5.",
-      "url": "https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T21:27:10+00:00"
-    },
-    {
       "id": "4f831371de60ef34bf5bd77f",
       "title": "No further action against government adviser's wife over Palestine Action post, police say",
       "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
@@ -473,50 +638,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-17T20:24:32+00:00"
-    },
-    {
-      "id": "76fbb2aaaf6e4e3f2740b6f1",
-      "title": "James Cameron Congratulates Marvel After Avengers: Endgame Beats Avatar at the Box Office Yet Again",
-      "summary": "James Cameron celebrated Avengers: Endgame beating Avatar at the box office with another social media post after the two movies traded places yet again.",
-      "url": "https://www.ign.com/articles/james-cameron-congratulates-marvel-after-avengers-endgame-beats-avatar-at-the-box-office-yet-again",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T20:15:41+00:00"
-    },
-    {
-      "id": "642309b2cddc28f93802e7b9",
-      "title": "Ben Affleck's Batman Movie Would Have Featured Arkham Asylum-Inspired Deathstroke Fight and DCEU Batgirl, Joe Manganiello Reveals",
-      "summary": "Joe Manganiello has revealed new plot details about Ben Affleck's canceled Batman movie, including information about an Arkham Asylum-inspired fight with Deathstroke and the DCEU's Batgirl.",
-      "url": "https://www.ign.com/articles/ben-afflecks-batman-movie-would-have-featured-arkham-asylum-inspired-deathstroke-fight-and-dceu-batgirl-joe-manganiello-reveals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T18:58:54+00:00"
-    },
-    {
-      "id": "b42f3da6d6f3aa91580dd4c2",
-      "title": "The Best Deals Today: Cyberpunk 2077 for Switch 2, Pikmin 4, Star Wars Zero Company, and More",
-      "summary": "",
-      "url": "https://www.ign.com/articles/best-deals-for-october-17-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T18:57:34+00:00"
-    },
-    {
-      "id": "840968fa60bd5baac1b338ca",
-      "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
-      "summary": "Barry Sloane, the actor behind Call of Duty's Captain Price, has shared a message with fans as praise for Modern Warfare 4's campaign rolls in.",
-      "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-17T15:52:41+00:00"
     },
     {
       "id": "fb690d5f481b9c50c7313295",
@@ -561,39 +682,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-17T03:30:11+00:00"
-    },
-    {
-      "id": "6c0620c5506563df8e47cd3b",
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
-      "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T01:18:08+00:00"
-    },
-    {
-      "id": "7525609c64ccb28fd0dc7993",
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-17T00:41:58+00:00"
-    },
-    {
-      "id": "953a60dce9dd8ba95c288374",
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-16T23:07:18+00:00"
     },
     {
       "id": "28762a220709de6efa36dd87",
@@ -750,17 +838,6 @@
       "publishedAt": "2026-10-15T15:38:59+00:00"
     },
     {
-      "id": "e076c59a5e241f117dbafafb",
-      "title": "Mouvement lycéen : comment la police cherche à contrôler le récit médiatique sur les réseaux sociaux",
-      "summary": "Alors que de nombreuses vidéos de violences policières ont agité TikTok, X ou Instagram ces dernières semaines, la police nationale reconnaît avoir adapté sa communication sur ces canaux en ligne, qu’elle a investis dès 2012.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/15/mouvement-lyceen-la-police-en-quete-de-controle-du-recit-mediatique-sur-les-reseaux-sociaux_6794496_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-15T14:30:11+00:00"
-    },
-    {
       "id": "29a3c0e8796dae0bb86cde5f",
       "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
       "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
@@ -781,72 +858,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-15T11:34:55+00:00"
-    },
-    {
-      "id": "3692d3dec4426503af123d0a",
-      "title": "« Les Damnés de la donnée » : les travailleurs du Sud, invisibilisés et pourtant indispensables au développement de l’IA",
-      "summary": "Au fil d’une enquête menée auprès d’annotateurs de données à Madagascar, le sociologue Clément Le Ludec met en lumière la centralité du travail de cette main-d’œuvre précarisée et invisibilisée, indispensable au bon fonctionnement des systèmes d’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/vie-au-travail/article/2026/10/15/les-damnes-de-la-donnee-les-travailleurs-du-sud-invisibilises-et-pourtant-indispensables-au-developpement-de-l-ia_6794181_6768900.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-15T05:58:10+00:00"
-    },
-    {
-      "id": "15e88b3f250e1d9436c1d5b2",
-      "title": "Arthur Mensch, de Mistral : « Laisser les modèles d’IA aux Américains et aux Chinois placerait l’Europe dans une dépendance sans équivalent dans l’histoire des civilisations »",
-      "summary": "Il est vital de refuser une intelligence artificielle qui serait industrialisée ailleurs et dont nous ne serions que des locataires, plaide le directeur général et cofondateur de l’entreprise française, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/15/arthur-mensch-directeur-general-de-mistral-ai-laisser-les-modeles-d-ia-aux-americains-et-aux-chinois-placerait-l-europe-dans-une-dependance-sans-equivalent-dans-l-histoire-des-civilisations_6794078_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-15T04:30:14+00:00"
-    },
-    {
-      "id": "c605619553348992cafadfb6",
-      "title": "« Le groupe EBRA tourne le dos à la mission de ses journaux en misant tout sur l’automatisation des tâches grâce à l’IA »",
-      "summary": "Des membres du Syndicat national des journalistes dénoncent, dans une tribune au « Monde », le souhait du groupe de presse de remplacer les secrétaires de rédaction, ces journalistes de l’ombre qui vérifient les articles, par de l’intelligence artificielle, au mépris de la qualité de l’information et du lecteur.",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/14/le-groupe-ebra-tourne-le-dos-a-la-mission-de-ses-journaux-en-misant-tout-sur-l-automatisation-des-taches-grace-a-l-ia_6793774_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-14T16:30:08+00:00"
-    },
-    {
-      "id": "5b5cd49fac8187745feb71af",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-14T15:54:04+00:00"
-    },
-    {
-      "id": "2685f7eb25abdf90d5d6a6ed",
-      "title": "Un collectif réclame le rétablissement du fonds du CNC alloué aux créateurs et créatrices de contenu",
-      "summary": "Le dispositif de financement avait été suspendu, le 8 avril, après une polémique impliquant la streameuse Ultia. Les conclusions d’un haut fonctionnaire sur l’adaptation de ce soutien public sont attendues à la fin du mois d’octobre.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/14/un-collectif-reclame-le-retablissement-du-fonds-du-cnc-alloue-aux-createurs-et-creatrices-de-contenu_6793760_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-14T15:00:12+00:00"
-    },
-    {
-      "id": "22713e7932ad30858db37cde",
-      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-14T08:27:17+00:00"
     },
     {
       "id": "284d2eb2182c7753aa4fef44",
