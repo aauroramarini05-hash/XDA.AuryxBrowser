@@ -1,6 +1,149 @@
 {
-  "updatedAt": "2026-10-20T01:22:23.986194+00:00",
+  "updatedAt": "2026-10-20T06:53:14.227450+00:00",
   "items": [
+    {
+      "id": "c0d1521f9d949d6b165da1fe",
+      "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
+      "summary": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T06:35:57+00:00"
+    },
+    {
+      "id": "7f636d7cd5116a745d6657a7",
+      "title": "« S’opposer localement à un data center revient à refuser la fuite en avant collective de l’IA, de tous ses impacts sur nos vies »",
+      "summary": "Des collectifs de lutte contre des projets de centres de données alertent, dans une tribune au « Monde », sur les dangers imminents en matière de consommation d’eau, d’électricité et d’artificialisation de terres agricoles.",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/20/s-opposer-localement-a-un-data-center-revient-a-refuser-la-fuite-en-avant-collective-de-l-ia-de-tous-ses-impacts-sur-nos-vies_6797880_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-20T06:30:02+00:00"
+    },
+    {
+      "id": "f64266f9bd6447d93a2bd2bf",
+      "title": "Disney Will Air a Real-Time, Animated Version of the 2027 Super Bowl Set in the Star Wars Universe",
+      "summary": "The dark side of the Force is a pathway to many abilities some consider to be unnatural.",
+      "url": "https://www.ign.com/articles/disney-will-air-a-real-time-animated-version-of-the-2027-super-bowl-set-in-the-star-wars-universe",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T05:10:45+00:00"
+    },
+    {
+      "id": "d46b1e6a705c39d13960ba2f",
+      "title": "How is the US economy really doing under President Trump?",
+      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T05:00:45+00:00"
+    },
+    {
+      "id": "7a48212400f5ae88af985c80",
+      "title": "On a testé Instinct, l’agent IA grand public qui entend concurrencer ceux d’OpenAI et de Meta",
+      "summary": "Il communique avec un étonnant naturel, peut s’activer spontanément pour nous aider et garde un œil sur nos messageries. Disponible en France, contrairement à Muse (Meta) et Dots (OpenAI), que vaut cet assistant qui ambitionne de tailler des croupières aux géants de l’IA ?",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/20/on-a-teste-instinct-l-agent-ia-grand-public-qui-entend-concurrencer-ceux-d-openai-et-de-meta_6797872_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-20T05:00:12+00:00"
+    },
+    {
+      "id": "b3565917fb552e5578263490",
+      "title": "Affaire Orélien : quelle valeur donner à un travail intellectuel utilisant l’IA ?",
+      "summary": "Grâce aux outils d’intelligence artificielle, chacun peut vérifier ou contester l’authenticité du travail d’un « expert ». Se pose alors la question de ce qui permettra demain de définir, ou non, un travail d’expert, s’interroge, dans sa chronique, le professeur en sciences de gestion Pierre-Yves Gomez.",
+      "url": "https://www.lemonde.fr/vie-au-travail/article/2026/10/20/affaire-orelien-quelle-valeur-donner-a-un-travail-intellectuel-utilisant-l-ia_6797870_6768900.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-20T04:53:22+00:00"
+    },
+    {
+      "id": "be5746e8a39b2d7e1c456ed8",
+      "title": "La charité soudaine d’Elon Musk et d’Anthropic, entre distribution d’actions et aide caritative",
+      "summary": "Elon Musk promet des actions SpaceX à tous les enfants américains tandis qu’Anthropic va verser 5 % de son capital à des œuvres caritatives. Les géants de la tech entendent redistribuer une partie des richesses générées par l’intelligence artificielle, sans toutefois renoncer à leurs intérêts.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/20/la-charite-soudaine-d-elon-musk-et-d-anthropic-entre-distribution-d-actions-et-aide-caritative_6797858_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-20T03:32:25+00:00"
+    },
+    {
+      "id": "d7dd05a46e82bcefb86b8842",
+      "title": "Soupçons d’espionnage chez OpenAI : un ingénieur saoudien maintenu en prison aux Etats-Unis",
+      "summary": "Arrêté le 9 octobre, Abdulrahman Alfozan est accusé d’avoir dissimulé un enregistreur dans une salle de réunion de la société d’intelligence artificielle. Le juge a refusé de le libérer, redoutant que le suspect fuie en Arabie saoudite, dont le consulat s’était engagé à « couvrir le montant intégral de la caution ».",
+      "url": "https://www.lemonde.fr/international/article/2026/10/20/soupcons-d-espionnage-chez-openai-un-ingenieur-saoudien-maintenu-en-prison-aux-etats-unis_6797851_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-20T03:15:09+00:00"
+    },
+    {
+      "id": "4571bf6d2ba8349b753f3614",
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T03:10:39+00:00"
+    },
+    {
+      "id": "472b853193d902d1ab41b227",
+      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+      "summary": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T02:54:05+00:00"
+    },
+    {
+      "id": "91f0dd845684030d4e4878bc",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T02:45:05+00:00"
+    },
+    {
+      "id": "8be355ee2f930ad5e5c00576",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T01:52:43+00:00"
+    },
+    {
+      "id": "d15c38aebe478881e2faf18a",
+      "title": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
+      "summary": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-pop-up-the-dmz-has-never-been-this-much-fun",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T01:24:23+00:00"
+    },
     {
       "id": "5812521be488a36d30f88026",
       "title": "US church on frontline of battle against drug known as 'tranq'",
@@ -156,17 +299,6 @@
       "publishedAt": "2026-10-19T21:23:37+00:00"
     },
     {
-      "id": "3faf8fe51d6417ff067f8370",
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T21:14:53+00:00"
-    },
-    {
       "id": "6d7988c813ffda6c5809c5f2",
       "title": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
       "summary": "At first glance the Love and Deepspace Blade Runner 2049 crossover is a cool, if unexpected, addition to the otome game's romantic universe, but it didn't take long for fans of the game to notice an uncomfortable parallel between one of the key storylines featuring the lead character's AI companion, Joi, and the cancelled Love and Deepspace charact",
@@ -266,6 +398,17 @@
       "publishedAt": "2026-10-19T20:00:43+00:00"
     },
     {
+      "id": "47bb64be4740367fa9fba958",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-19T19:45:46+00:00"
+    },
+    {
       "id": "0cc388bdabf6d4dd2d4fcbf5",
       "title": "Japanese Tekken Players Are Likening Tekken 6’s Rollback Netcode Mod to Serious Crimes and the Fighting Game Community Is Split",
       "summary": "Two weeks ago, a Tekken player created a mod that allowed users to play the game online with rollback netcode, sparking a community-wide debate between Western players and competitors based in Japan and Korea.",
@@ -310,17 +453,6 @@
       "publishedAt": "2026-10-19T18:44:55+00:00"
     },
     {
-      "id": "8be355ee2f930ad5e5c00576",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T18:22:48+00:00"
-    },
-    {
       "id": "ae59c0b073299502bab9e6b8",
       "title": "US bans DeepSeek AI from government use as tech tension with China continues",
       "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
@@ -330,28 +462,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-19T18:21:54+00:00"
-    },
-    {
-      "id": "cec127a4912a843ce44b5d08",
-      "title": "LEGO and Netflix Team Up for 37,000-Piece Kpop Demon Hunters Build",
-      "summary": "",
-      "url": "https://www.ign.com/articles/lego-and-netflix-team-up-for-37000-piece-kpop-demon-hunters-build",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-19T18:08:16+00:00"
-    },
-    {
-      "id": "45da749182e258e4f3f608c1",
-      "title": "Save 50% (Nearly $200 Off) the Daran 288Wh 600W LiFePO4 Power Station With Solar Panel Kit",
-      "summary": "Unlimited, renewable battery backup when the sun's out.",
-      "url": "https://www.ign.com/articles/daran-288wh-600w-lifepo4-power-station-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-19T18:05:00+00:00"
     },
     {
       "id": "120cf9f3ad0c09185e73d76e",
@@ -365,17 +475,6 @@
       "publishedAt": "2026-10-19T17:18:04+00:00"
     },
     {
-      "id": "35e0de554c15f5093e29379f",
-      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-      "summary": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T16:32:47+00:00"
-    },
-    {
       "id": "fdf095a6b1953efba75744c9",
       "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
       "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
@@ -387,8 +486,8 @@
       "publishedAt": "2026-10-19T16:20:51+00:00"
     },
     {
-      "id": "bafaa516396dac60ea23965c",
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "id": "efe1a84ff0fa2a139d1c0fa2",
+      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
       "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
       "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -607,17 +706,6 @@
       "publishedAt": "2026-10-19T03:00:05+00:00"
     },
     {
-      "id": "c6b70bb7cae63cb418587506",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T00:06:25+00:00"
-    },
-    {
       "id": "b723b6e80d1a6f03485ceb34",
       "title": "Don't fall for this - how to protect yourself from AI scams",
       "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
@@ -783,28 +871,6 @@
       "publishedAt": "2026-10-16T14:38:50+00:00"
     },
     {
-      "id": "632af71ae32a3982f73a2375",
-      "title": "Le site du parti Les Républicains brièvement détourné pour appeler à manifester ce 17 octobre",
-      "summary": "Le site était en cours de rétablissement, vendredi à la mi-journée.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/16/le-site-des-republicains-brievement-detourne-pour-appeler-a-manifester-ce-17-octobre_6795547_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-16T12:16:26+00:00"
-    },
-    {
-      "id": "3baf7b2dfb28a2a9d8f1a620",
-      "title": "Dans la campagne du Berry, un projet de data center XXL de Google de plus en plus contesté",
-      "summary": "Le projet de centre de données prévu près de Châteauroux, dans l’Indre, se heurte à des oppositions locales, qui dénoncent les impacts sur l’environnement et le manque de transparence autour de cette infrastructure gigantesque. Un rassemblement est annoncé dans le parc d’activité d’Ozans, samedi 17 octobre.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/16/dans-le-berry-un-vent-de-revolte-souffle-contre-le-projet-de-data-center-de-google_6795466_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-16T09:00:04+00:00"
-    },
-    {
       "id": "25f0ed4f988588be6dfa544c",
       "title": "Snapchat and Instagram grooming becoming 'easier'",
       "summary": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
@@ -814,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-16T05:12:48+00:00"
-    },
-    {
-      "id": "776ce2a32693d4715d3af880",
-      "title": "Manifestation du 17 octobre : l’appel à se mobiliser circule largement en ligne, sans savoir comment cela va se traduire dans la rue",
-      "summary": "De nombreuses publications sur les réseaux mettent en scène l’espoir de voir émerger des « gilets jeunes », une convergence entre la mobilisation lycéenne et le mouvement parti d’une colère contre les prix de l’essence.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/16/manifestation-du-17-octobre-si-les-reseaux-sociaux-sont-en-ebullition-le-flou-persiste-sur-sa-concretisation_6795068_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-16T03:00:23+00:00"
     },
     {
       "id": "6a7fac6a28c4ea006f0c01d7",
@@ -847,28 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-15T23:18:21+00:00"
-    },
-    {
-      "id": "33b4117502b1487ddf701730",
-      "title": "Les craintes suscitées par les dettes des acteurs de l’IA agitent les marchés",
-      "summary": "CoreWeave, qui construit des data centers, a vu sa valeur boursière fondre de 20 % en moins de deux jours. Les marchés doutent de la capacité de certains acteurs de la tech à rembourser les emprunts contractés pour financer l’essor de l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/15/les-craintes-suscitees-par-les-dettes-des-acteurs-de-l-ia-agitent-les-marches_6794626_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-15T17:00:02+00:00"
-    },
-    {
-      "id": "487e33f5abb20b16b53f43d0",
-      "title": "Comment des publicités en ligne d’apparence anodine peuvent infecter, silencieusement, votre téléphone",
-      "summary": "Deux rapports publiés jeudi lèvent le voile sur Discover-Tech, une entreprise israélienne spécialisée dans la publicité en ligne qui vend ses services au secteur de la surveillance.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/15/comment-des-publicites-d-apparence-anodine-permettent-de-diffuser-des-logiciels-d-espion_6794574_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-15T15:38:59+00:00"
     },
     {
       "id": "29a3c0e8796dae0bb86cde5f",
