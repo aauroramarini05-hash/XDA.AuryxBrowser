@@ -1,6 +1,303 @@
 {
-  "updatedAt": "2026-10-20T17:38:13.759128+00:00",
+  "updatedAt": "2026-10-20T21:01:26.052618+00:00",
   "items": [
+    {
+      "id": "663a6f0eade92301a57d84c9",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T20:01:04+00:00"
+    },
+    {
+      "id": "e2770a321f16f1ae1105b7ca",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T20:00:57+00:00"
+    },
+    {
+      "id": "9327a2f518e13bf6b5a69c78",
+      "title": "Tech Life",
+      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-20T19:45:00+00:00"
+    },
+    {
+      "id": "10a231e30ae432a738348af0",
+      "title": "The CyberPowerPC Gaming PC RTX 5060 Ti Prebuilt Gaming PC Drops to $1,249 at Walmart",
+      "summary": "Significantly more powerful than the Steam Machine.",
+      "url": "https://www.ign.com/articles/cyberpowerpc-rtx-5060-ti-gaming-pc-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T19:45:00+00:00"
+    },
+    {
+      "id": "659c6b6a093b156b66c7948d",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-20T19:42:32+00:00"
+    },
+    {
+      "id": "f9105bc051ac5c8cd127e10f",
+      "title": "Xbox Game Pass Reportedly Getting 'Major Overhaul,' Will Feature 'À La Carte' Options",
+      "summary": "Microsoft is reportedly planning a substantial revamp of Xbox Game Pass that will allow subscribers to choose the features they want in an à la carte fashion. The report comes by way of a new Fortune profile piece on Xbox CEO Asha Sharma.",
+      "url": "https://www.ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T19:40:15+00:00"
+    },
+    {
+      "id": "f783b085501d87ddc16e1bc9",
+      "title": "Get a Bose Soundbar Speaker for Under $100 Ahead of Black Friday",
+      "summary": "An affordable yet significant upgrade from your anemic built-in TV speakers.",
+      "url": "https://www.ign.com/articles/bose-solo-soundbar-deal-october-2026-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T19:40:00+00:00"
+    },
+    {
+      "id": "b3e4075ac683ebb7e236ced9",
+      "title": "Umamusume Fans Distraught After Los Angeles Concerts Canceled Due to Visa Issues",
+      "summary": "Umamusume concerts in Los Angeles have been canceled after workers could not get their visas approved in time for the event, leaving American fans distraught.",
+      "url": "https://www.ign.com/articles/umamusume-fans-distraught-after-los-angeles-concerts-canceled-due-to-visa-issues",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T19:38:27+00:00"
+    },
+    {
+      "id": "a027d93bc532da159022e38f",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-20T19:30:05+00:00"
+    },
+    {
+      "id": "608a480380f56ee9e73ecb79",
+      "title": "AMD FSR 4.1 Is Finally Coming to Xbox Series X, Rivaling PS5's QSSR",
+      "summary": "AMD FSR 4.1 has been a massive improvement for Team Red's AI upscaling tech, but it was previously only available on Radeon 7000 and 9000 graphics cards. But today, AMD has announced that the technology will now be coming to more devices, like the Xbox Series X.",
+      "url": "https://www.ign.com/articles/amd-fsr-41-is-finally-coming-to-xbox-series-x-rivaling-ps5s-qssr",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T19:12:13+00:00"
+    },
+    {
+      "id": "de6531668deed2cb1e3b504c",
+      "title": "Xbox's Next Console May Reportedly Cost As Much as $1,800, New Handheld Rumored to Launch Next Year Before Helix",
+      "summary": "A new report claims that Xbox expects its next-generation console to cost as much as $1,800 and is currently targeting a 2028 release.",
+      "url": "https://www.ign.com/articles/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-handheld-rumored-to-launch-next-year-before-helix",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T19:08:58+00:00"
+    },
+    {
+      "id": "94e524f6657aad6c3f39f986",
+      "title": "Save $2,000 Off the Massive 2026 83\" LG Evo C6H 4K Tandem OLED TV Ahead of Black Friday",
+      "summary": "Bigger is better.",
+      "url": "https://www.ign.com/articles/83-inch-lg-evo-c6h-4k-oled-tv-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T19:05:00+00:00"
+    },
+    {
+      "id": "0cd55dbe32bd61316adb7d09",
+      "title": "Last Call to Order the Pokémon 2026 Halloween Collection From Pokémon Center and Get It in Time for Halloween",
+      "summary": "The Pokémon Center dropped its Halloween Collection for 2026, with new apparel and decor featuring Gengar, Mimikyu, Umbreon, and... Golett?",
+      "url": "https://www.ign.com/articles/pokemon-center-halloween-collection-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T19:04:06+00:00"
+    },
+    {
+      "id": "5cc86ca5b5b990479bf0adcb",
+      "title": "Fortnite's Nikki Skin Sparks Debate Among Horror Fans, With Some Calling for a Boycott",
+      "summary": "A vocal group of Fortnite players are calling for a boycott of Epic's battle royale game after a skin of Obsession’s Nikki Freeman, played by Inde Navarrette, sparked backlash among fans.",
+      "url": "https://www.ign.com/articles/fortnites-nikki-skin-sparks-debate-among-horror-fans-with-some-calling-for-a-boycott",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T18:36:32+00:00"
+    },
+    {
+      "id": "0d55fbe2b6783981618dfa34",
+      "title": "Christopher Nolan’s The Prestige 20th Anniversary Re-Release Includes 70mm and IMAX",
+      "summary": "To celebrate the film’s 20th anniversary, Disney will re-release Christopher Nolan’s The Prestige in theaters on January 29, 2027. The thriller will be released on 70mm and IMAX for the first time.",
+      "url": "https://www.ign.com/articles/the-prestige-rerelease-70mm-imax-christopher-nolan",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T18:28:24+00:00"
+    },
+    {
+      "id": "043fc7da27b4a547f68f4274",
+      "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
+      "summary": "Shrek 2 Remastered is real, and its release date is less than a month away.",
+      "url": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T18:24:07+00:00"
+    },
+    {
+      "id": "0bb9a8e061fd8b99d321e902",
+      "title": "Arctic Eggs, Mouthwashing, and No, I'm Not a Human Are Coming to Xbox | IDXBOX",
+      "summary": "Three indie games that achieved viral status over the last three years are making their long-awaited debut on Xbox from publisher Critical Reflex.",
+      "url": "https://www.ign.com/articles/arctic-eggs-mouthwashing-and-no-im-not-a-human-are-coming-to-xbox-idxbox",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T18:23:29+00:00"
+    },
+    {
+      "id": "e1309dcc6251045ee7152030",
+      "title": "Having Trouble Sleeping? Try a Dreamegg D1 Nova Noise Machine for Just $13 Ahead of Black Friday",
+      "summary": "Doubles as an alarm clock with night light.",
+      "url": "https://www.ign.com/articles/dreamegg-sleep-machine-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T18:20:00+00:00"
+    },
+    {
+      "id": "0b7b4ecb3fe8b99b8f89fa17",
+      "title": "ID@Xbox Showcase October 2026: Everything Announced",
+      "summary": "From remasters/director's cuts of Shrek 2, The Wolf Among Us, and Zero Parades to games about shredding paper (Paper Shredder!), tongue-grappling and pinball-bouncing (Croak), and digging holes (A Game About Digging a Hole Together) and more, here's everything revealed at the latest ID@Xbox Showcase Presented by IGN.",
+      "url": "https://www.ign.com/articles/idxbox-showcase-october-2026-everything-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T18:09:30+00:00"
+    },
+    {
+      "id": "84aa7eda18135409673a09e9",
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-20T18:03:19+00:00"
+    },
+    {
+      "id": "052db81b4713374395a1a119",
+      "title": "Fan Uses AI to Fix Oblivion Remastered PC Performance",
+      "summary": "The Elder Scrolls IV: Oblivion Remastered was excellent when it came out, bringing the beloved RPG to the modern era, but just like many other games running on Unreal 5, it was a technical mess. However, a fan has used Claude to create a performance mod that improves the game's performance.",
+      "url": "https://www.ign.com/articles/fan-uses-ai-to-fix-oblivion-remastered-pc-performance",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T18:01:20+00:00"
+    },
+    {
+      "id": "0b9a856695960a5c1767b31c",
+      "title": "The Clash Royale Board Game Reaches Its Crowdfunding Goal in Less Than an Hour",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-clash-royale-board-game-reaches-its-crowdfunding-goal-in-less-than-an-hour",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T17:59:49+00:00"
+    },
+    {
+      "id": "4aa8e20483dd3ac984491875",
+      "title": "Jean Messiha visé par une plainte pour « cyberharcèlement raciste » après une publication sur des jeunes filles en burkini",
+      "summary": "Le 8 juillet 2026, le polémiste d’extrême droite a diffusé sur ses réseaux sociaux une photographie de plusieurs mineures, qui se baignaient à Belle-Ile-en-Mer. La « légende qui accompagne l’image » les désigne comme des « suprémacistes islamiques », selon un communiqué des associations qui ont porté plainte.",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/20/jean-messiha-vise-par-une-plainte-pour-cyberharcelement-raciste-apres-une-publication-sur-des-jeunes-filles-en-burkini_6797972_3224.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-20T17:49:23+00:00"
+    },
+    {
+      "id": "77d428aae72a391fa8144d7f",
+      "title": "Palworld Fans Crown Their Favorite Pal in New Poll as Winter Update Is Teased",
+      "summary": "Sekhmet is Palworld's homecoming queen, according to a new poll published by creator Pocketpair. The kitty-shaped Pal was voted the most popular by global players, scoring 49,637 votes.",
+      "url": "https://www.ign.com/articles/palworld-fans-crown-their-favorite-pal-in-new-poll-as-winter-update-is-teased",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T17:42:48+00:00"
+    },
+    {
+      "id": "1d6f9b8fb74944efb13dc408",
+      "title": "Today’s Best Deals: Xenoblade Chronicles 2, Logitech G29 Racing Wheel, Dragon Quest III HD-2D Remake",
+      "summary": "Don’t miss discounts on an MTG x Star Trek preorder, BOGO 50% Zelda books, and more.",
+      "url": "https://www.ign.com/articles/best-deals-for-october-20-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T17:40:00+00:00"
+    },
+    {
+      "id": "e2aa50d5b1daa8c74fd8e48b",
+      "title": "GTA 5, Red Dead Redemption 2, and More Are Being Removed from the PS Plus Game Catalog",
+      "summary": "A bunch of games, including GTA 5 and Red Dead Redemption 2, are about to be pulled from PlayStation Plus' catalog of games.",
+      "url": "https://www.ign.com/articles/gta-5-red-dead-redemption-2-and-more-are-being-removed-from-the-ps-plus-game-catalog",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T17:39:10+00:00"
+    },
+    {
+      "id": "2f6cceb95ed686412ffa81c6",
+      "title": "Save $10 on a Gaming Gift Card When You Buy a Select Game, Including GTA 6",
+      "summary": "Best Buy is running a promotion that saves you $10 off a gift card to PlayStation Store, Xbox Store, or Nintendo eShop, when you buy one of the biggest games of the year.",
+      "url": "https://www.ign.com/articles/save-10-gift-card-with-select-game-including-gta-6",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-20T17:34:13+00:00"
+    },
     {
       "id": "a2d1dcca1742f56a2e908c89",
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
@@ -11,28 +308,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-20T17:30:15+00:00"
-    },
-    {
-      "id": "a7198f1f75e2ee447d02c974",
-      "title": "DayZ Badlands Collector's Vinyl Box Set Available Exclusively at IGN Store",
-      "summary": "Celebrate the launch of DayZ Badlands with the Collector's Vinyl Box Set, featuring the game's soundtrack, lore items, and a digital Steam code, available exclusively at the IGN Store.",
-      "url": "https://www.ign.com/articles/dayz-badlands-collectors-vinyl-box-set-ign-store",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T17:00:00+00:00"
-    },
-    {
-      "id": "4f7290a0683edd993d0320b3",
-      "title": "‘It Represents an Evolution of the First-Person Shooter’ — Why Infinity Ward Is Giving Extraction Shooters Another Shot in Modern Warfare 4’s DMZ Mode",
-      "summary": "‘It represents an evolution of the first-person shooter’ — why Infinity Ward is giving extraction shooters another shot in Modern Warfare 4’s DMZ mode.",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-extraction-shooter",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T17:00:00+00:00"
     },
     {
       "id": "5156ec07ed0d2c54fceb0047",
@@ -46,72 +321,6 @@
       "publishedAt": "2026-10-20T16:59:06+00:00"
     },
     {
-      "id": "e18f5da33968c466fe185a5d",
-      "title": "Digital Copies of Pikmin 4 Are Down to $40 Ahead of Switch 2 Upgrade",
-      "summary": "Walmart has marked digital copies of Pikmin 4 down to $39.88 ahead of its Switch 2 upgrade in November. With that deal, you can upgrade for about $20 less than buying a Switch 2 copy outright.",
-      "url": "https://www.ign.com/articles/pikmin-4-digital-on-sale-ahead-of-switch-2-upgrade",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T16:45:24+00:00"
-    },
-    {
-      "id": "f2ed4aeb49b81fa34bd29a47",
-      "title": "Wicker Review",
-      "summary": "Wicker review: An immersive and romantic journey to a dark and whimsical reality just beyond our own.",
-      "url": "https://www.ign.com/articles/wicker-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T16:26:08+00:00"
-    },
-    {
-      "id": "e056dedff3299f81a97ee74e",
-      "title": "Don't Miss Out on Amazon's Fall Audible Deal: Pay $0.99 Per Month Plus Get $20 Credit",
-      "summary": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
-      "url": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T16:15:00+00:00"
-    },
-    {
-      "id": "45da749182e258e4f3f608c1",
-      "title": "Save 50% (Nearly $200 Off) the Daran 288Wh 600W LiFePO4 Power Station With Solar Panel Kit",
-      "summary": "Unlimited, renewable battery backup when the sun's out.",
-      "url": "https://www.ign.com/articles/daran-288wh-600w-lifepo4-power-station-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T16:15:00+00:00"
-    },
-    {
-      "id": "0e108732007338b24eeaaf13",
-      "title": "The 2026 LG Evo C6 4K OLED TV Drops to the Lowest Price of the Year Ahead of Black Friday",
-      "summary": "One of the best TVs for gaming.",
-      "url": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T16:15:00+00:00"
-    },
-    {
-      "id": "2fc2b70df12dd50a00569fe7",
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-20T16:11:56+00:00"
-    },
-    {
       "id": "f2fae121e77cc8dbf71d6647",
       "title": "Suspect arrested after historic town hall set alight - French media",
       "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
@@ -121,17 +330,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-20T16:06:39+00:00"
-    },
-    {
-      "id": "e11e2252b1f5ace5de62e996",
-      "title": "Cyberpunk TCG Reveals Edgerunners: Burn Bright Set for Spring 2027",
-      "summary": "Get an exclusive first look at Cyberpunk TCG: Edgerunners: Burn Bright, featuring cards for Maine and Falco, an all-new rarity tier, and a Spring 2027 launch.",
-      "url": "https://www.ign.com/articles/cyberpunk-tcg-reveals-edgerunners-burn-bright-set-for-spring-2027",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T16:05:48+00:00"
     },
     {
       "id": "ecb5e24ef192cfe7a40fa04d",
@@ -167,105 +365,6 @@
       "publishedAt": "2026-10-20T15:58:57+00:00"
     },
     {
-      "id": "3196210691fc3436af6baf48",
-      "title": "Magic: The Gathering’s Star Trek Booster Box Just Dropped To Its Lowest Price Ever",
-      "summary": "MTG x Star Trek Play Booster set preorders are 33% off right now, hitting their lowest price ever just a week before launch.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-star-trek-booster-box-lowest-price-ever",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T15:57:19+00:00"
-    },
-    {
-      "id": "dd224332f3e2545c362fb332",
-      "title": "Google says services recovering after cloud outage hits UK banks and websites",
-      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-20T15:37:26+00:00"
-    },
-    {
-      "id": "6a5ffd95bf1f9f834bef778c",
-      "title": "Bethesda Reveals What's Coming Next to Fallout 4 With First-Look at a Trio of New Mods",
-      "summary": "Bethesda has put its weight behind a trio of new Fallout 4 mods as part of the ongoing Fallout Day celebrations.",
-      "url": "https://www.ign.com/articles/bethesda-reveals-whats-coming-next-to-fallout-4-with-first-look-at-a-trio-of-new-mods",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T15:36:55+00:00"
-    },
-    {
-      "id": "4b735a7eed2fd39b072cf053",
-      "title": "‘If Hits Are Unexpected, Datasets Aren’t Gonna Get You There’ — Take-Two Interactive and Sony Bosses Say That AI Cannot Replace Human Creativity",
-      "summary": "Strauss Zelnick and Hiroki Totoki said that AI would not replace human creativity in the entertainment business, but they both still see it as a tool useful to the production pipeline.",
-      "url": "https://www.ign.com/articles/if-hits-are-unexpected-datasets-arent-gonna-get-you-there-take-two-interactive-and-sony-bosses-say-that-ai-cannot-replace-human-creativity",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T15:18:10+00:00"
-    },
-    {
-      "id": "a1c160fe121b5ebf49fddd48",
-      "title": "Modern Warfare 4 Rescues The Reboot Series By Replicating Call of Duty’s Greatest Era",
-      "summary": "Modern Warfare 4's great campaign is a fun rethink of COD's finest hour, turning Modern Warfare 2's iconic moments into exciting new missions.",
-      "url": "https://www.ign.com/articles/modern-warfare-4-rescues-the-reboot-series-by-replicating-call-of-dutys-greatest-era",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T15:00:00+00:00"
-    },
-    {
-      "id": "e851698129d119c866ba3174",
-      "title": "Razer Announces Xbox 25th Anniversary Collection of Peripherals for Xbox Series X|S and PC",
-      "summary": "Gaming peripheral maker Razer has announced a trio of products to mark Xbox's 25th anniversary this Fall. The Xbox 25th Anniversary limited-edition collection consists of three translucent-green versions of flagship Razer products: an ergonomic mouse, a mechanical keyboard, and wireless earbuds. All three are available now.",
-      "url": "https://www.ign.com/articles/razer-announces-xbox-25th-anniversary-collection-of-peripherals-for-xbox-series-xs-and-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T15:00:00+00:00"
-    },
-    {
-      "id": "e43143c15c1ffd920e9706a9",
-      "title": "Potential Steam Deck 2 Chip Shows Up in Leaked Benchmarks, Yet Another Potential Final Fantasy-Themed Codename",
-      "summary": "We've known for a while that Valve is working on a Steam Deck 2, but it's waiting for a chip that'll provide a \"true next-generation\" experience. Now, though, a potential APU for the handheld has appeared online, sparking speculation that work is ramping up.",
-      "url": "https://www.ign.com/articles/potential-steam-deck-2-chip-shows-up-in-leaked-benchmarks-yet-another-potential-final-fantasy-themed-codename",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T14:56:01+00:00"
-    },
-    {
-      "id": "ded4a15caab9440a450d654a",
-      "title": "Nintendo Pays Homage to Original 1998 Commercial for The Legend of Zelda: Ocarina of Time in New Remake Trailer",
-      "summary": "Nintendo has released a new The Legend of Zelda: Ocarina of Time remake trailer that pays homage to the 1998 commercial for the N64 masterpiece — and we’ve got a comparison video showing just how close it is to the original.",
-      "url": "https://www.ign.com/articles/nintendo-pays-homage-to-original-1998-commercial-for-the-legend-of-zelda-ocarina-of-time-in-new-remake-trailer",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T14:37:22+00:00"
-    },
-    {
-      "id": "900149acbd746a71d2ac91cd",
-      "title": "We Build LEGO PlayStation, a Near 1:1 Scale Replica of Sony's Classic Console",
-      "summary": "We build the LEGO PlayStation set, a near 1:1 scale replica of Sony's entry into the world of video games.",
-      "url": "https://www.ign.com/articles/we-build-lego-playstation-72306",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T14:22:33+00:00"
-    },
-    {
       "id": "215728302a26d5f85db1db66",
       "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
       "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
@@ -277,39 +376,6 @@
       "publishedAt": "2026-10-20T14:09:42+00:00"
     },
     {
-      "id": "aa277115aae0970a3abe0e19",
-      "title": "Stupid Never Dies Blends a Wacky Tone with Aggressive Gameplay to Create a Unique Pop-Punk Action Game",
-      "summary": "",
-      "url": "https://www.ign.com/articles/stupid-never-dies-blends-a-wacky-tone-with-aggressive-gameplay-to-create-a-unique-pop-punk-action-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T14:00:00+00:00"
-    },
-    {
-      "id": "193e8a08b71b516a051e625a",
-      "title": "Cyberpunk Edgerunners 2 Confirms a Popular Theory From the Game",
-      "summary": "In Netflix's Cyberpunk Edgerunners 2, a popular fan theory from Cyberpunk 2077 has been confirmed. Let’s talk about cyberpsychosis…",
-      "url": "https://www.ign.com/articles/cyberpunk-edgerunners-2-confirms-a-popular-theory-from-the-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T13:51:34+00:00"
-    },
-    {
-      "id": "e1feee0431a6de1c92462bd8",
-      "title": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports",
-      "summary": "A former Call of Duty designer has argued that developers should get royalties when older games are ported to new systems, saying it's \"hard to watch\" Xbox make money from the recently released and hugely successful Black Ops 1 and 2 ports on PlayStation.",
-      "url": "https://www.ign.com/articles/former-black-ops-dev-wants-royalties",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T13:48:03+00:00"
-    },
-    {
       "id": "78e54e87ec6da8d628499d59",
       "title": "Huge setback for Alberta's separatist movement after decisive defeat",
       "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
@@ -319,17 +385,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-20T13:39:11+00:00"
-    },
-    {
-      "id": "68c22cd2e8011c51d8ac5e68",
-      "title": "Free $5 Reward Certificate for Signing Up for the New Best Buy Gamers Program",
-      "summary": "Signing up for Best Buy's new Gamers program gets you a free $5 reward certificate, but only while supplies last.",
-      "url": "https://www.ign.com/articles/free-5-gift-card-new-best-buy-gamers-program",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T13:24:10+00:00"
     },
     {
       "id": "29d811816333c1ce5a788e46",
@@ -387,8 +442,8 @@
       "publishedAt": "2026-10-20T11:45:49+00:00"
     },
     {
-      "id": "f164a9e529beab935cc8d298",
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "id": "e9cb6a79d2a2f537057912f1",
+      "title": "Man charged with attack on Australia MP to face court",
       "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
       "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -695,17 +750,6 @@
       "publishedAt": "2026-10-19T14:13:18+00:00"
     },
     {
-      "id": "c44ceb12af78ab847cf8edab",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T14:06:53+00:00"
-    },
-    {
       "id": "ce7d6ee76ed984a9343d2ac9",
       "title": "Election présidentielle au Brésil : Meta a vingt-quatre heures pour prouver que la plateforme réserve le même traitement à Lula et à Flavio Bolsonaro",
       "summary": "Le président de gauche a accusé la plateforme américaine de restreindre la circulation de ses contenus sur Instagram et WhatsApp.",
@@ -750,28 +794,6 @@
       "publishedAt": "2026-10-19T12:35:33+00:00"
     },
     {
-      "id": "1852f839b730c9a7acdf0fcb",
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T11:41:24+00:00"
-    },
-    {
-      "id": "bb07837e877100c16793e945",
-      "title": "Italy plans tougher security measures after violent protests",
-      "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T11:23:36+00:00"
-    },
-    {
       "id": "2ed9e436b37f2696b4ff6f1a",
       "title": "Musk and Anthropic pledge public share giveaways",
       "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
@@ -781,17 +803,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-19T09:38:25+00:00"
-    },
-    {
-      "id": "8211c13b0ed926236db25eec",
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T09:11:42+00:00"
     },
     {
       "id": "da8f2a0952ce45164ae2a7e5",
@@ -814,17 +825,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-19T06:08:02+00:00"
-    },
-    {
-      "id": "e0a1dc0be4c40451be602da6",
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T06:00:18+00:00"
     },
     {
       "id": "5e41442ecfd714abf41209bd",
@@ -915,17 +915,6 @@
       "publishedAt": "2026-10-17T04:00:00+00:00"
     },
     {
-      "id": "fee9316587245468c7482e30",
-      "title": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les industriels et un rappel à la loi européenne pour la France",
-      "summary": "L’incident qui a touché plus de 700 magasins démontre la vulnérabilité de nombreux équipements, parfois anodins, connectés à Internet. Il met aussi en lumière le retard qu’a pris la France à transposer dans son droit national deux directives européennes sur la cybersécurité.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/17/la-cyberattaque-des-frigos-de-supermarche-un-signal-d-alarme-pour-tous-les-industriels-et-un-rappel-a-la-loi-europeenne-pour-la-france_6795846_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-17T04:00:00+00:00"
-    },
-    {
       "id": "ed5f1d986f64d3ee75e3d3f8",
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
       "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
@@ -957,17 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-16T05:12:48+00:00"
-    },
-    {
-      "id": "6a7fac6a28c4ea006f0c01d7",
-      "title": "Porn showing choking or incest to be banned from early November, government says",
-      "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-15T23:27:57+00:00"
     },
     {
       "id": "284d2eb2182c7753aa4fef44",
@@ -1034,17 +1012,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-26T01:00:13+00:00"
-    },
-    {
-      "id": "87547a529b98e3b3429b818a",
-      "title": "Tech Life",
-      "summary": "China is competing with the United States and other nations to develop AI.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-22T20:00:00+00:00"
     },
     {
       "id": "0867642fac582103c899000d",
