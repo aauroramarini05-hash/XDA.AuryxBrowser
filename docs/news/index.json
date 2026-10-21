@@ -1,27 +1,159 @@
 {
-  "updatedAt": "2026-10-21T05:33:41.491025+00:00",
+  "updatedAt": "2026-10-21T10:52:01.242858+00:00",
   "items": [
     {
-      "id": "408ab151efda8b3cfc8ff420",
-      "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
-      "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+      "id": "671e5b1699277050e34f8c4f",
+      "title": "Booking visé par une enquête de l’UE : « Les Européens doivent pouvoir réserver leurs vacances sans craindre d’être arnaqués »",
+      "summary": "La plateforme de réservation d’hôtels devra démontrer qu’elle a pris des mesures suffisantes afin de protéger ses clients contre les annonces trompeuses et les arnaques en ligne.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/21/booking-visee-par-une-enquete-de-l-ue-les-europeens-doivent-pouvoir-reserver-leurs-vacances-sans-craindre-d-etre-arnaques_6798241_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-21T10:43:57+00:00"
+    },
+    {
+      "id": "7097e0624eab707aabc2e46f",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T09:55:15+00:00"
+    },
+    {
+      "id": "3412f6954613d578c7458e21",
+      "title": "Fans React to Shrek 2 Remastered's Surprising PC Requirements",
+      "summary": "Shrek 2 isn’t exactly pushing the bounds of PC graphics, but the recommended specs for the remaster are surprisingly hefty.",
+      "url": "https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T09:53:34+00:00"
+    },
+    {
+      "id": "b1efc7948741fc731cd0de6b",
+      "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+      "summary": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
+      "url": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T09:36:28+00:00"
+    },
+    {
+      "id": "9d57525215745043e34cda8b",
+      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+      "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T09:22:23+00:00"
+    },
+    {
+      "id": "2eeb70bd4e93f065914583a0",
+      "title": "Toulon : des drones non autorisés ont survolé la base navale et d’autres sites militaires, selon la marine nationale",
+      "summary": "Les incidents ont eu lieu lors de l’exercice interarmées Typhon de défense et de protection du port militaire de Toulon, qui s’est tenu du 5 au 16 octobre, ce qui confirme une information d’Ici Provence.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/21/toulon-des-drones-non-autorises-ont-survole-plusieurs-sites-militaires-selon-la-marine-nationale_6798224_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-21T08:51:29+00:00"
+    },
+    {
+      "id": "dbd9600acb2d963f6b789a85",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-21T08:42:49+00:00"
+    },
+    {
+      "id": "f63d2bd7f74e92f784dfaf3c",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T08:31:48+00:00"
+    },
+    {
+      "id": "8ee1b51deb6a03b4ce4e5b5a",
+      "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
+      "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
+      "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T08:19:32+00:00"
+    },
+    {
+      "id": "a5f49ed48aa181cfec7141fc",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T07:56:30+00:00"
+    },
+    {
+      "id": "d786ceac0f9a18879b6f0849",
+      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T06:50:40+00:00"
+    },
+    {
+      "id": "0551d2c7fbc650416d34049a",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
       "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-10-21T04:13:14+00:00"
+      "publishedAt": "2026-10-21T06:36:39+00:00"
     },
     {
-      "id": "387fc903dd98fdbd5c918e5e",
-      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "id": "abe65f58d0019f741101dec8",
+      "title": "« On pourrait croire que c’est de l’IA » : quand la peur du soupçon change notre façon d’écrire",
+      "summary": "A mesure que ChatGPT et consorts s’installent dans les usages, certains redoutent de voir leurs écrits attribués à l’intelligence artificielle. Pour échapper aux soupçons, ils adaptent leur façon d’écrire, quitte à laisser volontairement des fautes ou à renoncer à certaines tournures de phrase.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/21/on-pourrait-croire-que-c-est-de-l-ia-quand-la-peur-du-soupcon-change-notre-facon-d-ecrire_6798209_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-21T06:00:06+00:00"
+    },
+    {
+      "id": "037500f019d4b64d79c3cd3f",
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-21T03:59:18+00:00"
+      "publishedAt": "2026-10-21T05:46:33+00:00"
     },
     {
       "id": "fa0d2e2ef48de5b6a68afe21",
@@ -68,17 +200,6 @@
       "publishedAt": "2026-10-21T02:37:13+00:00"
     },
     {
-      "id": "d5dcdc494974c98ea5f36078",
-      "title": "France is divided over who to blame for weekend riots and what to learn from them",
-      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-21T01:22:51+00:00"
-    },
-    {
       "id": "83a2a596dd210fecb59b33b1",
       "title": "Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'",
       "summary": "VisionQuest improves in Episodes 3 and 4, as Paul Bettany's White Vision begins to make strides in recapturing his missing humanity.",
@@ -112,17 +233,6 @@
       "publishedAt": "2026-10-20T23:51:43+00:00"
     },
     {
-      "id": "7097e0624eab707aabc2e46f",
-      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
-      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-20T23:41:30+00:00"
-    },
-    {
       "id": "2f01bb424c8fc4e42c48ff6d",
       "title": "KPop Demon Hunters 2 Gets a Theatrical Release After First Movie's Smashing Success on Streaming",
       "summary": "The KPop Demon Hunters sequel won’t be repeating the mistakes of its predecessor, having secured a guaranteed theatrical release following the first film’s smashing success.",
@@ -132,17 +242,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-20T23:34:42+00:00"
-    },
-    {
-      "id": "03c4c8d9424ed448b49362b6",
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-20T23:24:47+00:00"
     },
     {
       "id": "7f2ee5c4b3815f20c95f328f",
@@ -310,8 +409,8 @@
       "publishedAt": "2026-10-20T20:05:00+00:00"
     },
     {
-      "id": "e2770a321f16f1ae1105b7ca",
-      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "id": "1105809daadee8f67e189843",
+      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
       "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -396,28 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-20T19:30:05+00:00"
-    },
-    {
-      "id": "608a480380f56ee9e73ecb79",
-      "title": "AMD FSR 4.1 Is Finally Coming to Xbox Series X, Rivaling PS5's QSSR",
-      "summary": "AMD FSR 4.1 has been a massive improvement for Team Red's AI upscaling tech, but it was previously only available on Radeon 7000 and 9000 graphics cards. But today, AMD has announced that the technology will now be coming to more devices, like the Xbox Series X.",
-      "url": "https://www.ign.com/articles/amd-fsr-41-is-finally-coming-to-xbox-series-x-rivaling-ps5s-qssr",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T19:12:13+00:00"
-    },
-    {
-      "id": "de6531668deed2cb1e3b504c",
-      "title": "Xbox's Next Console May Reportedly Cost As Much as $1,800, New Handheld Rumored to Launch Next Year Before Helix",
-      "summary": "A new report claims that Xbox expects its next-generation console to cost as much as $1,800 and is currently targeting a 2028 release.",
-      "url": "https://www.ign.com/articles/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-handheld-rumored-to-launch-next-year-before-helix",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T19:08:58+00:00"
     },
     {
       "id": "4d6fd642a303b3bff522e103",
@@ -849,17 +926,6 @@
       "publishedAt": "2026-10-19T09:38:25+00:00"
     },
     {
-      "id": "da8f2a0952ce45164ae2a7e5",
-      "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-      "summary": "Violence broke out across France, with more than half a million people taking to the streets over the weekend.",
-      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-19T06:40:35+00:00"
-    },
-    {
       "id": "5a8ca83f357f3d606fe73ae4",
       "title": "China's growth accelerates as AI boom helps boost exports",
       "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
@@ -871,17 +937,6 @@
       "publishedAt": "2026-10-19T06:08:02+00:00"
     },
     {
-      "id": "5e41442ecfd714abf41209bd",
-      "title": "Influenceurs sous la critique : la fin d’une époque ?",
-      "summary": "Déconnectés, insensibles aux causes politiques et écologiques… Cet été, les créateurs de contenu ont été particulièrement critiqués par une partie de leur communauté. Dans ce podcast, Vincent Manilève et Aurélien Defer, journalistes au « Monde », retracent dix ans de mutation du milieu de l’influence et analysent l’évolution du lien parasocial qui ",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/10/19/influenceurs-sous-la-critique-la-fin-d-une-epoque_6797366_5463015.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-19T03:00:05+00:00"
-    },
-    {
       "id": "b723b6e80d1a6f03485ceb34",
       "title": "Don't fall for this - how to protect yourself from AI scams",
       "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
@@ -891,39 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-18T23:24:59+00:00"
-    },
-    {
-      "id": "c43766df2bc2869daf478fde",
-      "title": "« Une large partie de la communauté scientifique considère que les risques liés à l’IA sont significatifs »",
-      "summary": "L’idée qu’un « marketing de la peur » serait développé dans l’intérêt des entreprises d’intelligence artificielle fait fi des menaces réelles que l’IA fait peser sur l’humanité, alertent des spécialistes du secteur dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/18/une-large-partie-de-la-communaute-scientifique-considere-que-les-risques-lies-a-l-ia-sont-significatifs_6797088_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-18T16:00:01+00:00"
-    },
-    {
-      "id": "1171e7bdc9ecb2da262e3b41",
-      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
-      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-18T11:09:32+00:00"
-    },
-    {
-      "id": "4df04d6f1dddb2ff6ef8b61b",
-      "title": "« La cyberattaque visant les congélateurs des supermarchés montre à quel point Internet et le monde physique sont désormais imbriqués »",
-      "summary": "Les hackeurs ne s’intéressent pas qu’à nos données. Leurs actions, comme le piratage, dans la nuit du 11 au 12 octobre, de plusieurs centaines de magasins, entraînant la destruction de grandes quantités de nourriture, ont des conséquences matérielles très concrètes, explique Damien Leloup, journaliste au service Pixels, dans sa chronique.",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/18/la-cyberattaque-visant-les-congelateurs-des-supermarches-montre-a-quel-point-internet-et-le-monde-physique-sont-desormais-imbriques_6796994_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-18T04:00:25+00:00"
     },
     {
       "id": "4f831371de60ef34bf5bd77f",
