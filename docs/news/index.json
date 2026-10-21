@@ -1,6 +1,248 @@
 {
-  "updatedAt": "2026-10-21T10:52:01.242858+00:00",
+  "updatedAt": "2026-10-21T15:45:03.312990+00:00",
   "items": [
+    {
+      "id": "02d09fcd80777ce74abd67d9",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-21T15:37:49+00:00"
+    },
+    {
+      "id": "6e75b025eec4040592fac62d",
+      "title": "De nombreux sites soudainement mis « en maintenance » pour contrer des failles dans un langage de programmation PHP",
+      "summary": "Le langage de programmation PHP, massivement utilisé dans le monde, a fait l’objet de correctifs en urgence, mercredi 21 octobre, après la découverte de deux vulnérabilités. De nombreux sites Web ont été mis hors ligne par précaution, afin d’éviter des attaques.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/21/failles-php-pourquoi-de-nombreux-sites-ont-soudainement-ete-mis-en-maintenance_6798279_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-21T15:03:12+00:00"
+    },
+    {
+      "id": "92d28bb3d0e536ecd6a29b96",
+      "title": "« L’IA pourrait freiner la croissance économique de plusieurs façons »",
+      "summary": "Les Big Tech de la Silicon Valley, en Californie, promettent que l’intelligence artificielle aura un impact bénéfique sur la productivité, mais cela relève de l’illusion, estime Ian Goldin, professeur à Oxford, dans sa chronique au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/21/l-ia-pourrait-freiner-la-croissance-economique-de-plusieurs-facons_6798275_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-21T15:00:11+00:00"
+    },
+    {
+      "id": "7b5138f64d7b41545046c154",
+      "title": "Fallout Day Continues: The World of Fallout Museum Exhibit Expands, Choose the Flavor of Nuka Twist, and More",
+      "summary": "As part of the ongoing Fallout Day celebrations, Bethesda has revealed new Fallout partnerships in the real world.",
+      "url": "https://www.ign.com/articles/fallout-day-continues-the-world-of-fallout-museum-exhibit-expands-choose-the-flavor-of-nuka-twist-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T15:00:00+00:00"
+    },
+    {
+      "id": "f38bf7d0dbb968390e6b2bf5",
+      "title": "One Piece: Grand Gourmet Review",
+      "summary": "Unless you’re an established fan of One Piece and want some fan service, there’s no rush to climb aboard for this culinary voyage.",
+      "url": "https://www.ign.com/articles/one-piece-grand-gourmet-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T14:59:50+00:00"
+    },
+    {
+      "id": "3bd1e1edf0d9c5200f545543",
+      "title": "First Permanent Pokémon Store Outside Asia to Open in London by 2029",
+      "summary": "The first permanent Pokémon store outside Asia will open in London “by 2029.”",
+      "url": "https://www.ign.com/articles/london-first-permanent-pokemon-store-outside-asia",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T14:30:25+00:00"
+    },
+    {
+      "id": "1bf4e2ee8b4414adaeeb083e",
+      "title": "How Being An Outsider Fueled Stranger Than Heaven's Director and Actor to Craft Its Story",
+      "summary": "Director Mikinobu Abe and lead actor Yu Shirota see Stranger Than Heaven as a more personal story about being an outcast in your own culture.",
+      "url": "https://www.ign.com/articles/stranger-than-heaven-interview-abe-shirota-ado-story-and-music",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T14:20:58+00:00"
+    },
+    {
+      "id": "0084b18139ca2d635f2b6fd6",
+      "title": "Halo Special Edition Xbox Console Hallmark Keepsake Ornament Is Now Available",
+      "summary": "Hallmark has just released a delightful Keepsake Ornament based on the Halo Special Edition of the original Xbox console that Microsoft released in 2004.",
+      "url": "https://www.ign.com/articles/halo-special-edition-xbox-console-hallmark-keepsake-ornament-is-now-available",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T14:06:49+00:00"
+    },
+    {
+      "id": "864eb7f138abf6b8b9e32c03",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T14:04:28+00:00"
+    },
+    {
+      "id": "746dfd6603f1b82cfcf8fcc7",
+      "title": "Dragon Ball Xenoverse 3 Spices Up Anime Fighters With the Soul Switching Mechanic | IGN Preview",
+      "summary": "Dragon Ball Xenoverse 3's bigger focus on multiplayer PvE seems like the right direction for Xenoverse. Not just because it would be tough to top Xenoverse 2 as one of the shining examples of the Anime Fighter genre and live service games in general, but as a potential tone-setter for the genre going forward.",
+      "url": "https://www.ign.com/articles/dragon-ball-xenoverse-3-spices-up-anime-fighters-with-the-soul-switching-mechanic-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "id": "5e45a796fa3dc4d35ea38257",
+      "title": "Stranger Than Heaven: The Final Preview of the Yakuza Team’s Ambitious, Decades-Spanning Action-Adventure",
+      "summary": "in a new three-hour demo, I got to play Stranger Than Heaven from the start, see a bit of its decade-spanning story in action, and explore the different towns that represent each time period. That also meant getting real familiar with how to throw hands in the re-tuned combat, and it feels like I've done a complete 180-degree turn on RGG Studio's n",
+      "url": "https://www.ign.com/articles/stranger-than-heaven-the-final-preview-of-the-yakuza-teams-ambitious-decades-spanning-action-adventure",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "id": "59e77cb88528fea67533f4bd",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T13:49:50+00:00"
+    },
+    {
+      "id": "7ee08f5a4ef5ccb84604739e",
+      "title": "La députée et ancienne ministre Agnès Pannier-Runacher visée par un logiciel espion",
+      "summary": "Selon le site « Politico », la piste du logiciel Pegasus, développé par l’entreprise israélienne NSO, a été écartée à ce stade.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/21/la-deputee-et-ancienne-ministre-agnes-pannier-runacher-visee-par-un-logiciel-espion_6798261_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-21T13:49:09+00:00"
+    },
+    {
+      "id": "67d733ca30e410d9049820c6",
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T13:35:27+00:00"
+    },
+    {
+      "id": "23295ec92f5fb8d380c092d8",
+      "title": "Samsung Galaxy Tab S12 Ultra Australia Launch: Everything You Need to Know, Specs and Local Pricing",
+      "summary": "",
+      "url": "https://www.ign.com/articles/samsung-galaxy-tab-s12-ultra-australia-launch-impressions-specs-local-pricing-au",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "id": "493aaa91f803a4b10c7b8cd7",
+      "title": "Netflix, en mal de croissance et en pleine restructuration, peine à convaincre Wall Street malgré des bénéfices en hausse",
+      "summary": "La plateforme de streaming enregistre des rentrées publicitaires décevantes et souffre de la diminution du temps passé devant ses programmes.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/21/netflix-en-mal-de-croissance-et-en-pleine-restructuration-peine-a-convaincre-wall-street-malgre-des-benefices-en-hausse_6798250_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-21T12:45:08+00:00"
+    },
+    {
+      "id": "2b9370285f7da8865da1ed07",
+      "title": "Orange touché par une panne nationale sur son réseau mobile",
+      "summary": "« Cet incident perturbe fortement les appels, les SMS et les usages mobiles pour une partie des clients », a expliqué mercredi l’entreprise, qui comptabilisait quelque 21,6 millions de clients mobiles en France à la fin de juin.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/21/orange-touche-par-une-panne-nationale-sur-son-reseau-mobile_6798249_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-21T12:43:13+00:00"
+    },
+    {
+      "id": "91d4eda366b552e02eddb847",
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-21T12:39:34+00:00"
+    },
+    {
+      "id": "845851974967c05d682f514e",
+      "title": "CD Projekt's Cyberpunk 2077 Loremaster Confirms Year Edgerunners 2 Is Set, Sparking Fan Speculation About Canon Endings",
+      "summary": "CD Projekt Red loremaster Patrick Mills has revealed the exact year Cyberpunk: Edgerunners 2 takes place, amid speculation from fans about what it means for the ending of Cyberpunk 2077.",
+      "url": "https://www.ign.com/articles/edgerunners-season-2-officially-set-after-cyberpunk-2077",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T12:21:38+00:00"
+    },
+    {
+      "id": "176d8d4dee73569630ecd7a3",
+      "title": "Warhammer 40,000: Dawn of War 4 – Detailed Impressions of the Necron and AdMech Factions | IGN Preview",
+      "summary": "I had a great time getting chromed up with the Adeptus Mechanicus and the Necrons in Warhammer 40,000: Dawn of War 4. The campaign story really starts to come together in some interesting ways in its second chapter. And the ways both of these factions control space differently feel like engaging and welcome additions to the roster compared to the m",
+      "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-detailed-impressions-of-the-necron-and-admech-factions-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T12:00:00+00:00"
+    },
+    {
+      "id": "8eb7d96de2ffb668e1fe084c",
+      "title": "Crimson Desert Charting the Unknown DLC Features Revealed, Including Shipbuilding, Romance, and Housing",
+      "summary": "Pearl Abyss has pulled back the curtain on the upcoming Crimson Desert DLC, Charting the Unknown, revealing what players can expect. Here's a rundown of all the new features, systems, and mechanics.",
+      "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-dlc-features-revealed-including-shipbuilding-romance-and-housing",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T11:29:54+00:00"
+    },
+    {
+      "id": "7cb24dd388c6308756b9a641",
+      "title": "'Aragorn Will Always Be Viggo,' Says Jamie Dornan Ahead of His Turn as the Iconic Character in The Lord of the Rings: The Hunt for Gollum",
+      "summary": "Jamie Dornan will play a younger Aragorn in The Lord of the Rings: The Hunt for Gollum, but he’s aware of the magnitude of his role, and doesn’t see his take on the character as a replacement for Viggo Mortensen.",
+      "url": "https://www.ign.com/articles/aragorn-will-always-be-viggo-says-jamie-dornan-the-hunt-for-gollum",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-21T10:55:21+00:00"
+    },
     {
       "id": "671e5b1699277050e34f8c4f",
       "title": "Booking visé par une enquête de l’UE : « Les Européens doivent pouvoir réserver leurs vacances sans craindre d’être arnaqués »",
@@ -46,17 +288,6 @@
       "publishedAt": "2026-10-21T09:36:28+00:00"
     },
     {
-      "id": "9d57525215745043e34cda8b",
-      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
-      "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-21T09:22:23+00:00"
-    },
-    {
       "id": "2eeb70bd4e93f065914583a0",
       "title": "Toulon : des drones non autorisés ont survolé la base navale et d’autres sites militaires, selon la marine nationale",
       "summary": "Les incidents ont eu lieu lors de l’exercice interarmées Typhon de défense et de protection du port militaire de Toulon, qui s’est tenu du 5 au 16 octobre, ce qui confirme une information d’Ici Provence.",
@@ -90,8 +321,8 @@
       "publishedAt": "2026-10-21T08:31:48+00:00"
     },
     {
-      "id": "8ee1b51deb6a03b4ce4e5b5a",
-      "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
+      "id": "4e9d35d33c4a25e9477aac8c",
+      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
       "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
       "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -299,39 +530,6 @@
       "publishedAt": "2026-10-20T22:22:17+00:00"
     },
     {
-      "id": "e3f1aee59f57d7440a58d619",
-      "title": "Save $50 Off a 512GB Nintendo Switch 2 Memory Card That We've Personally Tested and Vetted",
-      "summary": "The Samsung P9 MicroSD Express card will triple your total Switch 2 storage.",
-      "url": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T22:05:00+00:00"
-    },
-    {
-      "id": "d3c0a4a8ecd4b8f095f88b18",
-      "title": "Mel Brooks Insisted on Shooting His Scenes for Spaceballs: The New One Before the Rest of the Cast",
-      "summary": "Mel Brooks, the centenarian comedy legend who directed the original Spaceballs, arranged to have his scenes for Spaceballs: The New One shot first to ensure his character Yogurt made it into the movie lest he pass away during production.",
-      "url": "https://www.ign.com/articles/mel-brooks-spaceballs-sequel-scenes-filmed-first",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T21:46:43+00:00"
-    },
-    {
-      "id": "f6aeb2f4d41579156ce3c009",
-      "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
-      "summary": "It appears that Rockstar may be preparing to sell beer brands from GTA 6 in real life.",
-      "url": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T21:07:11+00:00"
-    },
-    {
       "id": "4a4e3aa029edafdb1988550c",
       "title": "Après les violences urbaines du 17 octobre, le gouvernement et Renaissance s’en prennent aux réseaux sociaux",
       "summary": "Des ministres, des élus et le candidat du parti à la présidentielle, Gabriel Attal, ont accusé les réseaux sociaux d’avoir joué un rôle dans les émeutes – sans apporter beaucoup de preuves.",
@@ -354,63 +552,8 @@
       "publishedAt": "2026-10-20T21:05:50+00:00"
     },
     {
-      "id": "bc0372c882d9c1a1d1a43bd1",
-      "title": "Greta Gerwig Reportedly Clashed With Netflix Film Boss Over Narnia: The Magician’s Nephew",
-      "summary": "Barbie writer-director Greta Gerwig reportedly had a bitter falling out with Netflix’s then-head of film, Dan Lin, over her upcoming movie, Narnia: The Magician’s Nephew.",
-      "url": "https://www.ign.com/articles/greta-gerwig-netflix-narnia-clash",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T20:51:21+00:00"
-    },
-    {
-      "id": "43c6fb0cd8fbaf7d59efe1a0",
-      "title": "Police Confirm Nearly $1 Million Worth of Trading Cards Stolen in PSA FedEx Truck Heist",
-      "summary": "Police in Santa Ana, California estimate that more than $963,000 in collectible trading cards was stolen from a FedEx truck outside of PSA’s Santa Ana headquarters.",
-      "url": "https://www.ign.com/articles/police-confirm-nearly-1-million-worth-of-trading-cards-stolen-in-psa-fedex-truck-heist",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T20:20:02+00:00"
-    },
-    {
-      "id": "3f750672a8aaea13cbce9c60",
-      "title": "Fight Night, EA's Beloved but Long-Dormant Boxing Sim Franchise, Is Coming Back",
-      "summary": "Electronic Arts created social media accounts for its long-dormant boxing sim franchise Fight Night and the first post was exactly what fans wanted to hear: Fight Night is coming back.",
-      "url": "https://www.ign.com/articles/fight-night-eas-beloved-but-long-dormant-boxing-sim-franchise-is-coming-back",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T20:17:37+00:00"
-    },
-    {
-      "id": "163a4e96b5a51df81546bae0",
-      "title": "New Star Wars/Marvel: Hope Assembles Artwork Answers the Biggest Question About This Epic Crossover",
-      "summary": "Marvel Comics has released a new preview for Star Wars/Marvel: Hope Assembles, in the process answering the biggest burning question surrounding this unlikely crossover.",
-      "url": "https://www.ign.com/articles/star-wars-marvel-hope-assembles-crossover-preview-art-biggest-question",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T20:14:38+00:00"
-    },
-    {
-      "id": "ee57135a940c4367159e1e9e",
-      "title": "Save 20% Off the LEGO Star Wars Ultimate Collector Series AT-ST Walker With Exclusive Mini-Fig",
-      "summary": "A rare opportunity to pick up a Star Wars UCS set at a discount.",
-      "url": "https://www.ign.com/articles/save-20-off-the-lego-star-wars-ultimate-collector-series-at-st-walker-with-exclusive-mini-fig",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T20:05:00+00:00"
-    },
-    {
-      "id": "1105809daadee8f67e189843",
-      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+      "id": "0676835fd2ebaab8f949b8a2",
+      "title": "Trump and Zelensky at loggerheads despite new optimism",
       "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -431,17 +574,6 @@
       "publishedAt": "2026-10-20T19:45:00+00:00"
     },
     {
-      "id": "10a231e30ae432a738348af0",
-      "title": "The CyberPowerPC Gaming PC RTX 5060 Ti Prebuilt Gaming PC Drops to $1,249 at Walmart",
-      "summary": "Significantly more powerful than the Steam Machine.",
-      "url": "https://www.ign.com/articles/cyberpowerpc-rtx-5060-ti-gaming-pc-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T19:45:00+00:00"
-    },
-    {
       "id": "659c6b6a093b156b66c7948d",
       "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
       "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
@@ -451,39 +583,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-20T19:42:32+00:00"
-    },
-    {
-      "id": "f9105bc051ac5c8cd127e10f",
-      "title": "Xbox Game Pass Reportedly Getting 'Major Overhaul,' Will Feature 'À La Carte' Options",
-      "summary": "Microsoft is reportedly planning a substantial revamp of Xbox Game Pass that will allow subscribers to choose the features they want in an à la carte fashion. The report comes by way of a new Fortune profile piece on Xbox CEO Asha Sharma.",
-      "url": "https://www.ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T19:40:15+00:00"
-    },
-    {
-      "id": "f783b085501d87ddc16e1bc9",
-      "title": "Get a Bose Soundbar Speaker for Under $100 Ahead of Black Friday",
-      "summary": "An affordable yet significant upgrade from your anemic built-in TV speakers.",
-      "url": "https://www.ign.com/articles/bose-solo-soundbar-deal-october-2026-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T19:40:00+00:00"
-    },
-    {
-      "id": "b3e4075ac683ebb7e236ced9",
-      "title": "Umamusume Fans Distraught After Los Angeles Concerts Canceled Due to Visa Issues",
-      "summary": "Umamusume concerts in Los Angeles have been canceled after workers could not get their visas approved in time for the event, leaving American fans distraught.",
-      "url": "https://www.ign.com/articles/umamusume-fans-distraught-after-los-angeles-concerts-canceled-due-to-visa-issues",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-20T19:38:27+00:00"
     },
     {
       "id": "a027d93bc532da159022e38f",
@@ -717,17 +816,6 @@
       "publishedAt": "2026-10-20T02:45:05+00:00"
     },
     {
-      "id": "8be355ee2f930ad5e5c00576",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-20T01:52:43+00:00"
-    },
-    {
       "id": "74b00b98ac2abd3b713d921d",
       "title": "US church on front line of battle against drug known as 'tranq'",
       "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
@@ -827,39 +915,6 @@
       "publishedAt": "2026-10-19T16:16:51+00:00"
     },
     {
-      "id": "53d60e205253127f33781288",
-      "title": "Pillages du 17 octobre : Vinted, eBay et Leboncoin sommés d’empêcher la revente d’objets volés",
-      "summary": "Les ministres du commerce et du numérique ont convoqué plusieurs plateformes afin de s’assurer de leur coopération pour identifier d’éventuels revendeurs de produits provenant des boutiques attaquées lors du week-end, en parallèle des manifestations.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/19/pillages-du-17-octobre-vinted-ebay-et-leboncoin-sommes-d-empecher-la-revente-d-objets-voles_6797561_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-19T16:02:08+00:00"
-    },
-    {
-      "id": "94c58aa8e186b51659704baf",
-      "title": "Les mangas, avec leurs figures rebelles et résilientes, s’invitent dans les blocages lycéens et les manifestations",
-      "summary": "Les personnages de « One Piece », « Naruto » ou « Dragon Ball » sont souvent invoqués dans les défilés protestataires et sur les réseaux sociaux.",
-      "url": "https://www.lemonde.fr/culture/article/2026/10/19/les-mangas-avec-leurs-figures-rebelles-et-resilientes-s-invitent-dans-les-manifestations_6797560_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-19T16:00:17+00:00"
-    },
-    {
-      "id": "5aa412764285d44786682ec0",
-      "title": "Manifestations du 17 octobre : sur les réseaux sociaux, des images de violences particulièrement virales",
-      "summary": "Pillages et affrontements de samedi ont été largement filmés et diffusés, pour certains en direct, notamment sur TikTok.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/19/mobilisation-du-17-octobre-sur-les-reseaux-sociaux-des-images-de-violences-particulierement-virales_6797548_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-19T15:00:03+00:00"
-    },
-    {
       "id": "1bfa03a7b8d6869f5db249d1",
       "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
@@ -869,17 +924,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-19T14:13:18+00:00"
-    },
-    {
-      "id": "ce7d6ee76ed984a9343d2ac9",
-      "title": "Election présidentielle au Brésil : Meta a vingt-quatre heures pour prouver que la plateforme réserve le même traitement à Lula et à Flavio Bolsonaro",
-      "summary": "Le président de gauche a accusé la plateforme américaine de restreindre la circulation de ses contenus sur Instagram et WhatsApp.",
-      "url": "https://www.lemonde.fr/international/article/2026/10/19/election-presidentielle-au-bresil-meta-a-24-heures-pour-prouver-que-la-plate-forme-reserve-le-meme-traitement-a-lula-et-flavio-bolsonaro_6797534_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-19T13:59:31+00:00"
     },
     {
       "id": "d1c5646088ab94ca494bf8a7",
@@ -902,17 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-19T12:58:39+00:00"
-    },
-    {
-      "id": "074d5ce98da869cd49a5b5f5",
-      "title": "Après les pillages du 17 octobre, les cagnottes en soutien aux commerçants se multiplient en ligne, avec des risques d’arnaques",
-      "summary": "Sur Internet, certains commerçants appellent au soutien après le saccage de leur boutique le 17 octobre, quand d’autres, dont les images sont devenues virales malgré eux, se voient offrir des milliers d’euros par les internautes.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/19/apres-les-pillages-du-17-octobre-les-cagnottes-en-soutien-aux-commercants-se-multiplient-en-ligne-avec-des-risques-d-arnaques_6797523_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-19T12:35:33+00:00"
     },
     {
       "id": "2ed9e436b37f2696b4ff6f1a",
@@ -946,17 +979,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-18T23:24:59+00:00"
-    },
-    {
-      "id": "4f831371de60ef34bf5bd77f",
-      "title": "No further action against government adviser's wife over Palestine Action post, police say",
-      "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-17T20:24:32+00:00"
     },
     {
       "id": "284d2eb2182c7753aa4fef44",
