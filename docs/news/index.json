@@ -1,60 +1,357 @@
 {
-  "updatedAt": "2026-10-23T13:57:15.666425+00:00",
+  "updatedAt": "2026-10-23T18:04:24.625316+00:00",
   "items": [
     {
-      "id": "2d904e6c9cf0f9c0c77f352e",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-      "summary": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+      "id": "0f7273ede188a3eb43920c02",
+      "title": "Comment le 17 octobre est instrumentalisé par des influenceurs pour attirer l’attention de l’extrême droite à l’étranger, de Musk à Bukele",
+      "summary": "Sur le réseau social X, des personnalités comme Thaïs d’Escufon, Brivael Le Pogam et Alice Cordier commentent en anglais les images des manifestations et des violences. Leur objectif : propager un narratif xénophobe tout en assurant leur autopromotion.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/23/comment-le-17-octobre-est-instrumentalise-par-des-influenceurs-pour-attirer-l-attention-de-l-extreme-droite-a-l-etranger-de-musk-a-bukele_6799136_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-23T18:00:02+00:00"
+    },
+    {
+      "id": "21780cdc403d52230dbc622f",
+      "title": "Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions",
+      "summary": "Following the cancellation of Mass Effect 5, purportedly called Mass Effect Universe, last week – alongside the closure of the entire BioWare development studio – new gameplay details about the role-playing game revival have emerged, including handcrafted missions that gave players Hitman-style freedom, the abililty to hack the environment, brutal ",
+      "url": "https://www.ign.com/articles/mass-effect-5-details-revealed-following-cancellation-including-hitman-style-freedom-in-missions",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T17:40:59+00:00"
+    },
+    {
+      "id": "05d9d3c1026466a388f0e1fd",
+      "title": "KPop Demon Hunters Is Getting Yet Another Immersive Gaming Experience in Early 2027",
+      "summary": "Immersive Gamebox is teaming up with Netflix to bring fans into the world of KPop Demon Hunters. A new interactive gaming experience based on the animated streaming hit will launch across select U.S. locations in January 2027.",
+      "url": "https://www.ign.com/articles/kpop-demon-hunters-is-getting-yet-another-immersive-gaming-experience-in-early-2027",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T17:39:55+00:00"
+    },
+    {
+      "id": "b30db1e8669cfbf722e039c8",
+      "title": "Acer's New $1299 Predator Atlas 8 Intel Arc G3 Extreme Handheld Gaming PC Is Now Available at Best Buy",
+      "summary": "Aims to topple the Ryzen Z2 Extreme from its throne.",
+      "url": "https://www.ign.com/articles/acer-predator-atlas-8-intel-arc-g3-extreme-handheld-gaming-pc-is-now-available",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T17:00:00+00:00"
+    },
+    {
+      "id": "86ee6704573cfea05c000754",
+      "title": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI’s Release",
+      "summary": "",
+      "url": "https://www.ign.com/articles/ign-is-partnering-with-best-buy-for-3-weeks-of-giveaways-leading-up-to-gta-vis-release",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T17:00:00+00:00"
+    },
+    {
+      "id": "0e582b5ea3fc2fefd38291f7",
+      "title": "Work, Game, Watch, Create: The Lenovo Legion 5i Is Strong Enough for All of It",
+      "summary": "",
+      "url": "https://www.ign.com/articles/work-game-watch-create-the-lenovo-legion-5i-is-strong-enough-for-all-of-it",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T17:00:00+00:00"
+    },
+    {
+      "id": "4e1c7787bf995d166036906a",
+      "title": "Yaga Episodes 1 & 2 Recap and Review",
+      "summary": "Yaga Premiere Review: Kat Sandler’s retelling of the Slavic witchy folktale will have you grasping for more clues in the dark, while your jaw is dropped wide open.",
+      "url": "https://www.ign.com/articles/yaga-episodes-1-2-recap-and-review-hudson-williams-carrie-anne-moss-noah-reid-clark-backo",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T17:00:00+00:00"
+    },
+    {
+      "id": "0e626cf5cbf145b7c92aadb2",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-23T16:59:51+00:00"
+    },
+    {
+      "id": "6f3ff2f9009ed3e382d78a2d",
+      "title": "Inde Navarrette Reveals Sneak Peek at Her Rogue Accent Ahead of X-Men Debut",
+      "summary": "Inde Navarrette revealed a sneak peek at her Rogue accent in a new video featuring her take on the X-Men hero's iconic \"sugar\" catchphrase, but she's willing to \"work on it\" if fans don't like it.",
+      "url": "https://www.ign.com/articles/inde-navarrette-reveals-sneak-peek-at-her-rogue-accent-ahead-of-x-men-debut",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T16:57:32+00:00"
+    },
+    {
+      "id": "ac66d09fbcda23fa6b985eef",
+      "title": "BioWare May Be Gone, But Its Spirit Lives On in These Games",
+      "summary": "BioWare was shut down by EA earlier this week. While the studio had struggled through a long stretch without putting out a genuine classic, it’s no lie to say it was behind some of the best RPGs of all time. At its peak, with games like Star Wars: Knights of the Old Republic, Mass Effect and Dragon Age: Origins, BioWare was a pioneer of not only bu",
+      "url": "https://www.ign.com/articles/bioware-may-be-gone-but-its-spirit-lives-on-in-these-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T16:52:35+00:00"
+    },
+    {
+      "id": "8e62f42bbad6e08962743495",
+      "title": "Clayface’s 4K Steelbook Is Now Available To Preorder – Here’s Where To Buy It",
+      "summary": "Preorders have officially gone up for Clayface's physical release on 4K, Blu-ray, and its 4K Steelbook. Here's where each is available to preorder right now and how much they cost.",
+      "url": "https://www.ign.com/articles/clayface-4k-steelbook-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T16:42:56+00:00"
+    },
+    {
+      "id": "224568941477b6b66618b08c",
+      "title": "Humble Bundle’s Sci-Fi Exposure Bundle Is Stacked With 8 Games for $25, Including Marathon",
+      "summary": "To celebrate its 15th anniversary, Humble Bundle has dropped a new Sci-Fi Exposure Bundle which features 8 thrilling sci-fi games – including Bungie's Marathon – which you can get for as low as $25.",
+      "url": "https://www.ign.com/articles/humble-bundles-sci-fi-exposure-bundle-is-stacked-with-8-games-for-25-including-marathon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T16:40:24+00:00"
+    },
+    {
+      "id": "70d194d48019d0de72bdbcdd",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
       "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-23T13:37:20+00:00"
+      "publishedAt": "2026-10-23T16:33:11+00:00"
     },
     {
-      "id": "72d936c655b636e11af7485a",
-      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
-      "summary": "French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended.",
+      "id": "406a9b2a87ec2abf8ce37385",
+      "title": "This Comfortable Big and Tall Gaming Chair Drops to $129.99 With Free Delivery Ahead of Black Friday",
+      "summary": "An inviting gaming chair without the high dollar price tag",
+      "url": "https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T16:20:00+00:00"
+    },
+    {
+      "id": "1a266c2ec9309b7128f454ff",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-23T16:19:36+00:00"
+    },
+    {
+      "id": "66ad3ff9e42ce87464f46e87",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
       "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-23T13:26:48+00:00"
+      "publishedAt": "2026-10-23T16:17:02+00:00"
     },
     {
-      "id": "e2c486df249865aba001f012",
-      "title": "How The Infernal Hulk vs. The Avengers Sets Up a Massive 2027 Crossover",
-      "summary": "Check out our exclusive preview of The Infernal Hulk vs. The Avengers #1, the last stage of Marvel's buildup to 2027's epic Hulk War: Infernal Rage crossover.",
-      "url": "https://www.ign.com/articles/how-the-infernal-hulk-vs-the-avengers-sets-up-a-massive-2027-crossover",
+      "id": "da4e71d80ae0d7e65e21ec3b",
+      "title": "Mondo Celebrates Over the Garden Wall With New Figures and Poster",
+      "summary": "Over the Garden Wall fans can show their love for the critically acclaimed animated series with a new batch of collectibles from Mondo.",
+      "url": "https://www.ign.com/articles/mondo-celebrates-over-the-garden-wall-with-new-figures-and-poster",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
-      "publishedAt": "2026-10-23T13:00:00+00:00"
+      "publishedAt": "2026-10-23T16:00:00+00:00"
     },
     {
-      "id": "7e92122d5cb46376c72b5039",
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+      "id": "dac779b178c16722ed36f7e5",
+      "title": "'Press Play' — Amazon Reveals Full PlayStation x Lisa Merch Collection as the Blackpink Star Drops New EP",
+      "summary": "",
+      "url": "https://www.ign.com/articles/press-play-amazon-reveals-full-playstation-x-lisa-merch-collection-as-the-blackpink-star-drops-new-ep",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T15:59:38+00:00"
+    },
+    {
+      "id": "abd12331332f1deb93c50056",
+      "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
+      "summary": "Dozens of people had been inside the church for a funeral when the shooting began, local media report.",
+      "url": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-23T15:59:36+00:00"
+    },
+    {
+      "id": "e3f1aee59f57d7440a58d619",
+      "title": "Save $50 Off a 512GB Nintendo Switch 2 Memory Card That We've Personally Tested and Vetted",
+      "summary": "The Samsung P9 MicroSD Express card will triple your total Switch 2 storage.",
+      "url": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T15:55:00+00:00"
+    },
+    {
+      "id": "42f0b250e0e28454dd49721b",
+      "title": "The Ultra-Slim Baseus Blade 20,000mAh Power Bank Drops to $39 Ahead of Black Friday",
+      "summary": "This 0.7\" thin power bank boasts high capacity and output for handheld gaming PCs and laptops.",
+      "url": "https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T15:50:00+00:00"
+    },
+    {
+      "id": "14e85cbcd84844ffa3882976",
+      "title": "Nintendo Legend Shigeru Miyamoto Becomes First Game Designer to Be Awarded Japan's Order of Culture",
+      "summary": "Innovative and prolific Nintendo game developer Shigeru Miyamoto will receive Japan’s highest honor for cultural merit next month. The 73-year old is the first video game developer to receive the Order of Culture, which is presented by the Emperor of Japan.",
+      "url": "https://www.ign.com/articles/nintendo-legend-shigeru-miyamoto-becomes-first-game-designer-to-be-awarded-japans-order-of-culture",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T15:47:53+00:00"
+    },
+    {
+      "id": "d78f83148b54d379201fa785",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
       "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-23T12:48:52+00:00"
+      "publishedAt": "2026-10-23T15:37:07+00:00"
     },
     {
-      "id": "b75ace19461fafd5645d883c",
-      "title": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6",
-      "summary": "PlayStation is offering $40 off when you buy a refurbished PS5 console and DualSense controller together, delivering up to $155 in total savings.",
-      "url": "https://www.ign.com/articles/ps5-console-bundle-deal-ahead-of-gta-6-and-black-friday",
+      "id": "10787f54b6b239fba822a08a",
+      "title": "EA Appears to Have Quietly Pulled Mass Effect Content From Battlefield 6 Following BioWare Shutdown",
+      "summary": "EA seems to have quietly pulled a collection of Mass Effect content for Battlefield 6 just days after it shuttered series developer BioWare.",
+      "url": "https://www.ign.com/articles/ea-appears-to-have-quietly-pulled-mass-effect-content-from-battlefield-6-following-bioware-shutdown",
       "imageUrl": null,
       "source": "IGN All",
       "country": "us",
       "category": "gaming",
-      "publishedAt": "2026-10-23T12:40:53+00:00"
+      "publishedAt": "2026-10-23T15:33:47+00:00"
+    },
+    {
+      "id": "aa1415f6cf04c628aa93fa2d",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-23T15:30:47+00:00"
+    },
+    {
+      "id": "676acdf54cef98b9bb00917d",
+      "title": "Fallout Shelter: The Experiment Is the Official Title for the Prime Video Reality Competition Show, Release Date Announced on Fallout Day",
+      "summary": "Amazon has announced an official title for its Fallout Shelter reality competition show, and a Prime Video release date.",
+      "url": "https://www.ign.com/articles/fallout-shelter-the-experiment-is-the-official-title-for-the-prime-video-reality-competition-show-release-date-announced-on-fallout-day",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T15:16:16+00:00"
+    },
+    {
+      "id": "524533309818f2e38f13596c",
+      "title": "« TINA », la revue d’artistes qui choisit de regarder la « datastrophe » en face",
+      "summary": "Dans son nouveau numéro papier, la publication multiplie les expériences littéraires, artistiques et critiques inspirées par la révolution de l’IA.",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/23/tina-la-revue-d-artistes-qui-choisit-de-regarder-la-datastrophe-en-face_6799097_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-23T15:00:22+00:00"
+    },
+    {
+      "id": "3cfd53b16766e99494bcee27",
+      "title": "Save Mass Effect Petition Hits 50,000 Signatures, Just Days After BioWare Closure",
+      "summary": "EA shut down BioWare on Wednesday, cancelling its upcoming Mass Effect game. And, after the trailer for what's now known as Mass Effect Universe leaked online, fans have started flocking to a petition in the hopes of saving the franchise.",
+      "url": "https://www.ign.com/articles/save-mass-effect-petition-hits-50000-signatures-just-days-after-bioware-closure",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T14:59:00+00:00"
+    },
+    {
+      "id": "c8b7b3aaf4b806570c606a53",
+      "title": "US justice department investigating Corey Lewandowski over DHS role",
+      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-23T14:58:19+00:00"
+    },
+    {
+      "id": "a539a13a297195970f8d850c",
+      "title": "The Simpsons Halloween Episodes: Every 'Treehouse of Horror' Special, Ranked",
+      "summary": "Using the power of The Shinning and twirling towards freedom, we rank every \"Treehouse of Horror\" special from Season 2 to Season 38.",
+      "url": "https://www.ign.com/articles/best-simpsons-halloween-episodes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-23T14:46:21+00:00"
+    },
+    {
+      "id": "7a9857dc87c97d05ebf2d9f9",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-23T14:18:41+00:00"
+    },
+    {
+      "id": "5f24073f88dc9ee4e7126a8f",
+      "title": "En amont de la mobilisation du 24 octobre, un pic d’intérêt pour l’application de communication sans réseau Bitchat",
+      "summary": "Utilisée en Inde ou en Iran lors des grandes manifestations contre le pouvoir, l’application fonctionne même en cas de coupure d’Internet ou de saturation du réseau.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/23/en-amont-de-la-mobilisation-du-24-octobre-un-pic-d-interet-pour-l-application-de-communication-sans-reseau-bitchat_6799087_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-23T14:00:04+00:00"
     },
     {
       "id": "acf1e7aac62de55ac25fdf43",
@@ -79,17 +376,6 @@
       "publishedAt": "2026-10-23T12:17:45+00:00"
     },
     {
-      "id": "4a1ee7d84947fcab13ad4953",
-      "title": "Franchises Like Mass Effect Are a 'Prestige Project' for EA, and BioWare's Closure Was 'Entirely Predictable,' Analysts Say",
-      "summary": "Games industry analysts told IGN that BioWare was likely doomed well before EA’s $55 billion acquisition, explaining that games like Mass Effect are now considered “prestige projects” for the company, and it’s unlikely the sci-fi franchise, nor BioWare’s other IPs, are sold off.",
-      "url": "https://www.ign.com/articles/franchises-like-mass-effect-are-a-prestige-project-for-ea-and-biowares-closure-was-entirely-predictable-analysts-say",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T12:10:36+00:00"
-    },
-    {
       "id": "de54c14cf14d5e9f08c91a04",
       "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
       "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
@@ -112,17 +398,6 @@
       "publishedAt": "2026-10-23T12:00:07+00:00"
     },
     {
-      "id": "aba089e1a07e8214287ac0d7",
-      "title": "Mass Effect-Style Game Exodus Picked a Hell of a Time to Reveal Its Redesigned Male Protagonist",
-      "summary": "The developers of Mass Effect-style game Exodus picked a hell of a time to reveal their redesigned male protagonist.",
-      "url": "https://www.ign.com/articles/exodus-protagonist-jun-makeover",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T11:31:19+00:00"
-    },
-    {
       "id": "5786f599f23490f4723ad466",
       "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
       "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
@@ -132,28 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-23T11:30:32+00:00"
-    },
-    {
-      "id": "1a266c2ec9309b7128f454ff",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-23T11:01:08+00:00"
-    },
-    {
-      "id": "e66155998d94642ffc1fac87",
-      "title": "'I Don't Know if There's Perfecting It' — Call of Duty: Modern Warfare 4 Multiplayer Chief Weighs in on Matchmaking",
-      "summary": "Infinity Ward's Multiplayer boss weighs in on Call of Duty: Modern Warfare 4 matchmaking.",
-      "url": "https://www.ign.com/articles/i-dont-know-if-theres-perfecting-it-call-of-duty-modern-warfare-4-multiplayer-chief-weighs-in-on-matchmaking",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T10:58:51+00:00"
     },
     {
       "id": "00cb1e5759efa3d3a2303c89",
@@ -211,39 +464,6 @@
       "publishedAt": "2026-10-23T10:14:33+00:00"
     },
     {
-      "id": "b04a94eed5c08e98b14805d9",
-      "title": "Breaking Down the Future of Disney Lorcana TCG with Co-Founder Ryan Miller",
-      "summary": "",
-      "url": "https://www.ign.com/articles/breaking-down-the-future-of-disney-lorcana-tcg-with-co-founder-ryan-miller",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T10:06:12+00:00"
-    },
-    {
-      "id": "a657abed0b93dd813cbae195",
-      "title": "Cyberpunk 2077 2.5 Update Secretly Added The Witcher 3 Sword and Cosmetics",
-      "summary": "Cyberpunk 2077’s surprise 2.5 update added a new dual-wielding playstyle, fresh ways to customize protagonist V’s look, extra quests and plenty more, but players have discovered that developer CD Projekt Red secretly added a range of new The Witcher 3-themed cosmetics, too.",
-      "url": "https://www.ign.com/articles/cyberpunk-2077-update-secretly-added-witcher-sword-cosmetics",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T09:50:49+00:00"
-    },
-    {
-      "id": "14cc8708976dbbcefa434adc",
-      "title": "X-Files Creator Chris Carter on How His I Want to Believe Director's Cut Dovetailed Into His Second Feature, Queens for a Day",
-      "summary": "X-Files creator Chris Carter on how his I Want to Believe Director's Cut dovetailed into his second feature, Queens for a Day.",
-      "url": "https://www.ign.com/articles/x-files-creator-chris-carter-on-how-his-i-want-to-believe-directors-cut-dovetailed-into-his-second-feature-queens-for-a-day",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T09:29:54+00:00"
-    },
-    {
       "id": "37e96280f6a4486d1b05f7ef",
       "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
       "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
@@ -286,39 +506,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-23T08:04:17+00:00"
-    },
-    {
-      "id": "4790b90513fc6883af06e8f7",
-      "title": "25 Years Since Its Reveal, and People Still Search for iPods “Every Two Seconds” on eBay",
-      "summary": "eBay has revealed that buyers are still searching for \"iPods\" every two seconds worldwide, a quarter of a century since they were first revealed.",
-      "url": "https://www.ign.com/articles/people-still-search-for-ipods-every-two-seconds-on-ebay",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T08:00:00+00:00"
-    },
-    {
-      "id": "478bfc5f1e946bec4e4fff2e",
-      "title": "Avatar: Seven Havens Episodes 7-9 Recap and Review",
-      "summary": "Avatar: Seven Havens Episodes 7-9 recap and review: Lore and laughter dominate the latest episodes of the series.",
-      "url": "https://www.ign.com/articles/avatar-seven-havens-episodes-7-9-recap-and-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T07:01:00+00:00"
-    },
-    {
-      "id": "57ab81b63108d791263c2535",
-      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-23T06:26:25+00:00"
     },
     {
       "id": "c073a9b54afb1e66d165cf14",
@@ -376,17 +563,6 @@
       "publishedAt": "2026-10-23T02:45:08+00:00"
     },
     {
-      "id": "de238408c8349576c2b8764c",
-      "title": "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-battlestar-galactica-board-game-is-making-a-surprise-comeback-next-year",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T02:12:34+00:00"
-    },
-    {
       "id": "198071653b480daff06a620f",
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
@@ -396,50 +572,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-23T01:38:44+00:00"
-    },
-    {
-      "id": "cdf870025b3f928b4092f054",
-      "title": "Clayface Ending Explained",
-      "summary": "The new movie Clayface marks the live-action film debut of the classic Batman villain but fans are obviously wondering if the film also introduces the DCU’s incarnation of the Caped Crusader. We’re gonna dive into how Clayface ends, how the character’s design was created for the film, and yes, the Batman of it all.",
-      "url": "https://www.ign.com/articles/clayface-ending-explained-batman-dcu",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T01:00:00+00:00"
-    },
-    {
-      "id": "060675f9e17381d812e6d75d",
-      "title": "Wo Long 2: Wings of Ember Gets Wuxia… and Let Me Fight a Horrific Spider Thing | IGN Preview",
-      "summary": "Wo Long 2: Wings of Ember is shaping up to be an interesting sequel that combines elements of Team Ninja’s action game expertise with the Three Kingdoms games’ penchant for strategy.",
-      "url": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-wuxia-and-let-me-fight-a-horrific-spider-thing-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T01:00:00+00:00"
-    },
-    {
-      "id": "7434d07e828a513400e7028c",
-      "title": "Save $50 Off the Endlessly Useful ASUS ZenScreen 16\" 1080p Portable USB Monitor Ahead of Black Friday",
-      "summary": "Doubles as a secondary monitor for your laptop or a portable display for your Nintendo Switch or Steam Deck.",
-      "url": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T00:05:00+00:00"
-    },
-    {
-      "id": "cad38f88db299fe025a2a81d",
-      "title": "The Acer Nitro RX 9060 XT Gaming PC Offers Great 1440p Gaming Performance for Just $1,200",
-      "summary": "The equipped Radeon RX 9060 XT GPU is the preferred 16GB variant.",
-      "url": "https://www.ign.com/articles/acer-nitro-radeon-rx-9060-xt-gaming-pc-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T00:00:00+00:00"
     },
     {
       "id": "578bab0afee0a778472cfd49",
@@ -475,61 +607,6 @@
       "publishedAt": "2026-10-22T22:27:53+00:00"
     },
     {
-      "id": "82a2bde3addbf40f2b482dfb",
-      "title": "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
-      "summary": "Cyberpunk 2 associate game director Pawel Sasko revealed that much of the game’s staff are actually former modders who CD Projekt Red picked up to work on the highly-anticipated sequel.",
-      "url": "https://www.ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-22T22:18:28+00:00"
-    },
-    {
-      "id": "1c99a0c46ea9a19762381b3b",
-      "title": "Amazon Has a Sale on Magic: The Gathering Booster Boxes Even Before Black Friday Kicks Off",
-      "summary": "Save on Magic: The Gathering Play Booster Boxes at Amazon ahead of Black Friday, with discounts on Marvel, The Hobbit, and unreleased Star Trek sets.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-booster-box-deals-amazon-black-friday-early-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-22T22:00:00+00:00"
-    },
-    {
-      "id": "11d43573ac92e646c739ad83",
-      "title": "Young Sheldon Star Annie Potts Says She Was a ‘Little Sad’ About Jim Parsons Cameo as 'Mean and Unchanged' Sheldon in Show's Finale",
-      "summary": "Annie Potts, who portrayed a younger version of Sheldon’s Meemaw on Young Sheldon, revealed how she felt about the show’s finale, disagreeing with how adult Sheldon remained \"mean and unchanged\" in Parsons' finale cameo.",
-      "url": "https://www.ign.com/articles/young-sheldon-star-annie-potts-says-she-was-a-little-sad-about-jim-parsons-cameo-as-mean-and-unchanged-sheldon-in-shows-finale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-22T21:27:02+00:00"
-    },
-    {
-      "id": "1dcaf4c457b37ba416f91f22",
-      "title": "Tom Skerritt Dies: Alien and Top Gun Actor Was 93",
-      "summary": "Tom Skerritt, the rugged, mustachioed actor best known to IGN readers for his roles in Top Gun and Alien, passed away from natural causes on Wednesday at the age of 93.",
-      "url": "https://www.ign.com/articles/tom-skerritt-alien-top-gun-actor-dies-93",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-22T20:59:59+00:00"
-    },
-    {
-      "id": "4778432441fbfaca61e295de",
-      "title": "Alienware's Outstanding 32\" 4K 240Hz Quantum-Dot OLED Gaming Monitor Drops to an All-Time Low",
-      "summary": "If you're looking for the best 4K gaming monitor, this should definitely be on your short list.",
-      "url": "https://www.ign.com/articles/alienware-aw3225qf-4k-oled-gaming-monitor-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-22T20:55:00+00:00"
-    },
-    {
       "id": "9c14ccbe1c42c9c48eecc846",
       "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
       "summary": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
@@ -550,17 +627,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-22T18:26:56+00:00"
-    },
-    {
-      "id": "edaded039ee78f12c5c06f0c",
-      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
-      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-22T17:49:13+00:00"
     },
     {
       "id": "f4a2d0e27fa97e095dd542b4",
@@ -814,39 +880,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-21T15:00:11+00:00"
-    },
-    {
-      "id": "7ee08f5a4ef5ccb84604739e",
-      "title": "La députée et ancienne ministre Agnès Pannier-Runacher visée par un logiciel espion",
-      "summary": "Selon le site « Politico », la piste du logiciel Pegasus, développé par l’entreprise israélienne NSO, a été écartée à ce stade.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/21/la-deputee-et-ancienne-ministre-agnes-pannier-runacher-visee-par-un-logiciel-espion_6798261_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-21T13:49:09+00:00"
-    },
-    {
-      "id": "493aaa91f803a4b10c7b8cd7",
-      "title": "Netflix, en mal de croissance et en pleine restructuration, peine à convaincre Wall Street malgré des bénéfices en hausse",
-      "summary": "La plateforme de streaming enregistre des rentrées publicitaires décevantes et souffre de la diminution du temps passé devant ses programmes.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/21/netflix-en-mal-de-croissance-et-en-pleine-restructuration-peine-a-convaincre-wall-street-malgre-des-benefices-en-hausse_6798250_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-21T12:45:08+00:00"
-    },
-    {
-      "id": "671e5b1699277050e34f8c4f",
-      "title": "Booking visé par une enquête de l’UE : « Les Européens doivent pouvoir réserver leurs vacances sans craindre d’être arnaqués »",
-      "summary": "La plateforme de réservation d’hôtels devra démontrer qu’elle a pris des mesures suffisantes afin de protéger ses clients contre les annonces trompeuses et les arnaques en ligne.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/21/booking-visee-par-une-enquete-de-l-ue-les-europeens-doivent-pouvoir-reserver-leurs-vacances-sans-craindre-d-etre-arnaques_6798241_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-21T10:43:57+00:00"
     },
     {
       "id": "dbd9600acb2d963f6b789a85",
