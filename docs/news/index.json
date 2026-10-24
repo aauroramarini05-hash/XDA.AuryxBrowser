@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-24T14:10:09.791788+00:00",
+  "updatedAt": "2026-10-24T17:43:32.043403+00:00",
   "items": [
+    {
+      "id": "df64818a3f3fa447e7811064",
+      "title": "Two rescued after Nairobi building collapse with five still missing",
+      "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-24T17:25:46+00:00"
+    },
+    {
+      "id": "c7daa444357da47bfb619a61",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-24T17:11:56+00:00"
+    },
+    {
+      "id": "091f3781a6369e745ca298a5",
+      "title": "Avengers: Doomsday Teaser Reveals Who Was Edited Out of the First Trailer, Fans Say",
+      "summary": "Marvel fans say the new Avengers: Doomsday teaser might have revealed who was edited out of its first trailer.",
+      "url": "https://www.ign.com/articles/avengers-doomsday-teaser-reveals-who-was-edited-out-of-the-first-trailer-fans-say",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-24T16:28:24+00:00"
+    },
+    {
+      "id": "1721576393740cba4e820a88",
+      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-24T15:56:48+00:00"
+    },
+    {
+      "id": "c2eed8037e7926a846dd44d5",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-24T15:21:44+00:00"
+    },
+    {
+      "id": "89c49051028f891fee75da33",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-24T14:45:30+00:00"
+    },
     {
       "id": "5a6e24c6683d483424f093e0",
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -22,17 +88,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "id": "e95350e13c7f96ea846d0c40",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-24T11:23:59+00:00"
     },
     {
       "id": "7a7ce4a8ec74d56dec0cf445",
@@ -66,28 +121,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-24T09:46:53+00:00"
-    },
-    {
-      "id": "c7daa444357da47bfb619a61",
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "summary": "The children were subsequently rescued from the water, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-24T09:45:47+00:00"
-    },
-    {
-      "id": "40a4dc2a8a149bf77f9cea64",
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-24T09:44:01+00:00"
     },
     {
       "id": "45305b4d75dba9a8d554a23b",
@@ -453,17 +486,6 @@
       "publishedAt": "2026-10-23T20:25:00+00:00"
     },
     {
-      "id": "df38dd58f2ce5f5b165db0db",
-      "title": "Steam Next Fest: Most-Played Demos So Far Include Fart Together, Emberville, ArcheAge Chronicles",
-      "summary": "Valve has released a list of the 20 most-played Steam Next Fest demos so far, with the event running through this weekend and concluding through Monday, October 26 at 10am PT/1pm ET. The top-20 list includes quite the eclectic mix of games, from comedic co-op adventures to more mechanically-deep action and survival affairs. Check out the list below",
-      "url": "https://www.ign.com/articles/steam-next-fest-most-played-demos-so-far-include-fart-together-emberville-archeage-chronicles",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T20:20:41+00:00"
-    },
-    {
       "id": "838cd3974f693533c73a8b96",
       "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
       "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
@@ -715,17 +737,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-22T17:12:51+00:00"
-    },
-    {
-      "id": "a8e63361ebc6c3e4788d526c",
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
-      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-22T15:11:49+00:00"
     },
     {
       "id": "1875420e46250d7d34169395",
