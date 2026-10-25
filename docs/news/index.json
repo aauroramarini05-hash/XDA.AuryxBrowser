@@ -1,16 +1,49 @@
 {
-  "updatedAt": "2026-10-25T20:32:46.009032+00:00",
+  "updatedAt": "2026-10-25T22:56:26.566500+00:00",
   "items": [
     {
-      "id": "8731368e2d541e4e3f71c5ca",
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "id": "807e4d5bc38c096919ce58a5",
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-25T19:55:15+00:00"
+      "publishedAt": "2026-10-25T22:54:57+00:00"
+    },
+    {
+      "id": "6f2e9faad8d4faa128537165",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-25T22:11:13+00:00"
+    },
+    {
+      "id": "ed371157356a1344ad652659",
+      "title": "Why Israel's election is one of the most important in its history",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-25T22:05:30+00:00"
+    },
+    {
+      "id": "0e6b64a0d21182331f11af3f",
+      "title": "X-Men Actor Christopher Abbott Insists His Professor X Is Not in Doomsday or Secret Wars",
+      "summary": "Professor X actor Christopher Abbott said Marvel fans won't see him in Avengers: Doomsday or Secret Wars because he needs to wrap up his time with X-Men before doing any cameos.",
+      "url": "https://www.ign.com/articles/x-men-actor-christopher-abbott-insists-his-professor-x-is-not-in-doomsday-or-secret-wars",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-25T21:26:42+00:00"
     },
     {
       "id": "485e2ee2932762a1ea1e8db3",
@@ -132,6 +165,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-25T10:38:15+00:00"
+    },
+    {
+      "id": "874608f4de91dbd368747352",
+      "title": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
+      "summary": "Looking for Magic's most powerful boxed precon decks for Commander? Here's our top 12, including Universes Beyond.",
+      "url": "https://www.ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-25T09:43:00+00:00"
     },
     {
       "id": "ae5bd6518328ddcac4dedd85",
@@ -574,28 +618,6 @@
       "publishedAt": "2026-10-23T22:47:07+00:00"
     },
     {
-      "id": "a409ca0a0e4bddf97b662b2d",
-      "title": "The Next A Court of Thorns and Roses Book Releases Next Week, Here's Where to Buy",
-      "summary": "",
-      "url": "https://www.ign.com/articles/a-court-of-splintered-harmony-where-to-buy-release-date",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T22:30:00+00:00"
-    },
-    {
-      "id": "d2d0841fd5dc8ddcbdeab6fa",
-      "title": "Indie Game Dev Takes Down Vibe-Coded Zombie Shooter After San Francisco Officials Condemn 'Dehumanizing' Game",
-      "summary": "The developer of a zombie game set in San Francisco has removed the game from online marketplaces and issued a public apology after city officials condemned the title for depicting its homeless people as ‘zombies.’",
-      "url": "https://www.ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-23T22:27:09+00:00"
-    },
-    {
       "id": "8ae49290997f00f4199e95b2",
       "title": "Who actually controls Ukraine's access to Starlink?",
       "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
@@ -682,17 +704,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-23T12:00:07+00:00"
-    },
-    {
-      "id": "5786f599f23490f4723ad466",
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
-      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-23T11:30:32+00:00"
     },
     {
       "id": "9ebde450c6a6d744acff9988",
