@@ -1,10 +1,296 @@
 {
-  "updatedAt": "2026-10-26T11:55:19.749051+00:00",
+  "updatedAt": "2026-10-26T17:58:49.279248+00:00",
   "items": [
+    {
+      "id": "3c38490ca58cadba97cb4cb5",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-26T17:20:54+00:00"
+    },
+    {
+      "id": "bdd030aa60e0e6e906698896",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T17:00:09+00:00"
+    },
+    {
+      "id": "206b070c6db2fb671736a46d",
+      "title": "Des intelligences artificielles « conscientes », avec une existence propre : une théorie qui agite le monde scientifique",
+      "summary": "Après avoir annoncé, en juillet avoir découvert, dans ses modèles d’IA, des structures s’apparentant à celles de la conscience humaine, Anthropic mène campagne pour faire valoir la « conscience » et le « bien-être » de ces entités, nourrissant l’inquiétude des experts du secteur qui craignent des dérives.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/26/des-intelligences-artificielles-conscientes-avec-une-existence-propre-une-theorie-qui-agite-le-monde-scientifique_6800814_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-26T17:00:09+00:00"
+    },
+    {
+      "id": "78f10614ff85c0d9e1a87218",
+      "title": "Interactive Storytelling App OOC Introduces Halloween Event with Special Rewards",
+      "summary": "",
+      "url": "https://www.ign.com/articles/interactive-storytelling-app-ooc-introduces-halloween-event-with-special-rewards",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T17:00:00+00:00"
+    },
+    {
+      "id": "e2e8ef30a43381273a84c2bd",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T16:49:14+00:00"
+    },
+    {
+      "id": "7b56769fd848bcfc24d10c77",
+      "title": "Walter Koenig, Star Trek's Chekov, Dies at Age 90",
+      "summary": "Walter Koenig, who played Chekov on the original Star Trek series, has died at age 90. Koenig joined the NBC series Star Trek in its second season as Russian crewmember Ensign Pavel Andreievich Chekov.",
+      "url": "https://www.ign.com/articles/walter-koenig-star-treks-chekov-dies-at-age-90",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T16:49:11+00:00"
+    },
+    {
+      "id": "883be8eccef5b12f78bef873",
+      "title": "PlayStation Handheld May Have Exclusive Next-Gen AMD Graphics, Report Suggests",
+      "summary": "Sony may have exclusive access to AMD's next-generation graphics architecture for a potential PlayStation handheld, the tech experts at Digital Foundry have said.",
+      "url": "https://www.ign.com/articles/playstation-handheld-may-have-exclusive-next-gen-amd-graphics-report-suggests",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T16:40:47+00:00"
+    },
+    {
+      "id": "83953ab0cf9e8ce106bb16d6",
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "summary": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T16:31:09+00:00"
+    },
+    {
+      "id": "8dd0036b7104f9e577d33a11",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T16:30:34+00:00"
+    },
+    {
+      "id": "d53aa0e46e4bb0a80d85b520",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-26T16:27:17+00:00"
+    },
+    {
+      "id": "bf8d1701e2f7a14d3be11910",
+      "title": "Amazon Has a Genuine Forged Damascus Steel Pocket Knife for Less Than $27 Ahead of Black Friday",
+      "summary": "Save 40% off with a limited time coupon code.",
+      "url": "https://www.ign.com/articles/damascus-steel-pocket-knife-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T16:10:00+00:00"
+    },
+    {
+      "id": "42f0b250e0e28454dd49721b",
+      "title": "The Ultra-Slim Baseus Blade 20,000mAh Power Bank Drops to $39 Ahead of Black Friday",
+      "summary": "This 0.7\" thin power bank boasts high capacity and output for handheld gaming PCs and laptops.",
+      "url": "https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T16:05:00+00:00"
+    },
+    {
+      "id": "cff605b07f5d4bdbd047c23e",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T15:46:31+00:00"
+    },
+    {
+      "id": "f9269d8e9486c228e0baf1d5",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T15:45:30+00:00"
+    },
+    {
+      "id": "52b3aaed6e3cad34bf459e39",
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T15:37:33+00:00"
+    },
+    {
+      "id": "38d53841e1f52bebef10fd15",
+      "title": "Heroes Never Die, a Survivor-Plus-Tactics Strategy Game, Announced for PC",
+      "summary": "If you've ever wondered what a fusion of Vampire Survivors and Heroes of Might and Magic would look like, then Heroes Never Die might be the game for you. It's a newly announced fantasy strategy game from developer Ludogram that \"aims to take the best of the survival formula and fuse it with more tactical decisions, real-time army building, and pow",
+      "url": "https://www.ign.com/articles/heroes-never-die-a-survivor-plus-tactics-strategy-game-announced-for-pc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T15:00:00+00:00"
+    },
+    {
+      "id": "ae39f6c1143ee3d2e4c3d463",
+      "title": "Part of Antarctica named after former BBC science correspondent",
+      "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T14:54:40+00:00"
+    },
+    {
+      "id": "1e546cacdea3172a90df0f3e",
+      "title": "Horror Games Are Getting Big Discounts in the Lead-Up to Halloween",
+      "summary": "Save on Resident Evil, Silent Hill, and many more horror games in this sale at Amazon and Best Buy.",
+      "url": "https://www.ign.com/articles/horror-game-sales-ahead-of-halloween-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T14:35:28+00:00"
+    },
+    {
+      "id": "769115a55aa19aa5181f9433",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T14:34:52+00:00"
+    },
+    {
+      "id": "ae381a78a5b763d6b4b66d5e",
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T14:27:32+00:00"
+    },
+    {
+      "id": "2d6cee6d9ded76027c7057b9",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T14:16:09+00:00"
+    },
+    {
+      "id": "c29e0a2642492b463e106162",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-26T14:13:18+00:00"
+    },
+    {
+      "id": "3d47f3dd079053e00eb3ada4",
+      "title": "Un pirate revendique avoir volé des données à La France insoumise, au Parti communiste et à Renaissance",
+      "summary": "Le hackeur, très actif ces derniers mois sur un forum de discussion pour cyberdélinquants, est coutumier des piratages crapuleux.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/26/un-pirate-revendique-avoir-vole-des-donnees-a-la-france-insoumise-au-parti-communiste-et-a-renaissance_6800789_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-26T13:34:16+00:00"
+    },
+    {
+      "id": "a539a13a297195970f8d850c",
+      "title": "The Simpsons Halloween Episodes: Every 'Treehouse of Horror' Special, Ranked",
+      "summary": "Using the power of The Shinning and twirling towards freedom, we rank every \"Treehouse of Horror\" special from Season 2 to Season 38.",
+      "url": "https://www.ign.com/articles/best-simpsons-halloween-episodes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T13:28:21+00:00"
+    },
+    {
+      "id": "4ac4832b8b7beb99daea913e",
+      "title": "The Simpsons: 'Treehouse of Horror XXXVII' Review",
+      "summary": "\"Treehouse of Horror XXXVII\" is far from the worst Halloween special The Simpsons has delivered, but it can't compare to Season 38's other Halloween episode.",
+      "url": "https://www.ign.com/articles/the-simpsons-treehouse-of-horror-xxxvii-37-review-recap",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T13:19:43+00:00"
+    },
+    {
+      "id": "3a881f735bd9b6e61185878b",
+      "title": "Sony Awarded a Hacker $50,000 for Privately Reporting a PS5 Exploit He Found With AI — Now He's Public Enemy Number One",
+      "summary": "A hacker sparked an uproar within the PlayStation 5 homebrew scene for privately reporting an exploit to Sony and cashing in on a $50,000 reward, rather than keeping it confidential for the community.",
+      "url": "https://www.ign.com/articles/50000-dollar-ps5-exploit-found-with-ai",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-26T12:59:38+00:00"
+    },
     {
       "id": "c7a0b1a7efd473c631d10315",
       "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-      "summary": "The firebrand left-winger, whose has at times been at odds with Trump, has won his fourth term as Brazil's president.",
+      "summary": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president.",
       "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -33,17 +319,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-26T11:27:39+00:00"
-    },
-    {
-      "id": "769115a55aa19aa5181f9433",
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-26T11:02:20+00:00"
     },
     {
       "id": "a266a5dea32550c628d61766",
@@ -77,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-26T09:31:12+00:00"
-    },
-    {
-      "id": "53ec1db919410e9658f33611",
-      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-      "summary": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-26T08:18:22+00:00"
     },
     {
       "id": "b0f6a976eb96a7c59ca78a71",
@@ -200,17 +464,6 @@
       "publishedAt": "2026-10-26T02:03:53+00:00"
     },
     {
-      "id": "89bf31817c58963a5dd7ac99",
-      "title": "India's cartoonists built an audience online - now their posts are being restricted",
-      "summary": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-26T01:09:41+00:00"
-    },
-    {
       "id": "d18d500f2d3f7394077f7af9",
       "title": "Phantom Blade Zero Review",
       "summary": "Memorable boss fights, compelling combat, and limitless swagger.",
@@ -231,28 +484,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-25T23:44:34+00:00"
-    },
-    {
-      "id": "0a02628c61545f87b5eb04e6",
-      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-25T23:33:19+00:00"
-    },
-    {
-      "id": "6f2e9faad8d4faa128537165",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-25T22:11:13+00:00"
     },
     {
       "id": "ed371157356a1344ad652659",
@@ -312,101 +543,13 @@
     {
       "id": "498bd5f6ee3daa3f2d23d145",
       "title": "Le rêve cabossé d’Hollywood face à l’IA : « Tout le monde l’utilise, mais personne ne veut en parler »",
-      "summary": "« Sur la Route 66, pouls de l’Amérique » (6/6). Déclin des studios mythiques aux tournages trop coûteux, déploiement du streaming, arrivée de l’intelligence artificielle : le fief américain de l’industrie du divertissement a perdu de sa superbe. C’est la fin de la route, et, à la veille des midterms, peut-être pas la fin du rêve.",
+      "summary": "« Sur la Route 66, pouls de l’Amérique » (6/6). Déclin des studios mythiques aux tournages trop coûteux, développement du streaming, arrivée de l’intelligence artificielle : le fief américain de l’industrie du divertissement a perdu de sa superbe. C’est la fin de la route et, à la veille des midterms, peut-être pas la fin du rêve.",
       "url": "https://www.lemonde.fr/international/article/2026/10/25/le-reve-cabosse-d-hollywood-face-a-l-ia-tout-le-monde-l-utilise-mais-personne-ne-veut-en-parler_6800103_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-25T16:30:01+00:00"
-    },
-    {
-      "id": "52013d1ebd1f0de0885a75e9",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-25T15:32:51+00:00"
-    },
-    {
-      "id": "6704ca7e7c05185d7743df7c",
-      "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-      "summary": "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream.",
-      "url": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-25T15:14:17+00:00"
-    },
-    {
-      "id": "7be25865fdaf661f4bb6dfcd",
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-25T14:39:47+00:00"
-    },
-    {
-      "id": "871be8513dcd6ee93dfbd869",
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-25T14:34:33+00:00"
-    },
-    {
-      "id": "0974fcf83fe456224517fd0a",
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-25T10:55:33+00:00"
-    },
-    {
-      "id": "874608f4de91dbd368747352",
-      "title": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
-      "summary": "Looking for Magic's most powerful boxed precon decks for Commander? Here's our top 12, including Universes Beyond.",
-      "url": "https://www.ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-25T09:43:00+00:00"
-    },
-    {
-      "id": "ae5bd6518328ddcac4dedd85",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-25T09:00:00+00:00"
-    },
-    {
-      "id": "5e1e1add99148004fd4f2baa",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-25T05:15:52+00:00"
     },
     {
       "id": "825fa4a295170a976b27de2f",
@@ -420,61 +563,6 @@
       "publishedAt": "2026-10-25T04:30:12+00:00"
     },
     {
-      "id": "d9beac65927dc218085bdc38",
-      "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
-      "summary": "A knife-wielding man was arrested Friday night for threatening crew members on the Brooklyn set of Miami Vice ‘85. Citing information from the NYPD, TMZ reports that a police officer working security on the set arrested Alex Perez, 23.",
-      "url": "https://www.ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-25T04:23:32+00:00"
-    },
-    {
-      "id": "f4d8d4ad2f532f78d5842807",
-      "title": "New Avengers: Doomsday Trailer Pokes Fun at Multiple 'Captains America'",
-      "summary": "Marvel dropped a new trailer for Avengers: Doomsday that leans heavily on the dynamic between Thor and Steve Rogers, especially their shared worthiness to wield the enchanted hammer Mjolnir.",
-      "url": "https://www.ign.com/articles/avengers-doomsday-trailer-multiple-captains-america",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-25T01:20:56+00:00"
-    },
-    {
-      "id": "ea8192d4a1f82f8a55192356",
-      "title": "James Gunn Defends the DCU's Approach to Interconnected Stories, Doesn't Want Movies Like Clayface to Exist Just to 'Set Up' Crossovers",
-      "summary": "DC Studios co-chairman James Gunn has defended the DCU's approach to interconnected stories, saying he doesn't want movies like Clayface to exist just to \"set up\" crossovers.",
-      "url": "https://www.ign.com/articles/james-gunn-defends-the-dcus-approach-to-interconnected-stories-doesnt-want-movies-like-clayface-to-exist-just-to-set-up-crossovers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-24T22:09:42+00:00"
-    },
-    {
-      "id": "0c7403b99238118d4d748e1e",
-      "title": "The Best Deals Today: Persona 3 Reload, Pikmin 4, The Adventures of Elliot, and More",
-      "summary": "",
-      "url": "https://www.ign.com/articles/best-deals-for-october-24-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-24T20:09:52+00:00"
-    },
-    {
-      "id": "1a9bb364e331e87ac66e4c61",
-      "title": "Call of Duty Movie Director Teases Story That Explores 'the Cost of War,' Praises Modern Warfare Characters",
-      "summary": "Call of Duty movie director Peter Berg has teased more details from his live-action film, promising an adaptation with \"a very strong soul\" that explores \"the cost of war.\"",
-      "url": "https://www.ign.com/articles/call-of-duty-movie-director-teases-story-that-explores-the-cost-of-war-praises-modern-warfare-characters",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-24T19:45:14+00:00"
-    },
-    {
       "id": "720f0eceae77aa43126e943f",
       "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
       "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
@@ -486,28 +574,6 @@
       "publishedAt": "2026-10-24T19:37:35+00:00"
     },
     {
-      "id": "9ba54e4b14398b368ceaaadc",
-      "title": "Elden Ring Movie's Budget Reportedly $200 Million, Almost 3x More Expensive Than A24's Marty Supreme",
-      "summary": "Alex Garland's Elden Ring movie reportedly carries a hefty budget of almost $200 million, making it A24's most expensive movie ever – and it's not close.",
-      "url": "https://www.ign.com/articles/elden-ring-movies-budget-reportedly-200-million-almost-3x-more-expensive-than-a24s-marty-supreme",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-24T18:29:56+00:00"
-    },
-    {
-      "id": "091f3781a6369e745ca298a5",
-      "title": "Avengers: Doomsday Teaser Reveals Who Was Edited Out of the First Trailer, Fans Say",
-      "summary": "Marvel fans say the new Avengers: Doomsday teaser might have revealed who was edited out of its first trailer.",
-      "url": "https://www.ign.com/articles/avengers-doomsday-teaser-reveals-who-was-edited-out-of-the-first-trailer-fans-say",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-24T16:28:24+00:00"
-    },
-    {
       "id": "d10966863126bc1e350947ed",
       "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
@@ -517,17 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-24T15:56:48+00:00"
-    },
-    {
-      "id": "84ffdd83a74517e53066aa1d",
-      "title": "12 Anime Worth Watching This Fall",
-      "summary": "From a return to Night City to a legendary blacksmith and bizarre race, we run down the new and returning anime titles you need to check out.",
-      "url": "https://www.ign.com/articles/new-anime-to-watch-in-fall-2006",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-24T12:00:00+00:00"
     },
     {
       "id": "7a7ce4a8ec74d56dec0cf445",
@@ -792,50 +847,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-22T04:00:24+00:00"
-    },
-    {
-      "id": "138d0215f98f81bdfc2d1881",
-      "title": "A la Paris Games Week, le grand paradoxe du jeu vidéo en France : une demande dynamique mais des studios en souffrance",
-      "summary": "Le plus grand salon français consacré au jeu vidéo ouvre ses portes jeudi 22 octobre. Alors que la pratique reste très répandue dans le pays, les professionnels subissent de plein fouet une violente crise économique, qui ébranle même les champions du secteur.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/22/a-la-paris-games-week-le-grand-paradoxe-du-jeu-video-en-france-une-demande-dynamique-mais-des-studios-en-souffrance_6798556_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-22T04:00:06+00:00"
-    },
-    {
-      "id": "51eb0333057cea9f9fba30ce",
-      "title": "Electronic Arts a l’intention de fermer son studio BioWare, développeur de jeux cultes tels que « Mass Effect » et « Dragon Age »",
-      "summary": "L’éditeur compte supprimer environ 400 postes, soit environ 3 % de son effectif total, selon l’agence Bloomberg. Dans un communiqué publié sur les réseaux sociaux, le studio BioWare a confirmé qu’il allait mettre la clé sous la porte.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/22/electronic-arts-a-l-intention-de-fermer-son-studio-bioware-developpeur-de-jeux-cultes-tels-que-mass-effect-et-dragon-age_6798513_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-22T02:53:41+00:00"
-    },
-    {
-      "id": "63a91b1c701987523e851c95",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-21T23:06:37+00:00"
-    },
-    {
-      "id": "0551d2c7fbc650416d34049a",
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-21T23:04:03+00:00"
     },
     {
       "id": "9327a2f518e13bf6b5a69c78",
