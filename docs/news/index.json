@@ -1,16 +1,181 @@
 {
-  "updatedAt": "2026-10-28T21:26:40.605161+00:00",
+  "updatedAt": "2026-10-29T01:25:15.372470+00:00",
   "items": [
     {
-      "id": "daeea5a5bd1de41fae7fbbac",
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "id": "3bde79d6b174b29412a059d2",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-28T21:07:06+00:00"
+      "publishedAt": "2026-10-29T01:14:01+00:00"
+    },
+    {
+      "id": "8c37cb6c3c8826d67135caf8",
+      "title": "Microsoft profits surge days after announcing major job cuts",
+      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-29T01:08:04+00:00"
+    },
+    {
+      "id": "d6915926ccc578409ec41d53",
+      "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
+      "summary": "BioWare co-founder Greg Zeschuk has spoken out about the closure of BioWare last week, which saw 50 jobs lost as part of 400 cuts across the company, along with the cancellation of Mass Effect 5, which we've now come to learn (via a leaked internal trailer) was called Mass Effect: Universe.",
+      "url": "https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-29T00:42:20+00:00"
+    },
+    {
+      "id": "3aa3580132d237e40a28535f",
+      "title": "Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400",
+      "summary": "A 1981 promotional poster for the original Donkey Kong, featuring the first public appearance of Mario, has become the the most expensive piece of original video game art ever sold at auction.",
+      "url": "https://www.ign.com/articles/original-donkey-kong-poster-that-was-nearly-thrown-away-sold-at-auction-for-record-breaking-329400",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-29T00:21:11+00:00"
+    },
+    {
+      "id": "5939c4cb183a49a65b5188dd",
+      "title": "Call of Duty: Modern Warfare 4 DMZ Review",
+      "summary": "A bigger and better version of Call of Duty's extraction shooter mode.",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-28T23:40:17+00:00"
+    },
+    {
+      "id": "39e47ed10fd77c920a29a95c",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-28T23:11:00+00:00"
+    },
+    {
+      "id": "914e1e2e298f330c8ff4f403",
+      "title": "Kane Parsons Confirms Meetings With Valve, But Won't Adapt Their Games If It Can't Be Done Right",
+      "summary": "Backrooms director Kane Parsons has confirmed he has had meetings with Valve, but he has no plans to adapt any of their IP if it can't be done well.",
+      "url": "https://www.ign.com/articles/kane-parsons-confirms-meetings-with-valve-but-wont-adapt-their-games-if-it-cant-be-done-right",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-28T22:49:44+00:00"
+    },
+    {
+      "id": "0abaf2a41895d1ba86d79379",
+      "title": "James Gunn Confirms Batman and Wonder Woman Are 'Diamond Characters' in the DCU Despite Their Continued Absence",
+      "summary": "James Gunn has clarified DC Studios’ 8-10 year roadmap and confirmed its focus on Superman, Batman, and Wonder Woman as its “diamond characters.”",
+      "url": "https://www.ign.com/articles/james-gunn-confirms-batman-and-wonder-woman-are-diamond-characters-in-the-dcu-despite-their-continued-absence",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-28T22:35:40+00:00"
+    },
+    {
+      "id": "d9f7a922c1e0741f2e240676",
+      "title": "Outlander's Sam Heughan Hints at Role in Lord of the Rings: The Hunt for Gollum",
+      "summary": "During a recent appearance at a book festival, Outlander star Sam Heughan strongly suggested that he may have a role in the upcoming film The Lord of the Rings: The Hunt for Gollum.",
+      "url": "https://www.ign.com/articles/outlanders-sam-heughan-hints-at-role-in-lord-of-the-rings-the-hunt-for-gollum",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-28T22:32:18+00:00"
+    },
+    {
+      "id": "0b9bd06b57d2e250b291f2a8",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-28T22:08:52+00:00"
+    },
+    {
+      "id": "2a7acf42d05f228426df428b",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-28T21:38:54+00:00"
+    },
+    {
+      "id": "a294a44ddaf002f1162b31b9",
+      "title": "Save 50% Off a Rechargeable LED Light Up Mask and Still Get it Delivered by Halloween",
+      "summary": "Powered by over 200 high‑brightness RGB LEDs.",
+      "url": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-28T21:35:00+00:00"
+    },
+    {
+      "id": "4db1f14f8d85439ff2a16821",
+      "title": "The 2.6lb Lenovo Yoga 7X Ultra-Slim Laptop With OLED Display and Snapdragon X2 Elite CPU Drops to $950",
+      "summary": "The ultimate ultra-portable laptop for students and professionals on the move.",
+      "url": "https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-28T21:25:00+00:00"
+    },
+    {
+      "id": "182a95f3ec07b99a4cc8a443",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-28T21:24:41+00:00"
+    },
+    {
+      "id": "ca039e50ae188ea7fd42244f",
+      "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame",
+      "summary": "The stars behind GTA 5’s Franklin, Michael, and Trevor, along with the voice of CJ from San Andreas, were asked if they had any advice for the actors playing GTA 6’s Jason and Lucia now that the game is almost here.",
+      "url": "https://www.ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-28T21:16:50+00:00"
+    },
+    {
+      "id": "a714b376fcbfe209f78962c5",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-28T21:16:30+00:00"
     },
     {
       "id": "9001de07262e08ed182532a1",
@@ -33,6 +198,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-28T20:53:02+00:00"
+    },
+    {
+      "id": "f97d46785c496f252ba5c6a6",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "summary": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-28T20:44:10+00:00"
     },
     {
       "id": "12b1e6d05d4cd33c542f1bf5",
@@ -189,50 +365,6 @@
       "publishedAt": "2026-10-28T18:14:20+00:00"
     },
     {
-      "id": "c4dc58e765d0607b1970844a",
-      "title": "The Mac Mini Sized Acemagic Ryzen 7 7735HS Micro PC With 24GB RAM and 512GB SSD Is on Sale Today",
-      "summary": "Rare mini PC deal that comes with a generous amount of coveted flash memory and storage.",
-      "url": "https://www.ign.com/articles/acemagic-mini-pc-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T18:05:00+00:00"
-    },
-    {
-      "id": "91ea40afea17bc46e65ffb51",
-      "title": "Call of Duty: Modern Warfare 4 Patch Makes It Impossible to Get a Nuke in Free-for-All",
-      "summary": "A new patch for Modern Warfare 4 has players up in arms because it prevents you from getting a tactical nuke Killstreak in Free-for-All, one of the Multiplayer modes.",
-      "url": "https://www.ign.com/articles/controversial-modern-warfare-4-free-for-all-change-nukes",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T17:53:03+00:00"
-    },
-    {
-      "id": "ca04bc70d2b5c1c8f5ff690a",
-      "title": "Today’s Best Deals: Logitech G Pro X2 Superstrike Mouse, Black Myth Wukong, and SanDisk Portable SSD",
-      "summary": "Save on a QD-OLED gaming monitor, a portable SSD, 3D printers, and more, too.",
-      "url": "https://www.ign.com/articles/best-deals-for-october-28-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T17:50:00+00:00"
-    },
-    {
-      "id": "7650a7da87883adccaa01098",
-      "title": "Jack in the Box Gets Official Avengers: Doomsday Meal With Mystery 'Assemble Sauce'",
-      "summary": "Jack in the Box is getting in on the Avengers hype with an official Doomsday meal, featuring collectible magnets, the return of mozzarella sticks, and a \"mystery Assemble Sauce.\"",
-      "url": "https://www.ign.com/articles/jack-in-the-box-gets-official-avengers-doomsday-meal-with-mystery-assemble-sauce",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T17:38:17+00:00"
-    },
-    {
       "id": "78fb86cc354b92aacb23336e",
       "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
       "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
@@ -242,61 +374,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-28T17:34:41+00:00"
-    },
-    {
-      "id": "72d3e7728cac0d1d52fb9aaa",
-      "title": "Apple Announces Its First Touchscreen MacBook",
-      "summary": "The MacBook Pro has had pretty much the same design since 2021, but today at its 'Pro and Tell' event in Cupertino, Apple has announced an all-new MacBook Pro with a touchscreen.",
-      "url": "https://www.ign.com/articles/apple-announces-its-first-touchscreen-macbook",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T17:32:39+00:00"
-    },
-    {
-      "id": "b290b6e0bceca2db6e44cb12",
-      "title": "Viture Phantom Beast XR Glasses Are Available for Preorder",
-      "summary": "",
-      "url": "https://www.ign.com/articles/viture-phantom-beast-xr-glasses-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T17:23:31+00:00"
-    },
-    {
-      "id": "9a309033c5707f128664e289",
-      "title": "Call of Duty: Modern Warfare 4 Season 1 Adds 6 New Maps, New Weapons, and a New DMZ Area",
-      "summary": "Call of Duty: Modern Warfare 4's Season 1 details have been revealed, and a ton of new content is coming to the game.",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-season-1-adds-6-new-maps-new-weapons-and-a-new-dmz-area",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T17:08:16+00:00"
-    },
-    {
-      "id": "e81b2693c26347b56a259def",
-      "title": "Vampir Is a Dark, Brutal MMORPG Focused on Bloody Violence",
-      "summary": "",
-      "url": "https://www.ign.com/articles/vampir-is-a-dark-brutal-mmorpg-focused-on-bloody-violence",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T17:00:00+00:00"
-    },
-    {
-      "id": "99fb145db501ef020ae7d909",
-      "title": "This TSA-Compliant Daran 89.6Wh 100W LiFePO4 Power Station Drops to Just $49.99",
-      "summary": "The smallest power station, weighing in at under 3 pounds.",
-      "url": "https://www.ign.com/articles/daran-lifepo4-power-station-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-28T16:55:00+00:00"
     },
     {
       "id": "ba76cd20bddd4d182b32a5f4",
@@ -486,17 +563,6 @@
       "publishedAt": "2026-10-27T22:11:08+00:00"
     },
     {
-      "id": "fe0cb80598a04909b5763f5e",
-      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-      "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
-      "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-27T21:46:43+00:00"
-    },
-    {
       "id": "846dec3fa51fba51117789fb",
       "title": "Avec le projet de loi « casseurs-payeurs », le gouvernement veut pouvoir censurer les appels à la violence sur les réseaux sociaux",
       "summary": "L’exécutif souhaite avoir la possibilité de recourir au blocage administratif des sites et plateformes sur lesquels sont diffusées des invitations à la violence. Depuis sa mise en place, en 2014, cette procédure permettant de bloquer un site sans décision de justice a déjà été étendue plusieurs fois.",
@@ -561,17 +627,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-27T18:28:23+00:00"
-    },
-    {
-      "id": "76f67f829316bad91604761d",
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-      "url": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-27T17:11:27+00:00"
     },
     {
       "id": "276eff87c2a4f4006ce3e4fd",
@@ -825,28 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-23T08:04:17+00:00"
-    },
-    {
-      "id": "0784e21c0283a869475046f9",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-22T18:26:56+00:00"
-    },
-    {
-      "id": "f4a2d0e27fa97e095dd542b4",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-22T17:12:51+00:00"
     },
     {
       "id": "9327a2f518e13bf6b5a69c78",
