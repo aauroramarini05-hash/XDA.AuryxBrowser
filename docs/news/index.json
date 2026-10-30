@@ -1,16 +1,412 @@
 {
-  "updatedAt": "2026-10-30T10:36:25.498585+00:00",
+  "updatedAt": "2026-10-30T16:52:53.111672+00:00",
   "items": [
     {
-      "id": "f5ffa77ec4a12974b98246a5",
-      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "id": "73e0180fc021c23670645eff",
+      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "summary": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T16:26:11+00:00"
+    },
+    {
+      "id": "d68e841cc9abf3d27b86a37c",
+      "title": "Woot’s Early Black Friday Sale Features Some Incredible Video Game Deals",
+      "summary": "Amazon-owned retailer Woot has launched an early Black Friday sale for gamers, including limited-time discounts on Switch 2, PS5, and Xbox games and accessories.",
+      "url": "https://www.ign.com/articles/woot-early-black-friday-sale-features-some-incredible-video-game-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T16:00:18+00:00"
+    },
+    {
+      "id": "b4b1b0c3571f16d101910067",
+      "title": "Après le Brésil, la France ? Comment les « insoumis » tentent de s’inspirer du « janonisme » en ligne",
+      "summary": "La réélection de Lula, dimanche 25 octobre, a déclenché chez de jeunes militants de Jean-Luc Mélenchon une euphorie inédite. Ils se disent désormais prêts à mener bataille sur les réseaux sociaux, à la manière du député brésilien André Janones.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-30T16:00:02+00:00"
+    },
+    {
+      "id": "eefa9845cbfdfd5e9dc9b7e2",
+      "title": "Ramayana: Rise of a Legend Review",
+      "summary": "Review: With Ramayana: Rise of a Legend, a majestic epic falls victim to clunky action, eye-sore CGI, and awkward AI lip-syncing in what is, unfortunately, just a Part 1.",
+      "url": "https://www.ign.com/articles/ramayana-rise-of-a-legend-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T16:00:00+00:00"
+    },
+    {
+      "id": "698979da0ea28db450b01e74",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T15:59:17+00:00"
+    },
+    {
+      "id": "b77c7fae42a4d381dffd1613",
+      "title": "Everything We Know About the DCU's Batman After Clayface",
+      "summary": "Clayface introduces the DCU's version of Gotham City, but what about Batman? Here's what we know about James Gunn's version of the Dark Knight so far.",
+      "url": "https://www.ign.com/articles/everything-we-know-dcu-batman-after-clayface-brave-bold",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T15:51:20+00:00"
+    },
+    {
+      "id": "d378dc27a8accab973f65518",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-30T15:46:28+00:00"
+    },
+    {
+      "id": "1250f0f5e7854a5a9599810c",
+      "title": "Accès des jeunes aux réseaux sociaux : la Commission européenne veut geler les nouvelles lois nationales, afin de négocier des règles communes à toute l’UE",
+      "summary": "La Commission exhorte les 27 Etats de l’Union et le Parlement européen à s’entendre rapidement pour adopter le Kids Act, qui doit interdire l’accès aux réseaux sociaux avant 13 ans et l’encadrer jusqu’à 15 ans.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/30/acces-des-jeunes-aux-reseaux-sociaux-la-commission-europeenne-veut-geler-les-nouvelles-lois-nationales-afin-de-negocier-des-regles-communes-a-toute-l-ue_6803107_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-30T15:40:37+00:00"
+    },
+    {
+      "id": "91d6c8bd90d17bfa671defdf",
+      "title": "OpenAI CEO Sam Altman Thinks It's 'Terrible' for You to Have RAM in Your Gaming PC",
+      "summary": "OpenAI CEO Sam Altman thinks it's \"terrible\" for people to have RAM in their computers rather than in a data center, as the scarcity of memory caused by the AI boom continues to drive up costs.",
+      "url": "https://www.ign.com/articles/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ram-in-your-gaming-pc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T15:40:35+00:00"
+    },
+    {
+      "id": "1576e5fa702363060fe19a1d",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T15:17:11+00:00"
+    },
+    {
+      "id": "2ca2c6724eb34672ba33e05b",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T15:09:29+00:00"
+    },
+    {
+      "id": "fd6dd968b612f1823c3dbc7c",
+      "title": "Six dead after helicopter crashes in northern Indian state",
       "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
       "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-30T10:07:58+00:00"
+      "publishedAt": "2026-10-30T15:06:05+00:00"
+    },
+    {
+      "id": "a97c214e45e79df1c936c5e9",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T15:03:39+00:00"
+    },
+    {
+      "id": "82f1916e305e745c54cafced",
+      "title": "Yaga Episode 3 Recap and Review",
+      "summary": "Yaga’s third episode envelopes us further with its otherworldly occurrences and shocking reveals, while keeping us on our toes for who’s really behind the mysteries and possible horrors that seem to lie ahead.",
+      "url": "https://www.ign.com/articles/yaga-episode-3-recap-and-review-hudson-williams-carrie-anne-moss-clark-backo-noah-reid",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T15:00:00+00:00"
+    },
+    {
+      "id": "64ac5307aee5e086fb15a92a",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T14:48:22+00:00"
+    },
+    {
+      "id": "c3164cea7e6c711d7235b40c",
+      "title": "RTX 5080 Disappears From Nvidia's Store as Prices Reach $2,000",
+      "summary": "As the RAM crisis has played out in 2026, graphics cards have been hit particularly hard, due to the high-performance memory that's stapled onto the things. And now it seems like the RTX 5080 may have been discontinued.",
+      "url": "https://www.ign.com/articles/rtx-5080-disappears-from-nvidias-store-as-prices-reach-2000",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T14:47:37+00:00"
+    },
+    {
+      "id": "91c0cacf39e786592c56066b",
+      "title": "Mass Effect 5 and BioWare Reportedly Died So Star Wars Battlefront 3 Could Live",
+      "summary": "BioWare reportedly shut down because EA bosses chose to invest in the development of Star Wars: Battlefront 3 over Mass Effect 5.",
+      "url": "https://www.ign.com/articles/mass-effect-5-and-bioware-reportedly-died-so-star-wars-battlefront-3-could-live",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T14:34:29+00:00"
+    },
+    {
+      "id": "d00d44b1ee57df7f4264e81b",
+      "title": "Le Royaume-Uni ouvre une enquête sur les nouvelles conditions commerciales de Meta pour l’utilisation des contenus de médias, qui pourraient être « déloyales »",
+      "summary": "Ces nouvelles conditions pourraient notamment permettre à Meta d’utiliser les contenus de médias pour ses propres produits, notamment d’intelligence artificielle, sans les consulter.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/30/le-royaume-uni-ouvre-une-enquete-sur-les-nouvelles-conditions-commerciales-de-meta-pour-l-utilisation-des-contenus-de-medias-qui-pourraient-etre-deloyales_6803098_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-30T14:28:10+00:00"
+    },
+    {
+      "id": "11e51bf8005061942e7cce75",
+      "title": "Everything Coming to Netflix in November 2026",
+      "summary": "For November, Netflix has decided to onboard around 30 Christmas movies - most of them Hallmark shlock/slop from the past five years. But that's not all!",
+      "url": "https://www.ign.com/articles/whats-new-on-netflix-in-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "id": "7ff042193ddc611700d86c6c",
+      "title": "Get Ready for More Tales of the TMNT in 'Tear in Time' Sequel",
+      "summary": "If you're hungry for more Tales of the Teenage Mutant Ninja Turtles, then check out our exclusive preview of the spinoff comic Tear in Time.",
+      "url": "https://www.ign.com/articles/get-ready-for-more-tales-of-the-tmnt-in-tear-in-time-sequel",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "id": "764630e51dc818d73f87f93b",
+      "title": "Piratage de Binance : ce que l’on sait sur le plus gros vol de cryptomonnaies de l’histoire",
+      "summary": "Deux acteurs majeurs dans l’analyse de l’écosystème des cryptoactifs, TRM Labs et Chainalysis, attribuent cette attaque à des pirates opérant pour le compte des autorités nord-coréennes.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/30/piratage-de-binance-ce-que-l-on-sait-sur-le-plus-gros-vol-de-cryptomonnaies-de-l-histoire_6803094_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-30T13:56:42+00:00"
+    },
+    {
+      "id": "f1a6ca39c99dee2b376eba45",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T13:46:16+00:00"
+    },
+    {
+      "id": "ea94301b19ce5e5a480f5c26",
+      "title": "Everything Coming to Paramount+ in November",
+      "summary": "",
+      "url": "https://www.ign.com/articles/whats-new-on-paramount-plus-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T13:31:39+00:00"
+    },
+    {
+      "id": "66ed1ce032b1df21edc79f73",
+      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+      "summary": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T12:36:55+00:00"
+    },
+    {
+      "id": "b181dff0796062e64a08570d",
+      "title": "What we know about Binance's $6.3bn hack",
+      "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T12:27:28+00:00"
+    },
+    {
+      "id": "980844cca548133e4a3a601c",
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T12:20:04+00:00"
+    },
+    {
+      "id": "7dd1d620501e171ff5a7a326",
+      "title": "James Gunn Says Harley Quinn Will Join the DCU Eventually, and if Margot Robbie Wants to Play Here He'll 'Bend Over Backwards to Explain That in the World'",
+      "summary": "James Gunn has addressed the situation with Margot Robbie’s much-loved take on Harley Quinn, and whether she’s canon in the ongoing DC Universe.",
+      "url": "https://www.ign.com/articles/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-and-if-margot-robbie-wants-to-play-here-hell-bend-over-backwards-to-explain-that-in-the-world",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T12:12:17+00:00"
+    },
+    {
+      "id": "dab437535feca27f481ce680",
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-30T12:04:02+00:00"
+    },
+    {
+      "id": "3669637f76d9ea243fe1f3c8",
+      "title": "MTG's Reality Fracture Commander Deck Is \"Among The Most Powerful We've Ever Released\" According to WOTC",
+      "summary": "Magic's newest Commander precon, Multiverse Reforged, might be one of its most powerful yet - according to Wizards of the Coast.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-reality-fracture-commander-deck-is-among-the-most-powerful-weve-ever-released-according-to-wotc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T11:58:06+00:00"
+    },
+    {
+      "id": "a9443edace33ed58bb35ff16",
+      "title": "Who could be behind the Binance hack and what we know so far",
+      "summary": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-30T11:57:33+00:00"
+    },
+    {
+      "id": "526bc318b96f8692d93590fa",
+      "title": "From Bitcoin to Binance: Crypto terms and what they mean",
+      "summary": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?",
+      "url": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-30T11:35:51+00:00"
+    },
+    {
+      "id": "0b0ae014a1492cf69e9c00ad",
+      "title": "Star Trek Online Players Form Galaxy Class Honor Guard to Pay Tribute to Captain Picard Actor Sir Patrick Stewart",
+      "summary": "Star Trek Online players have gathered in-game to pay tribute to Sir Patrick Stewart, who died this week aged 86.",
+      "url": "https://www.ign.com/articles/star-trek-online-players-form-galaxy-class-honor-guard-to-pay-tribute-to-captain-picard-actor-sir-patrick-stewart",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T11:35:46+00:00"
+    },
+    {
+      "id": "639044f73fc6fd61cdf88b67",
+      "title": "Magic: The Gathering’s Hobbit Play Boosters Just Hit a New Lowest-Ever Price Ahead of Black Friday",
+      "summary": "Magic: The Gathering’s Hobbit Play Boosters just hit a new lowest-ever price at Amazon ahead of Black Friday.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-hobbit-play-boosters-just-hit-a-new-lowest-ever-price-ahead-of-black-friday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T11:34:02+00:00"
+    },
+    {
+      "id": "4a1e0afa49a008839cd65c39",
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T11:23:06+00:00"
+    },
+    {
+      "id": "62458e10cddb8d5954a03a60",
+      "title": "Trying Gears of War: E-Day with Max Settings on NVIDIA GeForce NOW",
+      "summary": "",
+      "url": "https://www.ign.com/articles/trying-gears-of-war-e-day-with-max-settings-on-nvidia-geforce-now",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T11:14:32+00:00"
+    },
+    {
+      "id": "1951ab7f170026cc5a4eab2e",
+      "title": "Families Who Lost Loved Ones in Seoul Halloween Crowd Crush Call on Activision to Pull Real Footage From Call of Duty: Modern Warfare 4",
+      "summary": "Bereaved families have called on Activision to remove real footage of the 2022 Seoul Halloween crush disaster from Call of Duty: Modern Warfare 4.",
+      "url": "https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T11:01:54+00:00"
+    },
+    {
+      "id": "a0a8e8d27e3ad4e4f84bd402",
+      "title": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
+      "summary": "Eiji Aonuma, producer of the Zelda series at Nintendo, has said some of the younger members of his team had never played the original Ocarina of Time, but insisted that was very much a good thing for the development of the remake.",
+      "url": "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T10:14:57+00:00"
     },
     {
       "id": "9f384bbebebd96b606d922c9",
@@ -57,17 +453,6 @@
       "publishedAt": "2026-10-30T08:32:35+00:00"
     },
     {
-      "id": "b181dff0796062e64a08570d",
-      "title": "What we know about Binance's $6.3bn hack",
-      "summary": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
-      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T08:02:02+00:00"
-    },
-    {
       "id": "7ab665bc609bb7b143e3daf6",
       "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
       "summary": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
@@ -110,50 +495,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-30T07:33:00+00:00"
-    },
-    {
-      "id": "0cce86d8640793d311d18211",
-      "title": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $55.99 Ahead of Black Friday",
-      "summary": "Switch 2 compatible.",
-      "url": "https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-october-2026-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T07:15:00+00:00"
-    },
-    {
-      "id": "c1c7a0279e1b682bb3f0ba88",
-      "title": "Avatar: Seven Havens Season 1 Finale Review and Recap",
-      "summary": "Review: Avatar: Seven Havens proves itself as a worthy successor to Last Airbender and Legend of Korra with a powerful, emotional, and thrilling final quartet of episodes.",
-      "url": "https://www.ign.com/articles/avatar-seven-havens-season-1-finale-episodes-10-13-review-and-recap",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T07:01:00+00:00"
-    },
-    {
-      "id": "b34d17a7869f9473685396ad",
-      "title": "Nocturne Episodes 1 & 2 Recap and Review",
-      "summary": "Review: Nocturne Episodes 1 & 2 are threading a needle as it hopes to intrigue viewers with familiar tropes delivered in a remixed storyline.",
-      "url": "https://www.ign.com/articles/nocturne-episodes-1-2-recap-and-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T07:01:00+00:00"
-    },
-    {
-      "id": "53e080eba88f3a2b4a3716e4",
-      "title": "The Official Nintendo Switch 2 Pro Controller Drops to $67.59 at Woot Ahead of Black Friday",
-      "summary": "I don't think we'll see a better deal during Black Friday.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-pro-controller-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T06:50:00+00:00"
     },
     {
       "id": "934c49f0e00f76c6f5010fd5",
@@ -211,17 +552,6 @@
       "publishedAt": "2026-10-30T03:05:17+00:00"
     },
     {
-      "id": "d0b7657f4f718b556f41ba23",
-      "title": "Death Stranding Isolations Anime Gets First Trailer",
-      "summary": "Kojima Productions revealed the first trailer for Death Stranding Isolations, an original anime series set in the world of Death Stranding, scheduled to release on Disney+ next year.",
-      "url": "https://www.ign.com/articles/death-stranding-isolations-anime-gets-first-trailer",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T02:51:05+00:00"
-    },
-    {
       "id": "988cba1a44451f48e35245d8",
       "title": "Democrats have an identity crisis - it won't be an easy fix",
       "summary": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
@@ -277,17 +607,6 @@
       "publishedAt": "2026-10-30T01:35:40+00:00"
     },
     {
-      "id": "fb6094c72e3337dfd4aa5672",
-      "title": "Attack on Titan 3: The Final Preview",
-      "summary": "Attack on Titan 3 may come with a number, but it isn’t a direct sequel in the truest sense of the word. It’s more of a retelling. Based on my time with it, Attack on Titan 3 is juggling a lot of plates, and its ambition to do something new with the franchise is pretty laudable.",
-      "url": "https://www.ign.com/articles/attack-on-titan-3-the-final-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T01:00:00+00:00"
-    },
-    {
       "id": "cb4422f3ec5b0b91debf3151",
       "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
       "summary": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
@@ -321,105 +640,6 @@
       "publishedAt": "2026-10-30T00:02:35+00:00"
     },
     {
-      "id": "14cc13f3ba9ad92f54a1115f",
-      "title": "Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content",
-      "summary": "Call of Duty: Modern Warfare 4 has added new disclaimers to content that may not abide by the game's usual grounded tone and aesthetic.",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-non-milsim-content-disclaimer-to-halloween-themed-content",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T23:17:23+00:00"
-    },
-    {
-      "id": "387010dfc49a615402b7a11c",
-      "title": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
-      "summary": "Sources tell The Verge that Gears of War: E-Day has sold over 400,000 copies across console and PC, and Game Pass is likely to blame.",
-      "url": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T23:13:44+00:00"
-    },
-    {
-      "id": "f7cf47df0dd43dbed9bd833a",
-      "title": "Google value plunges by $500bn as AI search hits ad sales",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-29T22:17:52+00:00"
-    },
-    {
-      "id": "5d6076260521cbcd4f38286c",
-      "title": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games Like Castlevania",
-      "summary": "Bethesda has paid tribute to Sir Patrick Stewart for his role in The Elder Scrolls 4: Oblivion after his death.",
-      "url": "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T21:57:00+00:00"
-    },
-    {
-      "id": "010c706a94020321a40acb53",
-      "title": "James Gunn Says It 'Won't Be Too Long' Before DCU Batman Is Cast, Will Be Close in Age to David Corenswet's Superman",
-      "summary": "James Gunn has revealed that DC Studios is finally getting ready to cast the DCU's Batman.",
-      "url": "https://www.ign.com/articles/james-gunn-says-it-wont-be-too-long-before-dcu-batman-is-cast-will-be-close-in-age-to-david-corenswets-superman",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T21:41:44+00:00"
-    },
-    {
-      "id": "78055cb00d4c0a49e0e7d64e",
-      "title": "Star Trek Talent Mourn Patrick Stewart: 'Captain Picard Stood For the Best of Us'",
-      "summary": "Sir Patrick Stewart’s friends and colleagues from the world of Star Trek have taken to social media to share their tributes to the late Jean-Luc Picard actor, who died Thursday at the age of 86 from Alzheimer’s disease and Lewy body dementia.",
-      "url": "https://www.ign.com/articles/star-trek-mourns-patrick-stewart-tributes",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T21:32:38+00:00"
-    },
-    {
-      "id": "ddeda677250ae237cf939cc8",
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T21:31:12+00:00"
-    },
-    {
-      "id": "ec6531da3d22cd5a79a1b1b6",
-      "title": "Everything Coming to Peacock in November",
-      "summary": "",
-      "url": "https://www.ign.com/articles/whats-new-on-peacock-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T21:30:00+00:00"
-    },
-    {
-      "id": "cb2ccbd6b8a63765d7884121",
-      "title": "Hit Indie Horror Game Mouthwashing Is Getting a Live-Action Movie From the Director of Jennifer's Body",
-      "summary": "Mouthwashing is getting the Hollywood treatment with a full-length feature film directed by the mind behind Jennifer's Body.",
-      "url": "https://www.ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T21:18:43+00:00"
-    },
-    {
       "id": "e78eb635b3cbef0bd08beb12",
       "title": "Venezuela opposition leader María Machado calls for elections upon return",
       "summary": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
@@ -431,17 +651,6 @@
       "publishedAt": "2026-10-29T21:05:03+00:00"
     },
     {
-      "id": "047f3387772db9a75fb59a63",
-      "title": "Patrick Stewart's Best Roles in Movies and TV",
-      "summary": "Patrick Stewart's best roles in movies and TV went far beyond outer space and mutants.",
-      "url": "https://www.ign.com/articles/patrick-stewarts-best-roles-in-movies-and-tv",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T21:02:17+00:00"
-    },
-    {
       "id": "7c5f5e8a9194e80e8b9b73fc",
       "title": "Watch: What leaked audio reveals about Spain train crash",
       "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
@@ -451,50 +660,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-29T20:50:25+00:00"
-    },
-    {
-      "id": "97c177be724726ecb3feb352",
-      "title": "Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor's Death at 86",
-      "summary": "Kevin Feige, president of Marvel Studios and COO of Marvel, has given a heartfelt response to the death of acclaimed actor Sir Patrick Stewart.",
-      "url": "https://www.ign.com/articles/kevin-feige-and-marvel-studios-pay-tribute-to-sir-patrick-stewart-after-actors-death-at-86",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T20:43:45+00:00"
-    },
-    {
-      "id": "a21ab6c9e841f02c7d56fa60",
-      "title": "Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life",
-      "summary": "This controller is shaping up to be one of the best wireless PC and Xbox gaming controllers on the market.",
-      "url": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T20:30:00+00:00"
-    },
-    {
-      "id": "8ead3edce447999394a8ed19",
-      "title": "Save 20% Off the SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life",
-      "summary": "Rated one of the best gaming headsets for 4 years running.",
-      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-29T20:30:00+00:00"
-    },
-    {
-      "id": "2ca2c6724eb34672ba33e05b",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T20:21:54+00:00"
     },
     {
       "id": "52671a5935a8cec8f76ccd84",
@@ -563,39 +728,6 @@
       "publishedAt": "2026-10-29T14:17:35+00:00"
     },
     {
-      "id": "4799007f66af56d75c726400",
-      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-      "summary": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T14:08:23+00:00"
-    },
-    {
-      "id": "577007e2a9554663a0ca77d6",
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T13:44:39+00:00"
-    },
-    {
-      "id": "ce3960198a985b1f478b2672",
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T13:25:07+00:00"
-    },
-    {
       "id": "a4694a12fce30b5a1993665c",
       "title": "Fnac Darty sanctionné d’une amende de 7 millions d’euros par la CNIL pour non-respect de la législation sur les données personnelles",
       "summary": "La CNIL impose aussi une astreinte de 10 000 euros par jour à Fnac Darty si le groupe ne se conforme pas rapidement à la législation sur les cookies.",
@@ -605,17 +737,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-29T11:29:34+00:00"
-    },
-    {
-      "id": "bf0553370f655f0d885a22b6",
-      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-      "summary": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T11:25:16+00:00"
     },
     {
       "id": "53f491068505f5d0ee33b30d",
@@ -660,17 +781,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-29T09:31:44+00:00"
-    },
-    {
-      "id": "ae41be39de0d9bad931b81c9",
-      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T06:24:56+00:00"
     },
     {
       "id": "7f223d08184ccf78bb09b19a",
@@ -737,17 +847,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-29T01:27:40+00:00"
-    },
-    {
-      "id": "a714b376fcbfe209f78962c5",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-28T21:16:30+00:00"
     },
     {
       "id": "12b1e6d05d4cd33c542f1bf5",
@@ -849,50 +948,6 @@
       "publishedAt": "2026-10-27T20:30:00+00:00"
     },
     {
-      "id": "276eff87c2a4f4006ce3e4fd",
-      "title": "Une enquête ouverte pour provocation à la haine raciale émanant d’un salon de discussions sur X",
-      "summary": "Des messages vocaux tels que « Ce n’est pas le pays des bougnoules », « Il faut profiter des prières de rue, ils sont tous réunis » ou « Il va falloir tuer beaucoup de monde » y circulent.",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/27/une-enquete-ouverte-pour-provocation-a-la-haine-raciale-emanant-d-un-salon-de-discussions-sur-x_6801323_3224.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-27T16:46:16+00:00"
-    },
-    {
-      "id": "b14b568df8e6e01f3eb8e198",
-      "title": "« Les entreprises comme Meta considèrent que tout leur est permis jusqu’à ce que la justice finisse par réagir »",
-      "summary": "Frappée d’une amende record de 25 milliards de dollars au Nouveau-Mexique, la multinationale américaine de la tech cherchera sans doute à l’esquiver, mais en vain, prédit le journaliste Arnaud Leparmentier dans sa chronique, rappelant certains précédents.",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/27/les-entreprises-comme-meta-considerent-que-tout-leur-est-permis-jusqu-a-ce-que-la-justice-finisse-par-reagir_6801312_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-27T16:00:26+00:00"
-    },
-    {
-      "id": "3865120f9d1f0b68d5e247fc",
-      "title": "Quand l’intelligence artificielle submerge l’autoédition et menace la création littéraire",
-      "summary": "Depuis le lancement des applications d’intelligence artificielle générative, les livres écrits par celles-ci, ou avec leur assistance, prolifèrent sur les plateformes d’autoédition comme KDP (Amazon). Plongée dans l’univers des entrepreneurs de « livres-IA ».",
-      "url": "https://www.lemonde.fr/livres/article/2026/10/27/quand-l-intelligence-artificielle-submerge-l-autoedition-et-redefinit-l-acte-d-ecrire_6801311_3260.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-27T16:00:15+00:00"
-    },
-    {
-      "id": "6a07ca6f81de916955d091b4",
-      "title": "Au Brésil, une enquête ouverte sur un possible financement étranger de la campagne de Flavio Bolsonaro",
-      "summary": "Un juge de la Cour suprême brésilienne demande notamment à la police fédérale d’établir si le groupe conservateur américain Rockbridge Network a « participé à des tractations visant à l’obtention de soutien financier en faveur de la campagne présidentielle de Flavio Bolsonaro ».",
-      "url": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-enquete-sur-un-possible-financement-etranger-de-la-campagne-de-flavio-bolsonaro_6801298_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-27T15:00:43+00:00"
-    },
-    {
       "id": "4ddfc1b37ff2cf25f1e753b8",
       "title": "Apple to replace iPhone Duos affected by screen problem",
       "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
@@ -913,28 +968,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-26T19:57:23+00:00"
-    },
-    {
-      "id": "d53aa0e46e4bb0a80d85b520",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-26T16:27:17+00:00"
-    },
-    {
-      "id": "826ecc0a73755655fad3b8d8",
-      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-25T23:44:34+00:00"
     },
     {
       "id": "9327a2f518e13bf6b5a69c78",
