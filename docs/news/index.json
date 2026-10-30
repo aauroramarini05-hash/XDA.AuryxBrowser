@@ -1,27 +1,324 @@
 {
-  "updatedAt": "2026-10-30T16:52:53.111672+00:00",
+  "updatedAt": "2026-10-30T21:15:25.747800+00:00",
   "items": [
     {
-      "id": "73e0180fc021c23670645eff",
-      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
-      "summary": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "id": "de55ac7cd5a477da8b51a639",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T21:13:14+00:00"
+    },
+    {
+      "id": "361d43222c68e163a89599b5",
+      "title": "The Mongoose Review",
+      "summary": "Review: Liam Neeson continues his late-in-life action star antics with The Mongoose, a film that’s heavy on car chases and light on plot.",
+      "url": "https://www.ign.com/articles/the-mongoose-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T21:05:26+00:00"
+    },
+    {
+      "id": "f1a6ca39c99dee2b376eba45",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T20:55:18+00:00"
+    },
+    {
+      "id": "3038a172996b82d9ca55fb8d",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T20:41:51+00:00"
+    },
+    {
+      "id": "aa458f599f91b1ae404b02a7",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-10-30T20:34:46+00:00"
+    },
+    {
+      "id": "d220f5f64770635830b45321",
+      "title": "Save 20% (or More) Off Minecraft Dungeons 2 for Nintendo Switch 2 Ahead of Black Friday",
+      "summary": "A perfect new release game to gift to kids this holiday season.",
+      "url": "https://www.ign.com/articles/minecraft-dungeons-2-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T20:30:00+00:00"
+    },
+    {
+      "id": "516d91bfaf89472c0ad5c151",
+      "title": "Everything Coming to HBO Max in November",
+      "summary": "",
+      "url": "https://www.ign.com/articles/whats-new-on-hbo-max-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T20:15:00+00:00"
+    },
+    {
+      "id": "5faafce30a46c2fc266d0efb",
+      "title": "VRChat Devs Spark Outrage After Refusing to Include AI Label Despite 95% of Fans Asking for It",
+      "summary": "The developers of VRChat have created a rift in the virtual platform’s user base after announcing that it would not include labels to categorize AI-generated content, despite around 95% of users asking for some sort of AI filter in a survey.",
+      "url": "https://www.ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T20:11:52+00:00"
+    },
+    {
+      "id": "da1952297a3b23b4ce4c2abb",
+      "title": "Crimson Desert: Charting the Unknown Review So Far",
+      "summary": "After six hours with this beefy DLC, it seems to add even more to Crimson Desert’s buffet-style approach while doing little to improve existing systems.",
+      "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T20:08:11+00:00"
+    },
+    {
+      "id": "53237ad28bced31d120c9b34",
+      "title": "Lock In a Darkhold Destiny Collector Booster Early With The Arcanum Bundle at Amazon",
+      "summary": "Lock in a Magic: The Gathering x Marvel Darkhold Destiny Collector Booster early with the Arcanum Bundle at Amazon, now back in stock and available to preorder.",
+      "url": "https://www.ign.com/articles/lock-in-a-darkhold-destiny-collector-booster-early-with-the-arcanum-bundle-at-amazon",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T20:00:00+00:00"
+    },
+    {
+      "id": "3d3ee52ffb49716abc87e18b",
+      "title": "MTG Darkhold Destiny 4 Commander Deck Bundles: Do They Look Good or Not?",
+      "summary": "Are MTG Darkhold Destiny's Commander bundles worth $299.96 or $639.96? Here's what's included and whether the four decks look promising enough.",
+      "url": "https://www.ign.com/articles/mtg-darkhold-destiny-4-commander-deck-bundles",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T20:00:00+00:00"
+    },
+    {
+      "id": "a497c2520b55b9899c6bea63",
+      "title": "Never Run Out of Ports Again With This Sabrent 8-Port 252W USB Charging Station, on Sale for Black Friday",
+      "summary": "You can never have too many charging ports.",
+      "url": "https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T19:45:00+00:00"
+    },
+    {
+      "id": "c18d923559d730ac74c74144",
+      "title": "Buckingham Palace Honors Patrick Stewart… by Playing the Wrong Star Trek Theme Music",
+      "summary": "The Band of the Grenadier Guards performed a medley of Star Trek themes in honor of Sir Patrick Stewart – none of which were the theme music of the show the late actor starred in.",
+      "url": "https://www.ign.com/articles/buckingham-palace-honors-patrick-stewart-by-playing-the-wrong-star-trek-theme-music",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T19:40:58+00:00"
+    },
+    {
+      "id": "dfad0513573b3e3d08464b2a",
+      "title": "Hedgehog Dies After Being Spray Painted Blue to Look Like Sonic",
+      "summary": "An animal rescuer is condemning vandals who spray-painted a hedgehog blue, presumably to make it look like Sega’s beloved mascot character, Sonic the Hedgehog.",
+      "url": "https://www.ign.com/articles/hedgehog-dies-after-being-spray-painted-blue-to-look-like-sonic",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T19:30:28+00:00"
+    },
+    {
+      "id": "82e8ab07cb81348ac3c01914",
+      "title": "Ubisoft Confirms There Is 'No Other Assassin's Creed Remake Actively in Development'",
+      "summary": "Ubisoft said more Assassin's Creed games are on the way, but don't expect to see remakes like Black Flag Resynced anytime soon.",
+      "url": "https://www.ign.com/articles/ubisoft-confirms-there-is-no-other-assassins-creed-remake-actively-in-development",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T19:26:48+00:00"
+    },
+    {
+      "id": "441b0b46a68124e98848912a",
+      "title": "Grand Theft Auto VI: The Original Score Is Up for Preorder",
+      "summary": "Grand Theft Auto VI: The Original Score is a three-hour compilation of new music from Justice, and it's available to preorder now on CD and vinyl.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-vi-the-original-score-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T19:15:32+00:00"
+    },
+    {
+      "id": "31996cb681cf617fd5b4da2d",
+      "title": "Save $1,400 Off the Ultra Premium 2026 LG G6 Gallery Series 4K OLED TV and Score Some Great Freebies",
+      "summary": "One of the more noteworthy deals to come out of Best Buy's DoorBOOster sale.",
+      "url": "https://www.ign.com/articles/lg-g6-gallery-series-4k-oled-tv-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T19:05:00+00:00"
+    },
+    {
+      "id": "0bd5c45f5195f5e57031572d",
+      "title": "Reddit Will Soon Require You to Be Logged In, Likely Because of AI Overviews",
+      "summary": "Over the years, Reddit has become almost the default message board for most of the internet, and as such houses answers to thousands of questions that anyone could access, even without an account. However, Reddit CEO Steve Huffman has suggested that most of Reddit will end up locked behind a login screen.",
+      "url": "https://www.ign.com/articles/reddit-will-soon-require-you-to-be-logged-in-likely-because-of-ai-overviews",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T18:40:59+00:00"
+    },
+    {
+      "id": "19c712e0c45614b47ae2fbe1",
+      "title": "'It's Better if You Don't Have Many Expectations' — Hideki Kamiya Opens Up on Okami Sequel",
+      "summary": "IGN got the chance to bend Hideki Kamiya’s ear about the long-awaited Okami sequel at Lucca Comics and Games Festival 2026, where he shed some light on his creative process and addressed fans’ expectations about the upcoming title.",
+      "url": "https://www.ign.com/articles/its-better-if-you-dont-have-many-expectations-hideki-kamiya-opens-up-on-okami-sequel",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T18:37:30+00:00"
+    },
+    {
+      "id": "d48a35a10f9b78d2d7a140c8",
+      "title": "Crypto Hackers Steal $6.3 Billion From Binance in 'Largest Bank Heist in Human History'",
+      "summary": "“The largest bank heist in human history.” That’s what Thursday’s $6.3 billion crypto hack of Binance is being called by insiders.",
+      "url": "https://www.ign.com/articles/crypto-hackers-steal-63-billion-from-binance-in-largest-bank-heist-in-human-history",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T18:34:07+00:00"
+    },
+    {
+      "id": "d19c5a84a4063633a021c2e2",
+      "title": "Today’s Best Deals: 65\" LG G6 OLED TV, Tomodachi Life, AirTags, and a DualSense Controller",
+      "summary": "Don’t miss other frighteningly great discounts during Best Buy and Woot’s sales.",
+      "url": "https://www.ign.com/articles/best-deals-for-october-30-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T18:30:00+00:00"
+    },
+    {
+      "id": "6c48fd5a42828f38195ab368",
+      "title": "Gears of War: E-Day Reportedly Cost $500 Million to Make, Amid Claims It Has Sold Just 400,000 Copies",
+      "summary": "Gears of War: E-Day reportedly cost $500 million to make, amid claims it has sold just over 400,000 copies.",
+      "url": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-cost-500-million-to-make-amid-claims-it-has-sold-just-400000-copies",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T18:23:59+00:00"
+    },
+    {
+      "id": "e55b3300877364ea252b7ced",
+      "title": "Zelda Producer 'Nervous' About Fan Reception to Ocarina of Time Remake",
+      "summary": "Eiji Aonuma, the longtime producer of The Legend of Zelda franchise at Nintendo, is preparing to launch the highly anticipated remake of 1996's seminal The Legend of Zelda: Ocarina of Time next week. And after so many years and so many Zelda games, you'd think it was routine for him. But it turns out he's nervous this time.",
+      "url": "https://www.ign.com/articles/zelda-producer-nervous-about-fan-reception-to-ocarina-of-time-remake",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T18:07:40+00:00"
+    },
+    {
+      "id": "25d1646d0803770365f48f0c",
+      "title": "The Lenovo Legion Go S Z1 Extreme SteamOS Handheld Gaming PC Is on Sale Ahead of Black Friday",
+      "summary": "Save $100 off with two stackable coupon codes for this weekend only.",
+      "url": "https://www.ign.com/articles/lenovo-legion-go-s-handheld-gaming-pc-deal-october-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-30T18:00:00+00:00"
+    },
+    {
+      "id": "1a9db57ad7618fb41719ef52",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T17:25:20+00:00"
+    },
+    {
+      "id": "698979da0ea28db450b01e74",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T17:07:19+00:00"
+    },
+    {
+      "id": "d23a20c719ca81cd0fd45a34",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-30T17:00:32+00:00"
+    },
+    {
+      "id": "61a7984122245d1011fea10d",
+      "title": "Midterms 2026 : face à la méfiance à l’égard de l’IA, même les républicains du Texas doivent lâcher du lest",
+      "summary": "Le gouverneur texan, Greg Abbott, a annoncé un moratoire sur les centres de données, de plus en plus impopulaires dans son Etat comme partout ailleurs aux Etats-Unis. Les électeurs s’alarment de leurs besoins énergétiques et en eau. Pour autant, la peur de l’IA ne s’est pas complètement imposée dans la campagne des midterms.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/30/midterms-2026-face-a-la-mefiance-a-l-egard-de-l-ia-meme-les-republicains-du-texas-doivent-lacher-du-lest_6803120_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-10-30T17:00:08+00:00"
+    },
+    {
+      "id": "544e775e326fb4e66d0e360e",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
       "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-30T16:26:11+00:00"
-    },
-    {
-      "id": "d68e841cc9abf3d27b86a37c",
-      "title": "Woot’s Early Black Friday Sale Features Some Incredible Video Game Deals",
-      "summary": "Amazon-owned retailer Woot has launched an early Black Friday sale for gamers, including limited-time discounts on Switch 2, PS5, and Xbox games and accessories.",
-      "url": "https://www.ign.com/articles/woot-early-black-friday-sale-features-some-incredible-video-game-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T16:00:18+00:00"
     },
     {
       "id": "b4b1b0c3571f16d101910067",
@@ -35,50 +332,6 @@
       "publishedAt": "2026-10-30T16:00:02+00:00"
     },
     {
-      "id": "eefa9845cbfdfd5e9dc9b7e2",
-      "title": "Ramayana: Rise of a Legend Review",
-      "summary": "Review: With Ramayana: Rise of a Legend, a majestic epic falls victim to clunky action, eye-sore CGI, and awkward AI lip-syncing in what is, unfortunately, just a Part 1.",
-      "url": "https://www.ign.com/articles/ramayana-rise-of-a-legend-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T16:00:00+00:00"
-    },
-    {
-      "id": "698979da0ea28db450b01e74",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T15:59:17+00:00"
-    },
-    {
-      "id": "b77c7fae42a4d381dffd1613",
-      "title": "Everything We Know About the DCU's Batman After Clayface",
-      "summary": "Clayface introduces the DCU's version of Gotham City, but what about Batman? Here's what we know about James Gunn's version of the Dark Knight so far.",
-      "url": "https://www.ign.com/articles/everything-we-know-dcu-batman-after-clayface-brave-bold",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T15:51:20+00:00"
-    },
-    {
-      "id": "d378dc27a8accab973f65518",
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-30T15:46:28+00:00"
-    },
-    {
       "id": "1250f0f5e7854a5a9599810c",
       "title": "Accès des jeunes aux réseaux sociaux : la Commission européenne veut geler les nouvelles lois nationales, afin de négocier des règles communes à toute l’UE",
       "summary": "La Commission exhorte les 27 Etats de l’Union et le Parlement européen à s’entendre rapidement pour adopter le Kids Act, qui doit interdire l’accès aux réseaux sociaux avant 13 ans et l’encadrer jusqu’à 15 ans.",
@@ -88,17 +341,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-30T15:40:37+00:00"
-    },
-    {
-      "id": "91d6c8bd90d17bfa671defdf",
-      "title": "OpenAI CEO Sam Altman Thinks It's 'Terrible' for You to Have RAM in Your Gaming PC",
-      "summary": "OpenAI CEO Sam Altman thinks it's \"terrible\" for people to have RAM in their computers rather than in a data center, as the scarcity of memory caused by the AI boom continues to drive up costs.",
-      "url": "https://www.ign.com/articles/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ram-in-your-gaming-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T15:40:35+00:00"
     },
     {
       "id": "1576e5fa702363060fe19a1d",
@@ -145,17 +387,6 @@
       "publishedAt": "2026-10-30T15:03:39+00:00"
     },
     {
-      "id": "82f1916e305e745c54cafced",
-      "title": "Yaga Episode 3 Recap and Review",
-      "summary": "Yaga’s third episode envelopes us further with its otherworldly occurrences and shocking reveals, while keeping us on our toes for who’s really behind the mysteries and possible horrors that seem to lie ahead.",
-      "url": "https://www.ign.com/articles/yaga-episode-3-recap-and-review-hudson-williams-carrie-anne-moss-clark-backo-noah-reid",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T15:00:00+00:00"
-    },
-    {
       "id": "64ac5307aee5e086fb15a92a",
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
@@ -165,28 +396,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-30T14:48:22+00:00"
-    },
-    {
-      "id": "c3164cea7e6c711d7235b40c",
-      "title": "RTX 5080 Disappears From Nvidia's Store as Prices Reach $2,000",
-      "summary": "As the RAM crisis has played out in 2026, graphics cards have been hit particularly hard, due to the high-performance memory that's stapled onto the things. And now it seems like the RTX 5080 may have been discontinued.",
-      "url": "https://www.ign.com/articles/rtx-5080-disappears-from-nvidias-store-as-prices-reach-2000",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T14:47:37+00:00"
-    },
-    {
-      "id": "91c0cacf39e786592c56066b",
-      "title": "Mass Effect 5 and BioWare Reportedly Died So Star Wars Battlefront 3 Could Live",
-      "summary": "BioWare reportedly shut down because EA bosses chose to invest in the development of Star Wars: Battlefront 3 over Mass Effect 5.",
-      "url": "https://www.ign.com/articles/mass-effect-5-and-bioware-reportedly-died-so-star-wars-battlefront-3-could-live",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T14:34:29+00:00"
     },
     {
       "id": "d00d44b1ee57df7f4264e81b",
@@ -200,28 +409,6 @@
       "publishedAt": "2026-10-30T14:28:10+00:00"
     },
     {
-      "id": "11e51bf8005061942e7cce75",
-      "title": "Everything Coming to Netflix in November 2026",
-      "summary": "For November, Netflix has decided to onboard around 30 Christmas movies - most of them Hallmark shlock/slop from the past five years. But that's not all!",
-      "url": "https://www.ign.com/articles/whats-new-on-netflix-in-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T14:00:00+00:00"
-    },
-    {
-      "id": "7ff042193ddc611700d86c6c",
-      "title": "Get Ready for More Tales of the TMNT in 'Tear in Time' Sequel",
-      "summary": "If you're hungry for more Tales of the Teenage Mutant Ninja Turtles, then check out our exclusive preview of the spinoff comic Tear in Time.",
-      "url": "https://www.ign.com/articles/get-ready-for-more-tales-of-the-tmnt-in-tear-in-time-sequel",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T14:00:00+00:00"
-    },
-    {
       "id": "764630e51dc818d73f87f93b",
       "title": "Piratage de Binance : ce que l’on sait sur le plus gros vol de cryptomonnaies de l’histoire",
       "summary": "Deux acteurs majeurs dans l’analyse de l’écosystème des cryptoactifs, TRM Labs et Chainalysis, attribuent cette attaque à des pirates opérant pour le compte des autorités nord-coréennes.",
@@ -231,28 +418,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-30T13:56:42+00:00"
-    },
-    {
-      "id": "f1a6ca39c99dee2b376eba45",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T13:46:16+00:00"
-    },
-    {
-      "id": "ea94301b19ce5e5a480f5c26",
-      "title": "Everything Coming to Paramount+ in November",
-      "summary": "",
-      "url": "https://www.ign.com/articles/whats-new-on-paramount-plus-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T13:31:39+00:00"
     },
     {
       "id": "66ed1ce032b1df21edc79f73",
@@ -288,17 +453,6 @@
       "publishedAt": "2026-10-30T12:20:04+00:00"
     },
     {
-      "id": "7dd1d620501e171ff5a7a326",
-      "title": "James Gunn Says Harley Quinn Will Join the DCU Eventually, and if Margot Robbie Wants to Play Here He'll 'Bend Over Backwards to Explain That in the World'",
-      "summary": "James Gunn has addressed the situation with Margot Robbie’s much-loved take on Harley Quinn, and whether she’s canon in the ongoing DC Universe.",
-      "url": "https://www.ign.com/articles/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-and-if-margot-robbie-wants-to-play-here-hell-bend-over-backwards-to-explain-that-in-the-world",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T12:12:17+00:00"
-    },
-    {
       "id": "dab437535feca27f481ce680",
       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
       "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
@@ -308,17 +462,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-30T12:04:02+00:00"
-    },
-    {
-      "id": "3669637f76d9ea243fe1f3c8",
-      "title": "MTG's Reality Fracture Commander Deck Is \"Among The Most Powerful We've Ever Released\" According to WOTC",
-      "summary": "Magic's newest Commander precon, Multiverse Reforged, might be one of its most powerful yet - according to Wizards of the Coast.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-reality-fracture-commander-deck-is-among-the-most-powerful-weve-ever-released-according-to-wotc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T11:58:06+00:00"
     },
     {
       "id": "a9443edace33ed58bb35ff16",
@@ -343,81 +486,15 @@
       "publishedAt": "2026-10-30T11:35:51+00:00"
     },
     {
-      "id": "0b0ae014a1492cf69e9c00ad",
-      "title": "Star Trek Online Players Form Galaxy Class Honor Guard to Pay Tribute to Captain Picard Actor Sir Patrick Stewart",
-      "summary": "Star Trek Online players have gathered in-game to pay tribute to Sir Patrick Stewart, who died this week aged 86.",
-      "url": "https://www.ign.com/articles/star-trek-online-players-form-galaxy-class-honor-guard-to-pay-tribute-to-captain-picard-actor-sir-patrick-stewart",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T11:35:46+00:00"
-    },
-    {
-      "id": "639044f73fc6fd61cdf88b67",
-      "title": "Magic: The Gathering’s Hobbit Play Boosters Just Hit a New Lowest-Ever Price Ahead of Black Friday",
-      "summary": "Magic: The Gathering’s Hobbit Play Boosters just hit a new lowest-ever price at Amazon ahead of Black Friday.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-hobbit-play-boosters-just-hit-a-new-lowest-ever-price-ahead-of-black-friday",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T11:34:02+00:00"
-    },
-    {
-      "id": "4a1e0afa49a008839cd65c39",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "id": "c13ff1ffe860015e295d3bd9",
+      "title": "What's at stake for Trump in the US midterms?",
+      "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-10-30T11:23:06+00:00"
-    },
-    {
-      "id": "62458e10cddb8d5954a03a60",
-      "title": "Trying Gears of War: E-Day with Max Settings on NVIDIA GeForce NOW",
-      "summary": "",
-      "url": "https://www.ign.com/articles/trying-gears-of-war-e-day-with-max-settings-on-nvidia-geforce-now",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T11:14:32+00:00"
-    },
-    {
-      "id": "1951ab7f170026cc5a4eab2e",
-      "title": "Families Who Lost Loved Ones in Seoul Halloween Crowd Crush Call on Activision to Pull Real Footage From Call of Duty: Modern Warfare 4",
-      "summary": "Bereaved families have called on Activision to remove real footage of the 2022 Seoul Halloween crush disaster from Call of Duty: Modern Warfare 4.",
-      "url": "https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T11:01:54+00:00"
-    },
-    {
-      "id": "a0a8e8d27e3ad4e4f84bd402",
-      "title": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
-      "summary": "Eiji Aonuma, producer of the Zelda series at Nintendo, has said some of the younger members of his team had never played the original Ocarina of Time, but insisted that was very much a good thing for the development of the remake.",
-      "url": "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T10:14:57+00:00"
-    },
-    {
-      "id": "9f384bbebebd96b606d922c9",
-      "title": "John Romero's Next Shooter Survived the Microsoft Purge, Now He's Taking Inspiration From The Legend of Zelda: Breath of the Wild",
-      "summary": "John Romero's next shooter survived the Microsoft purge, now he's comparing it to The Legend of Zelda: Breath of the Wild.",
-      "url": "https://www.ign.com/articles/john-romeros-next-shooter-survived-the-microsoft-purge-now-hes-taking-inspiration-from-the-legend-of-zelda-breath-of-the-wild",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T09:48:45+00:00"
+      "publishedAt": "2026-10-30T10:19:48+00:00"
     },
     {
       "id": "535fe763e153c3691ccdb370",
@@ -429,17 +506,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-30T09:33:51+00:00"
-    },
-    {
-      "id": "01bbb0710f7118a251027173",
-      "title": "Capcom Isn't Scrapping Resident Evil, but Mainline Story Could Wrap Up in Next 10 Years According to Producer",
-      "summary": "IGN recently reported that Resident Evil series producer Jun Takeuchi commented that Capcom’s survival horror series’ story could end in the next 10 years. However, this does not mean that Capcom plans to stop making Resident Evil games in the next decade.",
-      "url": "https://www.ign.com/articles/capcom-isnt-scrapping-resident-evil-but-mainline-story-could-wrap-up-in-next-10-years-according-to-producer",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T09:13:32+00:00"
     },
     {
       "id": "f66c6dfa3dee1cb542f385d8",
@@ -484,17 +550,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-30T07:33:27+00:00"
-    },
-    {
-      "id": "540179ccff1cb3139b4c72c6",
-      "title": "The Nintendo Switch 2 \"Choose Your Game\" Bundle Drops to $479 at Woot While Supplies Last",
-      "summary": "Don't wait until Black Friday to get a Switch 2 console, get this deal now.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T07:33:00+00:00"
     },
     {
       "id": "934c49f0e00f76c6f5010fd5",
@@ -651,17 +706,6 @@
       "publishedAt": "2026-10-29T21:05:03+00:00"
     },
     {
-      "id": "7c5f5e8a9194e80e8b9b73fc",
-      "title": "Watch: What leaked audio reveals about Spain train crash",
-      "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
-      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T20:50:25+00:00"
-    },
-    {
       "id": "52671a5935a8cec8f76ccd84",
       "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
       "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
@@ -671,17 +715,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-29T20:05:57+00:00"
-    },
-    {
-      "id": "b501321010f3816bfa1df82a",
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T17:02:59+00:00"
     },
     {
       "id": "aba4a5e5d70879eda09b0b82",
@@ -715,17 +748,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-29T14:58:28+00:00"
-    },
-    {
-      "id": "37ede5f24ba336d11b292098",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-29T14:17:35+00:00"
     },
     {
       "id": "a4694a12fce30b5a1993665c",
@@ -924,17 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-28T00:01:10+00:00"
-    },
-    {
-      "id": "846dec3fa51fba51117789fb",
-      "title": "Avec le projet de loi « casseurs-payeurs », le gouvernement veut pouvoir censurer les appels à la violence sur les réseaux sociaux",
-      "summary": "L’exécutif souhaite avoir la possibilité de recourir au blocage administratif des sites et plateformes sur lesquels sont diffusées des invitations à la violence. Depuis sa mise en place, en 2014, cette procédure permettant de bloquer un site sans décision de justice a déjà été étendue plusieurs fois.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/27/avec-le-projet-de-loi-casseurs-payeurs-le-gouvernement-veut-pouvoir-censurer-les-appels-a-la-violence-sur-les-reseaux-sociaux_6801347_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-27T21:24:14+00:00"
     },
     {
       "id": "24b865eb377d6b6484cf4db3",
