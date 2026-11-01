@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-10-31T22:06:03.628773+00:00",
+  "updatedAt": "2026-11-01T01:41:29.940381+00:00",
   "items": [
+    {
+      "id": "0a6eb3219814b57a1b24493c",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-01T01:37:26+00:00"
+    },
+    {
+      "id": "f494a8b995545eff56a51ef7",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-01T00:55:06+00:00"
+    },
+    {
+      "id": "8ea09159788c43912a978726",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-01T00:12:07+00:00"
+    },
+    {
+      "id": "6448a7ae9fb08c23b39fe9d2",
+      "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+      "summary": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.",
+      "url": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-31T23:32:09+00:00"
+    },
+    {
+      "id": "7f7d1c3cb1edf1a5bad5f7c0",
+      "title": "Save Mass Effect Graffiti Reportedly Spray-Painted Outside EA Building",
+      "summary": "An EA office building in Madrid was vandalized with the words \"Save Mass Effect\" just days after the company announced it had shuttered series developer BioWare.",
+      "url": "https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-31T23:08:02+00:00"
+    },
+    {
+      "id": "05534390993cf0d9a79d0ad2",
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-31T23:06:13+00:00"
+    },
+    {
+      "id": "91247b349cf2ace25fe3fbd0",
+      "title": "Star Wars Actor Hayden Christensen Says a Man Who Burgled His House Recognized Him Then Gave His Stuff Back Mid-Robbery",
+      "summary": "Anakin Skywalker actor Hayden Christensen has revealed the strangest fan encounter he’s ever had.",
+      "url": "https://www.ign.com/articles/star-wars-actor-hayden-christensen-says-a-man-who-burgled-his-house-recognized-him-then-gave-his-stuff-back-mid-robbery",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-31T23:00:27+00:00"
+    },
+    {
+      "id": "6fb933c31487a263aaf694ea",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-10-31T22:11:45+00:00"
+    },
+    {
+      "id": "13245deb7f19925502f8e411",
+      "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+      "summary": "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
+      "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-10-31T21:46:36+00:00"
+    },
     {
       "id": "0e72928dabfeeb5c77df9b2c",
       "title": "Thousands demonstrate in Paris as protests spread across Europe",
@@ -121,17 +220,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-31T16:55:47+00:00"
-    },
-    {
-      "id": "6fb933c31487a263aaf694ea",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-31T16:32:08+00:00"
     },
     {
       "id": "51e0bc52387145fa1319c0cd",
@@ -409,17 +497,6 @@
       "publishedAt": "2026-10-31T00:45:06+00:00"
     },
     {
-      "id": "849f188081ba2fa234635572",
-      "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
-      "summary": "Chronicles: Medieval developer Raw Power Games posted a chilling warning on its social media pages, warning that the studio might close before it can launch the Early Access version of its medieval open-world action/strategy sandbox because funding for the team is \"no longer in place.\"",
-      "url": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-31T00:40:27+00:00"
-    },
-    {
       "id": "0531113bb21536e0a284e9b3",
       "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
       "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
@@ -431,39 +508,6 @@
       "publishedAt": "2026-10-31T00:16:03+00:00"
     },
     {
-      "id": "7b8a79ece1fda3d775709e83",
-      "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
-      "summary": "Bethesda and Xbox development studio id Software, maker of the Doom franchise, has deepened its partnership with fellow Bethesda and Xbox studio MachineGames, makers of the most recent Wolfenstein games as well as 2024's Indiana Jones and the Great Circle.",
-      "url": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-31T00:01:34+00:00"
-    },
-    {
-      "id": "d9d6a424b3fba3cbd5bd82e4",
-      "title": "Why Best Buy Is a Great Place to Buy Pokémon LEGO This Holiday Season",
-      "summary": "Buy in person or online, with price ranges to fit your budget.",
-      "url": "https://www.ign.com/sponsored/why-best-buy-is-a-great-place-to-buy-pokemon-legos-this-holiday-season",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T23:49:00+00:00"
-    },
-    {
-      "id": "81d9e68b9a91d4df75a3cb8b",
-      "title": "Magic: The Gathering Designers Detail Reality Fracture’s Jace Arc, Echoed Pairs, and Secret Lair Bundles",
-      "summary": "Magic: The Gathering designers Yoni Skolnik and Meris Mullaley break down Reality Fracture’s Jace storyline, Echoed Pairs pack changes, and the future of Secret Lair bundles.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-designers-on-making-jace-relevant-for-reality-fracture-favorite-cards-and-that-secret-lair-bundle",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-30T23:30:00+00:00"
-    },
-    {
       "id": "9b9e61d2957feab5f249300c",
       "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
       "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
@@ -473,17 +517,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-30T23:26:16+00:00"
-    },
-    {
-      "id": "9a1e3db8ec80d14fd2946f63",
-      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
-      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T23:19:17+00:00"
     },
     {
       "id": "1a9db57ad7618fb41719ef52",
@@ -530,17 +563,6 @@
       "publishedAt": "2026-10-30T20:34:46+00:00"
     },
     {
-      "id": "698979da0ea28db450b01e74",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T17:07:19+00:00"
-    },
-    {
       "id": "61a7984122245d1011fea10d",
       "title": "Midterms 2026 : face à la méfiance à l’égard de l’IA, même les républicains du Texas doivent lâcher du lest",
       "summary": "Le gouverneur texan, Greg Abbott, a annoncé un moratoire sur les centres de données, de plus en plus impopulaires dans son Etat comme partout ailleurs aux Etats-Unis. Les électeurs s’alarment de leurs besoins énergétiques et en eau. Pour autant, la peur de l’IA ne s’est pas complètement imposée dans la campagne des midterms.",
@@ -572,17 +594,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-30T15:40:37+00:00"
-    },
-    {
-      "id": "64ac5307aee5e086fb15a92a",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T14:48:22+00:00"
     },
     {
       "id": "d00d44b1ee57df7f4264e81b",
@@ -682,17 +693,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-30T06:41:12+00:00"
-    },
-    {
-      "id": "988cba1a44451f48e35245d8",
-      "title": "Democrats have an identity crisis - it won't be an easy fix",
-      "summary": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
-      "url": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T02:14:41+00:00"
     },
     {
       "id": "57359edaa6b86c22d6e0b57b",
@@ -869,17 +869,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-27T20:30:00+00:00"
-    },
-    {
-      "id": "4ddfc1b37ff2cf25f1e753b8",
-      "title": "Apple to replace iPhone Duos affected by screen problem",
-      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-27T09:37:55+00:00"
     },
     {
       "id": "9327a2f518e13bf6b5a69c78",
