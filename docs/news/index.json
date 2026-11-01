@@ -1,21 +1,76 @@
 {
-  "updatedAt": "2026-11-01T08:27:02.505506+00:00",
+  "updatedAt": "2026-11-01T15:36:45.413203+00:00",
   "items": [
     {
-      "id": "05fa95d63764d3666e36ab01",
-      "title": "Shops looted as German cost of living protests turn violent",
+      "id": "6fb933c31487a263aaf694ea",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-01T13:11:37+00:00"
+    },
+    {
+      "id": "4fa4c1dd7f3854d9ea93e645",
+      "title": "Everyone Is Running a Con in You Can See Everything",
+      "summary": "Everyone is running a con in the Elizabeth Holmes Documentary You Can See Everything.",
+      "url": "https://www.ign.com/articles/everyone-is-running-a-con-in-you-can-see-everything",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-01T13:00:00+00:00"
+    },
+    {
+      "id": "9848566075aa443e1c77499b",
+      "title": "UK Deals: AliExpress Has a Ton of Early Black Friday Deals for Gamers",
+      "summary": "AliExpress launches a whole bunch of early Black Friday deals for tech lovers, including some excellent gaming and PC discounts, such as Nintendo Switch 2 consoles from just £335.52.",
+      "url": "https://www.ign.com/articles/uk-deals-aliexpress-has-a-ton-of-early-black-friday-deals-for-gamers",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-01T12:33:53+00:00"
+    },
+    {
+      "id": "142ca56ff9cbe1a18fe5c6bc",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
       "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-01T07:36:18+00:00"
+      "publishedAt": "2026-11-01T11:57:48+00:00"
+    },
+    {
+      "id": "ed387c63033d313e313b0632",
+      "title": "Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle »",
+      "summary": "La plateforme mondiale a annoncé, dimanche, avoir ouvert « la première série de retraits » à ses utilisateurs, procédant « par étapes » après le plus grand vol de cryptomonnaies jamais enregistré, pour lequel la police fédérale américaine accuse des pirates informatiques nord-coréens.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-la-plateforme-annonce-rouvrir-les-retraits-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408997.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-01T10:04:17+00:00"
+    },
+    {
+      "id": "6df8d4700ef8cd8ea752276a",
+      "title": "VIDEO Au Texas, le projet de construction du plus grand data center au monde qui divise le camp de Trump",
+      "summary": "Dans cet Etat américain, le gigantesque projet Matador s’annonce comme le plus gros centre de données du pays. A l’approche des midterms, les controverses autour du chantier pourraient détourner des électeurs conservateurs de leur soutien au président. « Le Monde » est allé filmer les lieux et a recueilli la parole de riverains.",
+      "url": "https://www.lemonde.fr/international/video/2026/11/01/au-texas-le-chantier-du-plus-grand-data-center-au-monde-divise-le-camp-de-trump_6804134_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-01T10:00:08+00:00"
     },
     {
       "id": "81f67453f56ff4f21739470e",
       "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -46,15 +101,15 @@
       "publishedAt": "2026-11-01T05:26:02+00:00"
     },
     {
-      "id": "a8d39c85f3a365ab41b1b78d",
-      "title": "GTA, un studio en Ecosse, un bug et beaucoup d’irrévérence : il y a quarante ans, naissait un jeu vidéo mythique",
+      "id": "69d2757528551a6481ade56d",
+      "title": "GTA, un studio en Ecosse, un bug et beaucoup d’irrévérence : il y a trente ans, naissait un jeu vidéo mythique",
       "summary": "Le sixième volet de « Grand Theft Auto », qui sortira le 19 novembre, a démarré sur les chapeaux de roue, avec 600 millions de dollars de précommandes. Saga au succès planétaire, ce jeu de vol de voitures où tous les coups sont permis a été imaginé au milieu des années 1990 par une bande de jeunes passionnés à Dundee, au nord d’Edimbourg.",
       "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/01/gta-un-studio-en-ecosse-un-bug-et-beaucoup-d-irreverence-il-y-a-quarante-ans-naissait-un-jeu-video-mythique_6804021_4500055.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-11-01T04:50:05+00:00"
+      "publishedAt": "2026-11-01T04:50:03+00:00"
     },
     {
       "id": "1555c8d80a23e5b5eb1b2b99",
@@ -66,17 +121,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-01T04:00:09+00:00"
-    },
-    {
-      "id": "bd84f86d3e91cee2096f73db",
-      "title": "Piratage de la plateforme de cryptomonnaies Binance : le FBI accuse la Corée du Nord du « casse du siècle »",
-      "summary": "La police fédérale américaine a affirmé samedi que le groupe de pirates informatiques nord-coréens TraderTraitor était derrière le plus grand vol de cryptomonnaies jamais enregistré, dont le préjudice dépasse les 6 milliards de dollars.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-01T02:30:17+00:00"
     },
     {
       "id": "0a6eb3219814b57a1b24493c",
@@ -99,6 +143,39 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-01T00:55:06+00:00"
+    },
+    {
+      "id": "f1a6ca39c99dee2b376eba45",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-01T00:46:12+00:00"
+    },
+    {
+      "id": "ea874124d524b032cbb8273e",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-01T00:41:24+00:00"
+    },
+    {
+      "id": "3e0aeef77495a46bf215aa9a",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-01T00:27:33+00:00"
     },
     {
       "id": "6448a7ae9fb08c23b39fe9d2",
@@ -143,17 +220,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-10-31T23:00:27+00:00"
-    },
-    {
-      "id": "6fb933c31487a263aaf694ea",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-31T22:11:45+00:00"
     },
     {
       "id": "13245deb7f19925502f8e411",
@@ -475,28 +541,6 @@
       "publishedAt": "2026-10-31T02:12:19+00:00"
     },
     {
-      "id": "c4046be9d33c094a71bdbc5c",
-      "title": "The Indian chef who brought curry to America - then vanished",
-      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
-      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-31T02:02:16+00:00"
-    },
-    {
-      "id": "f47b007f6f0774d003c5d97f",
-      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
-      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-31T01:32:33+00:00"
-    },
-    {
       "id": "9ffb2f05b5d4aebe4dfeff97",
       "title": "Global nature talks reach deal but money remains an issue",
       "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
@@ -519,28 +563,6 @@
       "publishedAt": "2026-10-31T01:11:43+00:00"
     },
     {
-      "id": "1ff88bb08d7096171da4f3af",
-      "title": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
-      "summary": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
-      "url": "https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-31T01:06:04+00:00"
-    },
-    {
-      "id": "b3ca6dd67f3a97b74caf1220",
-      "title": "Monster Hunter Outlanders Review So Far",
-      "summary": "This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.",
-      "url": "https://www.ign.com/articles/monster-hunter-outlanders-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-31T00:45:06+00:00"
-    },
-    {
       "id": "9b9e61d2957feab5f249300c",
       "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
       "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
@@ -561,28 +583,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-30T22:11:52+00:00"
-    },
-    {
-      "id": "de55ac7cd5a477da8b51a639",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T21:13:14+00:00"
-    },
-    {
-      "id": "3038a172996b82d9ca55fb8d",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T20:41:51+00:00"
     },
     {
       "id": "aa458f599f91b1ae404b02a7",
@@ -803,17 +803,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-29T05:13:07+00:00"
-    },
-    {
-      "id": "3335f140b433cafc541cf9ff",
-      "title": "Jean-Luc Mélenchon et LFI à la conquête des « gameurs » avant la présidentielle de 2027",
-      "summary": "Au début critique contre certains jeux, comme « Assassin’s Creed Unity », le candidat de La France insoumise s’est saisi de cette question pour attirer de nouveaux électeurs et combattre l’extrême droite. Jeudi, le mouvement présentera une proposition de loi « visant à garantir les droits des joueurs et joueuses et la pérennité des jeux vidéo ».",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-29T04:30:02+00:00"
     },
     {
       "id": "39e47ed10fd77c920a29a95c",
