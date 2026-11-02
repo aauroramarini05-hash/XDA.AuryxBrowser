@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-01T23:24:02.149801+00:00",
+  "updatedAt": "2026-11-02T03:34:01.884476+00:00",
   "items": [
+    {
+      "id": "80e99436e5242c75693e10e0",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-02T03:32:14+00:00"
+    },
+    {
+      "id": "0164d9cd071ec3208b348744",
+      "title": "Zach Cregger Was 'Frustrated' the Conversation Around Resident Evil 'Didn't Have Anything to Do With the Movie'",
+      "summary": "Horror filmmaker Zach Cregger has explained why he was \"frustrated\" that much of the conversation around his Resident Evil film \"didn't have anything to do with the movie.\"",
+      "url": "https://www.ign.com/articles/zach-cregger-was-frustrated-the-conversation-around-resident-evil-didnt-have-anything-to-do-with-the-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T03:05:35+00:00"
+    },
+    {
+      "id": "1ebbe06e94d27f39e87c2217",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-02T01:45:42+00:00"
+    },
+    {
+      "id": "da25e422ea1f58812be26109",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-02T01:18:27+00:00"
+    },
+    {
+      "id": "55ee8b7018e7819ebe5f94c0",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-02T00:25:12+00:00"
+    },
+    {
+      "id": "02895a92b24cbaabb20f7573",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-02T00:15:30+00:00"
+    },
+    {
+      "id": "78f2ed370e8654a12c01bee0",
+      "title": "Clayface Comes in Second to You Can See Everything at the Domestic Box Office on Halloween Weekend",
+      "summary": "Clayface has come in second at the domestic box office on the Halloween weekend as audiences continue to show up for Elizabeth Holmes documentary You Can See Everything.",
+      "url": "https://www.ign.com/articles/clayface-comes-in-second-to-you-can-see-everything-at-the-domestic-box-office-on-halloween-weekend",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-01T23:27:45+00:00"
+    },
+    {
+      "id": "5b420c53ae525d7e2513c672",
+      "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-november-1-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-01T23:24:23+00:00"
+    },
     {
       "id": "186a6ea67d20319670987dd9",
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
@@ -11,17 +99,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-01T21:55:01+00:00"
-    },
-    {
-      "id": "1ebbe06e94d27f39e87c2217",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-01T21:16:45+00:00"
     },
     {
       "id": "1a83f8b1460adbd820017617",
@@ -131,7 +208,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-11-01T16:00:25+00:00"
+      "publishedAt": "2026-11-01T16:00:13+00:00"
     },
     {
       "id": "6fb933c31487a263aaf694ea",
@@ -519,39 +596,6 @@
       "publishedAt": "2026-10-31T14:28:15+00:00"
     },
     {
-      "id": "f2f8bc1698abc1d080bbc9bb",
-      "title": "Nintendo Reveals Surprise Pikmin Day Direct",
-      "summary": "Nintendo has revealed a surprise Nintendo Direct for Pikmin Day because it has apparently decided that's a thing now.",
-      "url": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-31T14:26:26+00:00"
-    },
-    {
-      "id": "9cea035b0f17121fb07d3259",
-      "title": "Aliens, Bigfoots, and Monsters… Remembering the Age of the Weirdumentary",
-      "summary": "In the conspiracy-minded 1970s, monster ‘documentaries’ were a huge hit at the box office.",
-      "url": "https://www.ign.com/articles/aliens-bigfoots-and-monsters-remembering-the-age-of-the-weirdumentary",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-31T13:00:00+00:00"
-    },
-    {
-      "id": "15517e00cd6855de00c29dbf",
-      "title": "Avatar: Seven Havens Showrunners Address Your Biggest Finale Burning Questions",
-      "summary": "Avatar: Seven Havens: We talk with show co-creator Michael Dante DiMartino and showrunners Sehaj Sethi and Ethan Spaulding about the current season and beyond.",
-      "url": "https://www.ign.com/articles/avatar-seven-havens-finale-showrunners-ending-explained-biggest-questions",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-10-31T12:00:00+00:00"
-    },
-    {
       "id": "f76652ac1b8977257e91d80b",
       "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
       "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
@@ -607,17 +651,6 @@
       "publishedAt": "2026-10-31T03:30:06+00:00"
     },
     {
-      "id": "8a3bdeb416d1d02c71aec3b2",
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-31T02:39:25+00:00"
-    },
-    {
       "id": "ae089e1239e4898f9530de6c",
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
       "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
@@ -638,28 +671,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-10-31T01:27:05+00:00"
-    },
-    {
-      "id": "8e0d8396e6298363b7c8cf80",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-31T01:11:43+00:00"
-    },
-    {
-      "id": "1a9db57ad7618fb41719ef52",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-10-30T22:11:52+00:00"
     },
     {
       "id": "aa458f599f91b1ae404b02a7",
@@ -891,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-28T19:15:58+00:00"
-    },
-    {
-      "id": "5b970cecf08751edaaebbe01",
-      "title": "'An annoying buzz': The search for stealthier drones",
-      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-28T00:01:10+00:00"
     },
     {
       "id": "24b865eb377d6b6484cf4db3",
