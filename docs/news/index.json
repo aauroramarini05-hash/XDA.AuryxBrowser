@@ -1,6 +1,347 @@
 {
-  "updatedAt": "2026-11-02T21:07:41.384273+00:00",
+  "updatedAt": "2026-11-03T03:11:27.363159+00:00",
   "items": [
+    {
+      "id": "c4ed16dddc038862b497c898",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-03T03:00:36+00:00"
+    },
+    {
+      "id": "e7a24783d69590f29f666d94",
+      "title": "Cryptomonnaies : la Corée du Nord nie être impliquée dans le piratage de la plateforme Binance, rejetant les accusations du FBI",
+      "summary": "La police fédérale américaine a accusé le groupe de pirates informatiques nord-coréens TraderTraitor d’être à l’origine du vol de 6,3 milliards de dollars d’actifs numériques. « Une grave provocation politique », a dénoncé Kim Yo Jong, sœur du dirigeant Kim Jong-un.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-03T02:57:01+00:00"
+    },
+    {
+      "id": "246d6d8cb35ad218952bfb9b",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-03T01:57:46+00:00"
+    },
+    {
+      "id": "1a40e3c3a34ee4bde6a9b6ee",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-03T01:56:27+00:00"
+    },
+    {
+      "id": "fe870c5b14368a7147bbd5e2",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-03T01:23:03+00:00"
+    },
+    {
+      "id": "6ad20838a3fefeb2d196213b",
+      "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+      "summary": "A poll of 1,300 American gamers shows some concerning trends regarding GTA 6 — more specifically, their willingness to abandon their pets for a chance at playing the game ahead of its release.",
+      "url": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-03T00:44:36+00:00"
+    },
+    {
+      "id": "8b0ee1585c5d6c9fa4b5d193",
+      "title": "Apple unsure when more foldable iPhones will be available after selling out",
+      "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-03T00:29:00+00:00"
+    },
+    {
+      "id": "a8670374b944fa7058c62995",
+      "title": "John Goodman Says Digger Reviews 'Killed' the Movie Before It Was Released",
+      "summary": "John Goodman believes the critical reception to Digger \"killed\" the movie before it had even been released.",
+      "url": "https://www.ign.com/articles/john-goodman-says-digger-reviews-killed-the-movie-before-it-was-released",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-03T00:11:42+00:00"
+    },
+    {
+      "id": "bacf2544b364e66a86bf2ee1",
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-03T00:09:13+00:00"
+    },
+    {
+      "id": "aa58a10c10be4ec26f3a9b1f",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-03T00:08:14+00:00"
+    },
+    {
+      "id": "79de967211bfec04b854441d",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-03T00:07:05+00:00"
+    },
+    {
+      "id": "927d5e74542ace6d4bc0f6a5",
+      "title": "Johnny Depp Is Open to Playing Jack Sparrow Again in a New Pirates of the Caribbean Movie",
+      "summary": "Johnny Depp is open to playing Jack Sparrow again in a new Pirates of the Caribbean movie, despite saying he'd never work with Disney on the franchise ever again.",
+      "url": "https://www.ign.com/articles/johnny-depp-is-open-to-playing-jack-sparrow-again-in-a-new-pirates-of-the-caribbean-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:55:37+00:00"
+    },
+    {
+      "id": "17e7f1e00f7ddcd623792cf5",
+      "title": "Save 30% Off the Meta Quest 3 512GB VR Headset From the Meta Store Ahead of Black Friday",
+      "summary": "Still the best VR headset for the price.",
+      "url": "https://www.ign.com/articles/best-meta-quest-3-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:55:00+00:00"
+    },
+    {
+      "id": "12602427ac259f695c0c4b41",
+      "title": "The Rings of Power Season 3 Co-Showrunner Confirms Harfoots Will Return",
+      "summary": "Contrary to earlier reports, the Harfoots are still a part of The Lord of the Rings: The Rings of Power, Season 3 albeit not to the degree they were featured in the Prime Video show’s first two seasons.",
+      "url": "https://www.ign.com/articles/rings-of-power-season-3-harfoots-return",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:47:43+00:00"
+    },
+    {
+      "id": "c71761788237a2ce1b317f0f",
+      "title": "Project Hail Mary Author Andy Weir Explains How He Would Fix the Star Wars Franchise",
+      "summary": "Andy Weir, famous for penning The Martian and Project Hail Mary, has some strong ideas about how he would tackle telling stories in the Star Wars universe if he had the chance.",
+      "url": "https://www.ign.com/articles/project-hail-mary-author-andy-weir-explains-how-he-would-fix-the-star-wars-franchise",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:45:03+00:00"
+    },
+    {
+      "id": "1a19eb80276c8098f525a944",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-02T23:37:31+00:00"
+    },
+    {
+      "id": "aae9e52232e02b7103ed1fb2",
+      "title": "How to Enter the AGON x COUNTER-STRIKE 2 Limited Edition Monitor Giveaway",
+      "summary": "10 eligible winners will each take home an exclusive 24\" CS2 monitor.",
+      "url": "https://www.ign.com/articles/agon-x-counter-strike-2-limited-edition-monitor-giveaway",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:37:31+00:00"
+    },
+    {
+      "id": "526e121e136fa2d61365d5bc",
+      "title": "Black Friday 2026 Sale Dates and What to Expect",
+      "summary": "",
+      "url": "https://www.ign.com/articles/black-friday-2026-sale-dates-and-what-to-expect",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:33:26+00:00"
+    },
+    {
+      "id": "7fa793f108a68c8c943893cf",
+      "title": "Pedro Pascal Is Hiding an Avengers: Doomsday Easter Egg on His Doctor Doom Halloween Costume, Fans Say",
+      "summary": "Robert Downey Jr. and Pedro Pascal's Avengers: Doomsday Halloween costumes may have been more than just a fun treat for Marvel fans.",
+      "url": "https://www.ign.com/articles/pedro-pascal-is-hiding-an-avengers-doomsday-easter-egg-on-his-doctor-doom-halloween-costume-fans-say",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:17:23+00:00"
+    },
+    {
+      "id": "02adaa4e430e96127f982098",
+      "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+      "summary": "A terminally ill GTA 6 fan has died three weeks before the game's launch.",
+      "url": "https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:12:25+00:00"
+    },
+    {
+      "id": "fc4e9c801f0e683d5701d3d6",
+      "title": "Gamescom Asia x Thailand Game Show Dubbed the 'Most International Yet' with Almost 220,000 Attendees",
+      "summary": "Gamescom Asia x Thailand Game Show Dubbed the 'Most International Yet' with Almost 220,000 Attendees",
+      "url": "https://www.ign.com/articles/gamescom-asia-x-thailand-game-show-dubbed-the-most-international-yet-with-almost-220000-attendees",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:11:56+00:00"
+    },
+    {
+      "id": "39c5d43deaefcfa28f1f63fa",
+      "title": "Save 10% Off the SCUF Omega Wireless TMR PlayStation 5 Controller Ahead of Black Friday",
+      "summary": "The ultimate PS5 controller.",
+      "url": "https://www.ign.com/articles/scuf-omega-wireless-tmr-playstation-5-controller-is-on-sale-ahead-of-black-friday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T23:05:00+00:00"
+    },
+    {
+      "id": "be522f8022e2abd18a6ffe4a",
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-02T23:02:01+00:00"
+    },
+    {
+      "id": "e7aafb8fcad5848567e59f64",
+      "title": "Blackpink's Jisoo Confirms She Referenced Resident Evil's Ada Wong in New Music Video",
+      "summary": "Blackpink’s Jisoo has confirmed that she referenced Resident Evil’s Ada Wong in the music video for her solo song Addicted.",
+      "url": "https://www.ign.com/articles/blackpinks-jisoo-confirms-she-referenced-resident-evils-ada-wong-in-new-music-video",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T22:39:14+00:00"
+    },
+    {
+      "id": "4dabbdd1146e7e63aea135a3",
+      "title": "The Slick Looking TSA-Approved Talix 20,000mAh 140W Power Bank Drops to $39 Ahead of Black Friday",
+      "summary": "Fast charges the most powerful handheld gaming PCs or MacBook Pro laptops, with style.",
+      "url": "https://www.ign.com/articles/talix-20000mah-140w-power-bank-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T22:25:00+00:00"
+    },
+    {
+      "id": "8e1caca5eeca7f9a535af2cf",
+      "title": "‘Those Are the Wrong Reasons to Make a Movie’ — Godzilla Minus Zero Director Takashi Yamazaki on Setting Aside the Urge to One-Up Godzilla Minus One",
+      "summary": "Godzilla Minus Zero writer, director, and VFX supervisor Takashi Yamazaki says that getting caught up in besting Godzilla Minus One \"risked diluting what makes the movie great in the first place.\"",
+      "url": "https://www.ign.com/articles/those-are-the-wrong-reasons-to-make-a-movie-godzilla-minus-zero-director-takashi-yamazaki-on-setting-aside-the-urge-to-one-up-godzilla-minus-one",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T22:19:13+00:00"
+    },
+    {
+      "id": "5ee92d08d9d796fd827ed5ae",
+      "title": "Sony Wants to Buy Your PS5 Console for $400",
+      "summary": "Sony is offering $400 to people who are willing to part ways with their PS5 and two controllers.",
+      "url": "https://www.ign.com/articles/sony-wants-to-buy-your-ps5-console-for-400",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T22:08:16+00:00"
+    },
+    {
+      "id": "4ae7a16214d46c2a595b171b",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Added Fast Travel Before Devs Decided It Never Needed It in the First Place",
+      "summary": "The Legend of Zelda producer Eiji Aonuma asked the Ocarina of Time remake team to add fast travel warp points throughout Hyrule, but it didn't take long for him to realize that was probably a bad idea.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-added-fast-travel-before-devs-decided-it-never-needed-it-in-the-first-place",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T21:55:35+00:00"
+    },
+    {
+      "id": "166f35a048641bbfa69a2b39",
+      "title": "A Buggy World of Warcraft Mount Has Renewed Player Frustrations at the State of Retail",
+      "summary": "While World of Warcraft Forever is heading to what is likely a monumental release on November 4, some retail World of Warcraft players have been feeling neglected, and a recent mount has become a flashpoint for that frustration.",
+      "url": "https://www.ign.com/articles/a-buggy-world-of-warcraft-mount-has-renewed-player-frustrations-at-the-state-of-retail",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T21:52:18+00:00"
+    },
+    {
+      "id": "6fcbb316a657ed91e8caa598",
+      "title": "Zach Cregger Says He Still Wants to 'Have a Hand' in Future Resident Evil Sequels",
+      "summary": "Resident Evil director Zach Cregger says that he’d still want to “have a hand” in potential sequels for his hit horror adaptation, despite swearing off future “franchise” films.",
+      "url": "https://www.ign.com/articles/zach-cregger-says-he-still-wants-to-have-a-hand-in-future-resident-evil-sequels",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T21:32:16+00:00"
+    },
+    {
+      "id": "b898cdaafb5fd2a1699a97ce",
+      "title": "The Avatar: Seven Havens Season 1 Blu-ray and Steelbook Is Up for Preorder at Amazon",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-avatar-seven-havens-season-1-blu-ray-where-to-buy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-02T21:19:09+00:00"
+    },
     {
       "id": "9682515cec4b605445515c96",
       "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
@@ -11,17 +352,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-02T20:54:44+00:00"
-    },
-    {
-      "id": "1a40e3c3a34ee4bde6a9b6ee",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "summary": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-02T20:23:12+00:00"
     },
     {
       "id": "b1a7119bc614dba5296abbf3",
@@ -35,136 +365,15 @@
       "publishedAt": "2026-11-02T20:08:51+00:00"
     },
     {
-      "id": "98b8202717940834906af4f3",
-      "title": "Alien: Isolation 2 Sticking With Pure Survival Horror Roots, Says Creative Director",
-      "summary": "Alien Isolation 2 will be released in 2027, ready to remind you why xenomorphs are pure nightmare fuel. At the Lucca Comics and Games Festival IGN sat down with the game's creative director, Al Hope, who explained the core vision behind the science fiction sequel and why the team was sticking with the survival horror genre.",
-      "url": "https://www.ign.com/articles/alien-isolation-2-sticking-with-pure-survival-horror-roots-says-creative-director",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T20:06:39+00:00"
-    },
-    {
-      "id": "b683d897de13441f5bb3459a",
-      "title": "Here's Every New LEGO Set Releasing in November",
-      "summary": "Only four new LEGO sets are releasing in early November, but a mystery set will be released on Black Friday.",
-      "url": "https://www.ign.com/articles/every-new-lego-set-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T20:02:33+00:00"
-    },
-    {
-      "id": "6b2a5769e45303a1f725d2d0",
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-02T19:58:34+00:00"
-    },
-    {
-      "id": "aed9fa387e15c974dfb16319",
-      "title": "Get a Nintendo Switch 2 Console (USA Model) for $436 During the AliExpress Early Black Friday Sale",
-      "summary": "Just in time to play The Legend of Zelda: Ocarina of Time which comes out this week.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T19:55:00+00:00"
-    },
-    {
       "id": "cf16a3e655c0ba3d4b91f4b1",
       "title": "What Florida jet audio and flight data tells us about its final moments",
-      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities. BBC Verify has used air traffic control audio and flight tracking data to reconstruct the final moments before the plane crashed.",
+      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
       "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-02T19:49:22+00:00"
-    },
-    {
-      "id": "cc3219565d5ff34be2455310",
-      "title": "Ben Wang Reportedly in Talks to Play Iceman in MCU X-Men Reboot",
-      "summary": "The Long Walk actor Ben Wang is reportedly in talks to play Iceman in the MCU's upcoming X-Men reboot.",
-      "url": "https://www.ign.com/articles/ben-wang-reportedly-in-talks-to-play-iceman-in-mcu-x-men-reboot",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T19:46:49+00:00"
-    },
-    {
-      "id": "13381d78499252d2b18f88a4",
-      "title": "Call of Duty: Warzone Is Adding a Weather System This Week",
-      "summary": "Call of Duty: Warzone is adding a weather system that will make every match feel a bit different.",
-      "url": "https://www.ign.com/articles/call-of-duty-warzone-is-adding-a-weather-system-this-week",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T19:41:59+00:00"
-    },
-    {
-      "id": "5a179e645b56a5efe2018a70",
-      "title": "'No Amount of Competition Will Ever Unseat Steam' – Former Epic Games Engineer Rails Against Valve",
-      "summary": "Epic's rivalry with Valve isn't anything new, but while it's usually CEO Tim Sweeney taking shots at Valve, an ex-engineer posted a long list of problems Steam has caused in the industry.",
-      "url": "https://www.ign.com/articles/no-amount-of-competition-will-ever-unseat-steam-former-epic-games-engineer-rails-against-valve",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T19:39:04+00:00"
-    },
-    {
-      "id": "c4ed16dddc038862b497c898",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-02T19:33:10+00:00"
-    },
-    {
-      "id": "7ff16e208b019e1dd41b8d8a",
-      "title": "Former Xbox COO Helen Chiang Speaks Out Following Shock Exit From Microsoft",
-      "summary": "On November 2, former Xbox COO Helen Chiang took to LinkedIn to “set the record straight” about rumors over her exit from Microsoft.",
-      "url": "https://www.ign.com/articles/former-xbox-coo-helen-chiang-speaks-out-following-shock-exit-from-microsoft",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T19:29:45+00:00"
-    },
-    {
-      "id": "720fc1f00b78863a2c11febc",
-      "title": "Alien: Isolation 2 Devs Tease New Protagonist, Planet Setting, and 1979 Film Roots",
-      "summary": "IGN sat down with Creative Director Al Hope and Project Art Director Ana Sopikova to discuss why Alien: Isolation 2 took so long, how Ridley Scott's original 1979 movie continues to shape the game's design, and what fans can expect from this long-awaited return.",
-      "url": "https://www.ign.com/articles/alien-isolation-2-new-protagonist-setting-details",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T19:26:47+00:00"
-    },
-    {
-      "id": "1a19eb80276c8098f525a944",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-02T19:12:59+00:00"
     },
     {
       "id": "86c7a0822e12591e838ef624",
@@ -189,28 +398,6 @@
       "publishedAt": "2026-11-02T18:34:24+00:00"
     },
     {
-      "id": "c6c59eed9c191efc703d8608",
-      "title": "Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise",
-      "summary": "Borderlands developer Gearbox has called on fans to let it know what they want next from the next game in the franchise, as work begins on “an exciting overall direction.”",
-      "url": "https://www.ign.com/articles/gearbox-calls-on-fans-to-help-shape-the-next-borderlands-teases-exciting-overall-direction-for-the-future-of-the-franchise",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T18:31:12+00:00"
-    },
-    {
-      "id": "e99edbd921cc67b1b3d1342c",
-      "title": "Nintendo Explains Why It Chose to Do Another The Legend of Zelda: Ocarina of Time Remake",
-      "summary": "Nintendo has explained why it chose to develop another The Legend of Zelda: Ocarina of Time remake.",
-      "url": "https://www.ign.com/articles/nintendo-explains-why-it-chose-to-do-another-the-legend-of-zelda-ocarina-of-time-remake",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T18:26:43+00:00"
-    },
-    {
       "id": "9ea5eed2af4d6259438c9c68",
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
@@ -220,72 +407,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-02T18:25:01+00:00"
-    },
-    {
-      "id": "8a2e120c0b3eb96899b0abf3",
-      "title": "Latest Steam Hardware Survey Shows Just How Hard PC Gamers Have Been Hit by AI",
-      "summary": "The entirety of 2026 has been marked by continually rising hardware prices, and now, according to the latest Steam Hardware Survey, the average gaming PC is starting to embrace older hardware once more.",
-      "url": "https://www.ign.com/articles/latest-steam-hardware-survey-shows-just-how-hard-pc-gamers-have-been-hit-by-ai",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T18:16:32+00:00"
-    },
-    {
-      "id": "bba7b1b2177b8b0c907e7397",
-      "title": "Viral 2011 Horror Hit Megan Is Missing Just Got a Sequel Series on Instagram",
-      "summary": "Fifteen years after its initial release, one of the internet's most infamous cult horror movies, Megan Is Missing, has unexpectedly gained a sequel, and fittingly, it's available for free on Instagram.",
-      "url": "https://www.ign.com/articles/viral-2011-horror-hit-megan-is-missing-just-got-a-sequel-series-on-instagram",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T18:15:25+00:00"
-    },
-    {
-      "id": "d94b7fcc8478940d35862367",
-      "title": "Get a 1,000W Peak 48V Electric Bike With 28mph Top Speed and 80-Mile Range Under $250 for Black Friday",
-      "summary": "Best price I've seen on a powerful ebike that will satisfy most of your commuter needs.",
-      "url": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T18:05:00+00:00"
-    },
-    {
-      "id": "2969e9d26d1a740c7b2421f1",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered Review",
-      "summary": "A delightful throwback to a bygone era of lazy weekends past.",
-      "url": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-review",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T17:51:42+00:00"
-    },
-    {
-      "id": "9c4d205a190ad6c8a5d26334",
-      "title": "The FlashForge AD5X Multi-Color 3D Printer Drops Below $200 for the First Time Ever for Black Friday",
-      "summary": "The exact same printer is nearly double the price on Amazon.",
-      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T17:50:00+00:00"
-    },
-    {
-      "id": "3dd2916a5f1c5dbf87149f38",
-      "title": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $46.60 Ahead of Black Friday",
-      "summary": "Switch 2 compatible.",
-      "url": "https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T17:45:00+00:00"
     },
     {
       "id": "be30ff34fd91817f665053f1",
@@ -321,17 +442,6 @@
       "publishedAt": "2026-11-02T17:33:19+00:00"
     },
     {
-      "id": "89de63cd09d27d3d48ffa966",
-      "title": "Save $75 Off a Nintendo Switch 2 Console at Woot Ahead of Black Friday",
-      "summary": "At this point, upgrading from a Switch to a Switch 2 is a no-brainer.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T17:30:00+00:00"
-    },
-    {
       "id": "e428c24eafee753cd34d888b",
       "title": "Dutch police offer record €2m reward in hunt for drug lord",
       "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
@@ -343,28 +453,6 @@
       "publishedAt": "2026-11-02T17:29:49+00:00"
     },
     {
-      "id": "8823144406d5d80c6c471690",
-      "title": "Nintendo Reveals Development Team Behind The Legend of Zelda: Ocarina of Time Remake",
-      "summary": "Nintendo has revealed the development team responsible for creating The Legend of Zelda: Ocarina of Time remake.",
-      "url": "https://www.ign.com/articles/nintendo-reveals-development-team-behind-the-legend-of-zelda-ocarina-of-time-remake",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T17:11:37+00:00"
-    },
-    {
-      "id": "1b0b68de4e31f38a19bdfe57",
-      "title": "Save 50% Off the 48\" LG B6 4K OLED TV Ahead of Black Friday, Doubles as a Gaming Monitor",
-      "summary": "Current generation 2026 model TV that probably won't get any cheaper during Black Friday.",
-      "url": "https://www.ign.com/articles/lg-b6-4k-oled-tv-deal-october-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T17:10:00+00:00"
-    },
-    {
       "id": "308a9030afe4385d417be61d",
       "title": "Des cyberattaques contre des réfrigérateurs et des congélateurs visent plusieurs supermarchés en Europe",
       "summary": "En Belgique, en Suède, en Finlande, en Estonie, au Luxembourg et en Irlande, des pirates ont pris, dans la nuit du 1ᵉʳ au 2 novembre, le contrôle de systèmes de régulation frigorifiques connectés à Internet. Comme lors de la cyberattaque visant des magasins d’alimentation en France, en octobre, un logiciel de la compagnie danoise Danfoss a de nouve",
@@ -374,17 +462,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-02T17:02:40+00:00"
-    },
-    {
-      "id": "7dbfe9dd48d6ead868385941",
-      "title": "Best Buy Has the Xbox Ally X Ryzen Z2 Extreme Handheld Gaming PC Starting at $790 Ahead of Black Friday",
-      "summary": "I don't think there will be a better price on Black Friday.",
-      "url": "https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-02T16:55:00+00:00"
     },
     {
       "id": "c8e0ae4c3044eafaae8aea94",
@@ -418,17 +495,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-02T14:24:25+00:00"
-    },
-    {
-      "id": "0847897c24d2cc49421c8692",
-      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
-      "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-02T13:49:19+00:00"
     },
     {
       "id": "b6c98dd1e3ee5ce4d381807a",
@@ -473,17 +539,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-02T10:48:47+00:00"
-    },
-    {
-      "id": "920802d0ff15be78a96f8131",
-      "title": "What are Americans voting for in this election?",
-      "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-02T09:22:55+00:00"
     },
     {
       "id": "f8c82a2c84f9800672290828",
@@ -717,28 +772,6 @@
       "publishedAt": "2026-11-01T01:37:26+00:00"
     },
     {
-      "id": "ea874124d524b032cbb8273e",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-01T00:41:24+00:00"
-    },
-    {
-      "id": "3e0aeef77495a46bf215aa9a",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-01T00:27:33+00:00"
-    },
-    {
       "id": "c0849937b166ad224621842d",
       "title": "« Ted the Caver », l’histoire méconnue de la première « creepypasta » du Web",
       "summary": "Ce blog, tenu par un spéléologue amateur en 2001, raconte l’exploration d’une grotte virant au cauchemar, au point de fasciner Internet pendant plusieurs années. Son auteur, longtemps resté dans l’ombre, tente aujourd’hui de monétiser son histoire.",
@@ -849,17 +882,6 @@
       "publishedAt": "2026-10-30T14:28:10+00:00"
     },
     {
-      "id": "764630e51dc818d73f87f93b",
-      "title": "Piratage de Binance : ce que l’on sait sur le plus gros vol de cryptomonnaies de l’histoire",
-      "summary": "Deux acteurs majeurs dans l’analyse de l’écosystème des cryptoactifs, TRM Labs et Chainalysis, attribuent cette attaque à des pirates opérant pour le compte des autorités nord-coréennes.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/30/piratage-de-binance-ce-que-l-on-sait-sur-le-plus-gros-vol-de-cryptomonnaies-de-l-histoire_6803094_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-30T13:56:42+00:00"
-    },
-    {
       "id": "dab437535feca27f481ce680",
       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
       "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
@@ -924,28 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-29T09:31:44+00:00"
-    },
-    {
-      "id": "39e47ed10fd77c920a29a95c",
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-29T01:30:43+00:00"
-    },
-    {
-      "id": "9cbb594521c0dfeb6fa89334",
-      "title": "Microsoft profits soar days after announcing thousands of layoffs",
-      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-29T01:27:40+00:00"
     },
     {
       "id": "24b865eb377d6b6484cf4db3",
