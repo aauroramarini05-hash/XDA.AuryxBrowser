@@ -1,27 +1,236 @@
 {
-  "updatedAt": "2026-11-04T04:01:00.982471+00:00",
+  "updatedAt": "2026-11-04T12:40:36.041125+00:00",
   "items": [
     {
-      "id": "45acd78d9dd65808ea1a496a",
-      "title": "Anthony Zurcher: Democrats surge deep into Republican territory with historic wins",
+      "id": "10ee44f924c65a8df61f094c",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T12:21:21+00:00"
+    },
+    {
+      "id": "58793249298962830e0cf6ed",
+      "title": "Everything you need to know from the US midterm elections",
+      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T12:01:07+00:00"
+    },
+    {
+      "id": "8c6b81ca3f8d115a2c33f088",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T11:47:44+00:00"
+    },
+    {
+      "id": "e1b4fd9adcb7fc7b7d5edcf0",
+      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T11:46:09+00:00"
+    },
+    {
+      "id": "02c030c3b80694089de932a8",
+      "title": "On a testé… « The Legend of Zelda : Ocarina of Time Remake » : quand un chef-d’œuvre du jeu vidéo s’offre une cure de jouvence",
+      "summary": "Le jeu culte, sorti en 1998 sur Nintendo 64, revient dans une version Switch 2 très fidèle au matériel d’origine : une aventure avec un grand « A » et un « Zelda » avec un grand « Z ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/04/on-a-teste-the-legend-of-zelda-ocarina-of-time-remake-quand-un-chef-d-uvre-du-jeu-video-s-offre-une-cure-de-jouvence_6806148_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-04T11:00:08+00:00"
+    },
+    {
+      "id": "ed8e726974feeb16a67ea2e8",
+      "title": "How Long Is The Legend of Zelda: Ocarina of Time Remake?",
+      "summary": "You may think you know how long The Legend of Zelda: Ocarina of Time, but things have changed in the remake. Here's how many hours you'll need to spend with your Switch 2 to finish it.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-04T11:00:00+00:00"
+    },
+    {
+      "id": "f6aecfc4cb76596099bf7511",
+      "title": "The Legend of Zelda: Ocarina of Time Review",
+      "summary": "A beautiful retelling of a legend and a rich adventure that stands on its own.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-04T11:00:00+00:00"
+    },
+    {
+      "id": "b82290c2690651814df5b01d",
+      "title": "Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
+      "summary": "Nexus Mods has reacted to the deluge of AI mods by enforcing mandatory disclosure for mods with AI-assisted code, and letting users filter AI-assisted mods out of their search criteria or preferences.",
+      "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-04T10:50:53+00:00"
+    },
+    {
+      "id": "0f3cf05416d579bada5f1b55",
+      "title": "The Elder Scrolls 6: Sentinel Teaser's In-Universe Quote Sparks Timeline Speculation",
+      "summary": "This week's tease for The Elder Scrolls VI: Sentinel didn’t give us much to work with. Eight years since the last mention of the game, and all we got was a CGI sand dune. But that hasn’t stopped fans speculating about what it all means.",
+      "url": "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-timeline",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-04T10:35:30+00:00"
+    },
+    {
+      "id": "aab2cc758ced2ed8e6758db0",
+      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+      "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T10:35:03+00:00"
+    },
+    {
+      "id": "444e8a2f814ca29bbd745b62",
+      "title": "OpenAI Boss Sam Altman Addresses Backlash After Saying It Was 'Terrible' for People to Have RAM in Their PCs",
+      "summary": "OpenAI boss Sam Altman has addressed the backlash over comments he made in a recent interview, where he said he thought it was “terrible” for people to have RAM in their PCs rather than a data center.",
+      "url": "https://www.ign.com/articles/openai-boss-sam-altman-addresses-backlash-after-saying-it-was-terrible-for-people-to-have-ram-in-their-pcs",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-04T10:09:37+00:00"
+    },
+    {
+      "id": "f85b6667f07959aa89017e55",
+      "title": "Cyberattaque au Crédit mutuel Arkéa : le détournement est évalué à 118 millions d’euros",
+      "summary": "La caisse fédérale bretonne n’a pas communiqué le montant du préjudice, déclarant mercredi que l’incident était désormais « maîtrisé ».",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/04/le-credit-mutuel-arkea-confirme-avoir-ete-victime-d-une-cyberattaque-le-detournement-est-evalue-a-118-millions-d-euros_6806141_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-04T10:08:38+00:00"
+    },
+    {
+      "id": "339eb0fcc8925414a7594764",
+      "title": "How America voted in maps and charts",
+      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T09:53:18+00:00"
+    },
+    {
+      "id": "b80d75ba4f0a6dd77cf4e5d4",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T07:39:38+00:00"
+    },
+    {
+      "id": "63ea35f199e25496f38a8f20",
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T07:32:02+00:00"
+    },
+    {
+      "id": "402bb20f6b54c4fa74e668c7",
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
+      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T07:12:21+00:00"
+    },
+    {
+      "id": "be8eb468c30d32b23d21a24b",
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
       "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
       "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-04T03:34:58+00:00"
+      "publishedAt": "2026-11-04T06:53:56+00:00"
     },
     {
-      "id": "11481cce949a99ba4d2ad212",
-      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+      "id": "8c3e1b1afcdcceeab7473d0d",
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-04T02:38:07+00:00"
+      "publishedAt": "2026-11-04T05:39:36+00:00"
+    },
+    {
+      "id": "db4451e7cae1a5f5e83d64b5",
+      "title": "The Talix 20,000mAh Power Bank With 190W of Total Power Output Drops to $29.99 Ahead of Black Friday",
+      "summary": "Can fast charge the 2026 Apple MacBook Pro 16\" M5, Xbox Ally X20, Lenovo Legion Go, and more.",
+      "url": "https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-04T05:00:00+00:00"
+    },
+    {
+      "id": "cbd8f11f8676c57fcaf1833d",
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T03:46:10+00:00"
+    },
+    {
+      "id": "3367b45db0ba01fed1d7ae8b",
+      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+      "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T02:11:40+00:00"
     },
     {
       "id": "f4466babf3fd7e593f76bec0",
@@ -46,6 +255,17 @@
       "publishedAt": "2026-11-04T01:10:48+00:00"
     },
     {
+      "id": "267d40c09de5b2ee59d536ee",
+      "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+      "summary": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-04T00:52:19+00:00"
+    },
+    {
       "id": "0f742d215d03aba38a10de33",
       "title": "Graduates are managing AI - but are they learning much else?",
       "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
@@ -55,17 +275,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-04T00:04:35+00:00"
-    },
-    {
-      "id": "8c6b81ca3f8d115a2c33f088",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-04T00:03:19+00:00"
     },
     {
       "id": "240fdffc4e4bf99f47e39969",
@@ -167,17 +376,6 @@
       "publishedAt": "2026-11-03T22:20:00+00:00"
     },
     {
-      "id": "17ce1ff773178ed44b6a7141",
-      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T21:53:38+00:00"
-    },
-    {
       "id": "a981aa2b2a599c4c1beb4fb6",
       "title": "Get the Sony WH-1000XM5 Noise Canceling Wireless Headphones for Just $128 Ahead of Black Friday",
       "summary": "The best noise canceling over-ear headphones under $150.",
@@ -233,28 +431,6 @@
       "publishedAt": "2026-11-03T20:59:17+00:00"
     },
     {
-      "id": "dd700d72a4af9b4a49b6bd02",
-      "title": "Ubisoft Among Suitors Trying to Buy Marvel's Blade, Dishonored Studio Arkane Lyon from Xbox",
-      "summary": "Ubisoft is reportedly among multiple suitors preparing bids to try and purchase French developer Arkane Lyon, makers of the Dishonored series and the upcoming Marvel's Blade, from Microsoft in the wake of the first-party publisher's ongoing Xbox \"reset.\"",
-      "url": "https://www.ign.com/articles/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-03T20:54:14+00:00"
-    },
-    {
-      "id": "1c6ce3d0103fb9452eba1196",
-      "title": "Netflix Calls Its New AI Discover Feature a 'Test Kitchen' to Tailor Viewers' Recommendations",
-      "summary": "Netflix is rolling out a new AI-powered feature with the aim of helping viewers pick what to watch when they can’t decide.",
-      "url": "https://www.ign.com/articles/netflix-calls-its-new-ai-discover-feature-a-test-kitchen-to-tailor-viewers-recommendations",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-03T20:52:30+00:00"
-    },
-    {
       "id": "ab4f11d2101060aa2ce9f4c6",
       "title": "Seven flights across Europe targeted by suspected bomb threats",
       "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
@@ -277,17 +453,6 @@
       "publishedAt": "2026-11-03T20:30:00+00:00"
     },
     {
-      "id": "2956499eecb13642be0d7ba7",
-      "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
-      "summary": "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6’s highly-anticipated launch as a consequence of their actions.",
-      "url": "https://www.ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-03T19:56:45+00:00"
-    },
-    {
       "id": "d88d4a1f0ff7b18791bb65f5",
       "title": "Mobilisation sociale : une deuxième influenceuse mise en cause par la justice pour « provocation à commettre un crime ou délit »",
       "summary": "Comme Manon Delcourt, la créatrice de contenu Osmose a été placée en garde à vue le 22 octobre à la suite d’un signalement concernant l’une de ses publications. Toutes deux font désormais l’objet d’une enquête.",
@@ -299,59 +464,15 @@
       "publishedAt": "2026-11-03T19:42:59+00:00"
     },
     {
-      "id": "6e2ee9c6486abd64d9f9d27b",
-      "title": "Today’s Top Deals: $8 Switch 2 Final Fantasy VII Games, Meta Quest 3, and Pokémon TCG Delta Reign",
-      "summary": "And check out discounts on Nintendo, LEGO Harry Potter, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-november-3-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-03T19:40:00+00:00"
-    },
-    {
-      "id": "3e2b0c9fa3f55c9d338a8a5d",
-      "title": "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
-      "summary": "Get all caught up before Final Fantasy VII Revelation releases early next year.",
-      "url": "https://www.ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-03T19:30:00+00:00"
-    },
-    {
-      "id": "58f860956f24bfd577f7a7d1",
-      "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
-      "summary": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console.",
-      "url": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-03T19:20:47+00:00"
-    },
-    {
-      "id": "3ddccbd6f61c4eb18435b3b3",
-      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-      "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+      "id": "19d33932de3ab1c38ac672d1",
+      "title": "The transplanted Scot doing famous father proud in New Zealand",
+      "summary": "Clark Laidlaw, head coach at Super Rugby champions Hurricanes, has made a huge impact in New Zealand and would \"welcome a conversation\" about taking on the top job in Scotland.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ewerp0w5lvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-03T17:07:28+00:00"
-    },
-    {
-      "id": "3ea0e50bb171865d15283985",
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T16:57:41+00:00"
+      "publishedAt": "2026-11-03T17:50:16+00:00"
     },
     {
       "id": "befae6547f182a1432487ece",
@@ -365,26 +486,15 @@
       "publishedAt": "2026-11-03T16:19:29+00:00"
     },
     {
-      "id": "cd921bf8457f8daaf386f194",
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "id": "3096805efa7fdaf38c54d698",
+      "title": "How sporting events are being affected by Middle East conflict",
+      "summary": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
+      "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-03T15:05:01+00:00"
-    },
-    {
-      "id": "ce550129b9d70eb969e7b9ad",
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T14:56:46+00:00"
+      "publishedAt": "2026-11-03T16:01:24+00:00"
     },
     {
       "id": "59fd05de02a52a2fee36dcd9",
@@ -398,50 +508,6 @@
       "publishedAt": "2026-11-03T14:12:54+00:00"
     },
     {
-      "id": "d39fce90a7a3f33bbf1c2b56",
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T13:55:47+00:00"
-    },
-    {
-      "id": "3265108e73a0b6c871058515",
-      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "summary": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T13:44:44+00:00"
-    },
-    {
-      "id": "c4ed16dddc038862b497c898",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T13:28:30+00:00"
-    },
-    {
-      "id": "7191b2432183dd8f54b5d711",
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T13:26:19+00:00"
-    },
-    {
       "id": "6dbc252912915a9e5beb7ead",
       "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
       "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
@@ -451,39 +517,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-03T13:07:00+00:00"
-    },
-    {
-      "id": "c00266b0d18b5303d40028cd",
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T12:09:20+00:00"
-    },
-    {
-      "id": "2ebe5b189e12e69d13bbe65e",
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T11:51:08+00:00"
-    },
-    {
-      "id": "38fb18ab9f42b8dc210bee58",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T11:33:33+00:00"
     },
     {
       "id": "9f1b2813f5ca0ac23541bf8e",
@@ -508,17 +541,6 @@
       "publishedAt": "2026-11-03T10:00:11+00:00"
     },
     {
-      "id": "fbbaccc256953376929d1fc9",
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T09:09:18+00:00"
-    },
-    {
       "id": "fe870c5b14368a7147bbd5e2",
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
@@ -528,17 +550,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-03T08:33:20+00:00"
-    },
-    {
-      "id": "2fe8616d7e4e9cbdf4a4656a",
-      "title": "Major test for Australia's social media ban begins in High Court",
-      "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T07:53:38+00:00"
     },
     {
       "id": "84b14e2123c156fd4a3b5b19",
@@ -552,17 +563,6 @@
       "publishedAt": "2026-11-03T07:29:46+00:00"
     },
     {
-      "id": "f4cffe6dce9334fdd9c66236",
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T07:15:17+00:00"
-    },
-    {
       "id": "24682af0c05f8735d7f2f6a0",
       "title": "En Finlande, l’abattage sans autorisation de 250 000 arbres pour construire un data center de Google embarrasse le gouvernement",
       "summary": "Sans attendre l’étude d’impact environnemental ni le plan d’aménagement du territoire, le géant américain a coupé à blanc 530 hectares de forêts sur deux sites, poussant les autorités, favorables à ces équipements, à durcir la législation.",
@@ -572,17 +572,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-03T04:45:04+00:00"
-    },
-    {
-      "id": "858fb4f72f5a33011aaca3a5",
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T03:32:36+00:00"
     },
     {
       "id": "e7a24783d69590f29f666d94",
@@ -605,28 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-03T00:09:13+00:00"
-    },
-    {
-      "id": "79de967211bfec04b854441d",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-03T00:07:05+00:00"
-    },
-    {
-      "id": "be522f8022e2abd18a6ffe4a",
-      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-02T23:02:01+00:00"
     },
     {
       "id": "cf16a3e655c0ba3d4b91f4b1",
@@ -671,17 +638,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-02T17:34:58+00:00"
-    },
-    {
-      "id": "9c80f8053c49fa12218bd7a7",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-02T17:33:19+00:00"
     },
     {
       "id": "308a9030afe4385d417be61d",
@@ -847,28 +803,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-10-31T04:30:04+00:00"
-    },
-    {
-      "id": "937188f499970b8ac14c234e",
-      "title": "Mobilisations sociales : six semaines d’un mouvement aussi actif sur les réseaux sociaux que dans la rue",
-      "summary": "L’ampleur de la mobilisation en ligne semble avoir initialement échappé au gouvernement, qui menace désormais les réseaux sociaux d’une suspension temporaire en cas de nouvelles violences. Le projet de loi dit « casseurs-payeurs », adopté en milieu de semaine, va dans ce sens.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisation-sociale-six-semaines-d-un-mouvement-aussi-actif-sur-les-reseaux-sociaux-que-dans-la-rue_6803368_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-31T03:45:06+00:00"
-    },
-    {
-      "id": "defdc377df62c10f92630812",
-      "title": "Avant la sortie de « GTA VI », notre sélection de dix jeux vidéo coups de cœur",
-      "summary": "Cauchemar écossais, fantasy imprégnée de folklore slave, gestion de magasin de nouilles… Les journalistes spécialistes du jeu vidéo du « Monde » vous proposent une liste de titres récents.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/31/avant-la-sortie-de-gta-vi-notre-selection-de-dix-jeux-video-coups-de-c-ur_6803367_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-10-31T03:30:06+00:00"
     },
     {
       "id": "ae089e1239e4898f9530de6c",
