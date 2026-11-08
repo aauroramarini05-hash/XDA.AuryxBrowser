@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-08T10:54:57.819674+00:00",
+  "updatedAt": "2026-11-08T16:52:06.693154+00:00",
   "items": [
+    {
+      "id": "86e31ea84df43e471291ba4e",
+      "title": "La contestation contre les data centers monte en Europe",
+      "summary": "A l’appel d’une coalition d’associations environnementales, des dizaines de manifestations se sont tenues dans une quinzaine de pays européens, vendredi et samedi, pour réclamer un moratoire sur la construction de centres de données.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/08/la-contestation-contre-les-data-centers-monte-en-europe_6808448_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-08T16:00:08+00:00"
+    },
     {
       "id": "30b277b84cf9e6f1156c807f",
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
@@ -10,7 +21,18 @@
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-11-08T10:44:42+00:00"
+      "publishedAt": "2026-11-08T15:37:25+00:00"
+    },
+    {
+      "id": "af6d0c9e63964cb31f7e7491",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-08T14:32:52+00:00"
     },
     {
       "id": "b87860875696c6a57b3da898",
@@ -22,17 +44,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-08T09:29:24+00:00"
-    },
-    {
-      "id": "af6d0c9e63964cb31f7e7491",
-      "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-08T07:52:33+00:00"
     },
     {
       "id": "52e59c11b5aa97beac8f6059",
@@ -65,7 +76,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-11-08T05:20:07+00:00"
+      "publishedAt": "2026-11-08T05:20:04+00:00"
     },
     {
       "id": "8dd3701c34d642a7d83ee108",
@@ -770,17 +781,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-05T10:30:04+00:00"
-    },
-    {
-      "id": "2690897079fecaecebb4a87e",
-      "title": "« The Legend of Zelda » ou l’art de faire peau neuve",
-      "summary": "Le remake de « Zelda : Ocarina of Time », sorti jeudi, a dérouté de nombreux fans par son aspect visuel, jugé trop éloigné de l’original sorti en 1998. Mais c’est oublier la diversité des réincarnations esthétiques passées de la franchise, d’épisode en épisode.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/05/the-legend-of-zelda-ou-l-art-de-faire-peau-neuve_6806825_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-05T06:00:11+00:00"
     },
     {
       "id": "8aa182d05f3064d3f0e90e0a",
