@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-11-08T20:53:45.493177+00:00",
+  "updatedAt": "2026-11-09T00:20:53.269757+00:00",
   "items": [
+    {
+      "id": "4429502c5610c78efe4834a8",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-08T23:34:18+00:00"
+    },
+    {
+      "id": "1f21b274086b7a8e8ce4f41b",
+      "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
+      "summary": "Nvidia has launched an independent investigation into CEO Jensen Huang after he admitted to having an affair with a suspected Chinese spy.",
+      "url": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-08T22:34:01+00:00"
+    },
+    {
+      "id": "70dea7c7717ab67f4f6e349e",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-08T22:05:12+00:00"
+    },
+    {
+      "id": "4e3d539cd6b6c64f7bcedba1",
+      "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85",
+      "summary": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan's Ricardo Tubbs driving a white Ferrari Testarossa, the wrong car for the period of the TV series that director Joseph Kosinski’s film is retelling. And there’s likely a legal reason for that.",
+      "url": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-08T21:41:08+00:00"
+    },
+    {
+      "id": "d8e9bfa617653d8ca2c960d0",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-08T21:37:36+00:00"
+    },
+    {
+      "id": "1841087d6d8be80865d3acfb",
+      "title": "Jesse Eisenberg Says He 'Experiments With AI' Just to Make Sure It's Not 'Good at Writing' Yet",
+      "summary": "Jesse Eisenberg said he will \"sometimes experiment with AI\" – but it's just because he's \"testing it to make sure it's bad.\"",
+      "url": "https://www.ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-08T21:32:50+00:00"
+    },
+    {
+      "id": "acdf4d08c5ab01cca01d0c11",
+      "title": "The Best Deals Today: Sony Inzone H9 Gaming Headset, Criterion Collection Sale, Pikmin 4, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-november-8-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-08T20:55:31+00:00"
+    },
     {
       "id": "00ffb4d42f0d4f27d010eb02",
       "title": "Former PlayStation Boss Says Sony Doesn't Need a 'PS6 for $1,200,' It Needs a 'PS5 for $300'",
@@ -35,17 +112,6 @@
       "publishedAt": "2026-11-08T18:47:03+00:00"
     },
     {
-      "id": "4429502c5610c78efe4834a8",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-08T18:22:53+00:00"
-    },
-    {
       "id": "c8c01385bf3e9b6576e80518",
       "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
       "summary": "From quicker movement to sending Link to space, The Legend of Zelda: Ocarina of Time speedrunners have already found a few ways to break the remake.",
@@ -65,12 +131,12 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-11-08T17:00:04+00:00"
+      "publishedAt": "2026-11-08T17:00:00+00:00"
     },
     {
       "id": "106d657ce931b04b9d122420",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
       "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -165,17 +231,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-08T05:20:04+00:00"
-    },
-    {
-      "id": "8dd3701c34d642a7d83ee108",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-08T04:03:12+00:00"
     },
     {
       "id": "5bc58152146a39069451e2ac",
@@ -530,39 +585,6 @@
       "publishedAt": "2026-11-07T01:14:21+00:00"
     },
     {
-      "id": "5dac0860155e22dfcad1a61f",
-      "title": "I Just Found an Actual Deal on Corsair DDR5 Desktop Memory Ahead of Black Friday",
-      "summary": "Caveat: deal-worthiness is relative.",
-      "url": "https://www.ign.com/articles/corsair-ddr5-desktop-memory-ram-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-06T23:30:00+00:00"
-    },
-    {
-      "id": "c4925ec140ff6f9b20f37a05",
-      "title": "The Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $131 Ahead of Black Friday",
-      "summary": "The best entry-level 3D printer deal so far heading into the holiday season.",
-      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-06T23:30:00+00:00"
-    },
-    {
-      "id": "b9214d3676ea5944ed49944c",
-      "title": "Get a Nintendo Switch 2 Console (USA Model) for $448 During the AliExpress Early Black Friday Sale",
-      "summary": "Just in time to play The Legend of Zelda: Ocarina of Time which comes out this week.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-06T23:25:00+00:00"
-    },
-    {
       "id": "c14c7e267d1d269990987379",
       "title": "With Stephen Miller pick, Trump readies for a battle",
       "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
@@ -572,17 +594,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-06T23:24:15+00:00"
-    },
-    {
-      "id": "157bf6a7e5cf6b2680236c8c",
-      "title": "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
-      "summary": "Mass Effect fans have taken their mission to save BioWare and its beloved sci-fi franchise to EA headquarters with a truck displaying the #SaveMassEffect message.",
-      "url": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-06T23:00:37+00:00"
     },
     {
       "id": "028a4df7dab9c506376913b8",
