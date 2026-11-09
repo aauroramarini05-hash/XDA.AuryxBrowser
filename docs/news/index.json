@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-11-09T00:20:53.269757+00:00",
+  "updatedAt": "2026-11-09T07:28:48.536233+00:00",
   "items": [
+    {
+      "id": "01c1f3c3a54935af2e25190c",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T07:26:09+00:00"
+    },
+    {
+      "id": "b3365f0bc286cf3a71db776f",
+      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-09T06:01:52+00:00"
+    },
+    {
+      "id": "270c538424f24db89b04caf4",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T06:00:26+00:00"
+    },
+    {
+      "id": "bdc9d9d968aa4bf3d12352e2",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T05:30:37+00:00"
+    },
+    {
+      "id": "6e48bbd1263c743b790a5728",
+      "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+      "summary": "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-09T05:00:42+00:00"
+    },
+    {
+      "id": "3baacd7efa5dd7c5e4543810",
+      "title": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
+      "summary": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
+      "url": "https://www.ign.com/articles/father-arrested-after-leaving-sleeping-6-year-old-daughter-in-line-for-pokmon-cards",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T04:25:03+00:00"
+    },
+    {
+      "id": "a1cc3702b9e329531bb8ad38",
+      "title": "U2's The Edge Apparently Wrote a Full Script for Elf 2 But Was Never Able to Bring It to Life",
+      "summary": "U2 guitarist The Edge apparently had such a good idea for Elf 2 that he went out of his way to write his own script.",
+      "url": "https://www.ign.com/articles/u2s-the-edge-apparently-wrote-a-full-script-for-elf-2-but-was-never-able-to-bring-it-to-life",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T04:22:51+00:00"
+    },
+    {
+      "id": "7180153cf061521f4dd83cf8",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T02:50:13+00:00"
+    },
+    {
+      "id": "c5774bdb21245daf9e46733f",
+      "title": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
+      "summary": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
+      "url": "https://www.ign.com/articles/denis-villeneuve-praises-human-creativity-over-ai-prompts-almost-announces-new-bond",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T02:28:29+00:00"
+    },
+    {
+      "id": "168878c744c7be66b6a6fa70",
+      "title": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
+      "summary": "Cette affaire aux airs de vaudeville concerne une entreprise valorisée à 4 500 milliards de dollars qui fabrique des microprocesseurs essentiels à la révolution de l’IA, au cœur de la rivalité entre les Etats-Unis et la Chine. La firme a lancé une enquête interne.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-09T02:21:07+00:00"
+    },
+    {
+      "id": "f8ec7bf02d5251f15daa5da7",
+      "title": "Petit Planet, aka HoYoverse's Take on Animal Crossing, Is Packed With Charm and Attention to Detail | IGN Preview",
+      "summary": "2026 has been an incredibly crowded year for cozy life simulation games. Ironically, a genre that people usually turn to when they need a break from intense action games has started to wear me out. After playing Animal Crossing: New Horizons' latest update, Starsand Island; Pokémon Pokopia; Tomodachi Life: Living the Dream; and more, I found myself",
+      "url": "https://www.ign.com/articles/petit-planet-aka-hoyoverses-take-on-animal-crossing-is-packed-with-charm-and-attention-to-detail-ign-preview",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T01:00:00+00:00"
+    },
     {
       "id": "4429502c5610c78efe4834a8",
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
@@ -24,9 +145,9 @@
       "publishedAt": "2026-11-08T22:34:01+00:00"
     },
     {
-      "id": "70dea7c7717ab67f4f6e349e",
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
-      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "id": "36adfde8305062d1304b453d",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
@@ -453,17 +574,6 @@
       "publishedAt": "2026-11-07T13:00:00+00:00"
     },
     {
-      "id": "b17c86315f4510894043472a",
-      "title": "Gundam Assemble: Hands-On With Mobile Suit Gundam’s Miniatures Tabletop Game",
-      "summary": "Get a closer look at the Gundam Assemble Starter Set.",
-      "url": "https://www.ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-07T13:00:00+00:00"
-    },
-    {
       "id": "b65a97fba59c871a207a8465",
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
@@ -508,17 +618,6 @@
       "publishedAt": "2026-11-07T07:27:44+00:00"
     },
     {
-      "id": "4a92f2cc49df5362829def81",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-07T06:59:48+00:00"
-    },
-    {
       "id": "e7a918ed9b3e66101adb3aca",
       "title": "Derrière le piratage de Binance, le savoir-faire redoutable des hackeurs nord-coréens",
       "summary": "Depuis plus de dix ans, Pyongyang finance son programme balistique et nucléaire à coup de « cybercasses ». Les pirates nord-coréens ont fait de l’industrie des cryptomonnaies leur cible principale, avec succès.",
@@ -530,28 +629,6 @@
       "publishedAt": "2026-11-07T04:00:07+00:00"
     },
     {
-      "id": "b4596ca73db63f1dafa929c3",
-      "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-      "summary": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-      "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-07T03:12:16+00:00"
-    },
-    {
-      "id": "1e4335fac8ddffb5a9ee2f97",
-      "title": "Robert Pattinson Reportedly Screen-Tested for 007 in James Bond 26",
-      "summary": "Robert Pattinson reportedly screen-tested for the role of 007 in James Bond 26. Lex Luthor actor Nicholas Hoult has also emerged as a contender for the role of Bond.",
-      "url": "https://www.ign.com/articles/robert-pattinson-bond-26-007-screen-test-nicholas-hoult",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-07T03:07:58+00:00"
-    },
-    {
       "id": "88919a78ee6da36e65b8b0f9",
       "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
       "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
@@ -561,28 +638,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-07T01:27:47+00:00"
-    },
-    {
-      "id": "ee4e5738b52830245f521e7b",
-      "title": "The young Somali woman changing how the world sees Mogadishu",
-      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-07T01:19:49+00:00"
-    },
-    {
-      "id": "8b20297a422bf63c95d9abe5",
-      "title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
-      "summary": "An Avengers: Doomsday car commercial just revealed a first look at Alan Cumming's Nightcrawler in motion – and it may have teased a surprising cameo, too.",
-      "url": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-07T01:14:21+00:00"
     },
     {
       "id": "c14c7e267d1d269990987379",
@@ -640,28 +695,6 @@
       "publishedAt": "2026-11-06T18:00:06+00:00"
     },
     {
-      "id": "a8fb7e55bd534790a3fe2bda",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-06T17:44:02+00:00"
-    },
-    {
-      "id": "d9ed54fefa5b687065770558",
-      "title": "New wave of bomb threats hit European airlines",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-06T15:25:35+00:00"
-    },
-    {
       "id": "34c95fdb37bccb010efb5072",
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
@@ -671,17 +704,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-06T15:02:03+00:00"
-    },
-    {
-      "id": "81b3ded6cced8d0041528159",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-06T14:46:03+00:00"
     },
     {
       "id": "23841bc58a077a9cc3984eb5",
@@ -794,28 +816,6 @@
       "publishedAt": "2026-11-05T19:35:36+00:00"
     },
     {
-      "id": "f214637f742905f2180ec844",
-      "title": "Aide aux créateurs de contenu : pourquoi les annonces du CNC font grincer des dents",
-      "summary": "Suspendu depuis le mois d’avril après une polémique, le fonds d’aide à la création sur les plateformes sociales du Centre national du cinéma et de l’image animée sera relancé en 2027, a annoncé son président, Gaëtan Bruel, jeudi, à la Paris Creator Week. Sans parvenir toutefois à convaincre des professionnels du secteur qui s’estiment « méprisés ».",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/05/aide-aux-createurs-de-contenus-pourquoi-les-annonces-du-cnc-font-grincer-des-dents_6807331_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-05T18:36:28+00:00"
-    },
-    {
-      "id": "1f10a6dae9f05b5a298e3bf1",
-      "title": "Mobilisation sociale et TikTok : une étude bat en brèche le rôle joué par la plateforme dans les violences",
-      "summary": "Contrairement à ce qu’avance le gouvernement, les chercheurs n’ont pas trouvé de traces d’une coordination particulière des actions violentes sur le réseau social, ni d’une forte viralité des appels à en commettre.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/05/mobilisation-sociale-et-tiktok-une-etude-bat-en-breche-le-role-joue-par-la-plateforme-dans-les-violences_6807112_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-05T16:16:20+00:00"
-    },
-    {
       "id": "8aa182d05f3064d3f0e90e0a",
       "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
       "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
@@ -880,17 +880,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-03T13:07:00+00:00"
-    },
-    {
-      "id": "9f1b2813f5ca0ac23541bf8e",
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-03T11:10:37+00:00"
     },
     {
       "id": "24b865eb377d6b6484cf4db3",
