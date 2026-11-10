@@ -1,6 +1,446 @@
 {
-  "updatedAt": "2026-11-10T16:50:24.734922+00:00",
+  "updatedAt": "2026-11-10T22:03:50.004842+00:00",
   "items": [
+    {
+      "id": "37eac5dd2bfc8a574b14cf15",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-10T21:59:54+00:00"
+    },
+    {
+      "id": "cf13df8066daa0febe1113f8",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T21:23:00+00:00"
+    },
+    {
+      "id": "075defd73872c3cb971f634b",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-10T21:22:36+00:00"
+    },
+    {
+      "id": "d23a9949fde3d62705c358db",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T21:21:55+00:00"
+    },
+    {
+      "id": "bf2799c397c88585b8c4aa19",
+      "title": "Why does Australia want Brits to swap Sydney for the outback?",
+      "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T21:17:00+00:00"
+    },
+    {
+      "id": "b21922a76a8f8e1ee47ed9bf",
+      "title": "World of Warcraft Forever Hotfix Will Thin Out Overcrowded Zones and Help Faction Balance",
+      "summary": "World of Warcraft Forever has been incredibly popular, and has gone down as the biggest WoW launch in history. It's little wonder then, that some zones are absolutely packed with players. And, Blizzard has implemented a fix.",
+      "url": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T21:08:36+00:00"
+    },
+    {
+      "id": "6803257f288d535c626ffa3d",
+      "title": "PlayStation Cancels Live-Service Heist Shooter, Fairgames",
+      "summary": "Fairgames, a live-service heist game from PlayStation's Haven Studios, has been canceled by Sony.",
+      "url": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T21:00:21+00:00"
+    },
+    {
+      "id": "575eefb53992f5670b0fcd40",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T20:46:40+00:00"
+    },
+    {
+      "id": "2c89ef690066054ed29e0e5e",
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T20:36:58+00:00"
+    },
+    {
+      "id": "9cc904c06c4b4b2ab4d8663f",
+      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+      "summary": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
+      "url": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T20:31:17+00:00"
+    },
+    {
+      "id": "8557b2c881d587f868205e12",
+      "title": "Tech Life",
+      "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-10T20:30:00+00:00"
+    },
+    {
+      "id": "40695f5254feab869d5286f9",
+      "title": "Save Over 50% Off One of the Coolest Desktop Charging Stations for Black Friday",
+      "summary": "Features three AC outlets and four USB ports.",
+      "url": "https://www.ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-for-black-friday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T20:10:00+00:00"
+    },
+    {
+      "id": "beb5bfdfd1e37bec26f604d2",
+      "title": "We Build LEGO Downton Abbey, a Stately Set That's Worthy of the Crawley Name",
+      "summary": "We build LEGO Ideas Downton Abbey, a big, heavy, stately set that comes with 13 minifigures.",
+      "url": "https://www.ign.com/articles/lego-downton-abbey-review-21373",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T20:08:45+00:00"
+    },
+    {
+      "id": "d90f7578276ad9ad2ca61fc7",
+      "title": "Someone Got Halo 1 Running on a Sega Dreamcast",
+      "summary": "A developer has successfully gotten the original Halo: Combat Evolved, a day-one launch title for the original Xbox in 2001, ported and running on the Sega Dreamcast – in both campaign and multiplayer. And they've posted 28 minutes of gameplay footage from the campaign and multiplayer to prove it.",
+      "url": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T19:47:58+00:00"
+    },
+    {
+      "id": "e16ede86f0e85d1870888499",
+      "title": "The Ultimate Where's Waldo Book Collection Drops to Its Lowest Price of the Year",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-ultimate-wheres-waldo-book-collection-drops-to-its-lowest-price-of-the-year-black-friday-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T19:45:38+00:00"
+    },
+    {
+      "id": "5ee575c96158209fcc1426b8",
+      "title": "PlayStation Plus Monthly Games for November 2026 Announced",
+      "summary": "November’s lineup of games on PlayStation Plus has been revealed by Sony.",
+      "url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-november-2026-announced",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T19:33:04+00:00"
+    },
+    {
+      "id": "2f6918c7726d3ba370c294a7",
+      "title": "Today’s Top Deals: Astro Bot, Logitech G PRO X Superlight 2 SE Mouse, and Star Wars Galactic Racer",
+      "summary": "Plus, save on an Elgato mic, Switch 2, LEGO, and more.",
+      "url": "https://www.ign.com/articles/best-deals-for-november-10-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T19:30:00+00:00"
+    },
+    {
+      "id": "e2f096c67de6f242b5b98eaa",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T19:26:42+00:00"
+    },
+    {
+      "id": "8e52d642f08d9ae2b47d4d07",
+      "title": "Burger King Italy Gets Official Magic: The Gathering Meal With Whopper-Themed Deck Boxes",
+      "summary": "Burger King just launched a Magic: The Gathering meal that comes with Whopper-themed deck boxes and sleeves. Unfortunately, the promotion is exclusive to Burger King Italy, with no indication that it will expand to other countries.",
+      "url": "https://www.ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T19:16:40+00:00"
+    },
+    {
+      "id": "12b34b2e592872481e84bdd4",
+      "title": "GTA 6 Was Never Going to Hit 60 Frames per Second on Consoles",
+      "summary": "Back when Rockstar showed off a bunch of GTA 6 gameplay on Netflix, one thing was incredibly clear – the game was running around 30 fps. And now that Rockstar has confirmed that it is targeting 30 fps on every console, including the PS5 Pro, it's clear that the game likely never would have run at a solid 60 on console.",
+      "url": "https://www.ign.com/articles/gta-6-was-never-going-to-be-60-frames-per-second-on-consoles",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T19:15:00+00:00"
+    },
+    {
+      "id": "23411dba169297a7ae99ba2e",
+      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+      "summary": "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-10T18:43:56+00:00"
+    },
+    {
+      "id": "d79ee63879785772b1f354f2",
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
+      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T18:43:04+00:00"
+    },
+    {
+      "id": "7db4b632fc215fe19fc60c03",
+      "title": "Get a Nintendo Switch 2 Console for as Low as $395 During the AliExpress Black Friday Sale",
+      "summary": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T18:40:00+00:00"
+    },
+    {
+      "id": "1f263f5f061550068b91c4eb",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T18:35:35+00:00"
+    },
+    {
+      "id": "22e07b845d17c90a3058a9ca",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T18:33:51+00:00"
+    },
+    {
+      "id": "b9277a09915f7584161ae24c",
+      "title": "Astro Bot Dips Below $40 at Amazon and Walmart Before Black Friday Sales Kick Off",
+      "summary": "Astro Bot on PS5 has plummeted to $38.95 at Amazon and Walmart, saving you over $20 off its usual cost and marking a new all-time low price at the former.",
+      "url": "https://www.ign.com/articles/astro-bot-dips-below-40-at-amazon-and-walmart-before-black-friday-sales-kick-off",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T18:23:05+00:00"
+    },
+    {
+      "id": "37f0bc02d387089ba9110669",
+      "title": "IGN to Stream the 2027 New York Game Awards",
+      "summary": "The 2027 New York Game Awards are on the horizon, and IGN will once again be the official destination to stream the broadcast.",
+      "url": "https://www.ign.com/articles/ign-to-stream-the-2027-new-york-game-awards",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T18:20:47+00:00"
+    },
+    {
+      "id": "0510ed0ad39987284a0c2863",
+      "title": "Save $350 off Bose Smart Ultra Soundbar With Dolby Atmos and TrueSpace Technology for Black Friday",
+      "summary": "Lowest price in 2026.",
+      "url": "https://www.ign.com/articles/bose-smart-ultra-dolby-atmos-soundbar-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T18:15:00+00:00"
+    },
+    {
+      "id": "943dad2118ab61678d2683d0",
+      "title": "PlayStation Plus PC App Will Go Offline December 10, as Sony Continues to Retreat From PC",
+      "summary": "Outside of the few games that Sony has ported to Windows, the PlayStation Plus app on PC was the best way to play PS5 games on PC, even if you had to stream them. But now, Sony will be retiring the PlayStation Plus PC app.",
+      "url": "https://www.ign.com/articles/playstation-plus-pc-app-will-go-offline-december-10-as-sony-continues-to-retreat-from-pc",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T18:11:51+00:00"
+    },
+    {
+      "id": "c3b26df0a97b3e7edfe1cf76",
+      "title": "Arrests made after visit from former US President Biden",
+      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T18:07:56+00:00"
+    },
+    {
+      "id": "a9a815c785a8704d4f4ab43d",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T18:04:18+00:00"
+    },
+    {
+      "id": "13b875bc0a6a6a447d134a5a",
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+      "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T18:03:52+00:00"
+    },
+    {
+      "id": "14c6ba52baae584b861a227e",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-10T17:56:12+00:00"
+    },
+    {
+      "id": "eb5aaa8160f485a1ad88a353",
+      "title": "The 2,050-Piece LEGO Pokémon Pikachu and Poké Ball Set Drops to a New Price Low Ahead of Black Friday",
+      "summary": "Pikachu, I choose you!",
+      "url": "https://www.ign.com/articles/lego-pokmon-pikachu-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T17:50:00+00:00"
+    },
+    {
+      "id": "d5add1c2ec22dc6667549828",
+      "title": "Logitech Is Letting Employees Take Work Off for Game Releases, Just Ahead of GTA 6",
+      "summary": "Logitech has announced that it will be giving employees the option to take time off for video game releases ahead of GTA 6's launch.",
+      "url": "https://www.ign.com/articles/logitech-is-letting-employees-take-work-off-for-game-releases-just-ahead-of-gta-6",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T17:42:00+00:00"
+    },
+    {
+      "id": "e7df56ef30deda9546df6df6",
+      "title": "Bungie Tempts New Players With Free Period as PvE Mode and PvP Arena Battles Come to Marathon",
+      "summary": "PvE is coming to Marathon and Bungie is hoping new players will give it a shot with a free-to-play period at the start of the next Season. It’s called Symbiosis and is landing on December 8.",
+      "url": "https://www.ign.com/articles/marathon-free-symbiosis-pve",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T17:39:58+00:00"
+    },
+    {
+      "id": "7e7fe16f77add4d995d40a5d",
+      "title": "Save 50% Off a 1-Year Paramount+ Premium (Ad-Free) Subscription for Black Friday",
+      "summary": "Catch up on the complete first season of Avatar: Seven Havens.",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T17:35:00+00:00"
+    },
+    {
+      "id": "5a14377517d978357571d516",
+      "title": "Save Up to 40% Off Samsung Nintendo Switch 2 Memory Cards Ahead of Black Friday",
+      "summary": "Tested and vetted at IGN.",
+      "url": "https://www.ign.com/articles/samsung-p9-nintendo-switch-2-memory-card-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T17:35:00+00:00"
+    },
+    {
+      "id": "bc4c0994c0bf0ddd9698ea0a",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T17:03:16+00:00"
+    },
+    {
+      "id": "d2a40bbeadab5faae9aeeea3",
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T17:00:11+00:00"
+    },
     {
       "id": "f86630c87fac667e1d2c72c7",
       "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
@@ -13,169 +453,37 @@
       "publishedAt": "2026-11-10T16:19:48+00:00"
     },
     {
-      "id": "1400596b5fb35e4dcbba38d0",
-      "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued",
-      "summary": "Sony has confirmed that GTA 6 is now the most preordered game in PlayStation Store history, although it failed to put a number on it. Microsoft hasn’t made an announcement on GTA 6 preorders for Xbox Series X and S.",
-      "url": "https://www.ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T15:56:37+00:00"
-    },
-    {
-      "id": "bc4c0994c0bf0ddd9698ea0a",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "id": "813828426a16686203b8d7b4",
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-10T15:51:09+00:00"
+      "publishedAt": "2026-11-10T16:07:51+00:00"
     },
     {
-      "id": "50c10431c8c9a4d686b036d4",
-      "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
-      "summary": "The BBC’s Gary O’Donoghue breaks down how the US defence secretary defended his record after a Republican congressman launched an attempt to impeach him.",
-      "url": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
+      "id": "d35d64b8549a6349d27f02bc",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-10T15:40:43+00:00"
-    },
-    {
-      "id": "10bfd81fa4800a616dceafee",
-      "title": "Phantom Blade Zero Doesn’t Have an Achievement for Beating Its Hardest Mode; A Growing Trend in the Games Industry Is to Blame",
-      "summary": "There's no achievement for beating Phantom Blade Zero's most difficult mode, and trophy hunters are to blame.",
-      "url": "https://www.ign.com/articles/phantom-blade-zero-doesnt-have-an-achievement-for-beating-its-hardest-mode-a-growing-trend-in-the-games-industry-is-to-blame",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T15:30:00+00:00"
-    },
-    {
-      "id": "996b0f58317fa1c948cc4832",
-      "title": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More",
-      "summary": "Rockstar has released a new GTA 6 trailer announcing the launch of preloads, and it includes nearly 30 seconds of new footage.",
-      "url": "https://www.ign.com/articles/gta-6-preload-now-trailer-includes-nearly-30-seconds-of-new-footage-swat-team-nightclub-dancing-and-more",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T15:15:41+00:00"
-    },
-    {
-      "id": "259d086767a29e0542777b0f",
-      "title": "You Don't Need a Current-Gen Console if You're Happy to Play GTA 6 at Xbox Series S Settings",
-      "summary": "After months of speculation, Rockstar finally revealed that GTA 6 would be targeting 30fps on all of the current-generation consoles, including the Xbox Series S. But, thanks to a cloud streaming deal with Xbox, you can technically play the game on the Xbox One.",
-      "url": "https://www.ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T15:11:25+00:00"
-    },
-    {
-      "id": "966a9574c0abfb17655b6a11",
-      "title": "GTA 6 Preloads Are Now Available",
-      "summary": "You can now preload Grand Theft Auto 6 onto your PS5 or Xbox Series X|S. But you still have to wait until November 19 to play it.",
-      "url": "https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T15:00:07+00:00"
-    },
-    {
-      "id": "65b4a81431be81a087bf2597",
-      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-10T14:46:50+00:00"
+      "publishedAt": "2026-11-10T15:21:18+00:00"
     },
     {
       "id": "5abbfa4612c49df6a1fa5955",
       "title": "IA : Anthropic maintient le timing de son entrée en Bourse et vise jusqu’à 1 400 milliards de dollars de valorisation",
-      "summary": "La start-up maison mère de Claude pourrait viser une cotation dès le jeudi 19 novembre, avec un prix de première cotation un peu revu à la baisse.",
+      "summary": "La start-up maison mère de Claude pourrait viser une cotation dès le jeudi 19 novembre, avec un prix d’introduction un peu revu à la baisse.",
       "url": "https://www.lemonde.fr/economie/article/2026/11/10/ia-anthropic-maintient-le-timing-de-son-entree-en-bourse-et-vise-jusqu-a-1-400-milliards-de-dollars-de-valorisation_6808850_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-10T14:38:19+00:00"
-    },
-    {
-      "id": "4281fe9eaf54ec6e64a84af7",
-      "title": "First day of Ukraine peace talks 'very productive', US says",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-10T14:36:57+00:00"
-    },
-    {
-      "id": "9d447a6c987646b568eca50c",
-      "title": "The Witcher 3’s New Expansion Has Me Wondering if BioWare Should Have Focused on Dragon Age and Mass Effect DLC Rather Than Big New Games",
-      "summary": "The Witcher 3's Songs of the Past expansion has me wondering: what if BioWare had returned to its older games and made new expansions?",
-      "url": "https://www.ign.com/articles/the-witcher-3s-new-expansion-has-me-wondering-if-bioware-should-have-focused-on-dragon-age-and-mass-effect-dlc-rather-than-big-new-games",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T14:30:00+00:00"
-    },
-    {
-      "id": "53e2b717192c381f4b875963",
-      "title": "Amazon Black Friday 2026 Dates Announced as Early Deals Go Live",
-      "summary": "Amazon has announced its Black Friday 2026 deal lineup, starting on November 19. But you don't have to wait, as some deals are already live, including free $200 bonus gift cards, heavily discounted Audible memberships, and major tech discounts for gamers.",
-      "url": "https://www.ign.com/articles/amazon-black-friday-2026-dates-confirmed-early-deals",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T14:26:05+00:00"
-    },
-    {
-      "id": "72368098e7c65c0fdb56247a",
-      "title": "GTA 6 Will Run at 30fps On All Consoles, Features Ray Tracing Improvements on PS5 Pro",
-      "summary": "Rockstar has finally announced performance for GTA 6. It’ll run at 30fps on all consoles, but PS5 Pro enhancements that improve ray tracing.",
-      "url": "https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T14:17:08+00:00"
-    },
-    {
-      "id": "95bd21600727e960a0c132de",
-      "title": "Is the DC Cinematic Universe Just Cursed?",
-      "summary": "Is the DC Cinematic Universe just cursed? Because it sure feels like it after James Gunn and Peter Safran's departure from DC Studios.",
-      "url": "https://www.ign.com/articles/is-the-dc-cinematic-universe-just-cursed",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T14:00:00+00:00"
-    },
-    {
-      "id": "9394b922fb91c21c8e2731e1",
-      "title": "007 First Light’s PS5 Collector’s Edition With a Gold Mask Has Hit a New Low Price at Amazon",
-      "summary": "Amazon has slashed the price of 007 First Light’s PS5 Collector’s Edition down to a new all-time low of $94.77. That's a huge 53% discount off its original MSRP.",
-      "url": "https://www.ign.com/articles/007-first-lights-ps5-collectors-edition-with-a-gold-mask-has-hit-a-new-low-price-at-amazon",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T13:47:19+00:00"
     },
     {
       "id": "2b92584873073a1ea1a049b4",
@@ -220,17 +528,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-10T13:22:12+00:00"
-    },
-    {
-      "id": "ab9ae4de7a460ff1190f3a5c",
-      "title": "What DC Movies and Shows Could Get Batgirl'd Next?",
-      "summary": "Don’t assume everything James Gunn and Peter Safran had planned at DC Studios will see the light of day.",
-      "url": "https://www.ign.com/articles/what-dc-movies-and-shows-could-get-batgirld-next",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T13:00:00+00:00"
     },
     {
       "id": "ab398b868b545ceb495f75ee",
@@ -299,17 +596,6 @@
       "publishedAt": "2026-11-10T09:37:15+00:00"
     },
     {
-      "id": "1109984275ebc140d3aa50af",
-      "title": "James Gunn Reportedly Had Big Plans for Multiple Superman Movies and a Potential Justice League Franchise Before DC Studios Exit",
-      "summary": "James Gunn reportedly had big plans for Superman movies that may have led to the creation of a Justice League franchise, before his shock exit from DC Studios.",
-      "url": "https://www.ign.com/articles/james-gunn-reportedly-had-big-plans-for-multiple-superman-movies-and-a-potential-justice-league-franchise-before-dc-studios-exit",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T09:36:39+00:00"
-    },
-    {
       "id": "991d03258f9b60109fe14e4c",
       "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
       "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
@@ -319,17 +605,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-10T09:23:55+00:00"
-    },
-    {
-      "id": "fe91aa9ebc496f0db84a345f",
-      "title": "Nintendo Switch and Switch 2 Update Adds Support for eShop Game Gifting, Just in Time for Christmas — but There's a Catch",
-      "summary": "Nintendo has released an update for the Switch and Switch 2 to support gifting eShop products, but there’s a catch.",
-      "url": "https://www.ign.com/articles/nintendo-switch-and-switch-2-update-adds-support-for-eshop-game-gifting-just-in-time-for-christmas-but-theres-a-catch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T08:47:41+00:00"
     },
     {
       "id": "7dfb9219030c9aab2a64962e",
@@ -352,17 +627,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-10T08:23:21+00:00"
-    },
-    {
-      "id": "19c6986a1c444cbf1ba3691b",
-      "title": "Chainsaw Man Box Set Drops to Lowest Price of the Year — Less Than $6 Per Volume",
-      "summary": "",
-      "url": "https://www.ign.com/articles/chainsaw-man-box-set-drops-to-lowest-price-of-the-year-amazon-early-black-friday-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T08:02:18+00:00"
     },
     {
       "id": "eed708e195014082ce83f047",
@@ -453,17 +717,6 @@
       "publishedAt": "2026-11-10T03:41:33+00:00"
     },
     {
-      "id": "6e8d2b073a92283bf5a0665a",
-      "title": "The Legend of Zelda: Ocarina of Time's High-Quality Visuals Have Players Second-Guessing Decades of Memories",
-      "summary": "The Legend of Zelda: Ocarina of Time remake gives Link's first 3D adventure a new coat of paint, but some of its details have players second-guessing the reality they thought they once knew.",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-have-players-second-guessing-decades-of-memories",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T03:19:27+00:00"
-    },
-    {
       "id": "f3129782a17654fdc0aaa012",
       "title": "Qantas to outsource 850 local jobs with most roles moving to India",
       "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
@@ -486,50 +739,6 @@
       "publishedAt": "2026-11-10T01:49:06+00:00"
     },
     {
-      "id": "6ba70985b9b6665b6e635872",
-      "title": "'We Don't Take Anything for Granted' — LATAM Is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
-      "summary": "IGN sat down with Blaz and the team at 2Game to discuss their monumental victory at the Street Fighter League Americas 2026 Finals and that viral set with NoahTheProdigy.",
-      "url": "https://www.ign.com/articles/we-dont-take-anything-for-granted-latam-is-the-strongest-region-in-street-fighter-6-and-its-because-theyre-hungrier-than-you",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T01:42:48+00:00"
-    },
-    {
-      "id": "52e4d97e688296adfcd61a40",
-      "title": "Get a Nintendo Switch 2 Console for as Low as $418 During the AliExpress Black Friday Sale",
-      "summary": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T00:40:00+00:00"
-    },
-    {
-      "id": "3e2b0c9fa3f55c9d338a8a5d",
-      "title": "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
-      "summary": "Get all caught up before Final Fantasy VII Revelation releases early next year.",
-      "url": "https://www.ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T00:15:00+00:00"
-    },
-    {
-      "id": "dfb9177faae3766ae3850e83",
-      "title": "The mFish 4-in-1 Lighted USB Type-C Cable Is So Worth It for Less Than $7",
-      "summary": "USB-A, two USB-C, and Lightning connectors on a single cable.",
-      "url": "https://www.ign.com/articles/mfish-usb-cable-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T00:15:00+00:00"
-    },
-    {
       "id": "c59c66073960e7b5fd0b94e3",
       "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
       "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
@@ -541,17 +750,6 @@
       "publishedAt": "2026-11-10T00:14:03+00:00"
     },
     {
-      "id": "b853b5c956e51f3ffb9c4cf1",
-      "title": "Call of Duty FaceTime Chat Causes Plane to Be Evacuated",
-      "summary": "A Frontier Airlines flight as well as the entire east wing of Terminal 2 at Southern California's Ontario International Airport was evacuated prior to departure after a passenger's FaceTime conversation with a friend was mistaken for a bomb threat by another passenger, the Ontario Police Department said. The passenger having the chat about the mili",
-      "url": "https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T00:08:42+00:00"
-    },
-    {
       "id": "7dbd65d9a11190f4243a335a",
       "title": "The superpower battle over energy – and what it means for your bills",
       "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
@@ -561,28 +759,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-10T00:08:28+00:00"
-    },
-    {
-      "id": "075defd73872c3cb971f634b",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-09T23:51:22+00:00"
-    },
-    {
-      "id": "990185abe86893a649c3da70",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T23:28:53+00:00"
     },
     {
       "id": "51f68a28c3ba0f1f5e918ede",
@@ -607,28 +783,6 @@
       "publishedAt": "2026-11-09T21:52:28+00:00"
     },
     {
-      "id": "56b8f62403c1758defd77230",
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T21:48:38+00:00"
-    },
-    {
-      "id": "0a7e0997604f2159b6e033c8",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T20:42:04+00:00"
-    },
-    {
       "id": "3f2b55532407fbd1bef77ab5",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
@@ -651,17 +805,6 @@
       "publishedAt": "2026-11-09T18:52:11+00:00"
     },
     {
-      "id": "b68d102423acb9f30e1398cf",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T18:08:07+00:00"
-    },
-    {
       "id": "23cf91c7a81bca989c44fa5b",
       "title": "Cyberattaque contre des réfrigérateurs de supermarchés : la justice ouvre une enquête contre un groupe iranien lié aux gardiens de la révolution",
       "summary": "Plus de 700 magasins avaient été ciblés en octobre. Les pirates avaient visé les systèmes de dégivrage, afin de faire monter la température des appareils. Le ministre des affaires étrangères, Jean-Noël Barrot, a demandé « des sanctions à l’échelle européenne ».",
@@ -682,17 +825,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-09T14:50:35+00:00"
-    },
-    {
-      "id": "270c538424f24db89b04caf4",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T06:00:26+00:00"
     },
     {
       "id": "6e48bbd1263c743b790a5728",
@@ -794,17 +926,6 @@
       "publishedAt": "2026-11-08T00:37:45+00:00"
     },
     {
-      "id": "99c15e1d3e067c37b4513405",
-      "title": "Des sportifs et créateurs de contenus français courent pendant vingt-cinq heures pour soutenir une association",
-      "summary": "Cent quarante coureurs ont récolté près de 1,5 million d’euros pour l’association Rêves, qui réalise les vœux d’enfants gravement malades.",
-      "url": "https://www.lemonde.fr/videos/article/2026/11/07/des-sportifs-et-createurs-de-contenus-francais-courent-pendant-vingt-cinq-heures-pour-soutenir-une-association_6808306_1669088.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-07T17:50:19+00:00"
-    },
-    {
       "id": "028a4df7dab9c506376913b8",
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
@@ -825,17 +946,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-06T21:06:25+00:00"
-    },
-    {
-      "id": "cdbf22c849a1243a406cbf04",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-06T18:32:16+00:00"
     },
     {
       "id": "fbb0b42ffeb048bf1de25e4c",
@@ -869,17 +979,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-10-20T19:45:00+00:00"
-    },
-    {
-      "id": "284d2eb2182c7753aa4fef44",
-      "title": "Tech Life",
-      "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-10-13T19:45:00+00:00"
     },
     {
       "id": "0f84069d86717cf352cf2878",
