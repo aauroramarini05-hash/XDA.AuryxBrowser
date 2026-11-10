@@ -1,6 +1,424 @@
 {
-  "updatedAt": "2026-11-09T18:00:17.299883+00:00",
+  "updatedAt": "2026-11-10T01:47:52.321601+00:00",
   "items": [
+    {
+      "id": "67069c9689a3d166960361ab",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-10T01:44:53+00:00"
+    },
+    {
+      "id": "8eba11894c2b9492f2c85180",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T01:38:49+00:00"
+    },
+    {
+      "id": "b27ae7771e73e021ff71bbe0",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-10T01:38:19+00:00"
+    },
+    {
+      "id": "52e4d97e688296adfcd61a40",
+      "title": "Get a Nintendo Switch 2 Console for as Low as $418 During the AliExpress Black Friday Sale",
+      "summary": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T00:40:00+00:00"
+    },
+    {
+      "id": "3e2b0c9fa3f55c9d338a8a5d",
+      "title": "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
+      "summary": "Get all caught up before Final Fantasy VII Revelation releases early next year.",
+      "url": "https://www.ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T00:15:00+00:00"
+    },
+    {
+      "id": "dfb9177faae3766ae3850e83",
+      "title": "The mFish 4-in-1 Lighted USB Type-C Cable Is So Worth It for Less Than $7",
+      "summary": "USB-A, two USB-C, and Lightning connectors on a single cable.",
+      "url": "https://www.ign.com/articles/mfish-usb-cable-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T00:15:00+00:00"
+    },
+    {
+      "id": "5a4e5cda335a8eb3b8dac907",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T00:14:03+00:00"
+    },
+    {
+      "id": "fc22d7e9a4ac6e6337f353cb",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T00:09:49+00:00"
+    },
+    {
+      "id": "b853b5c956e51f3ffb9c4cf1",
+      "title": "Call of Duty FaceTime Chat Causes Plane to Be Evacuated",
+      "summary": "A Frontier Airlines flight as well as the entire east wing of Terminal 2 at Southern California's Ontario International Airport was evacuated prior to departure after a passenger's FaceTime conversation with a friend was mistaken for a bomb threat by another passenger, the Ontario Police Department said. The passenger having the chat about the mili",
+      "url": "https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T00:08:42+00:00"
+    },
+    {
+      "id": "7dbd65d9a11190f4243a335a",
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T00:08:28+00:00"
+    },
+    {
+      "id": "89c2500d3b739d99837e1a71",
+      "title": "Nike and Tekken Team Up For a King-Inspired Air Max Shoe",
+      "summary": "Nike’s dotswoosh division has confirmed an upcoming collaboration with Tekken, featuring the fighting game franchise’s iconic masked pro wrestler, King.",
+      "url": "https://www.ign.com/articles/nike-and-tekken-team-up-for-a-king-inspired-air-max-shoe",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T00:01:30+00:00"
+    },
+    {
+      "id": "075defd73872c3cb971f634b",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-09T23:51:22+00:00"
+    },
+    {
+      "id": "67eb29601b9af33525d0853e",
+      "title": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
+      "summary": "For all of the changes in Nintendo's The Legend of Zelda: Ocarina of Time remake, there's one that's tripping players up more than any of the others: a jump button.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T23:46:42+00:00"
+    },
+    {
+      "id": "990185abe86893a649c3da70",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T23:28:53+00:00"
+    },
+    {
+      "id": "780ae6dfccfb949014951a35",
+      "title": "The Legend of Zelda Chess Set Is Buy 1, Get 1 50% Off Before Black Friday",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-chess-set-is-buy-1-get-1-50-off-before-black-friday-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T23:18:55+00:00"
+    },
+    {
+      "id": "b223d3844cbdb1483b003c33",
+      "title": "Take-Two 'Enhancing' Technical Defenses and Legal Activities to Combat GTA 6 AI Reverse-Engineering Threat",
+      "summary": "The boss of Rockstar parent company Take-Two has responded to the threat of AI-assisted reverse-engineering and decompilation of games ahead of the crucial launch of GTA 6.",
+      "url": "https://www.ign.com/articles/take-two-enhancing-technical-defenses-and-legal-activities-to-combat-gta-6-ai-reverse-engineering-threat",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T23:18:51+00:00"
+    },
+    {
+      "id": "0df7d035f2933be0334a726b",
+      "title": "'I’ve Been In a Lot of Harry Potter Already' — Daniel Radcliffe Isn't Sure If He'll Watch HBO's Harry Potter TV Series",
+      "summary": "Former Harry Potter actor Daniel Radcliffe isn't sure if he's going to watch HBO's TV adaptation of the Wizarding World.",
+      "url": "https://www.ign.com/articles/ive-been-in-a-lot-of-harry-potter-already-daniel-radcliffe-isnt-sure-if-hell-watch-hbos-harry-potter-tv-series",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T22:58:23+00:00"
+    },
+    {
+      "id": "ec223309dca32a93eee95eb2",
+      "title": "Skydance Reveals HBO Max and Paramount Plus Streaming Bundle Coming Early 2027",
+      "summary": "Skydance has announced a subscription bundle for both Paramount+ and HBO Max is coming to viewers as soon as early 2027.",
+      "url": "https://www.ign.com/articles/skydance-reveals-hbo-max-and-paramount-plus-streaming-bundle-coming-early-2027",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T22:50:22+00:00"
+    },
+    {
+      "id": "d711caa4abf5bc99fb13ded1",
+      "title": "Dana White declines Trump’s offer to be White House press secretary",
+      "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T22:46:27+00:00"
+    },
+    {
+      "id": "51f68a28c3ba0f1f5e918ede",
+      "title": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
+      "summary": "A la veille du Forum de Paris sur la paix, Emmanuel Macron a organisé une déclaration plaidant pour des standards communs de classement des incidents liés à l’intelligence artificielle et à des évaluations indépendantes.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/09/securite-de-l-ia-l-elysee-fait-signer-un-appel-de-paris-a-huit-pays-ainsi-qu-a-sam-altman-dario-amodei-et-arthur-mensch_6808706_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-09T22:35:00+00:00"
+    },
+    {
+      "id": "a322f1ad99bc6c450537c1cd",
+      "title": "This 1,000W 48V Electric Bike With 28mph Top Speed and 80-Mile Range Drops Below $250 for Black Friday",
+      "summary": "A super affordable yet powerful ebike that will satisfy most of your commuter needs.",
+      "url": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-aliexpress-black-friday-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T22:00:00+00:00"
+    },
+    {
+      "id": "6efc3104fda4f7cfbb61f424",
+      "title": "Here Are Some Movies to Watch Before GTA 6 (Including Some You Can Watch in Theaters)",
+      "summary": "We've compiled a list of movies to watch before GTA 6, including some classics that will be shown at Regal Cinemas over the course of the next week.",
+      "url": "https://www.ign.com/articles/here-are-some-movies-to-watch-before-gta-6-including-some-you-can-watch-in-theaters",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T21:57:28+00:00"
+    },
+    {
+      "id": "5b1dfde3f537e6a437c3d3e5",
+      "title": "A Real Life GTA 6 Car Is Being Sold for $1.3 Million",
+      "summary": "Rockstar Games and West Coast Customs teamed up to build real versions of GTA 6's cars... and you can buy one of them if you have $1.3 million lying around.",
+      "url": "https://www.ign.com/articles/a-real-life-gta-6-car-is-being-sold-for-13-million",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T21:53:41+00:00"
+    },
+    {
+      "id": "abd02fbe624695a310cc95ab",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T21:52:28+00:00"
+    },
+    {
+      "id": "56b8f62403c1758defd77230",
+      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T21:48:38+00:00"
+    },
+    {
+      "id": "49cf43dae10d5f98fecb6b01",
+      "title": "GTA 6 Caused Some Gamers to Hold Off on Buying New Games — Including Take-Two's Own NBA 2K27, Strauss Zelnick Says",
+      "summary": "The behemoth that is GTA 6 looms large over the video game industry, and it’s so big that it not only caused the September crush of releases, but caused some gamers to hold off on buying new games entirely.",
+      "url": "https://www.ign.com/articles/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-including-take-twos-own-nba-2k27-strauss-zelnick-says",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T21:41:41+00:00"
+    },
+    {
+      "id": "4633fdbc09f5e57ae4616e08",
+      "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
+      "summary": "Olivier Richters, the seven-foot-tall actor who played Zangief in the 2026 Street Fighter movie, competed in a Street Fighter 6 tournament using the same character he portrayed in the film.",
+      "url": "https://www.ign.com/articles/zangief-actor-olivier-richters-competed-in-a-street-fighter-6-tournament-using-zangief-and-hes-actually-pretty-good",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T21:41:35+00:00"
+    },
+    {
+      "id": "d0bf19f171f29bc81b149c8d",
+      "title": "Skydance Games Confirms Layoffs Following Warner Bros.-Paramount Merger",
+      "summary": "Skydance Games has laid off staff following last month's Warner Bros-Paramount merger.",
+      "url": "https://www.ign.com/articles/skydance-games-confirms-layoffs-following-warner-bros-paramount-merger",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T21:36:45+00:00"
+    },
+    {
+      "id": "e42076f62372fbb3b9c68994",
+      "title": "The DCU and James Gunn's Batman Was Dead Before It Was Even Born",
+      "summary": "While James Gunn made good on his promise to introduce audiences to new iterations of Superman, Green Lantern, Supergirl, Lex Luthor, and more, DC Studios never did get their marquee character, Batman, onto the big screen. And that, ultimately, may have cost Gunn and his partner Peter Safran their jobs.",
+      "url": "https://www.ign.com/articles/the-dcu-and-james-gunns-batman-was-dead-before-it-was-even-born",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T21:22:43+00:00"
+    },
+    {
+      "id": "618b39b5a72cc35ab1c4ab83",
+      "title": "Take-Two Boss Strauss Zelnick on GTA 6 Expectations, GTA Online, and the Decade to Come",
+      "summary": "IGN interviews Take-Two boss Strauss Zelnick 10 days before the biggest release in entertainment history: GTA 6.",
+      "url": "https://www.ign.com/articles/take-two-boss-strauss-zelnick-on-gta-6-expectations-gta-online-and-the-decade-to-come",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T21:16:07+00:00"
+    },
+    {
+      "id": "40632174523510e96012c400",
+      "title": "Epic Games Claims Ownership Over Jazz Jackrabbit in Fortnite Legal Tussle With Gears of War Creator",
+      "summary": "Cliff Bleszinski, longtime Epic Games developer and the renowned designer of Gears of War and Unreal Tournament, hit a legal wall when trying to secure the rights to one of his very first game characters, Jazz Jackrabbit, from his former employer.",
+      "url": "https://www.ign.com/articles/epic-games-claims-ownership-over-jazz-jackrabbit-in-fortnite-legal-tussle-with-gears-of-war-creator",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T20:55:15+00:00"
+    },
+    {
+      "id": "0a7e0997604f2159b6e033c8",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T20:42:04+00:00"
+    },
+    {
+      "id": "96f1718d5fc3edb16923b380",
+      "title": "Zack Snyder Fans Beg DC Studios to 'Restore the Snyderverse' After James Gunn, Peter Safran Exit",
+      "summary": "Fans of Zack Snyder's DCU are rallying in support of the director following James Gunn and Peter Safran's sudden exit from the franchise.",
+      "url": "https://www.ign.com/articles/zack-snyder-fans-beg-dc-studios-to-restore-the-snyderverse-after-james-gunn-peter-safran-exit",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-09T20:33:12+00:00"
+    },
+    {
+      "id": "51dac8293fcd911f836576c6",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T20:20:08+00:00"
+    },
+    {
+      "id": "3f2b55532407fbd1bef77ab5",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-09T19:58:01+00:00"
+    },
+    {
+      "id": "ceecde2b7288ce644bf082f4",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "summary": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+      "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T19:09:27+00:00"
+    },
+    {
+      "id": "fe4857f2794ebdbbc2093d42",
+      "title": "Les pays nordiques freinent le déploiement des data centers",
+      "summary": "Face à l’envol de la consommation d’électricité causé par les centres de données, la Norvège a annoncé, lundi 9 novembre, dans la foulée du Danemark et de la Finlande, des restrictions pour limiter l’implantation de ces immenses infrastructures.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/09/les-pays-nordiques-freinent-le-deploiement-des-data-centers_6808695_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-09T18:52:11+00:00"
+    },
+    {
+      "id": "b68d102423acb9f30e1398cf",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-09T18:08:07+00:00"
+    },
     {
       "id": "52c5cc1a9f4ca9ee6a1ee152",
       "title": "Trump questions midterm elections integrity after previously accepting results",
@@ -24,50 +442,6 @@
       "publishedAt": "2026-11-09T17:06:18+00:00"
     },
     {
-      "id": "5a14377517d978357571d516",
-      "title": "Save Up to 40% Off Samsung Nintendo Switch 2 Memory Cards Ahead of Black Friday",
-      "summary": "Tested and vetted at IGN.",
-      "url": "https://www.ign.com/articles/samsung-p9-nintendo-switch-2-memory-card-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T17:05:00+00:00"
-    },
-    {
-      "id": "19bfb8860e2af85337068c98",
-      "title": "The Ultra-Slim Baseus Blade 20,000mAh Power Bank With 100W Output Drops to $39 for Black Friday",
-      "summary": "This 0.7\" thin power bank boasts high capacity and output for handheld gaming PCs and laptops.",
-      "url": "https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T17:05:00+00:00"
-    },
-    {
-      "id": "93430ccbfc331863e3568759",
-      "title": "Former BioWare Executive Producer Mark Darrah Shares Original Vision for a More 'Immersive' Dragon Age 4",
-      "summary": "BioWare veteran Mark Darrah has revealed an internal pitch for Dragon Age 4 that was never shared with fans.",
-      "url": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-shares-original-vision-for-a-more-immersive-dragon-age-4",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T17:00:15+00:00"
-    },
-    {
-      "id": "31cf257f9c569a3e6c770054",
-      "title": "Get Ready for the First New Scott Pilgrim Comic in 16 Years",
-      "summary": "The first new Scott Pilgrim comic in 16 years is almost upon us. Feast your eyes on this exclusive preview of Scott Pilgrim EX: Dawn of Metal Scott #1.",
-      "url": "https://www.ign.com/articles/get-ready-for-the-first-new-scott-pilgrim-comic-in-16-years",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T17:00:00+00:00"
-    },
-    {
       "id": "798f29079cb1efb625536754",
       "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
       "summary": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
@@ -79,37 +453,15 @@
       "publishedAt": "2026-11-09T16:59:46+00:00"
     },
     {
-      "id": "51dac8293fcd911f836576c6",
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T16:55:07+00:00"
-    },
-    {
       "id": "c0be500fedc4b9a3bfaf1985",
       "title": "Cyberattaque contre des réfrigérateurs de supermarchés : la justice ouvre une enquête contre un groupe iranien, Jean-Noël Barrot souhaite « des sanctions à l’échelle européenne »",
-      "summary": "Plus de 700 magasins avaient été ciblés par cette cyberattaque, en octobre. Les pirates avaient visé les systèmes de dégivrage, afin de faire monter la température des appareils.",
+      "summary": "Plus de 700 magasins avaient été ciblés en octobre. Les pirates avaient visé les systèmes de dégivrage, afin de faire monter la température des appareils.",
       "url": "https://www.lemonde.fr/pixels/article/2026/11/09/cyberattaque-des-refrigerateurs-de-supermarche-la-justice-ouvre-une-enquete-contre-un-groupe-iranien-jean-noel-barrot-souhaite-des-sanctions-a-l-echelle-europeenne_6808673_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-09T16:41:34+00:00"
-    },
-    {
-      "id": "7e7fe16f77add4d995d40a5d",
-      "title": "Save 50% Off a 1-Year Paramount+ Premium (Ad-Free) Subscription for Black Friday",
-      "summary": "Catch up on the complete first season of Avatar: Seven Havens.",
-      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T16:40:00+00:00"
     },
     {
       "id": "4db0139cd2e0f6006176431a",
@@ -123,72 +475,6 @@
       "publishedAt": "2026-11-09T16:33:55+00:00"
     },
     {
-      "id": "2bbeb25ecff6034c64feff23",
-      "title": "LEGO Teases Yoshi Set for 2027",
-      "summary": "Nintendo has teased a new LEGO Yoshi set in a post on the Nintendo Today! app.",
-      "url": "https://www.ign.com/articles/lego-teases-yoshi-set-for-2027",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T16:25:52+00:00"
-    },
-    {
-      "id": "2c67b6bbf44ae88abd230ea1",
-      "title": "Sony Launches New PS Portal Model in Japan With Internal Storage for 'Future Functionality,' Changes Official Name",
-      "summary": "Sony is releasing a new model of the PlayStation Portal in Japan next month. The big difference is that it has internal storage, hinting that Sony might be expanding the handheld’s functions in the future.",
-      "url": "https://www.ign.com/articles/sony-launches-new-ps-portal-model-in-japan-with-internal-storage-for-future-functionality-changes-official-name",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T16:23:27+00:00"
-    },
-    {
-      "id": "37005462b454d3dd9fa15744",
-      "title": "Cyberpunk 2077 Just Got a New Multiplayer Mod, Complete With RP Servers",
-      "summary": "Last month, Cyberpunk 2077 got an ambitious multiplayer mod, NightCoop. This is great if you want to play with up to eight players, going through the main story with friends. However, if you want something even more chaotic, we now have another multiplayer project: Open//77. This essentially turns Cyberpunk 2077 into GTA Online, letting servers of ",
-      "url": "https://www.ign.com/articles/cyberpunk-2077-just-got-a-new-multiplayer-mod-complete-with-rp-servers",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T16:13:32+00:00"
-    },
-    {
-      "id": "075defd73872c3cb971f634b",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-09T15:46:20+00:00"
-    },
-    {
-      "id": "8b1a57ae7b7ad8dcc3f67f49",
-      "title": "‘Even if Someone Does Get It Running on PC, That’s Not Going To Be a Good Experience’ – Why AI Cloning Won’t Sink GTA 6’s Launch, but Could Reshape Game Development",
-      "summary": "Will AI-made PC ports impact GTA 6's launch? The experts say no, but vibe-coding is here to reshape the games industry as we know it.",
-      "url": "https://www.ign.com/articles/even-if-someone-does-get-it-running-on-pc-thats-not-going-to-be-a-good-experience-why-ai-cloning-wont-sink-gta-6s-launch-but-could-reshape-game-development",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T15:30:00+00:00"
-    },
-    {
-      "id": "624e71c1b586998a5109c66d",
-      "title": "Christopher Nolan’s Interstellar Is Getting a LEGO Set",
-      "summary": "LEGO has approved a LEGO Ideas submission based on the Christopher Nolan movie Interstellar. It will become an official LEGO set at some point in the future.",
-      "url": "https://www.ign.com/articles/christopher-nolans-interstellar-is-getting-a-lego-set",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T15:23:13+00:00"
-    },
-    {
       "id": "1f0d74e864444eff58fd3959",
       "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
       "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
@@ -198,17 +484,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-09T14:50:35+00:00"
-    },
-    {
-      "id": "832539617c6fc2d39f1c2f8e",
-      "title": "Exterminauts Turns You and 2 Friends Into Intergalactic Pest Control Techs With Some Really Spicy Secondary Weapons | IGN Preview",
-      "summary": "I've played about five hours of the blue-collar bug-squasher so far, and admittedly it’s grown on me. The special launcher weapons and diverse array of weird-ass bugs keeps skirmishes interesting, and I'm still in the process of finding new jobs to do and new biomes to do them on, so the sense of discovery is still there. But I don't think Extermin",
-      "url": "https://www.ign.com/articles/exterminauts-turns-you-and-2-friends-into-intergalactic-pest-control-techs-with-some-really-spicy-secondary-weapons-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T14:00:00+00:00"
     },
     {
       "id": "cddc24536af5fb826c752fa0",
@@ -222,17 +497,6 @@
       "publishedAt": "2026-11-09T13:50:01+00:00"
     },
     {
-      "id": "fac7a3bfa7f44056c24dfbc9",
-      "title": "As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch",
-      "summary": "GTA 6 preloads are live for those who live in New Zealand (or are pretending to live in New Zealand to play early) and fans are scanning the game files for new information.",
-      "url": "https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T12:33:05+00:00"
-    },
-    {
       "id": "01c1f3c3a54935af2e25190c",
       "title": "Krakow shooting suspect has died in hospital, police say",
       "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
@@ -242,61 +506,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-09T11:56:25+00:00"
-    },
-    {
-      "id": "2f51fc0f18539162f283ff01",
-      "title": "Internal Mass Effect 2 Trailer Gives Us the Earliest Look at the Game Yet",
-      "summary": "The lead animator for Mass Effect 2 has shared a previously unreleased trailer for the game, only ever seen by the developers at BioWare.",
-      "url": "https://www.ign.com/articles/internal-mass-effect-2-trailer-gives-us-the-earliest-look-at-the-game-yet",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T11:48:55+00:00"
-    },
-    {
-      "id": "dca44c3e5a2cd6cb703ef3a5",
-      "title": "Iconic British Retail Store Gets GTA 6 Takeover Featuring Exclusive $3,355 Varsity Jacket",
-      "summary": "Luxury British department store Selfridges has had the ground floor of its flagship London store overtaken by GTA 6 ahead of its November 19 release date. It’s not just a little display, either; Rockstar and the retailer have gone all-out.",
-      "url": "https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T11:30:49+00:00"
-    },
-    {
-      "id": "7ff457893a24336f7b46c7c6",
-      "title": "Popular Nintendo Blogger Supper Mario Broth Says He May Only Have a Year to Live",
-      "summary": "A popular Nintendo blogger who tells his viewers obscure facts about Super Mario has been hit with serious health conditions, including heart failure. The online personality has vowed to continue running the blog for as long as he’s able.",
-      "url": "https://www.ign.com/articles/supper-mario-broth-health-condition",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T10:55:22+00:00"
-    },
-    {
-      "id": "0be767e601d292365d4a3522",
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T10:41:57+00:00"
-    },
-    {
-      "id": "25dab7fd9699b796d91c75bb",
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T08:49:17+00:00"
     },
     {
       "id": "d26ae66022941b9181b2efef",
@@ -321,17 +530,6 @@
       "publishedAt": "2026-11-09T06:00:26+00:00"
     },
     {
-      "id": "bdc9d9d968aa4bf3d12352e2",
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-09T05:30:37+00:00"
-    },
-    {
       "id": "6e48bbd1263c743b790a5728",
       "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
       "summary": "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées.",
@@ -341,28 +539,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-09T05:00:31+00:00"
-    },
-    {
-      "id": "3baacd7efa5dd7c5e4543810",
-      "title": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
-      "summary": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
-      "url": "https://www.ign.com/articles/father-arrested-after-leaving-sleeping-6-year-old-daughter-in-line-for-pokmon-cards",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T04:25:03+00:00"
-    },
-    {
-      "id": "a1cc3702b9e329531bb8ad38",
-      "title": "U2's The Edge Apparently Wrote a Full Script for Elf 2 But Was Never Able to Bring It to Life",
-      "summary": "U2 guitarist The Edge apparently had such a good idea for Elf 2 that he went out of his way to write his own script.",
-      "url": "https://www.ign.com/articles/u2s-the-edge-apparently-wrote-a-full-script-for-elf-2-but-was-never-able-to-bring-it-to-life",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T04:22:51+00:00"
     },
     {
       "id": "7180153cf061521f4dd83cf8",
@@ -376,17 +552,6 @@
       "publishedAt": "2026-11-09T02:50:13+00:00"
     },
     {
-      "id": "c5774bdb21245daf9e46733f",
-      "title": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
-      "summary": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
-      "url": "https://www.ign.com/articles/denis-villeneuve-praises-human-creativity-over-ai-prompts-almost-announces-new-bond",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T02:28:29+00:00"
-    },
-    {
       "id": "6a13c9646ddac4911fe20c57",
       "title": "Jensen Huang, le dirigeant de Nvidia, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
       "summary": "Cette affaire aux airs de vaudeville concerne une entreprise valorisée à 4 500 milliards de dollars qui fabrique des microprocesseurs essentiels à la révolution de l’IA, au cœur de la rivalité entre les Etats-Unis et la Chine. La firme a lancé une enquête interne.",
@@ -396,28 +561,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-09T02:21:07+00:00"
-    },
-    {
-      "id": "f8ec7bf02d5251f15daa5da7",
-      "title": "Petit Planet, aka HoYoverse's Take on Animal Crossing, Is Packed With Charm and Attention to Detail | IGN Preview",
-      "summary": "2026 has been an incredibly crowded year for cozy life simulation games. Ironically, a genre that people usually turn to when they need a break from intense action games has started to wear me out. After playing Animal Crossing: New Horizons' latest update, Starsand Island; Pokémon Pokopia; Tomodachi Life: Living the Dream; and more, I found myself",
-      "url": "https://www.ign.com/articles/petit-planet-aka-hoyoverses-take-on-animal-crossing-is-packed-with-charm-and-attention-to-detail-ign-preview",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-09T01:00:00+00:00"
-    },
-    {
-      "id": "1f21b274086b7a8e8ce4f41b",
-      "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
-      "summary": "Nvidia has launched an independent investigation into CEO Jensen Huang after he admitted to having an affair with a suspected Chinese spy.",
-      "url": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-08T22:34:01+00:00"
     },
     {
       "id": "36adfde8305062d1304b453d",
@@ -585,28 +728,6 @@
       "publishedAt": "2026-11-07T04:00:07+00:00"
     },
     {
-      "id": "88919a78ee6da36e65b8b0f9",
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-07T01:27:47+00:00"
-    },
-    {
-      "id": "c14c7e267d1d269990987379",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-06T23:24:15+00:00"
-    },
-    {
       "id": "028a4df7dab9c506376913b8",
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
@@ -717,28 +838,6 @@
       "publishedAt": "2026-11-06T05:00:16+00:00"
     },
     {
-      "id": "d0b85e7175e97ee82a852cb6",
-      "title": "Cryptomonnaies : après le vol historique chez Binance, quel moyen pour conserver ses actifs en sécurité ?",
-      "summary": "Les détenteurs de bitcoins, ethereums et autres jetons numériques peuvent assurer la sécurité de leurs actifs par eux-mêmes, ou choisir de déléguer cette tâche à des intermédiaires. Non sans risque dans les deux cas.",
-      "url": "https://www.lemonde.fr/argent/article/2026/11/06/cryptomonnaies-apres-le-vol-historique-chez-binance-quel-moyen-pour-conserver-ses-actifs-en-securite_6807720_1657007.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-06T05:00:10+00:00"
-    },
-    {
-      "id": "8bf8af56a6ea6b953dc2757f",
-      "title": "Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier son suicide",
-      "summary": "Avant que ses parents n’interviennent, l’adolescente de 13 ans a échangé, à l’aide de l’ordinateur fourni par son école, des milliers de messages avec le modèle phare d’intelligence artificielle du groupe américain, dans lesquels elle décrit son mal-être.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/06/etats-unis-google-accuse-d-avoir-laisse-son-assistant-ia-gemini-aider-une-collegienne-a-planifier-son-suicide_6807413_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-06T00:36:12+00:00"
-    },
-    {
       "id": "f6e2c0ac962ea3f8461daf3d",
       "title": "The engine parts that 'fight the laws of the universe'",
       "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
@@ -761,28 +860,6 @@
       "publishedAt": "2026-11-04T21:41:15+00:00"
     },
     {
-      "id": "47ee07033260855c841b97a9",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-04T16:26:15+00:00"
-    },
-    {
-      "id": "0f742d215d03aba38a10de33",
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-04T00:04:35+00:00"
-    },
-    {
       "id": "fbb0b42ffeb048bf1de25e4c",
       "title": "Tech Life",
       "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
@@ -792,17 +869,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-03T20:30:00+00:00"
-    },
-    {
-      "id": "befae6547f182a1432487ece",
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-03T16:19:29+00:00"
     },
     {
       "id": "24b865eb377d6b6484cf4db3",
