@@ -1,27 +1,225 @@
 {
-  "updatedAt": "2026-11-10T22:03:50.004842+00:00",
+  "updatedAt": "2026-11-11T02:24:50.437896+00:00",
   "items": [
     {
-      "id": "37eac5dd2bfc8a574b14cf15",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "id": "612f21db0ba0c3cc2ef1c4f9",
+      "title": "Marvel's VisionQuest Series Finale Review: 'Forever'",
+      "summary": "The last-minute addition of a new villain derails the finale of VisionQuest somewhat, but the series still succeeds where Vision and Ultron are concerned.",
+      "url": "https://www.ign.com/articles/marvels-visionquest-series-finale-review-forever",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-11T02:00:00+00:00"
+    },
+    {
+      "id": "bdac84008989bf43e3820977",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-11T01:14:40+00:00"
+    },
+    {
+      "id": "cc1106787acee565bbc89c57",
+      "title": "Fortis Games Closes With Over 400 Jobs Impacted",
+      "summary": "Fortis Games, a studio behind mobile titles like Twilight Towers and Bloom & Breakfast, has closed its doors, impacting around 440 jobs.",
+      "url": "https://www.ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-11T01:09:39+00:00"
+    },
+    {
+      "id": "3b111d72bd879fd4ede36d47",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-11T01:01:20+00:00"
+    },
+    {
+      "id": "822a825c988643c125c95c46",
+      "title": "The DCU Regime Change Threatens to Turn Man of Tomorrow Into 2027’s Answer to The Flash",
+      "summary": "It’s been four years since James Gunn and Peter Safran were announced as the co-bosses of DC Studios, and just a day since their ouster was revealed, and we're having a serious case of déjà vu.",
+      "url": "https://www.ign.com/articles/dcu-man-of-tomorrow-leadership-flash-comparison",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-11T00:55:02+00:00"
+    },
+    {
+      "id": "7b7bc60cdf441454f91b130c",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+      "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-11T00:26:02+00:00"
+    },
+    {
+      "id": "cd4513feeb945cf51550b54d",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-11T00:19:42+00:00"
+    },
+    {
+      "id": "23f9687bdf3a41753fda1359",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-11T00:19:13+00:00"
+    },
+    {
+      "id": "7906c38eae22b7ff122a4d2a",
+      "title": "Lanterns Not Renewed for Season 2, Says DC Studios Insider",
+      "summary": "An insider at DC Studios claims that HBO’s Lanterns was not renewed for a second season in spite of rave reviews and audience interest, as told in a report from Variety.",
+      "url": "https://www.ign.com/articles/lanterns-not-renewed-for-season-2-says-dc-studios-insider",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-11T00:18:08+00:00"
+    },
+    {
+      "id": "c7803c40a8bf94c698c882ec",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-11T00:18:07+00:00"
+    },
+    {
+      "id": "0effff289593380ac3d9b9ba",
+      "title": "Shaquille O'Neal is Starring in a Game Show Where Players Have to Hide Him in Plain Sight",
+      "summary": "In one of the more amusing sidequests that Shaquille O’Neal has undertaken in his life, the former NBA All-Star is set to appear in a game show where players try to conceal him from view in a hilarious twist on hide-and-seek.",
+      "url": "https://www.ign.com/articles/shaquille-oneal-is-starring-in-a-game-show-where-players-have-to-hide-him-in-plain-sight",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T23:26:41+00:00"
+    },
+    {
+      "id": "7066e52774f6c31598507fd5",
+      "title": "I Tried the Pokémon Happy Meal — Here’s What I Learned (and What I Pulled)",
+      "summary": "",
+      "url": "https://www.ign.com/articles/i-tried-the-pokemon-happy-meal-heres-what-i-learned-and-what-i-pulled",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T23:05:40+00:00"
+    },
+    {
+      "id": "46df075996e7f7a8dac45117",
+      "title": "Get a 20,000mAh 45W Power Bank With Integrated USB Cable for Under $20 Ahead of Black Friday",
+      "summary": "Fast charges your Nintendo Switch 2 or Steam Deck multiple times over.",
+      "url": "https://www.ign.com/articles/cuktech-power-bank-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T23:00:00+00:00"
+    },
+    {
+      "id": "28a9749051841772bca6f724",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC Technology",
       "country": "uk",
       "category": "technology",
-      "publishedAt": "2026-11-10T21:59:54+00:00"
+      "publishedAt": "2026-11-10T22:52:15+00:00"
     },
     {
-      "id": "cf13df8066daa0febe1113f8",
-      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "id": "75a95d0526471f674549b296",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-10T21:23:00+00:00"
+      "publishedAt": "2026-11-10T22:17:45+00:00"
+    },
+    {
+      "id": "c08feaad8b4a04808466b31a",
+      "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
+      "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
+      "url": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T22:15:00+00:00"
+    },
+    {
+      "id": "e5caaffdb9dfe345ba2f26ad",
+      "title": "We Asked Nintendo of America's Nate Bihldorff About Localizing Ocarina of Time's Most Obscure Secrets",
+      "summary": "\"The localization team, absolutely, puts the most importance on those single lines that are really, really hard to find.\"",
+      "url": "https://www.ign.com/articles/we-asked-nintendo-of-americas-nate-bihldorff-about-localizing-ocarina-of-times-most-obscure-secrets",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T22:11:50+00:00"
+    },
+    {
+      "id": "57a86acd22d2c14656ea5a5c",
+      "title": "Nintendo Opens New Job Role to Preserve and Organize its Old Games",
+      "summary": "Nintendo of America has opened up a new job position to help preserve and archive the older games in its vast library of titles.",
+      "url": "https://www.ign.com/articles/nintendo-opens-new-job-role-to-preserve-and-organize-its-old-games",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T22:10:22+00:00"
+    },
+    {
+      "id": "993b6f07a29779f258f1e3e4",
+      "title": "Pokémon TCG’s Delta Reign Elite Trainer Box Is Already Down to Almost Market Price Across Walmart & Amazon",
+      "summary": "Pokémon TCG Delta Reign Elite Trainer Box drops to $89.95 at Walmart, beating Amazon's new record-low $98.49 price and almost matching market value.",
+      "url": "https://www.ign.com/articles/pokemon-tcgs-delta-reign-elite-trainer-box-almost-market-price",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T22:00:00+00:00"
+    },
+    {
+      "id": "e40ce6f4539d07c5f0fa1721",
+      "title": "The Sabrent 8-Port USB Desktop Charging Station with 252W of Total Power Output Is on Sale for Black Friday",
+      "summary": "Never run out of USB charging ports again.",
+      "url": "https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T22:00:00+00:00"
     },
     {
       "id": "075defd73872c3cb971f634b",
@@ -55,6 +253,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-10T21:17:00+00:00"
+    },
+    {
+      "id": "be2e809b0003d7a9397a700b",
+      "title": "DC's New Leader Will Reportedly Prioritize More Well-Known Characters Like Batman and Wonder Woman, Reboot Has Yet to Be Decided",
+      "summary": "DC Studios' new boss is reportedly planning to prioritize more mainstream characters like Batman and Wonder Woman going forward.",
+      "url": "https://www.ign.com/articles/dcs-new-leader-will-reportedly-prioritize-more-well-known-characters-like-batman-and-wonder-woman-reboot-has-yet-to-be-decided",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-10T21:15:35+00:00"
     },
     {
       "id": "b21922a76a8f8e1ee47ed9bf",
@@ -123,6 +332,17 @@
       "publishedAt": "2026-11-10T20:30:00+00:00"
     },
     {
+      "id": "36f888dc5b4e700bdc073fbd",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-10T20:20:04+00:00"
+    },
+    {
       "id": "40695f5254feab869d5286f9",
       "title": "Save Over 50% Off One of the Coolest Desktop Charging Stations for Black Friday",
       "summary": "Features three AC outlets and four USB ports.",
@@ -178,17 +398,6 @@
       "publishedAt": "2026-11-10T19:33:04+00:00"
     },
     {
-      "id": "2f6918c7726d3ba370c294a7",
-      "title": "Today’s Top Deals: Astro Bot, Logitech G PRO X Superlight 2 SE Mouse, and Star Wars Galactic Racer",
-      "summary": "Plus, save on an Elgato mic, Switch 2, LEGO, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-november-10-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T19:30:00+00:00"
-    },
-    {
       "id": "e2f096c67de6f242b5b98eaa",
       "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
       "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
@@ -198,28 +407,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-10T19:26:42+00:00"
-    },
-    {
-      "id": "8e52d642f08d9ae2b47d4d07",
-      "title": "Burger King Italy Gets Official Magic: The Gathering Meal With Whopper-Themed Deck Boxes",
-      "summary": "Burger King just launched a Magic: The Gathering meal that comes with Whopper-themed deck boxes and sleeves. Unfortunately, the promotion is exclusive to Burger King Italy, with no indication that it will expand to other countries.",
-      "url": "https://www.ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T19:16:40+00:00"
-    },
-    {
-      "id": "12b34b2e592872481e84bdd4",
-      "title": "GTA 6 Was Never Going to Hit 60 Frames per Second on Consoles",
-      "summary": "Back when Rockstar showed off a bunch of GTA 6 gameplay on Netflix, one thing was incredibly clear – the game was running around 30 fps. And now that Rockstar has confirmed that it is targeting 30 fps on every console, including the PS5 Pro, it's clear that the game likely never would have run at a solid 60 on console.",
-      "url": "https://www.ign.com/articles/gta-6-was-never-going-to-be-60-frames-per-second-on-consoles",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T19:15:00+00:00"
     },
     {
       "id": "23411dba169297a7ae99ba2e",
@@ -244,17 +431,6 @@
       "publishedAt": "2026-11-10T18:43:04+00:00"
     },
     {
-      "id": "7db4b632fc215fe19fc60c03",
-      "title": "Get a Nintendo Switch 2 Console for as Low as $395 During the AliExpress Black Friday Sale",
-      "summary": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T18:40:00+00:00"
-    },
-    {
       "id": "1f263f5f061550068b91c4eb",
       "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
       "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
@@ -275,50 +451,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-10T18:33:51+00:00"
-    },
-    {
-      "id": "b9277a09915f7584161ae24c",
-      "title": "Astro Bot Dips Below $40 at Amazon and Walmart Before Black Friday Sales Kick Off",
-      "summary": "Astro Bot on PS5 has plummeted to $38.95 at Amazon and Walmart, saving you over $20 off its usual cost and marking a new all-time low price at the former.",
-      "url": "https://www.ign.com/articles/astro-bot-dips-below-40-at-amazon-and-walmart-before-black-friday-sales-kick-off",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T18:23:05+00:00"
-    },
-    {
-      "id": "37f0bc02d387089ba9110669",
-      "title": "IGN to Stream the 2027 New York Game Awards",
-      "summary": "The 2027 New York Game Awards are on the horizon, and IGN will once again be the official destination to stream the broadcast.",
-      "url": "https://www.ign.com/articles/ign-to-stream-the-2027-new-york-game-awards",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T18:20:47+00:00"
-    },
-    {
-      "id": "0510ed0ad39987284a0c2863",
-      "title": "Save $350 off Bose Smart Ultra Soundbar With Dolby Atmos and TrueSpace Technology for Black Friday",
-      "summary": "Lowest price in 2026.",
-      "url": "https://www.ign.com/articles/bose-smart-ultra-dolby-atmos-soundbar-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T18:15:00+00:00"
-    },
-    {
-      "id": "943dad2118ab61678d2683d0",
-      "title": "PlayStation Plus PC App Will Go Offline December 10, as Sony Continues to Retreat From PC",
-      "summary": "Outside of the few games that Sony has ported to Windows, the PlayStation Plus app on PC was the best way to play PS5 games on PC, even if you had to stream them. But now, Sony will be retiring the PlayStation Plus PC app.",
-      "url": "https://www.ign.com/articles/playstation-plus-pc-app-will-go-offline-december-10-as-sony-continues-to-retreat-from-pc",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T18:11:51+00:00"
     },
     {
       "id": "c3b26df0a97b3e7edfe1cf76",
@@ -363,61 +495,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-10T17:56:12+00:00"
-    },
-    {
-      "id": "eb5aaa8160f485a1ad88a353",
-      "title": "The 2,050-Piece LEGO Pokémon Pikachu and Poké Ball Set Drops to a New Price Low Ahead of Black Friday",
-      "summary": "Pikachu, I choose you!",
-      "url": "https://www.ign.com/articles/lego-pokmon-pikachu-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T17:50:00+00:00"
-    },
-    {
-      "id": "d5add1c2ec22dc6667549828",
-      "title": "Logitech Is Letting Employees Take Work Off for Game Releases, Just Ahead of GTA 6",
-      "summary": "Logitech has announced that it will be giving employees the option to take time off for video game releases ahead of GTA 6's launch.",
-      "url": "https://www.ign.com/articles/logitech-is-letting-employees-take-work-off-for-game-releases-just-ahead-of-gta-6",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T17:42:00+00:00"
-    },
-    {
-      "id": "e7df56ef30deda9546df6df6",
-      "title": "Bungie Tempts New Players With Free Period as PvE Mode and PvP Arena Battles Come to Marathon",
-      "summary": "PvE is coming to Marathon and Bungie is hoping new players will give it a shot with a free-to-play period at the start of the next Season. It’s called Symbiosis and is landing on December 8.",
-      "url": "https://www.ign.com/articles/marathon-free-symbiosis-pve",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T17:39:58+00:00"
-    },
-    {
-      "id": "7e7fe16f77add4d995d40a5d",
-      "title": "Save 50% Off a 1-Year Paramount+ Premium (Ad-Free) Subscription for Black Friday",
-      "summary": "Catch up on the complete first season of Avatar: Seven Havens.",
-      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T17:35:00+00:00"
-    },
-    {
-      "id": "5a14377517d978357571d516",
-      "title": "Save Up to 40% Off Samsung Nintendo Switch 2 Memory Cards Ahead of Black Friday",
-      "summary": "Tested and vetted at IGN.",
-      "url": "https://www.ign.com/articles/samsung-p9-nintendo-switch-2-memory-card-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-10T17:35:00+00:00"
     },
     {
       "id": "bc4c0994c0bf0ddd9698ea0a",
@@ -640,17 +717,6 @@
       "publishedAt": "2026-11-10T07:00:02+00:00"
     },
     {
-      "id": "676a83cca3edc2f610918ebb",
-      "title": "Oxford museum returns ancestral Naga skulls to India",
-      "summary": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-10T06:23:42+00:00"
-    },
-    {
       "id": "df4900a5a2be8ab4d5f9466b",
       "title": "Une commission préconise de mieux encadrer les assistants IA en France, de ChatGPT à Gemini ou Grok",
       "summary": "Mandaté par le gouvernement, le Conseil de l’IA et du numérique rend, mardi 10 novembre, son rapport sur l’exploitation des « vulnérabilités » des utilisateurs par les services d’intelligence artificielle.",
@@ -715,17 +781,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-10T03:41:33+00:00"
-    },
-    {
-      "id": "f3129782a17654fdc0aaa012",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-10T01:55:22+00:00"
     },
     {
       "id": "e9fe0ff9119d838d68b269fd",
@@ -935,17 +990,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-06T21:49:50+00:00"
-    },
-    {
-      "id": "e8ee61f50dfb4bd2b31fc381",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-06T21:06:25+00:00"
     },
     {
       "id": "fbb0b42ffeb048bf1de25e4c",
