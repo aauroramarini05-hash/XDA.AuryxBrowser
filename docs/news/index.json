@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-11-13T03:14:56.003652+00:00",
+  "updatedAt": "2026-11-13T11:44:01.984028+00:00",
   "items": [
+    {
+      "id": "55382e1b787912295067ffb8",
+      "title": "What we know so far about the Microsoft outage",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T11:43:27+00:00"
+    },
+    {
+      "id": "ad90ea1ff7ab4eca3c50ac4a",
+      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T11:09:16+00:00"
+    },
+    {
+      "id": "83a573c702647558cdd06f19",
+      "title": "After Giving Away Thousands of Dollars in Cosmetics, Fortnite is Teasing a Big Reveal For Captain X, Its Mysterious Masked Treasure Man — With Fan Guesses Ranging From Mr Beast to Obama",
+      "summary": "Fortnite is teasing a big reveal for its upcoming December 5 live event, which will reveal the identity of mysterious new character Captain X.",
+      "url": "https://www.ign.com/articles/after-giving-away-thousands-of-dollars-in-cosmetics-fortnite-is-teasing-a-big-reveal-for-captain-x-its-mysterious-masked-treasure-man-with-fan-guesses-ranging-from-mr-beast-to-obama",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T11:06:11+00:00"
+    },
+    {
+      "id": "82f0b70cdba42da45ec4773b",
+      "title": "How the Microsoft outage has been felt worldwide",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T11:05:10+00:00"
+    },
+    {
+      "id": "55df17aaee82f42c9430ce60",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T10:53:40+00:00"
+    },
+    {
+      "id": "400c879b94aea98abab79666",
+      "title": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+      "summary": "Plusieurs services de Microsoft, comme son outil de messagerie Outlook, Teams ou Copilot, connaissent d’importantes perturbations vendredi, ce qui affecte entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une cyberattaque, peine à rétablir leur fonctionnement.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-13T10:42:43+00:00"
+    },
+    {
+      "id": "2228f322083ad130a6694e98",
+      "title": "Microsoft Struggling to Fix Global System Outage Impacting Email Systems and More, Admits Initial Repairs 'Not Taking as Expected'",
+      "summary": "Microsoft is struggling to fix a prolonged systems outage that has hindered access to online services including Outlook and Teams.",
+      "url": "https://www.ign.com/articles/microsoft-struggling-to-fix-global-system-outage-impacting-email-systems-and-more-admits-initial-repairs-not-taking-as-expected",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T10:13:46+00:00"
+    },
+    {
+      "id": "c2f308f768d0ee8a0d8fff99",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T09:29:25+00:00"
+    },
+    {
+      "id": "3719286cb7669d187ea566f9",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T08:20:28+00:00"
+    },
+    {
+      "id": "af5e050d74170e162fb0437f",
+      "title": "What happened overnight with the Microsoft global outage?",
+      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T07:18:17+00:00"
+    },
+    {
+      "id": "d4b6e413643362aec228a691",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T07:01:43+00:00"
+    },
+    {
+      "id": "6886d838bb0a981b29181653",
+      "title": "Avec le mouvement lycéen, « le monde numérique a permis de nouvelles formes de réel »",
+      "summary": "En conjuguant à la fois viralité sur les médias sociaux et mobilisation « low-tech », les mouvements lycéens et étudiants ont mis le numérique au cœur de leurs revendications, décrypte Olivier Ertzscheid, maître de conférences en sciences de l’information et de la communication.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/13/avec-le-mouvement-lyceen-le-monde-numerique-a-permis-de-nouvelles-formes-de-reel_6809282_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-13T05:00:40+00:00"
+    },
+    {
+      "id": "0c4549f23a6cf8cc234196ee",
+      "title": "Quelle banque choisir pour réaliser des virements en devises ?",
+      "summary": "Réaliser un transfert d’argent vers un pays en dehors de la zone euro engendre des frais à la fois sur l’opération et sur le change.",
+      "url": "https://www.lemonde.fr/argent/article/2026/11/13/quelle-banque-choisir-pour-realiser-des-virements-en-devises_6809279_1657007.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-13T05:00:35+00:00"
+    },
+    {
+      "id": "01a5fb026b1b2119d992006d",
+      "title": "« L’IA fait peser un risque quasi existentiel sur le modèle économique d’une partie des écoles de management »",
+      "summary": "Dans un entretien au « Monde », l’enseignant-chercheur à l’EM Lyon Guillaume Coqueret alerte sur l’automatisation des postes juniors par l’intelligence artificielle, qui remet en cause le retour sur investisssement des élèves des écoles de commerce.",
+      "url": "https://www.lemonde.fr/campus/article/2026/11/13/l-ia-fait-peser-un-risque-quasi-existentiel-sur-le-modele-economique-d-une-partie-des-ecoles-de-management_6809275_4401467.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-13T05:00:17+00:00"
+    },
+    {
+      "id": "442ef067438b580e6abb522d",
+      "title": "Gaspard de Monclin, le nouveau loup de la presse éco qui mise à fond sur l’IA",
+      "summary": "En quelques mois, l’entrepreneur de 35 ans a racheté des titres de la presse économique en difficulté, comme « Le Revenu » ou « Le Nouvel Economiste ». Pour augmenter leur rentabilité, il réduit drastiquement le nombre de salariés et utilise massivement l’intelligence artificielle. Une stratégie qu’il assume sans faux-semblants.",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/13/gaspard-de-monclin-le-nouveau-loup-de-la-presse-eco-qui-mise-a-fond-sur-l-ia_6809274_4500055.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-13T05:00:15+00:00"
+    },
+    {
+      "id": "18cc8413af3671dae145493e",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T03:57:01+00:00"
+    },
     {
       "id": "2447aca68e73c611e24f2d04",
       "title": "Australian footballers will not be charged after hotel incident, police say",
@@ -24,19 +200,8 @@
       "publishedAt": "2026-11-13T02:48:29+00:00"
     },
     {
-      "id": "b8a150f0bac6b3f58f7ff4c1",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T02:39:00+00:00"
-    },
-    {
-      "id": "3574658bfd1edd036ca01953",
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "id": "de801515bd3ca204c1dce07c",
+      "title": "Global Microsoft outage affecting tens of thousands of users",
       "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
       "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -44,6 +209,17 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-13T02:38:02+00:00"
+    },
+    {
+      "id": "4914a853212c5a3fbdc3e242",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T02:24:11+00:00"
     },
     {
       "id": "97f1d6be36df4e6a8f083a65",
@@ -123,9 +299,9 @@
       "publishedAt": "2026-11-12T23:42:52+00:00"
     },
     {
-      "id": "e42244a5151774446d11114c",
-      "title": "Une panne mondiale d’Outlook perturbe l’accès aux e-mails",
-      "summary": "Microsoft affirme travailler « sans relâche » pour régler la panne qui influence également certaines fonctions des assistants d’intelligence artificielle, dont Copilot, son propre assistant IA, mais aussi Claude et ChatGPT.",
+      "id": "e51165166a13c08dddbb3dfb",
+      "title": "Panne mondiale d’Outlook : Microsoft écarte l’hypothèse d’une attaque de sa messagerie et constate de premiers « résultats positifs »",
+      "summary": "La perturbation, qui est toujours en cours dans des dizaines de pays, affecte également Teams et Copilot. L’entreprise ne s’avance pas encore sur un délai de rétablissement complet, et justifie la panne par une « charge élevée » sur l’infrastructure du groupe.",
       "url": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -187,17 +363,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-11-12T22:21:24+00:00"
-    },
-    {
-      "id": "49b630636d2a2130c22c2d91",
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T21:27:21+00:00"
     },
     {
       "id": "988ee91317f55bdc6aa07039",
@@ -343,28 +508,6 @@
       "publishedAt": "2026-11-12T19:09:45+00:00"
     },
     {
-      "id": "569760dcf901164421c9f3cb",
-      "title": "The Lord of the Rings: Rings of Power Season 3 Resolves One of the Most Fascinating Mysteries From Middle-earth Lore",
-      "summary": "Rings of Power Season 3 has revealed the true identity of Ciarán Hinds’ Dark Wizard, thereby resolving one of the biggest mysteries from J.R.R. Tolkien's Middle-earth lore.",
-      "url": "https://www.ign.com/articles/rings-of-power-season-3-ciaran-hinds-dark-wizard-mystery-pallando",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T19:08:40+00:00"
-    },
-    {
-      "id": "232ad3ae0e5fcb26bb2482e2",
-      "title": "Today’s Best Deals: Cheap PS5 SSDs, 007 First Light for $35, and a $128 50\" Vizio 4K QLED Smart TV",
-      "summary": "Save on Saros, LEGO, a Zelda brain teaser and more, too.",
-      "url": "https://www.ign.com/articles/best-deals-for-november-12-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T19:00:00+00:00"
-    },
-    {
       "id": "063bd76141e7de46615575de",
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
@@ -387,17 +530,6 @@
       "publishedAt": "2026-11-12T17:11:48+00:00"
     },
     {
-      "id": "72382a4530171c6732dda765",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T16:54:12+00:00"
-    },
-    {
       "id": "87808b268dff258b62e25e6c",
       "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
       "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
@@ -409,9 +541,20 @@
       "publishedAt": "2026-11-12T16:43:36+00:00"
     },
     {
+      "id": "002c2d4413a91b5bde00b5c8",
+      "title": "« GTA, le jeu no limit » sur France 4 : gameurs et pionniers racontent l’histoire de ce phénomène",
+      "summary": "Alors que sort GTA VI le 19 novembre, retour sur ce jeu de gendarmes et de voleurs né en Ecosse il y a trois décennies et qui a, depuis, révolutionné le jeu vidéo, non sans heurts.",
+      "url": "https://www.lemonde.fr/culture/article/2026/11/12/gta-le-jeu-no-limit-sur-france-4-gameurs-et-pionniers-racontent-l-histoire-de-ce-phenomene_6809130_3246.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-12T16:30:01+00:00"
+    },
+    {
       "id": "1f47bdff1df578533966da65",
       "title": "Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?",
-      "summary": "Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine.",
+      "summary": "Soupçonnée d’espionnage et maîtresse déclarée du cofondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine.",
       "url": "https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -429,17 +572,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-12T15:26:39+00:00"
-    },
-    {
-      "id": "7f479f831d64da1599a6d3f1",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T15:18:20+00:00"
     },
     {
       "id": "debee939c5e5b7c002028802",
@@ -475,20 +607,9 @@
       "publishedAt": "2026-11-12T14:12:55+00:00"
     },
     {
-      "id": "ac876c8b9cec012ede7f3a82",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T13:58:49+00:00"
-    },
-    {
       "id": "07fdad7bff111517051eae83",
       "title": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
-      "summary": "Le fondateur du géant des semi-conducteurs américain, mis en cause pour une liaison avec une entrepreneuse chinoise soupçonnée d’espionnage, quitte l’entreprise.",
+      "summary": "Le cofondateur du géant des semi-conducteurs américain, mis en cause pour une liaison avec une entrepreneuse chinoise soupçonnée d’espionnage, quitte l’entreprise.",
       "url": "https://www.lemonde.fr/economie/article/2026/11/12/jensen-huang-patron-emblematique-de-nvidia-et-parrain-de-l-ia-demis-de-ses-fonctions_6809106_3234.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -506,61 +627,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-12T13:02:46+00:00"
-    },
-    {
-      "id": "3564ac9018293e1e43155d19",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T12:56:55+00:00"
-    },
-    {
-      "id": "940f3bc94162a55ace8ab215",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T11:07:19+00:00"
-    },
-    {
-      "id": "f41128907048ae03b580498b",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T08:46:57+00:00"
-    },
-    {
-      "id": "fc3fd74f0eb14b2578e8a3da",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T07:45:52+00:00"
-    },
-    {
-      "id": "0b99bf502ab047403a0d9015",
-      "title": "Can Nigeria's president regain voters' trust after painful first term?",
-      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T07:30:44+00:00"
     },
     {
       "id": "b05128741cfbf8bd72372ec0",
@@ -596,28 +662,6 @@
       "publishedAt": "2026-11-12T05:00:07+00:00"
     },
     {
-      "id": "fb2b48422b65447edf99882d",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T04:03:13+00:00"
-    },
-    {
-      "id": "3f3656da7f6f494c9c0a3276",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T02:40:18+00:00"
-    },
-    {
       "id": "a59c84eb2a317d727602a39e",
       "title": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
       "summary": "Selon le « Wall Street Journal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces électroniques nécessaires à la révolution de l’intelligence artificielle.",
@@ -627,28 +671,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-11T23:30:03+00:00"
-    },
-    {
-      "id": "f346f6d0b16a56ac3b5752b2",
-      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-      "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-11T22:26:18+00:00"
-    },
-    {
-      "id": "499e486c2a8c8c3afbf387d5",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T22:07:37+00:00"
     },
     {
       "id": "3dc3f6e4133a5b66082849c1",
@@ -662,17 +684,6 @@
       "publishedAt": "2026-11-11T21:43:35+00:00"
     },
     {
-      "id": "f30053e4e88fb439d8f41eea",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T18:38:45+00:00"
-    },
-    {
       "id": "0c51b571d22a5335ae6f1d1b",
       "title": "Yuki Kodama, autrice du manga « Kids on the Slope », aime « faire en sorte que les personnages opposés s’attirent et se rapprochent »",
       "summary": "Le troisième volet du chef-d’œuvre créé au milieu des années 2000 vient d’être réédité en France.",
@@ -682,28 +693,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-11T18:30:08+00:00"
-    },
-    {
-      "id": "5870d165eb2ef4a873f0200c",
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T18:10:57+00:00"
-    },
-    {
-      "id": "125f0b9e1a168787e52d74dd",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T16:45:11+00:00"
     },
     {
       "id": "d41419dfaee1948beed6de69",
@@ -726,50 +715,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-11T15:39:21+00:00"
-    },
-    {
-      "id": "56defeb383d3b63133e3af42",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T14:56:11+00:00"
-    },
-    {
-      "id": "09d25ae3e2e6da9621e5695e",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T13:24:29+00:00"
-    },
-    {
-      "id": "d81a614547606f4ca6e4e618",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T12:53:11+00:00"
-    },
-    {
-      "id": "ea6d8b4bfa9f585048ab514c",
-      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-11T11:33:24+00:00"
     },
     {
       "id": "4a4d07d4fe548e53fbb7647b",
@@ -816,39 +761,6 @@
       "publishedAt": "2026-11-11T03:16:28+00:00"
     },
     {
-      "id": "23f9687bdf3a41753fda1359",
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-11T00:19:13+00:00"
-    },
-    {
-      "id": "c7803c40a8bf94c698c882ec",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T00:18:07+00:00"
-    },
-    {
-      "id": "28a9749051841772bca6f724",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-10T22:52:15+00:00"
-    },
-    {
       "id": "8557b2c881d587f868205e12",
       "title": "Tech Life",
       "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
@@ -858,94 +770,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-10T20:30:00+00:00"
-    },
-    {
-      "id": "23411dba169297a7ae99ba2e",
-      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
-      "summary": "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-10T18:43:56+00:00"
-    },
-    {
-      "id": "14c6ba52baae584b861a227e",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-10T17:56:12+00:00"
-    },
-    {
-      "id": "5abbfa4612c49df6a1fa5955",
-      "title": "IA : Anthropic maintient le timing de son entrée en Bourse et vise jusqu’à 1 400 milliards de dollars de valorisation",
-      "summary": "La start-up maison mère de Claude pourrait viser une cotation dès le jeudi 19 novembre, avec un prix d’introduction un peu revu à la baisse.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/10/ia-anthropic-maintient-le-timing-de-son-entree-en-bourse-et-vise-jusqu-a-1-400-milliards-de-dollars-de-valorisation_6808850_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-10T14:38:19+00:00"
-    },
-    {
-      "id": "8adcb6ac5aa508524c6e9ffc",
-      "title": "Cyberattaque contre des réfrigérateurs de supermarchés : l’Iran rejette « les accusations infondées » de la France",
-      "summary": "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs de réfrigération de supermarchés en octobre.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-10T13:34:05+00:00"
-    },
-    {
-      "id": "5babb29f613db64a02263029",
-      "title": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
-      "summary": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-10T10:30:17+00:00"
-    },
-    {
-      "id": "884731e57e40f349a9428eac",
-      "title": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
-      "summary": "Jensen Huang, le dirigeant du géant de la tech, a reconnu avoir entretenu une liaison avec une femme d’affaires chinoise suspectée par les services secrets américains d’espionner pour le compte de Pékin, explique Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-chine_6808810_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-10T10:00:09+00:00"
-    },
-    {
-      "id": "991d03258f9b60109fe14e4c",
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-10T09:23:55+00:00"
-    },
-    {
-      "id": "eed708e195014082ce83f047",
-      "title": "IA : « La France n’a pas à arbitrer entre puissance technologique et puissance culturelle »",
-      "summary": "Le soutien aux géants de l’intelligence artificielle ne doit pas se faire au détriment de la création, alertent, dans une tribune au « Monde », des représentants de la culture et de l’information, avant l’examen d’une proposition de loi en ce sens à l’Assemblée nationale, prévue le 19 novembre",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/10/ia-la-france-n-a-pas-a-arbitrer-entre-puissance-technologique-et-puissance-culturelle_6808793_3232.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-10T07:00:02+00:00"
     },
     {
       "id": "fbb0b42ffeb048bf1de25e4c",
