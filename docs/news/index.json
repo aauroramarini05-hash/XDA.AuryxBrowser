@@ -1,6 +1,391 @@
 {
-  "updatedAt": "2026-11-13T11:44:01.984028+00:00",
+  "updatedAt": "2026-11-13T18:58:12.551889+00:00",
   "items": [
+    {
+      "id": "f77fa45e3d870e2836c17ca2",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T18:36:57+00:00"
+    },
+    {
+      "id": "62de841f868c18f3aef81a8e",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T18:34:45+00:00"
+    },
+    {
+      "id": "19dd39afd65c01d7447350cf",
+      "title": "MagicCon Atlanta Preview Panel Liveblog",
+      "summary": "",
+      "url": "https://www.ign.com/articles/magiccon-atlanta-preview-panel-liveblog",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T18:14:28+00:00"
+    },
+    {
+      "id": "71858a772d6af90d10332238",
+      "title": "Crazy Taxi: World Tour Final Map Revealed",
+      "summary": "The next map confirmed for Crazy Taxi: World Tour is India, boasting three different zones that celebrate the country’s many cultures and hallmarks — and yes, Bollywood films make an appearance.",
+      "url": "https://www.ign.com/articles/crazy-taxi-world-tour-final-map-revealed",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T18:00:00+00:00"
+    },
+    {
+      "id": "e8820755ddc557683ea08799",
+      "title": "The Lenovo Legion Pro 7i Combines Gaming, Versatility, and Portability in One Premium Package",
+      "summary": "",
+      "url": "https://www.ign.com/articles/the-lenovo-legion-pro-7i-combines-gaming-versatility-and-portability-in-one-premium-package",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T18:00:00+00:00"
+    },
+    {
+      "id": "ee0937c4f208b09b1d75e037",
+      "title": "Marvel Confirms the Avengers Team Lineup That Anthony Mackie's Captain America Will Lead in Doomsday",
+      "summary": "Marvel has confirmed the lineup of heroes that Anthony Mackie's Captain America will lead into battle when Avengers: Doomsday premieres next month.",
+      "url": "https://www.ign.com/articles/marvel-confirms-the-avengers-team-lineup-that-anthony-mackies-captain-america-will-lead-in-doomsday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T17:51:14+00:00"
+    },
+    {
+      "id": "f8e8a45b598d6d3e7a5a7dda",
+      "title": "La panne de Microsoft alerte entreprises et salariés sur leur dépendance aux outils numériques : « On a tous un peu été dans le même bateau que nos clients »",
+      "summary": "L’arrêt des services du groupe américain entre jeudi 12 novembre et vendredi midi restant malgré tout limité, l’impact sur les entreprises est à relativiser.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/13/la-panne-de-microsoft-alerte-entreprises-et-salaries-sur-leur-dependance-aux-outils-numeriques-on-a-tous-un-peu-ete-dans-le-meme-bateau-que-nos-clients_6809369_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-13T17:48:12+00:00"
+    },
+    {
+      "id": "0ef9125f331780c57ae6fe18",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T17:38:19+00:00"
+    },
+    {
+      "id": "f5c5dd3b684e6ade1adda96d",
+      "title": "A PlayStation 5 Compatible SSD With Heatsink Dropped to Possibly the Lowest Price We'll See for Black Friday",
+      "summary": "Grand Theft Auto 6 alone will eat up over 200GB of your total storage.",
+      "url": "https://www.ign.com/articles/ps5-ssd-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T17:35:00+00:00"
+    },
+    {
+      "id": "e1b7cc012c068a04b1b984ec",
+      "title": "Get a Nintendo Switch 2 Console for $422 During the AliExpress Black Friday Sale",
+      "summary": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T17:35:00+00:00"
+    },
+    {
+      "id": "8ed3534e44bd9fd444e877a5",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T17:34:58+00:00"
+    },
+    {
+      "id": "7e7fe16f77add4d995d40a5d",
+      "title": "Save 50% Off a 1-Year Paramount+ Premium (Ad-Free) Subscription for Black Friday",
+      "summary": "Catch up on the complete first season of Avatar: Seven Havens.",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-november-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T17:25:00+00:00"
+    },
+    {
+      "id": "c08feaad8b4a04808466b31a",
+      "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
+      "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
+      "url": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T17:20:00+00:00"
+    },
+    {
+      "id": "9f8415a4a2573934e795943f",
+      "title": "Gruv Launches Black Friday Sale With Tons of Excellent 4K Deals",
+      "summary": "Gruv's Black Friday sale is officially live with plenty of discounts on 4Ks. Check out its new '3 for $33' sale and a selection of titles that have dropped down to just $12.99.",
+      "url": "https://www.ign.com/articles/gruv-black-friday-sale-2026-4k-bluray",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T17:10:12+00:00"
+    },
+    {
+      "id": "15ee3cc023e665d064903079",
+      "title": "25 Years Ago, Kojima Made the Perfect Metal Gear Solid for the 2020s",
+      "summary": "When Metal Gear Solid 2 launched 25 years ago it seemed almost indecipherable. Today, it's clear that Kojima's sequel was decades ahead of its time, predicting digital disinformation, AI deepfakes, and the breakdown of reality.",
+      "url": "https://www.ign.com/articles/25-years-ago-kojima-made-the-perfect-metal-gear-solid-for-the-2020s",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "id": "2bc882735cd16501ef66bfcc",
+      "title": "Pokémon Collector Discovers Rare Playable Copy of PokéPark Fishing Rally DS 20 Years After the Limited-Time Event It Was Made For",
+      "summary": "A collector has discovered and authenticated what's believed to be the only surviving, playable copy of PokéPark Fishing Rally, a temporary fishing minigame that was only available to play via wireless download at PokéPark in Japan in 2005.",
+      "url": "https://www.ign.com/articles/pokemon-collector-discovers-rare-playable-copy-of-pokpark-fishing-rally-ds-20-years-after-the-limited-time-event-it-was-made-for",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "id": "9875734f019a0cac71a46147",
+      "title": "WoW Forever Has a Weekly Quest That Can Reward Up to 100 Gold, and Players Don't Love It",
+      "summary": "Just a couple days after Blizzard changed the way gold was earned in max-level quests WoW Forever, the company has implemented a weekly quest with loot-box-style gold reward. And players don't love it.",
+      "url": "https://www.ign.com/articles/wow-forever-has-a-weekly-quest-that-can-reward-up-to-100-gold-and-players-dont-love-it",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T16:56:54+00:00"
+    },
+    {
+      "id": "0132699819d82c4947180866",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T16:40:31+00:00"
+    },
+    {
+      "id": "a012b4e843d6a6daff43df69",
+      "title": "God of War Sons of Sparta Coming to PS4 Next Week With New Content",
+      "summary": "Sony has revealed that God of War Sons of Sparta is coming to PS4 next week, and it's bringing two new modes with it.",
+      "url": "https://www.ign.com/articles/god-of-war-sons-of-sparta-coming-to-ps4-next-week-with-new-content",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T16:12:45+00:00"
+    },
+    {
+      "id": "574aa6cca982375299954340",
+      "title": "Curt Pires and Ryan Quackenbush Announce Sci-Fi Graphic Novel Content",
+      "summary": "IGN can exclusively reveal a new preview of the Image Comics graphic novel Content, which spoofs our current climate of mindless content consumption and rampant AI use.",
+      "url": "https://www.ign.com/articles/curt-pires-and-ryan-quackenbush-announce-sci-fi-graphic-novel-content",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T16:08:46+00:00"
+    },
+    {
+      "id": "b4d39fe4644984782961aa75",
+      "title": "Yaga Episode 5 Recap and Review",
+      "summary": "Yaga's latest episode brings intense seduction and intriguing reveals to the mystery-thriller series, drawing you in deeper to the world of Baba Yaga.",
+      "url": "https://www.ign.com/articles/yaga-episode-5-recap-and-review-hudson-williams-carrie-anne-moss-noah-reid",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T16:00:00+00:00"
+    },
+    {
+      "id": "6949ad7efbacc14acdd8c45b",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T15:48:07+00:00"
+    },
+    {
+      "id": "4ced681f66d94221ee5e899f",
+      "title": "'He Needs a Second Chance' – Some Nvidia Employees Really Want Former CEO Jensen Huang Back",
+      "summary": "Shortly after former Nvidia CEO Jensen Huang resigned amid a scandal involving multiple affairs and international espionage allegations, some employees of the company rallied to demand his reinstatement.",
+      "url": "https://www.ign.com/articles/he-needs-a-second-chance-some-nvidia-employees-really-want-former-ceo-jensen-huang-back",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T15:47:51+00:00"
+    },
+    {
+      "id": "8cf3fd73d70fabd8139157ce",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T15:42:52+00:00"
+    },
+    {
+      "id": "1b841f396724ca4de9521fc2",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T15:40:08+00:00"
+    },
+    {
+      "id": "a751ebb5b451f2927e83eabd",
+      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
+      "summary": "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-13T15:28:23+00:00"
+    },
+    {
+      "id": "3c53b67d6cdb921911bd8664",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T15:16:50+00:00"
+    },
+    {
+      "id": "f86197add92564ef2130577e",
+      "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
+      "summary": "In yet further evidence of the lengths Rockstar has gone to in order to pack GTA 6 to the brim with content, we have our first look at an animated TV series you can watch in-game.",
+      "url": "https://www.ign.com/articles/gta-6-has-a-whole-animated-tv-series-you-can-watch-in-game",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T15:11:15+00:00"
+    },
+    {
+      "id": "8ff14f4a5e1f76c8afb24ea0",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T15:09:40+00:00"
+    },
+    {
+      "id": "02f6803fbbce9723d31564df",
+      "title": "Thousands of UK Gamers Face Downloading GTA 6's Pre-load For Over a Week Due to Poor Internet Speeds",
+      "summary": "Experts have warned that over 870,000 UK gamers could wait up to a week or more to download GTA 6’s 212GB preload, with some households still averaging download speeds of just 2.8Mbps.",
+      "url": "https://www.ign.com/articles/gta-6-preload-download-times-uk-broadband-genie-deals",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T15:05:08+00:00"
+    },
+    {
+      "id": "07bba819c07c72aa616dad57",
+      "title": "The Legend of Zelda Series Was in 'Dire Straits' Before Breath of the Wild, Former Nintendo Marketing Leads Say",
+      "summary": "The Zelda series was in “dire straits” before Breath of the Wild, with a dwindling playerbase and low sales, according to former Nintendo marketing leads.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-series-was-in-dire-straits-before-breath-of-the-wild-former-nintendo-marketing-leads-say",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T14:18:41+00:00"
+    },
+    {
+      "id": "bf1f138d3b06cac916cb5571",
+      "title": "NHS, schools and police forces hit by Microsoft outage",
+      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T13:41:25+00:00"
+    },
+    {
+      "id": "497cdf49a0416c2fa72df7f4",
+      "title": "It Looks Like Wolfenstein 3 Is Putting Nazis Where They Belong: Jail",
+      "summary": "The recent announcement of Wolfenstein 3 gave us barely anything, but the reveal of \"Nazitraz\" tells us something interesting about the sequel's story.",
+      "url": "https://www.ign.com/articles/it-looks-like-wolfenstein-3-is-putting-nazis-where-they-belong-jail",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T13:30:00+00:00"
+    },
+    {
+      "id": "26a15be6ff7027b66d4a0f1f",
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "summary": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T12:28:28+00:00"
+    },
+    {
+      "id": "24ba8fd1655c6c17cc226404",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-13T12:22:30+00:00"
+    },
     {
       "id": "55382e1b787912295067ffb8",
       "title": "What we know so far about the Microsoft outage",
@@ -13,70 +398,37 @@
       "publishedAt": "2026-11-13T11:43:27+00:00"
     },
     {
-      "id": "ad90ea1ff7ab4eca3c50ac4a",
-      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
-      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "id": "10025716938ba77826bdcc00",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T11:09:16+00:00"
+      "category": "general",
+      "publishedAt": "2026-11-13T11:38:54+00:00"
     },
     {
-      "id": "83a573c702647558cdd06f19",
-      "title": "After Giving Away Thousands of Dollars in Cosmetics, Fortnite is Teasing a Big Reveal For Captain X, Its Mysterious Masked Treasure Man — With Fan Guesses Ranging From Mr Beast to Obama",
-      "summary": "Fortnite is teasing a big reveal for its upcoming December 5 live event, which will reveal the identity of mysterious new character Captain X.",
-      "url": "https://www.ign.com/articles/after-giving-away-thousands-of-dollars-in-cosmetics-fortnite-is-teasing-a-big-reveal-for-captain-x-its-mysterious-masked-treasure-man-with-fan-guesses-ranging-from-mr-beast-to-obama",
+      "id": "3f0648111cf21e629923ef5e",
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T11:06:11+00:00"
-    },
-    {
-      "id": "82f0b70cdba42da45ec4773b",
-      "title": "How the Microsoft outage has been felt worldwide",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T11:05:10+00:00"
-    },
-    {
-      "id": "55df17aaee82f42c9430ce60",
-      "title": "What we know about the global Microsoft outage",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T10:53:40+00:00"
+      "category": "general",
+      "publishedAt": "2026-11-13T11:37:08+00:00"
     },
     {
       "id": "400c879b94aea98abab79666",
       "title": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
-      "summary": "Plusieurs services de Microsoft, comme son outil de messagerie Outlook, Teams ou Copilot, connaissent d’importantes perturbations vendredi, ce qui affecte entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une cyberattaque, peine à rétablir leur fonctionnement.",
+      "summary": "Plusieurs services de Microsoft, comme Outlook, Teams ou Copilot, ont connu d’importantes perturbations jeudi et vendredi, ce qui a affecté entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une cyberattaque, notait des « progrès encourageants » en fin d’après-midi.",
       "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-13T10:42:43+00:00"
-    },
-    {
-      "id": "2228f322083ad130a6694e98",
-      "title": "Microsoft Struggling to Fix Global System Outage Impacting Email Systems and More, Admits Initial Repairs 'Not Taking as Expected'",
-      "summary": "Microsoft is struggling to fix a prolonged systems outage that has hindered access to online services including Outlook and Teams.",
-      "url": "https://www.ign.com/articles/microsoft-struggling-to-fix-global-system-outage-impacting-email-systems-and-more-admits-initial-repairs-not-taking-as-expected",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T10:13:46+00:00"
     },
     {
       "id": "c2f308f768d0ee8a0d8fff99",
@@ -121,6 +473,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-13T07:01:43+00:00"
+    },
+    {
+      "id": "0d67bfa8e9f0813464dee9ea",
+      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
+      "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T06:12:20+00:00"
     },
     {
       "id": "6886d838bb0a981b29181653",
@@ -178,17 +541,6 @@
       "publishedAt": "2026-11-13T03:57:01+00:00"
     },
     {
-      "id": "2447aca68e73c611e24f2d04",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-13T03:02:54+00:00"
-    },
-    {
       "id": "01c048c4ffa432631fc0c3ec",
       "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
       "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
@@ -222,37 +574,15 @@
       "publishedAt": "2026-11-13T02:24:11+00:00"
     },
     {
-      "id": "97f1d6be36df4e6a8f083a65",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "id": "c2b70c3796b4a4b9db840986",
+      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-13T02:01:35+00:00"
-    },
-    {
-      "id": "574d33f31960dcdcc00851d4",
-      "title": "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
-      "summary": "GTA 6's fast-food hamburger chain, Burger Shot, is expanding with new locations across Florida starting this weekend thanks to a collaboration with Skinny Louie.",
-      "url": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T00:44:45+00:00"
-    },
-    {
-      "id": "859d1851123fce2e42b6f55d",
-      "title": "The He Who Fights With Monsters Hardcover Books Are on Sale Before Black Friday",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-he-who-fights-with-monsters-hardcover-book-sale-black-friday-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T00:38:21+00:00"
+      "publishedAt": "2026-11-13T00:35:05+00:00"
     },
     {
       "id": "582797cc5702c6acc5f4d039",
@@ -277,17 +607,6 @@
       "publishedAt": "2026-11-13T00:13:35+00:00"
     },
     {
-      "id": "6a0e9f14d2a186623f90d2e4",
-      "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
-      "summary": "As part of the Xbox's 25th anniversary celebration at Xbox Fanfest in Seattle today, developer MachineGames confirmed what had long been rumored: that Wolfenstein 3 is in development.",
-      "url": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T00:01:13+00:00"
-    },
-    {
       "id": "f48f8ad2a6eeac50c3bd0326",
       "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
       "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
@@ -310,215 +629,6 @@
       "publishedAt": "2026-11-12T23:36:49+00:00"
     },
     {
-      "id": "8ad17e1544aaece627329817",
-      "title": "The Dungeon Crawler Carl Books and Graphic Novels Are on Sale Before Black Friday",
-      "summary": "",
-      "url": "https://www.ign.com/articles/the-dungeon-crawler-carl-books-sale-black-friday-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T23:31:07+00:00"
-    },
-    {
-      "id": "f5c5dd3b684e6ade1adda96d",
-      "title": "A PlayStation 5 Compatible SSD With Heatsink Dropped to Possibly the Lowest Price We'll See for Black Friday",
-      "summary": "Grand Theft Auto 6 alone will eat up over 200GB of your total storage.",
-      "url": "https://www.ign.com/articles/ps5-ssd-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T23:20:00+00:00"
-    },
-    {
-      "id": "bc6abeb239c3ebc9eb829fc4",
-      "title": "Save $200 Off the Latest 2026 MacBook Air With New Apple M5 Processor for Black Friday",
-      "summary": "Biggest price drop of the year.",
-      "url": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T23:00:00+00:00"
-    },
-    {
-      "id": "7a9f3e5e5b3163868ccf38c6",
-      "title": "Skydance Owning Both Warner Bros. and Paramount Could Open the Door to a Future of Crossover Slop",
-      "summary": "Skydance owning the IP of both Warner Bros. and Paramount opens the door to them possibly doing crossover films one day, a future where $300 million glorified fan fic films could be the next big thing.",
-      "url": "https://www.ign.com/articles/skydance-owning-both-warner-bros-and-paramount-could-open-the-door-to-a-future-of-crossover-slop",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T22:51:29+00:00"
-    },
-    {
-      "id": "5e9d1779270a3d0994cc70ee",
-      "title": "Former Nvidia CEO Jensen Huang Reportedly Had Third Affair With Another Employee",
-      "summary": "Former Nvidia CEO Jensen Huang resigned today amid a scandal involving an affair with a suspected Chinese spy and an executive that reported to him. Now, it's been reported that Huang allegedly had an affair with a second employee.",
-      "url": "https://www.ign.com/articles/former-nvidia-ceo-jensen-huang-reportedly-had-third-affair-with-another-employee",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T22:21:24+00:00"
-    },
-    {
-      "id": "988ee91317f55bdc6aa07039",
-      "title": "The 3.96lb Lenovo Yoga 7i 16\" 2-in-1 Convertible Laptop and Tablet Hybrid Drops to $650 for Black Friday",
-      "summary": "The ultimate ultra-portable laptop for students and professionals on the move.",
-      "url": "https://www.ign.com/articles/lenovo-yoga-7-convertible-laptop-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T20:30:00+00:00"
-    },
-    {
-      "id": "fb6fc9af2715661986d81cbe",
-      "title": "Valheim Is Getting a Comic Book Series, and It Looks Badass",
-      "summary": "Valheim is expanding beyond video games once again, this time with an official comic book series featuring an impressive lineup of talent from Marvel, DC, television, and animation.",
-      "url": "https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T20:20:41+00:00"
-    },
-    {
-      "id": "4b3b994a279711b8fec6aab7",
-      "title": "Fable Drops Four Minutes of New Gameplay",
-      "summary": "Four minutes of new Fable gameplay has been released by Xbox, showing off more of the game's combat.",
-      "url": "https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T20:16:03+00:00"
-    },
-    {
-      "id": "ae05c8aa40671676476cc510",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T20:09:16+00:00"
-    },
-    {
-      "id": "5ba7b2878bb0bec7d5b9a9e3",
-      "title": "‘Maybe We’ve Gone a Step Too Far’ — Ocarina of Time Remake Producer Reveals the Game's ReDeads Were Originally Supposed to Be Even Scarier",
-      "summary": "Producer Hidemaro Fujibayashi explained why the development team behind the Ocarina of Time Remake toned down the ReDeads to make them less scary.",
-      "url": "https://www.ign.com/articles/maybe-weve-gone-a-step-too-far-ocarina-of-time-remake-producer-reveals-the-games-redeads-were-originally-supposed-to-be-even-scarier",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T20:02:51+00:00"
-    },
-    {
-      "id": "788d0826b8669a84cdb3650e",
-      "title": "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
-      "summary": "At Xbox's 25th anniversary celebration at its Fan Fest event in Seattle, id Software confirmed that it is working on a new game, wrapping up last year's Doom: The Dark Ages with the release of the upcoming Slaughter Mode on November 16.",
-      "url": "https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T20:00:25+00:00"
-    },
-    {
-      "id": "c476d0a98d88331e946efe58",
-      "title": "As Nvidia CEO Jensen Huang Resigns, the Future of GeForce Hangs in the Balance",
-      "summary": "After 33 years, Jensen Huang has resigned from Nvidia, following a scandal involving a suspected Chinese spy. And while this has all kinds of implications for the economy as a whole, in our own little world of PC gaming, it's looking increasingly unlikely that GeForce is going to get much attention going forward, now that CFO Colette Kress has step",
-      "url": "https://www.ign.com/articles/as-nvidia-ceo-jensen-huang-resigns-the-future-of-geforce-hangs-in-the-balance",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T19:56:47+00:00"
-    },
-    {
-      "id": "61ffb5d138eac1ee8d42fca1",
-      "title": "AI Usage Up, PS6 and Xbox Helix Development Still Low in Newest GDC Dev Survey",
-      "summary": "GDC Festival of Gaming organizers released the data from their 15th annual game developer survey, the State of the Game Industry report. Over 2600 game developers anonymously responded, and the results show increased generative AI usage, not too many developers working on PlayStation 6 or Xbox Project Helix next-gen projects as of yet, an increase ",
-      "url": "https://www.ign.com/articles/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T19:37:48+00:00"
-    },
-    {
-      "id": "403da08fc188b97b70d26d6f",
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
-      "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-      "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T19:33:37+00:00"
-    },
-    {
-      "id": "e2020f1fb7a4f4def62cd070",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T19:23:02+00:00"
-    },
-    {
-      "id": "f9d54d756300086fcce2b8da",
-      "title": "The Game Awards 2026 are Coming to Disney+",
-      "summary": "This year’s Game Awards are coming to Disney+, where it will broadcast in addition to its usual streams on Twitch and YouTube.",
-      "url": "https://www.ign.com/articles/the-game-awards-2026-are-coming-to-disney",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T19:17:53+00:00"
-    },
-    {
-      "id": "e1dff62386b7a1a588dc44f7",
-      "title": "The Massive 77\" LG Evo C5 4K OLED TV Drops to $1,682 With Free Delivery Ahead of Black Friday",
-      "summary": "The best gaming TV.",
-      "url": "https://www.ign.com/articles/lg-evo-c5-4k-oled-tv-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T19:10:00+00:00"
-    },
-    {
-      "id": "1b92797d8978a3a133f3ea66",
-      "title": "Doctor Doom Is Not a Tony Stark Variant in Avengers: Doomsday, Confirms Kevin Feige",
-      "summary": "Kevin Feige has confirmed that Doctor Doom is not a variant of Tony Stark in Avengers: Doomsday.",
-      "url": "https://www.ign.com/articles/doctor-doom-is-not-a-tony-stark-variant-in-avengers-doomsday-confirms-kevin-feige",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-12T19:09:45+00:00"
-    },
-    {
-      "id": "063bd76141e7de46615575de",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-12T18:47:35+00:00"
-    },
-    {
       "id": "5a10b0385c1462be32a718ba",
       "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
@@ -530,20 +640,9 @@
       "publishedAt": "2026-11-12T17:11:48+00:00"
     },
     {
-      "id": "87808b268dff258b62e25e6c",
-      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-12T16:43:36+00:00"
-    },
-    {
       "id": "002c2d4413a91b5bde00b5c8",
       "title": "« GTA, le jeu no limit » sur France 4 : gameurs et pionniers racontent l’histoire de ce phénomène",
-      "summary": "Alors que sort GTA VI le 19 novembre, retour sur ce jeu de gendarmes et de voleurs né en Ecosse il y a trois décennies et qui a, depuis, révolutionné le jeu vidéo, non sans heurts.",
+      "summary": "Alors que sort « GTA VI » le 19 novembre, retour sur ce jeu de gendarmes et de voleurs né en Ecosse il y a trois décennies et qui a, depuis, révolutionné le jeu vidéo, non sans heurts.",
       "url": "https://www.lemonde.fr/culture/article/2026/11/12/gta-le-jeu-no-limit-sur-france-4-gameurs-et-pionniers-racontent-l-histoire-de-ce-phenomene_6809130_3246.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -561,28 +660,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-12T16:25:43+00:00"
-    },
-    {
-      "id": "6d9dd23c5915ee2d25756582",
-      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-12T15:26:39+00:00"
-    },
-    {
-      "id": "debee939c5e5b7c002028802",
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-12T15:10:32+00:00"
     },
     {
       "id": "46de9c5b1c707867888e4789",
@@ -737,28 +814,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-11T09:28:36+00:00"
-    },
-    {
-      "id": "018c8d65b3fc1cce9daca6ae",
-      "title": "Comment Nvidia s’est retrouvée au cœur d’un scandale international, entre espionne chinoise, guerre des puces et indifférence de Donald Trump",
-      "summary": "Le fondateur du géant des microprocesseurs américain a reconnu une liaison avec une entrepreneuse soupçonnée d’avoir travaillé pour Pékin, alors placé sous embargo, en pleine course à l’intelligence artificielle entre les deux pays.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/11/comment-nvidia-s-est-retrouve-au-c-ur-d-un-scandale-international-entre-espionne-chinoise-guerre-des-puces-et-indifference-de-donald-trump_6808922_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-11T04:00:02+00:00"
-    },
-    {
-      "id": "1a1232159825cca388fc118e",
-      "title": "Au Brésil, Meta condamnée à une lourde amende pour une différence de traitement jugée inégale entre Lula et Flavio Bolsonaro durant la présidentielle",
-      "summary": "Au cours de la campagne, l’équipe de Lula avait accusé la maison mère de Facebook, d’Instagram et de WhatsApp de s’être livrée à une « manipulation algorithmique » destinée à avantager son rival de droite.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-11T03:16:28+00:00"
     },
     {
       "id": "8557b2c881d587f868205e12",
