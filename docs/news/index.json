@@ -1,27 +1,115 @@
 {
-  "updatedAt": "2026-11-14T19:37:12.024136+00:00",
+  "updatedAt": "2026-11-14T23:31:22.391620+00:00",
   "items": [
     {
-      "id": "729f4da579bb6fbd679fed52",
-      "title": "What we know about the ground stop and what to do if you're affected",
+      "id": "1d6aca1155c3fc1d1e0053ff",
+      "title": "How telecoms upgrade work sparked US flight chaos",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-14T19:27:03+00:00"
+      "publishedAt": "2026-11-14T23:11:27+00:00"
+    },
+    {
+      "id": "545fee07daa6a80e613cabfa",
+      "title": "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-november-14-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-14T23:01:45+00:00"
+    },
+    {
+      "id": "2bc10cdb5b6bae8e5ca22a8c",
+      "title": "GTA 6 Leak Seemingly Reveals Full Track List Days Before Launch",
+      "summary": "The full track list for Grand Theft Auto VI: The Album seems to have leaked online just days before GTA 6's launch.",
+      "url": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-14T23:00:09+00:00"
     },
     {
       "id": "2f48cc7072e5b8113b05670d",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-14T19:21:10+00:00"
+      "publishedAt": "2026-11-14T22:37:25+00:00"
+    },
+    {
+      "id": "a9a7bd0aa295ee0ff6706e47",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-14T22:09:40+00:00"
+    },
+    {
+      "id": "dae12d23795380622d97a103",
+      "title": "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027",
+      "summary": "At the 2026 League of Legends World Championship Finals, Riot Games officially unveiled League of Legends: New Dawn. The large-scale update is scheduled for 2027 and will bring changes to the game's client, Summoner's Rift, visuals, and gameplay, marking the beginning of a new chapter for one of the industry's most enduring titles.",
+      "url": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-14T22:05:38+00:00"
+    },
+    {
+      "id": "c081a6dc3a010be8651ec002",
+      "title": "Resident Evil Requiem Star Hopes Grace Ashcroft Has 'a Long Way to Go' Even if She Won't 'Ever Be a Leon Character'",
+      "summary": "Grace Ashcroft actress Angela Sant'Albano doesn't think her Resident Evil Requiem hero will \"ever be a Leon character,\" but she's still hoping \"there's a long way to go with her.\"",
+      "url": "https://www.ign.com/articles/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-way-to-go-even-if-she-wont-ever-be-a-leon-character",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-14T21:31:21+00:00"
+    },
+    {
+      "id": "7f4526286be39c565f13ff22",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-14T20:23:06+00:00"
+    },
+    {
+      "id": "38125777e8d7ef50a37442da",
+      "title": "'It Felt Criminal' — Adam Driver Still Can't Believe How Disney Handled Canceled Star Wars Movie The Hunt for Ben Solo",
+      "summary": "Adam Driver still can't believe Disney killed his Star Wars movie, The Hunt for Ben Solo, and has now gone so far as to say that the move \"felt criminal.\"",
+      "url": "https://www.ign.com/articles/it-felt-criminal-adam-driver-still-cant-believe-how-disney-handled-canceled-star-wars-movie-the-hunt-for-ben-solo",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-14T20:09:39+00:00"
+    },
+    {
+      "id": "8253d3b85cab0f5bef2976cf",
+      "title": "Cyberattaque : Maileva, filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
+      "summary": "Le groupe a annoncé avoir déposé plainte après cette cyberattaque qui s’est produite mi-septembre. Une enquête judiciaire est en cours.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/14/cyberattaque-maileva-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_6810545_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-14T20:05:18+00:00"
     },
     {
       "id": "8ddc7a8c9d47602cefd84c24",
@@ -198,17 +286,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-14T15:22:27+00:00"
-    },
-    {
-      "id": "97a0412f1687b52cc77da7ec",
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-14T14:18:41+00:00"
     },
     {
       "id": "198e6baf1fe9cf4da11cdc76",
@@ -409,17 +486,6 @@
       "publishedAt": "2026-11-13T23:48:37+00:00"
     },
     {
-      "id": "7f4526286be39c565f13ff22",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-13T23:40:45+00:00"
-    },
-    {
       "id": "4e7a9813d0ad76236f224573",
       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
       "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
@@ -497,17 +563,6 @@
       "publishedAt": "2026-11-13T21:45:00+00:00"
     },
     {
-      "id": "479fecde6929745b212d3e02",
-      "title": "Magic: The Gathering’s Star Trek Commander Precons Ranked: Why We Are the Borg Takes the Top Spot",
-      "summary": "We ranked all four Magic: The Gathering Star Trek Commander precons—from Picard’s Federation Fleet to We Are the Borg—by gameplay, value, and key reprints.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-star-trek-commander-decks-ranked",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T21:30:00+00:00"
-    },
-    {
       "id": "0ef9125f331780c57ae6fe18",
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
       "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
@@ -528,50 +583,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-13T20:58:04+00:00"
-    },
-    {
-      "id": "036805898782fcb762b48ee4",
-      "title": "LEGO Shrek, Donkey, and Puss in Boots Gets Its First Discount for Black Friday",
-      "summary": "",
-      "url": "https://www.ign.com/articles/lego-shrek-donkey-and-puss-in-boots-gets-its-first-discount-for-black-friday",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T20:57:06+00:00"
-    },
-    {
-      "id": "f58c6cf9f9fa2acb73f3d132",
-      "title": "Save Over 50% Off the Logitech G29 Racing Wheel, Pedals, and Driving Shifter Bundle for PS5 and PC",
-      "summary": "Elevate your Gran Turismo experience.",
-      "url": "https://www.ign.com/articles/logitech-g29-racing-wheel-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T20:55:00+00:00"
-    },
-    {
-      "id": "bc6abeb239c3ebc9eb829fc4",
-      "title": "Save $200 Off the Latest 2026 MacBook Air With New Apple M5 Processor for Black Friday",
-      "summary": "Biggest price drop of the year.",
-      "url": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T20:50:00+00:00"
-    },
-    {
-      "id": "94ab81a8ba46b17d01fbad96",
-      "title": "12 12 12 Review",
-      "summary": "Apple TV’s new heist series 12 12 12 is predicated on a timeline-hopping gimmick that only works as an elevator pitch.",
-      "url": "https://www.ign.com/articles/12-12-12-review-apple-tv-anthony-mackie-jamie-dornan",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T20:44:59+00:00"
     },
     {
       "id": "1b841f396724ca4de9521fc2",
@@ -792,17 +803,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-12T23:36:49+00:00"
-    },
-    {
-      "id": "002c2d4413a91b5bde00b5c8",
-      "title": "« GTA, le jeu no limit » sur France 4 : gameurs et pionniers racontent l’histoire de ce phénomène",
-      "summary": "Alors que sort « GTA VI » le 19 novembre, retour sur ce jeu de gendarmes et de voleurs né en Ecosse il y a trois décennies et qui a, depuis, révolutionné le jeu vidéo, non sans heurts.",
-      "url": "https://www.lemonde.fr/culture/article/2026/11/12/gta-le-jeu-no-limit-sur-france-4-gameurs-et-pionniers-racontent-l-histoire-de-ce-phenomene_6809130_3246.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-12T16:30:01+00:00"
     },
     {
       "id": "8d95de05a33ead3860f55c81",
