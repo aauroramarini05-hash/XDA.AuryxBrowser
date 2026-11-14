@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-11-14T00:10:47.374352+00:00",
+  "updatedAt": "2026-11-14T07:13:01.179979+00:00",
   "items": [
+    {
+      "id": "e9a27cecf39f1e313729e2ce",
+      "title": "Microsoft says services fully restored after for day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-14T06:42:27+00:00"
+    },
+    {
+      "id": "4921e99851e850ca11ac805f",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-14T05:52:31+00:00"
+    },
+    {
+      "id": "cecd61a58746d3fc19139a11",
+      "title": "Aux Etats-Unis, l’affaire Nvidia tourne à la crise politique pour Donald Trump",
+      "summary": "Selon le « New York Times », le président américain aurait été mis au courant, dès le mois de mai, des risques liés à la relation entre Jensen Huang, patron du géant des semi-conducteurs, et une entrepreneuse chinoise soupçonnée d’espionnage. Il est directement mis en cause pour son inaction.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-14T05:00:42+00:00"
+    },
+    {
+      "id": "4ed28a7f17de01958c1a71f3",
+      "title": "Ce que l’on sait des cyberattaques contre des réfrigérateurs de supermarchés",
+      "summary": "Ces dernières semaines, des centaines de réfrigérateurs de supermarchés en France et en Europe ont été piratés. Les hackers sont parvenus à prendre le contrôle des logiciels de gestion à distance des appareils.",
+      "url": "https://www.lemonde.fr/videos/video/2026/11/14/ce-que-l-on-sait-des-cyberattaques-contre-des-refrigerateurs-de-supermarches_6809687_1669088.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-14T05:00:15+00:00"
+    },
+    {
+      "id": "42233f5de4029b161bc1811f",
+      "title": "What we know about the longest ground stop since 9/11",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-14T03:45:21+00:00"
+    },
+    {
+      "id": "ebcc336716d33ad0acb543e2",
+      "title": "James Gunn Shuts Down Rumors That Skydance Is Meddling With Man of Tomorrow",
+      "summary": "James Gunn has shut down rumors that the new DC overseers at Skydance have meddled with his cut of Man of Tomorrow following his shocking DC Studios exit.",
+      "url": "https://www.ign.com/articles/james-gunn-shuts-down-rumors-that-skydance-is-meddling-with-man-of-tomorrow",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-14T02:36:04+00:00"
+    },
+    {
+      "id": "86e674ae49b2911dd3c55d98",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-14T01:47:36+00:00"
+    },
+    {
+      "id": "580af7a04e1d0087ac032ed4",
+      "title": "Sunrise on the Reaping Is Getting Multiple Black Friday Deals Before Its Theatrical Release",
+      "summary": "",
+      "url": "https://www.ign.com/articles/sunrise-on-the-reaping-book-and-audiobook-black-friday-deal-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-14T01:15:00+00:00"
+    },
+    {
+      "id": "e7809e5287f54a38f1594c18",
+      "title": "Tech Now",
+      "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-14T01:00:00+00:00"
+    },
+    {
+      "id": "e89450fe4e92904c9a0d2b3f",
+      "title": "After Another Year of Price Hikes, What Streaming Deals Will We Get for Black Friday 2026?",
+      "summary": "",
+      "url": "https://www.ign.com/articles/black-friday-streaming-deal-predictions-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-14T01:00:00+00:00"
+    },
+    {
+      "id": "b073c4ed4584002ccec99af4",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "summary": "The next title in the series is expected to be the biggest video game release ever.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-14T00:37:01+00:00"
+    },
+    {
+      "id": "65dff4cce8cdd830b7b09f2f",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-14T00:03:56+00:00"
+    },
     {
       "id": "8244ffe8a310692ce5d4a241",
       "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
@@ -22,6 +154,50 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-14T00:01:01+00:00"
+    },
+    {
+      "id": "049852a904d737a0071191e9",
+      "title": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are in Talks for AAA Video Game Adaptation",
+      "summary": "Andrew Kosove and Broderick Johnson, executive producers for Blade Runner 2099 and co-CEOs of Alcon Entertainment, have confirmed that they are in discussions to create a AAA video game based on the iconic cyberpunk franchise.",
+      "url": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T23:49:32+00:00"
+    },
+    {
+      "id": "7d0cd5d8b31c74165bd2bf39",
+      "title": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
+      "summary": "Sony has confirmed Marvel's Spider-Man 2, Arc Raiders, and four more games are receiving QSSR support on base PS5s.",
+      "url": "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-13T23:48:37+00:00"
+    },
+    {
+      "id": "7f4526286be39c565f13ff22",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T23:40:45+00:00"
+    },
+    {
+      "id": "4e7a9813d0ad76236f224573",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-13T23:11:51+00:00"
     },
     {
       "id": "45130bd71ac9f2a1ad5df2c3",
@@ -123,20 +299,9 @@
       "publishedAt": "2026-11-13T21:15:24+00:00"
     },
     {
-      "id": "936937d19950970fd3e25bef",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T21:14:22+00:00"
-    },
-    {
       "id": "ab211fd0e6e0acc423eab393",
       "title": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
-      "summary": "Réunis à Dublin, les Vingt-Sept se sont penchés sur les défis de l’intelligence artificielle, entre ambitions de souveraineté, régulation, et exigences budgétaires.",
+      "summary": "Réunis à Dublin, les Vingt-Sept se sont penchés sur les défis de l’intelligence artificielle, entre ambitions de souveraineté, régulation et exigences budgétaires.",
       "url": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -244,28 +409,6 @@
       "publishedAt": "2026-11-13T20:09:08+00:00"
     },
     {
-      "id": "fb0b4faefa22b55edff9c609",
-      "title": "The Game Awards 2026 Will Stream Live on Roblox for the First Time, Complete With Voting and Virtual Merch",
-      "summary": "The Game Awards is coming to Roblox for the first time this December, complete with live voting, virtual merchandise, and the opportunity to experience the whole thing alongside other players.",
-      "url": "https://www.ign.com/articles/the-game-awards-2026-will-stream-live-on-roblox-for-the-first-time-complete-with-voting-and-virtual-merch",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T20:07:50+00:00"
-    },
-    {
-      "id": "a59495a9bfa100dc812466fe",
-      "title": "The Tiny SanDisk 1TB Portable SSD With Speeds of up to 600MB/s Drops to $120 for Black Friday",
-      "summary": "A solid price for brand name, high-speed portable SSD storage in today's market.",
-      "url": "https://www.ign.com/articles/sandisk-portable-ssd-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T20:05:00+00:00"
-    },
-    {
       "id": "1b841f396724ca4de9521fc2",
       "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
       "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
@@ -275,39 +418,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-13T19:53:57+00:00"
-    },
-    {
-      "id": "03e5043d048d07daea7b9324",
-      "title": "Darth Vader's Actual Lightsaber Just Sold for $4.875 Million, Breaking Star Wars Auction Records",
-      "summary": "A Star Wars auction has just broken records, as Darth Vader's prop lightsaber from the original trilogy sells for almost $5 million.",
-      "url": "https://www.ign.com/articles/darth-vaders-actual-lightsaber-just-sold-for-4875-million-breaking-star-wars-auction-records",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T19:41:20+00:00"
-    },
-    {
-      "id": "0299384214cc6a3685debf1b",
-      "title": "The Magic: The Gathering Animated Series, Planeswalker, Is Finally Coming to Netflix in 2027",
-      "summary": "Wizards of the Coast and Netflix have revealed their long-in-development Magic: The Gathering series is called Planeswalker, and it's coming sometime in 2027.",
-      "url": "https://www.ign.com/articles/the-magic-the-gathering-show-planeswalker-is-finally-coming-to-netflix-in-2027",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T19:28:43+00:00"
-    },
-    {
-      "id": "a1adbda6dcf413bdebbfc0e3",
-      "title": "Magic: The Gathering’s Nauctis: The Sunken Realm Preorders Are Now Live at Amazon",
-      "summary": "Preorders for Magic: The Gathering’s Nauctis: The Sunken Realm are now live at Amazon.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-nauctis-sunken-realm-where-to-buy",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T19:24:51+00:00"
     },
     {
       "id": "6949ad7efbacc14acdd8c45b",
@@ -497,17 +607,6 @@
       "publishedAt": "2026-11-13T09:29:25+00:00"
     },
     {
-      "id": "3719286cb7669d187ea566f9",
-      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-      "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-13T08:20:28+00:00"
-    },
-    {
       "id": "af5e050d74170e162fb0437f",
       "title": "What happened overnight with the Microsoft global outage?",
       "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
@@ -585,17 +684,6 @@
       "publishedAt": "2026-11-13T03:57:01+00:00"
     },
     {
-      "id": "de801515bd3ca204c1dce07c",
-      "title": "Global Microsoft outage affecting tens of thousands of users",
-      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T02:38:02+00:00"
-    },
-    {
       "id": "4914a853212c5a3fbdc3e242",
       "title": "Will the Eurovision Song Contest succeed in Asia?",
       "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
@@ -605,17 +693,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-13T02:24:11+00:00"
-    },
-    {
-      "id": "c2b70c3796b4a4b9db840986",
-      "title": "Why midterm vote-counting is taking so long in America's largest state",
-      "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-13T00:35:05+00:00"
     },
     {
       "id": "f48f8ad2a6eeac50c3bd0326",
@@ -739,17 +816,6 @@
       "publishedAt": "2026-11-11T23:30:03+00:00"
     },
     {
-      "id": "3dc3f6e4133a5b66082849c1",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-11T21:43:35+00:00"
-    },
-    {
       "id": "0c51b571d22a5335ae6f1d1b",
       "title": "Yuki Kodama, autrice du manga « Kids on the Slope », aime « faire en sorte que les personnages opposés s’attirent et se rapprochent »",
       "summary": "Le troisième volet du chef-d’œuvre créé au milieu des années 2000 vient d’être réédité en France.",
@@ -759,28 +825,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-11T18:30:08+00:00"
-    },
-    {
-      "id": "d41419dfaee1948beed6de69",
-      "title": "En Espagne, une enquête ouverte contre TikTok pour diffusion présumée de contenus pédocriminels",
-      "summary": "L’association Maldita.es affirme avoir recensé sur la plateforme plus de 1 000 vidéos d’agressions sexuelles contre des enfants, totalisant 48 millions de vues, dont seule une petite partie aurait été retirée après signalement.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/11/en-espagne-une-enquete-ouverte-contre-tiktok-pour-diffusion-presumee-de-contenus-pedocriminels_6809000_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-11T16:29:32+00:00"
-    },
-    {
-      "id": "7aa4b138af5f5d6de51574a2",
-      "title": "Influenceurs, « interfaces trompeuses », jeux vidéo : l’UE veut mieux protéger les consommateurs en ligne",
-      "summary": "Le projet de « loi sur l’équité numérique », présenté par la Commission européenne, prévoit des amendes allant jusqu’à 6 % du chiffre d’affaires mondial des contrevenants.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/11/influenceurs-interfaces-trompeuses-jeux-video-l-ue-veut-mieux-proteger-les-consommateurs-en-ligne_6808994_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-11T15:39:21+00:00"
     },
     {
       "id": "8557b2c881d587f868205e12",
@@ -858,17 +902,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-09-26T01:00:13+00:00"
-    },
-    {
-      "id": "0867642fac582103c899000d",
-      "title": "Tech Now",
-      "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-09-19T01:00:00+00:00"
     },
     {
       "id": "9ce8f889ca2dfc9a57b9eca4",
