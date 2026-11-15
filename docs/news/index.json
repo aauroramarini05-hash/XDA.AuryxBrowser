@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-11-15T11:42:39.889190+00:00",
+  "updatedAt": "2026-11-15T18:15:14.160025+00:00",
   "items": [
+    {
+      "id": "6a9e56db710821c4851d78ce",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-15T18:08:20+00:00"
+    },
+    {
+      "id": "ccabc2c50e102f8d0a323171",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-15T17:23:40+00:00"
+    },
+    {
+      "id": "b61cb7f637c44419b74a8d1d",
+      "title": "Cyberattaque contre Maileva, filiale du groupe La Poste : une enquête ouverte et confiée à la Brigade de lutte contre la cybercriminalité",
+      "summary": "Les investigations ont été ouvertes pour « atteinte à un système de traitement automatisé de données » par la section cybercriminalité du parquet parisien et confiées à la BL2C, service d’enquête spécialisé. Cette cyberattaque a conduit au vol des coordonnées de 22 millions de personnes, selon La Poste.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/15/cyberattaque-contre-maileva-filiale-du-groupe-la-poste-une-enquete-ouverte-et-confiee-a-la-brigade-de-lutte-contre-la-cybercriminalite_6811036_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-15T16:40:29+00:00"
+    },
+    {
+      "id": "3206e53cc7e66027f55b8d31",
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-15T15:57:03+00:00"
+    },
+    {
+      "id": "723ff64389c7f92cfb6bd657",
+      "title": "Xbox at 25: My Memories From Across Xbox’s Entire (and Quite Incredible) History",
+      "summary": "I’ve been lucky enough to have a front-row seat for most of the Xbox’s 25 years, covering the high highs and low lows of Microsoft’s pivot into the living room. It’s been quite a ride since November 15, 2001, and I wanted to mark the occasion by sharing some of my biggest memories with you. And, like everything else with Xbox, it started with Halo.",
+      "url": "https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-15T15:15:00+00:00"
+    },
+    {
+      "id": "1d6aca1155c3fc1d1e0053ff",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-15T14:57:15+00:00"
+    },
+    {
+      "id": "b55101d7c004e7c276d7d14f",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-15T14:56:21+00:00"
+    },
+    {
+      "id": "57e6ed29f7771c3464d6c76a",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-15T14:33:59+00:00"
+    },
+    {
+      "id": "e78de012a164d906f2582db1",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-15T13:42:58+00:00"
+    },
+    {
+      "id": "82bb6ca2e6bbd32f5f2dbc95",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-15T13:37:45+00:00"
+    },
+    {
+      "id": "0b52074e766f0afef039f8f2",
+      "title": "« GTA Online » : à quelques jours de la sortie de « GTA VI », les joueurs du mode en ligne se préparent à « la dernière danse »",
+      "summary": "« Grand Theft Auto V » s’est imposé comme l’un des jeux les plus vendus de l’histoire grâce à son mode multijoueur en ligne, dont la popularité ne va pas immédiatement s’évanouir : la fonctionnalité sera absente de « GTA VI » à sa sortie, jeudi 19 novembre.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/15/a-quelques-jours-de-la-sortie-de-gta-vi-les-joueurs-de-gta-online-entre-nostalgie-et-excitation-chaque-moment-passe-en-jeu-est-peut-etre-le-dernier_6811016_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-15T12:54:55+00:00"
+    },
     {
       "id": "3474fad7f325eb7329f3e1c9",
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
@@ -79,26 +200,15 @@
       "publishedAt": "2026-11-15T05:15:06+00:00"
     },
     {
-      "id": "dbd43cdd4326b6a5768ebe5c",
-      "title": "Sur les traces de « ChatNoir » et « Casquette », le duo d’adolescents soupçonnés d’avoir piraté le site des impôts",
-      "summary": "Ces deux jeunes Français de 18 et 16 ans sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV.",
+      "id": "49139e26b6b281a4a1f771ff",
+      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
+      "summary": "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV.",
       "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-15T05:15:04+00:00"
-    },
-    {
-      "id": "fed940c0967708c9cd5d4086",
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-15T03:21:04+00:00"
     },
     {
       "id": "9759768c7db1f59897276853",
@@ -134,17 +244,6 @@
       "publishedAt": "2026-11-15T00:06:51+00:00"
     },
     {
-      "id": "1d6aca1155c3fc1d1e0053ff",
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-14T23:11:27+00:00"
-    },
-    {
       "id": "545fee07daa6a80e613cabfa",
       "title": "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More",
       "summary": "",
@@ -165,28 +264,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-11-14T23:00:09+00:00"
-    },
-    {
-      "id": "2f48cc7072e5b8113b05670d",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-14T22:37:25+00:00"
-    },
-    {
-      "id": "57e6ed29f7771c3464d6c76a",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-14T22:27:06+00:00"
     },
     {
       "id": "a9a7bd0aa295ee0ff6706e47",
@@ -235,7 +312,7 @@
     {
       "id": "8253d3b85cab0f5bef2976cf",
       "title": "Cyberattaque : Maileva, filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
-      "summary": "Le groupe a annoncé avoir déposé plainte après cette cyberattaque qui s’est produite mi-septembre. Une enquête judiciaire est en cours.",
+      "summary": "Le groupe a annoncé avoir déposé plainte après cette cyberattaque qui s’est produite à la mi-septembre. Une enquête judiciaire est en cours.",
       "url": "https://www.lemonde.fr/pixels/article/2026/11/14/cyberattaque-maileva-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_6810545_4408996.html",
       "imageUrl": null,
       "source": "Le Monde Pixels",
@@ -651,17 +728,6 @@
       "publishedAt": "2026-11-13T22:10:22+00:00"
     },
     {
-      "id": "21bf3e2796c10742cffa1020",
-      "title": "Save $500 Off the 42\" LG C6 4K OLED TV for Black Friday, Doubles as a Gaming Monitor, Plus Get an Xbox Controller",
-      "summary": "LG calls this \"guaranteed Black Friday pricing\".",
-      "url": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-pc-monitor-deal-free-xbox-controller-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T21:45:00+00:00"
-    },
-    {
       "id": "0ef9125f331780c57ae6fe18",
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
       "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
@@ -781,50 +847,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-13T11:43:27+00:00"
-    },
-    {
-      "id": "400c879b94aea98abab79666",
-      "title": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
-      "summary": "Plusieurs services de Microsoft, comme Outlook, Teams ou Copilot, ont connu d’importantes perturbations jeudi et vendredi, ce qui a affecté entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une cyberattaque, notait des « progrès encourageants » en fin d’après-midi.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-13T10:42:43+00:00"
-    },
-    {
-      "id": "c2f308f768d0ee8a0d8fff99",
-      "title": "Heat pumps: How much heat does your home really need?",
-      "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T09:29:25+00:00"
-    },
-    {
-      "id": "af5e050d74170e162fb0437f",
-      "title": "What happened overnight with the Microsoft global outage?",
-      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T07:18:17+00:00"
-    },
-    {
-      "id": "6886d838bb0a981b29181653",
-      "title": "Avec le mouvement lycéen, « le monde numérique a permis de nouvelles formes de réel »",
-      "summary": "En conjuguant à la fois viralité sur les médias sociaux et mobilisation « low-tech », les mouvements lycéens et étudiants ont mis le numérique au cœur de leurs revendications, décrypte Olivier Ertzscheid, maître de conférences en sciences de l’information et de la communication.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/13/avec-le-mouvement-lyceen-le-monde-numerique-a-permis-de-nouvelles-formes-de-reel_6809282_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-13T05:00:40+00:00"
     },
     {
       "id": "8557b2c881d587f868205e12",
