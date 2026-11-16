@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-11-15T23:16:22.443152+00:00",
+  "updatedAt": "2026-11-16T03:56:30.358885+00:00",
   "items": [
+    {
+      "id": "e4875ae6aa43f8b9f6f39f7f",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-16T03:21:56+00:00"
+    },
+    {
+      "id": "1d76c1f4e27ff6c751817699",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-16T03:09:49+00:00"
+    },
+    {
+      "id": "6ef0c2c60897d54ff1ae6bf3",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-16T03:08:31+00:00"
+    },
+    {
+      "id": "9f7fae456ab4566c38f4be35",
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-16T03:04:01+00:00"
+    },
+    {
+      "id": "b55101d7c004e7c276d7d14f",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-16T01:47:57+00:00"
+    },
+    {
+      "id": "a420924afeee396567205362",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-16T00:13:14+00:00"
+    },
+    {
+      "id": "ef8bf542e9910b16a964b692",
+      "title": "Jensen Huang Reportedly Weighing Return as Nvidia CEO With Allies",
+      "summary": "Jensen Huang has reportedly had discussions with his allies about a potential return as Nvidia's CEO just days after reports of affairs with an alleged Chinese spy and multiple employees led to his resignation.",
+      "url": "https://www.ign.com/articles/jensen-huang-reportedly-weighing-return-as-nvidia-ceo-with-allies",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-15T23:53:35+00:00"
+    },
+    {
+      "id": "a6231fa76db820f4782ad661",
+      "title": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
+      "summary": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face aux allégations de relations extraconjugales qui ont provoqué sa chute.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-15T23:22:46+00:00"
+    },
+    {
+      "id": "46a543b5348ad2d6a5f86cad",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-15T22:57:27+00:00"
+    },
     {
       "id": "5f3191aedbd42055ed291013",
       "title": "Police ban protests near 10 schools and five universities in Paris",
@@ -13,15 +112,37 @@
       "publishedAt": "2026-11-15T22:28:54+00:00"
     },
     {
-      "id": "b55101d7c004e7c276d7d14f",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "id": "30f240bfe6b0b6de337a3afe",
+      "title": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'",
+      "summary": "Xbox has confirmed Project Helix is \"designed to be a console capable of playing games from your PC.\"",
+      "url": "https://www.ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-15T22:18:57+00:00"
+    },
+    {
+      "id": "9ead21e28c775482a99ec4b8",
+      "title": "Canada bars Russia from Junior World Championships",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-15T22:24:20+00:00"
+      "category": "general",
+      "publishedAt": "2026-11-15T22:01:16+00:00"
+    },
+    {
+      "id": "b5fb5e3d2fe085f9c185af18",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-15T22:00:13+00:00"
     },
     {
       "id": "fb7f76def3ebf44483787477",
@@ -79,28 +200,6 @@
       "publishedAt": "2026-11-15T19:32:39+00:00"
     },
     {
-      "id": "44bafe38e491c1e8e7be33f1",
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-15T19:31:48+00:00"
-    },
-    {
-      "id": "419d5cd6a6b64fdae2e7bcac",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-15T19:20:53+00:00"
-    },
-    {
       "id": "ff703e4c2a942252bd27cee8",
       "title": "Pope Leo rides in helicopter cockpit during Peru trip",
       "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
@@ -134,28 +233,6 @@
       "publishedAt": "2026-11-15T16:40:29+00:00"
     },
     {
-      "id": "7a91b89c8f29e74f060ba97f",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-15T16:15:20+00:00"
-    },
-    {
-      "id": "3206e53cc7e66027f55b8d31",
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-15T15:57:03+00:00"
-    },
-    {
       "id": "723ff64389c7f92cfb6bd657",
       "title": "Xbox at 25: My Memories From Across Xbox’s Entire (and Quite Incredible) History",
       "summary": "I’ve been lucky enough to have a front-row seat for most of the Xbox’s 25 years, covering the high highs and low lows of Microsoft’s pivot into the living room. It’s been quite a ride since November 15, 2001, and I wanted to mark the occasion by sharing some of my biggest memories with you. And, like everything else with Xbox, it started with Halo.",
@@ -178,17 +255,6 @@
       "publishedAt": "2026-11-15T14:57:15+00:00"
     },
     {
-      "id": "e78de012a164d906f2582db1",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-15T13:42:58+00:00"
-    },
-    {
       "id": "82bb6ca2e6bbd32f5f2dbc95",
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
@@ -209,17 +275,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-15T12:54:55+00:00"
-    },
-    {
-      "id": "3474fad7f325eb7329f3e1c9",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-15T11:06:32+00:00"
     },
     {
       "id": "b2827e964b0b7363174519af",
@@ -629,39 +684,6 @@
       "publishedAt": "2026-11-14T00:03:56+00:00"
     },
     {
-      "id": "049852a904d737a0071191e9",
-      "title": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are in Talks for AAA Video Game Adaptation",
-      "summary": "Andrew Kosove and Broderick Johnson, executive producers for Blade Runner 2099 and co-CEOs of Alcon Entertainment, have confirmed that they are in discussions to create a AAA video game based on the iconic cyberpunk franchise.",
-      "url": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T23:49:32+00:00"
-    },
-    {
-      "id": "7d0cd5d8b31c74165bd2bf39",
-      "title": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
-      "summary": "Sony has confirmed Marvel's Spider-Man 2, Arc Raiders, and four more games are receiving QSSR support on base PS5s.",
-      "url": "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-13T23:48:37+00:00"
-    },
-    {
-      "id": "4e7a9813d0ad76236f224573",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-13T23:11:51+00:00"
-    },
-    {
       "id": "f1778ed2595bdd9b04842a99",
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
@@ -739,17 +761,6 @@
       "publishedAt": "2026-11-13T17:34:58+00:00"
     },
     {
-      "id": "a751ebb5b451f2927e83eabd",
-      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
-      "summary": "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-13T15:28:23+00:00"
-    },
-    {
       "id": "8ff14f4a5e1f76c8afb24ea0",
       "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
       "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
@@ -781,17 +792,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-13T12:22:30+00:00"
-    },
-    {
-      "id": "55382e1b787912295067ffb8",
-      "title": "What we know so far about the Microsoft outage",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-13T11:43:27+00:00"
     },
     {
       "id": "8557b2c881d587f868205e12",
