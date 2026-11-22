@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:21:11.088111+00:00",
+  "updatedAt": "2026-11-22T01:48:54.973004+00:00",
   "items": [
     {
       "id": "e4df7e5ffd8603ea799eaafe",
@@ -10,7 +10,51 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-21T21:05:29+00:00"
+      "publishedAt": "2026-11-22T01:25:03+00:00"
+    },
+    {
+      "id": "0509e063db76d79edac47f6d",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-22T00:10:44+00:00"
+    },
+    {
+      "id": "fdbb83af0c2598ed5c3dcd19",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-22T00:10:37+00:00"
+    },
+    {
+      "id": "231367e0c13574e09cdb20e5",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-22T00:09:58+00:00"
+    },
+    {
+      "id": "c17632a630d5beb519a50f3c",
+      "title": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
+      "summary": "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creator, Edmund McMillen.",
+      "url": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-21T23:42:05+00:00"
     },
     {
       "id": "390d0ec58e6fa9e73a910bf9",
@@ -21,7 +65,62 @@
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-21T19:33:49+00:00"
+      "publishedAt": "2026-11-21T22:19:43+00:00"
+    },
+    {
+      "id": "94ac250aa9611d866194664c",
+      "title": "The Ecovacs Deebot T90 Pro Omni Robot Vacuum Delivers Incredible 30,000Pa Suction and More High-End Features for $549 During Black Friday",
+      "summary": "Give the gift of clean floors with this innovative robot vacuum.",
+      "url": "https://www.ign.com/articles/the-ecovacs-deebot-t90-pro-omni-robot-vacuum-delivers-incredible-30000pa-suction-and-more-high-end-features-for-549-during-black-friday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-21T22:05:00+00:00"
+    },
+    {
+      "id": "8f34804b7f581699636a5e9c",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-21T22:01:19+00:00"
+    },
+    {
+      "id": "a0971d614d0b42f1e7f29dde",
+      "title": "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
+      "summary": "",
+      "url": "https://www.ign.com/articles/best-deals-for-november-21-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-21T21:38:09+00:00"
+    },
+    {
+      "id": "f008905b8807e0494a9233d5",
+      "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
+      "summary": "GTA 6 players on PlayStation 5 have reported frequent crashes tied to error code CE-108255-1, and it looks like it's blocking them from progressing through the story while they wait for Sony and Rockstar to send out a fix.",
+      "url": "https://www.ign.com/articles/gta-6-players-report-crashes-on-ps5-with-error-ce-108255-1",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-21T21:36:26+00:00"
+    },
+    {
+      "id": "8ed3e6347cd78f75372409fc",
+      "title": "Avengers: Doomsday Star Hayley Atwell Teases New Trailer for Monday",
+      "summary": "Avengers: Doomsday star and Captain Carter actor Hayley Atwell appears to have let it slip that a new Avengers: Doomsday trailer is set to premiere Monday.",
+      "url": "https://www.ign.com/articles/avengers-doomsday-star-hayley-atwell-teases-new-trailer-for-monday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-21T20:29:10+00:00"
     },
     {
       "id": "487c934d5c2cb24770e483da",
@@ -66,17 +165,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-11-21T17:05:23+00:00"
-    },
-    {
-      "id": "0509e063db76d79edac47f6d",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-21T16:35:15+00:00"
     },
     {
       "id": "53bf5e082e70a0fab1ec5582",
@@ -365,17 +453,6 @@
       "publishedAt": "2026-11-20T23:30:15+00:00"
     },
     {
-      "id": "233409b272471975e020613b",
-      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-      "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-20T23:28:17+00:00"
-    },
-    {
       "id": "342b75120fdf6794a2a3d5ef",
       "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
       "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
@@ -451,72 +528,6 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-11-20T22:29:26+00:00"
-    },
-    {
-      "id": "ddc5f44e6418f06824d1c103",
-      "title": "Eureka Ergonomic Has Black Friday Deals to Give Your Space the Upgrade It Needs",
-      "summary": "Professional office or gamer vibes? The choice is yours.",
-      "url": "https://www.ign.com/articles/eureka-ergonomic-has-black-friday-deals-to-give-your-space-the-upgrade-it-needs",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-20T22:20:00+00:00"
-    },
-    {
-      "id": "b3f15d04118d0475c4c84b50",
-      "title": "Save 33% Off the Shokz OpenRun Pro 2 Sport Headphone With Bone Conduction Tech for Black Friday",
-      "summary": "The best headphones for runners.",
-      "url": "https://www.ign.com/articles/shokz-openrun-pro-2-sport-headphone-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-20T22:20:00+00:00"
-    },
-    {
-      "id": "008ab8391059775021998ebd",
-      "title": "GTA 6 Players React After Exclusive Shops Greet Non-Ultimate Edition Buyers With Locked Doors",
-      "summary": "GTA 6 players are being locked out of in-game stores because they don't own the Ultimate Edition, and they've got some thoughts about how Rockstar handled it.",
-      "url": "https://www.ign.com/articles/gta-6-players-react-after-exclusive-shops-greet-non-ultimate-edition-buyers-with-locked-doors",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-20T22:19:52+00:00"
-    },
-    {
-      "id": "9f1908c6482f5c9a2e0231ec",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-20T22:14:17+00:00"
-    },
-    {
-      "id": "13aac0370737f9dcd71934b1",
-      "title": "Fallout-Themed AriZona Iced Tea Gets Black Friday Discount, Including New 'Apocalyptic Orange' Flavor",
-      "summary": "",
-      "url": "https://www.ign.com/articles/fallout-themed-arizona-iced-tea-gets-black-friday-discount-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-20T22:08:55+00:00"
-    },
-    {
-      "id": "361e19acde3fec3d72d136fe",
-      "title": "Jensen Huang Allegedly Threatened Nvidia Workers and Told Employee He Would Rip Off the Top of Their Head and 'Pee on Your Brain'",
-      "summary": "Former Nvidia CEO Jensen Huang allegedly threatened employees with violence and \"humiliated\" them for decades.",
-      "url": "https://www.ign.com/articles/jensen-huang-verbal-abuse-allegations",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-20T22:06:55+00:00"
     },
     {
       "id": "67affac1454d444b4bc4f546",
