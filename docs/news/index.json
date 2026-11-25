@@ -1,16 +1,269 @@
 {
-  "updatedAt": "2026-11-25T04:42:26.223639+00:00",
+  "updatedAt": "2026-11-25T15:10:47.971088+00:00",
   "items": [
     {
-      "id": "6473e38d7622baa7e5ac0012",
-      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "id": "aacd3799c7a1f737f381fac7",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T14:46:41+00:00"
+    },
+    {
+      "id": "c7b82e332c80ff6dc17208a5",
+      "title": "Hershey Chocolate Bars Drop Back Down to Their Original Price of 5 Cents for Today Only",
+      "summary": "",
+      "url": "https://www.ign.com/articles/chocolate-bars-are-just-5-cents-for-the-release-of-the-hershey-movie",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T14:01:00+00:00"
+    },
+    {
+      "id": "ba54e0777aeb511b31bef59a",
+      "title": "Blade Runner 2099 Ending Explained and Biggest Burning Questions",
+      "summary": "Blade Runner 2099 ending explained and burning questions: We break down the details on the latest addition to the future noir sci-fi franchise.",
+      "url": "https://www.ign.com/articles/blade-runner-2099-ending-explained-biggest-burning-questions",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T14:00:00+00:00"
+    },
+    {
+      "id": "0d3270429c61d16ad2c3f2ba",
+      "title": "« Dans la finance, l’IA oblige chacun à être meilleur dans son cœur de métier »",
+      "summary": "La révolution de l’intelligence artificielle en cours est comparable, par son ampleur, à la révolution industrielle. Mais ses effets sur l’emploi et sur la croissance seront plus lents et moins brutaux qu’annoncé, juge, dans un entretien au « Monde », Christopher Dembik, conseiller en stratégie d’investissement.",
+      "url": "https://www.lemonde.fr/argent/article/2026/11/25/dans-la-finance-l-intelligence-artificielle-oblige-chacun-a-etre-meilleur-dans-son-c-ur-de-metier_6815096_1657007.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-25T13:00:09+00:00"
+    },
+    {
+      "id": "77d6e2471be7f64a33212636",
+      "title": "Tangles Review",
+      "summary": "Tangles Review: The Gay Nineties collide with a high-strung Jewish family in a shattering animated film about dementia.",
+      "url": "https://www.ign.com/articles/tangles-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T13:00:00+00:00"
+    },
+    {
+      "id": "f7350593ed971229912d7ed2",
+      "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
+      "summary": "Take-Two appears to be taking on the many GTA 6 PC ports currently in the works following Cyberleek’s alleged release of an unauthorized Xbox build of the game.",
+      "url": "https://www.ign.com/articles/take-two-appears-to-be-trying-to-scrub-gta-6-pc-ports-from-the-internet-as-vibecoders-race-toward-controversial-world-first",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T12:44:11+00:00"
+    },
+    {
+      "id": "452207bed3e98af80cb309fe",
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
       "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-25T03:54:43+00:00"
+      "publishedAt": "2026-11-25T12:42:11+00:00"
+    },
+    {
+      "id": "9cddd2923cd114663603e563",
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T12:24:12+00:00"
+    },
+    {
+      "id": "8860d48aacb233d44e0b2896",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T12:21:49+00:00"
+    },
+    {
+      "id": "af31c7c53dd94f6792237408",
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T12:20:17+00:00"
+    },
+    {
+      "id": "fa7616b70d37ec4ebf7258d4",
+      "title": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+      "summary": "The actor behind one of the best GTA characters of all time has started working his way through GTA 6. Manny Perez, who plays Raul Bautista, bought a PS5 just so he could play.",
+      "url": "https://www.ign.com/articles/raul-bautista-actor-manny-perez-playing-gta-6",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T11:51:09+00:00"
+    },
+    {
+      "id": "896e1514f28580d50309951c",
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T11:45:16+00:00"
+    },
+    {
+      "id": "e01eee8c242ff3852465f7c0",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-25T10:52:09+00:00"
+    },
+    {
+      "id": "17202d425c99d460ad575f9b",
+      "title": "Les dangereuses complaisances de Donald Trump envers Nvidia",
+      "summary": "En faisant de la prospérité de Wall Street un impératif supérieur au respect de la loi, le président américain encourage les dérives du secteur de la tech, dont l’économie américaine dépend déjà fortement.",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/25/les-dangereuses-complaisances-de-donald-trump-envers-nvidia_6815082_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-25T10:30:08+00:00"
+    },
+    {
+      "id": "5f9b1310d8321e01bf2a183d",
+      "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version",
+      "summary": "The tech experts at Digital Foundry have revealed their analysis of GTA 6, and found the game performs “meaningfully better” on Xbox Series X than the base PS5.",
+      "url": "https://www.ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T10:15:45+00:00"
+    },
+    {
+      "id": "a9400999821b8863eb159e2a",
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-25T10:11:34+00:00"
+    },
+    {
+      "id": "236306dac77f5aee3a64d192",
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC Technology",
+      "country": "uk",
+      "category": "technology",
+      "publishedAt": "2026-11-25T10:03:12+00:00"
+    },
+    {
+      "id": "b23be74aed2c5a3e6cddaf60",
+      "title": "IA et travail : « On peut se borner à remplacer les emplois existants, mais on peut aussi repenser le travail et la formation professionnelle »",
+      "summary": "Un ralentissement dans le développement de l’intelligence artificielle ne donnerait pas à la Chine un avantage décisif, mais permettrait de préserver emploi et stabilité et d’éviter un carnage social, affirme l’économiste Raghuram G. Rajan dans une chronique au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/25/ia-et-travail-on-peut-se-borner-a-remplacer-les-emplois-existants-mais-on-peut-aussi-repenser-le-travail-et-la-formation-professionnelle_6815063_3232.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-25T08:00:11+00:00"
+    },
+    {
+      "id": "1badd9ae927176c4527dea8a",
+      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+      "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T07:26:54+00:00"
+    },
+    {
+      "id": "e491762af4831c036ab10df5",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T07:08:22+00:00"
+    },
+    {
+      "id": "ea4f344dd1eb9a388832c790",
+      "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+      "summary": "Rockstar chopped out a temporary stat buff from GTA 6, although players down under may not ever really notice it.",
+      "url": "https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T06:55:24+00:00"
+    },
+    {
+      "id": "e4641e2704e37937bffb8012",
+      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T06:00:36+00:00"
+    },
+    {
+      "id": "06387933a8b796721536b961",
+      "title": "Le succès des IA chinoises auprès des entreprises met les leaders Anthropic et OpenAI sous pression",
+      "summary": "Moins coûteux que les outils américains et pouvant être installés sur des serveurs propres aux entreprises, les modèles ouverts de DeepSeek, Moonshot AI, Z.ai ou Alibaba grignotent des parts de marché.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/25/le-succes-des-ia-chinoises-aupres-des-entreprises-met-les-leaders-anthropic-et-openai-sous-pression_6815050_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-25T05:30:01+00:00"
+    },
+    {
+      "id": "4a12f0d7e60f64be18e28caf",
+      "title": "The Lord of the Rings: The Rings of Power Season 3 Finale Recap and Review",
+      "summary": "While the final two episodes of The Rings of Power Season 3 have some exciting fan moments, they ultimately prove to be more about set-up than payoff.",
+      "url": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-season-3-finale-episode-7-8-review",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T04:54:19+00:00"
     },
     {
       "id": "2ce7797d46365f9c24d3c188",
@@ -35,19 +288,19 @@
       "publishedAt": "2026-11-25T03:28:37+00:00"
     },
     {
-      "id": "7ff51e3c05020e18839b2da4",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "id": "43bded4b44ec24293bc44b75",
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "source": "BBC Technology",
+      "source": "BBC World",
       "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-25T02:59:27+00:00"
+      "category": "general",
+      "publishedAt": "2026-11-25T03:15:12+00:00"
     },
     {
-      "id": "0f1847e373e5603ac460e5a1",
-      "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+      "id": "87f4d1a9ed81798ddb39634d",
+      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
       "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
       "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -57,8 +310,8 @@
       "publishedAt": "2026-11-25T01:51:43+00:00"
     },
     {
-      "id": "88530c7b0e996da46d2ca0fb",
-      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "id": "09169554c39788ad5513c3ae",
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
       "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
       "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -66,6 +319,17 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-25T01:40:42+00:00"
+    },
+    {
+      "id": "efb455577990b35f8b75baa6",
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
+      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T01:03:05+00:00"
     },
     {
       "id": "ab03bd24353ec7a57a2e6ef1",
@@ -101,19 +365,8 @@
       "publishedAt": "2026-11-25T00:58:34+00:00"
     },
     {
-      "id": "d8a8d937f8613cc31f7121b3",
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T00:56:51+00:00"
-    },
-    {
-      "id": "0be18eb8add99401a219fb54",
-      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "id": "d8560b94f5b8dd65a88d45cb",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
       "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -167,8 +420,8 @@
       "publishedAt": "2026-11-24T23:30:00+00:00"
     },
     {
-      "id": "d428cee49e4162b405cea8bd",
-      "title": "L’influenceur Tibo InShape dépose plainte après une action devant son domicile revendiquée par un groupuscule identitaire",
+      "id": "82052c6c5c64c7cefd904849",
+      "title": "L’influenceur Tibo InShape dépose plainte à la suite d’une action devant son domicile revendiquée par un groupuscule identitaire",
       "summary": "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie. Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile.",
       "url": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
       "imageUrl": null,
@@ -178,8 +431,8 @@
       "publishedAt": "2026-11-24T23:20:22+00:00"
     },
     {
-      "id": "4d238e8531b0a3e8c7ed38d7",
-      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "id": "a52c28a06068d15bb993f3fe",
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
       "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
       "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -211,8 +464,8 @@
       "publishedAt": "2026-11-24T22:50:25+00:00"
     },
     {
-      "id": "ef26d70b5816de798ce531cf",
-      "title": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
+      "id": "997fe204ae7bc43b7e5343f5",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
       "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
       "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -318,7 +571,7 @@
       "source": "Le Monde Pixels",
       "country": "fr",
       "category": "technology",
-      "publishedAt": "2026-11-24T20:48:06+00:00"
+      "publishedAt": "2026-11-24T20:48:04+00:00"
     },
     {
       "id": "ea9c20717e75da17b01d4b1c",
@@ -332,116 +585,6 @@
       "publishedAt": "2026-11-24T20:36:14+00:00"
     },
     {
-      "id": "fdc14ed4c9641bd6a823981e",
-      "title": "Cyberpunk 2 Is Still a Ways Out, but CD Projekt Red Says Its RPGs Will Come Out Faster in the Future",
-      "summary": "We are still two years out from The Witcher 4, but Ciri's big breakout adventure isn't the only massive RPG cooking at CD Projekt Red. It sounds like development on Cyberpunk 2 is carrying on smoothly, though it's still very early in its development cycle.",
-      "url": "https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-24T20:21:54+00:00"
-    },
-    {
-      "id": "94116e4e693ac37b293b76af",
-      "title": "Get Your Mac Running Like New Again With a CleanMyMac Free Trial",
-      "summary": "While many products claim to speed up your Mac with a single click, CleanMyMac actually delivers on that promise. It's been downloaded over 29 million times and is notarized by Apple to ensure it's safe to download and run on your computer.",
-      "url": "https://www.ign.com/articles/get-your-mac-running-like-new-again-with-a-cleanmymac-free-trial",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-24T20:02:50+00:00"
-    },
-    {
-      "id": "77d5dfeee4bcc121e7f9ee68",
-      "title": "PlayStation Secures Marketing Agreement for The Witcher 4",
-      "summary": "CD Projekt Red has signed a marketing deal with PlayStation for The Witcher 4.",
-      "url": "https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-24T19:59:13+00:00"
-    },
-    {
-      "id": "232070ef4b2d1a48e6041a73",
-      "title": "Over Half of GTA 6 Watch Time Came From Viewers Under 25 Years Old",
-      "summary": "The bulk of fans watching streams of GTA 6 are under 25 years old, according to recent stats compiled by StreamsCharts.",
-      "url": "https://www.ign.com/articles/over-half-of-gta-6-watch-time-came-from-viewers-under-25-years-old",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-24T19:51:54+00:00"
-    },
-    {
-      "id": "35f40c8ee77ae45e5ba72e70",
-      "title": "Christmas Movies on 4K Are $9.99 in Amazon’s Black Friday Sale",
-      "summary": "",
-      "url": "https://www.ign.com/articles/christmas-movies-4k-blu-ray-on-sale-amazon-black-friday-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-24T19:50:03+00:00"
-    },
-    {
-      "id": "41caa20c4280746633879a14",
-      "title": "The Newest Apple Watch SE 3 Just Dropped to a New Price Low for Black Friday",
-      "summary": "The least expensive Apple Watch is now even cheaper.",
-      "url": "https://www.ign.com/articles/apple-watch-se-3-deal-november-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-24T19:40:00+00:00"
-    },
-    {
-      "id": "7a89d136bdf28bb33d5f6963",
-      "title": "Select LEGO Mario Sets Are on Sale for Black Friday, Including a New Low Price for the Luigi & Mach 8 Set",
-      "summary": "Select LEGO Mario sets are seeing some big discounts for Black Friday, including the Luigi & Mach 8 set which has hit a new all-time low price at Walmart.",
-      "url": "https://www.ign.com/articles/select-lego-mario-sets-are-on-sale-for-black-friday-including-a-new-low-price-for-the-luigi-mach-8-set",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-24T19:30:00+00:00"
-    },
-    {
-      "id": "b48cd430a69b3f8428c48509",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T19:27:23+00:00"
-    },
-    {
-      "id": "6671aadfbbcf31a65fb2ba54",
-      "title": "Kevin Feige and the Russo Brothers are Planning a Special Tribute to Patrick Stewart as Avengers: Doomsday Release Approaches",
-      "summary": "Marvel Studios boss Kevin Feige has revealed that he and the Russo brothers are creating a tribute to honor the late great Patrick Stewart in light of his final performance in Avengers: Doomsday.",
-      "url": "https://www.ign.com/articles/kevin-feige-and-the-russo-brothers-are-planning-a-special-tribute-to-patrick-stewart-as-avengers-doomsday-release-approaches",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-24T19:25:55+00:00"
-    },
-    {
-      "id": "84b40c02193c1005844fd742",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T19:10:31+00:00"
-    },
-    {
       "id": "72a3f51f3cecdba684f26b99",
       "title": "Faisal Islam: Fears over the AI boom haven't gone away",
       "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
@@ -451,39 +594,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-24T18:21:43+00:00"
-    },
-    {
-      "id": "8a09b5723eb42c845a0bdcc1",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T18:07:46+00:00"
-    },
-    {
-      "id": "fc33d6533e8a26f444dd14e0",
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T17:04:00+00:00"
-    },
-    {
-      "id": "3bf7c665d51d005cad932e9c",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T16:49:07+00:00"
     },
     {
       "id": "8dc55ba4f5980d053d729c6c",
@@ -508,28 +618,6 @@
       "publishedAt": "2026-11-24T15:35:53+00:00"
     },
     {
-      "id": "074ef6040d6b1bf556be5c5b",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T15:17:28+00:00"
-    },
-    {
-      "id": "b7f314f4608afe772d20708e",
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T12:45:43+00:00"
-    },
-    {
       "id": "2d62e697e891189b8050170f",
       "title": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
       "summary": "Le quotidien britannique s’appuie sur les dernières déclarations financières du président américain, qui font état d’une détention possible de jusqu’à 370 000 actions Nvidia au 30 septembre.",
@@ -539,39 +627,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-24T11:56:00+00:00"
-    },
-    {
-      "id": "09bcc642a3afbebb55b291f5",
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T11:45:52+00:00"
-    },
-    {
-      "id": "a838053537fb49ecb1fc5174",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T11:10:57+00:00"
-    },
-    {
-      "id": "b30123a4de0937514ca1f177",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T10:58:51+00:00"
     },
     {
       "id": "082b2bfaf1fcf32ad99f223c",
@@ -629,17 +684,6 @@
       "publishedAt": "2026-11-24T09:09:41+00:00"
     },
     {
-      "id": "aebb7d15bba10da2bae8ab59",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T07:26:27+00:00"
-    },
-    {
       "id": "04b83e09b56393ce171057a0",
       "title": "Jensen Huang réintégré chez Nvidia : ce qu’il faut en retenir",
       "summary": "Le conseil d’administration de Nvidia a annoncé, lundi, la réintégration immédiate de Jensen Huang à la tête du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande. Son retour a provoqué un bond de 31 % de Nvidia en Bourse. Plusieurs parlementaires, démocrates et républicains, réclam",
@@ -649,17 +693,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-24T07:04:02+00:00"
-    },
-    {
-      "id": "63814df83e93c388df0b369d",
-      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
-      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T06:23:01+00:00"
     },
     {
       "id": "2de1c34969f15b3f52ded49f",
@@ -684,28 +717,6 @@
       "publishedAt": "2026-11-24T01:21:41+00:00"
     },
     {
-      "id": "ab557c98f0cae280596f7e66",
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T00:23:25+00:00"
-    },
-    {
-      "id": "68b02b9c7d1ed8b95e64519a",
-      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-      "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T00:02:15+00:00"
-    },
-    {
       "id": "df98d14a5493ec479dfd21da",
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
@@ -715,17 +726,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-23T23:16:08+00:00"
-    },
-    {
-      "id": "554f608037963fd10c7b75ae",
-      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-23T21:24:47+00:00"
     },
     {
       "id": "0da79b585f98bce0bc8e55f9",
@@ -748,28 +748,6 @@
       "country": "uk",
       "category": "general",
       "publishedAt": "2026-11-23T18:49:19+00:00"
-    },
-    {
-      "id": "d4e9ecf7207a2f478a9f294e",
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-23T18:04:20+00:00"
-    },
-    {
-      "id": "e6f417da831768463222c542",
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-23T17:14:50+00:00"
     },
     {
       "id": "864e7501d921c1cd57c7cfd6",
@@ -814,17 +792,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-23T14:08:50+00:00"
-    },
-    {
-      "id": "823e313cfe6e2aa6cfa7b0d7",
-      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-23T13:09:52+00:00"
     },
     {
       "id": "107673a875c0ab2fed01f730",
@@ -915,50 +882,6 @@
       "publishedAt": "2026-11-22T17:00:10+00:00"
     },
     {
-      "id": "6bd594678cd0062dbe6522ea",
-      "title": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
-      "summary": "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-22T05:55:03+00:00"
-    },
-    {
-      "id": "9a1895079e560aaafb27d29e",
-      "title": "La défiance contre les data centers devient mondiale, de l’Inde au Chili en passant par l’Irlande ou le Japon",
-      "summary": "Ces gigantesques installations ne suscitent pas la colère qu’aux Etats-Unis. Elles apparaissent sur tous les continents où elles provoquent les mêmes inquiétudes : exploitation excessive des ressources naturelles, consommation effrénée d’énergie, opacité. Face aux intérêts en jeu, la résistance ne fait pas toujours le poids.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/22/data-centers-la-defiance-monte-partout-dans-le-monde-de-l-inde-au-chili-en-passant-par-l-irlande-ou-le-japon_6814186_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-22T05:30:06+00:00"
-    },
-    {
-      "id": "67c2895625c64f1ee3911877",
-      "title": "« Plus ça respire en dessous de la ceinture, mieux mes petits gars se portent » : le « spermaxxing », des recettes masculinistes parfois dangereuses pour tenter de booster la santé de ses gamètes",
-      "summary": "Sortie du sillage de la sphère masculiniste en ligne pour s’étendre à la jeunesse grand public, cette tendance sur les réseaux sociaux encourage les hommes à suivre une diététique codifiée, afin de doper leur fertilité.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/11/22/plus-ca-respire-en-dessous-de-la-ceinture-mieux-mes-petits-gars-se-portent-le-spermaxxing-pour-booster-la-sante-de-ses-gametes_6814177_4497916.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-22T05:00:20+00:00"
-    },
-    {
-      "id": "29c17d9088a182a6b16cb993",
-      "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
-      "summary": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis et Israël se sont opposés à l’ouverture de négociations pour un traité international sur ce type d’armes.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-21T12:36:49+00:00"
-    },
-    {
       "id": "99a072aea98fac7e085697a1",
       "title": "Tech Now",
       "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
@@ -968,28 +891,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-21T01:00:00+00:00"
-    },
-    {
-      "id": "aa1e3204ccf2b0fadfb3ff04",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-21T00:06:11+00:00"
-    },
-    {
-      "id": "08f4bae771e870b6e5ad99db",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC Technology",
-      "country": "uk",
-      "category": "technology",
-      "publishedAt": "2026-11-20T23:08:57+00:00"
     },
     {
       "id": "15ce7fa6f982e5e241c1bbb0",
