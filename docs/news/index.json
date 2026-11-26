@@ -1,6 +1,237 @@
 {
-  "updatedAt": "2026-11-25T23:54:45.396502+00:00",
+  "updatedAt": "2026-11-26T06:03:35.693913+00:00",
   "items": [
+    {
+      "id": "22b950dd5dd91c53ffe6014a",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T04:10:58+00:00"
+    },
+    {
+      "id": "b0603463b2e5d27bc323af8d",
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T04:04:14+00:00"
+    },
+    {
+      "id": "e3bbf0fb34d4e50bd2a2f977",
+      "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+      "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T03:27:33+00:00"
+    },
+    {
+      "id": "95742d3c0137f621d0fa400a",
+      "title": "Save Big on Viture’s XR Glasses for Black Friday",
+      "summary": "One of the best extended reality glasses out there.",
+      "url": "https://www.ign.com/articles/big-savings-on-vitures-xr-glasses-for-black-friday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-26T03:26:35+00:00"
+    },
+    {
+      "id": "82a6a283c1efc74299608218",
+      "title": "Save 25% on the Trending Meta Ray-Ban AI 2nd Generation Glasses During Amazon's Black Friday Sale",
+      "summary": "The #1 selling AI glasses are now on sale.",
+      "url": "https://www.ign.com/articles/save-25-on-meta-ray-ban-ai-glasses-for-black-friday",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-26T02:53:27+00:00"
+    },
+    {
+      "id": "4a07b576a2b434f859178079",
+      "title": "reMarkable’s Super Digital Reader Bundle Lets You Get More Than Double the Savings",
+      "summary": "Grab two bundles and get even more savings.",
+      "url": "https://www.ign.com/articles/remarkables-super-digital-reader-bundle-lets-you-get-more-than-double-the-savings",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-26T02:30:00+00:00"
+    },
+    {
+      "id": "10e6a7a5250e2642c39ea7f5",
+      "title": "Nex Playground Hits Lowest Price This Year for Black Friday",
+      "summary": "Get kids moving with this family-friendly motion-controlled gaming system",
+      "url": "https://www.ign.com/articles/nex-playground-deal-black-friday-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-26T02:19:36+00:00"
+    },
+    {
+      "id": "a0d3e908959427a4d80ae3ac",
+      "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+      "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+      "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T02:06:10+00:00"
+    },
+    {
+      "id": "3641acc050080f3ef171cd8b",
+      "title": "SpaceX reçoit l’autorisation de lancer jusqu’à un million de satellites pour ses centres de données spatiaux",
+      "summary": "La course aux data centers spatiaux s’intensifie, l’espace offrant de nombreux avantages par rapport à la terre. Google mène ses propres travaux et Blue Origin a soumis une demande pour son projet.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/26/spacex-recoit-l-autorisation-de-lancer-jusqu-a-un-million-de-satellites-pour-ses-centres-de-donnees-spatiaux_6815331_1650684.html",
+      "imageUrl": null,
+      "source": "Le Monde Pixels",
+      "country": "fr",
+      "category": "technology",
+      "publishedAt": "2026-11-26T01:52:26+00:00"
+    },
+    {
+      "id": "3fb05080d43e93d05bac3892",
+      "title": "The Best Gift Ideas at Men's Wearhouse This Holiday Season",
+      "summary": "A great way to refresh the closet.",
+      "url": "https://www.ign.com/articles/mens-wearhouse-holiday-gift-ideas-2026",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-26T01:30:00+00:00"
+    },
+    {
+      "id": "86e5136cde2f698cc9dd4723",
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T01:22:55+00:00"
+    },
+    {
+      "id": "ab84481593658b9057cae22c",
+      "title": "We Build LEGO Godzilla, Who Will Tower Over Your Other LEGO Models",
+      "summary": "",
+      "url": "https://www.ign.com/articles/lego-godzilla-review-21375",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-26T00:57:38+00:00"
+    },
+    {
+      "id": "47255584d07e257084b1b842",
+      "title": "Rockstar Explains Why it Added Consequences to GTA 6's Violence and Crimes",
+      "summary": "Rockstar Games boss Rob Nelson has explained why the studio added the divisive criminal profile system to GTA 6.",
+      "url": "https://www.ign.com/articles/rockstar-explains-why-it-added-consequences-to-gta-6s-violence-and-crimes",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-26T00:36:48+00:00"
+    },
+    {
+      "id": "b7de0cb4a331bcd95c98892f",
+      "title": "T-Mobile Is Offering $1,200 Off Discount on the Apple iPhone Duo Foldable Smartphone for Black Friday",
+      "summary": "Apple's biggest iPhone update in years.",
+      "url": "https://www.ign.com/articles/t-mobiles-apple-iphone-duo-black-friday-deal",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-26T00:30:00+00:00"
+    },
+    {
+      "id": "e23e37f369e01a35d615ff2b",
+      "title": "The US pastor who wants to see women's right to vote overturned",
+      "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T00:24:25+00:00"
+    },
+    {
+      "id": "86fd491e22df3163c74486e7",
+      "title": "Spanish elections: What you need to know and what's at stake",
+      "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T00:23:49+00:00"
+    },
+    {
+      "id": "7f569c34f772a33ae9a9ce40",
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T00:23:27+00:00"
+    },
+    {
+      "id": "cfaabf4c81030a4b8b4d5857",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T00:23:05+00:00"
+    },
+    {
+      "id": "060d1118a66f813e09969cf3",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-26T00:22:18+00:00"
+    },
+    {
+      "id": "ee9d484abb6ca502874bede4",
+      "title": "Proton’s Black Friday Deal Brings Our Favorite VPN Down to Its Lowest Price Yet",
+      "summary": "Get two years for 75% off.",
+      "url": "https://www.ign.com/articles/proton-black-friday-deal-brings-our-favorite-vpn-down-to-its-lowest-price-yet",
+      "imageUrl": null,
+      "source": "IGN All",
+      "country": "us",
+      "category": "gaming",
+      "publishedAt": "2026-11-25T23:45:00+00:00"
+    },
+    {
+      "id": "9b5d80bbbe9d508ceac1bdf4",
+      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+      "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T23:26:50+00:00"
+    },
     {
       "id": "cc9e9c783fd1fcec91f37d85",
       "title": "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
@@ -11,6 +242,17 @@
       "country": "us",
       "category": "gaming",
       "publishedAt": "2026-11-25T23:19:11+00:00"
+    },
+    {
+      "id": "f57451aba389e89d9fbba57a",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T23:18:27+00:00"
     },
     {
       "id": "5a6f0b73458d524f2d84a333",
@@ -156,37 +398,15 @@
       "publishedAt": "2026-11-25T20:25:00+00:00"
     },
     {
-      "id": "abadbe9b087dfb724718d10f",
-      "title": "'People Are Doing It Too Quickly Now' — The Hunger Games: Sunrise on the Reaping Director Speaks Out on YA Franchise Reboots",
-      "summary": "I got the chance to sit down with the director of The Hunger Games: Sunrise on the Reaping, Francis Lawrence, who opened up about the amount of remakes happening in Hollywood and how he would feel if The Hunger Games series ever got rebooted.",
-      "url": "https://www.ign.com/articles/people-are-doing-it-too-quickly-now-the-hunger-games-sunrise-on-the-reaping-director-speaks-out-on-ya-franchise-reboots",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T20:14:57+00:00"
-    },
-    {
-      "id": "dbd00df54eeb4565af72c383",
-      "title": "GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That",
-      "summary": "GTA 6 gives players a lot of freedom in how the story and quests play out, but it came at the cost of letting players replay missions, according to Rockstar.",
-      "url": "https://www.ign.com/articles/gta-6-doesnt-let-you-replay-missions-and-rockstar-says-theres-a-good-reason-for-that",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T20:12:21+00:00"
-    },
-    {
-      "id": "cfaabf4c81030a4b8b4d5857",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "id": "f222d4892d2feae4c03e17bf",
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "summary": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-25T19:54:52+00:00"
+      "publishedAt": "2026-11-25T20:11:46+00:00"
     },
     {
       "id": "af427a2ca9f4e317efd660c8",
@@ -200,59 +420,15 @@
       "publishedAt": "2026-11-25T19:47:39+00:00"
     },
     {
-      "id": "7a4a5b52c16abe2786f603e6",
-      "title": "The $749 ABS Cyclone RTX 5060 Gaming PC Is More Powerful AND Less Expensive Than the Steam Machine",
-      "summary": "Capable 1080p gaming rig with room for future upgrades.",
-      "url": "https://www.ign.com/articles/abs-cyclone-rtx-5060-gaming-pc-deal-black-friday-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T19:35:00+00:00"
-    },
-    {
-      "id": "e491762af4831c036ab10df5",
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "id": "918f6ea0a71a269dd5defbb9",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-25T19:26:44+00:00"
-    },
-    {
-      "id": "7f945831fe08f6503dc99a4d",
-      "title": "'It Would Be Absolutely Incredible' — Hideki Kamiya Wants to Make a New Castlevania Game With Konami",
-      "summary": "Hideki Kamiya, the mind behind Devil May Cry, Bayonetta, and Okami, wants to make a new Castlevania game, saying his team at CLOVERS could make something “absolutely incredible.”",
-      "url": "https://www.ign.com/articles/it-would-be-absolutely-incredible-hideki-kamiya-wants-to-make-a-new-castlevania-game-with-konami",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T19:25:26+00:00"
-    },
-    {
-      "id": "d03845fcaa44a41bfe73473b",
-      "title": "The Beats Studio Pro Noise Canceling Headphones Drops Below $100 For the First Time for Black Friday",
-      "summary": "The best noise canceling headphone deal you can get right now.",
-      "url": "https://www.ign.com/articles/beats-studio-pro-noise-canceling-headphones-deal-black-friday-sale-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T19:20:00+00:00"
-    },
-    {
-      "id": "3a421a2b9b10e2bd9b0a9949",
-      "title": "Metroid Dread Has Been Sold Out for Ages, and Is Now in Stock at a Steep Discount",
-      "summary": "Metroid Dread is now only £33.29 in Nintendo's Black Friday sale, with a 33% discount and free poster after physical copies sold out.",
-      "url": "https://www.ign.com/articles/metroid-dread-nintendo-switch-black-friday-deal",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T19:00:00+00:00"
+      "publishedAt": "2026-11-25T19:38:05+00:00"
     },
     {
       "id": "780c8c1f67bd06e8526af869",
@@ -277,39 +453,6 @@
       "publishedAt": "2026-11-25T18:41:33+00:00"
     },
     {
-      "id": "92c9e1307dae842f2587d3cd",
-      "title": "Samsung Nintendo Switch 2 MicroSD Express Memory Cards Are on Sale for Black Friday",
-      "summary": "Tested and vetted at IGN.",
-      "url": "https://www.ign.com/articles/samsung-nintendo-switch-2-memory-cards-are-on-sale-for-black-friday",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T18:35:00+00:00"
-    },
-    {
-      "id": "3c355e316ad8b21f6fc8d55f",
-      "title": "The Talix 20,000mAh 140W Laptop Power Bank Drops to $36 Ahead of Black Friday",
-      "summary": "Fast charges the most powerful handheld gaming PCs or MacBook Pro laptops, with style.",
-      "url": "https://www.ign.com/articles/talix-20000mah-140w-laptop-power-bank-deal-black-friday-2026",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T18:35:00+00:00"
-    },
-    {
-      "id": "3e228e7edfb95ccbf7af4a13",
-      "title": "Subscribe to Apple Arcade and Enjoy a One-Month Free Trial Plus Access to New Launches Like NBA 2K27 Arcade Edition",
-      "summary": "Those who subscribe to Apple Arcade can enjoy a one-month free trial plus access to new launches, including Football Manager 27 Touch, NBA 2K27 Arcade Edition, and Madden NFL 27 Arcade Edition.",
-      "url": "https://www.ign.com/articles/subscribe-to-apple-arcade-and-enjoy-a-one-month-free-trial-plus-access-to-new-launches-like-nba-2k27-arcade-edition",
-      "imageUrl": null,
-      "source": "IGN All",
-      "country": "us",
-      "category": "gaming",
-      "publishedAt": "2026-11-25T18:29:05+00:00"
-    },
-    {
       "id": "231b8a7fe62dd8001c740bc5",
       "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
       "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
@@ -321,15 +464,26 @@
       "publishedAt": "2026-11-25T17:30:16+00:00"
     },
     {
-      "id": "22b950dd5dd91c53ffe6014a",
-      "title": "US announces new tariffs on host of countries including China",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "id": "257f08dc33e9a5e9760763b0",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "source": "BBC World",
       "country": "uk",
       "category": "general",
-      "publishedAt": "2026-11-25T16:21:34+00:00"
+      "publishedAt": "2026-11-25T16:42:11+00:00"
+    },
+    {
+      "id": "cb58b1093b294f08d092d4ce",
+      "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+      "summary": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "source": "BBC World",
+      "country": "uk",
+      "category": "general",
+      "publishedAt": "2026-11-25T16:23:03+00:00"
     },
     {
       "id": "40f8d6ede1375a3904e5c73b",
@@ -341,28 +495,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-25T16:02:40+00:00"
-    },
-    {
-      "id": "af31c7c53dd94f6792237408",
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T15:42:50+00:00"
-    },
-    {
-      "id": "8c7e8dcd9d0114db962cc5c5",
-      "title": "Canadian astronaut welcomes baby girl from space station",
-      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T15:41:39+00:00"
     },
     {
       "id": "aacd3799c7a1f737f381fac7",
@@ -396,17 +528,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-25T13:00:09+00:00"
-    },
-    {
-      "id": "9cddd2923cd114663603e563",
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T12:24:12+00:00"
     },
     {
       "id": "8860d48aacb233d44e0b2896",
@@ -519,72 +640,6 @@
       "publishedAt": "2026-11-25T03:28:37+00:00"
     },
     {
-      "id": "87f4d1a9ed81798ddb39634d",
-      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
-      "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
-      "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T01:51:43+00:00"
-    },
-    {
-      "id": "09169554c39788ad5513c3ae",
-      "title": "Thomas Markle charged in US for possessing child sex abuse images",
-      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T01:40:42+00:00"
-    },
-    {
-      "id": "efb455577990b35f8b75baa6",
-      "title": "Trump's rescue of Nvidia's Huang brings political risks",
-      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T01:03:05+00:00"
-    },
-    {
-      "id": "ab03bd24353ec7a57a2e6ef1",
-      "title": "The rising cost of putting food on the table in India",
-      "summary": "India's food inflation is broadening, squeezing household budgets.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T01:02:13+00:00"
-    },
-    {
-      "id": "dfd3db7252adc728846942f5",
-      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-      "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
-      "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T01:00:36+00:00"
-    },
-    {
-      "id": "4dcea09c72b4ea3f1aee5af0",
-      "title": "Clashing political visions reflect a divided Spain ahead of election",
-      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-25T00:58:34+00:00"
-    },
-    {
       "id": "d8560b94f5b8dd65a88d45cb",
       "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
@@ -616,28 +671,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-24T23:20:22+00:00"
-    },
-    {
-      "id": "a52c28a06068d15bb993f3fe",
-      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T23:05:11+00:00"
-    },
-    {
-      "id": "0258ac578fd938d490f599d4",
-      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T23:03:59+00:00"
     },
     {
       "id": "997fe204ae7bc43b7e5343f5",
@@ -783,17 +816,6 @@
       "publishedAt": "2026-11-24T04:30:09+00:00"
     },
     {
-      "id": "81f6ae34691f231ebfeab41e",
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-24T01:21:41+00:00"
-    },
-    {
       "id": "df98d14a5493ec479dfd21da",
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
@@ -814,17 +836,6 @@
       "country": "uk",
       "category": "technology",
       "publishedAt": "2026-11-23T21:23:42+00:00"
-    },
-    {
-      "id": "c7c266c7d27317152eef7abe",
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-23T18:49:19+00:00"
     },
     {
       "id": "864e7501d921c1cd57c7cfd6",
@@ -871,17 +882,6 @@
       "publishedAt": "2026-11-23T14:08:50+00:00"
     },
     {
-      "id": "107673a875c0ab2fed01f730",
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "source": "BBC World",
-      "country": "uk",
-      "category": "general",
-      "publishedAt": "2026-11-23T11:34:10+00:00"
-    },
-    {
       "id": "e42d953708628e1972d9e2e9",
       "title": "Comment les laboratoires français organisent l’accès de leurs chercheurs à l’IA",
       "summary": "Les chercheurs du CNRS ont obtenu une dérogation pour recourir aux services d’OpenAI et d’Anthropic, tandis qu’une infrastructure mutualise les ressources de plus d’une vingtaine d’établissements universitaires.",
@@ -913,17 +913,6 @@
       "country": "fr",
       "category": "technology",
       "publishedAt": "2026-11-23T05:20:06+00:00"
-    },
-    {
-      "id": "39642637234231ccf76cdf87",
-      "title": "Cryptomonnaies : comment faire le tri parmi 66 millions d’actifs possibles",
-      "summary": "Malgré les dizaines de millions de jetons numériques existant, seule une poignée d’entre eux domine le marché.",
-      "url": "https://www.lemonde.fr/argent/article/2026/11/23/cryptomonnaies-comment-faire-le-tri-parmi-66-millions-d-actifs-possibles_6814342_1657007.html",
-      "imageUrl": null,
-      "source": "Le Monde Pixels",
-      "country": "fr",
-      "category": "technology",
-      "publishedAt": "2026-11-23T05:00:00+00:00"
     },
     {
       "id": "c14c1895b839451445c8580a",
